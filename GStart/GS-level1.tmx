@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*.odb for databases</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180304T071319Z" creationid="lera" creationdate="20180304T071319Z">
+        <seg>*.odb для баз данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*.odc for charts</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180304T071426Z" creationid="lera" creationdate="20180304T071426Z">
+        <seg>*.odc для графиков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*.odf for formulas (scientific formulas and equations)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180304T071515Z" creationid="lera" creationdate="20180304T071515Z">
+        <seg>*.odf для формул (научные формулы и уравнения)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*.odg for graphics (vector drawings)</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180304T071409Z" creationid="lera" creationdate="20180304T071409Z">
+        <seg>*.odg для графики (векторные рисунки)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*.odp for presentations</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180304T071300Z" creationid="lera" creationdate="20180304T071300Z">
+        <seg>*.odp для презентаций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*.ods for spreadsheets</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180304T071242Z" creationid="lera" creationdate="20180304T071242Z">
+        <seg>*.ods для электронных таблиц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*.odt for word processing (text) documents</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180304T071227Z" creationid="lera" creationdate="20180304T071227Z">
+        <seg>*.odt для текстовых документов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools &gt; Options menu selection</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T153517Z" creationid="lera" creationdate="20180303T153517Z">
+        <seg>Сервис &gt; Параметры... menu selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A short history of LibreOffice</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T163510Z" creationid="lera" creationdate="20180303T163510Z">
+        <seg>Краткая история LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A short history of LibreOffice</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T155723Z" creationid="lera" creationdate="20180303T155723Z">
+        <seg>Краткая история LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access setup options</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T154316Z" creationid="lera" creationdate="20180303T154316Z">
+        <seg>Доступ к настройкам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access to the complete source code of the program (that is, the “blueprints”).</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T210257Z" creationid="lera" creationdate="20180303T210257Z">
+        <seg>Доступ к полному исходному коду программы (that is, the “blueprints”).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acknowledgments</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T152400Z" creationid="lera" creationdate="20180303T152400Z">
+        <seg>Благодарности</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additionally, over 450,000 people from nearly every part of the globe have joined this project with the idea of creating the best possible office suite that all can use.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T195547Z" creationid="lera" creationdate="20180303T195547Z">
+        <seg>Кроме того, более 450 000 человек из почти каждой части земного шара присоединились к этому проекту с идеей создания наилучшего офисного пакета, который могут использовать все .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After ten years’ successful growth with Sun Microsystems as founding and principle sponsor, the project launched an independent foundation called The Document Foundation, to fulfill the promise of independence written in the original charter.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T170520Z" creationid="lera" creationdate="20180303T165353Z">
+        <seg>После десятилетнего успешного роста с Sun Microsystems в качестве основателя и основного спонсора, проект основал независимый благотворительный фонд под названием The Document Foundation, чтобы осуществлять обещание независимости, записанное в первоначальном уставе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All trademarks within this guide belong to their legitimate owners.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T151856Z" creationid="lera" creationdate="20180303T151856Z">
+        <seg>Все товарные марки в этом руководстве принадлежат их владельцам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An open standard meets the following requirements:</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T212508Z" creationid="lera" creationdate="20180303T212508Z">
+        <seg>Открытый стандарт отвечает следующим требованиям:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An open standard provides a means of doing something that is independent of manufacturer or vendor, thus enabling competing software programs to freely use the same file formats.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T212418Z" creationid="lera" creationdate="20180303T212418Z">
+        <seg>Открытый стандарт предоставляет средства для выполнения чего-либо и не зависит от производителя или поставщика. Это позволяет конкурирующим программам свободно использовать одни и те же форматы файлов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appendix B </seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T150923Z" creationid="lera" creationdate="20180303T150923Z">
+        <seg>Приложение B </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Based on LibreOffice 6.0.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T152810Z" creationid="lera" creationdate="20180303T152810Z">
+        <seg>Основано на LibreOffice 6.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T155626Z" creationid="lera" creationdate="20180303T155626Z">
+        <seg>Содержание</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continuing the version numbers from OpenOffice.org, LibreOffice 3.3 was released in January 2011.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T165831Z" creationid="lera" creationdate="20180303T165831Z">
+        <seg>Продолжая номера версий OpenOffice.org, LibreOffice 3.3 был выпущен в январе 2011 года.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contributors</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T151919Z" creationid="lera" creationdate="20180303T151919Z">
+        <seg>Авторы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contributors are listed below.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T151749Z" creationid="lera" creationdate="20180303T151749Z">
+        <seg>Авторы перечислены ниже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control+click and/or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T154445Z" creationid="lera" creationdate="20180303T154445Z">
+        <seg>Control+click и/или щелчок правой кнопкой мыши в зависимости от настроек ОС</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T151100Z" creationid="lera" creationdate="20180303T151100Z">
+        <seg>Авторское право</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T153312Z" creationid="lera" creationdate="20180303T153312Z">
+        <seg>Эффект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feedback</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T151949Z" creationid="lera" creationdate="20180303T151949Z">
+        <seg>Обратная связь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File formats LibreOffice can open</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180304T071805Z" creationid="lera" creationdate="20180304T071805Z">
+        <seg>Форматы файлов открываемые LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a full list of file formats that LibreOffice can read and write, see https://en.wikipedia.org/wiki/LibreOffice#Supported_file_formats</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180304T071029Z" creationid="lera" creationdate="20180304T071029Z">
+        <seg>Полный список форматов файлов, с которыми LibreOffice может открывать и сохранять, https://en.wikipedia.org/wiki/LibreOffice#Supported_file_formats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a more detailed list, see the application Help.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T153202Z" creationid="lera" creationdate="20180303T153202Z">
+        <seg>Для более подробного списка, обратитесь к справке приложения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on Free and Open Source software, visit these websites:</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T212122Z" creationid="lera" creationdate="20180303T212122Z">
+        <seg>Для получения дополнительной информации о программном обеспечении на основе свободного и открытого программного кода посетите следующие веб-сайты:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For this reason ODF is quickly becoming the preferred file format for government agencies, schools and other companies who prefer not to be too dependent on any one software supplier.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T214127Z" creationid="lera" creationdate="20180303T214127Z">
+        <seg>По этой причине ODF быстро становится предпочтительным форматом файлов для государственных учреждений, школ и других компаний, которые предпочитают не зависеть ни от одного поставщика программного обеспечения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freedom to redistribute the software for free or for a fee.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T205148Z" creationid="lera" creationdate="20180303T205148Z">
+        <seg>Свобода перераспределять программное обеспечение бесплатно или за определенную плату.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Getting Started Guide</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T150819Z" creationid="lera" creationdate="20180303T150819Z">
+        <seg>Руководство по началу работы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML, XML, and ODF are examples of open standards for documents.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T212449Z" creationid="lera" creationdate="20180303T212449Z">
+        <seg>HTML, XML и ODF являются примерами открытых стандартов документов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How is LibreOffice licensed?</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T155801Z" creationid="lera" creationdate="20180303T155801Z">
+        <seg>Как лицензируется LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are new to LibreOffice, this appendix will provide some information regarding its history, its community, and some of its technical specifications.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T163429Z" creationid="lera" creationdate="20180303T163429Z">
+        <seg>Если вы только начали использовать LibreOffice, Приложение B предоставит вам информацию о истории пакета, его сообществе и некоторых его технических характеристиках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In February 2012, The Document Foundation was incorporated in Berlin as a German Stiftung.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T170505Z" creationid="lera" creationdate="20180303T170505Z">
+        <seg>В феврале 2012, The Document Foundation была зарегисрирована в Берлине как German Stiftung (немецкий некомерческий фонд).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T155718Z" creationid="lera" creationdate="20180303T155718Z">
+        <seg>Введение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be freely copied, distributed and used.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T212903Z" creationid="lera" creationdate="20180303T212903Z">
+        <seg>Он может свободно копироваться, распространяться и использоваться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is open source software and therefore free to download, use, and distribute.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T163230Z" creationid="lera" creationdate="20180303T163230Z">
+        <seg>Это программное обеспечение с открытым исходным кодом и, следовательно, бесплатно для загрузки, использования и распространения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is publicly available, royalty-free, and without legal or other restrictions; therefore ODF files are not tied to a specific office suite and anybody can build a program that interprets these files.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T214023Z" creationid="lera" creationdate="20180303T213942Z">
+        <seg>Он является общедоступным, не требующий лицензионных отчислений и без юридических или иных ограничений; поэтому файлы ODF не привязаны к конкретному офисному пакету, и любой может создать программу, которая интерпретирует эти файлы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is standardized and maintained in an independent, open forum (also called “standards organization”) using an open process.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T213233Z" creationid="lera" creationdate="20180303T213233Z">
+        <seg>Он стандартизирован и поддерживается на независимом открытом форуме (также называемом «организация стандартов») с использованием открытого процесса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is well documented with the complete specification publicly available, either free or at a nominal charge.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T212838Z" creationid="lera" creationdate="20180303T212838Z">
+        <seg>Он хорошо документирован с полной доступной спецификацией, и либо бесплатен, либо имеет символическую стоимость.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice 3 adopted version 1.2 of the OpenDocument standard and LibreOffice 5 continues to use this standard.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180304T061446Z" creationid="lera" creationdate="20180304T061446Z">
+        <seg>Стандарт OpenDocument версии 1.2 начал использоваться с LibreOffice 3, а LibreOffice 6 продолжает использовать этот стандарт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice can also open and save many other file formats, as summarized below.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180304T061546Z" creationid="lera" creationdate="20180304T061546Z">
+        <seg>Также LibreOffice, как описано ниже, может открывать и сохранять многие другие форматы файлов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice is a productivity suite that is compatible with other major office suites and available on a variety of platforms.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T163224Z" creationid="lera" creationdate="20180303T163224Z">
+        <seg>LibreOffice - это пакет приложений для продуктивной работы, доступный на различных платформах и совместимый с другими крупными офисными пакетами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice is distributed under the Mozilla Public License (MPL) 2.0.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T202357Z" creationid="lera" creationdate="20180303T202357Z">
+        <seg>LibreOffice распростроняется под лицензией Mozilla Public License (MPL) 2.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice saves documents in OpenDocument Format by default.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T214156Z" creationid="lera" creationdate="20180303T214156Z">
+        <seg>LibreOffice по умолчанию сохраняет документы в формате OpenDocument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mac equivalent</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T153259Z" creationid="lera" creationdate="20180303T153259Z">
+        <seg>Эквивалент Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Major updates to OpenOffice.org included version 2.0 in October 2005 and version 3.0 in October 2008.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T164623Z" creationid="lera" creationdate="20180303T164623Z">
+        <seg>Обновления основных версий для OpenOffice.org включали версию 2.0 в октябре 2005 и версию 3.0 в октябре 2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New functionality can be added in the form of extensions.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T200659Z" creationid="lera" creationdate="20180303T200659Z">
+        <seg>Новая функциональность может быть добавлена в виде расширений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note for Mac users</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T152916Z" creationid="lera" creationdate="20180303T152916Z">
+        <seg>Замечание для пользователей Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T152118Z" creationid="lera" creationdate="20180303T152118Z">
+        <seg>Примечание: Всё, что вы отправите в список рассылки, включая ваш адрес электронной
+почты и любые персональные данные в сообщении, будут доступны публично и не могут быть удалены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On January 26, 2010, Oracle Corporation acquired Sun Microsystems.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T164822Z" creationid="lera" creationdate="20180303T164716Z">
+        <seg>26 января 2010 года корпорация Oracle преобрела Sun Microsystems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On September 28, 2010, the community of volunteers who develop and promote OpenOffice.org announce a major change in project structure.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T164930Z" creationid="lera" creationdate="20180303T164756Z">
+        <seg>28 сентября 2010, сообщество добровольцев, которые разрабатывали и продвигали OpenOffice.org, объявли о значительных изменениях в структуре проекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Source, Open Standards, OpenDocument</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T151011Z" creationid="lera" creationdate="20180303T151011Z">
+        <seg>Свободное програмное обеспечение, Открытые стандарты, OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open a context menu</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T155200Z" creationid="lera" creationdate="20180303T155200Z">
+        <seg>Открывает контекстное меню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the Navigator</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T155452Z" creationid="lera" creationdate="20180303T155452Z">
+        <seg>Открыть окно навигатора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the Styles and Formatting window</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T155536Z" creationid="lera" creationdate="20180303T155536Z">
+        <seg>Открыть окно стилей и форматирования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenDocument (ODF) is an XML-based file format for office documents (text documents, spreadsheets, drawings, presentations and more), developed at OASIS (http://www.oasis-open.org/who/), an independent, international standards group.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T213607Z" creationid="lera" creationdate="20180303T213607Z">
+        <seg>OpenDocument (ODF) - это формат файлов для офисных документов (текстовых, электронных таблиц, рисунков, презентаций и т.д.) на основе XML , разработанный в OASIS  (http://www.oasis-open.org/who/), независимой международной группой стандартизации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenDocument filename extensions</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180304T071110Z" creationid="lera" creationdate="20180304T071110Z">
+        <seg>Расширение имён файлов OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenDocument version 1.2 was adopted by the International Standards Organization and named ISO IEC 26300:2015 standard.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T213713Z" creationid="lera" creationdate="20180303T213713Z">
+        <seg>OpenDocument версии 1.2 был принят Международной организацией по стандартизации и назван стандартом ISO IEC 26300:2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenOffice.org 1.0, the product, was released on April 30, 2002.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T164437Z" creationid="lera" creationdate="20180303T164437Z">
+        <seg>OpenOffice.org 1.0, как программа, был выпущен 30 апреля 2002.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>People improve it, people adapt it, people fix bugs.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T211954Z" creationid="lera" creationdate="20180303T211954Z">
+        <seg>Люди улучшают его, люди адаптируют его, люди исправляют ошибки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: documentation@global.libreoffice.org</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T172854Z" creationid="lera" creationdate="20180303T152036Z">
+        <seg>Пожалуйста направляйте все комментарии и замечания об этом документе в список рассылки команды документации:  documentation@global.libreoffice.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Publication date and software version</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T152709Z" creationid="lera" creationdate="20180303T152709Z">
+        <seg>Дата публикации английской версии и версия програмного обеспечения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Published 16 February 2018.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T152759Z" creationid="lera" creationdate="20180303T152759Z">
+        <seg>Опубликовано 16 февраля 2018.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-click</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T172728Z" creationid="lera" creationdate="20180303T154347Z">
+        <seg>Щелчок правой кнопкой мыши</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See https://www.libreoffice.org/about-us/licenses/</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T202406Z" creationid="lera" creationdate="20180303T202406Z">
+        <seg>Смотри https://www.libreoffice.org/about-us/licenses/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some keystrokes and menu items are different on a Mac from those used in Windows and Linux.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T153214Z" creationid="lera" creationdate="20180303T153023Z">
+        <seg>Некоторые нажатия клавиш и пункты меню отличаются на Mac от тех, которые используются в Windows и Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some of our corporate supporters include Canonical, The GNOME Foundation, Google, Novell and Red Hat.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T195405Z" creationid="lera" creationdate="20180303T195405Z">
+        <seg>В состав наших корпаративных сторонников входят Canonical, GNOME Foundation, Google, Novell и Red Hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Document Foundation’s mission is:</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T170637Z" creationid="lera" creationdate="20180303T170637Z">
+        <seg>Миссия The Document Foundation:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The LibreOffice community</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T155742Z" creationid="lera" creationdate="20180303T155742Z">
+        <seg>Сообщество LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The LibreOffice community invites contributors in all areas, including translators, software developers, graphic artists, technical writers, editors, donors, and end-user support.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T201350Z" creationid="lera" creationdate="20180303T200920Z">
+        <seg>Сообщество LibreOffice превлекает людей делающих вклады во всех областях, включая переводчиков, разработкчиков программного обеспечения, художник-оформителей, технических писателей, редакторов, благотворителей и людей, участвующих в поддержке конечных пользователей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The OpenOffice.org project began when Sun Microsystems released the source code (“blueprints”) for its StarOffice® software to the open source community on October 13, 2000.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T164411Z" creationid="lera" creationdate="20180303T164411Z">
+        <seg>Проект OpenOffice.org начался 13 октяря 2000 года, когда Sun Microsystems опубликовала исходный код (“концептуальный проект”) своего программного продукта StarOffice® для сообщества разработчиков приложений с открытым кодом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The basic idea behind open source is very simple: When programmers can read, redistribute, and modify the source code for a piece of software, the software evolves.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T211930Z" creationid="lera" creationdate="20180303T211930Z">
+        <seg>Основная идея открытого исходного кода очень проста: когда программисты могут изучать, распространять и модифицировать исходный код для части программного обеспечения, программное обеспечение развивается.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The community operates internationally in all time zones and in many languages, linked through the internet at www.libreoffice.org and www.documentfoundation.org.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T202310Z" creationid="lera" creationdate="20180303T202310Z">
+        <seg>Сообщество действует в международном масштабе во всех часовых поясах и на многих языках, связанных через Интернет на www.libreoffice.org и www.documentfoundation.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The contributors to that appendix are:</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T152626Z" creationid="lera" creationdate="20180303T152626Z">
+        <seg>Авторы того примечания:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The four essential rights of open-source software are embodied within the Free Software Foundation’s General Public License (GPL):</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T205112Z" creationid="lera" creationdate="20180303T205112Z">
+        <seg>В рамках General Public License (GPL) от Free Software Foundation были воплощены четыре основных права на программное обеспечение с открытым исходным кодом:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The intellectual property of the standard is made irrevocably available on a royalty-free basis.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T213951Z" creationid="lera" creationdate="20180303T213151Z">
+        <seg>Интеллектуальная собственность стандарта становится безоговорочно доступной на основе не требующей лицензионных отчислений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most common filename extensions used for OpenDocument documents are:</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180304T071132Z" creationid="lera" creationdate="20180304T071132Z">
+        <seg>Наиболее распространенными расширениями файлов, используемыми для документов OpenDocument, являются:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The right to modify any part of the source, or use portions of it in other programs.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T210350Z" creationid="lera" creationdate="20180303T210350Z">
+        <seg>Право изменять любую часть исходного кода или использовать его в других программах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The right to use the software for any purpose.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T205130Z" creationid="lera" creationdate="20180303T205130Z">
+        <seg>Право использовать программное обеспечение для любых целей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The software has been translated into many languages and runs on all major operating systems.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T200641Z" creationid="lera" creationdate="20180303T200641Z">
+        <seg>Программное обеспечение переведено на многие языки и работает во всех основных операционных системах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The table below gives some common substitutions for the instructions in this chapter.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T153208Z" creationid="lera" creationdate="20180303T153122Z">
+        <seg>В таблице ниже приведены некоторые общие соответсвия для инструкций в этой главе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This appendix is adapted from Appendix B of Getting Started with OpenOffice.org 3.3.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T152536Z" creationid="lera" creationdate="20180303T152536Z">
+        <seg>Это примечание основано на Пимечании B из книги Руководство по началу работы с OpenOffice.org 3.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This document is Copyright © 2017 by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T151721Z" creationid="lera" creationdate="20180303T151721Z">
+        <seg>Этот документ создан командой документации LibreOffice и защищен законом об авторских
+правах © 2017.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This foundation is the cornerstone of a new ecosystem where individuals and organizations can contribute to and benefit from the availability of a truly free office suite.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T165615Z" creationid="lera" creationdate="20180303T165615Z">
+        <seg>Этот фонд является краеугольным камнем новой экосистемы, в которой отдельные лица и организации могут вносить свой вклад и получать доступ к наличию по-настоящему свободного офисного пакета.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the essence of an “open source” community!</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T195735Z" creationid="lera" creationdate="20180303T195735Z">
+        <seg>В этом суть сообщества свободного програмного обеспечения!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to acquire the trademarked OpenOffice.org name from Oracle Corporation, The Document Foundation named its product LibreOffice.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T165722Z" creationid="lera" creationdate="20180303T165722Z">
+        <seg>Не имея возможности приобрести товарное имя OpenOffice.org принадлежащее Oracle, The Document Foundation назвала свой продукт LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike other file formats, ODF (ISO-IEC 26300:2015) is an open standard.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T213752Z" creationid="lera" creationdate="20180303T213752Z">
+        <seg>В отличие от других форматов файлов, ODF (ISO-IEC 26300:2015) открытый стандарт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used with other keys</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T155222Z" creationid="lera" creationdate="20180303T155222Z">
+        <seg>Используется с другими клавишами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version 5.0 was released in July 2015; version 5.1 was releases in February 2016 and vserion 6.0 was release in February 2018</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T170051Z" creationid="lera" creationdate="20180303T170051Z">
+        <seg>Версия 5.0 была выпущена в июле 2015; версия 5.1 в феврале 2016, а версия 6.0 в феврале 2018 года</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What are “open standards”?</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T160557Z" creationid="lera" creationdate="20180303T160522Z">
+        <seg>Что такое “открытые стандарты”?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is OpenDocument?</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T160610Z" creationid="lera" creationdate="20180303T160610Z">
+        <seg>Что такое OpenDocument?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is “open source”?</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T160539Z" creationid="lera" creationdate="20180303T160539Z">
+        <seg>Что такое “свободное програмное обеспечение”?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whatever you do best, you can make a difference in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T202047Z" creationid="lera" creationdate="20180303T202047Z">
+        <seg>Что бы вы не делали не щадя усилий, положительно повлияет на LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows or Linux</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T153233Z" creationid="lera" creationdate="20180303T153233Z">
+        <seg>Windows или Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With its open source software license, LibreOffice is key in the drive to provide an office suite that is available to anyone, anywhere, for commercial or personal use.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T200558Z" creationid="lera" creationdate="20180303T200501Z">
+        <seg>Имея лицензию открытого исходного кода на программное обеспечение, LibreOffice является ключевой движущей силой в предоставлении офисного пакета, доступного для любого человека, и для коммерческого и для личного использования, где бы он не находился.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can read more about The Document Foundation at: http://www.documentfoundation.org/</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T170603Z" creationid="lera" creationdate="20180303T170603Z">
+        <seg>Вы можете больше узнать о The Document Foundation: http://www.documentfoundation.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (http://www.gnu.org/licenses/gpl.html), version 3 or later, or the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), version 4.0 or later.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="lera" changedate="20180303T151839Z" creationid="lera" creationdate="20180303T151839Z">
+        <seg>Вы можете распространять и/или изменять этот документ, соблюдая лицензии GNU General Public License (http://www.gnu.org/licenses/gpl.html), версии 3 или более поздней, или Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), версии 4.0 или более поздней.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
