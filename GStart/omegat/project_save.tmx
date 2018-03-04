@@ -62,10 +62,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>... and many others</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T144241Z" creationid="tagezi" creationdate="20180304T144241Z">
+        <seg>... и многие другие.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Appendix B Open Source, Standards, Document&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181456Z" creationid="tagezi" creationdate="20180304T181456Z">
+        <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Приложение B Свободное программное обеспечение, Открытые стандарты, OpenDocument&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181526Z" creationid="tagezi" creationdate="20180304T181526Z">
+        <seg>&lt;f0&gt;Документация на LibreOffice доступна на &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; menu selection</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100035Z" creationid="lera" creationdate="20180303T153517Z">
         <seg>Выбор меню &lt;f0&gt;Сервис &gt; Параметры...&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;8&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Appendix B Open Source, Standards, Document&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181635Z" creationid="tagezi" creationdate="20180304T181635Z">
+        <seg>&lt;t0&gt;8&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Приложение B Свободное программное обеспечение, Стандарты, Документ&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Appendix B Open Source, Standards, Document&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181544Z" creationid="tagezi" creationdate="20180304T181544Z">
+        <seg>&lt;t0&gt;Приложение B Свободное программное обеспечение, Открытые стандарты, OpenDocument&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;File formats LibreOffice can open&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;7&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181733Z" creationid="tagezi" creationdate="20180304T181733Z">
+        <seg>&lt;t0&gt;Форматы файлов открываемые LibreOffice&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;7&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Appendix B Open Source, Standards, Document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181443Z" creationid="tagezi" creationdate="20180304T181443Z">
+        <seg>Приложение B Свободное программное обеспечение, Открытые стандарты, OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Based on LibreOffice &lt;tc4/&gt;&lt;ts5/&gt;&lt;f6&gt;6.0&lt;/f6&gt;&lt;te7/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T152810Z" creationid="lera" creationdate="20180303T152810Z">
@@ -214,10 +270,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Different from the command &lt;f0&gt;Save as&lt;/f0&gt;, LibreOffice uses the term “export” to create a new file with another format without leaving the current content and file format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T205532Z" creationid="tagezi" creationdate="20180304T205532Z">
+        <seg>Для создания нового файла в другом формате, не выходя из текущего содержимого и формата файла, вместо команды &lt;f0&gt;Сохранить как&lt;/f0&gt;, LibreOffice использует термин “Экспорт”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw can only save in the OpenDocument Drawing formats (.odg, .otg, and .fodg), the OpenOffice.org 1.x formats (.sxd and .std) and StarDraw format (.sda, .sdd, and .vor).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181205Z" creationid="tagezi" creationdate="20180304T181117Z">
+        <seg>Draw сохраняет только в форматы OpenDocument Drawing (.odg, .otg, и .fodg), OpenOffice.org 1.x (.sxd и .std) и фоматы StarDraw (.sda, .sdd, и .vor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Effect</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T153312Z" creationid="lera" creationdate="20180303T153312Z">
         <seg>Эффект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encryption support within the Microsoft Word 97/2000/XP filter allows password protected Microsoft Word documents to be saved.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T174939Z" creationid="tagezi" creationdate="20180304T174939Z">
+        <seg>Поддержка шифрования в фильтре Microsoft Word 97/2000/XP позволяет сохранять документы Microsoft Word защищенные паролем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exporting to other formats</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181950Z" creationid="tagezi" creationdate="20180304T181950Z">
+        <seg>Экспорт в другие форматы</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For this reason, other formats should be used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180145Z" creationid="tagezi" creationdate="20180304T180145Z">
+        <seg>По этой причине необходимо использовать другие форматы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Freedom to redistribute the software for free or for a fee.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T205148Z" creationid="lera" creationdate="20180303T205148Z">
@@ -282,6 +378,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T150819Z" creationid="lera" creationdate="20180303T150819Z">
         <seg>Руководство по началу работы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML Document (.htm and .html files, including Web page queries)&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153819Z" creationid="tagezi" creationdate="20180304T153819Z">
+        <seg>HTML Document (файлы .htm и .html, включая запросы веб-страниц)&lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML document (.html and .htm), as HTML 4.0 Transitional&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181847Z" creationid="tagezi" creationdate="20180304T181847Z">
+        <seg>HTML document (.html и .htm), как HTML 4.0 Transitional&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +414,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, Draw can also export to BMP, EMF, EPS, GIF, JPEG, MET, PBM, PCT, PGM, PNG, PPM, RAS, SVG, SVM, TIFF, WMF, and XPM.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181234Z" creationid="tagezi" creationdate="20180304T181234Z">
+        <seg>Однако, Draw также может экспортировать в BMP, EMF, EPS, GIF, JPEG, MET, PBM, PCT, PGM, PNG, PPM, RAS, SVG, SVM, TIFF, WMF, and XPM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, you can save files in other formats, if you wish.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T170152Z" creationid="tagezi" creationdate="20180304T170152Z">
+        <seg>Однако вы можете сохранять файлы в других форматах, если хотите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ichitaro 8/9/10/11 (.jtd and .jtt)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T144214Z" creationid="tagezi" creationdate="20180304T144214Z">
+        <seg>Ichitaro 8/9/10/11 (.jtd и .jtt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are new to LibreOffice, this appendix will provide some information regarding its history, its community, and some of its technical specifications.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100204Z" creationid="lera" creationdate="20180303T163429Z">
@@ -310,10 +446,98 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you cannot find the file type you are looking for under &lt;f1&gt;Save As&lt;/f1&gt;, look under &lt;f2&gt;Export&lt;/f2&gt; for additional types.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T210708Z" creationid="tagezi" creationdate="20180304T210708Z">
+        <seg>Если вы не можете найти тип файла , который вы ищете, в &lt;f1&gt;Сохранить как&lt;/f1&gt;, посмотрите в разделе для дополнительных типов &lt;f2&gt;Экспорт&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impress can also export to MacroMedia Flash (.swf) and any of the graphics formats listed for Draw.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180723Z" creationid="tagezi" creationdate="20180304T180723Z">
+        <seg>Impress также может экспортировать в MacroMedia Flash (.swf) и некоторые другие формат, перечисленные для Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In February 2012, The Document Foundation was incorporated in Berlin as a German Stiftung.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100247Z" creationid="lera" creationdate="20180303T170505Z">
         <seg>В феврале 2012, The Document Foundation была зарегистрирована в Берлине как German Stiftung (немецкий некомерческий фонд).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to OpenDocument Formula (.odf) files, Math can open the format used by OpenOffice.org 1.x (.sxm), StarMath, (.smf), and MathML (.mml) files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T155810Z" creationid="tagezi" creationdate="20180304T155810Z">
+        <seg>В дополнение к файлам OpenDocument Formula (.odf), Math может открывать форматы OpenOffice.org 1.x (.sxm), StarMath, (.smf), и MathML (.mml).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to OpenDocument formats (.odg and .otg), Draw can open the formats used by OpenOffice.org 1.x (.sxd and .std) and the following graphic formats:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T155819Z" creationid="tagezi" creationdate="20180304T154635Z">
+        <seg>В дополнение к форматам OpenDocument (.odg и .otg), Draw может открывать форматы OpenOffice.org 1.x (.sxd и .std) и следующие форматы графических файлов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to OpenDocument formats (.odp, .odg, .otp, and .fopd), Impress can open the formats used by OpenOffice.org 1.x (.sxi and .sti) and the following presentation formats:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T155825Z" creationid="tagezi" creationdate="20180304T153954Z">
+        <seg>В дополнение к форматам OpenDocument (.odp, .odg, .otp, и .fopd), Impress может открывать форматы OpenOffice.org 1.x (.sxi и .sti) и следующие форматы презентаций:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to OpenDocument formats (.odp, .otp, .fodp, and .odg), Impress can save in these formats:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180448Z" creationid="tagezi" creationdate="20180304T180448Z">
+        <seg>В дополнение к форматам OpenDocument (.odp, .otp, .fodp, и .odg), Impress может сохранять в следующие форматы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to OpenDocument formats (.ods and .ots), Calc can save in these formats:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180308Z" creationid="tagezi" creationdate="20180304T180308Z">
+        <seg>В дополнение к форматам OpenDocument (.ods и .ots), Calc может сохранять в следующие форматы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to OpenDocument formats (.ods, .ots, and .fods), Calc can open the formats used by OpenOffice.org 1.x (.sxc and .stc) and the following spreadsheet formats:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T155857Z" creationid="tagezi" creationdate="20180304T153653Z">
+        <seg>В дополнение к форматам OpenDocument (.ods, .ots, и .fods), Calc может открывать форматы OpenOffice.org 1.x (.sxc и .stc) и следующие форматы электронных таблиц:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to OpenDocument formats (.odt, .ott, .oth, .odm, and .fodt), Writer can &lt;i0/&gt;open the formats used by OpenOffice.org 1.x (.sxw, .stw, and .sxg), the following text document formats, and a variety of legacy formats not listed below:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T160026Z" creationid="tagezi" creationdate="20180304T144140Z">
+        <seg>В дополнение к форматам OpenDocument (.odt, .ott, .oth, .odm, и .fodt), Writer может &lt;i0/&gt;открывать форматы OpenOffice.org 1.x (.sxw, .stw, и .sxg), ниже перечисленные форматы текстовых документов и различные устаревшие форматы, не перечисленные ниже:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to OpenDocument formats (.odt, .ott, and .fodt), Writer can save in these formats:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T174828Z" creationid="tagezi" creationdate="20180304T174828Z">
+        <seg>В дополнение к форматам OpenDocument (.odt, .ott, и .fodt), Writer может сохранять в следующие форматы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, Draw and Impress can export to Adobe Flash (.swf) and a range of image formats.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T212115Z" creationid="tagezi" creationdate="20180304T212115Z">
+        <seg>Кроме того, Draw и Impress могут экспортировать в формат Adobe Flash (.swf) и ряд форматов изображений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is strongly recommended that you use OpenDocument as the default file formats.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T170131Z" creationid="tagezi" creationdate="20180304T170131Z">
+        <seg>Настоятельно рекомендуется использовать OpenDocument в качестве форматов файлов по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is well documented with the complete specification publicly available, either free or at a nominal charge.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T212838Z" creationid="lera" creationdate="20180303T212838Z">
@@ -382,6 +614,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice can export files to HTML and XHTML.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T211642Z" creationid="tagezi" creationdate="20180304T211642Z">
+        <seg>LibreOffice может экспортировать файлы в HTML и XHTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice can open a wide variety of file formats in addition to the OpenDocument formats, including Portable Document Format (PDF), if an ODF file is embedded in the PDF (see Chapter 10 Printing, Exporting, and Emailing for more information).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T143640Z" creationid="tagezi" creationdate="20180304T143640Z">
+        <seg>В дополнение к форматам OpenDocument, LibreOffice может открывать различные форматы файлов, включая Portable Document Format (PDF), if an ODF file is embedded in the PDF (see Chapter 10 Printing, Exporting, and Emailing for more information).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice is a productivity suite that is compatible with other major office suites and available on a variety of platforms.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T163224Z" creationid="lera" creationdate="20180303T163224Z">
@@ -398,10 +646,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice provides a very straightforward way to convert documents to PDF.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T174134Z" creationid="tagezi" creationdate="20180304T174134Z">
+        <seg>LibreOffice предоставляет очень простой способ преобразования документов в PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice saves documents in OpenDocument Format by default.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T214156Z" creationid="lera" creationdate="20180303T214156Z">
         <seg>LibreOffice по умолчанию сохраняет документы в формате OpenDocument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lotus 1-2-3 (.wk1, .wks, and .123)&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153714Z" creationid="tagezi" creationdate="20180304T153714Z">
+        <seg>Lotus 1-2-3 (.wk1, .wks, и .123)&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,10 +686,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Microsoft Excel 4.x–5.0/95 (.xls, .xlw, and .xlt)&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153703Z" creationid="tagezi" creationdate="20180304T153703Z">
+        <seg>Microsoft Excel 4.x–5.0/95 (.xls, .xlw, и .xlt)&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Excel 97/2000/XP (.xls, .xlw, and .xlt)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153659Z" creationid="tagezi" creationdate="20180304T153659Z">
+        <seg>Microsoft Excel 97/2000/XP (.xls, .xlw, и .xlt)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Excel 97–200&lt;f0&gt;3&lt;/f0&gt; (.xls and .xlw)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180316Z" creationid="tagezi" creationdate="20180304T180316Z">
+        <seg>Microsoft Excel 97–200&lt;f0&gt;3&lt;/f0&gt; (.xls и .xlw)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft PowerPoint 97/2000/XP (.ppt and .pot)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T154145Z" creationid="tagezi" creationdate="20180304T154145Z">
+        <seg>Microsoft PowerPoint 97/2000/XP (.ppt и .pot)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Word 6.0/95/97/2000/XP/Mac) (.doc and .dot)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T144200Z" creationid="tagezi" creationdate="20180304T144200Z">
+        <seg>Microsoft Word 6.0/95/97/2000/XP/Mac) (.doc и .dot)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most of these file types are automatically detected by LibreOffice, so they can be opened without explicitly selecting the document type in the file picker.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153208Z" creationid="tagezi" creationdate="20180304T153208Z">
+        <seg>Большинство этих типов файлов автоматически определяются LibreOffice, и могут быть открыты без явного выбора типа документа в диалоге выбора фалов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New functionality can be added in the form of extensions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T200659Z" creationid="lera" creationdate="20180303T200659Z">
         <seg>Новая функциональность может быть добавлена в виде расширений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T175003Z" creationid="tagezi" creationdate="20180304T175003Z">
+        <seg>Примечание</seg>
       </tuv>
     </tu>
     <tu>
@@ -459,6 +779,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100231Z" creationid="lera" creationdate="20180303T164756Z">
         <seg>28 сентября 2010, сообщество добровольцев, которые разрабатывали и продвигали OpenOffice.org, объявили о значительных изменениях в структуре проекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Export dialog, specify a file name for the exported document, then select the desired format in the &lt;f1&gt;File format&lt;/f1&gt; list and click the &lt;f2&gt;Export&lt;/f2&gt; button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T213105Z" creationid="tagezi" creationdate="20180304T213034Z">
+        <seg>В диалоговом окне «Экспорт» укажите имя файла для экспортируемого документа, затем выберите нужный формат в списке &lt;f1&gt;Формат файла&lt;/f1&gt; и нажмите кнопку &lt;f2&gt;Экспорт&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -527,6 +855,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Opening &lt;i0/&gt;formula files</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T154718Z" creationid="tagezi" creationdate="20180304T154718Z">
+        <seg>Открытие &lt;i0/&gt;файлов формул</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening &lt;i0/&gt;graphic files</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T154506Z" creationid="tagezi" creationdate="20180304T154506Z">
+        <seg>Открываемые &lt;i0/&gt;графических файлов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening &lt;i0/&gt;presentations</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T154448Z" creationid="tagezi" creationdate="20180304T153904Z">
+        <seg>Открываемые &lt;i0/&gt;презентаций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening &lt;i0/&gt;spreadsheets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T154437Z" creationid="tagezi" creationdate="20180304T153450Z">
+        <seg>Открываемые &lt;i0/&gt;электронных таблиц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening &lt;i0/&gt;text documents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T143753Z" creationid="tagezi" creationdate="20180304T143753Z">
+        <seg>Открываемые &lt;i0/&gt;текстовые документы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>People improve it, people adapt it, people fix bugs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T211954Z" creationid="lera" creationdate="20180303T211954Z">
@@ -567,10 +935,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Saving drawings</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181002Z" creationid="tagezi" creationdate="20180304T181002Z">
+        <seg>Сохранение графических материалов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving in an OpenDocument format guarantees the correct rendering of the file when it is transferred to another person or when the file is reopened with a later version of LibreOffice or with another program.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T165944Z" creationid="tagezi" creationdate="20180304T165944Z">
+        <seg>Сохранение файла в формате OpenDocument гарантирует корректное его отображение, когда он передается другому лицу, или когда файл открывается в более поздней версией LibreOffice или другой программой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving presentations</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180333Z" creationid="tagezi" creationdate="20180304T180333Z">
+        <seg>Сохранение презентаций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving spreadsheet files</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180218Z" creationid="tagezi" creationdate="20180304T180218Z">
+        <seg>Сохранение файлов электронных таблиц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving text documents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T174719Z" creationid="tagezi" creationdate="20180304T174719Z">
+        <seg>Сохранение текстовых документов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See &lt;a1&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T202406Z" creationid="lera" creationdate="20180303T202406Z">
         <seg>Смотри &lt;a1&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Chapter 10 Printing, Exporting, and E-Mailing in this guide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T174342Z" creationid="tagezi" creationdate="20180304T174342Z">
+        <seg>См. Главу 10 «Печать, экспорт и отправка по электронной почте» в этом руководстве.</seg>
       </tuv>
     </tu>
     <tu>
@@ -587,6 +1003,46 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100303Z" creationid="lera" creationdate="20180303T195405Z">
         <seg>В состав наших корпоративных сторонников входят Canonical, GNOME Foundation, Google, Novell и Red Hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StarCalc formats (.sdc and .vor)&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153736Z" creationid="tagezi" creationdate="20180304T153736Z">
+        <seg>StarCalc formats (.sdc и .vor)&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StarDraw and StarImpress (.sda, .sdd, .sdp, and .vor)&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T154223Z" creationid="tagezi" creationdate="20180304T154223Z">
+        <seg>StarDraw and StarImpress (.sda, .sdd, .sdp, и .vor)&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text CSV (.csv and .txt)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T144207Z" creationid="tagezi" creationdate="20180304T144207Z">
+        <seg>Text CSV (.csv и .txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text and Text Encoded (LibreOffice Writer/Web) (.txt)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T182011Z" creationid="tagezi" creationdate="20180304T181923Z">
+        <seg>Текст и текст в Юникоде (LibreOffice Writer/Web) (.txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The .rtf format is a common format for transferring text files between applications, but you are likely to experience loss of formatting and images.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180050Z" creationid="tagezi" creationdate="20180304T180050Z">
+        <seg>Формат .rtf является распространенным форматом для передачи текстовых файлов между приложениями, но вы, вероятно, обнаружите потерю форматирования и изображений при его использовании.</seg>
       </tuv>
     </tu>
     <tu>
@@ -736,6 +1192,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tip</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T170217Z" creationid="tagezi" creationdate="20180304T170217Z">
+        <seg>Совет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To export to one of these formats, choose &lt;f0&gt;File &gt; Export&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T212609Z" creationid="tagezi" creationdate="20180304T212609Z">
+        <seg>Для экспорта в один из этих форматов, выберите &lt;f0&gt;Файл &gt; Экспорт...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To publish on a Wiki server, export the documents with MediaWiki (.txt) format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T212011Z" creationid="tagezi" creationdate="20180304T212011Z">
+        <seg>Для публикации на сервер Wiki, экспортируйте документы в формате MediaWiki (.txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to acquire the trademarked OpenOffice.org name from Oracle Corporation, The Document Foundation named its product LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T165722Z" creationid="lera" creationdate="20180303T165722Z">
@@ -800,6 +1280,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When opening .htm or .html files (used for web pages), LibreOffice customizes Writer for working with these files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153334Z" creationid="tagezi" creationdate="20180304T153334Z">
+        <seg>При открытии файлов .htm или .html (используемых для веб-страниц) LibreOffice настраивает Writer для работы с этими файлами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When opening a Word document that contains an embedded equation editor object, if the option for it (MathType to LibreOffice Math or reverse) is checked in &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; Microsoft Office&lt;/f0&gt;, the object will be automatically converted to a&lt;tc1/&gt; LibreOffice Math object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T165346Z" creationid="tagezi" creationdate="20180304T165346Z">
+        <seg>При открытии документа Word, который содержит встроенный объект редактора формул, если для него указан параметр (MathType в LibreOffice Math или обратно) в &lt;f0&gt;Сервис &gt; Параметры... &gt; Загрузка/Сохранение &gt; Microsoft Office&lt;/f0&gt;, этот объект будет автоматически конвертирован в&lt;tc1/&gt; объект LibreOffice Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Windows or Linux</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T153233Z" creationid="lera" creationdate="20180303T153233Z">
@@ -816,6 +1312,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Writer/Web can save in these formats</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181831Z" creationid="tagezi" creationdate="20180304T181831Z">
+        <seg>Writer/Web может сохранять в следующие форматы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can read more about The Document Foundation at: &lt;a0&gt;http://www.documentfoundation.org/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T170603Z" creationid="lera" creationdate="20180303T170603Z">
@@ -828,6 +1332,70 @@
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T151839Z" creationid="lera" creationdate="20180303T151839Z">
         <seg>Вы можете распространять и/или изменять этот документ, соблюдая лицензии GNU General Public License (&lt;a0&gt;http://www.gnu.org/licenses/gpl.html&lt;/a0&gt;), версии 3 или более поздней, или Creative Commons Attribution License (&lt;a1&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a1&gt;), версии 4.0 или более поздней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>formula files, opening</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T154659Z" creationid="tagezi" creationdate="20180304T154659Z">
+        <seg>файлы формул, открытие</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>graphic files</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153843Z" creationid="tagezi" creationdate="20180304T153843Z">
+        <seg>графических файлов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>importing files</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T143841Z" creationid="tagezi" creationdate="20180304T143841Z">
+        <seg>импортируемые файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>opening</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153344Z" creationid="tagezi" creationdate="20180304T153344Z">
+        <seg>открытие</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>presentations</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180358Z" creationid="tagezi" creationdate="20180304T180358Z">
+        <seg>презентации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>saving</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180226Z" creationid="tagezi" creationdate="20180304T180226Z">
+        <seg>сохранение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>spreadsheets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153401Z" creationid="tagezi" creationdate="20180304T153401Z">
+        <seg>электронных таблиц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>text documents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153511Z" creationid="tagezi" creationdate="20180304T153511Z">
+        <seg>текстовых документов</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
