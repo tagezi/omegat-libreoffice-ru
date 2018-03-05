@@ -118,14 +118,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;t0&gt;File formats LibreOffice can open&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;7&lt;/t2&gt;</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181733Z" creationid="tagezi" creationdate="20180304T181733Z">
-        <seg>&lt;t0&gt;Форматы файлов открываемые LibreOffice&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;7&lt;/t2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>A short &lt;is0/&gt;history of LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T163510Z" creationid="lera" creationdate="20180303T163510Z">
@@ -254,14 +246,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Based on LibreOffice &lt;tc4/&gt;&lt;ts5/&gt;&lt;f6&gt;6.0&lt;/f6&gt;&lt;te7/&gt;.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T152810Z" creationid="lera" creationdate="20180303T152810Z">
-        <seg>Основано на LibreOffice &lt;tc4/&gt;&lt;ts5/&gt;&lt;f6&gt;6.0&lt;/f6&gt;&lt;te7/&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>ClarisWorks/Appleworks Document (.cwk)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T062641Z" creationid="tagezi" creationdate="20180305T062641Z">
@@ -282,14 +266,6 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T075048Z" creationid="tagezi" creationdate="20180305T075048Z">
         <seg>Продолжая номера версий OpenOffice.org, LibreOffice 3.3 был выпущен в январе 2011 года, &lt;f0&gt;а версию 6.0 в феврале 2018.&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Continuing the version numbers from OpenOffice.org, LibreOffice 3.3 was released in January 2011.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T165831Z" creationid="lera" creationdate="20180303T165831Z">
-        <seg>Продолжая номера версий OpenOffice.org, LibreOffice 3.3 был выпущен в январе 2011 года.</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,14 +678,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>LibreOffice 3 adopted version 1.2 of the OpenDocument standard and LibreOffice 5 continues to use this standard.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180304T061446Z" creationid="lera" creationdate="20180304T061446Z">
-        <seg>Стандарт OpenDocument версии 1.2 начал использоваться с LibreOffice 3, а LibreOffice 6 продолжает использовать этот стандарт.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>LibreOffice 3 adopted version 1.2 of the OpenDocument standard and LibreOffice &lt;f0&gt;6&lt;/f0&gt; continues to use this standard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T232511Z" creationid="tagezi" creationdate="20180304T232511Z">
@@ -742,14 +710,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>LibreOffice can open a wide variety of file formats in addition to the OpenDocument formats, including Portable Document Format (PDF), if an ODF file is embedded in the PDF (see Chapter 10 Printing, Exporting, and Emailing for more information).</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T143640Z" creationid="tagezi" creationdate="20180304T143640Z">
-        <seg>В дополнение к форматам OpenDocument, LibreOffice может открывать различные форматы файлов, включая Portable Document Format (PDF), if an ODF file is embedded in the PDF (see Chapter 10 Printing, Exporting, and Emailing for more information).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>LibreOffice can open a wide variety of file formats in addition to the OpenDocument formats, including Portable Document Format (PDF).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T232601Z" creationid="tagezi" creationdate="20180304T232601Z">
@@ -770,14 +730,6 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T231941Z" creationid="tagezi" creationdate="20180304T231941Z">
         <seg>LibreOffice распространяется под двойной лицензией Mozilla Public License (MPL) 2.0 &lt;f0&gt;(&lt;/f0&gt;https://www.libreoffice.org/about-us/licenses/&lt;f1&gt;) и GNU Lesser General Public License (LGPL) 3.0+ (https://www.gnu.org/licenses/lgpl-3.0.en.html).&lt;/f1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>LibreOffice is distributed under the Mozilla Public License (MPL) 2.0.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100359Z" creationid="lera" creationdate="20180303T202357Z">
-        <seg>LibreOffice распространяется под лицензией Mozilla Public License (MPL) 2.0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1151,14 +1103,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Published 16 February 201&lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;8&lt;/f2&gt;&lt;te3/&gt;.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T152759Z" creationid="lera" creationdate="20180303T152759Z">
-        <seg>Опубликовано 16 февраля 201&lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;8&lt;/f2&gt;&lt;te3/&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Published &lt;f0&gt;04&lt;/f0&gt; &lt;f1&gt;march&lt;/f1&gt; 201&lt;f2&gt;8&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T230828Z" creationid="tagezi" creationdate="20180304T230828Z">
@@ -1227,14 +1171,6 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T174719Z" creationid="tagezi" creationdate="20180304T174719Z">
         <seg>Сохранение текстовых документов</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>See &lt;a1&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a1&gt;</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T202406Z" creationid="lera" creationdate="20180303T202406Z">
-        <seg>Смотри &lt;a1&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1399,14 +1335,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The four essential rights of open-source software are embodied within the Free Software Foundation’s &lt;f0&gt;General Public License&lt;/f0&gt; (GPL):</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T205112Z" creationid="lera" creationdate="20180303T205112Z">
-        <seg>В рамках &lt;f0&gt;General Public License&lt;/f0&gt; (GPL) от Free Software Foundation были воплощены четыре основных права на программное обеспечение с открытым исходным кодом:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>The four essential rights of open-source software are embodied within the Free Software Foundation’s &lt;f0&gt;family of the &lt;/f0&gt;&lt;f1&gt;GNU General Public License&lt;/f1&gt; (GPL):</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T075500Z" creationid="tagezi" creationdate="20180304T232320Z">
@@ -1467,15 +1395,6 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T073340Z" creationid="lera" creationdate="20180303T152536Z">
         <seg>Это раздел основан на Примечании B из книги &lt;f0&gt;Руководство по началу работы с OpenOffice.org 3.3&lt;/f0&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This document is Copyright © 2017 by the LibreOffice Documentation Team.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T151721Z" creationid="lera" creationdate="20180303T151721Z">
-        <seg>Этот документ создан командой документации LibreOffice и защищен законом об авторских
-правах © 2017.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1600,14 +1519,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Version 5.0 was released in July 2015; version 5.1 was releases in February 2016&lt;ts0/&gt; &lt;f1&gt;and vserion 6.0 was release in February 2018&lt;/f1&gt;</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T170051Z" creationid="lera" creationdate="20180303T170051Z">
-        <seg>Версия 5.0 была выпущена в июле 2015; версия 5.1 в феврале 2016&lt;ts0/&gt;&lt;f1&gt;, а версия 6.0 в феврале 2018 года&lt;/f1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>We will protect past investments by building on the solid achievements of our first decade, encourage wide participation in the Community, and co-ordinate activity across the Community.”</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T061600Z" creationid="tagezi" creationdate="20180305T061600Z">
@@ -1659,14 +1570,6 @@
         <seg>When opening a Word document that contains an embedded equation editor object, if the option for it (MathType to LibreOffice Math or reverse) is checked in &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; Microsoft Office&lt;/f0&gt;, the object will be automatically converted to a LibreOffice Math object.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T232745Z" creationid="tagezi" creationdate="20180304T232745Z">
-        <seg>При открытии документа Word, который содержит встроенный объект редактора формул, если для него указан параметр (MathType в LibreOffice Math или обратно) в &lt;f0&gt;Сервис &gt; Параметры... &gt; Загрузка/Сохранение &gt; Microsoft Office&lt;/f0&gt;, этот объект будет автоматически конвертирован в&lt;tc1/&gt; объект LibreOffice Math.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>When opening a Word document that contains an embedded equation editor object, if the option for it (MathType to LibreOffice Math or reverse) is checked in &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; Microsoft Office&lt;/f0&gt;, the object will be automatically converted to a&lt;tc1/&gt; LibreOffice Math object.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T165346Z" creationid="tagezi" creationdate="20180304T165346Z">
         <seg>При открытии документа Word, который содержит встроенный объект редактора формул, если для него указан параметр (MathType в LibreOffice Math или обратно) в &lt;f0&gt;Сервис &gt; Параметры... &gt; Загрузка/Сохранение &gt; Microsoft Office&lt;/f0&gt;, этот объект будет автоматически конвертирован в&lt;tc1/&gt; объект LibreOffice Math.</seg>
       </tuv>
     </tu>
@@ -1724,14 +1627,6 @@
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T170603Z" creationid="lera" creationdate="20180303T170603Z">
         <seg>Вы можете больше узнать о The Document Foundation: &lt;a0&gt;http://www.documentfoundation.org/&lt;/a0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a0&gt;http://www.gnu.org/licenses/gpl.html&lt;/a0&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a1&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a1&gt;), version 4.0 or later.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T151839Z" creationid="lera" creationdate="20180303T151839Z">
-        <seg>Вы можете распространять и/или изменять этот документ, соблюдая лицензии GNU General Public License (&lt;a0&gt;http://www.gnu.org/licenses/gpl.html&lt;/a0&gt;), версии 3 или более поздней, или Creative Commons Attribution License (&lt;a1&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a1&gt;), версии 4.0 или более поздней.</seg>
       </tuv>
     </tu>
     <tu>

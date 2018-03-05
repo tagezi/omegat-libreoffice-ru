@@ -22,10 +22,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>*.odf for formulas (scientific formulas and &lt;s0/&gt;equations)</seg>
+        <seg>*.odf for formulas (scientific formulas and equations)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180304T071515Z" creationid="lera" creationdate="20180304T071515Z">
-        <seg>*.odf для формул (научные формулы и &lt;s0/&gt;уравнения)</seg>
+        <seg>*.odf для формул (научные формулы и уравнения)</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,66 +70,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Appendix B Open Source, Standards, Document&lt;/t3&gt;</seg>
+        <seg>0| Appendix B Open Source, Standards, Document</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181456Z" creationid="tagezi" creationdate="20180304T181456Z">
-        <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Приложение B Свободное программное обеспечение, Открытые стандарты, OpenDocument&lt;/t3&gt;</seg>
+        <seg>0| Приложение B Свободное программное обеспечение, Открытые стандарты, OpenDocument</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+        <seg>Documentation for LibreOffice is available at http://documentation.libreoffice.org/</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181526Z" creationid="tagezi" creationdate="20180304T181526Z">
-        <seg>&lt;f0&gt;Документация на LibreOffice доступна на &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+        <seg>Документация на LibreOffice доступна на http://documentation.libreoffice.org/</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; menu selection</seg>
+        <seg>Tools &gt; Options menu selection</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100035Z" creationid="lera" creationdate="20180303T153517Z">
-        <seg>Выбор меню &lt;f0&gt;Сервис &gt; Параметры...&lt;/f0&gt;</seg>
+        <seg>Выбор меню Сервис &gt; Параметры...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;t0&gt;8&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Appendix B Open Source, Standards, Document&lt;/t4&gt;&lt;/f3&gt;</seg>
+        <seg>8| Appendix B Open Source, Standards, Document</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181635Z" creationid="tagezi" creationdate="20180304T181635Z">
-        <seg>&lt;t0&gt;8&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Приложение B Свободное программное обеспечение, Стандарты, Документ&lt;/t4&gt;&lt;/f3&gt;</seg>
+        <seg>8| Приложение B Свободное программное обеспечение, Стандарты, Документ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;t0&gt;Appendix B Open Source, Standards, Document&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+        <seg>Appendix B Open Source, Standards, Document| 3</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181544Z" creationid="tagezi" creationdate="20180304T181544Z">
-        <seg>&lt;t0&gt;Приложение B Свободное программное обеспечение, Открытые стандарты, OpenDocument&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+        <seg>Приложение B Свободное программное обеспечение, Открытые стандарты, OpenDocument| 3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;t0&gt;Exporting to other formats&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;9&lt;/t2&gt;</seg>
+        <seg>Exporting to other formats | 9</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T070643Z" creationid="tagezi" creationdate="20180305T070643Z">
-        <seg>&lt;t0&gt;Экспорт в другие форматы&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;9&lt;/t2&gt;</seg>
+        <seg>Экспорт в другие форматы | 9</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>&lt;t0&gt;File formats LibreOffice can open&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;7&lt;/t2&gt;</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181733Z" creationid="tagezi" creationdate="20180304T181733Z">
-        <seg>&lt;t0&gt;Форматы файлов открываемые LibreOffice&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;7&lt;/t2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>A short &lt;is0/&gt;history of LibreOffice</seg>
+        <seg>A short history of LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T163510Z" creationid="lera" creationdate="20180303T163510Z">
-        <seg>Краткая &lt;is0/&gt;история LibreOffice</seg>
+        <seg>Краткая история LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,10 +214,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Appendix B &lt;s0/&gt;&lt;br1/&gt;</seg>
+        <seg>Appendix B </seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T150923Z" creationid="lera" creationdate="20180303T150923Z">
-        <seg>Приложение B &lt;s0/&gt;&lt;br1/&gt;</seg>
+        <seg>Приложение B </seg>
       </tuv>
     </tu>
     <tu>
@@ -238,26 +230,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>AutoCAD Interchange Format (*.dxf)&lt;br1/&gt;</seg>
+        <seg>AutoCAD Interchange Format (*.dxf)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064435Z" creationid="tagezi" creationdate="20180305T064435Z">
-        <seg>Формат обмена данными AutoCAD (*.dxf)&lt;br1/&gt;</seg>
+        <seg>Формат обмена данными AutoCAD (*.dxf)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Based on LibreOffice &lt;f3&gt;6.0&lt;/f3&gt;.</seg>
+        <seg>Based on LibreOffice 6.0.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T230849Z" creationid="tagezi" creationdate="20180304T230849Z">
-        <seg>Основано на LibreOffice &lt;f3&gt;6.0&lt;/f3&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Based on LibreOffice &lt;tc4/&gt;&lt;ts5/&gt;&lt;f6&gt;6.0&lt;/f6&gt;&lt;te7/&gt;.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T152810Z" creationid="lera" creationdate="20180303T152810Z">
-        <seg>Основано на LibreOffice &lt;tc4/&gt;&lt;ts5/&gt;&lt;f6&gt;6.0&lt;/f6&gt;&lt;te7/&gt;.</seg>
+        <seg>Основано на LibreOffice 6.0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,18 +262,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Continuing the version numbers from OpenOffice.org, LibreOffice 3.3 was released in January 2011 &lt;f0&gt;and version 6.0 was release in February 2018.&lt;/f0&gt;</seg>
+        <seg>Continuing the version numbers from OpenOffice.org, LibreOffice 3.3 was released in January 2011 and version 6.0 was release in February 2018.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T075048Z" creationid="tagezi" creationdate="20180305T075048Z">
-        <seg>Продолжая номера версий OpenOffice.org, LibreOffice 3.3 был выпущен в январе 2011 года, &lt;f0&gt;а версию 6.0 в феврале 2018.&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Continuing the version numbers from OpenOffice.org, LibreOffice 3.3 was released in January 2011.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T165831Z" creationid="lera" creationdate="20180303T165831Z">
-        <seg>Продолжая номера версий OpenOffice.org, LibreOffice 3.3 был выпущен в январе 2011 года.</seg>
+        <seg>Продолжая номера версий OpenOffice.org, LibreOffice 3.3 был выпущен в январе 2011 года, а версию 6.0 в феврале 2018.</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,18 +310,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Data Interchange Format (.dif)&lt;br6/&gt;</seg>
+        <seg>Data Interchange Format (.dif)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064008Z" creationid="tagezi" creationdate="20180305T064008Z">
-        <seg>Формат обмена данными (.dif)&lt;br6/&gt;</seg>
+        <seg>Формат обмена данными (.dif)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Different from the command &lt;f0&gt;Save as&lt;/f0&gt;, LibreOffice uses the term “export” to create a new file with another format without leaving the current content and file format.</seg>
+        <seg>Different from the command Save as, LibreOffice uses the term “export” to create a new file with another format without leaving the current content and file format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T205532Z" creationid="tagezi" creationdate="20180304T205532Z">
-        <seg>Для создания нового файла в другом формате, не выходя из текущего содержимого и формата файла, вместо команды &lt;f0&gt;Сохранить как&lt;/f0&gt;, LibreOffice использует термин “Экспорт”.</seg>
+        <seg>Для создания нового файла в другом формате, не выходя из текущего содержимого и формата файла, вместо команды Сохранить как, LibreOffice использует термин “Экспорт”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,10 +382,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>For a full list of file formats that LibreOffice can read and write, see &lt;a0&gt;https://en.wikipedia.org/wiki/LibreOffice#Supported_file_formats&lt;/a0&gt;</seg>
+        <seg>For a full list of file formats that LibreOffice can read and write, see https://en.wikipedia.org/wiki/LibreOffice#Supported_file_formats</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180304T071029Z" creationid="lera" creationdate="20180304T071029Z">
-        <seg>Полный список форматов файлов, с которыми LibreOffice может открывать и сохранять, &lt;a0&gt;https://en.wikipedia.org/wiki/LibreOffice#Supported_file_formats&lt;/a0&gt;</seg>
+        <seg>Полный список форматов файлов, с которыми LibreOffice может открывать и сохранять, https://en.wikipedia.org/wiki/LibreOffice#Supported_file_formats</seg>
       </tuv>
     </tu>
     <tu>
@@ -462,10 +438,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>HTML Document (.htm and .html files, including Web page queries)&lt;br13/&gt;</seg>
+        <seg>HTML Document (.htm and .html files, including Web page queries)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064216Z" creationid="tagezi" creationdate="20180304T153819Z">
-        <seg>Документ HTML (файлы .htm и .html, включая запросы веб-страниц)&lt;br13/&gt;</seg>
+        <seg>Документ HTML (файлы .htm и .html, включая запросы веб-страниц)</seg>
       </tuv>
     </tu>
     <tu>
@@ -494,10 +470,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>HTML document (.html and .htm), as HTML 4.0 Transitional&lt;br0/&gt;</seg>
+        <seg>HTML document (.html and .htm), as HTML 4.0 Transitional</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181847Z" creationid="tagezi" creationdate="20180304T181847Z">
-        <seg>HTML document (.html и .htm), как HTML 4.0 Transitional&lt;br0/&gt;</seg>
+        <seg>HTML document (.html и .htm), как HTML 4.0 Transitional</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,10 +526,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>If you cannot find the file type you are looking for under &lt;f1&gt;Save As&lt;/f1&gt;, look under &lt;f2&gt;Export&lt;/f2&gt; for additional types.</seg>
+        <seg>If you cannot find the file type you are looking for under Save As, look under Export for additional types.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T210708Z" creationid="tagezi" creationdate="20180304T210708Z">
-        <seg>Если вы не можете найти тип файла , который вы ищете, в &lt;f1&gt;Сохранить как&lt;/f1&gt;, посмотрите в разделе для дополнительных типов &lt;f2&gt;Экспорт&lt;/f2&gt;.</seg>
+        <seg>Если вы не можете найти тип файла , который вы ищете, в Сохранить как, посмотрите в разделе для дополнительных типов Экспорт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,10 +598,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>In addition to OpenDocument formats (.odt, .ott, .oth, .odm, and .fodt), Writer can &lt;i0/&gt;open the formats used by OpenOffice.org 1.x (.sxw, .stw, and .sxg), the following text document formats, and a variety of legacy formats not listed below:</seg>
+        <seg>In addition to OpenDocument formats (.odt, .ott, .oth, .odm, and .fodt), Writer can open the formats used by OpenOffice.org 1.x (.sxw, .stw, and .sxg), the following text document formats, and a variety of legacy formats not listed below:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T062307Z" creationid="tagezi" creationdate="20180304T144140Z">
-        <seg>В дополнение к форматам OpenDocument (.odt, .ott, .oth, .odm, и .fodt), Writer может &lt;i0/&gt;открывать форматы OpenOffice.org 1.x (.sxw, .stw, и .sxg), ниже перечисленные форматы текстовых документов и различные устаревшие форматы:</seg>
+        <seg>В дополнение к форматам OpenDocument (.odt, .ott, .oth, .odm, и .fodt), Writer может открывать форматы OpenOffice.org 1.x (.sxw, .stw, и .sxg), ниже перечисленные форматы текстовых документов и различные устаревшие форматы:</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,18 +678,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>LibreOffice 3 adopted version 1.2 of the OpenDocument standard and LibreOffice 5 continues to use this standard.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180304T061446Z" creationid="lera" creationdate="20180304T061446Z">
-        <seg>Стандарт OpenDocument версии 1.2 начал использоваться с LibreOffice 3, а LibreOffice 6 продолжает использовать этот стандарт.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>LibreOffice 3 adopted version 1.2 of the OpenDocument standard and LibreOffice &lt;f0&gt;6&lt;/f0&gt; continues to use this standard.</seg>
+        <seg>LibreOffice 3 adopted version 1.2 of the OpenDocument standard and LibreOffice 6 continues to use this standard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T232511Z" creationid="tagezi" creationdate="20180304T232511Z">
-        <seg>Стандарт OpenDocument версии 1.2 начал использоваться с LibreOffice 3, а LibreOffice &lt;f0&gt;6&lt;/f0&gt; продолжает использовать этот стандарт.</seg>
+        <seg>Стандарт OpenDocument версии 1.2 начал использоваться с LibreOffice 3, а LibreOffice 6 продолжает использовать этот стандарт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,14 +710,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>LibreOffice can open a wide variety of file formats in addition to the OpenDocument formats, including Portable Document Format (PDF), if an ODF file is embedded in the PDF (see Chapter 10 Printing, Exporting, and Emailing for more information).</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T143640Z" creationid="tagezi" creationdate="20180304T143640Z">
-        <seg>В дополнение к форматам OpenDocument, LibreOffice может открывать различные форматы файлов, включая Portable Document Format (PDF), if an ODF file is embedded in the PDF (see Chapter 10 Printing, Exporting, and Emailing for more information).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>LibreOffice can open a wide variety of file formats in addition to the OpenDocument formats, including Portable Document Format (PDF).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T232601Z" creationid="tagezi" creationdate="20180304T232601Z">
@@ -766,18 +726,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>LibreOffice is distributed under both the Mozilla Public License (MPL) 2.0 &lt;f0&gt;(&lt;/f0&gt;https://www.libreoffice.org/about-us/licenses/&lt;f1&gt;) and the GNU Lesser General Public License (LGPL) 3.0+ (https://www.gnu.org/licenses/lgpl-3.0.en.html).&lt;/f1&gt;</seg>
+        <seg>LibreOffice is distributed under both the Mozilla Public License (MPL) 2.0 (https://www.libreoffice.org/about-us/licenses/) and the GNU Lesser General Public License (LGPL) 3.0+ (https://www.gnu.org/licenses/lgpl-3.0.en.html).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T231941Z" creationid="tagezi" creationdate="20180304T231941Z">
-        <seg>LibreOffice распространяется под двойной лицензией Mozilla Public License (MPL) 2.0 &lt;f0&gt;(&lt;/f0&gt;https://www.libreoffice.org/about-us/licenses/&lt;f1&gt;) и GNU Lesser General Public License (LGPL) 3.0+ (https://www.gnu.org/licenses/lgpl-3.0.en.html).&lt;/f1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>LibreOffice is distributed under the Mozilla Public License (MPL) 2.0.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100359Z" creationid="lera" creationdate="20180303T202357Z">
-        <seg>LibreOffice распространяется под лицензией Mozilla Public License (MPL) 2.0.</seg>
+        <seg>LibreOffice распространяется под двойной лицензией Mozilla Public License (MPL) 2.0 (https://www.libreoffice.org/about-us/licenses/) и GNU Lesser General Public License (LGPL) 3.0+ (https://www.gnu.org/licenses/lgpl-3.0.en.html).</seg>
       </tuv>
     </tu>
     <tu>
@@ -798,10 +750,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Lotus 1-2-3 (.wk1, .wks, and .123)&lt;br5/&gt;</seg>
+        <seg>Lotus 1-2-3 (.wk1, .wks, and .123)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153714Z" creationid="tagezi" creationdate="20180304T153714Z">
-        <seg>Lotus 1-2-3 (.wk1, .wks, и .123)&lt;br5/&gt;</seg>
+        <seg>Lotus 1-2-3 (.wk1, .wks, и .123)</seg>
       </tuv>
     </tu>
     <tu>
@@ -838,42 +790,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Microsoft Excel 4.x–5.0/95 (.xls, .xlw, and .xlt)&lt;br1/&gt;</seg>
+        <seg>Microsoft Excel 4.x–5.0/95 (.xls, .xlw, and .xlt)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153703Z" creationid="tagezi" creationdate="20180304T153703Z">
-        <seg>Microsoft Excel 4.x–5.0/95 (.xls, .xlw, и .xlt)&lt;br1/&gt;</seg>
+        <seg>Microsoft Excel 4.x–5.0/95 (.xls, .xlw, и .xlt)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Microsoft Excel 97/2000/XP (.xls, .xlw, and .xlt)&lt;br0/&gt;</seg>
+        <seg>Microsoft Excel 97/2000/XP (.xls, .xlw, and .xlt)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153659Z" creationid="tagezi" creationdate="20180304T153659Z">
-        <seg>Microsoft Excel 97/2000/XP (.xls, .xlw, и .xlt)&lt;br0/&gt;</seg>
+        <seg>Microsoft Excel 97/2000/XP (.xls, .xlw, и .xlt)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Microsoft Excel 97–200&lt;f0&gt;3&lt;/f0&gt; (.xls and .xlw)</seg>
+        <seg>Microsoft Excel 97–2003 (.xls and .xlw)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180316Z" creationid="tagezi" creationdate="20180304T180316Z">
-        <seg>Microsoft Excel 97–200&lt;f0&gt;3&lt;/f0&gt; (.xls и .xlw)</seg>
+        <seg>Microsoft Excel 97–2003 (.xls и .xlw)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Microsoft PowerPoint 97/2000/XP (.ppt and .pot)&lt;br0/&gt;</seg>
+        <seg>Microsoft PowerPoint 97/2000/XP (.ppt and .pot)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T154145Z" creationid="tagezi" creationdate="20180304T154145Z">
-        <seg>Microsoft PowerPoint 97/2000/XP (.ppt и .pot)&lt;br0/&gt;</seg>
+        <seg>Microsoft PowerPoint 97/2000/XP (.ppt и .pot)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Microsoft Word 6.0/95/97/2000/XP/Mac) (.doc and .dot)&lt;br0/&gt;</seg>
+        <seg>Microsoft Word 6.0/95/97/2000/XP/Mac) (.doc and .dot)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T144200Z" creationid="tagezi" creationdate="20180304T144200Z">
-        <seg>Microsoft Word 6.0/95/97/2000/XP/Mac) (.doc и .dot)&lt;br0/&gt;</seg>
+        <seg>Microsoft Word 6.0/95/97/2000/XP/Mac) (.doc и .dot)</seg>
       </tuv>
     </tu>
     <tu>
@@ -927,10 +879,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Office Open XML Presentation (.pptx, .potm, .ppsx)&lt;br5/&gt;</seg>
+        <seg>Office Open XML Presentation (.pptx, .potm, .ppsx)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T065648Z" creationid="tagezi" creationdate="20180305T065648Z">
-        <seg>Презентация Office Open XML (.pptx, .potm, .ppsx)&lt;br5/&gt;</seg>
+        <seg>Презентация Office Open XML (.pptx, .potm, .ppsx)</seg>
       </tuv>
     </tu>
     <tu>
@@ -967,10 +919,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>On the Export dialog, specify a file name for the exported document, then select the desired format in the &lt;f1&gt;File format&lt;/f1&gt; list and click the &lt;f2&gt;Export&lt;/f2&gt; button.</seg>
+        <seg>On the Export dialog, specify a file name for the exported document, then select the desired format in the File format list and click the Export button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T213105Z" creationid="tagezi" creationdate="20180304T213034Z">
-        <seg>В диалоговом окне «Экспорт» укажите имя файла для экспортируемого документа, затем выберите нужный формат в списке &lt;f1&gt;Формат файла&lt;/f1&gt; и нажмите кнопку &lt;f2&gt;Экспорт&lt;/f2&gt;.</seg>
+        <seg>В диалоговом окне «Экспорт» укажите имя файла для экспортируемого документа, затем выберите нужный формат в списке Формат файла и нажмите кнопку Экспорт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1007,10 +959,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>OpenDocument (ODF) is an XML-based file format for office documents (text documents, spreadsheets, drawings, presentations and more), developed at OASIS (&lt;a0&gt;http://www.oasis-open.org/who/&lt;/a0&gt;), an independent, international standards group.</seg>
+        <seg>OpenDocument (ODF) is an XML-based file format for office documents (text documents, spreadsheets, drawings, presentations and more), developed at OASIS (http://www.oasis-open.org/who/), an independent, international standards group.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T213607Z" creationid="lera" creationdate="20180303T213607Z">
-        <seg>OpenDocument (ODF) - это формат файлов для офисных документов (текстовых, электронных таблиц, рисунков, презентаций и т.д.) на основе XML , разработанный в OASIS  (&lt;a0&gt;http://www.oasis-open.org/who/&lt;/a0&gt;), независимой международной группой стандартизации.</seg>
+        <seg>OpenDocument (ODF) - это формат файлов для офисных документов (текстовых, электронных таблиц, рисунков, презентаций и т.д.) на основе XML , разработанный в OASIS  (http://www.oasis-open.org/who/), независимой международной группой стандартизации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1023,10 +975,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>OpenDocument version 1.2 was adopted by the International Standards Organization and named ISO IEC 26300:2015 standard&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;.</seg>
+        <seg>OpenDocument version 1.2 was adopted by the International Standards Organization and named ISO IEC 26300:2015 standard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T213713Z" creationid="lera" creationdate="20180303T213713Z">
-        <seg>OpenDocument версии 1.2 был принят Международной организацией по стандартизации и назван стандартом ISO IEC 26300:2015&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;.</seg>
+        <seg>OpenDocument версии 1.2 был принят Международной организацией по стандартизации и назван стандартом ISO IEC 26300:2015.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1039,42 +991,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Opening &lt;i0/&gt;formula files</seg>
+        <seg>Opening formula files</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T154718Z" creationid="tagezi" creationdate="20180304T154718Z">
-        <seg>Открытие &lt;i0/&gt;файлов формул</seg>
+        <seg>Открытие файлов формул</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Opening &lt;i0/&gt;graphic files</seg>
+        <seg>Opening graphic files</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T154506Z" creationid="tagezi" creationdate="20180304T154506Z">
-        <seg>Открываемые &lt;i0/&gt;графических файлов</seg>
+        <seg>Открываемые графических файлов</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Opening &lt;i0/&gt;presentations</seg>
+        <seg>Opening presentations</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T154448Z" creationid="tagezi" creationdate="20180304T153904Z">
-        <seg>Открываемые &lt;i0/&gt;презентаций</seg>
+        <seg>Открываемые презентаций</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Opening &lt;i0/&gt;spreadsheets</seg>
+        <seg>Opening spreadsheets</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T154437Z" creationid="tagezi" creationdate="20180304T153450Z">
-        <seg>Открываемые &lt;i0/&gt;электронных таблиц</seg>
+        <seg>Открываемые электронных таблиц</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Opening &lt;i0/&gt;text documents</seg>
+        <seg>Opening text documents</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T143753Z" creationid="tagezi" creationdate="20180304T143753Z">
-        <seg>Открываемые &lt;i0/&gt;текстовые документы</seg>
+        <seg>Открываемые текстовые документы</seg>
       </tuv>
     </tu>
     <tu>
@@ -1119,10 +1071,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>PDF is the well known export format since &lt;f0&gt;OpenOffice.org&lt;/f0&gt; 1.5 and EPUB is a new format for export since LibreOffice 6.0.</seg>
+        <seg>PDF is the well known export format since OpenOffice.org 1.5 and EPUB is a new format for export since LibreOffice 6.0.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T075934Z" creationid="tagezi" creationdate="20180305T070620Z">
-        <seg>PDF - это хорошо известный формат экспорта со времен &lt;f0&gt;OpenOffice.org&lt;/f0&gt; 1.5 и начиная с LibreOffice 6.0 новый формат для экспорта EPUB.</seg>
+        <seg>PDF - это хорошо известный формат экспорта со времен OpenOffice.org 1.5 и начиная с LibreOffice 6.0 новый формат для экспорта EPUB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1135,10 +1087,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: &lt;a0&gt;documentation@global.libreoffice.org&lt;/a0&gt;</seg>
+        <seg>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: documentation@global.libreoffice.org</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T230716Z" creationid="lera" creationdate="20180303T152036Z">
-        <seg>Пожалуйста направляйте все комментарии и замечания об этом документе в список рассылки команды документации: &lt;a0&gt;documentation@global.libreoffice.org&lt;/a0&gt;</seg>
+        <seg>Пожалуйста направляйте все комментарии и замечания об этом документе в список рассылки команды документации: documentation@global.libreoffice.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -1151,18 +1103,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Published 16 February 201&lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;8&lt;/f2&gt;&lt;te3/&gt;.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T152759Z" creationid="lera" creationdate="20180303T152759Z">
-        <seg>Опубликовано 16 февраля 201&lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;8&lt;/f2&gt;&lt;te3/&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Published &lt;f0&gt;04&lt;/f0&gt; &lt;f1&gt;march&lt;/f1&gt; 201&lt;f2&gt;8&lt;/f2&gt;.</seg>
+        <seg>Published 04 march 2018.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T230828Z" creationid="tagezi" creationdate="20180304T230828Z">
-        <seg>Опубликовано &lt;f0&gt;04&lt;/f0&gt; &lt;f1&gt;марта&lt;/f1&gt; 201&lt;f2&gt;8&lt;/f2&gt;.</seg>
+        <seg>Опубликовано 04 марта 2018.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1175,10 +1119,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Rich Text Format (.rtf)&lt;br7/&gt;</seg>
+        <seg>Rich Text Format (.rtf)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064038Z" creationid="tagezi" creationdate="20180305T064038Z">
-        <seg>Текст с форматированием (.rtf)&lt;br7/&gt;</seg>
+        <seg>Текст с форматированием (.rtf)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1231,14 +1175,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>See &lt;a1&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a1&gt;</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T202406Z" creationid="lera" creationdate="20180303T202406Z">
-        <seg>Смотри &lt;a1&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>See Chapter 10 Printing, Exporting, and E-Mailing in this guide.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T174342Z" creationid="tagezi" creationdate="20180304T174342Z">
@@ -1263,18 +1199,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>StarCalc formats (.sdc and .vor)&lt;br9/&gt;</seg>
+        <seg>StarCalc formats (.sdc and .vor)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T071419Z" creationid="tagezi" creationdate="20180304T153736Z">
-        <seg>Форматы StarCalc (.sdc и .vor)&lt;br9/&gt;</seg>
+        <seg>Форматы StarCalc (.sdc и .vor)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>StarDraw and StarImpress (.sda, .sdd, .sdp, and .vor)&lt;br2/&gt;</seg>
+        <seg>StarDraw and StarImpress (.sda, .sdd, .sdp, and .vor)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064226Z" creationid="tagezi" creationdate="20180304T154223Z">
-        <seg>StarDraw и StarImpress (.sda, .sdd, .sdp, и .vor)&lt;br2/&gt;</seg>
+        <seg>StarDraw и StarImpress (.sda, .sdd, .sdp, и .vor)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1311,10 +1247,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Text CSV (.csv and .txt)&lt;br8/&gt;</seg>
+        <seg>Text CSV (.csv and .txt)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064046Z" creationid="tagezi" creationdate="20180305T064046Z">
-        <seg>Текст CSV (.csv and .txt)&lt;br8/&gt;</seg>
+        <seg>Текст CSV (.csv and .txt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1367,10 +1303,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The OpenOffice.org project began when &lt;is0/&gt;Sun Microsystems&lt;ie1/&gt; released the source code (“blueprints”) for its StarOffice® software to the open source community on October 13, 2000.</seg>
+        <seg>The OpenOffice.org project began when Sun Microsystems released the source code (“blueprints”) for its StarOffice® software to the open source community on October 13, 2000.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T053944Z" creationid="lera" creationdate="20180303T164411Z">
-        <seg>Проект OpenOffice.org начался 13 октября 2000 года, когда &lt;is0/&gt;Sun Microsystems&lt;ie1/&gt; опубликовала исходный код своего программного продукта StarOffice® для сообщества разработчиков приложений с открытым кодом.</seg>
+        <seg>Проект OpenOffice.org начался 13 октября 2000 года, когда Sun Microsystems опубликовала исходный код своего программного продукта StarOffice® для сообщества разработчиков приложений с открытым кодом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1383,10 +1319,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The community operates internationally in all time zones and in many languages, linked through the internet at &lt;a0&gt;www.libreoffice.org&lt;/a0&gt; and &lt;a1&gt;www.documentfoundation.org&lt;/a1&gt;.</seg>
+        <seg>The community operates internationally in all time zones and in many languages, linked through the internet at www.libreoffice.org and www.documentfoundation.org.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T075320Z" creationid="lera" creationdate="20180303T202310Z">
-        <seg>Сообщество действует в международном масштабе во всех часовых поясах и на многих языках, связанное через Интернет на &lt;a0&gt;www.libreoffice.org&lt;/a0&gt; и &lt;a1&gt;www.documentfoundation.org&lt;/a1&gt;.</seg>
+        <seg>Сообщество действует в международном масштабе во всех часовых поясах и на многих языках, связанное через Интернет на www.libreoffice.org и www.documentfoundation.org.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1399,18 +1335,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The four essential rights of open-source software are embodied within the Free Software Foundation’s &lt;f0&gt;General Public License&lt;/f0&gt; (GPL):</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T205112Z" creationid="lera" creationdate="20180303T205112Z">
-        <seg>В рамках &lt;f0&gt;General Public License&lt;/f0&gt; (GPL) от Free Software Foundation были воплощены четыре основных права на программное обеспечение с открытым исходным кодом:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>The four essential rights of open-source software are embodied within the Free Software Foundation’s &lt;f0&gt;family of the &lt;/f0&gt;&lt;f1&gt;GNU General Public License&lt;/f1&gt; (GPL):</seg>
+        <seg>The four essential rights of open-source software are embodied within the Free Software Foundation’s family of the GNU General Public License (GPL):</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T075500Z" creationid="tagezi" creationdate="20180304T232320Z">
-        <seg>В рамках семейства лицензий &lt;f0&gt;General Public License&lt;/f0&gt; (GPL) от Free Software Foundation были воплощены четыре основных права на программное обеспечение с открытым исходным кодом:</seg>
+        <seg>В рамках семейства лицензий General Public License (GPL) от Free Software Foundation были воплощены четыре основных права на программное обеспечение с открытым исходным кодом:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1463,24 +1391,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This appendix is adapted from Appendix B of &lt;f0&gt;Getting Started with OpenOffice.org 3.3&lt;/f0&gt;.</seg>
+        <seg>This appendix is adapted from Appendix B of Getting Started with OpenOffice.org 3.3.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T073340Z" creationid="lera" creationdate="20180303T152536Z">
-        <seg>Это раздел основан на Примечании B из книги &lt;f0&gt;Руководство по началу работы с OpenOffice.org 3.3&lt;/f0&gt;.</seg>
+        <seg>Это раздел основан на Примечании B из книги Руководство по началу работы с OpenOffice.org 3.3.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This document is Copyright © 2017 by the LibreOffice Documentation Team.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T151721Z" creationid="lera" creationdate="20180303T151721Z">
-        <seg>Этот документ создан командой документации LibreOffice и защищен законом об авторских
-правах © 2017.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This document is Copyright © 201&lt;f0&gt;8&lt;/f0&gt; by the LibreOffice Documentation Team.</seg>
+        <seg>This document is Copyright © 2018 by the LibreOffice Documentation Team.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T072728Z" creationid="tagezi" creationdate="20180305T072728Z">
         <seg>© 2018 Этот документ создан командой документации LibreOffice и защищен законом об авторских правах.</seg>
@@ -1512,10 +1431,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>To export to one of these formats, choose &lt;f0&gt;File &gt; Export&lt;/f0&gt;.</seg>
+        <seg>To export to one of these formats, choose File &gt; Export.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T212609Z" creationid="tagezi" creationdate="20180304T212609Z">
-        <seg>Для экспорта в один из этих форматов, выберите &lt;f0&gt;Файл &gt; Экспорт...&lt;/f0&gt;.</seg>
+        <seg>Для экспорта в один из этих форматов, выберите Файл &gt; Экспорт....</seg>
       </tuv>
     </tu>
     <tu>
@@ -1544,10 +1463,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Unified Office Format presentation (.uop, .uof)&lt;br3/&gt;</seg>
+        <seg>Unified Office Format presentation (.uop, .uof)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064251Z" creationid="tagezi" creationdate="20180305T064251Z">
-        <seg>Презентация Unified Office Format (.uop, .uof)&lt;br3/&gt;</seg>
+        <seg>Презентация Unified Office Format (.uop, .uof)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1560,10 +1479,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Unified Office Format spreadsheet (.uos, .uof)&lt;br12/&gt;</seg>
+        <seg>Unified Office Format spreadsheet (.uos, .uof)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T071325Z" creationid="tagezi" creationdate="20180305T064137Z">
-        <seg>Эл. таблица Unified Office Format (.uos, .uof)&lt;br12/&gt;</seg>
+        <seg>Эл. таблица Unified Office Format (.uos, .uof)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1596,14 +1515,6 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T230744Z" creationid="tagezi" creationdate="20180304T230744Z">
         <seg>Валерий Гончарук</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Version 5.0 was released in July 2015; version 5.1 was releases in February 2016&lt;ts0/&gt; &lt;f1&gt;and vserion 6.0 was release in February 2018&lt;/f1&gt;</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T170051Z" creationid="lera" creationdate="20180303T170051Z">
-        <seg>Версия 5.0 была выпущена в июле 2015; версия 5.1 в феврале 2016&lt;ts0/&gt;&lt;f1&gt;, а версия 6.0 в феврале 2018 года&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,18 +1567,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>When opening a Word document that contains an embedded equation editor object, if the option for it (MathType to LibreOffice Math or reverse) is checked in &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; Microsoft Office&lt;/f0&gt;, the object will be automatically converted to a LibreOffice Math object.</seg>
+        <seg>When opening a Word document that contains an embedded equation editor object, if the option for it (MathType to LibreOffice Math or reverse) is checked in Tools &gt; Options &gt; Load/Save &gt; Microsoft Office, the object will be automatically converted to a LibreOffice Math object.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T232745Z" creationid="tagezi" creationdate="20180304T232745Z">
-        <seg>При открытии документа Word, который содержит встроенный объект редактора формул, если для него указан параметр (MathType в LibreOffice Math или обратно) в &lt;f0&gt;Сервис &gt; Параметры... &gt; Загрузка/Сохранение &gt; Microsoft Office&lt;/f0&gt;, этот объект будет автоматически конвертирован в&lt;tc1/&gt; объект LibreOffice Math.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>When opening a Word document that contains an embedded equation editor object, if the option for it (MathType to LibreOffice Math or reverse) is checked in &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; Microsoft Office&lt;/f0&gt;, the object will be automatically converted to a&lt;tc1/&gt; LibreOffice Math object.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T165346Z" creationid="tagezi" creationdate="20180304T165346Z">
-        <seg>При открытии документа Word, который содержит встроенный объект редактора формул, если для него указан параметр (MathType в LibreOffice Math или обратно) в &lt;f0&gt;Сервис &gt; Параметры... &gt; Загрузка/Сохранение &gt; Microsoft Office&lt;/f0&gt;, этот объект будет автоматически конвертирован в&lt;tc1/&gt; объект LibreOffice Math.</seg>
+        <seg>При открытии документа Word, который содержит встроенный объект редактора формул, если для него указан параметр (MathType в LibreOffice Math или обратно) в Сервис &gt; Параметры... &gt; Загрузка/Сохранение &gt; Microsoft Office, этот объект будет автоматически конвертирован в объект LibreOffice Math.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1720,26 +1623,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>You can read more about The Document Foundation at: &lt;a0&gt;http://www.documentfoundation.org/&lt;/a0&gt;</seg>
+        <seg>You can read more about The Document Foundation at: http://www.documentfoundation.org/</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T170603Z" creationid="lera" creationdate="20180303T170603Z">
-        <seg>Вы можете больше узнать о The Document Foundation: &lt;a0&gt;http://www.documentfoundation.org/&lt;/a0&gt;</seg>
+        <seg>Вы можете больше узнать о The Document Foundation: http://www.documentfoundation.org/</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a0&gt;http://www.gnu.org/licenses/gpl.html&lt;/a0&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a1&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a1&gt;), version 4.0 or later.</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T151839Z" creationid="lera" creationdate="20180303T151839Z">
-        <seg>Вы можете распространять и/или изменять этот документ, соблюдая лицензии GNU General Public License (&lt;a0&gt;http://www.gnu.org/licenses/gpl.html&lt;/a0&gt;), версии 3 или более поздней, или Creative Commons Attribution License (&lt;a1&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a1&gt;), версии 4.0 или более поздней.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a1&gt;http://www.gnu.org/licenses/gpl.html&lt;/a1&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a2&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a2&gt;), version 4.0 or later.</seg>
+        <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (http://www.gnu.org/licenses/gpl.html), version 3 or later, or the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), version 4.0 or later.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T230604Z" creationid="tagezi" creationdate="20180304T230604Z">
-        <seg>Вы можете распространять и/или изменять этот документ, соблюдая лицензии GNU General Public License (&lt;a1&gt;http://www.gnu.org/licenses/gpl.html&lt;/a1&gt;), версии 3 или более поздней, или Creative Commons Attribution License (&lt;a2&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a2&gt;), версии 4.0 или более поздней.</seg>
+        <seg>Вы можете распространять и/или изменять этот документ, соблюдая лицензии GNU General Public License (http://www.gnu.org/licenses/gpl.html), версии 3 или более поздней, или Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), версии 4.0 или более поздней.</seg>
       </tuv>
     </tu>
     <tu>
