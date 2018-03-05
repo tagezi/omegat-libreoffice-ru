@@ -5,4 +5,7 @@ project_stats_match.txt
 desktop.ini
 Thumbs.db
 .DS_Store
-GStart/target/*
+target/*
+.repositories/*
+project_save.tmx#*
+omegat/last_entry.*
