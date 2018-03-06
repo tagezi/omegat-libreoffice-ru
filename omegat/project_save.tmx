@@ -1184,8 +1184,8 @@
       <tuv lang="EN-US">
         <seg>In other words, using styles means that you shift the emphasis from what the text (or page, or other element) looks like, to what the text &lt;f1&gt;is&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T200911Z" creationid="olex" creationdate="20180306T200911Z">
-        <seg>Другими словами, использование стилей означает сместить акцент от того как выглядит текст (или страница, или другой элемент) к тому, чем текст &lt;f1&gt;является&lt;/f1&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T201204Z" creationid="olex" creationdate="20180306T200911Z">
+        <seg>Другими словами, использование стилей означает сместить акцент от того как выглядит текст (или страница, или другой элемент) к содержанию &lt;f1&gt;текста&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2035,6 +2035,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T192259Z" creationid="olex" creationdate="20180306T192259Z">
         <seg>Стили это &lt;f0&gt;логические&lt;/f0&gt; атрибуты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles help improve consistency in a document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T201110Z" creationid="olex" creationdate="20180306T201110Z">
+        <seg>Стили помогают улучшить согласованность оформления документа.</seg>
       </tuv>
     </tu>
     <tu>
