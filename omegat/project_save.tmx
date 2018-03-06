@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All documents in LibreOffice are based on templates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T180138Z" creationid="olex" creationdate="20180306T180138Z">
+        <seg>Все документы в LibreOffice основаны на шаблонах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T151856Z" creationid="lera" creationdate="20180303T151856Z">
@@ -754,6 +762,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T144809Z" creationid="tagezi" creationdate="20180306T144809Z">
         <seg>Если на вашем компьютере у вас нет установленной автономной справки, но у вас есть соединение с интернетом, ваш браузер по умолчанию откроет страницу Справки в интернете на сайте LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do not specify a template when you start a new document, then the document is based on the default template for that type of document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T180600Z" creationid="olex" creationdate="20180306T180600Z">
+        <seg>Если вы не указали шаблон, когда создавали новый документ, то этот документ создается из шаблона по умолчанию для данного типа документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2236,6 +2252,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181831Z" creationid="tagezi" creationdate="20180304T181831Z">
         <seg>Writer/Web может сохранять в следующие форматы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can create a specific template for any document type (text, spreadsheet, drawing, presentation).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T180207Z" creationid="olex" creationdate="20180306T180207Z">
+        <seg>Можно создать определенный шаблон для любого типа документа (текст, таблица, рисунок, презентация).</seg>
       </tuv>
     </tu>
     <tu>
