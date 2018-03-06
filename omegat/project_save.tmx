@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -114,6 +114,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100035Z" creationid="lera" creationdate="20180303T153517Z">
         <seg>Выбор меню &lt;f0&gt;Сервис &gt; Параметры...&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;What's This?&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;For quick tips when a toolbar is visible, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T183244Z" creationid="tagezi" creationdate="20180306T183244Z">
+        <seg>&lt;f0&gt;Что это такое?&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;For quick tips when a toolbar is visible, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,8 +568,8 @@
       <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: The Help Menu</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T150146Z" creationid="tagezi" creationdate="20180306T150146Z">
-        <seg>Изображение &lt;seq0&gt;1&lt;/seq0&gt;: Меню Справка</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T182331Z" creationid="tagezi" creationdate="20180306T150146Z">
+        <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: Меню Справка</seg>
       </tuv>
     </tu>
     <tu>
@@ -1811,6 +1819,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T173112Z" creationid="olex" creationdate="20180306T173112Z">
         <seg>Авторы этого издания:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following options shown here prefixed by a &lt;f0&gt;‡&lt;/f0&gt; sign are only accessible if your computer is connected to the Internet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T183523Z" creationid="tagezi" creationdate="20180306T183205Z">
+        <seg>Следующие функции, показанные здесь с поставленным впереди знаком &lt;f0&gt;‡&lt;/f0&gt;, доступны только в том случае, если ваш компьютер подключен к Интернету.</seg>
       </tuv>
     </tu>
     <tu>
