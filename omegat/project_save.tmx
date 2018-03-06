@@ -1599,6 +1599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See “&lt;rf0&gt;Setting a default template&lt;/rf0&gt;” on page &lt;rf1&gt;18&lt;/rf1&gt;&lt;s2/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T180913Z" creationid="olex" creationdate="20180306T180913Z">
+        <seg>Смотрите “&lt;rf0&gt;Настройка шаблона по умолчанию&lt;/rf0&gt;” на странице &lt;rf1&gt;18&lt;/rf1&gt;&lt;s2/&gt;для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some keystrokes and menu items are different on a Mac from those used in Windows and Linux.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T173629Z" creationid="lera" creationdate="20180303T153023Z">
@@ -2268,6 +2276,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T180207Z" creationid="olex" creationdate="20180306T180207Z">
         <seg>Можно создать определенный шаблон для любого типа документа (текст, таблица, рисунок, презентация).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can create templates for Master Documents as well as for ordinary documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T181115Z" creationid="olex" creationdate="20180306T181115Z">
+        <seg>Можно создавать шаблоны для мастер документов, а также для обычных документов.</seg>
       </tuv>
     </tu>
     <tu>
