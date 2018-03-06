@@ -424,8 +424,8 @@
       <tuv lang="EN-US">
         <seg>Changing page orientation within a document</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195741Z" creationid="olex" creationdate="20180306T195741Z">
-        <seg>Изменение ориентации страниц документа</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195835Z" creationid="olex" creationdate="20180306T195741Z">
+        <seg>Изменение ориентации страниц внутри документа</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,6 +450,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T062641Z" creationid="tagezi" creationdate="20180305T062641Z">
         <seg>Документ ClarisWorks/AppleWorks (.cwk)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compiling an automatic table of contents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T200041Z" creationid="olex" creationdate="20180306T200041Z">
+        <seg>Автоматическое составление оглавления</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,6 +506,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T154445Z" creationid="lera" creationdate="20180303T154445Z">
         <seg>Control+click и/или щелчок правой кнопкой мыши в зависимости от настроек ОС</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controlling page breaks automatically</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195935Z" creationid="olex" creationdate="20180306T195935Z">
+        <seg>Автоматическое управление разрывом страницы</seg>
       </tuv>
     </tu>
     <tu>
@@ -610,6 +626,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195651Z" creationid="olex" creationdate="20180306T195651Z">
         <seg>Определение отдельной первой страницы документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defining a sequence of paragraph styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T200120Z" creationid="olex" creationdate="20180306T200120Z">
+        <seg>Определение последовательности стилей абзаца</seg>
       </tuv>
     </tu>
     <tu>
