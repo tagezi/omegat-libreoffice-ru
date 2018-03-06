@@ -478,10 +478,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copying styles from a template or document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T194832Z" creationid="olex" creationdate="20180306T194832Z">
+        <seg>Копирование стилей из шаблона или документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T151100Z" creationid="lera" creationdate="20180303T151100Z">
         <seg>Авторское право</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a document from the Templates dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T194855Z" creationid="olex" creationdate="20180306T194855Z">
+        <seg>Создание документа из диалогового окна шаблоны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a new style from a selection</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T194753Z" creationid="olex" creationdate="20180306T194753Z">
+        <seg>Создание нового стиля из выделенного фрагмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a new style using the Style dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T194742Z" creationid="olex" creationdate="20180306T194742Z">
+        <seg>Создание нового стиля с помощью диалогового окна "Стиль"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating new (custom) styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T194718Z" creationid="olex" creationdate="20180306T194718Z">
+        <seg>Создание новых (пользовательских) стилей</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,6 +538,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064008Z" creationid="tagezi" creationdate="20180305T064008Z">
         <seg>Формат обмена данными (.dif)&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T194836Z" creationid="olex" creationdate="20180306T194836Z">
+        <seg>Удаление стилей</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +570,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T183317Z" creationid="olex" creationdate="20180306T183317Z">
         <seg>Прямое форматирование это повторение действий, к примеру: применить жирный шрифт для нескольких слов, установить отдельные поля для каждого абзаца или изменить размер шрифта заголовка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dragging and dropping to create a style</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T194822Z" creationid="olex" creationdate="20180306T194822Z">
+        <seg>Перетаскивание для создания стиля</seg>
       </tuv>
     </tu>
     <tu>
@@ -2192,10 +2248,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Updating styles from a document or template</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T194652Z" creationid="olex" creationdate="20180306T194652Z">
+        <seg>Обновление стилей из документа или шаблона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Used with other keys</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T155222Z" creationid="lera" creationdate="20180303T155222Z">
         <seg>Используется с другими клавишами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using AutoUpdate</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T194631Z" creationid="olex" creationdate="20180306T194631Z">
+        <seg>Использование автоматического обновления</seg>
       </tuv>
     </tu>
     <tu>
@@ -2220,6 +2292,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T172245Z" creationid="olex" creationdate="20180306T172245Z">
         <seg>Использование стилей и шаблонов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using a template to create a document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T194842Z" creationid="olex" creationdate="20180306T194842Z">
+        <seg>Использование шаблона для создания документа</seg>
       </tuv>
     </tu>
     <tu>
