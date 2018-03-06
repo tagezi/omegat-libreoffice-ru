@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2456,6 +2456,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T183621Z" creationid="olex" creationdate="20180306T183621Z">
+        <seg>стили</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T175031Z" creationid="olex" creationdate="20180306T175031Z">
@@ -2468,6 +2476,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153511Z" creationid="tagezi" creationdate="20180304T153511Z">
         <seg>текстовых документов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>types supported</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T183637Z" creationid="olex" creationdate="20180306T183637Z">
+        <seg>Поддерживаемые типы</seg>
       </tuv>
     </tu>
     <tu>
