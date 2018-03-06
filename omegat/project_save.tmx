@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Direct formatting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T181437Z" creationid="olex" creationdate="20180306T181437Z">
+        <seg>Прямое форматирование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw (vector graphics)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T081606Z" creationid="tagezi" creationdate="20180306T081606Z">
@@ -2282,8 +2290,8 @@
       <tuv lang="EN-US">
         <seg>You can create templates for Master Documents as well as for ordinary documents.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T181115Z" creationid="olex" creationdate="20180306T181115Z">
-        <seg>Можно создавать шаблоны для мастер документов, а также для обычных документов.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T181409Z" creationid="olex" creationdate="20180306T181115Z">
+        <seg>Вы можете создавать шаблоны для составных документов также как для обычных документов.</seg>
       </tuv>
     </tu>
     <tu>
