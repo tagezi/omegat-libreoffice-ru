@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Associating a document with a different template</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195345Z" creationid="olex" creationdate="20180306T195345Z">
+        <seg>Связывание документа с другим шаблоном</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AutoCAD Interchange Format (*.dxf)&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064435Z" creationid="tagezi" creationdate="20180305T064435Z">
@@ -542,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a template category</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195418Z" creationid="olex" creationdate="20180306T195418Z">
+        <seg>Создание категории шаблонов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a template from a document</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194956Z" creationid="olex" creationdate="20180306T194956Z">
@@ -578,6 +594,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064008Z" creationid="tagezi" creationdate="20180305T064008Z">
         <seg>Формат обмена данными (.dif)&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting a template</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195448Z" creationid="olex" creationdate="20180306T195448Z">
+        <seg>Удаление шаблона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting a template category</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195437Z" creationid="olex" creationdate="20180306T195437Z">
+        <seg>Удаление категории шаблонов</seg>
       </tuv>
     </tu>
     <tu>
@@ -958,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Importing a template</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195459Z" creationid="olex" creationdate="20180306T195459Z">
+        <seg>Импорт шаблона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Impress (presentations)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T081548Z" creationid="tagezi" creationdate="20180306T081548Z">
@@ -1058,6 +1098,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T183604Z" creationid="olex" creationdate="20180306T183604Z">
         <seg>Напротив, форматирование стилями является современным способом позволить компьютеру форматировать документы гораздо более эффективно и сократить время, затраченное на прямое форматирование.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing collections of templates</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195159Z" creationid="olex" creationdate="20180306T195159Z">
+        <seg>Установка коллекции шаблонов</seg>
       </tuv>
     </tu>
     <tu>
@@ -1374,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moving a template</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195443Z" creationid="olex" creationdate="20180306T195443Z">
+        <seg>Перемещение шаблонов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New documents created from this template will all have your company’s logo on the first page.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T175620Z" creationid="olex" creationdate="20180306T175620Z">
@@ -1639,6 +1695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Organizing templates</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195352Z" creationid="olex" creationdate="20180306T195352Z">
+        <seg>Упорядочение шаблонов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other free online support</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T142308Z" creationid="tagezi" creationdate="20180306T142308Z">
@@ -1727,6 +1791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resetting the default template</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195314Z" creationid="olex" creationdate="20180306T195314Z">
+        <seg>Сброс шаблона по умолчанию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rich Text Format (.rtf)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T062734Z" creationid="tagezi" creationdate="20180305T062734Z">
@@ -1811,6 +1883,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T180913Z" creationid="olex" creationdate="20180306T180913Z">
         <seg>Смотрите “&lt;rf0&gt;Настройка шаблона по умолчанию&lt;/rf0&gt;” на странице &lt;rf1&gt;18&lt;/rf1&gt;&lt;s2/&gt;для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting a default template</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195207Z" creationid="olex" creationdate="20180306T195207Z">
+        <seg>Настройка шаблона по умолчанию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting a template as the default</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195307Z" creationid="olex" creationdate="20180306T195307Z">
+        <seg>Установка шаблоном по умолчанию</seg>
       </tuv>
     </tu>
     <tu>
