@@ -1623,6 +1623,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Templates can contain anything that regular documents can contain, such as text, graphics, a set of styles, and user-specific setup information such as measurement units, language, the default printer, and toolbar and menu customization.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T175946Z" creationid="olex" creationdate="20180306T175946Z">
+        <seg>Шаблоны могут содержать все элементы обычных документов, такие как: текст, графика, набор стилей,- и настройки специфичной для пользователя информации например: единицы измерения, язык, принтер по умолчанию, настройки панели инструментов и меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Text (.txt)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064624Z" creationid="tagezi" creationdate="20180305T064624Z">
