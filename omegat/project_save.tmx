@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adding templates obtained from other sources</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195104Z" creationid="olex" creationdate="20180306T195104Z">
+        <seg>Добавление шаблонов, полученных из других источников</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, over 450,000 people from nearly every part of the globe have joined this project with the idea of creating the best possible office suite that all can use.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T195547Z" creationid="lera" creationdate="20180303T195547Z">
@@ -494,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a document from a template in the Start Center</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T194944Z" creationid="olex" creationdate="20180306T194944Z">
+        <seg>Создание документа из шаблона в стартовом окне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a document from the Templates dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194855Z" creationid="olex" creationdate="20180306T194855Z">
@@ -514,6 +530,30 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194742Z" creationid="olex" creationdate="20180306T194742Z">
         <seg>Создание нового стиля с помощью диалогового окна "Стиль"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a template</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T194950Z" creationid="olex" creationdate="20180306T194950Z">
+        <seg>Создание шаблона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a template from a document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T194956Z" creationid="olex" creationdate="20180306T194956Z">
+        <seg>Создание шаблона из документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a template using a wizard</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195021Z" creationid="olex" creationdate="20180306T195021Z">
+        <seg>Создание шаблона с помощью мастера</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,6 +634,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181205Z" creationid="tagezi" creationdate="20180304T181117Z">
         <seg>Draw сохраняет только в форматы OpenDocument Drawing (.odg, .otg, и .fodg), OpenOffice.org 1.x (.sxd и .std) и фоматы StarDraw (.sda, .sdd, и .vor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing a template</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195026Z" creationid="olex" creationdate="20180306T195026Z">
+        <seg>Редактирование шаблона</seg>
       </tuv>
     </tu>
     <tu>
@@ -1010,6 +1058,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T183604Z" creationid="olex" creationdate="20180306T183604Z">
         <seg>Напротив, форматирование стилями является современным способом позволить компьютеру форматировать документы гораздо более эффективно и сократить время, затраченное на прямое форматирование.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing individual templates</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195149Z" creationid="olex" creationdate="20180306T195149Z">
+        <seg>Установка отдельных шаблонов</seg>
       </tuv>
     </tu>
     <tu>
@@ -2236,6 +2292,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T213752Z" creationid="lera" creationdate="20180303T213752Z">
         <seg>В отличие от других форматов файлов, ODF (ISO-IEC 26300:2015) открытый стандарт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updating a document from a changed template</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195036Z" creationid="olex" creationdate="20180306T195036Z">
+        <seg>Обновление документа на основе измененного шаблона</seg>
       </tuv>
     </tu>
     <tu>
