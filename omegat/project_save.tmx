@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, you might specify the font family, font size, and any formatting such as bold or italic, like a typewriter described above.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T190748Z" creationid="olex" creationdate="20180306T190748Z">
+        <seg>Например, вы можете указать семейство шрифтов, размер шрифта и форматирование, такое как полужирный шрифт или курсив, как при использовании печатной машинки, описанном выше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more detail, see the user guides for the individual components.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T083231Z" creationid="tagezi" creationdate="20180306T083231Z">
@@ -1707,6 +1715,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T063037Z" creationid="tagezi" creationdate="20180305T063037Z">
         <seg>Форматы StarWriter (.sdw, .sgl, .vor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles are &lt;f0&gt;logical&lt;/f0&gt; attributes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T192259Z" creationid="olex" creationdate="20180306T192259Z">
+        <seg>Стили это &lt;f0&gt;логические&lt;/f0&gt; атрибуты.</seg>
       </tuv>
     </tu>
     <tu>
