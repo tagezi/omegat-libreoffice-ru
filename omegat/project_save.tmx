@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base (database)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T081618Z" creationid="tagezi" creationdate="20180306T081618Z">
+        <seg>Base (база данных)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Based on LibreOffice 6.0.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090733Z" creationid="tagezi" creationdate="20180305T090733Z">
@@ -290,6 +298,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T152810Z" creationid="lera" creationdate="20180303T152810Z">
         <seg>Основано на LibreOffice &lt;tc4/&gt;&lt;ts5/&gt;&lt;f6&gt;6.0&lt;/f6&gt;&lt;te7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calc (spreadsheets)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T081531Z" creationid="tagezi" creationdate="20180306T081531Z">
+        <seg>Calc (электронные таблицы)</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +394,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T205532Z" creationid="tagezi" creationdate="20180304T205532Z">
         <seg>Для создания нового файла в другом формате, не выходя из текущего содержимого и формата файла, вместо команды &lt;f0&gt;Сохранить как&lt;/f0&gt;, LibreOffice использует термин “Экспорт”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw (vector graphics)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T081606Z" creationid="tagezi" creationdate="20180306T081606Z">
+        <seg>Draw (векторная графика)</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impress (presentations)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T081548Z" creationid="tagezi" creationdate="20180306T081548Z">
+        <seg>Impress (презентации)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Impress can also export to MacroMedia Flash (.swf) and any of the graphics formats listed for Draw.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180723Z" creationid="tagezi" creationdate="20180304T180723Z">
@@ -706,6 +738,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T155718Z" creationid="lera" creationdate="20180303T155718Z">
         <seg>Введение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also covers some of the features common to all components, including setup and customization, styles and templates, macro recording, and printing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T082828Z" creationid="tagezi" creationdate="20180306T082828Z">
+        <seg>Она также касается некоторого общего функционала для всех модулей, включая установку и настройку, стили и шаблоны, запись макросов и печать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -906,6 +946,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T164623Z" creationid="lera" creationdate="20180303T164623Z">
         <seg>Обновления основных версий для OpenOffice.org включали версию 2.0 в октябре 2005 и версию 3.0 в октябре 2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Math (equation editor)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T081644Z" creationid="tagezi" creationdate="20180306T081644Z">
+        <seg>Math (редактор формул)</seg>
       </tuv>
     </tu>
     <tu>
