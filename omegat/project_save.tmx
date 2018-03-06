@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing page orientation within a document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195741Z" creationid="olex" creationdate="20180306T195741Z">
+        <seg>Изменение ориентации страниц документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chapter 3 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T172202Z" creationid="olex" creationdate="20180306T172202Z">
@@ -552,8 +560,8 @@
       <tuv lang="EN-US">
         <seg>Creating a template category</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195418Z" creationid="olex" creationdate="20180306T195418Z">
-        <seg>Создание категории шаблонов</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195547Z" creationid="olex" creationdate="20180306T195418Z">
+        <seg>Создание категории шаблона</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Defining a different first page for a document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195651Z" creationid="olex" creationdate="20180306T195651Z">
+        <seg>Определение отдельной первой страницы документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deleting a template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195448Z" creationid="olex" creationdate="20180306T195448Z">
@@ -608,8 +624,8 @@
       <tuv lang="EN-US">
         <seg>Deleting a template category</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195437Z" creationid="olex" creationdate="20180306T195437Z">
-        <seg>Удаление категории шаблонов</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195538Z" creationid="olex" creationdate="20180306T195437Z">
+        <seg>Удаление категории шаблона</seg>
       </tuv>
     </tu>
     <tu>
@@ -642,6 +658,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T183317Z" creationid="olex" creationdate="20180306T183317Z">
         <seg>Прямое форматирование это повторение действий, к примеру: применить жирный шрифт для нескольких слов, установить отдельные поля для каждого абзаца или изменить размер шрифта заголовка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displaying different headers on right and left pages</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195802Z" creationid="olex" creationdate="20180306T195802Z">
+        <seg>Отображение различных заголовков на правой и левой страницах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dividing a document into chapters</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195708Z" creationid="olex" creationdate="20180306T195708Z">
+        <seg>Разделить документ на главы</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +730,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090647Z" creationid="tagezi" creationdate="20180305T090647Z">
         <seg>Всё, что вы отправите в список рассылки, включая ваш адрес электронной почты и любые персональные данные в сообщении, будут доступны публично и не могут быть удалены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Examples of style use</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195616Z" creationid="olex" creationdate="20180306T195616Z">
+        <seg>Примеры использования стиля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exporting a template</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195602Z" creationid="olex" creationdate="20180306T195602Z">
+        <seg>Экспорт шаблона</seg>
       </tuv>
     </tu>
     <tu>
@@ -1424,8 +1472,8 @@
       <tuv lang="EN-US">
         <seg>Moving a template</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195443Z" creationid="olex" creationdate="20180306T195443Z">
-        <seg>Перемещение шаблонов</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195530Z" creationid="olex" creationdate="20180306T195443Z">
+        <seg>Перемещение шаблона</seg>
       </tuv>
     </tu>
     <tu>
