@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have not specified a default template, LibreOffice uses the blank template for that type of document that is installed with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180306T180733Z" creationid="olex" creationdate="20180306T180733Z">
+        <seg>Если вы не указали шаблон по умолчанию, то LibreOffice использует для этого типа документа шаблон, который устанавливался с LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Illustrations</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T142457Z" creationid="tagezi" creationdate="20180306T142457Z">
