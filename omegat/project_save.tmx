@@ -2981,6 +2981,14 @@ any formatting = любое форматирование
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This markup language is designed to be easily read wherever possible, for example, a over b produces the fraction&lt;f0&gt;&lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;formula&lt;/s4&gt;&lt;/df1&gt;&lt;/f0&gt;when used in a formula.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180307T205234Z" creationid="User" creationdate="20180307T205234Z">
+        <seg>Язык разметки разработан для легкого чтения где только возможно, например, a over b производит дробь&lt;f0&gt;&lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;формула&lt;/s4&gt;&lt;/df1&gt;&lt;/f0&gt;при использовании в формуле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tip</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T170217Z" creationid="tagezi" creationdate="20180304T170217Z">
