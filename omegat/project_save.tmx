@@ -176,6 +176,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Paragraph styles&lt;/f0&gt; control all aspects of a paragraph’s appearance, such as text alignment, tab stops, line spacing, and borders, and can include character formatting.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T180659Z" creationid="olex" creationdate="20180307T180659Z">
+        <seg>&lt;f0&gt; Стили абзаца &lt;/ f0&gt; управляют всеми особенностями внешнего вида абзаца, такими как выравнивание текста, табуляция, межстрочный интервал, граница и могут включать форматирование символов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Restart in Safe Mode&lt;/f0&gt; Opens a dialog window where you will have the option to restart LibreOffice and reset the software to it's default settings.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T112127Z" creationid="tagezi" creationdate="20180307T112127Z">
@@ -1235,6 +1243,14 @@ any formatting = любое форматирование
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180723Z" creationid="tagezi" creationdate="20180304T180723Z">
         <seg>Impress также может экспортировать в MacroMedia Flash (.swf) и некоторые другие формат, перечисленные для Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Calc, page styles also include the sequence for printing sheets.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T180100Z" creationid="olex" creationdate="20180307T180100Z">
+        <seg>В Calc стили страницы также включают последовательность печати листов.</seg>
       </tuv>
     </tu>
     <tu>
