@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1046,6 +1046,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T182331Z" creationid="tagezi" creationdate="20180306T150146Z">
         <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: Меню Справка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;shows the window for Writer, with Paragraph Styles visible.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T204828Z" creationid="olex" creationdate="20180307T204828Z">
+        <seg>На рисунке &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt; показан фрагмент окна Writer с предварительным просмотром стилей абзаца.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2458,6 +2466,14 @@ any formatting = любое форматирование
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select one of the buttons at the top left of the Styles window to display a list of styles in that category.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T205008Z" creationid="olex" creationdate="20180307T205008Z">
+        <seg>Нажмите одну из кнопок в левом верхнем углу окна «Стили», чтобы отобразить список стилей в этой категории.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Setting a default template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195207Z" creationid="olex" creationdate="20180306T195207Z">
@@ -2725,8 +2741,8 @@ any formatting = любое форматирование
       <tuv lang="EN-US">
         <seg>The Styles window shows previews of the styles available.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180307T204427Z" creationid="olex" creationdate="20180307T204427Z">
-        <seg>В окне «Стили» есть предварительный просмотр для доступных стилей.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T204514Z" creationid="olex" creationdate="20180307T204427Z">
+        <seg>В окне «Стили» показывает предварительный просмотр доступных стилей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3033,6 +3049,14 @@ any formatting = любое форматирование
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T202100Z" creationid="olex" creationdate="20180307T202100Z">
         <seg>Чтобы применить стиль абзаца, поместите курсор в абзаце, а затем выберите один из стилей абзаца в меню &lt;f0&gt;Стили&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To apply an existing style, position the insertion point in the paragraph, frame, page, or word, and then double-click the name of the style in one of these lists.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T205321Z" creationid="olex" creationdate="20180307T205321Z">
+        <seg>Чтобы применить существующий стиль, выберите абзац, врезку, страницу или слово, а затем дважды щелкните на имени стиля в соответствующем списке стилей.</seg>
       </tuv>
     </tu>
     <tu>
