@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3548,6 +3548,14 @@ any formatting = любое форматирование
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181831Z" creationid="tagezi" creationdate="20180304T181831Z">
         <seg>Writer/Web может сохранять в следующие форматы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can choose to show all styles or other groups of styles, for example only custom styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T210424Z" creationid="olex" creationdate="20180307T210424Z">
+        <seg>Вы можете выбрать "Все стили" или другие группы стилей, например только "Стили пользователя".</seg>
       </tuv>
     </tu>
     <tu>
