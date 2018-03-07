@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1050,6 +1050,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: An empty formula document in Math</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180307T205538Z" creationid="User" creationdate="20180307T205538Z">
+        <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: Пустой документ формулы в Math</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: The Help Menu</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T182331Z" creationid="tagezi" creationdate="20180306T150146Z">
@@ -1210,6 +1218,14 @@ any formatting = любое форматирование
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T200142Z" creationid="olex" creationdate="20180306T200142Z">
         <seg>Форматирование таблицы во Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formulas as separate documents or files</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180307T205512Z" creationid="User" creationdate="20180307T205512Z">
+        <seg>Формулы, как отдельные документы или файлы</seg>
       </tuv>
     </tu>
     <tu>
@@ -3089,6 +3105,14 @@ any formatting = любое форматирование
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T205522Z" creationid="olex" creationdate="20180307T205321Z">
         <seg>Чтобы применить существующий стиль, выберите абзац, врезку, страницу или слово, а затем дважды щелкните на имени стиля в соответствующем списке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To create a formula as a separate document or file, use one of the following methods to open an empty formula document in LibreOffice Math (Figure &lt;t0&gt;1&lt;/t0&gt;):</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180307T210202Z" creationid="User" creationdate="20180307T210202Z">
+        <seg>Для создания формулы, как отдельного документа или файла, используйте один из следующих методов, чтобы открыть пустой документ в LibreOffice Math (Рисунок &lt;t0&gt;1&lt;/t0&gt;):</seg>
       </tuv>
     </tu>
     <tu>
