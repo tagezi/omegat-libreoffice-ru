@@ -109,6 +109,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>LG: я тут не знаю как перводить. АскБот у нас есть, но там ник-то не общается. Все хотят на форуме сидеть.</note>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Get Help Online &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Ask LibreOffice&lt;f3&gt; &lt;/f3&gt;forum of questions and answers from the LibreOffice community &lt;a4&gt;https://ask.libreoffice.org/en/questions/&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T105110Z" creationid="tagezi" creationdate="20180307T105110Z">
+        <seg>&lt;f0&gt;Получить помощь в сети &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Открывает ваш браузер по умолчанию на странице форума "Открытые офисные пакеты от А до Я" &lt;a4&gt;http://forumooo.ru/&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; menu selection</seg>
       </tuv>
@@ -2349,6 +2358,14 @@ any formatting = любое форматирование
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100007Z" creationid="lera" creationdate="20180303T153122Z">
         <seg>В таблице ниже приведены некоторые общие соответствия для инструкций в этой главе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There you will find copies of User Guides and other useful information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T104100Z" creationid="tagezi" creationdate="20180307T104100Z">
+        <seg>Там вы найдете экземпляры Руководств пользователя и другую полезную информацию.</seg>
       </tuv>
     </tu>
     <tu>
