@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1608,6 +1608,14 @@ any formatting = любое форматирование
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T195909Z" creationid="olex" creationdate="20180307T195909Z">
+        <seg>Сочетание клавиш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lera Goncaruk</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T091400Z" creationid="tagezi" creationdate="20180305T091400Z">
@@ -2623,6 +2631,22 @@ any formatting = любое форматирование
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T053944Z" creationid="lera" creationdate="20180303T164411Z">
         <seg>Проект OpenOffice.org начался 13 октября 2000 года, когда &lt;is0/&gt;Sun Microsystems&lt;ie1/&gt; опубликовала исходный код своего программного продукта StarOffice® для сообщества разработчиков приложений с открытым кодом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Styles menu does not have styles for frames, pages, or tables.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T201546Z" creationid="olex" creationdate="20180307T201546Z">
+        <seg>В меню «Стили» нет стилей для врезок, страниц или таблиц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Styles menu has the most important paragraph, character, and list styles for almost every text document, with an extra entry for custom style management options listed in the bottom of the menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T201413Z" creationid="olex" creationdate="20180307T201413Z">
+        <seg>Меню «Стили» содержит самые важные почти для каждого текстового документа стили абзацев, символов и списков, а также дополнительные инструменты, перечисленные в нижней части меню, для управления некоторыми параметрами стилей.</seg>
       </tuv>
     </tu>
     <tu>
