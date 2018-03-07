@@ -2103,11 +2103,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>user-specific = специфичной для пользователя - по мне звучит нормально и вполне допустимо. Вопрос возникает с setup information = данные наладки, то есть, user-specific setup information = пользоваетльские (специфичные для пользователя) данные наладки. Это из автоматизации термин. Ничего в голову не приходит, но твой вариан мне по ухам режет.</note>
       <tuv lang="EN-US">
         <seg>Templates can contain anything that regular documents can contain, such as text, graphics, a set of styles, and user-specific setup information such as measurement units, language, the default printer, and toolbar and menu customization.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T175946Z" creationid="olex" creationdate="20180306T175946Z">
-        <seg>Шаблоны могут содержать все элементы обычных документов, такие как: текст, графика, набор стилей,- и настройки специфичной для пользователя информации например: единицы измерения, язык, принтер по умолчанию, настройки панели инструментов и меню.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T022005Z" creationid="olex" creationdate="20180306T175946Z">
+        <seg>Шаблоны могут содержать любой элемент обычных документов, такой как: текст, графика, набор стилей, и настройки специфичной для пользователя информации например: единицы измерения, язык, принтер по умолчанию, настройки панели инструментов и меню.</seg>
       </tuv>
     </tu>
     <tu>
