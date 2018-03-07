@@ -3144,5 +3144,16 @@ any formatting = любое форматирование
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">GS6000_Preface.odt</prop>
+      <prop type="prev">2</prop>
+      <prop type="next">4</prop>
+      <tuv lang="EN-US">
+        <seg>Who is this book for?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T125437Z" creationid="tagezi" creationdate="20180307T125354Z">
+        <seg>Для кого эта книга?</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
