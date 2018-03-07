@@ -86,10 +86,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;About LibreOffice&lt;/f0&gt; Opens a dialog window and displays information about the version of LibreOffice and the operating system you are using.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T113610Z" creationid="tagezi" creationdate="20180307T113407Z">
+        <seg>&lt;f0&gt;О программе LibreOffice&lt;/f0&gt; Открывает диалоговое окно и показывает информацию о версии LibreOffice и операционной системы, которые вы используете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Check for Updates&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens a dialog window and checks the LibreOffice website for updates to your version of the software.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T113353Z" creationid="tagezi" creationdate="20180307T113353Z">
-        <seg>&lt;f0&gt;Проверка обновлений&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Открывает диалоговое окно и проверяет обновления для вашей версии программного обеспечения на сайте LibreOffice.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T113414Z" creationid="tagezi" creationdate="20180307T113353Z">
+        <seg>&lt;f0&gt;Проверка обновлений...&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Открывает диалоговое окно и проверяет обновления для вашей версии программного обеспечения на сайте LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
