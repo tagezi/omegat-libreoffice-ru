@@ -2623,11 +2623,12 @@ any formatting = любое форматирование
       </tuv>
     </tu>
     <tu>
+      <note>LG: TODO: "to have those". Расмотреть варианты сиснонимов "включает", "сожержит". Возможно просто придираюсь. </note>
       <tuv lang="EN-US">
         <seg>Using styles means that you stop saying “font size 14pt, Times New Roman, bold, centered” and you start saying “Title” because you have defined the “Title” style to have those characteristics.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T200451Z" creationid="olex" creationdate="20180306T192729Z">
-        <seg>Использование стилей означает, что вы остановились, сказав: «шрифт размером 14pt, Times New Roman, полужирный, по центру»,- и называете это «Заголовок», так вы определили стиль «Заголовок», который имеет такие характеристики.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T091313Z" creationid="olex" creationdate="20180306T192729Z">
+        <seg>Использование стилей означает, что вы остановились, сказав: «шрифт размером 14pt, Times New Roman, полужирный, по центру»,— и называете это «Заголовок», потому что вы определили стиль «Заголовок», который имеет такие характеристики.</seg>
       </tuv>
     </tu>
     <tu>
