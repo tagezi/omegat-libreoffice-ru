@@ -113,8 +113,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Character styles&lt;/f0&gt; affect selected text within a paragraph, such as the font and size of text, or bold and italic formats.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180307T180751Z" creationid="olex" creationdate="20180307T180751Z">
-        <seg>&amp;lt;f0&amp;gt;Стили символов&amp;lt;/f0&amp;gt; влияет выбранный текст внутри абзаца, такие как шрифт и размер текста, или полужирный и курсив.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T182846Z" creationid="olex" creationdate="20180307T180751Z">
+        <seg>&lt;f0&gt;Стили символов&lt;/f0&gt; влияют на выделенный текст в абзаце, например тип и размер шрифта, или оформление полужирным и курсивом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,16 +178,16 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Page styles&lt;/f0&gt; include margins, headers and footers, borders and backgrounds.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180307T175955Z" creationid="olex" creationdate="20180307T175955Z">
-        <seg>&lt;f0&gt; Стили страницы &lt;/ f0&gt; включают поля, верхние и нижние колонтитулы, границы и фон.&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T180850Z" creationid="olex" creationdate="20180307T175955Z">
+        <seg>&lt;f0&gt; Стили страницы &lt;/f0&gt; включают поля, верхние и нижние колонтитулы, границы и фон.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Paragraph styles&lt;/f0&gt; control all aspects of a paragraph’s appearance, such as text alignment, tab stops, line spacing, and borders, and can include character formatting.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180307T180659Z" creationid="olex" creationdate="20180307T180659Z">
-        <seg>&lt;f0&gt; Стили абзаца &lt;/ f0&gt; управляют всеми особенностями внешнего вида абзаца, такими как выравнивание текста, табуляция, межстрочный интервал, граница и могут включать форматирование символов.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T181014Z" creationid="olex" creationdate="20180307T180659Z">
+        <seg>&lt;f0&gt; Стили абзаца &lt;/f0&gt; управляют всеми особенностями внешнего вида абзаца, такими как выравнивание текста, табуляция, межстрочный интервал, граница и могут включать форматирование символов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1257,8 +1257,8 @@ any formatting = любое форматирование
       <tuv lang="EN-US">
         <seg>In Calc, page styles also include the sequence for printing sheets.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180307T180100Z" creationid="olex" creationdate="20180307T180100Z">
-        <seg>В Calc стили страницы также включают последовательность печати листов.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T180926Z" creationid="olex" creationdate="20180307T180100Z">
+        <seg>В Calc стиль страницы также включает порядок печати листов.</seg>
       </tuv>
     </tu>
     <tu>
