@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -986,6 +986,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example formulas are shown below.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180307T204353Z" creationid="User" creationdate="20180307T204353Z">
+        <seg>Пример формул показан ниже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples of style use</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195616Z" creationid="olex" creationdate="20180306T195616Z">
@@ -1298,6 +1306,14 @@ any formatting = любое форматирование
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181234Z" creationid="tagezi" creationdate="20180304T181234Z">
         <seg>Однако, Draw также может экспортировать в BMP, EMF, EPS, GIF, JPEG, MET, PBM, PCT, PGM, PNG, PPM, RAS, SVG, SVM, TIFF, WMF, and XPM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, if you want to evaluate numeric values using formulas, then refer to the Calc Guide for more information; Math does not carry out any actual calculation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180307T204600Z" creationid="User" creationdate="20180307T204600Z">
+        <seg>Однако, если необходимо вычислять числовые значения, используя формулы, то обратитсеь к руководству по Calc для получения более подробной информации; Math не выполняет никаких расчётов.</seg>
       </tuv>
     </tu>
     <tu>
