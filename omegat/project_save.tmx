@@ -193,8 +193,8 @@
       <tuv lang="EN-US">
         <seg>A &lt;f0&gt;style&lt;/f0&gt; is a set of formats that you can apply to selected pages, text, frames, and other elements in your document to quickly change their appearance.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T185908Z" creationid="olex" creationdate="20180306T185609Z">
-        <seg>&lt;f0&gt;Стиль &lt;/f0&gt; — это набор форматов, которые вы можете применить к выбранным страницам, тексту, рамкам и другим элементам в вашем документе, чтобы быстро изменять их внешний вид.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T084929Z" creationid="olex" creationdate="20180306T185609Z">
+        <seg>&lt;f0&gt;Стиль&lt;/f0&gt; — это набор форматов, которые вы можете применить к выбранным страницам, тексту, рамкам и другим элементам в вашем документе, чтобы быстро изменять их внешний вид.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1632,6 +1632,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>LG: TODO: "целой группы форматов" немного режет слух. Подумать как можно улучшить.</note>
       <tuv lang="EN-US">
         <seg>Often applying a style means applying a whole group of formats at the same time.</seg>
       </tuv>
@@ -2670,8 +2671,8 @@
       <tuv lang="EN-US">
         <seg>What are &lt;i0/&gt;&lt;i1/&gt;styles?</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T193337Z" creationid="olex" creationdate="20180306T185533Z">
-        <seg>&lt;i0/&gt;&lt;i1/&gt;Что такое стили?</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T084853Z" creationid="olex" creationdate="20180306T185533Z">
+        <seg>Что такое &lt;i0/&gt;&lt;i1/&gt;стили?</seg>
       </tuv>
     </tu>
     <tu>
