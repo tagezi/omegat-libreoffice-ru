@@ -578,6 +578,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T193536Z" creationid="olex" creationdate="20180307T193536Z">
+        <seg>Таблица Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calc (spreadsheets)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T081531Z" creationid="tagezi" creationdate="20180306T081531Z">
@@ -886,6 +894,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194822Z" creationid="olex" creationdate="20180306T194822Z">
         <seg>Перетаскивание для создания стиля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T193542Z" creationid="olex" creationdate="20180307T193542Z">
+        <seg>Рисунок Draw</seg>
       </tuv>
     </tu>
     <tu>
@@ -1307,6 +1323,14 @@ any formatting = любое форматирование
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195459Z" creationid="olex" creationdate="20180306T195459Z">
         <seg>Импорт шаблона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impress</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T193628Z" creationid="olex" creationdate="20180307T193628Z">
+        <seg>Презентация Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -2106,6 +2130,14 @@ any formatting = любое форматирование
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T193751Z" creationid="olex" creationdate="20180307T193751Z">
+        <seg>Страница</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Paid support and training</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T142330Z" creationid="tagezi" creationdate="20180306T142330Z">
@@ -2342,6 +2374,14 @@ any formatting = любое форматирование
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T063037Z" creationid="tagezi" creationdate="20180305T063037Z">
         <seg>Форматы StarWriter (.sdw, .sgl, .vor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Style Type</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T193459Z" creationid="olex" creationdate="20180307T193459Z">
+        <seg>Тип стиля</seg>
       </tuv>
     </tu>
     <tu>
@@ -3147,6 +3187,14 @@ any formatting = любое форматирование
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064606Z" creationid="tagezi" creationdate="20180305T064606Z">
         <seg>Графика WordPerfect (*.wpg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writer</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T193519Z" creationid="olex" creationdate="20180307T193519Z">
+        <seg>Документ Writer</seg>
       </tuv>
     </tu>
     <tu>
