@@ -117,11 +117,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>LG: TODO: Додеать структуру предложения</note>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;What's This?&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;For quick tips when a toolbar is visible, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T183244Z" creationid="tagezi" creationdate="20180306T183244Z">
-        <seg>&lt;f0&gt;Что это такое?&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;For quick tips when a toolbar is visible, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T102301Z" creationid="tagezi" creationdate="20180306T183244Z">
+        <seg>&lt;f0&gt;Что это такое?&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;Для быстрых подсказок, когда видна панель инструментов, поместите указатель мыши над любым значком, чтобы увидеть маленькие прямоугольники (“всплывающая подсказка”) с кратким описанием функции значка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -843,6 +844,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T201741Z" creationid="olex" creationdate="20180306T201741Z">
         <seg>Для объемного документа эта простая задача может потребовать внесения отдельных изменений в десятках мест.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a more detailed explanation, select &lt;f2&gt;Help &gt; What's This?&lt;/f2&gt; and hold the pointer over the icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T102652Z" creationid="tagezi" creationdate="20180307T102652Z">
+        <seg>Для получения более подробной пояснение , выберите &lt;f2&gt;Справка &gt; Что это такое?&lt;/f2&gt; и удерживайте указатель над значком..</seg>
       </tuv>
     </tu>
     <tu>
