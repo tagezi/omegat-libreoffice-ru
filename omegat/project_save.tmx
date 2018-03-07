@@ -2490,14 +2490,6 @@ any formatting = любое форматирование
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Styles and Formatting window</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180307T202919Z" creationid="olex" creationdate="20180307T202919Z">
-        <seg>Стили и форматирование окно</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Styles are &lt;f0&gt;logical&lt;/f0&gt; attributes.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T003301Z" creationid="olex" creationdate="20180306T192259Z">
@@ -3081,6 +3073,14 @@ any formatting = любое форматирование
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T155222Z" creationid="lera" creationdate="20180303T155222Z">
         <seg>Используется с другими клавишами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using &lt;i0/&gt;the Styles window</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T203336Z" creationid="olex" creationdate="20180307T203336Z">
+        <seg>Использование &lt;i0/&gt;окна «Стили»</seg>
       </tuv>
     </tu>
     <tu>
