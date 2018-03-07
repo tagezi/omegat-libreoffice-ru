@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(included in Frame styles)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T194253Z" creationid="olex" creationdate="20180307T194253Z">
+        <seg>(включен в стили врезок)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*.odb for databases</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180304T071319Z" creationid="lera" creationdate="20180304T071319Z">
@@ -186,8 +194,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Graphics styles&lt;/f0&gt; in drawings and presentations include line, area, shadowing, transparency, font, connectors, dimensioning, and other attributes.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180307T191141Z" creationid="olex" creationdate="20180307T191141Z">
-        <seg>&lt;f0&gt;Стили рисунков&lt;/f0&gt; в рисунках и презентациях содержат оформление линии, области, тени, прозрачности, шрифта, соединительных линий, размерных линий и другие атрибуты.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T194011Z" creationid="olex" creationdate="20180307T191141Z">
+        <seg>&lt;f0&gt;Стили графических объектов&lt;/f0&gt; в рисунках и презентациях содержат оформление линии, области, тени, прозрачности, шрифта, соединительных линий, размерных линий и другие атрибуты.</seg>
       </tuv>
     </tu>
     <tu>
