@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -111,6 +111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Cell styles&lt;/f0&gt; include fonts, alignment, borders, background, number formats (for example, currency, date, number), and cell protection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T184853Z" creationid="olex" creationdate="20180307T184853Z">
+        <seg>&lt;f0&gt;Стили ячеек&lt;/f0&gt; включают шрифты, выравнивание текста, вид границы, фона, числовые форматы (например, валюта, дата, номер) и защиту ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Character styles&lt;/f0&gt; affect selected text within a paragraph, such as the font and size of text, or bold and italic formats.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T182846Z" creationid="olex" creationdate="20180307T180751Z">
@@ -176,6 +184,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Graphics styles&lt;/f0&gt; in drawings and presentations include line, area, shadowing, transparency, font, connectors, dimensioning, and other attributes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T191141Z" creationid="olex" creationdate="20180307T191141Z">
+        <seg>&lt;f0&gt;Стили рисунков&lt;/f0&gt; в рисунках и презентациях содержат оформление линии, области, тени, прозрачности, шрифта, соединительных линий, размерных линий и другие атрибуты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;License Information&lt;/f0&gt; outlining the licenses under which LibreOffice is made available.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T113112Z" creationid="tagezi" creationdate="20180307T113112Z">
@@ -186,8 +202,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;List styles&lt;/f0&gt; allow you to select, format, and position numbers or bullets in lists.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180307T184405Z" creationid="olex" creationdate="20180307T184405Z">
-        <seg>&lt;f0&gt;Стили списка&lt;/f0&gt; позволяют вам выбрать, формат и положение нумерации или маркеров в списках.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T184506Z" creationid="olex" creationdate="20180307T184405Z">
+        <seg>&lt;f0&gt;Стили списка&lt;/f0&gt; позволяют вам выбрать, оформление и положение нумерации или маркеров в списках.</seg>
       </tuv>
     </tu>
     <tu>
