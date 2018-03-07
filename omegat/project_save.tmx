@@ -117,6 +117,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;User Guides &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Documentation page of the LibreOffice website &lt;a3&gt;https://documentation.libreoffice.org/en/english-documentation/&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T103533Z" creationid="tagezi" creationdate="20180307T103533Z">
+        <seg>&lt;f0&gt;Руководство пользователя &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Открывает ваш браузер по умолчанию на странице документации сайта LibreOffice &lt;a3&gt;https://documentation.libreoffice.org/en/english-documentation/&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: TODO: Додеать структуру предложения</note>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;What's This?&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;For quick tips when a toolbar is visible, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
@@ -1225,6 +1233,15 @@ any formatting = любое форматирование
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T201913Z" creationid="olex" creationdate="20180306T201913Z">
         <seg>Кроме того, стили используются в LibreOffice для многих процессов, даже если вы не знаете о них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>LG: создается ощущение что тут устаревшая информация</note>
+      <tuv lang="EN-US">
+        <seg>In addition, you can choose whether to activate Extended Tips using &lt;f3&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T103146Z" creationid="tagezi" creationdate="20180307T103146Z">
+        <seg>Кроме того, используя &lt;f3&gt;Сервис &gt; Параметры... &gt; LibreOffice &gt; Общие&lt;/f3&gt;, вы можете выбрать, следует ли активировать Подробные всплывающие подсказки.</seg>
       </tuv>
     </tu>
     <tu>
