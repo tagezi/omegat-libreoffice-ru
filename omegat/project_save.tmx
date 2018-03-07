@@ -77,6 +77,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt;or&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180307T204621Z" creationid="User" creationdate="20180307T204621Z">
+        <seg>&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;формула&lt;/s3&gt;&lt;/df0&gt;или&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;формула&lt;/s7&gt;&lt;/df4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>проверка примечаний</note>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;4&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Where to get more help&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
@@ -2631,6 +2639,14 @@ any formatting = любое форматирование
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T170637Z" creationid="lera" creationdate="20180303T170637Z">
         <seg>Миссия The Document Foundation:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Formula Editor in Math uses a markup language to represent formulas.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180307T204812Z" creationid="User" creationdate="20180307T204812Z">
+        <seg>Редактор формул в Math использует специальный язык разметки для представления формул.</seg>
       </tuv>
     </tu>
     <tu>
