@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2081,8 +2081,8 @@
       <tuv lang="EN-US">
         <seg>Styles are &lt;f0&gt;logical&lt;/f0&gt; attributes.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T192259Z" creationid="olex" creationdate="20180306T192259Z">
-        <seg>Стили это &lt;f0&gt;логические&lt;/f0&gt; атрибуты.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T003301Z" creationid="olex" creationdate="20180306T192259Z">
+        <seg>Стили — это &lt;f0&gt;логические&lt;/f0&gt; свойства.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2329,8 +2329,8 @@
       <tuv lang="EN-US">
         <seg>They are used to writing documents according to &lt;f0&gt;physical&lt;/f0&gt; attributes.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T190618Z" creationid="olex" creationdate="20180306T190618Z">
-        <seg>Они используют для написания документов соответственные &lt;f0&gt;физические&lt;/f0&gt; атрибуты.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T014359Z" creationid="olex" creationdate="20180306T190618Z">
+        <seg>Они привыкли писать документы в соответствии с &lt;f0&gt;видимыми&lt;/f0&gt; свойствами.</seg>
       </tuv>
     </tu>
     <tu>
