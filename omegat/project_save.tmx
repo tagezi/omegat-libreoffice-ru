@@ -109,12 +109,28 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Donate to LibreOffice &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at the Donation page of the LibreOffice website &lt;a2&gt;https://donate.libreoffice.org/&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T112334Z" creationid="tagezi" creationdate="20180307T112334Z">
+        <seg>&lt;f0&gt;Поддержать LibreOffice &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt; Открывает ваш браузер по умолчанию на странице пожертвований сайта LibreOffice &lt;a2&gt;https://donate.libreoffice.org/&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: я тут не знаю как перводить. АскБот у нас есть, но там ник-то не общается. Все хотят на форуме сидеть.</note>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Get Help Online &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Ask LibreOffice&lt;f3&gt; &lt;/f3&gt;forum of questions and answers from the LibreOffice community &lt;a4&gt;https://ask.libreoffice.org/en/questions/&lt;/a4&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T105110Z" creationid="tagezi" creationdate="20180307T105110Z">
         <seg>&lt;f0&gt;Получить помощь в сети &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Открывает ваш браузер по умолчанию на странице форума "Открытые офисные пакеты от А до Я" &lt;a4&gt;http://forumooo.ru/&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Restart in Safe Mode&lt;/f0&gt; Opens a dialog window where you will have the option to restart LibreOffice and reset the software to it's default settings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T112127Z" creationid="tagezi" creationdate="20180307T112127Z">
+        <seg>&lt;f0&gt;Перезапуск в безопасном режиме...&lt;/f0&gt; Открывает диалоговое окно, в котором у вас будет возможность перезапустить LibreOffice и сбросить настройки программного обеспечения до настроек по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
