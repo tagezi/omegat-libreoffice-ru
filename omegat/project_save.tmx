@@ -1090,7 +1090,7 @@ any formatting = любое форматирование
       </tuv>
     </tu>
     <tu>
-      <note>LG: По поводу таких штук (повторение фразы) лучше сообщать в команду документации (ну, или мне хотя бы)</note>
+      <note>LG: TODO: вычитать</note>
       <tuv lang="EN-US">
         <seg>If you have not specified a default template, LibreOffice uses the blank template for that type of document that is installed with LibreOffice.</seg>
       </tuv>
@@ -2040,8 +2040,8 @@ any formatting = любое форматирование
       <tuv lang="EN-US">
         <seg>Some common examples of style use are given in “&lt;rf0&gt;Examples of style use&lt;/rf0&gt;” on page &lt;rf1&gt;22&lt;/rf1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T202437Z" creationid="olex" creationdate="20180306T202437Z">
-        <seg>Некоторые общие примеры использования стиля приведены в «&lt;rf0&gt; Примеры использования стиля &lt;/rf0&gt;» на странице &lt;rf1&gt; 22 &lt;/rf1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T093520Z" creationid="olex" creationdate="20180306T202437Z">
+        <seg>Некоторые общие примеры использования стилей приведены в «&lt;rf0&gt; Примеры использования стиля &lt;/rf0&gt;» на странице &lt;rf1&gt; 22 &lt;/rf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
