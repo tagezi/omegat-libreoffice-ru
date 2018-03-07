@@ -158,6 +158,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Frame styles&lt;/f0&gt; are used to format graphic and text frames, including text wrap, borders, backgrounds, and columns.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T183901Z" creationid="olex" creationdate="20180307T183901Z">
+        <seg>&lt;f0&gt;Стили врезки&lt;/f0&gt; используются для оформления графических и текстовых врезок, включая обтекание текстом, формат границ, фон и количество столбцов текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: я тут не знаю как перводить. АскБот у нас есть, но там ник-то не общается. Все хотят на форуме сидеть.</note>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Get Help Online &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Ask LibreOffice&lt;f3&gt; &lt;/f3&gt;forum of questions and answers from the LibreOffice community &lt;a4&gt;https://ask.libreoffice.org/en/questions/&lt;/a4&gt;.</seg>
