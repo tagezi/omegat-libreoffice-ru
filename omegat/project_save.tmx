@@ -111,6 +111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Character styles&lt;/f0&gt; affect selected text within a paragraph, such as the font and size of text, or bold and italic formats.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180307T180751Z" creationid="olex" creationdate="20180307T180751Z">
+        <seg>&amp;lt;f0&amp;gt;Стили символов&amp;lt;/f0&amp;gt; влияет выбранный текст внутри абзаца, такие как шрифт и размер текста, или полужирный и курсив.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Check for Updates&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens a dialog window and checks the LibreOffice website for updates to your version of the software.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T113414Z" creationid="tagezi" creationdate="20180307T113353Z">
