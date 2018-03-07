@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1762,16 +1762,16 @@ any formatting = любое форматирование
       <tuv lang="EN-US">
         <seg>Lothar Becker will present LibreOffice Certification on Saturday, March 24, during LibrePlanet, and will host a certification focused workshop on Monday, March 26, at the Boston Nonprofit Center, from 9:30 AM to 1:30 PM.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T190045Z" creationid="tagezi" creationdate="20180307T190045Z">
-        <seg>Lothar Becker представит Сертификацию LibreOffice в субботу 24 марта, во время LibrePlanet, and will host a certification focused workshop on Monday, March 26, at the Boston Nonprofit Center, from 9:30 AM to 1:30 PM.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T201941Z" creationid="tagezi" creationdate="20180307T190045Z">
+        <seg>Lothar Becker представит Сертификацию LibreOffice в субботу 24 марта, во время LibrePlanet, и в понедельник 26 марта в Бостонском некоммерческом центре с 9:30 до 13:30 проведет семинар, посвященный сертификации.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Lothar Becker, co-chair of the Certification Committee, will talk about migration projects and training activities related to LibreOffice, with the objective of helping enterprises to achieve the freedom associated with free software and open document formats.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T184510Z" creationid="tagezi" creationdate="20180307T184510Z">
-        <seg>Lothar Becker, сопредседатель Комитета Сертификации, с целью оказания помощи предприятиям в достижении свободы, тесно связанной со свободным программным обеспечением и открытыми форматами документов, расскажет о связанных с LibreOffice проектах миграции и учебных мероприятиях.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T201533Z" creationid="tagezi" creationdate="20180307T184510Z">
+        <seg>Lothar Becker, сопредседатель Комитета Сертификации, с целью оказания помощи предприятиям в достижении свободы, тесно связанной со свободным программным обеспечением и открытыми форматами документов, расскажет об относящихся с LibreOffice проектах миграции и учебных мероприятиях.</seg>
       </tuv>
     </tu>
     <tu>
