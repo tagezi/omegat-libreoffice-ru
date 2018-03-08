@@ -3119,6 +3119,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Style dialog displayed depends on the type of style selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T180505Z" creationid="olex" creationdate="20180308T180505Z">
+        <seg>Отображаемый диалог Стиль зависит от типа выбранного стиля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Styles menu does not have styles for frames, pages, or tables.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T152907Z" creationid="olex" creationdate="20180307T201546Z">
@@ -3517,6 +3525,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T205522Z" creationid="olex" creationdate="20180307T205321Z">
         <seg>Чтобы применить существующий стиль, выберите абзац, врезку, страницу или слово, а затем дважды щелкните на имени стиля в соответствующем списке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change an existing style using &lt;i0/&gt;the Style dialog, right-click on the required style in the Styles window and select &lt;f1&gt;Modify&lt;/f1&gt; from the pop-up menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T180341Z" creationid="olex" creationdate="20180308T180341Z">
+        <seg>Чтобы изменить существующий стиль с помощью диалогового окна &lt;i0/&gt; Стиль, щелкните правой кнопкой мыши по необходимому стилю в окне Стили и выберите &lt;f1&gt;Изменить&lt;/f1&gt; во всплывающем меню.</seg>
       </tuv>
     </tu>
     <tu>
