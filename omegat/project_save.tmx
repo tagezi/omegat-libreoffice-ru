@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1216,8 +1216,8 @@ any formatting = любое форматирование
       <tuv lang="EN-US">
         <seg>For example, you might specify the font family, font size, and any formatting such as bold or italic, like a typewriter described above.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T190748Z" creationid="olex" creationdate="20180306T190748Z">
-        <seg>Например, вы можете указать семейство шрифтов, размер шрифта и форматирование, такое как полужирный шрифт или курсив, как при использовании печатной машинки, описанном выше.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T144940Z" creationid="olex" creationdate="20180306T190748Z">
+        <seg>Например, вы могли бы указать семейство шрифтов, размер шрифта и форматирование, такое как полужирный шрифт или курсив, как при использовании печатной машинки, описанном выше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3518,12 +3518,13 @@ any formatting = любое форматирование
       </tuv>
     </tu>
     <tu>
-      <note>LG: TODO: "to have those". Расмотреть варианты сиснонимов "включает", "сожержит". Возможно просто придираюсь. </note>
+      <note>LG: TODO: "to have those". Расмотреть варианты сиснонимов "включает", "сожержит". Возможно просто придираюсь. 
+denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>Using styles means that you stop saying “font size 14pt, Times New Roman, bold, centered” and you start saying “Title” because you have defined the “Title” style to have those characteristics.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T091313Z" creationid="olex" creationdate="20180306T192729Z">
-        <seg>Использование стилей означает, что вы остановились, сказав: «шрифт размером 14pt, Times New Roman, полужирный, по центру»,— и называете это «Заголовок», потому что вы определили стиль «Заголовок», который имеет такие характеристики.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T145105Z" creationid="olex" creationdate="20180306T192729Z">
+        <seg>Использование стилей означает, что вы остановились, сказав: «шрифт размером 14pt, Times New Roman, полужирный, по центру»,— и называете это «Заголовок», потому что вы определили стиль «Заголовок», который включает такие характеристики.</seg>
       </tuv>
     </tu>
     <tu>
