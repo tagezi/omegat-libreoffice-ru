@@ -1326,6 +1326,14 @@ any formatting = любое форматирование
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From the Start Center, click &lt;f0&gt;Math Formula&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180308T135354Z" creationid="User" creationdate="20180308T135354Z">
+        <seg>На Стартовом экране нажмите на кнопку &lt;f0&gt;Формулу Math&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From there you can report bugs, suggest new features and communicate with others in the LibreOffice community.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T111646Z" creationid="tagezi" creationdate="20180307T111646Z">
@@ -1955,8 +1963,8 @@ any formatting = любое форматирование
       <tuv lang="EN-US">
         <seg>LibreOfficeMath is a &lt;is0/&gt;formula editor&lt;ie1/&gt; you can use to create or edit formulas (equations) in a symbolic form within LibreOffice documents or as standalone objects.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="User" changedate="20180307T204305Z" creationid="User" creationdate="20180307T204305Z">
-        <seg>LibreOfficeMath - это &lt;is0/&gt;редактор формул&lt;ie1/&gt;, который можно использовать для создания или редактирования формул (уравнений) в символьной форме в документах LibreOffice или как отдельные объекты.</seg>
+      <tuv lang="RU-RU" changeid="User" changedate="20180308T135045Z" creationid="User" creationdate="20180307T204305Z">
+        <seg>LibreOffice Math - это &lt;is0/&gt;редактор формул&lt;ie1/&gt;, который можно использовать для создания или редактирования формул (уравнений) в символьной форме в документах LibreOffice или как отдельные объекты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2239,6 +2247,14 @@ any formatting = любое форматирование
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T213105Z" creationid="tagezi" creationdate="20180304T213034Z">
         <seg>В диалоговом окне «Экспорт» укажите имя файла для экспортируемого документа, затем выберите нужный формат в списке &lt;f1&gt;Формат файла&lt;/f1&gt; и нажмите кнопку &lt;f2&gt;Экспорт&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the menu bar, go to &lt;f0&gt;File &gt; New &gt; Formula&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180308T135133Z" creationid="User" creationdate="20180308T135133Z">
+        <seg>Выберите пункт меню &lt;f0&gt;Файл &gt; Создать &gt; Формулу&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
