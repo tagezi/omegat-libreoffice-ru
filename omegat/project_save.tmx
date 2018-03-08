@@ -1819,6 +1819,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Styles window, select the style to update, then click on the arrow next to the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon and click &lt;f1&gt;Update Style&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T182931Z" creationid="olex" creationdate="20180308T182002Z">
+        <seg>В окне Стили выбрать стиль для обновления, затем нажать стрелку рядом с значком &lt;f0&gt;Создать стиль по выделению&lt;/f0&gt; и нажать &lt;f1&gt;Обновить стиль&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the document, select an item that has the format you want to adopt as a style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T181121Z" creationid="olex" creationdate="20180308T181121Z">
@@ -4030,8 +4038,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>When updating a paragraph style, make sure that the selected paragraph contains unique properties.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T181514Z" creationid="olex" creationdate="20180308T181240Z">
-        <seg>При обновлении стиля абзаца убедитесь, что выбранный абзац содержит уникальные свойства его элементов.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T182022Z" creationid="olex" creationdate="20180308T181240Z">
+        <seg>При обновлении стиля абзаца убедитесь, что выбранный абзац содержит одинаковые свойства его элементов.</seg>
       </tuv>
     </tu>
     <tu>
