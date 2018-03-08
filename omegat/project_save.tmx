@@ -3513,6 +3513,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change styles in more than one document, you need to change the template or copy the styles into the other documents as described on page &lt;bf0&gt;10&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T175834Z" creationid="olex" creationdate="20180308T175834Z">
+        <seg>Чтобы изменить стили более чем в одном документе, вам необходимо изменить шаблон или скопировать стили в другие документы, как описано на странице &lt;bf0&gt;10&lt;/bf0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To create a formula as a separate document or file, use one of the following methods to open an empty formula document in LibreOffice Math (Figure &lt;t0&gt;1&lt;/t0&gt;):</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T210202Z" creationid="User" creationdate="20180307T210202Z">
@@ -4131,6 +4139,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T230604Z" creationid="tagezi" creationdate="20180304T230604Z">
         <seg>Вы можете распространять и/или изменять этот документ, соблюдая лицензии GNU General Public License (&lt;a1&gt;http://www.gnu.org/licenses/gpl.html&lt;/a1&gt;), версии 3 или более поздней, или Creative Commons Attribution License (&lt;a2&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a2&gt;), версии 4.0 или более поздней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>changing using Style dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T175911Z" creationid="olex" creationdate="20180308T175911Z">
+        <seg>изменение с помощью диалога Стиль</seg>
       </tuv>
     </tu>
     <tu>
