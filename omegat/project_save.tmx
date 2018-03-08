@@ -580,8 +580,8 @@
       <tuv lang="EN-US">
         <seg>At the bottom of the Styles window is a drop-down list.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180307T205813Z" creationid="olex" creationdate="20180307T205650Z">
-        <seg>В нижней части окна «Стили» находится раскрывающийся список.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T153443Z" creationid="olex" creationdate="20180307T205650Z">
+        <seg>В нижней части окна Стили находится раскрывающийся список.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1108,8 +1108,8 @@
       <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: The Styles window for Writer, showing paragraph styles</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180307T210919Z" creationid="olex" creationdate="20180307T210919Z">
-        <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: Окно "Стили" во Writer, показаны стили абзаца</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T153536Z" creationid="olex" creationdate="20180307T210919Z">
+        <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: Окно Стили во Writer, показаны стили абзаца</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,6 +1134,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T233206Z" creationid="tagezi" creationdate="20180304T233206Z">
         <seg>Форматы файлов, в которые LibreOffice может сохранять</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fill Format</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T153756Z" creationid="olex" creationdate="20180308T153756Z">
+        <seg>Стилевая заливка</seg>
       </tuv>
     </tu>
     <tu>
@@ -3814,8 +3822,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can choose to show all styles or other groups of styles, for example only custom styles.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180307T210424Z" creationid="olex" creationdate="20180307T210424Z">
-        <seg>Вы можете выбрать "Все стили" или другие группы стилей, например только "Стили пользователя".</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T153526Z" creationid="olex" creationdate="20180307T210424Z">
+        <seg>Вы можете выбрать показать Все стили или другие группы стилей, например только Стили пользователя.</seg>
       </tuv>
     </tu>
     <tu>
