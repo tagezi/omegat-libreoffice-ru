@@ -562,6 +562,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply Style list</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T165249Z" creationid="olex" creationdate="20180308T165249Z">
+        <seg>Список создать стиль по выделеннию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applying styles</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T193539Z" creationid="olex" creationdate="20180306T193539Z">
@@ -626,6 +634,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be careful not to accidentally right-click and undo actions you want to keep.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T165109Z" creationid="olex" creationdate="20180308T165109Z">
+        <seg>Будьте осторожны, чтобы случайно не щелкнуть правой кнопкой мыши и не отменить действия, которые вы хотите сохранить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berlin, March 8, 2018 - The Document Foundation will present LibreOffice Certification to Free Software Foundation Members and free software advocates attending LibrePlanet in Boston.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T211517Z" creationid="tagezi" creationdate="20180307T173529Z">
@@ -654,6 +670,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T081531Z" creationid="tagezi" creationdate="20180306T081531Z">
         <seg>Calc (электронные таблицы)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caution</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T164833Z" creationid="olex" creationdate="20180308T164833Z">
+        <seg>Внимание</seg>
       </tuv>
     </tu>
     <tu>
@@ -3791,6 +3815,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T234242Z" creationid="tagezi" creationdate="20180304T234242Z">
         <seg>При публикации документа, в котором вы не ожидаете модификацию со стороны получателя, предпочтительным вариантом является конвертация документа в PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When this mode is active, a right-click anywhere in the document undoes the last Fill Format action.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T165020Z" creationid="olex" creationdate="20180308T165020Z">
+        <seg>Когда этот режим Стилевая заливка активен, щелчок правой кнопкой мыши в любом месте документа отменяет последнее действие.</seg>
       </tuv>
     </tu>
     <tu>
