@@ -2445,6 +2445,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open the Styles window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T180910Z" creationid="olex" creationdate="20180308T180910Z">
+        <seg>Откройте окно Стили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open the sidebar Styles and Formatting deck</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="mikek" changedate="20180307T122847Z" creationid="mikek" creationdate="20180307T122847Z">
@@ -3605,6 +3613,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T173901Z" creationid="olex" creationdate="20180308T173901Z">
         <seg>Чтобы удалить ручное форматирование, выберите текст, щелкните правой кнопкой мыши и выберите &lt;f0&gt;Стили &gt; Очистить форматирование&lt;/f0&gt; в контекстном меню или выберите текст и нажмите &lt;f1&gt;Ctrl + M&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To update a style from a selection:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T180857Z" creationid="olex" creationdate="20180308T180839Z">
+        <seg>Чтобы обновить стиль из выделенного фрагмента:</seg>
       </tuv>
     </tu>
     <tu>
