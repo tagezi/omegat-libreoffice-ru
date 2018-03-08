@@ -1576,6 +1576,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it mixes font sizes or font styles, those mixed properties will remain the same as before.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T181825Z" creationid="olex" creationdate="20180308T181504Z">
+        <seg>Если в нем смешаны различные размеры шрифта или разные стили шрифтов, то эти различніе настройки останутся такими же, как раньше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are new to LibreOffice, this appendix will provide some information regarding its history, its community, and some of its technical specifications.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100204Z" creationid="lera" creationdate="20180303T163429Z">
@@ -4022,8 +4030,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>When updating a paragraph style, make sure that the selected paragraph contains unique properties.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T181240Z" creationid="olex" creationdate="20180308T181240Z">
-        <seg>При обновлении стиля абзаца убедитесь, что выбранный абзац содержит уникальные свойства.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T181514Z" creationid="olex" creationdate="20180308T181240Z">
+        <seg>При обновлении стиля абзаца убедитесь, что выбранный абзац содержит уникальные свойства его элементов.</seg>
       </tuv>
     </tu>
     <tu>
