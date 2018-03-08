@@ -3352,6 +3352,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To apply a character style, hold down the mouse button while selecting the characters.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T164210Z" creationid="olex" creationdate="20180308T164210Z">
+        <seg>Чтобы применить стиль символа, удерживайте нажатой кнопку мыши при выборе символов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To apply a paragraph style, position the cursor in the paragraph, and then select one of the paragraph styles in the &lt;f0&gt;Styles&lt;/f0&gt; menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T202100Z" creationid="olex" creationdate="20180307T202100Z">
