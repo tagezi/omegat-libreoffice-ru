@@ -986,6 +986,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Direct formatting (also called &lt;f0&gt;manual formatting&lt;/f0&gt; ) overrides styles, and you cannot get rid of the direct formatting by applying a style to it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T173417Z" creationid="olex" creationdate="20180308T173417Z">
+        <seg>Прямое форматирование (это так же называют &lt;f0&gt;ручное форматирование&lt;/f0&gt; ) переопределяет стили, и вы не можете исправить прямое форматирования, просто применив к нему стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Direct formatting and Style formatting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T173156Z" creationid="olex" creationdate="20180308T173156Z">
+        <seg>Прямое форматирование и форматирование с применением стилей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Direct formatting is a repetitive activity where, for example, you apply bold characters to several words, set individual margins for each paragraph, or change font size of a heading.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T183317Z" creationid="olex" creationdate="20180306T183317Z">
