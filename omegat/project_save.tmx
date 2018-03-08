@@ -538,6 +538,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any changes you make to a style are effective only in the current document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T175643Z" creationid="olex" creationdate="20180308T175643Z">
+        <seg>Любые изменения, внесенные вами в стиль, действуют только в текущем документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anyone who wants to get up to speed quickly with LibreOffice will find this Getting Started Guide valuable.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T091724Z" creationid="tagezi" creationdate="20180305T091620Z">
@@ -700,8 +708,8 @@
       <tuv lang="EN-US">
         <seg>Change a style using the Style dialog</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T174607Z" creationid="olex" creationdate="20180308T174607Z">
-        <seg>Изменение стиля с помощью диалогового окна Изменить стиль</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T175428Z" creationid="olex" creationdate="20180308T174607Z">
+        <seg>Изменить стиль с помощью диалогового окна Изменить стиль</seg>
       </tuv>
     </tu>
     <tu>
@@ -2077,8 +2085,8 @@ denkin: исправил на "могли бы"</note>
       <tuv lang="EN-US">
         <seg>Load or copy styles from another document or template</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T175321Z" creationid="olex" creationdate="20180308T175321Z">
-        <seg>Загрузка или копирование стилей из другого документа или шаблона</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T175524Z" creationid="olex" creationdate="20180308T175321Z">
+        <seg>Загрузить или копировать стили из другого документа или шаблона</seg>
       </tuv>
     </tu>
     <tu>
@@ -3651,8 +3659,8 @@ denkin: исправил на "могли бы"</note>
       <tuv lang="EN-US">
         <seg>Use AutoUpdate (paragraph and frame styles only)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T175236Z" creationid="olex" creationdate="20180308T175236Z">
-        <seg>Используя Обновить стиль (только для стилей абзацев и врезок)</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T175459Z" creationid="olex" creationdate="20180308T175236Z">
+        <seg>Использовать функцию Обновить стиль (только для стилей абзацев и врезок)</seg>
       </tuv>
     </tu>
     <tu>
