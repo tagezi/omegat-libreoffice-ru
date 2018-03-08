@@ -698,6 +698,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change a style using the Style dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T174607Z" creationid="olex" creationdate="20180308T174607Z">
+        <seg>Изменение стиля с помощью диалогового окна Изменить стиль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changing a style using the Style dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194542Z" creationid="olex" creationdate="20180306T194542Z">
@@ -3601,6 +3609,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Update a style from a selection</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T174645Z" creationid="olex" creationdate="20180308T174645Z">
+        <seg>Создать стиль по выделению</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Updating a document from a changed template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195036Z" creationid="olex" creationdate="20180306T195036Z">
@@ -3621,6 +3637,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194652Z" creationid="olex" creationdate="20180306T194652Z">
         <seg>Обновление стилей из документа или шаблона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use AutoUpdate (paragraph and frame styles only)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T175236Z" creationid="olex" creationdate="20180308T175236Z">
+        <seg>Используя Обновить стиль (только для стилей абзацев и врезок)</seg>
       </tuv>
     </tu>
     <tu>
