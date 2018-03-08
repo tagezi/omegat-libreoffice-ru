@@ -1811,6 +1811,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the document, select an item that has the format you want to adopt as a style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T181121Z" creationid="olex" creationdate="20180308T181121Z">
+        <seg>В документе выбрать элемент с форматированием, которое вы хотите использовать в качестве стиля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Information about available accessibility options &lt;a0&gt;https://www.libreoffice.org/get-help/accessibility/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180308T083606Z" creationid="tagezi" creationdate="20180308T083606Z">
@@ -2447,8 +2455,8 @@ denkin: исправил на "могли бы"</note>
       <tuv lang="EN-US">
         <seg>Open the Styles window.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T180910Z" creationid="olex" creationdate="20180308T180910Z">
-        <seg>Откройте окно Стили.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T181000Z" creationid="olex" creationdate="20180308T180910Z">
+        <seg>Открыть окно Стили.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3619,8 +3627,8 @@ denkin: исправил на "могли бы"</note>
       <tuv lang="EN-US">
         <seg>To update a style from a selection:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T180857Z" creationid="olex" creationdate="20180308T180839Z">
-        <seg>Чтобы обновить стиль из выделенного фрагмента:</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T180952Z" creationid="olex" creationdate="20180308T180839Z">
+        <seg>Чтобы обновить стиль из выделенного фрагмента необходимо:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4008,6 +4016,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T165829Z" creationid="olex" creationdate="20180308T165020Z">
         <seg>Когда активен режим Стилевая заливка, щелчок правой кнопкой мыши в любом месте документа отменяет последнее действие.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When updating a paragraph style, make sure that the selected paragraph contains unique properties.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180308T181240Z" creationid="olex" creationdate="20180308T181240Z">
+        <seg>При обновлении стиля абзаца убедитесь, что выбранный абзац содержит уникальные свойства.</seg>
       </tuv>
     </tu>
     <tu>
