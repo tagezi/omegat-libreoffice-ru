@@ -1929,6 +1929,14 @@ any formatting = любое форматирование
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice runs on Windows, Linux, and macOS operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180308T113942Z" creationid="tagezi" creationdate="20180308T113942Z">
+        <seg>LibreOffice работает на операционных системах Windows, Linux и MacOS, у каждой из которых есть несколько версий и может быть настроена пользователями (шрифты, цвета, темы, оконные менеджеры).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice saves documents in OpenDocument Format by default.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T214156Z" creationid="lera" creationdate="20180303T214156Z">
