@@ -1575,6 +1575,14 @@ any formatting = любое форматирование
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Math, use the keyboard shortcut &lt;f0&gt;Ctrl+N&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180308T135542Z" creationid="User" creationdate="20180308T135542Z">
+        <seg>В Math используйте сочетание клавиш &lt;f0&gt;Ctrl+N&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to OpenDocument Formula (.odf) files, Math can open the format used by OpenOffice.org 1.x (.sxm), StarMath, (.smf), and MathML (.mml) files.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T155810Z" creationid="tagezi" creationdate="20180304T155810Z">
@@ -2247,6 +2255,14 @@ any formatting = любое форматирование
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T213105Z" creationid="tagezi" creationdate="20180304T213034Z">
         <seg>В диалоговом окне «Экспорт» укажите имя файла для экспортируемого документа, затем выберите нужный формат в списке &lt;f1&gt;Формат файла&lt;/f1&gt; и нажмите кнопку &lt;f2&gt;Экспорт&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Standard toolbar, click the triangle to the right of the &lt;f0&gt;New&lt;/f0&gt; icon and select &lt;f1&gt;Formula&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180308T135520Z" creationid="User" creationdate="20180308T135520Z">
+        <seg>На Стандартной панели инструментов щёлкните на маленьком треугольнике справа от значка &lt;f0&gt;Создать&lt;/f0&gt; и выберите пункт &lt;f1&gt;Формулу&lt;/f1&gt; из выпадающего меню.</seg>
       </tuv>
     </tu>
     <tu>
