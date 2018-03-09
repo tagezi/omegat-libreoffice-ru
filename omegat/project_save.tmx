@@ -3088,6 +3088,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Styles dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T194844Z" creationid="olex" creationdate="20180309T194844Z">
+        <seg>Диалоговое окно Стиль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Styles help improve consistency in a document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T201110Z" creationid="olex" creationdate="20180306T201110Z">
@@ -4274,8 +4282,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can do this by using either the Style dialog or the New Style from Selection tool.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180309T194644Z" creationid="olex" creationdate="20180309T194130Z">
-        <seg>Вы можете сделать это, используя контекстное меню Стиль или инструмент Создать стиль по выделению.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T194747Z" creationid="olex" creationdate="20180309T194130Z">
+        <seg>Вы можете сделать это, используя диалогового окна Стиль или инструмент Создать стиль по выделению.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4379,8 +4387,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>creating using Style dialog</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180309T194255Z" creationid="olex" creationdate="20180309T194215Z">
-        <seg>Создание, используя контекстное меню Стиль</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T194731Z" creationid="olex" creationdate="20180309T194215Z">
+        <seg>Создание, используя диалогового окна Стиль</seg>
       </tuv>
     </tu>
     <tu>
