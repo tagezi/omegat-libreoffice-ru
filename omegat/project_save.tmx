@@ -803,6 +803,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; again to close the AutoFormat dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T213103Z" creationid="olex" creationdate="20180309T213103Z">
+        <seg>Нажмите &lt;f0&gt;OK&lt;/f0&gt; еще раз, чтобы закрыть диалоговое окно Автоформат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the new style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203400Z" creationid="olex" creationdate="20180309T203400Z">
@@ -1324,6 +1332,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203623Z" creationid="olex" creationdate="20180309T203521Z">
         <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: Название нового стиля, созданного по выделению</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Table autoformat styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T213251Z" creationid="olex" creationdate="20180309T213251Z">
+        <seg>Рисунок &lt;seq0&gt;6&lt;/seq0&gt;: Окно Автоформат для стилей таблиц</seg>
       </tuv>
     </tu>
     <tu>
