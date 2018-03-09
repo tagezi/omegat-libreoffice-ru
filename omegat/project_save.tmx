@@ -604,8 +604,8 @@
       <tuv lang="EN-US">
         <seg>At the bottom of the Styles window is a drop-down list.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T153443Z" creationid="olex" creationdate="20180307T205650Z">
-        <seg>В нижней части окна Стили находится раскрывающийся список.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T063900Z" creationid="olex" creationdate="20180307T205650Z">
+        <seg>В нижней части окна Стили и форматирование находится раскрывающийся список.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1697,6 +1697,10 @@ denkin: исправил на "могли бы"</note>
       </tuv>
     </tu>
     <tu>
+      <note>LG: Нет нужды актив переделвать в пасив. У слова show есть друние значения. Но если переделывать, то нужно привести.
+"В окне показано Используемые стили" звучит криво.
+
+TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>In Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;the window shows &lt;f2&gt;Applied Styles&lt;/f2&gt;, meaning the list includes only the styles used in the document.</seg>
       </tuv>
