@@ -1645,6 +1645,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you &lt;i0/&gt;link styles, then when you change the base style (for example, by changing the font from Times to Helvetica), all the linked styles will change as well.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T200237Z" creationid="olex" creationdate="20180309T200237Z">
+        <seg>Если вы используете наследуемые стили &lt;i0/&gt;, то при изменении базового стиля (например, путем замены шрифта Times на Helvetica) все связанные стили также будут изменены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are in the habit of manually overriding styles in your document, be sure that AutoUpdate is &lt;f0&gt;not &lt;/f0&gt;enabled.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T193230Z" creationid="olex" creationdate="20180309T193230Z">
