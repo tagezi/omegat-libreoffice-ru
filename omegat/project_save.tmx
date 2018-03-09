@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1599,8 +1599,8 @@ denkin: исправил на "могли бы"</note>
       <tuv lang="EN-US">
         <seg>If it mixes font sizes or font styles, those mixed properties will remain the same as before.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T181825Z" creationid="olex" creationdate="20180308T181504Z">
-        <seg>Если в нем смешаны различные размеры шрифта или разные стили шрифтов, то эти различніе настройки останутся такими же, как раньше.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T191248Z" creationid="olex" creationdate="20180308T181504Z">
+        <seg>Если в нем смешаны различные размеры шрифта или разные стили шрифтов, то эти различные настройки останутся такими же, как раньше.</seg>
       </tuv>
     </tu>
     <tu>
