@@ -1653,6 +1653,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If Character Styles are active, the character style will be added to the list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T205530Z" creationid="olex" creationdate="20180309T205530Z">
+        <seg>Если активны стили символов, то в список будет добавлен новый стиль символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If Paragraph Styles are active, the paragraph style will be added to the list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T205356Z" creationid="olex" creationdate="20180309T205356Z">
