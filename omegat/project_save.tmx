@@ -1132,6 +1132,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw/Impress</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T210049Z" creationid="olex" creationdate="20180309T210049Z">
+        <seg>Рисунок Draw и перезентация Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each Style dialog has several tabs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180536Z" creationid="olex" creationdate="20180308T180536Z">
@@ -3066,6 +3074,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T062645Z" creationid="olex" creationdate="20180307T204101Z">
         <seg>Выберите &lt;f0&gt;Вид &gt; Стили&lt;/f0&gt; или &lt;f1&gt;Стили &gt; Управление стилями&lt;/f1&gt; на панели меню, или нажмите &lt;f2&gt;F11&lt;/f2&gt; (&lt;f3&gt;⌘+T &lt;/f3&gt;для Mac), или нажмите значок Стили и форматирование на боковой панели (&lt;f4&gt;Вид &gt; Боковая панель&lt;/f4&gt; чтобы открыть ее).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select and drag a drawing object to the Styles window to create a graphic style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T210711Z" creationid="olex" creationdate="20180309T210711Z">
+        <seg>Выберите и перетащите объект рисунка в окно Стили, чтобы создать стиль рисунка.</seg>
       </tuv>
     </tu>
     <tu>
