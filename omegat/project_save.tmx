@@ -1313,8 +1313,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>For example, in Writer &lt;f0&gt;Ctrl+0&lt;/f0&gt; applies the &lt;f1&gt;Text body&lt;/f1&gt; style, &lt;f2&gt;Ctrl+1&lt;/f2&gt; applies the &lt;f3&gt;Heading 1&lt;/f3&gt; style, and &lt;f4&gt;Ctrl+2&lt;/f4&gt; applies the &lt;f5&gt;Heading 2&lt;/f5&gt; style.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T172649Z" creationid="olex" creationdate="20180308T172649Z">
-        <seg>К примеру, во Writer &lt;f0&gt;Ctrl+0&lt;/f0&gt; применит стиль &lt;f1&gt;Основной текст&lt;/f1&gt;, &lt;f2&gt;Ctrl+1&lt;/f2&gt; применит стиль &lt;f3&gt;Заголовок 1&lt;/f3&gt; и &lt;f4&gt;Ctrl+2&lt;/f4&gt; применит стиль &lt;f5&gt;Заголовок 2&lt;/f5&gt;.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T094320Z" creationid="olex" creationdate="20180308T172649Z">
+        <seg>К примеру, в Writer &lt;f0&gt;Ctrl+0&lt;/f0&gt; применит стиль &lt;f1&gt;Основной текст&lt;/f1&gt;, &lt;f2&gt;Ctrl+1&lt;/f2&gt; применит стиль &lt;f3&gt;Заголовок 1&lt;/f3&gt; и &lt;f4&gt;Ctrl+2&lt;/f4&gt; применит стиль &lt;f5&gt;Заголовок 2&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4213,11 +4213,12 @@ denkin: исправил на "включает"</note>
       </tuv>
     </tu>
     <tu>
+      <note>LG:TODO: Is it possible to simplify "in order to know how make this" to "for instructions"?</note>
       <tuv lang="EN-US">
         <seg>You can modify these shortcuts and create your own; see Chapter 14, Customizing LibreOffice, for instructions.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T173014Z" creationid="olex" creationdate="20180308T173014Z">
-        <seg>Вы можете изменять эти сочетания клавиатуры и создавать свои собственные; смотрите главу 14, Настройка LibreOffice, для того чтобы узнать, как это сделать.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T095211Z" creationid="olex" creationdate="20180308T173014Z">
+        <seg>Вы можете изменить эти сочетания клавиатуры и создавать свои собственные; смотрите главу 14, Настройка LibreOffice, для того чтобы узнать, как это сделать.</seg>
       </tuv>
     </tu>
     <tu>
