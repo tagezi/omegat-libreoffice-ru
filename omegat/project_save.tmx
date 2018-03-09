@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -634,6 +634,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>LG: Словари не полные. Там много чего нет.  https://ru.wiktionary.org не плохой словарь, там часто есть толкование и склонение слова</note>
       <tuv lang="EN-US">
         <seg>AutoUpdate</seg>
       </tuv>
