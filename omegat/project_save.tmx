@@ -786,6 +786,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the new style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T203400Z" creationid="olex" creationdate="20180309T203400Z">
+        <seg>Нажмите &lt;f0&gt;OK&lt;/f0&gt;, чтобы сохранить новый стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: Тут скорее всего ошибка, оно должно писаться как: "Clicking of a word applies the character style to that word". Ну, и тогда нет необходимости актив превращать в пассив.</note>
       <tuv lang="EN-US">
         <seg>Clicking a word applies the character style for that word.</seg>
@@ -1251,6 +1259,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T183630Z" creationid="olex" creationdate="20180308T183630Z">
         <seg>Рисунок &lt;seq0&gt;4&lt;/seq0&gt;: Изменение стиля из списка Задать стиль абзаца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Naming a new style created from a selection</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T203521Z" creationid="olex" creationdate="20180309T203521Z">
+        <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: Именование нового стиля, созданного по выделению</seg>
       </tuv>
     </tu>
     <tu>
@@ -3469,6 +3485,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T182215Z" creationid="olex" creationdate="20180306T181449Z">
         <seg>Ключевой идеей при работе с компьютерной документацией является разделение содержания и форматирования документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The list shows the names of existing custom styles of the selected type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T203316Z" creationid="olex" creationdate="20180309T203316Z">
+        <seg>В списке будут показаны имена существующих пользовательских стилей выбранного типа.</seg>
       </tuv>
     </tu>
     <tu>
