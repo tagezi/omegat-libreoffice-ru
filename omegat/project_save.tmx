@@ -1265,8 +1265,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Naming a new style created from a selection</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180309T203521Z" creationid="olex" creationdate="20180309T203521Z">
-        <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: Именование нового стиля, созданного по выделению</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T203623Z" creationid="olex" creationdate="20180309T203521Z">
+        <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: Название нового стиля, созданного по выделению</seg>
       </tuv>
     </tu>
     <tu>
@@ -1950,8 +1950,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>In the Styles window, select on the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180309T203103Z" creationid="olex" creationdate="20180309T203103Z">
-        <seg>В окне Стили выберите значок &lt;f0&gt;Создать стиль по выделение&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T203541Z" creationid="olex" creationdate="20180309T203103Z">
+        <seg>В окне Стили выберите значок &lt;f0&gt;Создать стиль по выделению&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4424,6 +4424,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can drag and drop a selection into the Styles window to create a new style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T204016Z" creationid="olex" creationdate="20180309T204016Z">
+        <seg>Вы можете перетаскивать выделенный элемент в окно Стили, чтобы создать новый стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can modify both types of styles in several ways:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T104806Z" creationid="olex" creationdate="20180308T174339Z">
@@ -4509,6 +4517,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180001Z" creationid="olex" creationdate="20180308T175911Z">
         <seg>изменение с помощью диалогового окна Стиль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>creating by dragging and dropping</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T203644Z" creationid="olex" creationdate="20180309T203644Z">
+        <seg>создание путем перетаскивания</seg>
       </tuv>
     </tu>
     <tu>
