@@ -476,8 +476,8 @@
       <tuv lang="EN-US">
         <seg>After you have used a paragraph style at least once in a document, the style name appears on the Apply Style list near the left-hand end of the Formatting toolbar.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T170701Z" creationid="olex" creationdate="20180308T170132Z">
-        <seg>После того, как вы использовали стиль абзаца по крайней мере один раз в документе, имя стиля появится в списке Задать стиль абзаца слева на панели инструментов Форматирование.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T091250Z" creationid="olex" creationdate="20180308T170132Z">
+        <seg>После того, как вы использовали стиль абзаца в документе по крайней мере один раз, имя стиля появится в списке Задать стиль абзаца слева на панели инструментов Форматирование.</seg>
       </tuv>
     </tu>
     <tu>
@@ -577,6 +577,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>LG: Мне кажеться, что тут должно переводиться как "Список Задать стиль абзаца". См. следующий коментарий и сегмент после него.</note>
       <tuv lang="EN-US">
         <seg>Apply Style list</seg>
       </tuv>
