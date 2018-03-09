@@ -1368,6 +1368,14 @@ denkin: по смыслу как то не могу вписать "озадач
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you might name a modified Heading 1 style for an annual report &lt;f0&gt;AR Heading 1&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T201610Z" creationid="olex" creationdate="20180309T201610Z">
+        <seg>Например, вы можете назвать измененный стиль Заголовок 1 для годового отчета &lt;f0&gt;ГО Заголовок 1 &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: TODO: Подумать над might. При прямом перводе получается какойто NLP, а не объяснение. Но менять на настоящее время теряеться смысл. Возможно, хорошим варианто м будет "можно было бы". Не уверен.
 any formatting = любое форматирование
 Форматирование описывается до и после such as, возможно нужно упрощать английский вариант.
@@ -4429,6 +4437,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180001Z" creationid="olex" creationdate="20180308T175911Z">
         <seg>изменение с помощью диалогового окна Стиль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>creating from selection</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T201922Z" creationid="olex" creationdate="20180309T201922Z">
+        <seg>создание по выделению</seg>
       </tuv>
     </tu>
     <tu>
