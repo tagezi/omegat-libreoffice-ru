@@ -1629,6 +1629,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a document needs custom styles derived from base styles, consider prefixing the name of the custom styles with a few characters to highlight them among other styles in the list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T201446Z" creationid="olex" creationdate="20180309T201446Z">
+        <seg>Если в документе требуется пользовательские стили, созданные на основе базовых стилей, придумайте префикс имени пользовательских стилей из нескольких символов, чтобы различать их среди других стилей в списке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it mixes font sizes or font styles, those mixed properties will remain the same as before.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T191248Z" creationid="olex" creationdate="20180308T181504Z">
