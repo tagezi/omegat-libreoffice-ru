@@ -3054,6 +3054,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select some text and drag it to the Styles window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T205212Z" creationid="olex" creationdate="20180309T205212Z">
+        <seg>Выберите текст и перетащите его в окно Стили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the &lt;f0&gt;Fill Format Mode&lt;/f0&gt; button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T155642Z" creationid="olex" creationdate="20180308T155642Z">
@@ -3445,6 +3453,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T201138Z" creationid="olex" creationdate="20180309T201138Z">
         <seg>Для определения новых стилей и для изменения существующих используются одинаковые диалоговые окна и выбор настроек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The element to drag depends upon the LibreOffice application.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T204231Z" creationid="olex" creationdate="20180309T204231Z">
+        <seg>Элемент для перетаскивания зависит от приложения LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
