@@ -3279,6 +3279,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Table styles are stored in the LibreOffice user profile, and are available to all Writer documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T211054Z" creationid="olex" creationdate="20180309T210959Z">
+        <seg>Стили таблиц хранятся в профиле пользователя LibreOffice и доступны для использования во всех документов Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: user-specific = специфичной для пользователя - по мне звучит нормально и вполне допустимо. Вопрос возникает с setup information = данные наладки, то есть, user-specific setup information = пользоваетльские (специфичные для пользователя) данные наладки. Это из автоматизации термин. Ничего в голову не приходит, но первоначальный первод мне по ухам режет.</note>
       <tuv lang="EN-US">
         <seg>Templates can contain anything that regular documents can contain, such as text, graphics, a set of styles, and user-specific setup information such as measurement units, language, the default printer, and toolbar and menu customization.</seg>
@@ -4476,6 +4484,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T181409Z" creationid="olex" creationdate="20180306T181115Z">
         <seg>Вы можете создавать шаблоны для составных документов также как для обычных документов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can define new table styles following these steps:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T211023Z" creationid="olex" creationdate="20180309T211023Z">
+        <seg>Вы можете определить новые стили таблиц, выполнив следующие шаги:</seg>
       </tuv>
     </tu>
     <tu>
