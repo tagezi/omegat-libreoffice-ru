@@ -709,8 +709,8 @@
       <tuv lang="EN-US">
         <seg>Change a style using the Style dialog</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T175428Z" creationid="olex" creationdate="20180308T174607Z">
-        <seg>Изменить стиль с помощью диалогового окна Изменить стиль</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T105111Z" creationid="olex" creationdate="20180308T174607Z">
+        <seg>Изменить стиль с помощью диалогового окна стиля</seg>
       </tuv>
     </tu>
     <tu>
@@ -3739,11 +3739,12 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <note>LG: Update - это обновить. "по выделению" как-то ухо режет, но это может быть лично мой баг... медицинское образование сказывается</note>
       <tuv lang="EN-US">
         <seg>Update a style from a selection</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T174645Z" creationid="olex" creationdate="20180308T174645Z">
-        <seg>Создать стиль по выделению</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T105458Z" creationid="olex" creationdate="20180308T174645Z">
+        <seg>Обновить стиль по выделению</seg>
       </tuv>
     </tu>
     <tu>
@@ -4208,8 +4209,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can modify both types of styles in several ways:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T174339Z" creationid="olex" creationdate="20180308T174339Z">
-        <seg>Вы можете изменить оба типа стилей несколькими способами:</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T104806Z" creationid="olex" creationdate="20180308T174339Z">
+        <seg>Изменить оба типа стилей возможно  несколькими способами:</seg>
       </tuv>
     </tu>
     <tu>
