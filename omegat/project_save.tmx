@@ -892,6 +892,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create a table and apply formatting for cells, backgrounds, borders and more.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T211334Z" creationid="olex" creationdate="20180309T211334Z">
+        <seg>Создайте таблицу и настройте вид ячеек, фона, границ и других элементов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating &lt;i0/&gt;new (custom) styles</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T193816Z" creationid="olex" creationdate="20180309T193816Z">
@@ -3118,6 +3126,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the whole table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T211352Z" creationid="olex" creationdate="20180309T211352Z">
+        <seg>Выберите всю таблицу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Setting a default template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195207Z" creationid="olex" creationdate="20180306T195207Z">
@@ -4490,8 +4506,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can define new table styles following these steps:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180309T211023Z" creationid="olex" creationdate="20180309T211023Z">
-        <seg>Вы можете определить новые стили таблиц, выполнив следующие шаги:</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T211133Z" creationid="olex" creationdate="20180309T211023Z">
+        <seg>Вы можете создавать новые стили таблиц, выполнив следующие шаги:</seg>
       </tuv>
     </tu>
     <tu>
