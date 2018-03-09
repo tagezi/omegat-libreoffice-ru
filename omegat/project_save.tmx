@@ -621,24 +621,24 @@
       <tuv lang="EN-US">
         <seg>AutoUpdate</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180309T191606Z" creationid="olex" creationdate="20180309T191434Z">
-        <seg>Автоматическое обновление</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T192554Z" creationid="olex" creationdate="20180309T191434Z">
+        <seg>Авто-обновление</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>AutoUpdate applies to paragraph and frame styles only.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180309T191809Z" creationid="olex" creationdate="20180309T191809Z">
-        <seg>Автоматическое обновление применяется только к стилям абзаца и врезок.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T192523Z" creationid="olex" creationdate="20180309T191809Z">
+        <seg>Авто-обновление применяется только к стилям абзаца и врезок.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>AutoUpdate styles</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180309T191613Z" creationid="olex" creationdate="20180309T191510Z">
-        <seg>Автоматическое обновление стилей</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T192548Z" creationid="olex" creationdate="20180309T191510Z">
+        <seg>Авто-обновление стилей</seg>
       </tuv>
     </tu>
     <tu>
@@ -1631,8 +1631,8 @@ denkin: исправил на "могли бы"</note>
       <tuv lang="EN-US">
         <seg>If the AutoUpdate option is selected on the Organizer page of the Paragraph Style or Frame Style dialog, applying direct formatting to a paragraph or frame using this style in your document automatically updates the style itself.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180309T192517Z" creationid="olex" creationdate="20180309T192517Z">
-        <seg>Если выбран параметр Авто-обновление на вкладке Управление окна Стиль абзаца или Стиль врезки выбран параметр Автоматическое обновление, применение прямого форматирования к абзацу или фрейму с использованием этого стиля в документе автоматически обновляет сам стиль.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T192659Z" creationid="olex" creationdate="20180309T192517Z">
+        <seg>Если на вкладке Управление окна Стиль абзаца или Стиль врезки выбран параметр Авто-обновление, то применение прямого форматирования к абзацу или врезке с использованием этого стиля в документе автоматически обновляет сам стиль.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3851,8 +3851,8 @@ TODO: уточнить терминалогию + обратить вниман�
       <tuv lang="EN-US">
         <seg>Using &lt;i0/&gt;AutoUpdate</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180309T191645Z" creationid="olex" creationdate="20180309T191645Z">
-        <seg>Использование &lt;i0/&gt;автоматического обновления</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180309T192537Z" creationid="olex" creationdate="20180309T191645Z">
+        <seg>Использование &lt;i0/&gt;Авто-обновления</seg>
       </tuv>
     </tu>
     <tu>
