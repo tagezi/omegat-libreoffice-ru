@@ -4027,6 +4027,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Start Center is visible when no other document is open.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T203828Z" creationid="olex" creationdate="20180310T203828Z">
+        <seg>Стартовое окно отображается, когда не открыто ни одного документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Style dialog displayed depends on the type of style selected.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180505Z" creationid="olex" creationdate="20180308T180505Z">
@@ -4658,6 +4666,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T212609Z" creationid="tagezi" creationdate="20180304T212609Z">
         <seg>Для экспорта в один из этих форматов, выберите &lt;f0&gt;Файл &gt; Экспорт...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To open the Templates dialog from the Start Center, click on the &lt;f0&gt;Templates&lt;/f0&gt; button in the left pane.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T203953Z" creationid="olex" creationdate="20180310T203953Z">
+        <seg>Чтобы открыть диалоговое окно Шаблоны в стартовом окне, нажмите кнопку &lt;f0&gt;Шаблоны&lt;/f0&gt; на панели слева.</seg>
       </tuv>
     </tu>
     <tu>
