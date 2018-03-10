@@ -4020,6 +4020,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To change the icon set used, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T092940Z" creationid="tagezi" creationdate="20180310T092940Z">
+        <seg>Чтобы изменить используемый набор значков, выберите &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Вид&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: TODO: Подумать над переводом select - deselect</note>
       <tuv lang="EN-US">
         <seg>To change which dialogs are used, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; and select or deselect the option &lt;f1&gt;Use LibreOffice dialogs&lt;/f1&gt;.</seg>
