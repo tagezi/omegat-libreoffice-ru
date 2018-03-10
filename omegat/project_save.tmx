@@ -867,6 +867,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f1&gt;From File&lt;/f1&gt; button to open a window from which to select the required document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T193103Z" creationid="olex" creationdate="20180310T193103Z">
+        <seg>Нажмите кнопку &lt;f1&gt;Из файла&lt;/f1&gt;, чтобы открыть окно в котором можно выбрать необходимый документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: Тут скорее всего ошибка, оно должно писаться как: "Clicking of a word applies the character style to that word". Ну, и тогда нет необходимости актив превращать в пассив.</note>
       <tuv lang="EN-US">
         <seg>Clicking a word applies the character style for that word.</seg>
