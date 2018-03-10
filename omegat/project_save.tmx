@@ -3303,6 +3303,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Some dialogs can be left open as you work, so you can switching back and forth between the dialog and the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T154134Z" creationid="tagezi" creationdate="20180310T154134Z">
+        <seg>Некоторые диалоговые окна могут быть оставлены открытыми во время работы с документом, так что вы можете переключаться между ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: вставил " (при установке программы)" т.к. мне кажется, что такое пояснение необходимо</note>
       <tuv lang="EN-US">
         <seg>Some keyboard shortcuts for applying styles are predefined.</seg>
