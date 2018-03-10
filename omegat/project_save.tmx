@@ -3939,6 +3939,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;f1&gt;Manage Templates&lt;/f1&gt; option on the list opens the Template dialog (Figure &lt;t2&gt;8&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T204607Z" creationid="olex" creationdate="20180310T204607Z">
+        <seg>Параметр &lt;f1&gt;Управление шаблонами&lt;/f1&gt; в этом списке открывает диалоговое окно Шаблоны (Рисунок &lt;t2&gt;8&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Document Foundation’s mission is:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T170637Z" creationid="lera" creationdate="20180303T170637Z">
@@ -5359,6 +5367,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T181409Z" creationid="olex" creationdate="20180306T181115Z">
         <seg>Вы можете создавать шаблоны для составных документов также как для обычных документов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can create templates in two ways: by saving a document as a template or by using a wizard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T204706Z" creationid="olex" creationdate="20180310T204706Z">
+        <seg>Шаблоны можно создавать двумя способами: сохранением документа как шаблона или с помощью мастера.</seg>
       </tuv>
     </tu>
     <tu>
