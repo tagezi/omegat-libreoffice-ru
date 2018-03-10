@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1992,6 +1992,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If your document has a table of contents, and if you have used custom styles for headings, the heading levels associated with outline levels in &lt;f0&gt;Tools &gt; Outline Numbering&lt;/f0&gt; will revert to the defaults of Heading 1, Heading 2, and so on when you load Text Styles from a file that does not use the same custom styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T195712Z" creationid="olex" creationdate="20180310T195604Z">
+        <seg>Если у вашего документа есть оглавление, и вы использовали пользовательские стили для заголовков, то уровни заголовков, связанные с уровнями оглавления в &lt;f0&gt;Сервис &gt; Нумерация глав...&lt;/f0&gt;, вернутся к значениям по умолчанию: Заголовок 1, Заголовок 2, и т. д.,- когда вы загружаете текстовые стили из файла, который не использует такие же пользовательские стили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Illustrations</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T142457Z" creationid="tagezi" creationdate="20180306T142457Z">
@@ -3777,6 +3785,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Table styles, including custom table styles are stored in your computer and are available to all Writer documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T195950Z" creationid="olex" creationdate="20180310T195950Z">
+        <seg>Стили таблицы, в том числе пользовательские стили таблиц, хранятся в вашем компьютере и доступны для всех документов Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: user-specific = специфичной для пользователя - по мне звучит нормально и вполне допустимо. Вопрос возникает с setup information = данные наладки, то есть, user-specific setup information = пользоваетльские (специфичные для пользователя) данные наладки. Это из автоматизации термин. Ничего в голову не приходит, но первоначальный первод мне по ухам режет.</note>
       <tuv lang="EN-US">
         <seg>Templates can contain anything that regular documents can contain, such as text, graphics, a set of styles, and user-specific setup information such as measurement units, language, the default printer, and toolbar and menu customization.</seg>
@@ -5260,6 +5276,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You cannot copy character style into a document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T195830Z" creationid="olex" creationdate="20180310T195830Z">
+        <seg>Вы не можете копировать в документ стиль символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You do not have to request special permission.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T192959Z" creationid="tagezi" creationdate="20180310T192959Z">
@@ -5304,6 +5328,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T104051Z" creationid="tagezi" creationdate="20180310T104051Z">
         <seg>У вас должна быть возможность загружать другие наборы значков из репозитория программного обеспечения для вашего дистрибутива Linux, если вы хотите их использовать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will need to change these back to your custom heading styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T195746Z" creationid="olex" creationdate="20180310T195704Z">
+        <seg>Вам необходимо будет исправить их обратно на ваши стили заголовков.</seg>
       </tuv>
     </tu>
     <tu>
