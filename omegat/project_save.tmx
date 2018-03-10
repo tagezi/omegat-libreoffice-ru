@@ -410,6 +410,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A new document based on the template opens in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T202452Z" creationid="olex" creationdate="20180310T202452Z">
+        <seg>В LibreOffice откроется новый документ на основе шаблона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A short &lt;is0/&gt;history of LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T163510Z" creationid="lera" creationdate="20180303T163510Z">
@@ -3604,6 +3612,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T155642Z" creationid="olex" creationdate="20180308T155642Z">
         <seg>Нажмите кнопку &lt;f0&gt;Стилевая заливка&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the required template and click &lt;f0&gt;OK&lt;/f0&gt;, or double-click on the selected template.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T202333Z" creationid="olex" creationdate="20180310T202333Z">
+        <seg>Выберите необходимый шаблон и нажмите &lt;f0&gt;OK&lt;/f0&gt;, или нажмите дважды на выбранном шаблоне.</seg>
       </tuv>
     </tu>
     <tu>
