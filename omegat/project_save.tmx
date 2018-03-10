@@ -3587,6 +3587,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The differences affect mainly Open, Save, and Print dialogs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T082707Z" creationid="tagezi" creationdate="20180310T082707Z">
+        <seg>Различия главным образом затрагивают диалоговые окна Открыть, Сохранить и Печать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The element to drag depends upon the LibreOffice application.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T204231Z" creationid="olex" creationdate="20180309T204231Z">
@@ -3977,6 +3985,12 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T175834Z" creationid="olex" creationdate="20180308T175834Z">
         <seg>Чтобы изменить стили более чем в одном документе, вам необходимо изменить шаблон или скопировать стили в другие документы, как описано на странице &lt;bf0&gt;10&lt;/bf0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>LG: TODO: Подумать над переводом select - deselect</note>
+      <tuv lang="EN-US">
+        <seg>To change which dialogs are used, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; and select or deselect the option &lt;f1&gt;Use LibreOffice dialogs&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4614,6 +4628,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T204016Z" creationid="olex" creationdate="20180309T204016Z">
         <seg>Вы можете перетаскивать выделенный элемент в окно Стили, чтобы создать новый стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can either use dialogs from your computer’s operating system or from LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T082522Z" creationid="tagezi" creationdate="20180310T082522Z">
+        <seg>Вы можете использовать диалоговые окна или ваше операционной системы, или LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
