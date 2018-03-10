@@ -2070,6 +2070,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In most cases, you can interact only with the dialog (not the document itself) as long as the dialog remains open.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T153005Z" creationid="tagezi" creationdate="20180310T153005Z">
+        <seg>В большинстве случаев, пока диалоговое окно остается открытым, возможно взаимодействовать только с ним (а не с самим документом).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In other words, using styles means that you shift the emphasis from what the text (or page, or other element) looks like, to what the text &lt;f1&gt;is&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T201204Z" creationid="olex" creationdate="20180306T200911Z">
@@ -3060,6 +3068,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090714Z" creationid="tagezi" creationdate="20180305T090714Z">
         <seg>Опубликовано &lt;s0/&gt;февраль 2018.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Push buttons.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T152737Z" creationid="tagezi" creationdate="20180310T152737Z">
+        <seg>Кнопка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4612,6 +4628,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T182022Z" creationid="olex" creationdate="20180308T181240Z">
         <seg>При обновлении стиля абзаца убедитесь, что выбранный абзац содержит одинаковые свойства его элементов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you close the dialog after use (usually, clicking &lt;f0&gt;OK&lt;/f0&gt; or another button saves your changes and closes the dialog), then you can again work with your document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T153622Z" creationid="tagezi" creationdate="20180310T153622Z">
+        <seg>Когда вы закрываете диалоговое окно после использования (обычно, нажатие &lt;f0&gt;ОК&lt;/f0&gt; или другой кнопки сохраняет ваши изменения и закрывает диалоговое окно), возможно снова работать с документом.</seg>
       </tuv>
     </tu>
     <tu>
