@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4355,6 +4355,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The terms used in LibreOffice for most parts of the &lt;i0/&gt;user interface (the parts of the program you see and use, in contrast to the behind-the-scenes code that actually makes it work) are the same as for most other programs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T204824Z" creationid="tagezi" creationdate="20180310T204824Z">
+        <seg>Термины, используемые в LibreOffice для большинства частей &lt;i0/&gt;пользовательского интерфейса (части программы, которые вы видите и используете, в отличие от кода, который фактически заставляет программу работать) такие же, как для большинства других программ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The workshop will offer a thorough overview of the skills requested and a summary of TDF's migration and training protocols.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T191512Z" creationid="tagezi" creationdate="20180307T191512Z">
@@ -5508,6 +5516,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may be new to office software, or you may be familiar with another office suite.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T210342Z" creationid="tagezi" creationdate="20180310T210342Z">
+        <seg>Вы можете быть новичком в офисном программном обеспечении, или быть знакомы с другим офисным пакетом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a0&gt;http://www.gnu.org/licenses/gpl.html&lt;/a0&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a1&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a1&gt;), version 4.0 or later.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T151839Z" creationid="lera" creationdate="20180303T151839Z">
@@ -5708,6 +5724,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>macOS equivalent</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T205003Z" creationid="tagezi" creationdate="20180310T205003Z">
+        <seg>Эквивалент для macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>modifying</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T173953Z" creationid="olex" creationdate="20180308T173934Z">
@@ -5784,6 +5808,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180800Z" creationid="olex" creationdate="20180308T180800Z">
         <seg>обновление из выделенного фрагмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>user interface, parts of</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T204844Z" creationid="tagezi" creationdate="20180310T204844Z">
+        <seg>пользовательский интерфейс, части</seg>
       </tuv>
     </tu>
     <tu>
