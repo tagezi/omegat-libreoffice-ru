@@ -1799,6 +1799,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I am writing a software application.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T164725Z" creationid="tagezi" creationdate="20180310T164725Z">
+        <seg>Я пишу компьютерную программу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ichitaro 8/9/10/11 (.jtd and .jtt)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T144214Z" creationid="tagezi" creationdate="20180304T144214Z">
@@ -2430,6 +2438,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice is developed and maintained by volunteers and has the backing of several organizations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T164544Z" creationid="tagezi" creationdate="20180310T164544Z">
+        <seg>LibreOffice разрабатывается и поддерживается добровольцами и имеет поддержку нескольких организаций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice is distributed under &lt;i0/&gt;the Open Source Initiative (OSI) approved Mozilla Public License (MPL).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T154806Z" creationid="tagezi" creationdate="20180310T154806Z">
@@ -2618,6 +2634,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T155911Z" creationid="tagezi" creationdate="20180310T155911Z">
         <seg>Могу ли я использовать его в своей работе?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>May I use programming code from LibreOffice in my program?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T164813Z" creationid="tagezi" creationdate="20180310T164813Z">
+        <seg>Могу ли я использовать программный код LibreOffice в моей программе?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5016,6 +5040,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T193950Z" creationid="olex" creationdate="20180309T193950Z">
         <seg>Вы можете захотеть добавить несколько новых стилей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may, within the parameters set in the MPL and/or LGPL.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T171652Z" creationid="tagezi" creationdate="20180310T171652Z">
+        <seg>Вы можете в пределах условий, установленных в MPL и/или LGPL.</seg>
       </tuv>
     </tu>
     <tu>
