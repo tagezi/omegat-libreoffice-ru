@@ -1328,6 +1328,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Dialog showing common controls</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T144853Z" creationid="tagezi" creationdate="20180310T144853Z">
+        <seg>Рисунок &lt;seq0&gt;2&lt;/seq0&gt;: Диалоговое окно показывающее общие элементы управления</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: The Apply Style list on the Formatting toolbar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T171750Z" creationid="olex" creationdate="20180308T171750Z">
@@ -3382,6 +3390,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T063632Z" creationid="tagezi" creationdate="20180305T063632Z">
         <seg>Документ T602 (.602, .txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tabbed page (not strictly speaking a control).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T145525Z" creationid="tagezi" creationdate="20180310T145525Z">
+        <seg>Вкладка (говоря не строго, элемент управления).</seg>
       </tuv>
     </tu>
     <tu>
