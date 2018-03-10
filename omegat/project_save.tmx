@@ -4109,8 +4109,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>The connection between the template and the document remains until the template is modified and, the next time that the document is opened, you choose not to update it to match the template.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180310T203321Z" creationid="olex" creationdate="20180310T203321Z">
-        <seg>Связь между шаблоном и документом остается до тех пор, пока шаблон не будет изменен, и при открытии документа вы не захотите его обновить в соответствии с шаблоном.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T203558Z" creationid="olex" creationdate="20180310T203321Z">
+        <seg>Связь между шаблоном и документом сохранится до тех пор, пока шаблон не будет изменен, и при следующем открытии документа вы не захотите его обновить в соответствии с шаблоном.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5301,6 +5301,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T192253Z" creationid="olex" creationdate="20180310T192253Z">
         <seg>Вы можете копировать стили в документ, загружая их из шаблона или из другого документа:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can create a document from the template view of the Start Center.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T203721Z" creationid="olex" creationdate="20180310T203721Z">
+        <seg>Вы можете создать документ из шаблона в стартовом окне.</seg>
       </tuv>
     </tu>
     <tu>
