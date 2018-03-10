@@ -2230,6 +2230,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is it written in Java?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T173634Z" creationid="tagezi" creationdate="20180310T173634Z">
+        <seg>Он написан на Java?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also covers some of the features common to all components, including setup and customization, styles and templates, macro recording, and printing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T082828Z" creationid="tagezi" creationdate="20180306T082828Z">
@@ -2306,6 +2314,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T105919Z" creationid="tagezi" creationdate="20180310T105853Z">
         <seg>Его цель — информировать вас о чем-либо или запросить у вас информацию, или и то, и другое.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java is one of several languages that can be used to extend the software.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T174458Z" creationid="tagezi" creationdate="20180310T174458Z">
+        <seg>Java один из нескольких языков, которые могут использоваться для расширения программного обеспечения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2466,6 +2482,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100359Z" creationid="lera" creationdate="20180303T202357Z">
         <seg>LibreOffice распространяется под лицензией Mozilla Public License (MPL) 2.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice is not written in Java; it is written in the C++ language.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T173741Z" creationid="tagezi" creationdate="20180310T173741Z">
+        <seg>LibreOffice не написан на Java; он написан на языке C++.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4813,6 +4837,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090921Z" creationid="tagezi" creationdate="20180305T090921Z">
         <seg>Для кого эта книга?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why do I need Java to run LibreOffice?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T173623Z" creationid="tagezi" creationdate="20180310T173623Z">
+        <seg>Зачем мне нужна Java для запуска LibreOffice?</seg>
       </tuv>
     </tu>
     <tu>
