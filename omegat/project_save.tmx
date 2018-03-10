@@ -1206,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drop-down list from which to select an item.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T152647Z" creationid="tagezi" creationdate="20180310T152647Z">
+        <seg>Выпадающий список, из которого, выбирается значение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each Style dialog has several tabs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180536Z" creationid="olex" creationdate="20180308T180536Z">
@@ -4009,6 +4017,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T202343Z" creationid="olex" creationdate="20180309T202343Z">
         <seg>Этот новый стиль применяется только к текущему документу; он не будет сохранен в шаблоне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thumbnail or preview.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T151732Z" creationid="tagezi" creationdate="20180310T151732Z">
+        <seg>Миниатюра или предварительный просмотр.</seg>
       </tuv>
     </tu>
     <tu>
