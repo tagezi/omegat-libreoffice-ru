@@ -3466,8 +3466,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Overwrite&lt;/f0&gt; if you want to replace styles in the original document that have the same name as styles in the document from which you are importing styles.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180310T193840Z" creationid="olex" creationdate="20180310T193526Z">
-        <seg>Поставьте отметку &lt;f0&gt;Перезаписать&lt;/f0&gt;, если вы хотите заменить стили с тем же именем в исходном документе, на стили документа из которого вы импортируете их.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T194055Z" creationid="olex" creationdate="20180310T193526Z">
+        <seg>Поставьте отметку &lt;f0&gt;Перезаписать&lt;/f0&gt;, если вы хотите заменить стили в исходном документе, на стили с тем же именем из документа из которого вы импортируете их.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3514,8 +3514,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Select the types of styles to copy from the checkboxes at the bottom of the dialog.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180310T193557Z" creationid="olex" creationdate="20180310T193501Z">
-        <seg>Отметьте типы стилей для копирования в нижней части диалогового окна.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T193901Z" creationid="olex" creationdate="20180310T193501Z">
+        <seg>Поставьте отметки на типах стилей для копирования в нижней части диалогового окна.</seg>
       </tuv>
     </tu>
     <tu>
