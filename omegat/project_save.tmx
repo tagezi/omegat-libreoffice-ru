@@ -1903,6 +1903,22 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the style is in use, you receive a warning message asking you to confirm deletion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T200919Z" creationid="olex" creationdate="20180310T200919Z">
+        <seg>Если стиль использован в документе, то вы получите предупреждающее сообщение, предлагающее подтвердить удаление.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the style is not in use, it is deleted immediately without confirmation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T200835Z" creationid="olex" creationdate="20180310T200835Z">
+        <seg>Если стиль не используется, он удаляется немедленно без подтверждения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this box is not selected, you will only copy styles whose names are not used in the original document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T194145Z" creationid="olex" creationdate="20180310T194145Z">
@@ -1939,6 +1955,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T210708Z" creationid="tagezi" creationdate="20180304T210708Z">
         <seg>Если вы не можете найти тип файла , который вы ищете, в &lt;f1&gt;Сохранить как&lt;/f1&gt;, посмотрите в разделе для дополнительных типов &lt;f2&gt;Экспорт&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you delete a style that is in use, all objects with that style will return to the default style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T201102Z" creationid="olex" creationdate="20180310T201102Z">
+        <seg>Если вы удалите используемый стиль,то все объекты этого стиля вернутся к стилю по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
