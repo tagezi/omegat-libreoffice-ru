@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2174,6 +2174,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Styles window, click the arrow next to the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon, and then select &lt;f1&gt;Load Styles&lt;/f1&gt; (see Figure &lt;t2&gt;3&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T192645Z" creationid="olex" creationdate="20180310T192645Z">
+        <seg>В окне Стили, нажмите стрелку рядом с иконкой &lt;f0&gt;Создать стиль по выделению&lt;/f0&gt;, и затем выберите &lt;f1&gt;Загрузить стили&lt;/f1&gt; (смотрите Рисунок &lt;t2&gt;3&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Styles window, select on the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203541Z" creationid="olex" creationdate="20180309T203103Z">
@@ -2996,6 +3004,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T181000Z" creationid="olex" creationdate="20180308T180910Z">
         <seg>Открыть окно Стили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the document you want to copy styles into.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T192406Z" creationid="olex" creationdate="20180310T192406Z">
+        <seg>Откройте документ, в который вы хотите скопировать стили.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5005,6 +5021,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T153526Z" creationid="olex" creationdate="20180307T210424Z">
         <seg>Вы можете выбрать показать Все стили или другие группы стилей, например только Стили пользователя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can copy styles into a document by loading them from a template or from another document:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T192253Z" creationid="olex" creationdate="20180310T192253Z">
+        <seg>Вы можете копировать стили в документ, загружая их из шаблона или из другого документа:</seg>
       </tuv>
     </tu>
     <tu>
