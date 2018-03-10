@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1461,6 +1461,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T194335Z" creationid="olex" creationdate="20180310T194335Z">
         <seg>Рисунок &lt;seq0&gt;7&lt;/seq0&gt;: Копирование стилей из шаблона в открытый документ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Templates dialog, showing a selected template</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T203443Z" creationid="olex" creationdate="20180310T203443Z">
+        <seg>Рисунок &lt;seq0&gt;8&lt;/seq0&gt;: Диалоговое окно Шаблоны, с выбранным шаблоном</seg>
       </tuv>
     </tu>
     <tu>
@@ -4095,6 +4103,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T075320Z" creationid="lera" creationdate="20180303T202310Z">
         <seg>Сообщество действует в международном масштабе во всех часовых поясах и на многих языках, связанное через Интернет на &lt;a0&gt;www.libreoffice.org&lt;/a0&gt; и &lt;a1&gt;www.documentfoundation.org&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The connection between the template and the document remains until the template is modified and, the next time that the document is opened, you choose not to update it to match the template.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T203321Z" creationid="olex" creationdate="20180310T203321Z">
+        <seg>Связь между шаблоном и документом остается до тех пор, пока шаблон не будет изменен, и при открытии документа вы не захотите его обновить в соответствии с шаблоном.</seg>
       </tuv>
     </tu>
     <tu>
