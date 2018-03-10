@@ -3224,6 +3224,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some Linux distributions include &lt;f0&gt;LibreOffice&lt;/f0&gt; as part of the installation and may not include all the icon sets mentioned above.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T101514Z" creationid="tagezi" creationdate="20180310T101514Z">
+        <seg>Некоторые дистрибутивы Linux включают &lt;f0&gt;LibreOffice&lt;/f0&gt; как часть установки операционной системы пользователя и могут не содержать всех наборов значков упомянутых выше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some common examples of style use are given in “&lt;rf0&gt;Examples of style use&lt;/rf0&gt;” on page &lt;rf1&gt;22&lt;/rf1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T093520Z" creationid="olex" creationdate="20180306T202437Z">
@@ -4768,6 +4776,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T193950Z" creationid="olex" creationdate="20180309T193950Z">
         <seg>Вы можете захотеть добавить несколько новых стилей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should be able to download other icon sets from the software repository for your Linux distribution if you wish to use them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T104051Z" creationid="tagezi" creationdate="20180310T104051Z">
+        <seg>У вас должна быть возможность загружать другие наборы значков из репозитория программного обеспечения для вашего дистрибутива Linux, если вы хотите их использовать.</seg>
       </tuv>
     </tu>
     <tu>
