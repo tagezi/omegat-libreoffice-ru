@@ -506,6 +506,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, some of the dialogs may be different because of the settings selected in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T082216Z" creationid="tagezi" creationdate="20180310T082216Z">
+        <seg>К тому же, некоторые из диалоговых окон могут отличаться из-за настроек, выбранных в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively,</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T212125Z" creationid="olex" creationdate="20180309T212125Z">
@@ -2328,8 +2336,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>LibreOffice runs on Windows, Linux, and macOS operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180308T113942Z" creationid="tagezi" creationdate="20180308T113942Z">
-        <seg>LibreOffice работает на операционных системах Windows, Linux и MacOS, у каждой из которых есть несколько версий и может быть настроена пользователями (шрифты, цвета, темы, оконные менеджеры).</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T081142Z" creationid="tagezi" creationdate="20180308T113942Z">
+        <seg>LibreOffice работает на операционных системах Windows, Linux и MacOS, у каждой из которых есть несколько версий и каждая из которых может быть настроена пользователями (шрифты, цвета, темы, оконные менеджеры).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3611,6 +3619,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The illustrations in this guide were taken from a variety of computers and operating systems.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T081247Z" creationid="tagezi" creationdate="20180310T081247Z">
+        <seg>Иллюстрации в этом руководстве были сделаны на различных компьютерах и операционных системах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The intellectual property of the standard is made irrevocably available on a royalty-free basis.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T213951Z" creationid="lera" creationdate="20180303T213151Z">
@@ -3719,6 +3735,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T104100Z" creationid="tagezi" creationdate="20180307T104100Z">
         <seg>Там вы найдете экземпляры Руководств пользователя и другую полезную информацию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, some illustrations will not look exactly like what you see on your computer display.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T082004Z" creationid="tagezi" creationdate="20180310T082004Z">
+        <seg>Поэтому, некоторые иллюстрации не будут точь-в-точь выглядеть как то, что вы видите на дисплее своего компьютера.</seg>
       </tuv>
     </tu>
     <tu>
