@@ -5284,6 +5284,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You cannot remove (delete) any of LibreOffice’s predefined styles from a document or template, even if they are not in use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T200356Z" creationid="olex" creationdate="20180310T200356Z">
+        <seg>Вы не можете удалить любой предопределенный стиль LibreOffice из документа или шаблона, даже если он не используется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You do not have to request special permission.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T192959Z" creationid="tagezi" creationdate="20180310T192959Z">
