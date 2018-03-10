@@ -4518,6 +4518,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To delete any unwanted styles, in the Styles window select each one to be deleted (hold &lt;f0&gt;Ctrl&lt;/f0&gt; while selecting multiple styles), and then right-click on a selected style and select &lt;f1&gt;Delete&lt;/f1&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T200824Z" creationid="olex" creationdate="20180310T200824Z">
+        <seg>Чтобы удалить любые ненужные стили, в окне Стили выберите каждый из них для удаления (удерживайте &lt;f0&gt;Ctrl&lt;/f0&gt; для выбора нескольких стилей), а затем нажмите правую кнопку мыши на выбранном стиле и выберите &lt;f1&gt;Удалить&lt;/f1&gt; в контекстном меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To display the Help system, press &lt;f0&gt;F1&lt;/f0&gt; or select &lt;f1&gt;LibreOffice Help &gt; &lt;s2/&gt;LibreOffice Help&lt;/f1&gt; from the Help menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T144140Z" creationid="tagezi" creationdate="20180306T144140Z">
@@ -5248,6 +5256,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T170603Z" creationid="lera" creationdate="20180303T170603Z">
         <seg>Вы можете больше узнать о The Document Foundation: &lt;a0&gt;http://www.documentfoundation.org/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can remove any user-defined (custom) styles; but before you do, you should make sure the styles are not in use in the current document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T200538Z" creationid="olex" creationdate="20180310T200538Z">
+        <seg>Вы можете удалить любые пользовательские стили; но прежде чем вы это сделаете, вы должны убедиться, что эти стили не используются в текущем документе.</seg>
       </tuv>
     </tu>
     <tu>
