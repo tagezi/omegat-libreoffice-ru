@@ -3321,6 +3321,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spin box (click the up and down arrows to change the number shown in the text box next to it, or type in the text box).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T151646Z" creationid="tagezi" creationdate="20180310T151646Z">
+        <seg>Счётчик (чтобы изменить число, указанное в текстовом поле, нажмите стрелку вверх или вниз или введите номер в текстовое поле).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>StarCalc formats (.sdc and .vor)&lt;br9/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T071419Z" creationid="tagezi" creationdate="20180304T153736Z">
