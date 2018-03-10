@@ -4805,6 +4805,14 @@ TODO: уточнить терминалогию + обратить вниман�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using a template to &lt;i0/&gt;&lt;i1/&gt;create a &lt;i2/&gt;document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T201225Z" creationid="olex" creationdate="20180310T201225Z">
+        <seg>Использование шаблона для &lt;i0/&gt;&lt;i1/&gt;создания&lt;i2/&gt; документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using a template to create a document</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194842Z" creationid="olex" creationdate="20180306T194842Z">
@@ -5396,6 +5404,30 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>create document from</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T201116Z" creationid="olex" creationdate="20180310T201116Z">
+        <seg>создать документ из</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>create document from template</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T201128Z" creationid="olex" creationdate="20180310T201128Z">
+        <seg>создать документ из шаблона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>create from template</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T201132Z" creationid="olex" creationdate="20180310T201132Z">
+        <seg>Создать из шаблона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>creating by dragging and dropping</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203644Z" creationid="olex" creationdate="20180309T203644Z">
@@ -5448,6 +5480,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T175017Z" creationid="olex" creationdate="20180306T175017Z">
         <seg>описание</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T201136Z" creationid="olex" creationdate="20180310T201136Z">
+        <seg>документ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5550,8 +5590,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>template</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T175031Z" creationid="olex" creationdate="20180306T175031Z">
-        <seg>шаблон</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180310T201122Z" creationid="olex" creationdate="20180306T175031Z">
+        <seg>шаблона</seg>
       </tuv>
     </tu>
     <tu>
