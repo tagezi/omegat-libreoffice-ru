@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2246,6 +2246,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In most cases the technical terms are not used in this book, but it is useful to know them because the Help and other sources of information often use them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T203218Z" creationid="tagezi" creationdate="20180310T203218Z">
+        <seg>В большинстве случаев технические термины в этой книге не используются. Но их полезно знать, потому что они часто встречаются в Справке и других источниках информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In most cases, you can interact only with the dialog (not the document itself) as long as the dialog remains open.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T153005Z" creationid="tagezi" creationdate="20180310T153005Z">
@@ -2442,6 +2450,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T200820Z" creationid="olex" creationdate="20180309T200820Z">
         <seg>Это стоит планировать наперед.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It provides controls to use to specify how to carry out an action.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T202711Z" creationid="tagezi" creationdate="20180310T202711Z">
+        <seg>Он предоставляет элементы управления, определяющие, как выполнять действие.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4283,6 +4299,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The technical names for common controls are shown in Figure &lt;t0&gt;2&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T202816Z" creationid="tagezi" creationdate="20180310T202816Z">
+        <seg>Технические названия общих элементов управления показаны на рисунке &lt;t0&gt;2&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The template the document is based upon is listed in &lt;f0&gt;File &gt; Properties &gt; General&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T202952Z" creationid="olex" creationdate="20180310T202952Z">
@@ -4954,8 +4978,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>We request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T194313Z" creationid="tagezi" creationdate="20180310T194313Z">
-        <seg>С учетом всей работы, которую мы сделали для этой книги, мы просим вас поделиться немного прибылью, которую вы получаете от продажи книг, с проектом.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T195603Z" creationid="tagezi" creationdate="20180310T194313Z">
+        <seg>С учетом всей работы, которую мы сделали для этой книги, мы просим вас поделиться с проектом небольшой частью прибыли, которую вы получаете от продажи книг.</seg>
       </tuv>
     </tu>
     <tu>
