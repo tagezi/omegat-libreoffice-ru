@@ -4363,6 +4363,17 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <note>LG:TODO
+are dispatched = высылаются
+Dispatch framework = программный каркас отправки</note>
+      <tuv lang="EN-US">
+        <seg>The macro recorder works by recording the commands that are dispatched (see “&lt;f0&gt;&lt;rf1&gt;Dispatch framework&lt;/rf1&gt;&lt;/f0&gt;” &lt;f2&gt;on page &lt;/f2&gt;&lt;f3&gt;&lt;rf4&gt;13&lt;/rf4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T122832Z" creationid="tagezi" creationdate="20180311T122832Z">
+        <seg>Запись макросов работает по средствам записи команд, которые are dispatched (see “&lt;f0&gt;&lt;rf1&gt;Dispatch framework&lt;/rf1&gt;&lt;/f0&gt;” &lt;f2&gt;на странице &lt;/f2&gt;&lt;f3&gt;&lt;rf4&gt;13&lt;/rf4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>The manual formatting or direct formatting is performed when user format each element of the document individually, as it was done at times when typewriters were used in offices, page by page.</seg>
       </tuv>
