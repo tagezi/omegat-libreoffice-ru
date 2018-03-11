@@ -1634,6 +1634,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, the MathML code on the left of Table &lt;t1&gt;1&lt;/t1&gt;&lt;s2/&gt;displays the equation on the right.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T153831Z" creationid="User" creationdate="20180311T153831Z">
+        <seg>Например код MathML в левой части таблицы &lt;t1&gt;1&lt;/t1&gt;&lt;s2/&gt; отображает формулу в правой части таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, you can create a template for business reports that has your company’s logo on the first page.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T015909Z" creationid="olex" creationdate="20180306T175441Z">
@@ -1748,6 +1756,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T205512Z" creationid="User" creationdate="20180307T205512Z">
         <seg>Формулы, как отдельные документы или файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formulas in LibreOffice documents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T153926Z" creationid="User" creationdate="20180311T153926Z">
+        <seg>Формулы в документах LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -4011,6 +4027,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: MathML 1.01 language imported from the clipboard</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T153916Z" creationid="User" creationdate="20180311T153916Z">
+        <seg>Таблица &lt;seq0&gt;1&lt;/seq0&gt;: Код MathML 1.01, импортированный из буфера обмена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table styles are stored in the LibreOffice user profile, and are available to all Writer documents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T211054Z" creationid="olex" creationdate="20180309T210959Z">
@@ -4942,6 +4966,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153702Z" creationid="User" creationdate="20180311T153702Z">
         <seg>Для импорта формулы MathML Presentation скопируйте формулу из внешнего редактора формул и используйте пункт меню &lt;f0&gt;Сервис &gt; Импорт MathML из буфера обмена&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To insert a formula into a LibreOffice document, open the document in Writer, Calc, Draw, or Impress.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T154029Z" creationid="User" creationdate="20180311T154029Z">
+        <seg>Для вставки формулы в документ LibreOffice откройте документ в Writer, Calc, Draw или Impress.</seg>
       </tuv>
     </tu>
     <tu>
