@@ -1626,6 +1626,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Follow the instructions on the pages of the wizard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T184803Z" creationid="olex" creationdate="20180311T184803Z">
+        <seg>Следуйте инструкциям в диалоговом окне мастера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a full list of file formats that LibreOffice can read and write, see &lt;a0&gt;https://en.wikipedia.org/wiki/LibreOffice#Supported_file_formats&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180304T071029Z" creationid="lera" creationdate="20180304T071029Z">
@@ -1892,6 +1900,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T182025Z" creationid="olex" creationdate="20180311T182025Z">
         <seg>В меню выберите &lt;f0&gt;Файл &gt; Шаблоны &gt; Сохранить как шаблон&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Wizards &gt; [type of template required]&lt;/f0&gt; (see Figure &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T184612Z" creationid="olex" creationdate="20180311T184612Z">
+        <seg>Выберите в меню &lt;f0&gt;Файл &gt; Мастер &gt; [необходимый тип шаблона]&lt;/f0&gt; (смотрите Рисунок &lt;t1&gt;10&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6003,8 +6019,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can use wizards to create templates for letters, faxes, and agendas, and to create presentations and Web pages.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180311T183711Z" creationid="olex" creationdate="20180311T183620Z">
-        <seg>Вы можете использовать мастеров для создания шаблонов писем, факсов и повесток дня, а так же для создания презентаций и веб-страниц.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T184620Z" creationid="olex" creationdate="20180311T183620Z">
+        <seg>Вы можете использовать мастера для создания шаблонов писем, факсов и повесток дня, а так же для создания презентаций и веб-страниц.</seg>
       </tuv>
     </tu>
     <tu>
