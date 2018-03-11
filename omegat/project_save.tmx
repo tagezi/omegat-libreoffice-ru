@@ -569,6 +569,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>LG: https://english.stackexchange.com/questions/6209/what-is-meant-by-steep-learning-curve</note>
+      <tuv lang="EN-US">
+        <seg>Although you can learn Basic and write macros, there is a steep learning curve to writing macros from scratch.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T101930Z" creationid="tagezi" creationdate="20180311T101930Z">
+        <seg>Хотя изучить Basic и писать макросы возможно, есть большая сложность научиться написанию макросов с нуля.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>An example of a simple macro is one that “types” your address.</seg>
       </tuv>
@@ -2702,6 +2711,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice macros are usually written in a language called &lt;i0/&gt;LibreOffice Basic, sometimes abbreviated to &lt;is1/&gt;Basic&lt;ie2/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T100924Z" creationid="tagezi" creationdate="20180311T100924Z">
+        <seg>Макросы LibreOffice обычно пишутся на языке называемом &lt;i0/&gt;LibreOffice Basic, иногда сокращенно &lt;is1/&gt;Basic&lt;ie2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice provides a very straightforward way to convert documents to PDF.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T174134Z" creationid="tagezi" creationdate="20180304T174134Z">
@@ -2802,6 +2819,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T062656Z" creationid="tagezi" creationdate="20180305T062656Z">
         <seg>Документ MacWrite (.mw, .mcw)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Macros are very useful when you have to repeat the same task in the same way over and over again.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T100535Z" creationid="tagezi" creationdate="20180311T100535Z">
+        <seg>Макросы очень полезны, когда необходимо повторять одну и ту же задачу одним и тем же способом снова и снова.</seg>
       </tuv>
     </tu>
     <tu>
