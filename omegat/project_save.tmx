@@ -585,6 +585,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Although the Save as Template dialog shows no document type when saving a new template of any type, the template will appear on the correct tab (Documents, Spreadsheets, Presentations, Drawings) when you return to the Templates dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T183137Z" creationid="olex" creationdate="20180311T183137Z">
+        <seg>Хотя диалоговое окно Сохранить как шаблон не отображает тип документа при сохранении нового шаблона любого типа, шаблон появится на правильной вкладке (Документы, Таблицы, Презентации, Рисунки) в диалоговом окне «Шаблоны».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: https://english.stackexchange.com/questions/6209/what-is-meant-by-steep-learning-curve</note>
       <tuv lang="EN-US">
         <seg>Although you can learn Basic and write macros, there is a steep learning curve to writing macros from scratch.</seg>
@@ -1550,6 +1558,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T203443Z" creationid="olex" creationdate="20180310T203443Z">
         <seg>Рисунок &lt;seq0&gt;8&lt;/seq0&gt;: Диалоговое окно Шаблоны, с выбранным шаблоном</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Save as Template dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T182741Z" creationid="olex" creationdate="20180311T182741Z">
+        <seg>Рисунок &lt;seq0&gt;9&lt;/seq0&gt;: Диалоговое окно Сохранить как шаблон</seg>
       </tuv>
     </tu>
     <tu>
@@ -3888,6 +3904,7 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: добавил про введение имени шаблона и про возможность установить шаблоном по умолчанию.</note>
       <tuv lang="EN-US">
         <seg>Select the My Templates folder.</seg>
       </tuv>
@@ -4683,6 +4700,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T202816Z" creationid="tagezi" creationdate="20180310T202816Z">
         <seg>Технические названия общих элементов управления показаны на рисунке &lt;t0&gt;2&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The template is saved and the dialog closes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T182704Z" creationid="olex" creationdate="20180311T182704Z">
+        <seg>Шаблон сохранится и диалоговое окно закроется.</seg>
       </tuv>
     </tu>
     <tu>
