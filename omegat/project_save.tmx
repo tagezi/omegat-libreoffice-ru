@@ -588,8 +588,8 @@
       <tuv lang="EN-US">
         <seg>Although the Save as Template dialog shows no document type when saving a new template of any type, the template will appear on the correct tab (Documents, Spreadsheets, Presentations, Drawings) when you return to the Templates dialog.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180311T183137Z" creationid="olex" creationdate="20180311T183137Z">
-        <seg>Хотя диалоговое окно Сохранить как шаблон не отображает тип документа при сохранении нового шаблона любого типа, шаблон появится на правильной вкладке (Документы, Таблицы, Презентации, Рисунки) в диалоговом окне «Шаблоны».</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T183317Z" creationid="olex" creationdate="20180311T183137Z">
+        <seg>Хотя диалоговое окно Сохранить как шаблон не отображает тип документа при сохранении нового шаблона любого типа, шаблон появится на правильной вкладке (Документы, Таблицы, Презентации, Рисунки) в диалоговом окне Шаблоны.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5949,6 +5949,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193307Z" creationid="olex" creationdate="20180307T193307Z">
         <seg>Вы можете использовать предопределенные стили, изменять их или создавать новые стили, как описано в этой главе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use wizards to create templates for letters, faxes, and agendas, and to create presentations and Web pages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T183620Z" creationid="olex" creationdate="20180311T183620Z">
+        <seg>Вы можете использовать мастера для создания шаблонов писем, факсов и повесток дня, а так же для создания презентаций и веб-страниц.</seg>
       </tuv>
     </tu>
     <tu>
