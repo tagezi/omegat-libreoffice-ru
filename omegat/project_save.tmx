@@ -2256,6 +2256,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you choose &lt;f0&gt;Keep Old Styles&lt;/f0&gt;, the document is no longer connected to the template, even though the template is still listed under &lt;f1&gt;File &gt; Properties &gt; General.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T194217Z" creationid="olex" creationdate="20180311T194217Z">
+        <seg>Если вы выберете &lt;f0&gt;Сохранить старые стили&lt;/f0&gt;, документ больше не будет связан с шаблоном, хотя шаблон все еще будет указан в свойствах файла &lt;f1&gt;Файл &gt; Свойства &gt; Общие.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you delete a style that is in use, all objects with that style will return to the default style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T201102Z" creationid="olex" creationdate="20180310T201102Z">
