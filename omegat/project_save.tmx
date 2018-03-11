@@ -1399,6 +1399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit the template as you would edit any other document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T192809Z" creationid="olex" creationdate="20180311T192809Z">
+        <seg>Измените шаблон так, как вы бы изменяли любой другой документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Editing a template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195026Z" creationid="olex" creationdate="20180306T195026Z">
@@ -4848,6 +4856,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The template opens in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T192640Z" creationid="olex" creationdate="20180311T192640Z">
+        <seg>Шаблон откроется в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The template the document is based upon is listed in &lt;f0&gt;File &gt; Properties &gt; General&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T202952Z" creationid="olex" creationdate="20180310T202952Z">
@@ -5336,6 +5352,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T104445Z" creationid="olex" creationdate="20180308T173901Z">
         <seg>Чтобы удалить ручное форматирование, выберите текст, щелкните правой кнопкой мыши и выберите &lt;f0&gt;Стили &gt; Очистить форматирование&lt;/f0&gt; в контекстном меню или выделите текст и нажмите &lt;f1&gt;Ctrl + M&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To save your changes, choose &lt;f0&gt;File &gt; Save &lt;/f0&gt;from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T192943Z" creationid="olex" creationdate="20180311T192943Z">
+        <seg>Чтобы сохранить изменения, выберите в меню &lt;f0&gt;Файл &gt; Сохранить&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
