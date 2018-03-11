@@ -981,6 +981,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click once on it to activate the file handling controls (see Figure &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T192531Z" creationid="olex" creationdate="20180311T192531Z">
+        <seg>Нажмите один раз, чтобы активировать элементы управления файлами (смотрите Рисунок &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;f1&gt;From File&lt;/f1&gt; button to open a window from which to select the required document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T193103Z" creationid="olex" creationdate="20180310T193103Z">
@@ -3259,6 +3267,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180308T083015Z" creationid="tagezi" creationdate="20180308T083015Z">
         <seg>Поддержка на родном языке</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigate to the template that you want to edit.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T192327Z" creationid="olex" creationdate="20180311T192327Z">
+        <seg>Выберите шаблон, который требуется изменить.</seg>
       </tuv>
     </tu>
     <tu>
