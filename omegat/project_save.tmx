@@ -740,6 +740,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As this is an experimental feature, it may not work reliably.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T202145Z" creationid="olex" creationdate="20180311T202145Z">
+        <seg>Так как это экспериментальная функция, то она может работать ненадежно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you enter the markup language in the Formula Editor, the formula will appear in the Preview window during and after input of the markup.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153059Z" creationid="User" creationdate="20180311T153021Z">
@@ -1523,6 +1531,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T190328Z" creationid="olex" creationdate="20180311T190328Z">
         <seg>Рисунок &lt;seq0&gt;10&lt;/seq0&gt;: Создание шаблона с помощью мастера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Getting more templates for LibreOffice</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T202342Z" creationid="olex" creationdate="20180311T202342Z">
+        <seg>Рисунок &lt;seq0&gt;11&lt;/seq0&gt;: Получение дополнительных шаблонов для LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -3458,6 +3474,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On other websites you may find collections of templates that have been packaged into extension (OXT) files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T202234Z" creationid="olex" creationdate="20180311T202234Z">
+        <seg>На других веб-сайтах вы можете найти коллекции шаблонов, которые были упакованы в файлы с расширением (OXT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the Export dialog, specify a file name for the exported document, then select the desired format in the &lt;f1&gt;File format&lt;/f1&gt; list and click the &lt;f2&gt;Export&lt;/f2&gt; button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T213105Z" creationid="tagezi" creationdate="20180304T213034Z">
@@ -4997,6 +5021,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T082004Z" creationid="tagezi" creationdate="20180310T082004Z">
         <seg>Поэтому, некоторые иллюстрации не будут точь-в-точь выглядеть как то, что вы видите на дисплее своего компьютера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These are installed a little differently, as described below.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T202301Z" creationid="olex" creationdate="20180311T202301Z">
+        <seg>Они устанавливаются несколько иначе, как - описано ниже.</seg>
       </tuv>
     </tu>
     <tu>
