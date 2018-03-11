@@ -6163,8 +6163,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You may need to open the Templates dialog and click &lt;f0&gt;Refresh&lt;/f0&gt; on the &lt;f1&gt;Action&lt;/f1&gt; menu to have any new templates appear in the listings.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180311T190840Z" creationid="olex" creationdate="20180311T190840Z">
-        <seg>Возможно, вам придется открыть диалоговое окно Шаблоны и нажать &lt;f0&gt;Обновить &lt;/ f0&gt; в меню &lt;f1&gt; Действие &lt;/ f1&gt;, чтобы в листингах появлялись новые шаблоны.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T191104Z" creationid="olex" creationdate="20180311T190840Z">
+        <seg>Возможно, вам придется открыть диалоговое окно Шаблоны и нажать &lt;f0&gt;Обновить&lt;/f0&gt; в меню &lt;f1&gt;Настройки&lt;/f1&gt;, чтобы в списке появился новый шаблон.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6333,6 +6333,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T063827Z" creationid="tagezi" creationdate="20180305T063827Z">
         <seg>Palm Media (.pdb)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T191109Z" creationid="olex" creationdate="20180311T191109Z">
+        <seg>редактирование</seg>
       </tuv>
     </tu>
     <tu>
