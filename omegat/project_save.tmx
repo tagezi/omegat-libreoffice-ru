@@ -1294,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Document elements like the date, subject line (business fax), salutation, and complimentary close</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T184134Z" creationid="olex" creationdate="20180311T184134Z">
+        <seg>Элементы документа: дата, тема (деловой факс), приветствие и доброжелательная подпись</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Donate to LibreOffice: &lt;a0&gt;https://www.libreoffice.org/donate/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T221619Z" creationid="tagezi" creationdate="20180307T221619Z">
@@ -1678,6 +1686,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T094320Z" creationid="olex" creationdate="20180308T172649Z">
         <seg>К примеру, в Writer &lt;f0&gt;Ctrl+0&lt;/f0&gt; применит стиль &lt;f1&gt;Основной текст&lt;/f1&gt;, &lt;f2&gt;Ctrl+1&lt;/f2&gt; применит стиль &lt;f3&gt;Заголовок 1&lt;/f3&gt; и &lt;f4&gt;Ctrl+2&lt;/f4&gt; применит стиль &lt;f5&gt;Заголовок 2&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, the Fax Wizard guides you through the following choices:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T183656Z" creationid="olex" creationdate="20180311T183656Z">
+        <seg>Например мастер факсов проведет вас через следующие варианты:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5204,6 +5220,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type of fax (business or personal)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T183726Z" creationid="olex" creationdate="20180311T183726Z">
+        <seg>Тип факса (деловой или личный)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to acquire the trademarked OpenOffice.org name from Oracle Corporation, The Document Foundation named its product LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T074827Z" creationid="lera" creationdate="20180303T165722Z">
@@ -5955,8 +5979,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can use wizards to create templates for letters, faxes, and agendas, and to create presentations and Web pages.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180311T183620Z" creationid="olex" creationdate="20180311T183620Z">
-        <seg>Вы можете использовать мастера для создания шаблонов писем, факсов и повесток дня, а так же для создания презентаций и веб-страниц.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T183711Z" creationid="olex" creationdate="20180311T183620Z">
+        <seg>Вы можете использовать мастеров для создания шаблонов писем, факсов и повесток дня, а так же для создания презентаций и веб-страниц.</seg>
       </tuv>
     </tu>
     <tu>
