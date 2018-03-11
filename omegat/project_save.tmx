@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f1&gt;You can still import styles manually from the template, but to reconnect it to the template, you will have to copy it into an empty document based on the template.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T194429Z" creationid="olex" creationdate="20180311T194429Z">
+        <seg>&lt;/f1&gt; Вы можете импортировать стили в документ вручную из шаблона, но для восстановления связи файла с шаблоном вам придется скопировать его содержимое в пустой документ, созданный на основе этого шаблона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt;or&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T204621Z" creationid="User" creationdate="20180307T204621Z">
