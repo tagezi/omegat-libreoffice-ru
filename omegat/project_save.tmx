@@ -4549,6 +4549,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default location is your user templates directory, but you can choose a different location.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T185749Z" creationid="olex" creationdate="20180311T185749Z">
+        <seg>Местом хранения шаблонов по умолчанию является каталог шаблонов пользователя, но вы можете выбрать другое месторасположение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The dialogs and choices are the same for defining new styles and for modifying existing styles.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T201138Z" creationid="olex" creationdate="20180309T201138Z">
@@ -4786,8 +4794,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>The two names can be different but this may later cause confusion.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180311T185617Z" creationid="olex" creationdate="20180311T185617Z">
-        <seg>Два имена могут быть разными, но это может впоследствии привести к путанице.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T185700Z" creationid="olex" creationdate="20180311T185617Z">
+        <seg>Два имени могут быть разными, но впоследствии это может привести к путанице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5248,6 +5256,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T104445Z" creationid="olex" creationdate="20180308T173901Z">
         <seg>Чтобы удалить ручное форматирование, выберите текст, щелкните правой кнопкой мыши и выберите &lt;f0&gt;Стили &gt; Очистить форматирование&lt;/f0&gt; в контекстном меню или выделите текст и нажмите &lt;f1&gt;Ctrl + M&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To set the file name or change the directory, select the&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Path&lt;/f1&gt; button (the three dots to the right of the location).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T185932Z" creationid="olex" creationdate="20180311T185825Z">
+        <seg>Чтобы установить имя файла или изменить каталог, выберите кнопку &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Путь&lt;/f1&gt; (три точки справа от местоположения).</seg>
       </tuv>
     </tu>
     <tu>
