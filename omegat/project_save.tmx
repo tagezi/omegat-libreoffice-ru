@@ -436,8 +436,8 @@
       <tuv lang="EN-US">
         <seg>A repository can be local (a directory on your computer to which you have downloaded templates) or remote (a URL from which you can download templates).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180311T195019Z" creationid="olex" creationdate="20180311T195019Z">
-        <seg>Репозиторий может быть локальным (каталог на вашем компьютере, куда вы загрузили шаблоны) или удаленным (URL-адрес, с которого вы можете загружать шаблоны).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T200815Z" creationid="olex" creationdate="20180311T195019Z">
+        <seg>Хранилище может быть локальным (каталог на вашем компьютере, куда вы загрузили шаблоны) или удаленным (URL-адрес, с которого вы можете загружать шаблоны).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3033,8 +3033,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>LibreOffice refers to sources for templates as repositories.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180311T194856Z" creationid="olex" creationdate="20180311T194856Z">
-        <seg>LibreOffice ссылается на источники шаблонов, как на репозитории.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T200802Z" creationid="olex" creationdate="20180311T194856Z">
+        <seg>LibreOffice ссылается на источники шаблонов, как на хранилище.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6178,8 +6178,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can get to the official template repository by using the &lt;f0&gt;Get more templates for LibreOffice&lt;/f0&gt; button at the right-hand end of the Templates dialog, as shown in Figure &lt;t1&gt;11&lt;/t1&gt;, or by typing &lt;a2&gt;http://templates.libreoffice.org/template-center&lt;/a2&gt; in your browser’s address bar.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180311T200747Z" creationid="olex" creationdate="20180311T200747Z">
-        <seg>Вы можете попасть в официальный репозиторий шаблонов, используя кнопку &lt;f0&gt;Обзор шаблонов онлайн&lt;/f0&gt; в правом конце диалогового окна «Шаблоны», как показано на рисунке &lt;t1&gt; 11 &lt;/ t1&gt;, или набрав &lt;a2&gt; http://templates.libreoffice.org/template-center &lt;/ a2&gt; в адресной строке браузера.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T201336Z" creationid="olex" creationdate="20180311T200747Z">
+        <seg>Вы можете попасть в официальное хранилище шаблонов, используя кнопку &lt;f0&gt;Обзор шаблонов онлайн&lt;/f0&gt; в правом нижнем углу диалогового окна Шаблоны, как показано на рисунке &lt;t1&gt;11&lt;/t1&gt;, или набрав &lt;a2&gt;https://extensions.libreoffice.org/templates&lt;/a2&gt; в адресной строке браузера.</seg>
       </tuv>
     </tu>
     <tu>
