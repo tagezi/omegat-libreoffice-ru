@@ -4090,6 +4090,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Templates can also contain predefined text, saving you from having to type it every time you create a new document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T175950Z" creationid="olex" creationdate="20180311T175950Z">
+        <seg>Шаблоны также могут содержать заранее введенный текст, что позволяет вам не вводить его каждый раз при создании нового документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: user-specific = специфичной для пользователя - по мне звучит нормально и вполне допустимо. Вопрос возникает с setup information = данные наладки, то есть, user-specific setup information = пользоваетльские (специфичные для пользователя) данные наладки. Это из автоматизации термин. Ничего в голову не приходит, но первоначальный первод мне по ухам режет.</note>
       <tuv lang="EN-US">
         <seg>Templates can contain anything that regular documents can contain, such as text, graphics, a set of styles, and user-specific setup information such as measurement units, language, the default printer, and toolbar and menu customization.</seg>
