@@ -3297,6 +3297,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open a new or existing document of the type you want to make into a template (text document, spreadsheet, drawing, or presentation).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T180505Z" creationid="olex" creationdate="20180311T180505Z">
+        <seg>Откройте новый или существующий документ типа, который вы хотите внести в шаблон (текстовый документ, электронная таблица, рисунок или презентация).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open menu &lt;f0&gt;Table &gt; AutoFormat Styles&lt;/f0&gt; and click the &lt;f1&gt;Add&lt;/f1&gt; button (Figure &lt;t2&gt;6&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T212530Z" creationid="olex" creationdate="20180309T212530Z">
@@ -5006,6 +5014,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T195154Z" creationid="olex" creationdate="20180309T195154Z">
         <seg>Чтобы создать новый стиль с помощью диалогового окна Стиль&lt;i0/&gt;, щелкните правой кнопкой мыши в окне Стили и выберите &lt;f1&gt;Создать&lt;/f1&gt; во всплывающем меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To create a template from a document and save it to My Templates:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T180414Z" creationid="olex" creationdate="20180311T180414Z">
+        <seg>Чтобы создать шаблон из документа и сохранить его в Мои шаблоны:</seg>
       </tuv>
     </tu>
     <tu>
