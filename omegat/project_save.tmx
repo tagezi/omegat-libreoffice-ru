@@ -710,8 +710,8 @@
       <tuv lang="EN-US">
         <seg>As you enter the markup language in the Formula Editor, the formula will appear in the Preview window during and after input of the markup.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="User" changedate="20180311T153021Z" creationid="User" creationdate="20180311T153021Z">
-        <seg>Во время ввода формулы на языке разметки в Редакторе формул формула отображается в ОБласти предварительного просмотра.</seg>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T153059Z" creationid="User" creationdate="20180311T153021Z">
+        <seg>Во время ввода формулы на языке разметки в Редакторе формул формула отображается в Области предварительного просмотра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1554,6 +1554,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File formats for formulas</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T153248Z" creationid="User" creationdate="20180311T153248Z">
+        <seg>Форматы файлов для формул</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fill Format</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T153756Z" creationid="olex" creationdate="20180308T153756Z">
@@ -1684,6 +1692,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T212122Z" creationid="lera" creationdate="20180303T212122Z">
         <seg>Для получения дополнительной информации о программном обеспечении на основе свободного и открытого программного кода посетите следующие веб-сайты:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on creating formulas, see “&lt;bf1&gt;Creating formulas&lt;/bf1&gt;” on page &lt;bf2&gt;8&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T153238Z" creationid="User" creationdate="20180311T153238Z">
+        <seg>Больше информации о создании формул изложено в разделе “&lt;bf1&gt;Создание формул&lt;/bf1&gt;” на странице &lt;bf2&gt;8&lt;/bf2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2787,6 +2803,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T135045Z" creationid="User" creationdate="20180307T204305Z">
         <seg>LibreOffice Math - это &lt;is0/&gt;редактор формул&lt;ie1/&gt;, который можно использовать для создания или редактирования формул (уравнений) в символьной форме в документах LibreOffice или как отдельные объекты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice’s native file format for formulas is ODF Formula, with extension *.odf.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T153336Z" creationid="User" creationdate="20180311T153336Z">
+        <seg>Родной формат файла для формул LibreOffice Math - это ODF Formula с расширением *.odf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4056,6 +4080,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T170637Z" creationid="lera" creationdate="20180303T170637Z">
         <seg>Миссия The Document Foundation:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Elements window to the left of the Preview window may also appear, if it has been selected in &lt;f0&gt;View&lt;/f0&gt; on the menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T153152Z" creationid="User" creationdate="20180311T153055Z">
+        <seg>Панель элементов отображается слева от Области предварительного просмотра, если соответствующий пункт отмечен в меню &lt;f0&gt;Вид&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
