@@ -2311,6 +2311,15 @@ denkin: исправил на "могли бы"</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: не нашел кнопки Репозитории, проверял в английской версии интерфейса</note>
+      <tuv lang="EN-US">
+        <seg>If you have enabled experimental features in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f0&gt;, the Templates dialog shows a &lt;f1&gt;Repository&lt;/f1&gt; button that you can use to add other template repositories.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T202110Z" creationid="olex" creationdate="20180311T202110Z">
+        <seg>Если вы включили экспериментальные функции в &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Расширенные возможности&lt;/f0&gt;, то в диалоговом окне Шаблоны появится кнопка &lt;f1&gt;Хранилище&lt;/f1&gt;, которую вы можете использовать для добавления других источников шаблонов.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: TODO: вычитать</note>
       <tuv lang="EN-US">
         <seg>If you have not specified a default template, LibreOffice uses the blank template for that type of document that is installed with LibreOffice.</seg>
