@@ -965,6 +965,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Save&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T182447Z" creationid="olex" creationdate="20180311T182326Z">
+        <seg>Нажмите &lt;f0&gt;Сохранить&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;f1&gt;From File&lt;/f1&gt; button to open a window from which to select the required document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T193103Z" creationid="olex" creationdate="20180310T193103Z">
@@ -3883,8 +3891,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Select the My Templates folder.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180311T182306Z" creationid="olex" creationdate="20180311T182306Z">
-        <seg>Выберите категорию Мои шаблоны.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T182636Z" creationid="olex" creationdate="20180311T182306Z">
+        <seg>Введите имя шаблона и выберите категорию Мои шаблоны. Можете поставить флажок Установить шаблоном по умолчанию, если хотите, чтобы все новые документы создавались на основе этого шаблона</seg>
       </tuv>
     </tu>
     <tu>
