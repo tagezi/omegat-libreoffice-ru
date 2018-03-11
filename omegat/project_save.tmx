@@ -3569,6 +3569,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Options for sender and recipient information (business fax)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T184324Z" creationid="olex" creationdate="20180311T184324Z">
+        <seg>Реквизиты отправителя и получателя (деловой факс)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Organizing templates</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195352Z" creationid="olex" creationdate="20180306T195352Z">
@@ -4233,6 +4241,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T182011Z" creationid="tagezi" creationdate="20180304T181923Z">
         <seg>Текст и текст в Юникоде (LibreOffice Writer/Web) (.txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text to include in the footer (business fax)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T184348Z" creationid="olex" creationdate="20180311T184348Z">
+        <seg>Текст для включения в колонтитул (деловой факс)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5111,6 +5127,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T180414Z" creationid="olex" creationdate="20180311T180414Z">
         <seg>Чтобы создать шаблон из документа и сохранить его в Мои шаблоны:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To create a template using a wizard:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T184428Z" creationid="olex" creationdate="20180311T184428Z">
+        <seg>Чтобы создать шаблона с помощью мастера:</seg>
       </tuv>
     </tu>
     <tu>
