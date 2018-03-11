@@ -2209,10 +2209,26 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Calc, click in the spreadsheet cell where you want to insert the formula.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T154301Z" creationid="User" creationdate="20180311T154301Z">
+        <seg>В Calc щёлкните мышью в ячейке электронной таблицы, где хотите вставить формулу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Calc, page styles also include the sequence for printing sheets.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T180926Z" creationid="olex" creationdate="20180307T180100Z">
         <seg>В Calc стиль страницы также включает порядок печати листов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Draw and Impress, the formula is inserted into the center of the drawing or slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T154333Z" creationid="User" creationdate="20180311T154333Z">
+        <seg>В Draw и Impress формула вставляется в центре рисунка или слайда.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2241,6 +2257,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T135542Z" creationid="User" creationdate="20180308T135542Z">
         <seg>В Math используйте сочетание клавиш &lt;f0&gt;Ctrl+N&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Writer, click in the paragraph where you want to insert the formula.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T154230Z" creationid="User" creationdate="20180311T154230Z">
+        <seg>В Writer щёлкните мышью в абзаце, где хотите вставить формулу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4200,6 +4224,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T100248Z" creationid="tagezi" creationdate="20180311T100248Z">
         <seg>Язык макросов LibreOffice очень гибкий, позволяющий автоматизировать и простые, и сложные задачи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The LibreOffice module in use affects how you position the cursor to insert the formula.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T154146Z" creationid="User" creationdate="20180311T154146Z">
+        <seg>Используемый модуль LibreOffice влияет на возможное позиционирование курсора для вставки формулы.</seg>
       </tuv>
     </tu>
     <tu>
