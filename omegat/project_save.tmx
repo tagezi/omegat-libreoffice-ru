@@ -2639,10 +2639,26 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice Math can import MathML Presentations directly from the clipboard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T153555Z" creationid="User" creationdate="20180311T153555Z">
+        <seg>LibreOffice Math может импортировать презентации MathML напрямую из буфера обмена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice can also open and save many other file formats, as summarized below.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180304T061546Z" creationid="lera" creationdate="20180304T061546Z">
         <seg>Также LibreOffice, как описано ниже, может открывать и сохранять многие другие форматы файлов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice can also read and save formulas in MathML 1.01 format, with extension .mml.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T153529Z" creationid="User" creationdate="20180311T153529Z">
+        <seg>LibreOffice также может читать и сохранять формулы в формате MathML 1.01 с расширением .mml.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5545,6 +5561,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T201843Z" creationid="olex" creationdate="20180310T201843Z">
         <seg>Вы так же можете нажать на маленькую стрелку после значка &lt;f1&gt;Создать&lt;/f1&gt; и выбрать &lt;f2&gt;Шаблоны&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also embed formula objects in other documents like presentations, spreadsheets, or text documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T153424Z" creationid="User" creationdate="20180311T153424Z">
+        <seg>Также можно встраивать формулы в другие документы, такие как презентации, электронные таблицы или текстовые документы.</seg>
       </tuv>
     </tu>
     <tu>
