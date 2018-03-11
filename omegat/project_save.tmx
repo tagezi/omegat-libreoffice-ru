@@ -2569,8 +2569,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>In the last section of the wizard, you can specify the template name which will show in the Templates dialog, and also the name and location for saving the template.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180311T185300Z" creationid="olex" creationdate="20180311T185300Z">
-        <seg>В последнем разделе мастера можно указать имя шаблона, которое будет отображаться в диалоговом окне Шаблоны, а также место расположения для сохранения шаблона.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T185636Z" creationid="olex" creationdate="20180311T185300Z">
+        <seg>В последнем разделе мастера можно указать имя шаблона, которое будет отображаться в диалоговом окне Шаблоны, а также имя и место расположения для сохранения шаблона.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4780,6 +4780,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T204824Z" creationid="tagezi" creationdate="20180310T204824Z">
         <seg>Термины, используемые в LibreOffice для большинства частей &lt;i0/&gt;пользовательского интерфейса (части программы, которые вы видите и используете, в отличие от кода, который фактически заставляет программу работать) такие же, как для большинства других программ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The two names can be different but this may later cause confusion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T185617Z" creationid="olex" creationdate="20180311T185617Z">
+        <seg>Два имена могут быть разными, но это может впоследствии привести к путанице.</seg>
       </tuv>
     </tu>
     <tu>
