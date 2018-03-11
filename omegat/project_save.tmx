@@ -4447,8 +4447,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>The Save as Template dialog (Figure &lt;t1&gt;9&lt;/t1&gt;) opens, displaying the existing categories and a textbox to enter a name for the new template.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180311T182241Z" creationid="olex" creationdate="20180311T182241Z">
-        <seg>Откроется диалоговое окно Сохранить как шаблон (рисунок &lt;t1&gt;9&lt;/t1&gt;), в котором отображаются существующие категории шаблонов и текстовое поле для ввода имени нового шаблона.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T191442Z" creationid="olex" creationdate="20180311T182241Z">
+        <seg>Откроется диалоговое окно Сохранить как шаблон (Рисунок &lt;t1&gt;9&lt;/t1&gt;), в котором отображаются существующие категории шаблонов и текстовое поле для ввода имени нового шаблона.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6024,6 +6024,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can edit a template’s styles and content, and then, if you wish, you can reapply the template’s styles to documents that were created from that template.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T191659Z" creationid="olex" creationdate="20180311T191659Z">
+        <seg>Вы можете редактировать стили и содержание шаблона, а затем, если хотите, вы можете повторно применить стили шаблона к документам, которые были созданы на основе этого шаблона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can either use dialogs from your computer’s operating system or from LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T082522Z" creationid="tagezi" creationdate="20180310T082522Z">
@@ -6117,6 +6125,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T195830Z" creationid="olex" creationdate="20180310T195830Z">
         <seg>Вы не можете копировать в документ стиль символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot reapply content.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T191831Z" creationid="olex" creationdate="20180311T191831Z">
+        <seg>При этом вы не можете изменить содержание документов.</seg>
       </tuv>
     </tu>
     <tu>
