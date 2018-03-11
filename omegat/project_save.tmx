@@ -2983,6 +2983,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most tasks in LibreOffice are accomplished by “dispatching a command” (sending a command), which is intercepted and used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T121110Z" creationid="tagezi" creationdate="20180311T121110Z">
+        <seg>Большинство задач в LibreOffice реализовываются путем «выполнения команды» (отправки команды), которая перехватывается и используется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moving a template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195530Z" creationid="olex" creationdate="20180306T195443Z">
