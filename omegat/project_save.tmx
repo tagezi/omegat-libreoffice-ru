@@ -2289,6 +2289,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you make any changes to a template and its styles, the next time you open a document that was created from the template before the changes, a confirmation message is displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T193251Z" creationid="olex" creationdate="20180311T193251Z">
+        <seg>Если вы внесете какие-либо изменения в шаблон и его стили, то при следующем открытии документа, который был создан из этого шаблона до изменения, появится сообщение с подтверждением.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to use LibreOffice features that require Java it is important that the correct 32 bit or 64 bit edition matches the installed version of LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T182752Z" creationid="tagezi" creationdate="20180310T182752Z">
@@ -5384,6 +5392,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180952Z" creationid="olex" creationdate="20180308T180839Z">
         <seg>Чтобы обновить стиль из выделенного фрагмента необходимо:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To update the document:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T193307Z" creationid="olex" creationdate="20180311T193307Z">
+        <seg>Чтобы обновить этот документ:</seg>
       </tuv>
     </tu>
     <tu>
