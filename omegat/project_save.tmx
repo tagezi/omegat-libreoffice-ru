@@ -708,6 +708,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you enter the markup language in the Formula Editor, the formula will appear in the Preview window during and after input of the markup.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T153021Z" creationid="User" creationdate="20180311T153021Z">
+        <seg>Во время ввода формулы на языке разметки в Редакторе формул формула отображается в ОБласти предварительного просмотра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Associating a document with a different template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195345Z" creationid="olex" creationdate="20180306T195345Z">
