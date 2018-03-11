@@ -3985,6 +3985,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Keep Old Styles&lt;/f0&gt; if you do not want to apply the changed styles in the template to the document (but see the Caution notice below).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T193924Z" creationid="olex" creationdate="20180311T193924Z">
+        <seg>Выберите &lt;f0&gt;Сохранить старые стили&lt;/f0&gt;, если вы не хотите применять измененные в шаблоне стили к документу (но смотрите Предупреждение ниже).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;More&lt;/f0&gt; at the bottom of the Apply Style list to open the Styles window.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T092148Z" creationid="olex" creationdate="20180308T171634Z">
