@@ -2567,6 +2567,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the last section of the wizard, you can specify the template name which will show in the Templates dialog, and also the name and location for saving the template.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T185300Z" creationid="olex" creationdate="20180311T185300Z">
+        <seg>В последнем разделе мастера можно указать имя шаблона, которое будет отображаться в диалоговом окне Шаблоны, а также место расположения для сохранения шаблона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Information about available accessibility options &lt;a0&gt;https://www.libreoffice.org/get-help/accessibility/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180308T083606Z" creationid="tagezi" creationdate="20180308T083606Z">
@@ -4990,6 +4998,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T202343Z" creationid="olex" creationdate="20180309T202343Z">
         <seg>Этот новый стиль применяется только к текущему документу; он не будет сохранен в шаблоне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This process is slightly different for each type of template, but the format is very similar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T185017Z" creationid="olex" creationdate="20180311T185017Z">
+        <seg>Процесс создания немного отличается для разных типов шаблонов, но формат очень похож.</seg>
       </tuv>
     </tu>
     <tu>
