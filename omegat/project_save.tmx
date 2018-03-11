@@ -3071,6 +3071,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make your selections and click &lt;f3&gt;Save&lt;/f3&gt; to close the dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T190248Z" creationid="olex" creationdate="20180311T190248Z">
+        <seg>Укажите место размещения, имя шаблона и нажмите &lt;f3&gt;Сохранить&lt;/f3&gt;, чтобы закрыть диалоговое окно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many people manually format paragraphs, words, tables, page layouts, and other parts of their documents without paying any attention to styles.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T190252Z" creationid="olex" creationdate="20180306T190252Z">
@@ -4293,6 +4301,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;f2&gt;Save As&lt;/f2&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T190103Z" creationid="olex" creationdate="20180311T190103Z">
+        <seg>Откроется диалоговое окно &lt;f2&gt;Сохранить&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Document Foundation’s mission is:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T170637Z" creationid="lera" creationdate="20180303T170637Z">
@@ -4551,8 +4567,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>The default location is your user templates directory, but you can choose a different location.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180311T185749Z" creationid="olex" creationdate="20180311T185749Z">
-        <seg>Местом хранения шаблонов по умолчанию является каталог шаблонов пользователя, но вы можете выбрать другое месторасположение.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T185956Z" creationid="olex" creationdate="20180311T185749Z">
+        <seg>Местом хранения шаблонов по умолчанию является каталог шаблонов пользователя, но вы можете выбрать другое место размещения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5262,8 +5278,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>To set the file name or change the directory, select the&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Path&lt;/f1&gt; button (the three dots to the right of the location).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180311T185932Z" creationid="olex" creationdate="20180311T185825Z">
-        <seg>Чтобы установить имя файла или изменить каталог, выберите кнопку &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Путь&lt;/f1&gt; (три точки справа от местоположения).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T190013Z" creationid="olex" creationdate="20180311T185825Z">
+        <seg>Чтобы установить имя файла или изменить каталог, выберите кнопку &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Путь&lt;/f1&gt; (три точки справа от места размещения).</seg>
       </tuv>
     </tu>
     <tu>
