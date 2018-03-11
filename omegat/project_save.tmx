@@ -1479,6 +1479,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Creating a template using a wizard</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T190328Z" creationid="olex" creationdate="20180311T190328Z">
+        <seg>Рисунок &lt;seq0&gt;10&lt;/seq0&gt;: Создание шаблона с помощью мастера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: An empty formula document in Math</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T205538Z" creationid="User" creationdate="20180307T205538Z">
@@ -1622,6 +1630,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T195559Z" creationid="olex" creationdate="20180307T195559Z">
         <seg>Стилевая заливка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, you can choose whether to create a new document from the template immediately, or manually change the template, and then click &lt;f0&gt;Finish&lt;/f0&gt; to save the template.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T190641Z" creationid="olex" creationdate="20180311T190641Z">
+        <seg>Теперь, вы можете выбрать: нужно ли сразу создавать новый документ из этого шаблона или вручную изменить шаблон, а затем нажмите &lt;f0&gt;Готово&lt;/f0&gt;, чтобы сохранить шаблон.</seg>
       </tuv>
     </tu>
     <tu>
