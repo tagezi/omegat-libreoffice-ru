@@ -1920,6 +1920,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Templates &gt; Manage Templates&lt;/f0&gt; or press &lt;f1&gt;Ctrl+Shift+N&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T191959Z" creationid="olex" creationdate="20180311T191959Z">
+        <seg>В меню выберите &lt;f0&gt;Файл &gt; Шаблоны &gt; Управление шаблонами&lt;/f0&gt; или нажмите &lt;f1&gt;Ctrl + Shift + N&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Templates &gt; Save as Template&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T182025Z" creationid="olex" creationdate="20180311T182025Z">
@@ -5243,6 +5251,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To edit a template:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T191839Z" creationid="olex" creationdate="20180311T191839Z">
+        <seg>Чтобы изменить шаблон:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To export to one of these formats, choose &lt;f0&gt;File &gt; Export&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T212609Z" creationid="tagezi" creationdate="20180304T212609Z">
@@ -5922,6 +5938,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T183530Z" creationid="olex" creationdate="20180308T183530Z">
         <seg>Вы также можете изменять стили, используя подменю для каждого стиля в списке Задать стиль абзаца на панели инструментов Форматирование (смотрите Рисунок &lt;t0&gt;4&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also open the Templates dialog from the Start Center.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T192303Z" creationid="olex" creationdate="20180311T192303Z">
+        <seg>Также можно открыть диалоговое окно шаблоны из стартового окна.</seg>
       </tuv>
     </tu>
     <tu>
