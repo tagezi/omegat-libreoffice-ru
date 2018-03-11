@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1642,6 +1642,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, you can also save printer settings, and general behaviors set from &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;, such as &lt;f1&gt;Paths&lt;/f1&gt; and &lt;f2&gt;Colors&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T175733Z" creationid="olex" creationdate="20180311T175733Z">
+        <seg>Например, вы можете сохранить настройки принтера и общие настройки поведения в меню &lt;f0&gt;Сервис &gt; Параметры&lt;/f0&gt;, такие как &lt;f1&gt;Контуры&lt;/f1&gt; и &lt;f2&gt;Цвета&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, you can create a template for business reports that has your company’s logo on the first page.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T015909Z" creationid="olex" creationdate="20180306T175441Z">
@@ -2329,6 +2337,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T174828Z" creationid="tagezi" creationdate="20180304T174828Z">
         <seg>В дополнение к форматам OpenDocument (.odt, .ott, и .fodt), Writer может сохранять в следующие форматы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to formatting, any settings that can be added to or modified in a document can be saved within a template.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180311T174902Z" creationid="olex" creationdate="20180311T174837Z">
+        <seg>В дополнение к форматированию, любые параметры, которые могут быть добавлены или изменены в документе можно сохранить в шаблоне.</seg>
       </tuv>
     </tu>
     <tu>
