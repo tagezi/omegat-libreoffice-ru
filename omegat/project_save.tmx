@@ -410,6 +410,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A macro is a saved sequence of commands or keystrokes that are stored for later use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T095554Z" creationid="tagezi" creationdate="20180311T095554Z">
+        <seg>Макрос — это сохраненная последовательность команд или нажатие клавиш, которые сохраняются для последующего использования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A new document based on the template opens in LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T202452Z" creationid="olex" creationdate="20180310T202452Z">
@@ -558,6 +566,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T212125Z" creationid="olex" creationdate="20180309T212125Z">
         <seg>Другой вариант</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An example of a simple macro is one that “types” your address.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T095747Z" creationid="tagezi" creationdate="20180311T095747Z">
+        <seg>Примером простого макроса является макрос, который «печатает» ваш адрес.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4047,6 +4063,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T220151Z" creationid="tagezi" creationdate="20180307T220151Z">
         <seg>Сообщество LibreOffice не только разрабатывает программное обеспечение, но и обеспечивает бесплатную добровольную поддержку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The LibreOffice macro language is very flexible, allowing automation of both simple and complex tasks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T100248Z" creationid="tagezi" creationdate="20180311T100248Z">
+        <seg>Язык макросов LibreOffice очень гибкий, позволяющий автоматизировать и простые, и сложные задачи.</seg>
       </tuv>
     </tu>
     <tu>
