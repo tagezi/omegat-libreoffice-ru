@@ -4938,6 +4938,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To import a MathML Presentation formula, copy the formula from the external equation editor and issue &lt;f0&gt;Tools &gt; Import MathML from Clipboard&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180311T153702Z" creationid="User" creationdate="20180311T153702Z">
+        <seg>Для импорта формулы MathML Presentation скопируйте формулу из внешнего редактора формул и используйте пункт меню &lt;f0&gt;Сервис &gt; Импорт MathML из буфера обмена&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To open the Templates dialog from the Start Center, click on the &lt;f0&gt;Templates&lt;/f0&gt; button in the left pane.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T203953Z" creationid="olex" creationdate="20180310T203953Z">
