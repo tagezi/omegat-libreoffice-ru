@@ -474,6 +474,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A small dialog will open with the word “Hello” displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T133207Z" creationid="tagezi" creationdate="20180312T133207Z">
+        <seg>Откроется небольшое диалоговое окно со словом “Привет”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abiword Document (.abw, .zabw)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T062616Z" creationid="tagezi" creationdate="20180305T062616Z">
@@ -1017,6 +1025,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T213103Z" creationid="olex" creationdate="20180309T213103Z">
         <seg>Нажмите &lt;f0&gt;OK&lt;/f0&gt; еще раз, чтобы закрыть диалоговое окно Автоформат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close this small dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T133414Z" creationid="tagezi" creationdate="20180312T133414Z">
+        <seg>Нажмите кнопку &lt;f0&gt;ОК&lt;/f0&gt;, чтобы закрыть диалоговое окно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2340,6 +2356,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T192659Z" creationid="olex" creationdate="20180309T192517Z">
         <seg>Если на вкладке Управление окна Стиль абзаца или Стиль врезки выбран параметр Авто-обновление, то применение прямого форматирования к абзацу или врезке с использованием этого стиля в документе автоматически обновляет сам стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the cursor is not in a subroutine or function, a dialog will open; select the macro to run.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T133341Z" creationid="tagezi" creationdate="20180312T133341Z">
+        <seg>Если курсор не находится в подпрограмме или функции, откроется диалоговое окно; выберите макрос для запуска.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5649,6 +5673,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T192943Z" creationid="olex" creationdate="20180311T192943Z">
         <seg>Чтобы сохранить изменения, выберите в меню &lt;f0&gt;Файл &gt; Сохранить&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To select and run any macro in the module, click the &lt;f0&gt;Select Macro &lt;/f0&gt;icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Standard toolbar or go to &lt;f3&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T133947Z" creationid="tagezi" creationdate="20180312T133947Z">
+        <seg>Для выбора и запуска любого макроса, нажмите иконку &lt;f0&gt;Выбрать макрос&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; на панели инструментов Стандартная или выберите &lt;f3&gt;Сервис &gt; Управление макросами &gt; LibreOffice Basic&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
