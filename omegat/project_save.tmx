@@ -2490,6 +2490,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have to repeatedly enter the same information, you can copy this information after it has been entered into your document for the first time, then paste the information into your document each time you want to use it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T182813Z" creationid="tagezi" creationdate="20180312T182813Z">
+        <seg>Если вам нужно повторно вводить одну и ту же информацию, после ее ввода в свой документ в первый раз, вы можете скопировать эту информацию , а затем вставлять информацию в свой документ каждый раз, когда хотите ее использовать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you make any changes to a template and its styles, the next time you open a document that was created from the template before the changes, a confirmation message is displayed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T193251Z" creationid="olex" creationdate="20180311T193251Z">
@@ -6918,6 +6926,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180358Z" creationid="tagezi" creationdate="20180304T180358Z">
         <seg>презентации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>recording</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T181658Z" creationid="tagezi" creationdate="20180312T181658Z">
+        <seg>запись</seg>
       </tuv>
     </tu>
     <tu>
