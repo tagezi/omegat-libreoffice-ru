@@ -2480,6 +2480,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you create a document by choosing &lt;f0&gt;File &gt; New &gt; Text Document&lt;/f0&gt; (or &lt;f1&gt;Spreadsheet&lt;/f1&gt;, &lt;f2&gt;Presentation&lt;/f2&gt;, or &lt;f3&gt;Drawing&lt;/f3&gt;) from the Menu bar, LibreOffice creates the document from the default template for that type of document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180312T212639Z" creationid="olex" creationdate="20180312T212639Z">
+        <seg>Если вы создаете документ, выбрав в меню &lt;f0&gt;Файл &gt; Создать &gt; Текстовый документ&lt;/f0&gt; (или &lt;f1&gt;Таблицу&lt;/f1&gt;, &lt;f2&gt;Презентацию&lt;/f2&gt;, &lt;f3&gt;Рисунок&lt;/f3&gt;), то LibreOffice создает документ на основе шаблона по умолчанию для этого типа документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you delete a style that is in use, all objects with that style will return to the default style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T201102Z" creationid="olex" creationdate="20180310T201102Z">
@@ -4455,6 +4463,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T124517Z" creationid="tagezi" creationdate="20180312T124517Z">
         <seg>Установите &lt;f0&gt;Приложение/документ&lt;/f0&gt; в &lt;f1&gt;Мои макросы и диалоги&lt;/f1&gt;, который установлен по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting &lt;i0/&gt;a default template</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180312T212238Z" creationid="olex" creationdate="20180312T212238Z">
+        <seg>Настройка &lt;i0/&gt; шаблона по умолчанию</seg>
       </tuv>
     </tu>
     <tu>
