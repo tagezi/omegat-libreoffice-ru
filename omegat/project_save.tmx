@@ -522,6 +522,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add the new macro either before Sub Main or after End Sub.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132043Z" creationid="tagezi" creationdate="20180312T132043Z">
+        <seg>Добавьте новый макрос либо до Sub Main, либо после End Sub.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding a macro</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T122949Z" creationid="tagezi" creationdate="20180311T122949Z">
@@ -1057,6 +1065,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T192531Z" creationid="olex" creationdate="20180311T192531Z">
         <seg>Нажмите один раз, чтобы активировать элементы управления файлами (смотрите Рисунок &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Compile&lt;/f0&gt; icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; on the Macro toolbar to compile the macro.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132806Z" creationid="tagezi" creationdate="20180312T132806Z">
+        <seg>Нажмите значок &lt;f0&gt;Компилировать&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; на панели инструментов Макрос для компиляции макроса.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1607,6 +1623,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: LibreOffice Basic Macros dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132531Z" creationid="tagezi" creationdate="20180312T132424Z">
+        <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: Диалоговое окно Макросы LibreOffice BASIC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: The Help Menu</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T182331Z" creationid="tagezi" creationdate="20180306T150146Z">
@@ -1629,6 +1653,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T144853Z" creationid="tagezi" creationdate="20180310T144853Z">
         <seg>Рисунок &lt;seq0&gt;2&lt;/seq0&gt;: Диалоговое окно показывающее общие элементы управления</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: LibreOffice Basic Macro Organizer dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132523Z" creationid="tagezi" creationdate="20180312T132523Z">
+        <seg>Рисунок &lt;seq0&gt;2&lt;/seq0&gt;: Диалоговое окно Управление Макросами LibreOffice Basic</seg>
       </tuv>
     </tu>
     <tu>
@@ -3208,6 +3240,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Listing &lt;t0&gt;2&lt;/t0&gt; shows the new macro has been added before Sub Main.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132356Z" creationid="tagezi" creationdate="20180312T132356Z">
+        <seg>Листинг &lt;t0&gt;2&lt;/t0&gt; показывает, что новый макрос был добавлен до Sub Main.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load or copy styles from another document or template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T175524Z" creationid="olex" creationdate="20180308T175321Z">
@@ -3910,6 +3950,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T075606Z" creationid="lera" creationdate="20180303T211954Z">
         <seg>Люди улучшают его, люди адаптируют его, люди исправляют ошибки в нем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the cursor in the HelloMacro subroutine and click the &lt;f0&gt;Run BASIC&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Macro toolbar, or press the &lt;f3&gt;F5&lt;/f3&gt; key, to run the HelloMacro in the module.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T133104Z" creationid="tagezi" creationdate="20180312T133104Z">
+        <seg>Поместите курсор в подпрограмму HelloMacro и нажмите значок &lt;f0&gt;Выполнить&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; на панели инструментов Макрос или нажмите клавишу &lt;f3&gt;F5&lt;/f3&gt; для запуска HelloMacro в модуле.</seg>
       </tuv>
     </tu>
     <tu>
