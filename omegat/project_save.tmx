@@ -989,6 +989,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;New&lt;/f0&gt; to open the New Library dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T124639Z" creationid="tagezi" creationdate="20180312T124639Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Создать&lt;/f0&gt;, чтобы открыть диалоговое окно Новая библиотека.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; again to close the AutoFormat dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T213103Z" creationid="olex" creationdate="20180309T213103Z">
@@ -1491,6 +1499,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T174939Z" creationid="tagezi" creationdate="20180304T174939Z">
         <seg>Поддержка шифрования в фильтре Microsoft Word 97/2000/XP позволяет сохранять документы Microsoft Word защищенные паролем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a library name, for example TestLibrary, and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T124728Z" creationid="tagezi" creationdate="20180312T124728Z">
+        <seg>Введите имя библиотеки, например TestLibrary, и нажмите кнопку &lt;f0&gt;ОК&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2676,6 +2692,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T201204Z" creationid="olex" creationdate="20180306T200911Z">
         <seg>Другими словами, использование стилей означает сместить акцент от того как выглядит текст (или страница, или другой элемент) к содержанию &lt;f1&gt;текста&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the &lt;f0&gt;Module&lt;/f0&gt; list, expand &lt;f1&gt;My Macros&lt;/f1&gt; and select, for example TestLibrary.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T124956Z" creationid="tagezi" creationdate="20180312T124956Z">
+        <seg>В списке &lt;f0&gt;Модуль&lt;/f0&gt;, раскройте &lt;f1&gt;Мои макросы&lt;/f1&gt; и выберите, например, TestLibrary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4174,6 +4198,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T155642Z" creationid="olex" creationdate="20180308T155642Z">
         <seg>Нажмите кнопку &lt;f0&gt;Стилевая заливка&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the &lt;f0&gt;Modules&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T124807Z" creationid="tagezi" creationdate="20180312T124807Z">
+        <seg>Выберите вкладку &lt;f0&gt;Модули&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
