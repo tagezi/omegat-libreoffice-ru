@@ -1658,6 +1658,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;shows an example Writer document with the formula box selected ready for a formula to be entered.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180312T071730Z" creationid="User" creationdate="20180312T071730Z">
+        <seg>Рисунок &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;показывает пример документа Writer с выделенной формулой, готовой к вводу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File formats LibreOffice can open</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180304T071805Z" creationid="lera" creationdate="20180304T071805Z">
@@ -1876,6 +1884,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153238Z" creationid="User" creationdate="20180311T153238Z">
         <seg>Больше информации о создании формул изложено в разделе “&lt;bf1&gt;Создание формул&lt;/bf1&gt;” на странице &lt;bf2&gt;8&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on creating formulas, see “&lt;bf5&gt;Creating formulas&lt;/bf5&gt;” on page &lt;bf6&gt;8&lt;/bf6&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180312T071613Z" creationid="User" creationdate="20180312T071613Z">
+        <seg>Больше информации о создании формул изложено в разделе “&lt;bf5&gt;Создание формул&lt;/bf5&gt;” на странице &lt;bf6&gt;8&lt;/bf6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4481,6 +4497,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
         <seg>The Elements window to the left of the Preview window may also appear, if it has been selected in &lt;f0&gt;View&lt;/f0&gt; on the menu bar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153152Z" creationid="User" creationdate="20180311T153055Z">
+        <seg>Панель элементов отображается слева от Области предварительного просмотра, если соответствующий пункт отмечен в меню &lt;f0&gt;Вид&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Elements window to the left of the Preview window may also appear, if it has been selected in &lt;f4&gt;View&lt;/f4&gt; on the menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180312T071527Z" creationid="User" creationdate="20180312T071527Z">
         <seg>Панель элементов отображается слева от Области предварительного просмотра, если соответствующий пункт отмечен в меню &lt;f0&gt;Вид&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
