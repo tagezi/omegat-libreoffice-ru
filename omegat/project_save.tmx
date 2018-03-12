@@ -1689,6 +1689,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Integrated Development Environment dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T134136Z" creationid="tagezi" creationdate="20180312T134128Z">
+        <seg>Рисунок &lt;seq0&gt;3&lt;/seq0&gt;: Окно Интегрированной Среды Разработки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Updating a style from a selection</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T183002Z" creationid="olex" creationdate="20180308T183002Z">
@@ -3264,6 +3272,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Listing &lt;seq0&gt;2&lt;/seq0&gt;: Module1 after adding the new macro.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T134215Z" creationid="tagezi" creationdate="20180312T134215Z">
+        <seg>Листинг &lt;seq0&gt;2&lt;/seq0&gt;: Module1 после добавления нового макроса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Listing &lt;t0&gt;2&lt;/t0&gt; shows the new macro has been added before Sub Main.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132356Z" creationid="tagezi" creationdate="20180312T132356Z">
@@ -4262,6 +4278,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T131615Z" creationid="tagezi" creationdate="20180312T131615Z">
         <seg>Выберите Module1, или новый модуль, который вы создали, и нажмите кнопку &lt;f0&gt;Правка&lt;/f0&gt;, чтобы открыть Интегрированную Среду Разработки (IDE) (Рисунок &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a macro and then click &lt;f0&gt;Run&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T134017Z" creationid="tagezi" creationdate="20180312T134017Z">
+        <seg>Выберите макрос, а затем нажмите &lt;f0&gt;Выполнить&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
