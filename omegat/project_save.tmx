@@ -4186,6 +4186,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Module1, or the new module that you created, and click &lt;f0&gt;Edit&lt;/f0&gt; to open the Integrated Development Environment (IDE) (Figure &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T131615Z" creationid="tagezi" creationdate="20180312T131615Z">
+        <seg>Выберите Module1, или новый модуль, который вы создали, и нажмите кнопку &lt;f0&gt;Правка&lt;/f0&gt;, чтобы открыть Интегрированную Среду Разработки (IDE) (Рисунок &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select and drag a drawing object to the Styles window to create a graphic style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T210711Z" creationid="olex" creationdate="20180309T210711Z">
@@ -4618,6 +4626,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T145030Z" creationid="tagezi" creationdate="20180306T145030Z">
         <seg>Меню Справка содержит ссылки на другие средства информации и поддержки LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The IDE is a text editor included with LibreOffice that allows you to create and edit macros.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T131851Z" creationid="tagezi" creationdate="20180312T131851Z">
+        <seg>IDE — это текстовый редактор входящий в комплект поставки LibreOffice, который позволяет создавать и редактировать макросы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6042,6 +6058,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T142621Z" creationid="tagezi" creationdate="20180306T142621Z">
         <seg>Что нового в LibreOffice 6.0?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a new module is created, it contains a comment and an empty macro named Main, which does nothing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132010Z" creationid="tagezi" creationdate="20180312T132010Z">
+        <seg>При создании нового модуля, он содержит комментарий и пустой макрос с именем Main, который ничего не делает</seg>
       </tuv>
     </tu>
     <tu>
