@@ -434,6 +434,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A module named Module1 already exists and can contain your macro.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T130040Z" creationid="tagezi" creationdate="20180312T130040Z">
+        <seg>Модуль с названием Module1 уже существует, и в него можно поместить ваш макрос.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A new document based on the template opens in LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T202452Z" creationid="olex" creationdate="20180310T202452Z">
