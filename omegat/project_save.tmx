@@ -1015,8 +1015,8 @@
       <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Organizer&lt;/f0&gt; to open the Basic Macro Organizer dialog (Figure &lt;t1&gt;2&lt;/t1&gt;) and select the &lt;f2&gt;Libraries&lt;/f2&gt; tab.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T121648Z" creationid="tagezi" creationdate="20180312T104854Z">
-        <seg>Нажмите кнопку &lt;f0&gt;Управление&lt;/f0&gt; для открытия окна Управление макросами LibreOffice (Рисунок &lt;t1&gt;2&lt;/t1&gt;) and select the &lt;f2&gt;Libraries&lt;/f2&gt; tab.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T122534Z" creationid="tagezi" creationdate="20180312T104854Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Управление&lt;/f0&gt;, для открытия окна Управление макросами LibreOffice Basic (Рисунок &lt;t1&gt;2&lt;/t1&gt;), и выберите вкладку &lt;f2&gt;Библиотеки&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4207,6 +4207,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T211352Z" creationid="olex" creationdate="20180309T211352Z">
         <seg>Выберите всю таблицу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the &lt;f0&gt;Location&lt;/f0&gt; to &lt;f1&gt;My Macros &amp; Dialogs&lt;/f1&gt;, which is the default location.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T124517Z" creationid="tagezi" creationdate="20180312T124517Z">
+        <seg>Установите &lt;f0&gt;Приложение/документ&lt;/f0&gt; в &lt;f1&gt;Мои макросы и диалоги&lt;/f1&gt;, который установлен по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
