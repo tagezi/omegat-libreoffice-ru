@@ -3664,6 +3664,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note for Microsoft Word users</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180312T212923Z" creationid="olex" creationdate="20180312T212923Z">
+        <seg>Заметка для пользователей Microsoft Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090607Z" creationid="tagezi" creationdate="20180305T090607Z">
@@ -6756,8 +6764,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can, however, change the default whenever you choose.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180312T212834Z" creationid="olex" creationdate="20180312T212834Z">
-        <seg>При этом, вы можете изменить шаблон по умолчанию, если захотите.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180312T213009Z" creationid="olex" creationdate="20180312T212834Z">
+        <seg>При этом, вы можете изменить шаблон по умолчанию, когда захотите.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6830,6 +6838,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T230604Z" creationid="tagezi" creationdate="20180304T230604Z">
         <seg>Вы можете распространять и/или изменять этот документ, соблюдая лицензии GNU General Public License (&lt;a1&gt;http://www.gnu.org/licenses/gpl.html&lt;/a1&gt;), версии 3 или более поздней, или Creative Commons Attribution License (&lt;a2&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a2&gt;), версии 4.0 или более поздней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may know that Microsoft Word employs a &lt;f0&gt;normal.dot&lt;/f0&gt; or &lt;f1&gt;normal.dotx&lt;/f1&gt; file for its default template and how to regenerate it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180312T213243Z" creationid="olex" creationdate="20180312T213243Z">
+        <seg>Может быть вы знаете, что Microsoft Word использует файл &lt;f0&gt;normal.dot&lt;/f0&gt; или &lt;f1&gt;normal.dotx&lt;/f1&gt; в качестве своего шаблона по умолчанию и как его менять.</seg>
       </tuv>
     </tu>
     <tu>
