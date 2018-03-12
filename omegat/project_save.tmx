@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1430,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Download the template and save it anywhere on your computer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180312T202724Z" creationid="olex" creationdate="20180312T202724Z">
+        <seg>Загрузите шаблон и сохраните его в любом месте на вашем компьютере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drag a cell selection to the Styles window to create a cell style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T210010Z" creationid="olex" creationdate="20180309T210010Z">
@@ -2550,6 +2558,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T142457Z" creationid="tagezi" creationdate="20180306T142457Z">
         <seg>Иллюстрации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import the template into a template folder by following the instructions in “&lt;bf0&gt;Importing a template&lt;/bf0&gt;” on page &lt;bf1&gt;21&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180312T202929Z" creationid="olex" creationdate="20180312T202929Z">
+        <seg>Импортируйте шаблон в папку шаблона, выполнив инструкции в &lt;bf0&gt;Импорт шаблона&lt;/bf0&gt; на странице &lt;bf1&gt;21&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5688,6 +5704,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T154029Z" creationid="User" creationdate="20180311T154029Z">
         <seg>Для вставки формулы в документ LibreOffice откройте документ в Writer, Calc, Draw или Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To install individual templates:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180312T202622Z" creationid="olex" creationdate="20180312T202622Z">
+        <seg>Чтобы установить отдельные шаблоны:</seg>
       </tuv>
     </tu>
     <tu>
