@@ -2288,6 +2288,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, if something else is copied to the clipboard, the contents on the clipboard are changed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T183034Z" creationid="tagezi" creationdate="20180312T183034Z">
+        <seg>Однако, если что-то еще будет скопировано в буфер обмена, содержимое в буфере обмена изменяется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, if you want to evaluate numeric values using formulas, then refer to the Calc Guide for more information; Math does not carry out any actual calculation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T204600Z" creationid="User" creationdate="20180307T204600Z">
@@ -5439,6 +5447,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T205234Z" creationid="User" creationdate="20180307T205234Z">
         <seg>Язык разметки разработан для легкого чтения где только возможно, например, a over b производит дробь&lt;f0&gt;&lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;формула&lt;/s4&gt;&lt;/df1&gt;&lt;/f0&gt;при использовании в формуле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means that you have to re-copy your repeated information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T183306Z" creationid="tagezi" creationdate="20180312T183306Z">
+        <seg>Это означает, что вы должны повторно копировать свою информацию для повторения.</seg>
       </tuv>
     </tu>
     <tu>
