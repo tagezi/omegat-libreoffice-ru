@@ -2450,6 +2450,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you wish, you can click &lt;f2&gt;New&lt;/f2&gt; to create another module in the library.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T131043Z" creationid="tagezi" creationdate="20180312T131043Z">
+        <seg>Если вы хотите создать другой модуль в библиотеке, нажмите кнопку  &lt;f2&gt;Создать&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your document has a table of contents, and if you have used custom styles for headings, the heading levels associated with outline levels in &lt;f0&gt;Tools &gt; Outline Numbering&lt;/f0&gt; will revert to the defaults of Heading 1, Heading 2, and so on when you load Text Styles from a file that does not use the same custom styles.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T195712Z" creationid="olex" creationdate="20180310T195604Z">
