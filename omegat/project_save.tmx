@@ -1358,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double-clicking on the formula object in the document will open the Formula Editor again so that you can edit the formula.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180312T101958Z" creationid="User" creationdate="20180312T101958Z">
+        <seg>Двойной щелчок мышью на формуле в документе снова откроет Редактор формул, где можно будет изменить формулу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drag a cell selection to the Styles window to create a cell style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T210010Z" creationid="olex" creationdate="20180309T210010Z">
@@ -1932,6 +1940,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T093858Z" creationid="olex" creationdate="20180306T200142Z">
         <seg>Форматирование таблицы в Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formulas are inserted as OLE objects into documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180312T102021Z" creationid="User" creationdate="20180312T102021Z">
+        <seg>Формулы, вставленные в документ, как объекты OLE.</seg>
       </tuv>
     </tu>
     <tu>
