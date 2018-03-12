@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3594,8 +3594,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Most of these file types are automatically detected by LibreOffice, so they can be opened without explicitly selecting the document type in the file picker.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153208Z" creationid="tagezi" creationdate="20180304T153208Z">
-        <seg>Большинство этих типов файлов автоматически определяются LibreOffice, и могут быть открыты без явного выбора типа документа в диалоге выбора фалов.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T214327Z" creationid="tagezi" creationdate="20180304T153208Z">
+        <seg>Большинство этих типов файлов автоматически определяются LibreOffice, и могут быть открыты без явного выбора типа документа в диалоге выбора файлов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5581,8 +5581,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>This means that you have to re-copy your repeated information.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T183306Z" creationid="tagezi" creationdate="20180312T183306Z">
-        <seg>Это означает, что вы должны повторно копировать свою информацию для повторения.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T183605Z" creationid="tagezi" creationdate="20180312T183306Z">
+        <seg>Это означает, что вы должны снова копировать свою информацию для повторения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5840,6 +5840,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T203953Z" creationid="olex" creationdate="20180310T203953Z">
         <seg>Чтобы открыть диалоговое окно Шаблоны в стартовом окне, нажмите кнопку &lt;f0&gt;Шаблоны&lt;/f0&gt; на панели слева.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To overcome this problem, you can create a macro that enters your repeated information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T183431Z" creationid="tagezi" creationdate="20180312T183431Z">
+        <seg>Чтобы преодолеть эту проблему, можно создать макрос, который вводит вашу повторяющуюся информацию.</seg>
       </tuv>
     </tu>
     <tu>
