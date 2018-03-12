@@ -6754,6 +6754,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can, however, change the default whenever you choose.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180312T212834Z" creationid="olex" creationdate="20180312T212834Z">
+        <seg>При этом, вы можете изменить шаблон по умолчанию, если захотите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You cannot add custom styles to the Styles menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T152925Z" creationid="olex" creationdate="20180307T202731Z">
