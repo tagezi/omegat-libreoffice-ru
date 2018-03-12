@@ -256,6 +256,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Print&lt;/f0&gt; &lt;f1&gt;"Hello"&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T104121Z" creationid="tagezi" creationdate="20180312T104121Z">
+        <seg>&lt;f0&gt;Print&lt;/f0&gt; &lt;f1&gt;"Привет"&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Restart in Safe Mode&lt;/f0&gt; Opens a dialog window where you will have the option to restart LibreOffice and reset the software to it's default settings.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T112127Z" creationid="tagezi" creationdate="20180307T112127Z">
@@ -420,8 +428,8 @@
       <tuv lang="EN-US">
         <seg>A macro is a saved sequence of commands or keystrokes that are stored for later use.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T095554Z" creationid="tagezi" creationdate="20180311T095554Z">
-        <seg>Макрос — это сохраненная последовательность команд или нажатие клавиш, которые сохраняются для последующего использования.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T061205Z" creationid="tagezi" creationdate="20180311T095554Z">
+        <seg>Макрос — это сохраненная последовательность команд или нажатие клавиш, которые хранятся для последующего использования.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1001,6 +1009,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203400Z" creationid="olex" creationdate="20180309T203400Z">
         <seg>Нажмите &lt;f0&gt;OK&lt;/f0&gt;, чтобы сохранить новый стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Organizer&lt;/f0&gt; to open the Basic Macro Organizer dialog (Figure &lt;t1&gt;2&lt;/t1&gt;) and select the &lt;f2&gt;Libraries&lt;/f2&gt; tab.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T104854Z" creationid="tagezi" creationdate="20180312T104854Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Управление&lt;/f0&gt; to open the Basic Macro Organizer dialog (Figure &lt;t1&gt;2&lt;/t1&gt;) and select the &lt;f2&gt;Libraries&lt;/f2&gt; tab.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3140,6 +3156,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153336Z" creationid="User" creationdate="20180311T153336Z">
         <seg>Родной формат файла для формул LibreOffice Math - это ODF Formula с расширением *.odf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Listing &lt;seq0&gt;1&lt;/seq0&gt;: Simple macro that says hello</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T104115Z" creationid="tagezi" creationdate="20180312T104115Z">
+        <seg>Листинг &lt;seq0&gt;1&lt;/seq0&gt;: Простой макрос, который говорит Привет</seg>
       </tuv>
     </tu>
     <tu>
@@ -5655,6 +5679,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; to open the LibreOffice Basic Macro dialog (Figure &lt;t1&gt;1&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T104811Z" creationid="tagezi" creationdate="20180312T104811Z">
+        <seg>Для открытия диалогового окна Макросы LibreOffice BASIC (Рисунок &lt;t1&gt;1&lt;/t1&gt;), выберите &lt;f0&gt;Сервис &gt; Макросы &gt; Управление макросами &gt; LibreOffice Basic&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use AutoUpdate (paragraph and frame styles only)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T175459Z" creationid="olex" creationdate="20180308T175236Z">
@@ -5676,6 +5708,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T140021Z" creationid="User" creationdate="20180308T140021Z">
         <seg>Используйте пункт меню &lt;f0&gt;Сервис &gt; Импорт MathML из буфера обмена&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the following steps to create a library to contain your macro:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T104437Z" creationid="tagezi" creationdate="20180312T104437Z">
+        <seg>Для создания библиотеки, содержащей ваш макрос, выполните следующие действия:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6438,6 +6478,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T171652Z" creationid="tagezi" creationdate="20180310T171652Z">
         <seg>Вы можете в пределах условий, установленных в MPL и/или LGPL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must create a library and module to contain your macro; see “&lt;bf2&gt;Macro organization&lt;/bf2&gt;” on page &lt;bf3&gt;14&lt;/bf3&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T104024Z" creationid="tagezi" creationdate="20180312T104024Z">
+        <seg>Вы должны создать библиотеку и модуль, чтобы запускать макрос; для получения дополнительной информации смотрите “&lt;bf2&gt;Организация макросов&lt;/bf2&gt;” на странице &lt;bf3&gt;14&lt;/bf3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
