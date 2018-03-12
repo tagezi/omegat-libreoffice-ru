@@ -5305,6 +5305,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The templates are available for use through &lt;f0&gt;File &gt; Templates &gt; Manage Templates&lt;/f0&gt; and &lt;f1&gt;File &gt; New &gt; Templates&lt;/f1&gt; and the extension is listed in the Extension Manager.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180312T211740Z" creationid="olex" creationdate="20180312T211740Z">
+        <seg>Шаблоны станут доступны для использования через меню &lt;f0&gt;Файл &gt; Шаблоны &gt; Управление шаблонами&lt;/f0&gt; и &lt;f1&gt;Файл &gt; Создать &gt; Шаблоны&lt;/f1&gt;, а расширение будет указано в Управление расширениями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The terms used in LibreOffice for most parts of the &lt;i0/&gt;user interface (the parts of the program you see and use, in contrast to the behind-the-scenes code that actually makes it work) are the same as for most other programs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T204824Z" creationid="tagezi" creationdate="20180310T204824Z">
@@ -6334,6 +6342,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the package installation is complete, restart LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180312T211152Z" creationid="olex" creationdate="20180312T211152Z">
+        <seg>Когда установка пакета завершится, перезапустите LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When this mode is active, a right-click anywhere in the document undoes the last Fill Format action.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T165829Z" creationid="olex" creationdate="20180308T165020Z">
@@ -6750,6 +6766,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T192959Z" creationid="tagezi" creationdate="20180310T192959Z">
         <seg>Вам не нужно запрашивать специальное разрешение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may be asked to accept a license agreement.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180312T211104Z" creationid="olex" creationdate="20180312T211104Z">
+        <seg>Вас могут попросить принять лицензионное соглашение.</seg>
       </tuv>
     </tu>
     <tu>
