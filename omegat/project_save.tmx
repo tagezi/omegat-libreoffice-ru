@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -598,6 +598,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T212125Z" creationid="olex" creationdate="20180309T212125Z">
         <seg>Другой вариант</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternatively, go to &lt;f1&gt;Insert &gt; Object &gt; OLE Object&lt;/f1&gt; on the menu bar to open the Insert OLE Object dialog, select &lt;f2&gt;Create new&lt;/f2&gt; option and &lt;f3&gt;Formula&lt;/f3&gt; from the sub-menu, then click OK to open the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180312T071433Z" creationid="User" creationdate="20180312T071433Z">
+        <seg>Также можно выбрать пункт меню &lt;f1&gt;Вставка &gt; Объект &gt; Объект OLE&lt;/f1&gt;, чтобы открыть диалог Вставка объекта OLE, выбрать вариант &lt;f2&gt;Создать новый&lt;/f2&gt; и в списке Тип выбрать &lt;f3&gt;Формула&lt;/f3&gt;, затем нажать кнопку ОК, чтобы открыть Редактор формул</seg>
       </tuv>
     </tu>
     <tu>
