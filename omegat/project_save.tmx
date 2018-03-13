@@ -6769,6 +6769,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When asked, confirm that you want to overwrite the old file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T201723Z" creationid="olex" creationdate="20180313T201723Z">
+        <seg>Если будет запрос, то подтвердите, что вы хотите перезаписать старый файл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When opening .htm or .html files (used for web pages), LibreOffice customizes Writer for working with these files.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153334Z" creationid="tagezi" creationdate="20180304T153334Z">
