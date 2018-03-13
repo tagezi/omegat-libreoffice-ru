@@ -2536,6 +2536,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, you can delete a category that you created.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T205213Z" creationid="olex" creationdate="20180313T205213Z">
+        <seg>Впрочем, вы можете удалить созданную вами категорию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, you can save files in other formats, if you wish.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T170152Z" creationid="tagezi" creationdate="20180304T170152Z">
@@ -4775,6 +4783,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T210711Z" creationid="olex" creationdate="20180309T210711Z">
         <seg>Выберите и перетащите объект рисунка в окно Стили, чтобы создать стиль рисунка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select it and click the &lt;f0&gt;Delete&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T205636Z" creationid="olex" creationdate="20180313T205636Z">
+        <seg>Выделите ее и нажмите кнопку &lt;f0&gt;Удалить&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
