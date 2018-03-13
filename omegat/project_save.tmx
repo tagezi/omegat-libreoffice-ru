@@ -2536,6 +2536,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If they are not, use &lt;f0&gt;Edit &gt; Find &amp;&lt;/f0&gt; &lt;f1&gt;Replace&lt;/f1&gt; to replace old styles with new ones.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T195405Z" creationid="olex" creationdate="20180313T195405Z">
+        <seg>Если это не так, то используйте &lt;f0&gt;Правка &gt; Найти и&lt;/f0&gt; &lt;f1&gt;Заменить&lt;/f1&gt;, чтобы заменить старые стили новыми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this box is not selected, you will only copy styles whose names are not used in the original document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T194145Z" creationid="olex" creationdate="20180310T194145Z">
