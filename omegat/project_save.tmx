@@ -3687,6 +3687,7 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <note>LG:TODO: Выяснит. В интерфейсе этого невидно.</note>
       <tuv lang="EN-US">
         <seg>Most default settings, such as page size and page margins, can be changed in &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;, but those changes apply only to the document you are working on.</seg>
       </tuv>
@@ -4374,6 +4375,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T192634Z" creationid="olex" creationdate="20180311T192634Z">
         <seg>Нажмите на шаблоне правой кнопкой мыши и выберите &lt;f1&gt;Изменить&lt;/f1&gt; в контекстном меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running a macro</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T152649Z" creationid="tagezi" creationdate="20180313T152649Z">
+        <seg>Выполнение макроса</seg>
       </tuv>
     </tu>
     <tu>
@@ -6520,6 +6529,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When LibreOffice creates a new module, it automatically adds the macro named Main.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T151730Z" creationid="tagezi" creationdate="20180313T151730Z">
+        <seg>Когда LibreOffice создает новый модуль, он автоматически добавляет макрос с именем Main.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a new module is created, it contains a comment and an empty macro named Main, which does nothing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132010Z" creationid="tagezi" creationdate="20180312T132010Z">
@@ -7328,6 +7345,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T181658Z" creationid="tagezi" creationdate="20180312T181658Z">
         <seg>запись</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>running</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T151802Z" creationid="tagezi" creationdate="20180313T151802Z">
+        <seg>выполнить</seg>
       </tuv>
     </tu>
     <tu>
