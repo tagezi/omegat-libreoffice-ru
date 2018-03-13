@@ -4515,6 +4515,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See &lt;f2&gt;Chapter 4, Getting Started with Writer&lt;/f2&gt;, for more about replacing styles using Find &amp; Replace.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T195531Z" creationid="olex" creationdate="20180313T195531Z">
+        <seg>Смотрите &lt;f2&gt;Глава 4, Начало работы с Writer&lt;/f2&gt;, для получения дополнительной информации о замене стилей с помощью Найти и заменить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Chapter 10 Printing, Exporting, and E-Mailing in this guide.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T164432Z" creationid="tagezi" creationdate="20180304T174342Z">
@@ -5972,6 +5980,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To associate a document with another template:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T195555Z" creationid="olex" creationdate="20180313T195555Z">
+        <seg>Чтобы связать документ с другим шаблоном:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change an existing style using &lt;i0/&gt;the Style dialog, right-click on the required style in the Styles window and select &lt;f1&gt;Modify&lt;/f1&gt; from the pop-up menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180341Z" creationid="olex" creationdate="20180308T180341Z">
@@ -6334,6 +6350,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194652Z" creationid="olex" creationdate="20180306T194652Z">
         <seg>Обновление стилей из документа или шаблона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;f0&gt;File &gt; Templates &gt; Manage Templates &lt;/f0&gt;to open the Templates dialog, and select the template you want to use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T200045Z" creationid="olex" creationdate="20180313T200045Z">
+        <seg>Выберите пункт меню &lt;f0&gt;Файл &gt; Шаблоны &gt; Управление шаблонами&lt;/f0&gt;, чтобы открыть диалоговое окно Шаблоны и выберите тот шаблон, который вы хотите использовать.</seg>
       </tuv>
     </tu>
     <tu>
