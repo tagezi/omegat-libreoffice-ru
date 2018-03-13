@@ -450,6 +450,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A new document opens, containing any text or graphics that were in the template.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T200142Z" creationid="olex" creationdate="20180313T200142Z">
+        <seg>Откроется новый документ, содержащий текст или графику, которые были в шаблоне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A repository can be local (a directory on your computer to which you have downloaded templates) or remote (a URL from which you can download templates).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T200815Z" creationid="olex" creationdate="20180311T195019Z">
@@ -1362,6 +1370,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T200120Z" creationid="olex" creationdate="20180306T200120Z">
         <seg>Определение последовательности стилей абзаца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete any unwanted text or graphics from this new document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T200227Z" creationid="olex" creationdate="20180313T200227Z">
+        <seg>Удалите любой ненужный текст или графику из этого нового документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4055,6 +4071,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T181000Z" creationid="olex" creationdate="20180308T180910Z">
         <seg>Открыть окно Стили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the document you want to change.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T200255Z" creationid="olex" creationdate="20180313T200255Z">
+        <seg>Откройте документ, который вы хотите изменить.</seg>
       </tuv>
     </tu>
     <tu>
