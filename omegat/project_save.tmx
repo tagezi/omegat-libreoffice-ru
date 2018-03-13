@@ -2992,6 +2992,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Templates dialog, click the &lt;f0&gt;Action Menu&lt;/f0&gt; icon on the bottom left (Figure &lt;t1&gt;12&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T192808Z" creationid="olex" creationdate="20180313T192808Z">
+        <seg>В диалоговом окне Шаблоны щелкните значок &lt;f0&gt;Настройки&lt;/f0&gt; в левом нижнем углу (Рисунок &lt;t1&gt;12&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Templates dialog, open the category containing the template that you want to set as the default, then select the template.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T191449Z" creationid="olex" creationdate="20180313T191449Z">
@@ -5444,8 +5452,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>The next time that you create a document of that type by choosing &lt;f0&gt;File &gt; New,&lt;/f0&gt; the document will be created from this template.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180313T192220Z" creationid="olex" creationdate="20180313T192220Z">
-        <seg>Когда вы будете создавать этого типа в следующий раз документ, выбрав &lt;f0&gt;Файл &gt; Создать,&lt;/f0&gt;, документ будет создан на основе этого шаблона.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T192421Z" creationid="olex" creationdate="20180313T192220Z">
+        <seg>Когда вы будете создавать документ этого типа в следующий раз, выбрав &lt;f0&gt;Файл &gt; Создать,&lt;/f0&gt;, документ будет создан на основе этого шаблона.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6072,8 +6080,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>To re-enable LibreOffice’s original default template for a document type as the default for that type:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180313T192354Z" creationid="olex" creationdate="20180313T192354Z">
-        <seg>Чтобы снова включить оригинальный шаблон по умолчанию LibreOffice для типа документа в качестве значения по умолчанию для этого типа:</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T192619Z" creationid="olex" creationdate="20180313T192354Z">
+        <seg>Чтобы вернуть оригинальный шаблон LibreOffice шаблоном по умолчанию, выполните:</seg>
       </tuv>
     </tu>
     <tu>
