@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4805,8 +4805,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Select it and click the &lt;f0&gt;Delete&lt;/f0&gt; button.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180313T205636Z" creationid="olex" creationdate="20180313T205636Z">
-        <seg>Выделите ее и нажмите кнопку &lt;f0&gt;Удалить&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T210108Z" creationid="olex" creationdate="20180313T205636Z">
+        <seg>Выделите ее, нажмите кнопку &lt;f0&gt;Настройки &gt; Удалить категорию&lt;/f0&gt;. В появившемся окне Удалить категорию выберите вашу категорию и нажмите &lt;f0&gt;ОК&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6885,6 +6885,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T151730Z" creationid="tagezi" creationdate="20180313T151730Z">
         <seg>Когда LibreOffice создает новый модуль, он автоматически добавляет макрос с именем Main.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a message box appears asking you to confirm the deletion, click &lt;f1&gt;Yes&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T210206Z" creationid="olex" creationdate="20180313T210206Z">
+        <seg>Когда появится окно с просьбой подтвердить удаление, нажмите &lt;f1&gt;Да&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
