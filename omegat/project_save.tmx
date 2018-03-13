@@ -1962,6 +1962,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For best results, the names of styles should be the same in the existing document and the new template.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T195134Z" creationid="olex" creationdate="20180313T195134Z">
+        <seg>Для достижения наилучшего результата в существующем документе и в новом шаблоне имена стилей должны совпадать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, Writer relies on heading styles (or other styles you specify) when it compiles a table of contents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T202113Z" creationid="olex" creationdate="20180306T202113Z">
@@ -2420,6 +2428,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T204600Z" creationid="User" creationdate="20180307T204600Z">
         <seg>Однако, если необходимо вычислять числовые значения, используя формулы, то обратитсеь к руководству по Calc для получения более подробной информации; Math не выполняет никаких расчётов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, you can copy the contents of a document into an empty document that uses a different template.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T195007Z" creationid="olex" creationdate="20180313T195007Z">
+        <seg>Тем не менее, вы можете скопировать содержимое документа в пустой документ, основанном на необходимом вам шаблоне.</seg>
       </tuv>
     </tu>
     <tu>
