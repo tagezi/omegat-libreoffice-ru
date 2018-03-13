@@ -5626,6 +5626,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These choices do not appear unless a custom template has been set as the default, as described in the previous section.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T193905Z" creationid="olex" creationdate="20180313T193905Z">
+        <seg>Если шаблон Libreoffice по умолчанию не заменялся пользовательским, как описано в предыдущем разделе, то шаблона этого типа не будет в списке выбора для восстановления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They also make major formatting changes easy.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T201330Z" creationid="olex" creationdate="20180306T201330Z">
