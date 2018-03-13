@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a template &lt;i0/&gt;category</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T204200Z" creationid="olex" creationdate="20180313T204200Z">
+        <seg>Создание категории &lt;i0/&gt;шаблонов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a template category</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195547Z" creationid="olex" creationdate="20180306T195418Z">
@@ -6092,6 +6100,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To begin, choose &lt;f0&gt;File &gt; Templates &gt; Manage Templates&lt;/f0&gt; to open the Templates dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T204040Z" creationid="olex" creationdate="20180313T204040Z">
+        <seg>Для начала выберите &lt;f0&gt;Файл &gt; Шаблоны &gt; Управление шаблонами&lt;/f0&gt;, чтобы открыть диалоговое окно Шаблоны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change an existing style using &lt;i0/&gt;the Style dialog, right-click on the required style in the Styles window and select &lt;f1&gt;Modify&lt;/f1&gt; from the pop-up menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180341Z" creationid="olex" creationdate="20180308T180341Z">
@@ -7010,6 +7026,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also import and export templates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T203927Z" creationid="olex" creationdate="20180313T203927Z">
+        <seg>Вы также можете импортировать и экспортировать шаблоны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also modify styles using the submenu on each style in the Apply Style list on the Formatting toolbar (see Figure &lt;t0&gt;4&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T183530Z" creationid="olex" creationdate="20180308T183530Z">
@@ -7537,6 +7561,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T191109Z" creationid="olex" creationdate="20180311T191109Z">
         <seg>редактирование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>folders</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T204110Z" creationid="olex" creationdate="20180313T204110Z">
+        <seg>папки</seg>
       </tuv>
     </tu>
     <tu>
