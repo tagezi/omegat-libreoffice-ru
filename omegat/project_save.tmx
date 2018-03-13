@@ -731,6 +731,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any changes recorded (tracked) in the document will be lost during this process.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T202459Z" creationid="olex" creationdate="20180313T202459Z">
+        <seg>Любые отслеживания изменений, записанные в исходном документе, будут потеряны во время этого процесса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any changes you make to a style are effective only in the current document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T175643Z" creationid="olex" creationdate="20180308T175643Z">
@@ -5598,6 +5606,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T211037Z" creationid="olex" creationdate="20180312T211037Z">
         <seg>Пакет начинает устанавливаться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The resulting document will contain only the changed text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T202616Z" creationid="olex" creationdate="20180313T202616Z">
+        <seg>Конечный документ будет содержать только измененный текст.</seg>
       </tuv>
     </tu>
     <tu>
