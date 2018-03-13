@@ -1085,6 +1085,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Save&lt;/f0&gt; to save the macro and close the LibreOffice Basic Macros dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T145009Z" creationid="tagezi" creationdate="20180313T145009Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Записать&lt;/f0&gt; для записи макроса и закрытия диалогового окна Макросы LibreOffice Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Save&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T182447Z" creationid="olex" creationdate="20180311T182326Z">
@@ -2572,6 +2580,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T183226Z" creationid="tagezi" creationdate="20180310T183226Z">
         <seg>Если вы не хотите использовать Java, вы все равно сможете использовать почти весь функционал LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you followed all of the above steps, the Standard library now contains a module named Recorded and this module contains the EnterMyName macro.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T151650Z" creationid="tagezi" creationdate="20180313T151650Z">
+        <seg>Если вы выполнили все описанные выше шаги, библиотека Standard теперь содержит модуль с именем Recorded, и этот модуль содержит макрос EnterMyName.</seg>
       </tuv>
     </tu>
     <tu>
