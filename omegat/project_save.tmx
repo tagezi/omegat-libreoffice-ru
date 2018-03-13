@@ -474,6 +474,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A small dialog is displayed indicating that LibreOffice is recording a macro.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T115552Z" creationid="tagezi" creationdate="20180313T115552Z">
+        <seg>Отобразится небольшое диалоговое окно, показывающее, что LibreOffice записывает макрос.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A small dialog will open with the word “Hello” displayed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T133207Z" creationid="tagezi" creationdate="20180312T133207Z">
