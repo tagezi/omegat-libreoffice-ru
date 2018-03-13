@@ -828,6 +828,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the time of writing this chapter, LibreOffice has no direct method of changing the template that a document uses; the Template Changer extension has not been updated for this version of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T194747Z" creationid="olex" creationdate="20180313T194747Z">
+        <seg>На момент написания этой главы LibreOffice не имеет прямого метода изменения шаблона, на котором основан документ; расширение Template Changer не было обновлено для этой версии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AutoCAD Interchange Format (*.dxf)&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064435Z" creationid="tagezi" creationdate="20180305T064435Z">
