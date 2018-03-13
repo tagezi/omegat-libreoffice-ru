@@ -1767,6 +1767,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Creating a new category</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T204544Z" creationid="olex" creationdate="20180313T204544Z">
+        <seg>Рисунок &lt;seq0&gt;13&lt;/seq0&gt;: Создание новой категории</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: An empty formula document in Math</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T205538Z" creationid="User" creationdate="20180307T205538Z">
@@ -7321,6 +7329,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T195830Z" creationid="olex" creationdate="20180310T195830Z">
         <seg>Вы не можете копировать в документ стиль символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot create a sub-category inside a template category in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T204713Z" creationid="olex" creationdate="20180313T204713Z">
+        <seg>Вы не можете создавать подкатегорию внутри категории шаблонов в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot delete template categories supplied with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T204908Z" creationid="olex" creationdate="20180313T204908Z">
+        <seg>Вы не можете удалять категории шаблонов, установленные вместе с LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
