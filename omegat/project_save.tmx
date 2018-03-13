@@ -2208,6 +2208,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Templates &gt; Manage Templates&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T191221Z" creationid="olex" creationdate="20180313T191221Z">
+        <seg>В меню выберите &lt;f0&gt;Файл &gt; Шаблоны &gt; Управление шаблонами&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Templates &gt; Save as Template&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T182025Z" creationid="olex" creationdate="20180311T182025Z">
@@ -6945,6 +6953,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T200538Z" creationid="olex" creationdate="20180310T200538Z">
         <seg>Вы можете удалить любые пользовательские стили; но прежде чем вы это сделаете, вы должны убедиться, что эти стили не используются в текущем документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can set any template displayed in the Templates dialog to be the default for that document type:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T191053Z" creationid="olex" creationdate="20180313T191053Z">
+        <seg>Любой шаблон, который видите в диалоговом окне Шаблоны, вы можете установить шаблоном по умолчанию для этого типа документов:</seg>
       </tuv>
     </tu>
     <tu>
