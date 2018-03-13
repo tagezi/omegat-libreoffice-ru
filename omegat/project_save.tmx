@@ -2904,6 +2904,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the &lt;f0&gt;Macro name&lt;/f0&gt; text box, type a name for the macro you have just recorded, for example &lt;f1&gt;EnterMyName&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T144902Z" creationid="tagezi" creationdate="20180313T144902Z">
+        <seg>В текстовое поле &lt;f0&gt;Имя макроса&lt;/f0&gt;, введите имя для макроса, который вы только что записали, например &lt;f1&gt;EnterMyName&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the &lt;f0&gt;Module&lt;/f0&gt; list, expand &lt;f1&gt;My Macros&lt;/f1&gt; and select, for example TestLibrary.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T124956Z" creationid="tagezi" creationdate="20180312T124956Z">
