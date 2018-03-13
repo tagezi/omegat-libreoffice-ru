@@ -6070,6 +6070,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To re-enable LibreOffice’s original default template for a document type as the default for that type:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T192354Z" creationid="olex" creationdate="20180313T192354Z">
+        <seg>Чтобы снова включить оригинальный шаблон по умолчанию LibreOffice для типа документа в качестве значения по умолчанию для этого типа:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To remove manual formatting, select the text, right-click, and choose &lt;f0&gt;Clear Direct Formatting&lt;/f0&gt; from the context menu, or select the text and press &lt;f1&gt;Ctrl+M&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T104445Z" creationid="olex" creationdate="20180308T173901Z">
