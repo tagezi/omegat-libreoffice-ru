@@ -3400,6 +3400,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice can use only those templates that are in its template folders or categories.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T203603Z" creationid="olex" creationdate="20180313T203603Z">
+        <seg>LibreOffice может использовать только те шаблоны, которые находятся в папках или категориях для шаблонов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice comes with an &lt;i0/&gt;extensive Help system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T100627Z" creationid="tagezi" creationdate="20180306T090045Z">
@@ -7319,8 +7327,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You may prefer to save the new file under a new name and preserve the old file under its original name.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180313T202306Z" creationid="olex" creationdate="20180313T202306Z">
-        <seg>Так же вы можете сохранить новый файл под новым именем, чтобы старый файл остался под его первоначальное названием.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T203433Z" creationid="olex" creationdate="20180313T202306Z">
+        <seg>Так же вы можете сохранить новый файл под новым именем, чтобы старый файл остался под его первоначальным названием.</seg>
       </tuv>
     </tu>
     <tu>
