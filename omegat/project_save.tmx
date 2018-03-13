@@ -1133,6 +1133,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click inside the blank document created in step 1.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T200745Z" creationid="olex" creationdate="20180313T200745Z">
+        <seg>Щелкните внутри пустого документа, созданного на шаге 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click once on it to activate the file handling controls (see Figure &lt;t0&gt;8&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T192531Z" creationid="olex" creationdate="20180311T192531Z">
@@ -2316,6 +2324,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T205243Z" creationid="User" creationdate="20180307T205243Z">
         <seg>Быстрый старт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Edit &gt; Paste&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+V&lt;/f1&gt;, to paste the contents from the old document into the new one.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T200832Z" creationid="olex" creationdate="20180313T200832Z">
+        <seg>Выберите пункт меню &lt;f0&gt;Правка &gt; Вставить&lt;/f0&gt;, или &lt;f1&gt;Ctrl+V&lt;/f1&gt;, to paste the contents from the old document into the new one.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4605,8 +4621,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Edit &gt; Copy&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+C&lt;/f1&gt;, to copy the contents of the document to the clipboard.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180313T200507Z" creationid="olex" creationdate="20180313T200507Z">
-        <seg>Выберите &lt;f0&gt;Правка &gt; Копировать&lt;/f0&gt;, или нажмите &lt;f1&gt;Ctrl+C&lt;/f1&gt;, to copy the contents of the document to the clipboard.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T200703Z" creationid="olex" creationdate="20180313T200507Z">
+        <seg>Выберите пункт меню &lt;f0&gt;Правка &gt; Копировать&lt;/f0&gt;, или нажмите &lt;f1&gt;Ctrl+C&lt;/f1&gt;, чтобы скопировать содержимое документа в буфер обмена.</seg>
       </tuv>
     </tu>
     <tu>
