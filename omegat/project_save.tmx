@@ -909,6 +909,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, this feature is turned off when LibreOffice was installed on your computer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T100354Z" creationid="tagezi" creationdate="20180313T100354Z">
+        <seg>По умолчанию эта функция отключена, когда LibreOffice был установлен на вашем компьютере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calc</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193536Z" creationid="olex" creationdate="20180307T193536Z">
@@ -2220,6 +2228,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T205243Z" creationid="User" creationdate="20180307T205243Z">
         <seg>Быстрый старт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Record Macro&lt;/f0&gt; on the main menu bar to start recording a macro.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T100601Z" creationid="tagezi" creationdate="20180313T100601Z">
+        <seg>Выберите в меню &lt;f0&gt;Сервис &gt; Макросы &gt; Записать макрос&lt;/f0&gt; для начала записи макроса.</seg>
       </tuv>
     </tu>
     <tu>
