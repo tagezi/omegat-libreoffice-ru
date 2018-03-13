@@ -1687,6 +1687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Resetting the default template for text documents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T194246Z" creationid="olex" creationdate="20180313T194246Z">
+        <seg>Рисунок &lt;seq0&gt;12&lt;/seq0&gt;: Восстановление шаблона по умолчанию для текстовых документов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: An empty formula document in Math</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T205538Z" creationid="User" creationdate="20180307T205538Z">
@@ -5454,6 +5462,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T213011Z" creationid="olex" creationdate="20180309T212808Z">
         <seg>Новый стиль таблицы будет выделен в списке слева диалогового окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next time that you create a document by choosing &lt;f0&gt;File &gt; New&lt;/f0&gt;, the document will be created from the original default template for the document type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T194125Z" creationid="olex" creationdate="20180313T194125Z">
+        <seg>В следующий раз, когда вы будете создавать документ, выбрав &lt;f0&gt;Файл &gt; Создать&lt;/f0&gt;, то он будет основан на исходном шаблоне по умолчанию для этого типа документа.</seg>
       </tuv>
     </tu>
     <tu>
