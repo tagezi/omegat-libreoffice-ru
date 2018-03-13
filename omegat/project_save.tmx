@@ -780,6 +780,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As an example, type your name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T115657Z" creationid="tagezi" creationdate="20180313T115657Z">
+        <seg>Например, введите свое имя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As many as you like.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T160212Z" creationid="tagezi" creationdate="20180310T160212Z">
@@ -1081,6 +1089,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T182447Z" creationid="olex" creationdate="20180311T182326Z">
         <seg>Нажмите &lt;f0&gt;Сохранить&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Stop Recording&lt;/f0&gt; on the small Recording dialog to stop recording &lt;i1/&gt;and the LibreOffice Basic Macros dialog opens (Figure &lt;t2&gt;1&lt;/t2&gt; on page &lt;t3&gt;5&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T120301Z" creationid="tagezi" creationdate="20180313T120301Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Завершить запись&lt;/f0&gt; в диалоговом окне Запись макроса для завершения записи &lt;i1/&gt;, откроется диалоговое окно Макросы LibreOffice Basic (Рисунок &lt;t2&gt;1&lt;/t2&gt; на странице &lt;t3&gt;5&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3156,6 +3172,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T072446Z" creationid="tagezi" creationdate="20180305T072446Z">
         <seg>LibreOffice &gt; Параметры...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice Basic Macros dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T115903Z" creationid="tagezi" creationdate="20180313T115903Z">
+        <seg>Диалоговое окно Макросы LibreOffice Basic</seg>
       </tuv>
     </tu>
     <tu>
@@ -6001,6 +6025,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T183726Z" creationid="olex" creationdate="20180311T183726Z">
         <seg>Тип факса (деловой или личный)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type the desired information or perform an appropriate series of operations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T115629Z" creationid="tagezi" creationdate="20180313T115629Z">
+        <seg>Введите желаемую информацию или выполните соответствующую последовательность операций.</seg>
       </tuv>
     </tu>
     <tu>
