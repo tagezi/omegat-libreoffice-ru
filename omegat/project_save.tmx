@@ -5715,6 +5715,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This opens the New Module dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T133833Z" creationid="tagezi" creationdate="20180313T133833Z">
+        <seg>Это откроет диалоговое окно Новый модуль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This process is slightly different for each type of template, but the format is very similar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T185017Z" creationid="olex" creationdate="20180311T185017Z">
@@ -6049,6 +6057,16 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T203734Z" creationid="olex" creationdate="20180307T203734Z">
         <seg>Чтобы использовать его для применения стилей:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>LG: TODO: "descriptive name" = "имя, которое будет иметь смысл не только в момент создания вашего шедевра, и не только для вас"
+осознать и сказать коротко.</note>
+      <tuv lang="EN-US">
+        <seg>Type a descriptive name for the new module, for example &lt;f0&gt;Recorded&lt;/f0&gt;, and click &lt;f1&gt;OK&lt;/f1&gt; to create the module.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T135621Z" creationid="tagezi" creationdate="20180313T135621Z">
+        <seg>Введите описательное имя для нового модуля, например &lt;f0&gt;Recorded&lt;/f0&gt;, и нажмите &lt;f1&gt;ОК&lt;/f1&gt; для создания модуля.</seg>
       </tuv>
     </tu>
     <tu>
