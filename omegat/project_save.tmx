@@ -1061,6 +1061,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;New category&lt;/f0&gt; on the context menu (see Figure &lt;t1&gt;13&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T204414Z" creationid="olex" creationdate="20180313T204414Z">
+        <seg>Нажмите &lt;f0&gt;Создать категорию&lt;/f0&gt; в контекстном меню (смотрите Рисунок &lt;t1&gt;13&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;New&lt;/f0&gt; to open the New Library dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T124639Z" creationid="tagezi" creationdate="20180312T124639Z">
@@ -1153,6 +1161,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T192531Z" creationid="olex" creationdate="20180311T192531Z">
         <seg>Нажмите один раз, чтобы активировать элементы управления файлами (смотрите Рисунок &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Action&lt;/f0&gt; button of the Templates dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T204320Z" creationid="olex" creationdate="20180313T204320Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Настройки&lt;/f0&gt; внизу слева в диалоговом окне Шаблоны.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3140,6 +3156,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T185636Z" creationid="olex" creationdate="20180311T185300Z">
         <seg>В последнем разделе мастера можно указать имя шаблона, которое будет отображаться в диалоговом окне Шаблоны, а также имя и место расположения для сохранения шаблона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the pop-up dialog, type a name for the new category and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T204521Z" creationid="olex" creationdate="20180313T204521Z">
+        <seg>В появившемся окне введите имя для новой категории и нажмите кнопку &lt;f0&gt;ОК&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6153,6 +6177,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T195154Z" creationid="olex" creationdate="20180309T195154Z">
         <seg>Чтобы создать новый стиль с помощью диалогового окна Стиль&lt;i0/&gt;, щелкните правой кнопкой мыши в окне Стили и выберите &lt;f1&gt;Создать&lt;/f1&gt; во всплывающем меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To create a template category:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T204223Z" creationid="olex" creationdate="20180313T204223Z">
+        <seg>Чтобы создать категорию шаблонов:</seg>
       </tuv>
     </tu>
     <tu>
