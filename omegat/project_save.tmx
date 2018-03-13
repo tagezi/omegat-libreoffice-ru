@@ -5442,6 +5442,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The next time that you create a document of that type by choosing &lt;f0&gt;File &gt; New,&lt;/f0&gt; the document will be created from this template.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T192220Z" creationid="olex" creationdate="20180313T192220Z">
+        <seg>Когда вы будете создавать этого типа в следующий раз документ, выбрав &lt;f0&gt;Файл &gt; Создать,&lt;/f0&gt;, документ будет создан на основе этого шаблона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The package begins installing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T211037Z" creationid="olex" creationdate="20180312T211037Z">
