@@ -4603,6 +4603,22 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Edit &gt; Copy&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+C&lt;/f1&gt;, to copy the contents of the document to the clipboard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T200507Z" creationid="olex" creationdate="20180313T200507Z">
+        <seg>Выберите &lt;f0&gt;Правка &gt; Копировать&lt;/f0&gt;, или нажмите &lt;f1&gt;Ctrl+C&lt;/f1&gt;, to copy the contents of the document to the clipboard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Edit &gt; Select All&lt;/f0&gt; or press &lt;f1&gt;Ctrl+A&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180313T200536Z" creationid="olex" creationdate="20180313T200402Z">
+        <seg>Выберите пункт меню &lt;f0&gt;Правка &gt; Выделить все&lt;/f0&gt; или нажмите &lt;f1&gt;Ctrl + A&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Keep Old Styles&lt;/f0&gt; if you do not want to apply the changed styles in the template to the document (but see the Caution notice below).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T193924Z" creationid="olex" creationdate="20180311T193924Z">
