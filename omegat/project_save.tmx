@@ -682,6 +682,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; on the main menu bar to open the LibreOffice Basic Macros dialog, select your macro and click &lt;f1&gt;Run&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180314T172642Z" creationid="tagezi" creationdate="20180314T172642Z">
+        <seg>Alternatively, выберите в меню &lt;f0&gt;Сервис &gt; Макросы &gt; Управление макросами &gt; LibreOffice Basic&lt;/f0&gt; to open the LibreOffice Basic Macros dialog, выберите ваш макрос и нажмите кнопку &lt;f1&gt;Выполнить&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, go to &lt;f1&gt;Insert &gt; Object &gt; OLE Object&lt;/f1&gt; on the menu bar to open the Insert OLE Object dialog, select &lt;f2&gt;Create new&lt;/f2&gt; option and &lt;f3&gt;Formula&lt;/f3&gt; from the sub-menu, then click OK to open the Formula Editor.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180312T071433Z" creationid="User" creationdate="20180312T071433Z">
@@ -6546,8 +6554,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>Type a descriptive name for the new module, for example &lt;f0&gt;Recorded&lt;/f0&gt;, and click &lt;f1&gt;OK&lt;/f1&gt; to create the module.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T185021Z" creationid="tagezi" creationdate="20180313T135621Z">
-        <seg>Введите содержательное имя для нового модуля, например &lt;f0&gt;Recorded&lt;/f0&gt;, и нажмите &lt;f1&gt;ОК&lt;/f1&gt; для создания модуля.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180314T073645Z" creationid="tagezi" creationdate="20180313T135621Z">
+        <seg>Введите имя, описывающее назначение нового модуля, например &lt;f0&gt;Recorded&lt;/f0&gt;, и нажмите &lt;f1&gt;ОК&lt;/f1&gt; ОК для его создания..</seg>
       </tuv>
     </tu>
     <tu>
