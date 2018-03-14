@@ -321,6 +321,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;30&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 9 Getting Started with Math&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180314T160556Z" creationid="User" creationdate="20180314T160556Z">
+        <seg>&lt;t0&gt;30&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Глава 9 Быстрый старт с Math&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;8&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Appendix B Open Source, Standards, Document&lt;/t4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181635Z" creationid="tagezi" creationdate="20180304T181635Z">
@@ -349,6 +357,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T171521Z" creationid="olex" creationdate="20180306T171521Z">
         <seg>&lt;t0&gt;Глава 3 Использование стилей и шаблонов&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Chapter 9 Getting Started with Math&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;5&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180314T160606Z" creationid="User" creationdate="20180314T160606Z">
+        <seg>&lt;t0&gt;Глава 9 Быстрый старт с Math&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;5&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -574,6 +590,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195104Z" creationid="olex" creationdate="20180306T195104Z">
         <seg>Добавление шаблонов, полученных из других источников</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional material has been added from the French &lt;f0&gt;How-To Math for LibreOffice&lt;/f0&gt; (translated to English by Laurent Balland-Poirier).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180314T160848Z" creationid="User" creationdate="20180314T160848Z">
+        <seg>Дополнительные материаоы были добавлены из французского &lt;f0&gt;How-To Math for LibreOffice&lt;/f0&gt; (переведённого на английский Laurent Balland-Poirier).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional material has been added from the German &lt;f0&gt;Math Handbuch for LibreOffice 3.4&lt;/f0&gt; (translated to English by Hazel Russman).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180314T160754Z" creationid="User" creationdate="20180314T160754Z">
+        <seg>Дополнительные материалы были добавлены из немецкого руководства &lt;f0&gt;Math Handbuch for LibreOffice 3.4&lt;/f0&gt; (переведённого на английский Hazel Russman).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1037,6 +1069,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chapter 9 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180314T160615Z" creationid="User" creationdate="20180314T160615Z">
+        <seg>Глава 9 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chapter 9 Getting Started with Math</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180314T160514Z" creationid="User" creationdate="20180314T160514Z">
@@ -1258,6 +1298,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T151749Z" creationid="lera" creationdate="20180303T151749Z">
         <seg>Авторы перечислены ниже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contributors to that book are:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180314T160809Z" creationid="User" creationdate="20180314T160809Z">
+        <seg>Авторы того руководства:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2388,6 +2436,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T213929Z" creationid="tagezi" creationdate="20180310T213929Z">
         <seg>Начало работы с Макросами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Getting Started with Math</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180314T160645Z" creationid="User" creationdate="20180314T160645Z">
+        <seg>Быстрый старт с Math </seg>
       </tuv>
     </tu>
     <tu>
@@ -3636,6 +3692,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T135045Z" creationid="User" creationdate="20180307T204305Z">
         <seg>LibreOffice Math - это &lt;is0/&gt;редактор формул&lt;ie1/&gt;, который можно использовать для создания или редактирования формул (уравнений) в символьной форме в документах LibreOffice или как отдельные объекты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice’s Formula (Equation) Editor</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180314T160707Z" creationid="User" creationdate="20180314T160707Z">
+        <seg>Редактор формул (уравнений) LibreOffice </seg>
       </tuv>
     </tu>
     <tu>
