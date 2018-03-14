@@ -852,6 +852,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As with any OLE object, you can change how the object is placed within the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180314T161104Z" creationid="User" creationdate="20180314T161104Z">
+        <seg>Как и с другими объектами OLE, можно изменять местоположение объекта в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you enter the markup language in the Formula Editor, the formula will appear in the Preview window during and after input of the markup.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153059Z" creationid="User" creationdate="20180311T153021Z">
@@ -1298,6 +1306,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T151749Z" creationid="lera" creationdate="20180303T151749Z">
         <seg>Авторы перечислены ниже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contributors to that book are Bernard Siaud and Frédéric Parrenin.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180314T160921Z" creationid="User" creationdate="20180314T160921Z">
+        <seg>Авторы той книги Bernard Siaud и Frédéric Parrenin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2228,6 +2244,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T212122Z" creationid="lera" creationdate="20180303T212122Z">
         <seg>Для получения дополнительной информации о программном обеспечении на основе свободного и открытого программного кода посетите следующие веб-сайты:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on OLE objects, see the user guides for &lt;f0&gt;Math&lt;/f0&gt;, &lt;f1&gt;Writer&lt;/f1&gt;, &lt;f2&gt;Calc&lt;/f2&gt;, &lt;f3&gt;Draw&lt;/f3&gt;, and &lt;f4&gt;Impress&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180314T165237Z" creationid="User" creationdate="20180314T165237Z">
+        <seg>Более подробно информация по объектам OLE objects, see the user guides for &lt;f0&gt;Math&lt;/f0&gt;, &lt;f1&gt;Writer&lt;/f1&gt;, &lt;f2&gt;Calc&lt;/f2&gt;, &lt;f3&gt;Draw&lt;/f3&gt;, and &lt;f4&gt;Impress&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4559,6 +4583,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T214446Z" creationid="tagezi" creationdate="20180310T214446Z">
         <seg>Опубликовано 16 февраля 2017.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Published 16 February 2018.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180314T161003Z" creationid="User" creationdate="20180314T161003Z">
+        <seg>Опубликовано 16 февраля 2018.</seg>
       </tuv>
     </tu>
     <tu>
