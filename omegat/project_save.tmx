@@ -1897,6 +1897,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Empty formula in a Writer document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180314T182547Z" creationid="User" creationdate="20180314T182547Z">
+        <seg>Рисунок &lt;seq0&gt;2&lt;/seq0&gt;: Пустая формула в документе Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: LibreOffice Basic Macro Organizer dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132523Z" creationid="tagezi" creationdate="20180312T132523Z">
@@ -2258,8 +2266,8 @@ denkin: исправил на "могли бы"</note>
       <tuv lang="EN-US">
         <seg>For more information on OLE objects, see the user guides for &lt;f0&gt;Math&lt;/f0&gt;, &lt;f1&gt;Writer&lt;/f1&gt;, &lt;f2&gt;Calc&lt;/f2&gt;, &lt;f3&gt;Draw&lt;/f3&gt;, and &lt;f4&gt;Impress&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="User" changedate="20180314T165237Z" creationid="User" creationdate="20180314T165237Z">
-        <seg>Более подробно информация по объектам OLE objects, see the user guides for &lt;f0&gt;Math&lt;/f0&gt;, &lt;f1&gt;Writer&lt;/f1&gt;, &lt;f2&gt;Calc&lt;/f2&gt;, &lt;f3&gt;Draw&lt;/f3&gt;, and &lt;f4&gt;Impress&lt;/f4&gt;.</seg>
+      <tuv lang="RU-RU" changeid="User" changedate="20180314T182524Z" creationid="User" creationdate="20180314T165237Z">
+        <seg>Более подробно информация по объектам OLE изложена в отдельных полных руководствах по  &lt;f0&gt;Math&lt;/f0&gt;, &lt;f1&gt;Writer&lt;/f1&gt;, &lt;f2&gt;Calc&lt;/f2&gt;, &lt;f3&gt;Draw&lt;/f3&gt; и &lt;f4&gt;Impress&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2852,6 +2860,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T151650Z" creationid="tagezi" creationdate="20180313T151650Z">
         <seg>Если вы выполнили все описанные выше шаги, библиотека Standard теперь содержит модуль с именем Recorded, и этот модуль содержит макрос EnterMyName.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you frequently insert formulas into documents, you might like to add the Formula button to the Standard toolbar or create a keyboard shortcut.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="User" changedate="20180314T182641Z" creationid="User" creationdate="20180314T182641Z">
+        <seg>Если нужно часто вставлять формулы в документы, можно добавить значко Формула на Стандартную панель инструментов или создать сочетание клавиш.</seg>
       </tuv>
     </tu>
     <tu>
