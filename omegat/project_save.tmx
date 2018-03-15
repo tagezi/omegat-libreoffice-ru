@@ -1032,8 +1032,8 @@
       <tuv lang="EN-US">
         <seg>Before you can use a template in LibreOffice, it must be in one of the folders listed for the Template path in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f0&gt;:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180315T184618Z" creationid="olex" creationdate="20180315T184618Z">
-        <seg>Чтобы вы могли использовать шаблон в LibreOffice, он должен находиться в одной из папок, перечисленных как путь для шаблонов, в &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Пути&lt;/f0&gt;:</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T184812Z" creationid="olex" creationdate="20180315T184618Z">
+        <seg>Чтобы вы могли использовать шаблон в LibreOffice, он должен находиться в одной из папок, указанных как путь для шаблонов, в &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Пути&lt;/f0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2159,6 +2159,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T190641Z" creationid="olex" creationdate="20180311T190641Z">
         <seg>Теперь, вы можете выбрать: нужно ли сразу создавать новый документ из этого шаблона или вручную изменить шаблон, а затем нажмите &lt;f0&gt;Готово&lt;/f0&gt;, чтобы сохранить шаблон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find and select the category where you want to import the template and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T184932Z" creationid="olex" creationdate="20180315T184932Z">
+        <seg>Найдите и выберите категорию, в которую вы хотите импортировать шаблон, и нажмите &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3429,6 +3437,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T192808Z" creationid="olex" creationdate="20180313T192808Z">
         <seg>В диалоговом окне Шаблоны щелкните значок &lt;f0&gt;Настройки&lt;/f0&gt; в левом нижнем углу (Рисунок &lt;t1&gt;12&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Templates dialog, click the &lt;f0&gt;Import&lt;/f0&gt; button on the bottom right.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T184735Z" creationid="olex" creationdate="20180315T184735Z">
+        <seg>В диалоговом окне Шаблоны нажмите кнопку &lt;f0&gt;Импорт&lt;/f0&gt; в правом нижнем углу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5764,6 +5780,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T191442Z" creationid="olex" creationdate="20180311T182241Z">
         <seg>Откроется диалоговое окно Сохранить как шаблон (Рисунок &lt;t1&gt;9&lt;/t1&gt;), в котором отображаются существующие категории шаблонов и текстовое поле для ввода имени нового шаблона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Select Category dialog appears.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T184854Z" creationid="olex" creationdate="20180315T184854Z">
+        <seg>Откроется диалоговое окно Выбор категории.</seg>
       </tuv>
     </tu>
     <tu>
