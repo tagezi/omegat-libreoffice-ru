@@ -1318,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Export&lt;/f0&gt; button in the bottom right of the dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T190100Z" creationid="olex" creationdate="20180315T190100Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Экспорт&lt;/f0&gt; в правом нижнем углу диалогового окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;f1&gt;From File&lt;/f1&gt; button to open a window from which to select the required document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T193103Z" creationid="olex" creationdate="20180310T193103Z">
@@ -3465,6 +3473,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Templates dialog, locate the category that contains the template to export.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T190006Z" creationid="olex" creationdate="20180315T190006Z">
+        <seg>В диалоговом окне Шаблоны найдите категорию, содержащую шаблон для экспорта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Templates dialog, open the category containing the template that you want to set as the default, then select the template.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T191449Z" creationid="olex" creationdate="20180313T191449Z">
@@ -5269,6 +5285,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the template that you want to export.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T190034Z" creationid="olex" creationdate="20180315T190034Z">
+        <seg>Выберите шаблон, который вы хотите экспортировать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the template to delete.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T183801Z" creationid="olex" creationdate="20180315T183801Z">
@@ -5788,6 +5812,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T053944Z" creationid="lera" creationdate="20180303T164411Z">
         <seg>Проект OpenOffice.org начался 13 октября 2000 года, когда &lt;is0/&gt;Sun Microsystems&lt;ie1/&gt; опубликовала исходный код своего программного продукта StarOffice® для сообщества разработчиков приложений с открытым кодом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Save As window opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T190237Z" creationid="olex" creationdate="20180315T190237Z">
+        <seg>Откроется окно сохранения файла.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6786,6 +6818,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T191839Z" creationid="olex" creationdate="20180311T191839Z">
         <seg>Чтобы изменить шаблон:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To export a template from a template category to another location in your computer or network:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T185919Z" creationid="olex" creationdate="20180315T185919Z">
+        <seg>Чтобы экспортировать шаблон из категории шаблонов в другое место на вашем компьютере или в сети:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8234,6 +8274,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T191109Z" creationid="olex" creationdate="20180311T191109Z">
         <seg>редактирование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>exporting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T185820Z" creationid="olex" creationdate="20180315T185820Z">
+        <seg>экспорт</seg>
       </tuv>
     </tu>
     <tu>
