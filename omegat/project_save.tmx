@@ -684,8 +684,8 @@
       <tuv lang="EN-US">
         <seg>Alternatively, go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; on the main menu bar to open the LibreOffice Basic Macros dialog, select your macro and click &lt;f1&gt;Run&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180314T172642Z" creationid="tagezi" creationdate="20180314T172642Z">
-        <seg>Alternatively, выберите в меню &lt;f0&gt;Сервис &gt; Макросы &gt; Управление макросами &gt; LibreOffice Basic&lt;/f0&gt; to open the LibreOffice Basic Macros dialog, выберите ваш макрос и нажмите кнопку &lt;f1&gt;Выполнить&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T061718Z" creationid="tagezi" creationdate="20180314T172642Z">
+        <seg>Или же, откройте диалоговое окно Макросы LibreOffice Basic, выбрав в меню &lt;f0&gt;Сервис &gt; Макросы &gt; Управление макросами &gt; LibreOffice Basic&lt;/f0&gt;. Выберите ваш макрос и нажмите кнопку &lt;f1&gt;Выполнить&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1183,8 +1183,8 @@
       <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Save&lt;/f0&gt; to save the macro and close the LibreOffice Basic Macros dialog.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T145009Z" creationid="tagezi" creationdate="20180313T145009Z">
-        <seg>Нажмите кнопку &lt;f0&gt;Записать&lt;/f0&gt; для записи макроса и закрытия диалогового окна Макросы LibreOffice Basic.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T061052Z" creationid="tagezi" creationdate="20180313T145009Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Записать&lt;/f0&gt; для сохранения макроса и закрытия диалогового окна Макросы LibreOffice Basic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1946,6 +1946,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Macro Selector dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T061754Z" creationid="tagezi" creationdate="20180315T061754Z">
+        <seg>Рисунок &lt;seq0&gt;4&lt;/seq0&gt;: Диалоговое окно Выбор макроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Modifying a style from the Apply Style list</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T183630Z" creationid="olex" creationdate="20180308T183630Z">
@@ -2530,8 +2538,8 @@ denkin: исправил на "могли бы"</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Run Macro&lt;/f0&gt; on the main menu bar to open the Macro Selector dialog (Figure &lt;t1&gt;4&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T185238Z" creationid="tagezi" creationdate="20180313T185238Z">
-        <seg>Выберите в меню &lt;f0&gt;Сервис &gt; Макросы &gt; Выполнить макрос&lt;/f0&gt;, чтобы открыть диалоговое окно Выбор макроса (Рисунок &lt;t1&gt;4&lt;/t1&gt;).</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T061257Z" creationid="tagezi" creationdate="20180313T185238Z">
+        <seg>Откройте диалоговое окно Выбор макроса (Рисунок &lt;t1&gt;4&lt;/t1&gt;), выбрав в меню &lt;f0&gt;Сервис &gt; Макросы &gt; Выполнить макрос&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5433,8 +5441,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>The LibreOffice Basic Macros dialog now displays the name of the new module in the Standard library.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T144425Z" creationid="tagezi" creationdate="20180313T144425Z">
-        <seg>В диалоговом окне «Макросы LibreOffice Basic» теперь отображается имя нового модуля в библиотеке  Standard .</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060940Z" creationid="tagezi" creationdate="20180313T144425Z">
+        <seg>В диалоговом окне «Макросы LibreOffice Basic» теперь отображается имя нового модуля в библиотеке  Standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6351,8 +6359,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>To change which dialogs are used, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; and select or deselect the option &lt;f1&gt;Use LibreOffice dialogs&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T095135Z">
-        <seg>Чтобы изменить диалоги, которые используется, выберите &lt;f0&gt;Свервис &gt; Парметры &gt; LibreOffice &gt; Общие&lt;/f0&gt; и установите или снимите флажок на пункте &lt;f1&gt;Использовать диалоги LibreOffice&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T061917Z">
+        <seg>Для изменения диалоговых окон, которые используется, выберите &lt;f0&gt;Свервис &gt; Парметры &gt; LibreOffice &gt; Общие&lt;/f0&gt; и установите или снимите флажок на пункте &lt;f1&gt;Использовать диалоги LibreOffice&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
