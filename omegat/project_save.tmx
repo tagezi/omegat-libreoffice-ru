@@ -3641,6 +3641,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice always creates an empty subroutine named Main when it creates a module.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T114225Z" creationid="tagezi" creationdate="20180315T114225Z">
+        <seg>LibreOffice всегда создает пустую подпрограмму с именем Main при создании модуля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice can also open and save many other file formats, as summarized below.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180304T061546Z" creationid="lera" creationdate="20180304T061546Z">
@@ -5712,6 +5720,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The code starts by defining the subroutine named Main, which is empty and does nothing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T114013Z" creationid="tagezi" creationdate="20180315T114013Z">
+        <seg>Код начинается с определения подпрограммы с названием Main, которая пуста и ничего не делает.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The community operates internationally in all time zones and in many languages, linked through the internet at &lt;a0&gt;www.libreoffice.org&lt;/a0&gt; and &lt;a1&gt;www.documentfoundation.org&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T075320Z" creationid="lera" creationdate="20180303T202310Z">
@@ -5804,6 +5820,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T204231Z" creationid="olex" creationdate="20180309T204231Z">
         <seg>Элемент для перетаскивания зависит от приложения LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The end of a subroutine is indicated by the words END SUB.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T113821Z" creationid="tagezi" creationdate="20180315T113821Z">
+        <seg>Конец подпрограммы указывается при помощи ключевых слов END SUB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5951,6 +5975,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T213011Z" creationid="olex" creationdate="20180309T212808Z">
         <seg>Новый стиль таблицы будет выделен в списке слева диалогового окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next subroutine, EnterMyName, contains the generated code for your macro.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T114126Z" creationid="tagezi" creationdate="20180315T114126Z">
+        <seg>В следующей подпрограмме, EnterMyName, содержится ваш сгенерированный макрос.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6103,6 +6135,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T064155Z" creationid="User" creationdate="20180311T154515Z">
         <seg>Затем, откройте Редактор формул, выбрав пункт меню &lt;f0&gt;Вставка &gt; Объект &gt; Формула&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are advanced topics that are beyond the scope of this user guide, but knowing about them might be of interest:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T114537Z" creationid="tagezi" creationdate="20180315T114537Z">
+        <seg>Существуют сложные темы, выходящие за рамки настоящего руководства, но знание о которых может представлять интерес:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7650,6 +7690,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T184620Z" creationid="olex" creationdate="20180311T183620Z">
         <seg>Вы можете использовать мастера для создания шаблонов писем, факсов и повесток дня, а так же для создания презентаций и веб-страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can write a macro so that values can be passed to the subroutine.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T114612Z" creationid="tagezi" creationdate="20180315T114612Z">
+        <seg>Вы можете написать макрос так, чтобы значения могли быть переданы подпрограмме.</seg>
       </tuv>
     </tu>
     <tu>
