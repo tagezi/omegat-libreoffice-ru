@@ -2713,6 +2713,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, recorded macros in LibreOffice do not accept arguments.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T123042Z" creationid="tagezi" creationdate="20180315T123042Z">
+        <seg>Однако записанные макросы не принимают аргументы в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, you can copy the contents of a document into an empty document that uses a different template.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T203051Z" creationid="olex" creationdate="20180313T195007Z">
@@ -6123,6 +6131,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The values are called arguments.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T114820Z" creationid="tagezi" creationdate="20180315T114627Z">
+        <seg>Эти значения называются аргументами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The workshop will offer a thorough overview of the skills requested and a summary of TDF's migration and training protocols.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T191512Z" creationid="tagezi" creationdate="20180307T191512Z">
@@ -7696,8 +7712,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can write a macro so that values can be passed to the subroutine.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T114612Z" creationid="tagezi" creationdate="20180315T114612Z">
-        <seg>Вы можете написать макрос так, чтобы значения могли быть переданы подпрограмме.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T114721Z" creationid="tagezi" creationdate="20180315T114612Z">
+        <seg>Вы можете написать макрос так, чтобы значения могли быть переданы подпрограмму.</seg>
       </tuv>
     </tu>
     <tu>
