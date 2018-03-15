@@ -1199,8 +1199,8 @@
       <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Stop Recording&lt;/f0&gt; on the small Recording dialog to stop recording &lt;i1/&gt;and the LibreOffice Basic Macros dialog opens (Figure &lt;t2&gt;1&lt;/t2&gt; on page &lt;t3&gt;5&lt;/t3&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T120301Z" creationid="tagezi" creationdate="20180313T120301Z">
-        <seg>Нажмите кнопку &lt;f0&gt;Завершить запись&lt;/f0&gt; в диалоговом окне Запись макроса для завершения записи &lt;i1/&gt;, откроется диалоговое окно Макросы LibreOffice Basic (Рисунок &lt;t2&gt;1&lt;/t2&gt; на странице &lt;t3&gt;5&lt;/t3&gt;).</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060605Z" creationid="tagezi" creationdate="20180313T120301Z">
+        <seg>Для завершения записи нажмите кнопку &lt;f0&gt;Завершить запись&lt;/f0&gt; в диалоговом окне Запись макроса &lt;i1/&gt;. Откроется диалоговое окно Макросы LibreOffice Basic (Рисунок &lt;t2&gt;1&lt;/t2&gt; на странице &lt;t3&gt;5&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2068,8 +2068,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Find the library named &lt;f0&gt;Standard&lt;/f0&gt; in My Macros.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T132352Z" creationid="tagezi" creationdate="20180313T123636Z">
-        <seg>Найдите библиотеку с названием &lt;f0&gt;Standard&lt;/f0&gt; в нём.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060721Z" creationid="tagezi" creationdate="20180313T123636Z">
+        <seg>Найдите в нём библиотеку с названием &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2522,8 +2522,8 @@ denkin: исправил на "могли бы"</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Record Macro&lt;/f0&gt; on the main menu bar to start recording a macro.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T100601Z" creationid="tagezi" creationdate="20180313T100601Z">
-        <seg>Выберите в меню &lt;f0&gt;Сервис &gt; Макросы &gt; Записать макрос&lt;/f0&gt; для начала записи макроса.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060401Z" creationid="tagezi" creationdate="20180313T100601Z">
+        <seg>Для начала записи макроса, выберите в меню &lt;f0&gt;Сервис &gt; Макросы &gt; Записать макрос&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3882,8 +3882,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Make sure macro recording is enabled by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f0&gt; on the main menu bar and selecting the option &lt;f1&gt;Enable macro recording&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T095717Z" creationid="tagezi" creationdate="20180313T095717Z">
-        <seg>Убедитесь, что запись макроса включена, перейдя в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Расширенные возможности&lt;/f0&gt; и  установите флажок &lt;f1&gt;Включить запись макросов&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060158Z" creationid="tagezi" creationdate="20180313T095717Z">
+        <seg>Убедитесь, что запись макроса включена, выбрав в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Расширенные возможности&lt;/f0&gt; и  установив флажок &lt;f1&gt;Включить запись макросов&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4998,8 +4998,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Select the Standard library and click &lt;f0&gt;New Module&lt;/f0&gt; to create a &lt;i1/&gt;new module to contain the macro.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T133753Z" creationid="tagezi" creationdate="20180313T133753Z">
-        <seg>Выберите библиотеку Standard и нажмите кнопку &lt;f0&gt;Создать модуль&lt;/f0&gt;, чтобы создать &lt;i1/&gt;который будет содержать макрос.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060907Z" creationid="tagezi" creationdate="20180313T133753Z">
+        <seg>Для создания &lt;i1/&gt;нового модуля, который будет содержать макрос, выберите библиотеку Standard и нажмите кнопку &lt;f0&gt;Создать модуль&lt;/f0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -7857,6 +7857,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T143841Z" creationid="tagezi" creationdate="20180304T143841Z">
         <seg>импортируемые файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>library container</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060642Z" creationid="tagezi" creationdate="20180315T060642Z">
+        <seg>контейнер библиотек</seg>
       </tuv>
     </tu>
     <tu>
