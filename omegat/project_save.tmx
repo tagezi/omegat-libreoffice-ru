@@ -903,8 +903,8 @@
       <tuv lang="EN-US">
         <seg>As an example, we can use the &lt;f0&gt;First Page&lt;/f0&gt; and &lt;f1&gt;Default&lt;/f1&gt; page styles that come with LibreOffice.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180315T191912Z" creationid="olex" creationdate="20180315T191912Z">
-        <seg>В качестве примера мы можем использовать стили страниц &lt;f0&gt;Первая страница&lt;/f0&gt; и &lt;f1&gt;Базовый&lt;/f1&gt;, которые предустанавливаются с LibreOffice.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T191937Z" creationid="olex" creationdate="20180315T191912Z">
+        <seg>В качестве примера мы можем использовать стили страниц &lt;f0&gt;Первая страница&lt;/f0&gt; и &lt;f1&gt;Базовый&lt;/f1&gt;, которые поставляются с LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2143,6 +2143,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180312T071730Z" creationid="User" creationdate="20180312T071730Z">
         <seg>Рисунок &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;показывает пример документа Writer с выделенной формулой, готовой к вводу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;t2&gt;15&lt;/t2&gt;&lt;s3/&gt;shows what we want to happen: the first page is to be followed by the default page, and all the following pages are to be in the &lt;f4&gt;Default&lt;/f4&gt; page style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T192231Z" creationid="olex" creationdate="20180315T192231Z">
+        <seg>Рисунок &lt;t2&gt;15&lt;/t2&gt; &lt;s3/&gt; показывает, что мы хотим: за первой страницей должна следовать базовая и все последующие страницы должны быть в стиле &lt;f4&gt;Базовый&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
