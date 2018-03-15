@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3433,6 +3433,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the popup dialog, select the required category and click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T183035Z" creationid="olex" creationdate="20180315T183035Z">
+        <seg>В открывшемся диалоговом окне выберите нужную категорию и нажмите &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Individual macros are stored in subroutines and these subroutines begin with the keyword SUB.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T113650Z" creationid="tagezi" creationdate="20180315T113650Z">
@@ -6698,6 +6706,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T190843Z" creationid="olex" creationdate="20180313T190843Z">
         <seg>Чтобы сделать эти настройки параметрами по умолчанию для этого типа документов, вам необходимо заменить шаблон по умолчанию на новый.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To move a template from one template category to another, select it in the Templates dialog, and click the &lt;f0&gt;Move&lt;/f0&gt; button in the bottom center of the dialog (see Figure &lt;t1&gt;14&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T182904Z" creationid="olex" creationdate="20180315T182904Z">
+        <seg>Чтобы переместить шаблон из одной категории шаблонов в другую, выберите его в диалоговом окне Шаблоны и нажмите кнопку &lt;f0&gt;Переместить&lt;/f0&gt; в нижней части диалогового окна (смотрите Рисунок &lt;t1&gt;14&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
