@@ -689,6 +689,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>LG:TODO: привести в порядок. Это очень странно звучит</note>
       <tuv lang="EN-US">
         <seg>Alternatively, go to &lt;f1&gt;Insert &gt; Object &gt; OLE Object&lt;/f1&gt; on the menu bar to open the Insert OLE Object dialog, select &lt;f2&gt;Create new&lt;/f2&gt; option and &lt;f3&gt;Formula&lt;/f3&gt; from the sub-menu, then click OK to open the Formula Editor.</seg>
       </tuv>
@@ -5980,8 +5981,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>Then, go to &lt;f0&gt;Insert &gt; Object &gt; Formula&lt;/f0&gt; on the menu bar to open the Formula Editor.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="User" changedate="20180311T154515Z" creationid="User" creationdate="20180311T154515Z">
-        <seg>Затем выберите пункт меню &lt;f0&gt;Вставка &gt; Объект &gt; Формула&lt;/f0&gt; для того, чтобы открыть Редактор формул.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T064155Z" creationid="User" creationdate="20180311T154515Z">
+        <seg>Затем, откройте Редактор формул, выбрав пункт меню &lt;f0&gt;Вставка &gt; Объект &gt; Формула&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
