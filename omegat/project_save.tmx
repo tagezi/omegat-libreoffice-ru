@@ -3417,6 +3417,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Templates dialog, select the category that contains the template you want to delete.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T183749Z" creationid="olex" creationdate="20180315T183749Z">
+        <seg>В диалоговом окне «Шаблоны» выберите категорию с шаблоном, который вы хотите удалить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the document, select an item that has the format you want to adopt as a style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T181121Z" creationid="olex" creationdate="20180308T181121Z">
@@ -4932,6 +4940,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click to open the context menu of the template and click &lt;f0&gt;Delete&lt;/f0&gt; (Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T184035Z" creationid="olex" creationdate="20180315T184035Z">
+        <seg>Щелкните правой кнопкой мыши на шаблоне, чтобы открыть контекстное меню и нажмите &lt;f0&gt;Удалить&lt;/f0&gt; (Рисунок &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Running a macro</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T152649Z" creationid="tagezi" creationdate="20180313T152649Z">
@@ -5193,6 +5209,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T202333Z" creationid="olex" creationdate="20180310T202333Z">
         <seg>Выберите необходимый шаблон и нажмите &lt;f0&gt;OK&lt;/f0&gt;, или нажмите дважды на выбранном шаблоне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the template to delete.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T183801Z" creationid="olex" creationdate="20180315T183801Z">
+        <seg>Выберите шаблон, который необходимо удалить.</seg>
       </tuv>
     </tu>
     <tu>
