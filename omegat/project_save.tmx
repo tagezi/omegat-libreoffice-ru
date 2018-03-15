@@ -901,6 +901,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As an example, we can use the &lt;f0&gt;First Page&lt;/f0&gt; and &lt;f1&gt;Default&lt;/f1&gt; page styles that come with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T191912Z" creationid="olex" creationdate="20180315T191912Z">
+        <seg>В качестве примера мы можем использовать стили страниц &lt;f0&gt;Первая страница&lt;/f0&gt; и &lt;f1&gt;Базовый&lt;/f1&gt;, которые предустанавливаются с LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As many as you like.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T160212Z" creationid="tagezi" creationdate="20180310T160212Z">
@@ -7655,6 +7663,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T153233Z" creationid="lera" creationdate="20180303T153233Z">
         <seg>Windows или Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With LibreOffice, you can define the &lt;f0&gt;page style&lt;/f0&gt; for the first page and specify the style for the following pages to be applied automatically.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T191629Z" creationid="olex" creationdate="20180315T191629Z">
+        <seg>В LibreOffice вы можете определить особенный &lt;f0&gt;стиль&lt;/f0&gt; для первой страницы документа и указать стиль для следующих страниц, который будет применяться автоматически.</seg>
       </tuv>
     </tu>
     <tu>
