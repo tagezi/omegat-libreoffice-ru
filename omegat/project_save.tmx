@@ -522,6 +522,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A standard file browser window opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T185052Z" creationid="olex" creationdate="20180315T185052Z">
+        <seg>Откроется окно выбора файлов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A variable, like a piece of paper, contains information that can be changed and read.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T173207Z" creationid="tagezi" creationdate="20180315T173207Z">
@@ -2165,8 +2173,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Find and select the category where you want to import the template and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180315T184932Z" creationid="olex" creationdate="20180315T184932Z">
-        <seg>Найдите и выберите категорию, в которую вы хотите импортировать шаблон, и нажмите &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T185139Z" creationid="olex" creationdate="20180315T184932Z">
+        <seg>Найдите и выберите категорию, в которую вы хотите импортировать шаблон, нажмите &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2175,6 +2183,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T210610Z" creationid="olex" creationdate="20180312T210435Z">
         <seg>Найдите и выберите пакет расширения с шаблонами, который вы загрузили из интернета, и нажмите &lt;f0&gt;Открыть&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find and select the template that you want to import and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T185130Z" creationid="olex" creationdate="20180315T185130Z">
+        <seg>Найдите и выберите шаблон, который хотите импортировать, нажмите &lt;f0&gt;Открыть&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
