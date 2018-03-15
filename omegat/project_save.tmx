@@ -3385,6 +3385,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Individual macros are stored in subroutines and these subroutines begin with the keyword SUB.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T113650Z" creationid="tagezi" creationdate="20180315T113650Z">
+        <seg>Отдельные макросы хранятся в подпрограммах и эти подпрограммы начинаются с ключевого слова SUB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Information about available accessibility options &lt;a0&gt;https://www.libreoffice.org/get-help/accessibility/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180308T083606Z" creationid="tagezi" creationdate="20180308T083606Z">
