@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5916,6 +5916,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T082707Z" creationid="tagezi" creationdate="20180310T082707Z">
         <seg>Различия главным образом затрагивают диалоговые окна Открыть, Сохранить и Печать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The dim statement used in the EnterMyName macro is similar to setting aside a piece of paper to be used to store a message or note.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T184047Z" creationid="tagezi" creationdate="20180315T184047Z">
+        <seg>Инструкция dim, используемая в макросе EnterMyName, похожа на выделение листа бумаги, который будет использоваться для хранения сообщения или заметки.</seg>
       </tuv>
     </tu>
     <tu>
