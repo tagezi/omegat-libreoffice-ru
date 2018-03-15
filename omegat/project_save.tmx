@@ -1928,6 +1928,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Moving templates to another category</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T183117Z" creationid="olex" creationdate="20180315T183117Z">
+        <seg>Рисунок &lt;seq0&gt;14&lt;/seq0&gt;: Перемещение шаблонов в другую категорию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: An empty formula document in Math</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T205538Z" creationid="User" creationdate="20180307T205538Z">
@@ -4254,6 +4262,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T205048Z" creationid="olex" creationdate="20180313T205048Z">
         <seg>Вы также не можете удалять любые категории, добавленные диспетчером расширений, если только вы не удалите создавшее эти категории расширение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nor can you delete any templates installed by the Extension Manager except by deleting the extension that installed them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T183448Z" creationid="olex" creationdate="20180315T183448Z">
+        <seg>Также вы не можете удалить шаблоны, установленные  в Управление расширениями, не удалив расширение, с которым они были установлены.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7826,6 +7842,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T204908Z" creationid="olex" creationdate="20180313T204908Z">
         <seg>Вы не можете удалять категории шаблонов, установленные вместе с LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot delete templates supplied with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180315T183159Z" creationid="olex" creationdate="20180315T183159Z">
+        <seg>Вы не можете удалять шаблоны, предустановленные вместе с LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
