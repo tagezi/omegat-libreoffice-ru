@@ -642,10 +642,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All comments in macro coding begin with REM, which stands for remark.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T090709Z" creationid="tagezi" creationdate="20180315T090709Z">
+        <seg>Все комментарии в коде макроса начинаются с REM, что означает замечание (remark).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All documents in LibreOffice are based on templates.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T180138Z" creationid="olex" creationdate="20180306T180138Z">
         <seg>Все документы в LibreOffice основаны на шаблонах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All text after REM and on the same line is ignored.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T090828Z" creationid="tagezi" creationdate="20180315T090828Z">
+        <seg>Весь текст после REM в этой строке игнорируется.</seg>
       </tuv>
     </tu>
     <tu>
@@ -833,6 +849,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T193539Z" creationid="olex" creationdate="20180306T193539Z">
         <seg>Применение стилей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a short cut, the single quote character (') can also be used to start a comment.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T091006Z" creationid="tagezi" creationdate="20180315T091006Z">
+        <seg>Также может использоваться символ одиночной кавычки (') в качестве краткого сокращения для начала комментария.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3557,6 +3581,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T115903Z" creationid="tagezi" creationdate="20180313T115903Z">
         <seg>Диалоговое окно Макросы LibreOffice Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice Basic is not case-sensitive for keywords, so REM, Rem, and rem can all start a comment.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T092111Z" creationid="tagezi" creationdate="20180315T092111Z">
+        <seg>LibreOffice Basic не чувствителен регистру ключевых слов, поэтому комментарий может начинаться с REM, Rem или rem.</seg>
       </tuv>
     </tu>
     <tu>
