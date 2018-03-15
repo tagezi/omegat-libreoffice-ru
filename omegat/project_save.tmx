@@ -530,6 +530,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A third variable, named &lt;f6&gt;args1&lt;/f6&gt;, is an array of property values.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T211159Z" creationid="tagezi" creationdate="20180315T211159Z">
+        <seg>Третья переменная названа &lt;f6&gt;args1&lt;/f6&gt; и является массивом значений свойств.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A variable of type &lt;f7&gt;array&lt;/f7&gt; allows a single variable to contain multiple values, similar to storing multiple pages in a single book.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T211347Z" creationid="tagezi" creationdate="20180315T211347Z">
+        <seg>Тип переменной &lt;f7&gt;array&lt;/f7&gt; позволяет одной переменной, содержащая несколько значений, подобно хранению нескольких страниц в одной книге.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A variable, like a piece of paper, contains information that can be changed and read.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T173207Z" creationid="tagezi" creationdate="20180315T173207Z">
@@ -3497,6 +3513,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the EnterMyName macro, the variables &lt;f0&gt;document&lt;/f0&gt; and &lt;f1&gt;dispatcher&lt;/f1&gt; are defined as the type &lt;f2&gt;object&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T210922Z" creationid="tagezi" creationdate="20180315T210922Z">
+        <seg>В макросе EnterMyName, переменные &lt;f0&gt;document&lt;/f0&gt; и &lt;f1&gt;dispatcher&lt;/f1&gt; определены как тип &lt;f2&gt;object&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Extension Manager dialog, click &lt;f1&gt;Add&lt;/f1&gt; to open a file browser window.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T205714Z" creationid="olex" creationdate="20180312T205714Z">
@@ -4840,6 +4864,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195352Z" creationid="olex" creationdate="20180306T195352Z">
         <seg>Упорядочение шаблонов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other common variable types include &lt;f3&gt;string&lt;/f3&gt;, &lt;f4&gt;integer&lt;/f4&gt;, and &lt;f5&gt;date&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T210955Z" creationid="tagezi" creationdate="20180315T210955Z">
+        <seg>Другие часто используемые типы &lt;f3&gt;string&lt;/f3&gt;, &lt;f4&gt;integer&lt;/f4&gt;, и &lt;f5&gt;date&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6339,6 +6371,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number in the parentheses indicates the highest usable number to access a storage location.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T211831Z" creationid="tagezi" creationdate="20180315T211831Z">
+        <seg>Число в круглых скобках указывает максимальный номер для доступа к месту хранения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The package begins installing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T211037Z" creationid="olex" creationdate="20180312T211037Z">
@@ -7462,6 +7502,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T230744Z" creationid="tagezi" creationdate="20180304T230744Z">
         <seg>Валерий Гончарук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Values in an array are usually numbered starting from zero.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T211414Z" creationid="tagezi" creationdate="20180315T211414Z">
+        <seg>Значения в массиве обычно нумеруются начиная с нуля.</seg>
       </tuv>
     </tu>
     <tu>
