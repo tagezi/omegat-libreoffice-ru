@@ -1904,6 +1904,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter markup language directly in the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180315T193326Z" creationid="Роман" creationdate="20180315T193326Z">
+        <seg>Введите формулу на языке разметки прямо в Редакторе формул.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090647Z" creationid="tagezi" creationdate="20180305T090647Z">
@@ -7390,6 +7398,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T170757Z" creationid="olex" creationdate="20180308T151838Z">
         <seg>Использование режима Задать стиль из списка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the Elements window or the context menus to insert a formula provides a convenient way to learn the markup language used by LibreOffice Math.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180315T194027Z" creationid="Роман" creationdate="20180315T194027Z">
+        <seg>Использование панели Элементы или контекстного меню для вставки формулы предоставляет удобный путь для изучения языка разметки, используемого в LibreOffice Math.</seg>
       </tuv>
     </tu>
     <tu>
