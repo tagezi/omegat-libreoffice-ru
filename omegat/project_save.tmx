@@ -514,6 +514,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A variable, like a piece of paper, contains information that can be changed and read.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T173207Z" creationid="tagezi" creationdate="20180315T173207Z">
+        <seg>Переменная, как лист бумаги, содержит информацию, которую можно изменить и прочитать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abiword Document (.abw, .zabw)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T062616Z" creationid="tagezi" creationdate="20180305T062616Z">
@@ -5520,6 +5528,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Dim keyword originally stood for Dimension and was used to define the dimensions of an array.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T181543Z" creationid="tagezi" creationdate="20180315T181543Z">
+        <seg>Ключевое слово Dim первоначально значило Dimension (размерность) и использовалось для определения размеров массива.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Document Foundation’s mission is:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T170637Z" creationid="lera" creationdate="20180303T170637Z">
@@ -7746,6 +7762,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T114721Z" creationid="tagezi" creationdate="20180315T114612Z">
         <seg>Вы можете написать макрос так, чтобы значения могли быть переданы подпрограмму.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can write information on a piece of paper so that you can look at it later.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T173127Z" creationid="tagezi" creationdate="20180315T173127Z">
+        <seg>Вы можете написать информацию на листе бумаги, чтобы посмотреть её позже.</seg>
       </tuv>
     </tu>
     <tu>
