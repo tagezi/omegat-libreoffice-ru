@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5060,6 +5060,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click in the Formula Editor and select a category, then a symbol from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180315T193218Z" creationid="Роман" creationdate="20180315T193218Z">
+        <seg>Щёлкните правой кнопкой мыши в Редакторе формул и выберите категорию, а затем символ из контекстного меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click on the selected template and click the &lt;f0&gt;Set as default&lt;/f0&gt; button (see Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T191947Z" creationid="olex" creationdate="20180313T191947Z">
@@ -5264,6 +5272,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T131615Z" creationid="tagezi" creationdate="20180312T131615Z">
         <seg>Выберите Module1, или новый модуль, который вы создали, и нажмите кнопку &lt;f0&gt;Правка&lt;/f0&gt;, чтобы открыть Интегрированную Среду Разработки (IDE) (Рисунок &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a category from the drop-down list, then a symbol using the Elements window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180315T193144Z" creationid="Роман" creationdate="20180315T193144Z">
+        <seg>Выберите категорию из выпадающего списка, а затем символ, используя Панель Элементы.</seg>
       </tuv>
     </tu>
     <tu>
