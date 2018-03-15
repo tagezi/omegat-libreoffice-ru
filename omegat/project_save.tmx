@@ -2529,6 +2529,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; to open the LibreOffice Basic Macros dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T070053Z" creationid="tagezi" creationdate="20180315T070053Z">
+        <seg>Откройте диалоговое окно Макросы LibreOffice Basic, выбрав &lt;f0&gt;Сервис &gt; Макросы &gt; Управление макросами &gt; LibreOffice Basic&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Record Macro&lt;/f0&gt; on the main menu bar to start recording a macro.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060401Z" creationid="tagezi" creationdate="20180313T100601Z">
@@ -5037,6 +5045,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select your new macro EnterMyName and click &lt;f0&gt;Edit&lt;/f0&gt; to open the macro in the Basic &lt;is1/&gt;&lt;is2/&gt;IDE&lt;ie3/&gt;&lt;ie4/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T073822Z" creationid="tagezi" creationdate="20180315T073822Z">
+        <seg>Выберите ваш новый макрос EnterMyName и нажмите кнопку &lt;f0&gt;Править&lt;/f0&gt;, чтобы открыть макрос в Basic &lt;is1/&gt;&lt;is2/&gt;IDE&lt;ie3/&gt;&lt;ie4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set the &lt;f0&gt;Location&lt;/f0&gt; to &lt;f1&gt;My Macros &amp; Dialogs&lt;/f1&gt;, which is the default location.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T124517Z" creationid="tagezi" creationdate="20180312T124517Z">
@@ -6590,6 +6606,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To view and/or edit the macro that you created:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T065946Z" creationid="tagezi" creationdate="20180315T065946Z">
+        <seg>Для просмотра и/или редактирования макроса, который вы создали:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: TODO: "descriptive name" = "имя, которое будет иметь смысл не только в момент создания вашего шедевра, и не только для вас"
 осознать и сказать коротко.</note>
       <tuv lang="EN-US">
@@ -6926,6 +6950,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T170051Z" creationid="lera" creationdate="20180303T170051Z">
         <seg>Версия 5.0 была выпущена в июле 2015; версия 5.1 в феврале 2016&lt;ts0/&gt;&lt;f1&gt;, а версия 6.0 в феврале 2018 года&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Viewing &lt;i0/&gt;and editing macros</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T065616Z" creationid="tagezi" creationdate="20180315T065616Z">
+        <seg>Просмотр &lt;i0/&gt;и редактирование макросов</seg>
       </tuv>
     </tu>
     <tu>
