@@ -5799,6 +5799,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The macro EnterMyName is shown in Listing &lt;t5&gt;3&lt;/t5&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T074037Z" creationid="tagezi" creationdate="20180315T074037Z">
+        <seg>Макрос EnterMyName выглядеть как в Листинге &lt;t5&gt;3&lt;/t5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG:TODO
 are dispatched = высылаются
 Dispatch framework = программный каркас отправки</note>
