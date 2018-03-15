@@ -780,6 +780,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Another kind of subroutine is called a function, which is a subroutine that returns a value.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T123315Z" creationid="tagezi" creationdate="20180315T123315Z">
+        <seg>Другой вид подпрограмм называется функциями — это подпрограмма, которая возвращает значение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Answers to frequently asked questions</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T091111Z" creationid="tagezi" creationdate="20180305T091111Z">
@@ -2521,6 +2529,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Functions are defined by the keyword FUNCTION at the beginning.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T123423Z" creationid="tagezi" creationdate="20180315T123423Z">
+        <seg>Функции определяются ключевым словом в начале FUNCTION.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Getting Started Guide</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T150819Z" creationid="lera" creationdate="20180303T150819Z">
@@ -2709,6 +2725,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T204600Z" creationid="User" creationdate="20180307T204600Z">
         <seg>Однако, если необходимо вычислять числовые значения, используя формулы, то обратитсеь к руководству по Calc для получения более подробной информации; Math не выполняет никаких расчётов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, recorded macros in LibreOffice always create subroutines, not functions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T123508Z" creationid="tagezi" creationdate="20180315T123508Z">
+        <seg>Однако записанные макросы в LibreOffice всегда создают подпрограммы, а не функции.</seg>
       </tuv>
     </tu>
     <tu>
