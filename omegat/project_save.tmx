@@ -1607,6 +1607,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CurrentController is a property referring to a service that controls the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T131801Z" creationid="tagezi" creationdate="20180316T131801Z">
+        <seg>CurrentController — это свойство, относящееся к службе, которая управляет документом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data Interchange Format (.dif)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T065508Z" creationid="tagezi" creationdate="20180305T065508Z">
@@ -1619,6 +1627,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064008Z" creationid="tagezi" creationdate="20180305T064008Z">
         <seg>Формат обмена данными (.dif)&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defines dispatcher as an object variable.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T041237Z" creationid="tagezi" creationdate="20180316T041237Z">
+        <seg>Определяет dispatcher как переменную object.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6987,6 +7003,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T143611Z" creationid="tagezi" creationdate="20180311T143611Z">
         <seg>В этом разделе предполагается, что у вас есть макрос, который может быть в электронной почте, на веб-странице или даже в книге, и вы хотите его использовать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ThisComponent refers to the current document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T041308Z" creationid="tagezi" creationdate="20180316T041308Z">
+        <seg>ThisComponent ссылается на текущий документ.</seg>
       </tuv>
     </tu>
     <tu>
