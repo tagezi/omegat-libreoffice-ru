@@ -1639,6 +1639,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CurrentController then dispatches the changes to the document frame.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T163204Z" creationid="tagezi" creationdate="20180316T163204Z">
+        <seg>Затем CurrentController отправляет изменения в кадр документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data Interchange Format (.dif)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T065508Z" creationid="tagezi" creationdate="20180305T065508Z">
@@ -2557,8 +2565,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>For example, when you type, it is the current controller that takes note of what you type.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T132049Z" creationid="tagezi" creationdate="20180316T132049Z">
-        <seg>Например, когда вы печатаете, текущий контроллер принимает к сведению то, что вы вводите.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T162804Z" creationid="tagezi" creationdate="20180316T132049Z">
+        <seg>Например, когда вы печатаете, CurrentController принимает к сведению то, что вы вводите.</seg>
       </tuv>
     </tu>
     <tu>
