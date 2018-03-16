@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2587,6 +2587,22 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For an &lt;f0&gt;italic&lt;/f0&gt; Greek character, type a percentage % sign followed by the i character, then the English name of the Greek character in lower or UPPER case.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T203442Z" creationid="Роман" creationdate="20180316T203442Z">
+        <seg>Для &lt;f0&gt;курсива&lt;/f0&gt; греческого символа введите знак процента (%), следом символ i, а затем английское имя греческого символа в нижнем или ВЕРХНЕМ регистре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For an UPPERCASE Greek character, type a percentage % sign, then type the character name in UPPERCASE using the English name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T203257Z" creationid="Роман" creationdate="20180316T203257Z">
+        <seg>Для греческого символа в ВЕРХНЕМ регистре введите знак процента (%), а затем английское имя символа в ВЕРХНЕМ регистре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For best results, the names of styles should be the same in the existing document and the new template.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T195134Z" creationid="olex" creationdate="20180313T195134Z">
@@ -2647,6 +2663,22 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T191347Z" creationid="olex" creationdate="20180315T191347Z">
         <seg>Например, первая страница письма обычно имеет другой заголовок, или первая страница отчета может быть без верхнего или нижнего колонтитула, в отличии от остальных страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, typing %LAMBDA creates the Greek character Λ.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T203320Z" creationid="Роман" creationdate="20180316T203320Z">
+        <seg>Например, ввод %LAMBDA создаст греческий символ Λ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, typing %iTHETA creates the &lt;f1&gt;italic&lt;/f1&gt; Greek character Θ.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T203512Z" creationid="Роман" creationdate="20180316T203512Z">
+        <seg>Например, ввод %iTHETA создаст &lt;f1&gt;курсивный&lt;/f1&gt; греческий символ Θ.</seg>
       </tuv>
     </tu>
     <tu>
