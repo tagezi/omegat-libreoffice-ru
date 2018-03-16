@@ -1423,6 +1423,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201430Z" creationid="Роман" creationdate="20180316T201430Z">
+        <seg>Команда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Commenting with &lt;is0/&gt;&lt;is1/&gt;REM</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T090604Z" creationid="tagezi" creationdate="20180315T090604Z">
@@ -1859,6 +1867,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T183317Z" creationid="olex" creationdate="20180306T183317Z">
         <seg>Прямое форматирование это повторение действий, к примеру: применить жирный шрифт для нескольких слов, установить отдельные поля для каждого абзаца или изменить размер шрифта заголовка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201426Z" creationid="Роман" creationdate="20180316T201426Z">
+        <seg>Отображается</seg>
       </tuv>
     </tu>
     <tu>
@@ -3037,6 +3053,22 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193917Z" creationid="olex" creationdate="20180307T193917Z">
         <seg>Графический объект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Greek characters</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201459Z" creationid="Роман" creationdate="20180316T201459Z">
+        <seg>Греческие символы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Greek characters are commonly used in formulas, but Greek characters cannot be entered into a formula using the Elements window or the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201604Z" creationid="Роман" creationdate="20180316T201604Z">
+        <seg>Греческие символы довольно часто используются в формулах, но греческие символы не могут быть введены в формулу, используя панель Элементы или контекстное меню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7984,6 +8016,14 @@ TODO: уточнить терминалогию + обратить вниман�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Using markup language</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201509Z" creationid="Роман" creationdate="20180316T201509Z">
+        <seg>Использование языка разметки</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: TODO: "to have those". Расмотреть варианты сиснонимов "включает", "сожержит". Возможно просто придираюсь. 
 denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
@@ -8903,6 +8943,46 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a &lt;= b</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201442Z" creationid="Роман" creationdate="20180316T201442Z">
+        <seg>a &lt;= b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a = b</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201436Z" creationid="Роман" creationdate="20180316T201436Z">
+        <seg>a = b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a times b</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201445Z" creationid="Роман" creationdate="20180316T201445Z">
+        <seg>a times b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a^2</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201438Z" creationid="Роман" creationdate="20180316T201438Z">
+        <seg>a^2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a_n</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201439Z" creationid="Роман" creationdate="20180316T201439Z">
+        <seg>a_n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>adding macros from other sources</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T123016Z" creationid="tagezi" creationdate="20180311T123016Z">
@@ -9087,6 +9167,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>formula</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201433Z" creationid="Роман" creationdate="20180316T201433Z">
+        <seg>formula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>formula files, opening</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T154659Z" creationid="tagezi" creationdate="20180304T154659Z">
@@ -9131,6 +9219,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T143841Z" creationid="tagezi" creationdate="20180304T143841Z">
         <seg>импортируемые файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>infinity</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201443Z" creationid="Роман" creationdate="20180316T201443Z">
+        <seg>infinity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>int f(x) dx</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201440Z" creationid="Роман" creationdate="20180316T201440Z">
+        <seg>int f(x) dx</seg>
       </tuv>
     </tu>
     <tu>
@@ -9311,6 +9415,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>sqrt {a}</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201437Z" creationid="Роман" creationdate="20180316T201437Z">
+        <seg>sqrt {a}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>styles</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T173958Z" creationid="olex" creationdate="20180306T183621Z">
@@ -9331,6 +9443,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T102821Z" creationid="tagezi" creationdate="20180315T102821Z">
         <seg>подпрограммы в макросах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sum a_n</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201441Z" creationid="Роман" creationdate="20180316T201441Z">
+        <seg>sum a_n</seg>
       </tuv>
     </tu>
     <tu>
@@ -9395,6 +9515,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T065538Z" creationid="tagezi" creationdate="20180315T065538Z">
         <seg>просмотр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>x cdot y</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201446Z" creationid="Роман" creationdate="20180316T201446Z">
+        <seg>x cdot y</seg>
       </tuv>
     </tu>
     <tu>
