@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5708,6 +5708,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Chapter 4 for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T203107Z" creationid="olex" creationdate="20180316T203107Z">
+        <seg>Смотрите Главу 4 чтобы получить больше информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the &lt;f0&gt;Writer Guide Chapter 3 Working with Text&lt;/f0&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T090728Z" creationid="tagezi" creationdate="20180313T090728Z">
@@ -8767,6 +8775,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can set up one paragraph style so that when you press &lt;f0&gt;Enter&lt;/f0&gt; at the end of that paragraph, the following paragraph automatically has the style you wish applied to it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T203319Z" creationid="olex" creationdate="20180316T203319Z">
+        <seg>Вы можете настроить один стиль абзаца так, чтобы при нажатии &lt;f0&gt;Enter&lt;/f0&gt; в конце этого абзаца в следующем абзаце автоматически применялся стиль, который вы хотите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can update styles by copying (loading) them from a template or another document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T193423Z" creationid="olex" creationdate="20180309T193423Z">
@@ -9143,6 +9159,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>defining a sequence</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T203121Z" creationid="olex" creationdate="20180316T203121Z">
+        <seg>определение последовательности</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>deleting</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T200007Z" creationid="olex" creationdate="20180310T200007Z">
@@ -9459,6 +9483,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180226Z" creationid="tagezi" creationdate="20180304T180226Z">
         <seg>сохранение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sequence of styles, automatic</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T203143Z" creationid="olex" creationdate="20180316T203143Z">
+        <seg>автоматическая последовательность стилей</seg>
       </tuv>
     </tu>
     <tu>
