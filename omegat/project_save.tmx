@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, tables of contents use Heading styles, but you can use whatever combination of styles you prefer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T203031Z" creationid="olex" creationdate="20180316T203031Z">
+        <seg>По умолчанию в оглавлениях используются стили заголовка, но вы можете использовать любую комбинацию стилей, которую предпочитаете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, this feature is turned off when LibreOffice was installed on your computer.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T100354Z" creationid="tagezi" creationdate="20180313T100354Z">
@@ -7497,8 +7505,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>To compile an automatic table of contents, first apply styles to the headings you want to appear in the contents list, then use &lt;f0&gt;Tools &gt; Outline Numbering&lt;/f0&gt; to tell Writer which styles go with which level in the table of contents.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180316T202619Z" creationid="olex" creationdate="20180316T201746Z">
-        <seg>Чтобы автоматически составить содержание, сначала примените стили к заголовкам, которые вы хотите отобразить в содержании, затем используйте &lt;f0&gt;Сервис &gt; Нумерация глав&lt;/f0&gt;, чтобы сообщить Writer, какие стили идут, с каким уровнем в оглавлении ,</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T202918Z" creationid="olex" creationdate="20180316T201746Z">
+        <seg>Чтобы автоматически составить оглавление, сначала примените стили к заголовкам, которые вы хотите отобразить в содержании, затем используйте &lt;f0&gt;Сервис &gt; Нумерация глав&lt;/f0&gt;, чтобы показать Writer, какие стили идут, с какими уровнями в оглавлении,</seg>
       </tuv>
     </tu>
     <tu>
