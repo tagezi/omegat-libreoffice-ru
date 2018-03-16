@@ -7142,6 +7142,7 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
     </tu>
     <tu>
+      <note>LG:TODO: Разобраться с контролеррами и диспатчерами, полями и всем остальным</note>
       <tuv lang="EN-US">
         <seg>ThisComponent refers to the current document.</seg>
       </tuv>
