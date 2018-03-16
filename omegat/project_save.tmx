@@ -466,6 +466,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A more complicated example of a macro</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T141946Z" creationid="tagezi" creationdate="20180316T141946Z">
+        <seg>Более сложный пример макроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A new document based on the template opens in LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T202452Z" creationid="olex" creationdate="20180310T202452Z">
@@ -1543,6 +1551,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a macro</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T141922Z" creationid="tagezi" creationdate="20180316T141922Z">
+        <seg>Создание макроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a new style from a selection</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T202012Z" creationid="olex" creationdate="20180306T194753Z">
@@ -1699,6 +1715,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T102849Z" creationid="tagezi" creationdate="20180315T102849Z">
         <seg>Определение подпрограмм при помощи &lt;is0/&gt;SUB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defining subroutines with SUB</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T141844Z" creationid="tagezi" creationdate="20180316T141844Z">
+        <seg>Определение подпрограмм при помощи SUB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defining variables using Dim</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T141904Z" creationid="tagezi" creationdate="20180316T141904Z">
+        <seg>Определение переменных с использованием Dim</seg>
       </tuv>
     </tu>
     <tu>
@@ -2000,6 +2032,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Events</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T142715Z" creationid="tagezi" creationdate="20180316T142715Z">
+        <seg>События</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090647Z" creationid="tagezi" creationdate="20180305T090647Z">
@@ -2044,6 +2084,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181950Z" creationid="tagezi" creationdate="20180304T181950Z">
         <seg>Экспорт в другие форматы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T142732Z" creationid="tagezi" creationdate="20180316T142732Z">
+        <seg>Расширения</seg>
       </tuv>
     </tu>
     <tu>
@@ -2989,6 +3037,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T160024Z" creationid="tagezi" creationdate="20180310T160024Z">
         <seg>На какое количество компьютеров я могу установить его?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to run a macro</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T142648Z" creationid="tagezi" creationdate="20180316T142648Z">
+        <seg>Как запустить макрос</seg>
       </tuv>
     </tu>
     <tu>
@@ -4822,6 +4878,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Online resources</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T142834Z" creationid="tagezi" creationdate="20180316T142834Z">
+        <seg>Интернет-ресурсы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open &lt;i0/&gt;the library container &lt;f1&gt;My Macros&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T132337Z" creationid="tagezi" creationdate="20180313T132337Z">
@@ -5362,6 +5426,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T152649Z" creationid="tagezi" creationdate="20180313T152649Z">
         <seg>Выполнение макроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running a macro quickly</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T142437Z" creationid="tagezi" creationdate="20180316T142437Z">
+        <seg>Быстрое выполнение макроса</seg>
       </tuv>
     </tu>
     <tu>
@@ -7461,6 +7533,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T065946Z" creationid="tagezi" creationdate="20180315T065946Z">
         <seg>Для просмотра и/или редактирования макроса, который вы создали:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toolbars, menu items, and keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T142708Z" creationid="tagezi" creationdate="20180316T142708Z">
+        <seg>Панели инструментов, элементы меню и сочетания клавиш</seg>
       </tuv>
     </tu>
     <tu>
