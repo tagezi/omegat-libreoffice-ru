@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -558,6 +558,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T211159Z" creationid="tagezi" creationdate="20180315T211159Z">
         <seg>Третья переменная названа &lt;f6&gt;args1&lt;/f6&gt; и является массивом значений свойств.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A typical use is for chapter titles to always start on a new right-hand (odd-numbered) page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T201719Z" creationid="olex" creationdate="20180316T201719Z">
+        <seg>Типичное размещение для заголовка: всегда начинать главу с новой правой (нечетной) страницы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7467,6 +7475,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T061917Z">
         <seg>Для изменения диалоговых окон, которые используется, выберите &lt;f0&gt;Свервис &gt; Парметры &gt; LibreOffice &gt; Общие&lt;/f0&gt; и установите или снимите флажок на пункте &lt;f1&gt;Использовать диалоги LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To compile an automatic table of contents, first apply styles to the headings you want to appear in the contents list, then use &lt;f0&gt;Tools &gt; Outline Numbering&lt;/f0&gt; to tell Writer which styles go with which level in the table of contents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T201746Z" creationid="olex" creationdate="20180316T201746Z">
+        <seg>Чтобы скомпилировать автоматическое оглавление, сначала примените стили к заголовкам, которые вы хотите отобразить в списке содержимого, затем используйте &lt;f0&gt; Инструменты&gt; Нумерация контуров &lt;/ f0&gt;, чтобы сообщить Writer, какие стили идут, с каким уровнем в оглавлении ,</seg>
       </tuv>
     </tu>
     <tu>
