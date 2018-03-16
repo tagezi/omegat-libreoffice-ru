@@ -2801,6 +2801,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;View&lt;/f0&gt; on the menu bar and select &lt;f1&gt;Elements&lt;/f1&gt; to open the &lt;i2/&gt;Elements window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T093725Z" creationid="Роман" creationdate="20180316T093725Z">
+        <seg>Выберите пункт меню &lt;f0&gt;Вид &gt; Элементы&lt;/f0&gt;, чтобы отобразилась панель Элементы &lt;i2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Graphics</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193917Z" creationid="olex" creationdate="20180307T193917Z">
@@ -3436,6 +3444,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T220846Z" creationid="tagezi" creationdate="20180307T220846Z">
         <seg>В дополнение к ссылкам меню Справка, приведенным выше, доступны другие варианты поддержки сообщества в интернете, смотрите Таблицу ниже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the list of categories at the top of the window, it also provides an Example category with example formulas to use as a starting point for a formula or equation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T093436Z" creationid="Роман" creationdate="20180316T093436Z">
+        <seg>В дополнение к списку категорий в верхней части панели также предоставляется категория Примеры с примерами формул для использования в качестве начальной точки для формулы или уравнения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5852,8 +5868,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>The Elements window can easily be used when entering formula data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Роман" changedate="20180315T194750Z" creationid="Роман" creationdate="20180315T194750Z">
-        <seg>The Elements window can easily be used when entering formula data.</seg>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T093312Z" creationid="Роман" creationdate="20180315T194750Z">
+        <seg>Панель Элементы может быть использована для легкого ввода данных формулы.</seg>
       </tuv>
     </tu>
     <tu>
