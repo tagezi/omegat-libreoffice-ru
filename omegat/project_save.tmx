@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2557,8 +2557,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>For a lowercase Greek character, type a percentage % sign, then type the character name in lowercase using the English name.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T202539Z" creationid="Роман" creationdate="20180316T202539Z">
-        <seg>For a lowercase Greek character, type a percentage % sign, then type the character name in lowercase using the English name.</seg>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T203122Z" creationid="Роман" creationdate="20180316T202539Z">
+        <seg>Для ввода греческих символов в нижнем регистре ведите знак процента (%), а затем английское имя символа в нижнем регистре.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2647,6 +2647,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T191347Z" creationid="olex" creationdate="20180315T191347Z">
         <seg>Например, первая страница письма обычно имеет другой заголовок, или первая страница отчета может быть без верхнего или нижнего колонтитула, в отличии от остальных страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, typing %lambda creates the Greek character λ.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T203159Z" creationid="Роман" creationdate="20180316T203159Z">
+        <seg>Например, ввод %lambda создаст греческий символ λ.</seg>
       </tuv>
     </tu>
     <tu>
