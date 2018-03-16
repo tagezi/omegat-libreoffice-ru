@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -309,6 +309,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T102301Z" creationid="tagezi" creationdate="20180306T183244Z">
         <seg>&lt;f0&gt;Что это такое?&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;Для быстрых подсказок, когда видна панель инструментов, поместите указатель мыши над любым значком, чтобы увидеть маленькие прямоугольники (“всплывающая подсказка”) с кратким описанием функции значка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s2/&gt;Or, alternatively, position the cursor in the table to be formatted and double click on a style listed in the &lt;f3&gt;Table Styles&lt;/f3&gt; tab of the &lt;f4&gt;Styles&lt;/f4&gt; menu or the &lt;f5&gt;sidebar&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T204929Z" creationid="olex" creationdate="20180316T204929Z">
+        <seg>&lt;s2/&gt; Или, как вариант, поместите курсор в таблицу, которую необходимо отформатировать, и дважды щелкните по стилю, указанному во вкладке &lt;f3&gt;Стили таблиц&lt;/f3&gt; в окне &lt;f4&gt;Стили&lt;/f4&gt; или на &lt;f5&gt;боковой панели&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2280,6 +2288,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Some table styles in LibreOffice</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T205017Z" creationid="olex" creationdate="20180316T205017Z">
+        <seg>Рисунок &lt;seq0&gt;17&lt;/seq0&gt;: Некоторые стили таблиц в LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: An empty formula document in Math</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T205538Z" creationid="User" creationdate="20180307T205538Z">
@@ -2885,6 +2901,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180312T071613Z" creationid="User" creationdate="20180312T071613Z">
         <seg>Больше информации о создании формул изложено в разделе “&lt;bf5&gt;Создание формул&lt;/bf5&gt;” на странице &lt;bf6&gt;8&lt;/bf6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information refer to the &lt;f0&gt;LibreOffice Writer guide, Chapter 9: &lt;s1/&gt;Working with Tables.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T205153Z" creationid="olex" creationdate="20180316T205153Z">
+        <seg>Для получения дополнительной информации смотрите &lt;f0&gt;Руководство LibreOffice Writer, глава 9:&lt;s1/&gt; Работа с таблицами.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
