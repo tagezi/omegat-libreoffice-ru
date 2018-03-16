@@ -772,6 +772,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An example is shown in Figure &lt;t0&gt;3&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094359Z" creationid="Роман" creationdate="20180316T094359Z">
+        <seg>Пример показан на Рисунке &lt;t0&gt;3&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example of a simple macro is one that “types” your address.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T095747Z" creationid="tagezi" creationdate="20180311T095747Z">
@@ -2134,6 +2142,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T171750Z" creationid="olex" creationdate="20180308T171750Z">
         <seg>Рисунок &lt;seq0&gt;2&lt;/seq0&gt;: список Задать стиль абзаца на панели инструментов Форматирование.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Context menu in Formula Editor</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094415Z" creationid="Роман" creationdate="20180316T094415Z">
+        <seg>Рисунок &lt;seq0&gt;3&lt;/seq0&gt;: Контекстное меню в Редакторе формул</seg>
       </tuv>
     </tu>
     <tu>
@@ -5190,6 +5206,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click in the Formula Editor to open the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094312Z" creationid="Роман" creationdate="20180316T094312Z">
+        <seg>Щёлкните правой кнопкой мыши в Редакторе формул, чтобы открыть контекстное меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click on the selected template and click the &lt;f0&gt;Set as default&lt;/f0&gt; button (see Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T191947Z" creationid="olex" creationdate="20180313T191947Z">
@@ -5394,6 +5418,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T131615Z" creationid="tagezi" creationdate="20180312T131615Z">
         <seg>Выберите Module1, или новый модуль, который вы создали, и нажмите кнопку &lt;f0&gt;Правка&lt;/f0&gt;, чтобы открыть Интегрированную Среду Разработки (IDE) (Рисунок &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a category and then select the markup example that you want to use from the sub-context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094348Z" creationid="Роман" creationdate="20180316T094348Z">
+        <seg>Выберите категорию и затем выберите пример разметки, который хотите использовать, из подменю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5894,6 +5926,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T170637Z" creationid="lera" creationdate="20180303T170637Z">
         <seg>Миссия The Document Foundation:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Elements window and the context menu contain only the most common commands that are used in formulas.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094459Z" creationid="Роман" creationdate="20180316T094459Z">
+        <seg>Панель Элементы и контекстное меню содержат только часто используемые команды, которые применяются в формулах.</seg>
       </tuv>
     </tu>
     <tu>
