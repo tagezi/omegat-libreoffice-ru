@@ -7463,6 +7463,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To go back to the portrait page style, insert another page break and select the default portrait page style of your document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T195057Z" creationid="olex" creationdate="20180316T195057Z">
+        <seg>Чтобы вернуться к книжному стилю страницы, вставьте другой разрыв страницы и выберите для вашего документа стиль страницы по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To import a MathML Presentation formula, copy the formula from the external equation editor and issue &lt;f0&gt;Tools &gt; Import MathML from Clipboard&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153702Z" creationid="User" creationdate="20180311T153702Z">
@@ -8951,6 +8959,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>different on right and left pages</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T195214Z" creationid="olex" creationdate="20180316T195214Z">
+        <seg>различные на правой и левой страницах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>divide document into chapters</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T192617Z" creationid="olex" creationdate="20180316T192617Z">
@@ -9019,6 +9035,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153843Z" creationid="tagezi" creationdate="20180304T153843Z">
         <seg>графических файлов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>header</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T195552Z" creationid="olex" creationdate="20180316T195552Z">
+        <seg>верхние колонтитулы</seg>
       </tuv>
     </tu>
     <tu>
