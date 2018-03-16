@@ -2642,6 +2642,14 @@ DONE</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you can require a paragraph to start on a new page or column and specify the style of the new page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T201124Z" creationid="olex" creationdate="20180316T201124Z">
+        <seg>Например, вам может потребоваться, чтобы абзац начинался на новой странице или столбце и определял стиль новой страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: TODO: "you may decide to" озадачится may
 denkin: по смыслу как то не могу вписать "озадачится"</note>
       <tuv lang="EN-US">
@@ -3365,6 +3373,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T144809Z" creationid="tagezi" creationdate="20180306T144809Z">
         <seg>Если на вашем компьютере у вас нет установленной автономной справки, но у вас есть соединение с интернетом, ваш браузер по умолчанию откроет страницу Справки в интернете на сайте LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do not like the default settings, you can change them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T200853Z" creationid="olex" creationdate="20180316T200853Z">
+        <seg>Если вам не нравятся настройки по умолчанию, то вы можете их изменить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8344,6 +8360,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T081518Z" creationid="tagezi" creationdate="20180306T081518Z">
         <seg>Writer (текстовый процессор)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writer automatically flows text from one page to the next.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T200832Z" creationid="olex" creationdate="20180316T200832Z">
+        <seg>Writer автоматически переносит текст с одной страницы на другую.</seg>
       </tuv>
     </tu>
     <tu>
