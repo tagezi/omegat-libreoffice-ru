@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5652,6 +5652,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Appendix A, Commands Reference, in the &lt;f0&gt;Math Guide&lt;/f0&gt; for a list of Greek characters that can be entered using markup language.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T202525Z" creationid="Роман" creationdate="20180316T202525Z">
+        <seg>В Приложении А Справочник команд, в полном &lt;f0&gt;Руководстве по Math&lt;/f0&gt; изложен полный список греческих символов, которые могут быть введены, используя язык разметки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Chapter 10 Printing, Exporting, and E-Mailing in this guide.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T164432Z" creationid="tagezi" creationdate="20180304T174342Z">
@@ -7921,6 +7929,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T140021Z" creationid="User" creationdate="20180308T140021Z">
         <seg>Используйте пункт меню &lt;f0&gt;Сервис &gt; Импорт MathML из буфера обмена&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the English names of Greek characters in markup language when entering Greek characters into a formula.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201640Z" creationid="Роман" creationdate="20180316T201640Z">
+        <seg>Используйте английские имена греческих символов в языке разметки для ввода греческих символов в формулу.</seg>
       </tuv>
     </tu>
     <tu>
