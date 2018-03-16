@@ -1399,6 +1399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Context menu</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094133Z" creationid="Роман" creationdate="20180316T094133Z">
+        <seg>Контекстное меню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continuing the version numbers from OpenOffice.org, LibreOffice 3.3 was released in January 2011 &lt;f0&gt;and version 6.0 was release in February 2018.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T075048Z" creationid="tagezi" creationdate="20180305T075048Z">
@@ -3753,6 +3761,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can be floated in the same way as other docked windows.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094125Z" creationid="Роман" creationdate="20180316T094125Z">
+        <seg>Она может быть откреплена тем же путем, что и другие прикрепленные панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can be freely copied, distributed and used.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T212903Z" creationid="lera" creationdate="20180303T212903Z">
@@ -5479,6 +5495,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the symbol you want to use in the formula from the Elements window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T093917Z" creationid="Роман" creationdate="20180316T093917Z">
+        <seg>Выберите нужный символ для использования в формуле на панели Элементы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the template that you want to export.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T190034Z" creationid="olex" creationdate="20180315T190034Z">
@@ -5882,6 +5906,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Elements window is positioned by default to the left of the Preview and Formula Editor windows, as shown in Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;and Figure &lt;t2&gt;2&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094049Z" creationid="Роман" creationdate="20180316T094049Z">
+        <seg>Панель Элементы по умолчанию располагается слева от Области предварительного просмотра и Редактора формул, как показано на Рисунке &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt; и Рисунке &lt;t2&gt;2&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Elements window to the left of the Preview window may also appear, if it has been selected in &lt;f0&gt;View&lt;/f0&gt; on the menu bar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153152Z" creationid="User" creationdate="20180311T153055Z">
@@ -5902,6 +5934,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T204346Z" creationid="olex" creationdate="20180312T204346Z">
         <seg>Функция Управление расширениями предоставляет простой способ установки коллекций шаблонов, которые упакованы в виде расширений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Formula Editor also provides a context menu to access categories and symbols when creating a formula.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094209Z" creationid="Роман" creationdate="20180316T094209Z">
+        <seg>Редактор формул также предоставляет контекстное меню для доступа к категориям и символам при создании формулы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6489,6 +6529,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T200641Z" creationid="lera" creationdate="20180303T200641Z">
         <seg>Программное обеспечение переведено на многие языки и работает во всех основных операционных системах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The symbols that are available change according to the selected category.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T093952Z" creationid="Роман" creationdate="20180316T093952Z">
+        <seg>Доступные символы изменяются в зависимости от выбранной категории.</seg>
       </tuv>
     </tu>
     <tu>
