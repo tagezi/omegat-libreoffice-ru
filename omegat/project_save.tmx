@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3129,6 +3129,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Symbols&lt;/f0&gt; on the menu bar or click on the &lt;f1&gt;Symbols&lt;/f1&gt; icon on the Tools toolbar to open the Symbols dialog (Figure &lt;t2&gt;4&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204334Z" creationid="Роман" creationdate="20180316T204334Z">
+        <seg>Выберите пункт меню &lt;f0&gt;Сервис &gt; Символы&lt;/f0&gt; или щёлкните по значку &lt;f1&gt;Символы&lt;/f1&gt; на панели инструментов, чтобы открыть диалог Символы (Рисунок &lt;t2&gt;4&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;View&lt;/f0&gt; on the menu bar and select &lt;f1&gt;Elements&lt;/f1&gt; to open the &lt;i2/&gt;Elements window.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T093803Z" creationid="Роман" creationdate="20180316T093725Z">
@@ -3157,6 +3165,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201604Z" creationid="Роман" creationdate="20180316T201604Z">
         <seg>Греческие символы довольно часто используются в формулах, но греческие символы не могут быть введены в формулу, используя панель Элементы или контекстное меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Greek characters can also be entered into a formula using the Symbols dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204204Z" creationid="Роман" creationdate="20180316T204204Z">
+        <seg>Греческие символы также могут быть введены в формулу, используя диалог Символы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4697,6 +4713,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure the cursor is in the correct position in the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204225Z" creationid="Роман" creationdate="20180316T204225Z">
+        <seg>Убедитесь, что курсор расположен в нужном месте в Редакторе формул.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make your selections and click &lt;f3&gt;Save&lt;/f3&gt; to close the dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T190248Z" creationid="olex" creationdate="20180311T190248Z">
@@ -5828,6 +5852,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Greek&lt;/f0&gt; from the &lt;f1&gt;Symbol set&lt;/f1&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204432Z" creationid="Роман" creationdate="20180316T204432Z">
+        <seg>Выберите &lt;f0&gt;Греческий&lt;/f0&gt; из выпадающего списка &lt;f1&gt;Набор символов&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Keep Old Styles&lt;/f0&gt; if you do not want to apply the changed styles in the template to the document (but see the Caution notice below).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T193924Z" creationid="olex" creationdate="20180311T193924Z">
@@ -6219,6 +6251,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T092800Z" creationid="tagezi" creationdate="20180315T092800Z">
         <seg>Символьные константы - это сложная тема, не охваченная этим руководством пользователя, и не требуется при использовании записи макросов в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symbols dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T203524Z" creationid="Роман" creationdate="20180316T203524Z">
+        <seg>Диалог Символы</seg>
       </tuv>
     </tu>
     <tu>
