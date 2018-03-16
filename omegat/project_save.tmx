@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7497,8 +7497,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>To compile an automatic table of contents, first apply styles to the headings you want to appear in the contents list, then use &lt;f0&gt;Tools &gt; Outline Numbering&lt;/f0&gt; to tell Writer which styles go with which level in the table of contents.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180316T201746Z" creationid="olex" creationdate="20180316T201746Z">
-        <seg>Чтобы скомпилировать автоматическое оглавление, сначала примените стили к заголовкам, которые вы хотите отобразить в списке содержимого, затем используйте &lt;f0&gt; Инструменты&gt; Нумерация контуров &lt;/ f0&gt;, чтобы сообщить Writer, какие стили идут, с каким уровнем в оглавлении ,</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T202619Z" creationid="olex" creationdate="20180316T201746Z">
+        <seg>Чтобы автоматически составить содержание, сначала примените стили к заголовкам, которые вы хотите отобразить в содержании, затем используйте &lt;f0&gt;Сервис &gt; Нумерация глав&lt;/f0&gt;, чтобы сообщить Writer, какие стили идут, с каким уровнем в оглавлении ,</seg>
       </tuv>
     </tu>
     <tu>
