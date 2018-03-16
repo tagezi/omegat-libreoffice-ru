@@ -434,6 +434,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Writer document can contain pages in more than one orientation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T193832Z" creationid="olex" creationdate="20180316T193832Z">
+        <seg>Документ Writer может содержать страницы с разной ориентацией.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A common scenario is to have &lt;i0/&gt;a &lt;i1/&gt;landscape page in the middle of a document, whereas the other pages are in a portrait orientation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T194314Z" creationid="olex" creationdate="20180316T194314Z">
+        <seg>Часто возникает необходимость, чтобы в середине документа располагалась страница&lt;i0/&gt;в альбомной ориентации&lt;i1/&gt;, в то время как другие страницы находятся в книжной ориентации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A dialog is a special type of window.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T105914Z" creationid="tagezi" creationdate="20180310T105754Z">
@@ -8987,6 +9003,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T143841Z" creationid="tagezi" creationdate="20180304T143841Z">
         <seg>импортируемые файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>landscape page</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T193731Z" creationid="olex" creationdate="20180316T193731Z">
+        <seg>альбомная страница</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>landscape pages</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T193755Z" creationid="olex" creationdate="20180316T193755Z">
+        <seg>альбомные страницы</seg>
       </tuv>
     </tu>
     <tu>
