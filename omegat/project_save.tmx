@@ -1607,6 +1607,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Defines document as a variable.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T212631Z" creationid="tagezi" creationdate="20180315T212631Z">
+        <seg>Определяет document как переменную.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defines the start of the macro</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T212611Z" creationid="tagezi" creationdate="20180315T212611Z">
+        <seg>Определяет начало макроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Defining &lt;i0/&gt;a different first page for a document</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T191056Z" creationid="olex" creationdate="20180315T191056Z">
@@ -1956,6 +1972,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195616Z" creationid="olex" creationdate="20180306T195616Z">
         <seg>Примеры использования стиля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Explaining macro code</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T212041Z" creationid="tagezi" creationdate="20180315T212031Z">
+        <seg>Объяснение кода макроса</seg>
       </tuv>
     </tu>
     <tu>
@@ -3633,6 +3657,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this example, there is only one value, and it is numbered zero.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T212006Z" creationid="tagezi" creationdate="20180315T212006Z">
+        <seg>В этом примере есть только одно значение, и оно имеет номер нуль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Individual macros are stored in subroutines and these subroutines begin with the keyword SUB.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T113650Z" creationid="tagezi" creationdate="20180315T113650Z">
@@ -4519,6 +4551,16 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193833Z" creationid="olex" creationdate="20180307T193833Z">
         <seg>Нумерация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>LG:TODO: что такое fields? что такое actions?
+Объект имеет в себе либо другие объекы, либо примитивы; свойста и методы. </note>
+      <tuv lang="EN-US">
+        <seg>Objects are a specific variable type with multiple fields representing properties and actions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T041137Z" creationid="tagezi" creationdate="20180316T041137Z">
+        <seg>Объекты (object) представляют собой особый тип переменных с несколькими полями, представляющими свойства и действия.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6204,6 +6246,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T190737Z" creationid="olex" creationdate="20180315T190737Z">
         <seg>Следующие примеры использования стилей страниц и абзацев взяты из Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following is an explanation of the code used in the EnterMyName macro.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T212203Z" creationid="tagezi" creationdate="20180315T212203Z">
+        <seg>Ниже приведено объяснение кода, используемого в макросе EnterMyName.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8258,6 +8308,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T191104Z" creationid="olex" creationdate="20180311T190840Z">
         <seg>Возможно, вам придется открыть диалоговое окно Шаблоны и нажать &lt;f0&gt;Обновить&lt;/f0&gt; в меню &lt;f1&gt;Настройки&lt;/f1&gt;, чтобы в списке появился новый шаблон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may not understand all the details, but the explanation of each line of code may give you some idea of how a macro works.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T212524Z" creationid="tagezi" creationdate="20180315T212524Z">
+        <seg>Вы можете не понимать все детали, но объяснение каждой строки кода возможно даст вам некоторое представление о том, как работает макрос.</seg>
       </tuv>
     </tu>
     <tu>
