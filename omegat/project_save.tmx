@@ -1158,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing &lt;i0/&gt;page &lt;i1/&gt;orientation within a document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T193603Z" creationid="olex" creationdate="20180316T193603Z">
+        <seg>Изменение ориентации &lt;i0/&gt;страницы&lt;i1/&gt; в документе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changing a style using the Style dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180020Z" creationid="olex" creationdate="20180306T194542Z">
@@ -2180,6 +2188,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T192428Z" creationid="olex" creationdate="20180315T192428Z">
         <seg>Рисунок &lt;seq0&gt;15&lt;/seq0&gt;: Порядок стилей страниц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Dividing a document into chapters using page styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T193450Z" creationid="olex" creationdate="20180316T193450Z">
+        <seg>Рисунок &lt;seq0&gt;16&lt;/seq0&gt;: Разделение документа на главы с использованием стилей страниц</seg>
       </tuv>
     </tu>
     <tu>
@@ -9071,10 +9087,26 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>orientation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T193504Z" creationid="olex" creationdate="20180316T193504Z">
+        <seg>ориентация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>orientation of page</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T193527Z" creationid="olex" creationdate="20180316T193527Z">
+        <seg>ориентация страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>page layout</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180315T190957Z" creationid="olex" creationdate="20180315T190957Z">
-        <seg>макет страницы</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T193508Z" creationid="olex" creationdate="20180315T190957Z">
+        <seg>макета страницы</seg>
       </tuv>
     </tu>
     <tu>
