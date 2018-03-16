@@ -1294,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Close&lt;/f0&gt; when you have finished entering Greek characters into the formula.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204714Z" creationid="Роман" creationdate="20180316T204714Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Закрыть&lt;/f0&gt; после завершения ввода греческих символов в формулу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;New category&lt;/f0&gt; on the context menu (see Figure &lt;t1&gt;13&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T204414Z" creationid="olex" creationdate="20180313T204414Z">
@@ -2535,6 +2543,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T204541Z" creationid="olex" creationdate="20180312T204541Z">
         <seg>Выполните следующие действия:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For &lt;f2&gt;italic&lt;/f2&gt; characters, select &lt;f3&gt;iGreek&lt;/f3&gt; from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204516Z" creationid="Роман" creationdate="20180316T204516Z">
+        <seg>Для &lt;f2&gt;курсивных&lt;/f2&gt; символов выберите из выпадающего списка &lt;f3&gt;iГреческий&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5971,6 +5987,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Select the Greek character from the symbol list, then click &lt;f0&gt;Insert&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204553Z" creationid="Роман" creationdate="20180316T204553Z">
+        <seg>Выберите греческий символ из списка символов, затем нажмите кнопку &lt;f0&gt;Вставить&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: добавил про введение имени шаблона и про возможность установить шаблоном по умолчанию.</note>
       <tuv lang="EN-US">
         <seg>Select the My Templates folder.</seg>
@@ -8447,6 +8471,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T165346Z" creationid="tagezi" creationdate="20180304T165346Z">
         <seg>При открытии документа Word, который содержит встроенный объект редактора формул, если для него указан параметр (MathType в LibreOffice Math или обратно) в &lt;f0&gt;Сервис &gt; Параметры... &gt; Загрузка/Сохранение &gt; Microsoft Office&lt;/f0&gt;, этот объект будет автоматически конвертирован в&lt;tc1/&gt; объект LibreOffice Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When selected, the name of a Greek character is shown below the symbol list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204643Z" creationid="Роман" creationdate="20180316T204643Z">
+        <seg>При выборе имя греческого символа отображается ниже списка символов.</seg>
       </tuv>
     </tu>
     <tu>
