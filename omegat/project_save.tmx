@@ -2803,8 +2803,8 @@ denkin: исправил на "могли бы"</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;View&lt;/f0&gt; on the menu bar and select &lt;f1&gt;Elements&lt;/f1&gt; to open the &lt;i2/&gt;Elements window.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T093725Z" creationid="Роман" creationdate="20180316T093725Z">
-        <seg>Выберите пункт меню &lt;f0&gt;Вид &gt; Элементы&lt;/f0&gt;, чтобы отобразилась панель Элементы &lt;i2/&gt;.</seg>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T093803Z" creationid="Роман" creationdate="20180316T093725Z">
+        <seg>Выберите пункт меню &lt;f0&gt;Вид &gt; Элементы&lt;/f0&gt;, чтобы отобразилась панель &lt;f1&gt;Элементы&lt;/f1&gt; &lt;i2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5459,6 +5459,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060907Z" creationid="tagezi" creationdate="20180313T133753Z">
         <seg>Для создания &lt;i1/&gt;нового модуля, который будет содержать макрос, выберите библиотеку Standard и нажмите кнопку &lt;f0&gt;Создать модуль&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the category you want to use in the formula from the drop-down list at the top of the Elements window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T093842Z" creationid="Роман" creationdate="20180316T093733Z">
+        <seg>Выберите категорию, которую хотите использовать в формуле из выпадающего списка в верхней части панели Элементы.</seg>
       </tuv>
     </tu>
     <tu>
