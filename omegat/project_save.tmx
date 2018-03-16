@@ -6295,6 +6295,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tables in a Writer document can have a predefined set of formatting attributes applied, including cell background, font, emphasis, and number formatting (Figure &lt;t0&gt;17&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T204016Z" creationid="olex" creationdate="20180316T204016Z">
+        <seg>Таблицы в документе Writer могут иметь предопределенный набор применяемых атрибутов форматирования, включая фон ячейки, шрифт, выделение и форматирование чисел (Рисунок &lt;t0&gt;17&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Templates can also contain predefined text, saving you from having to type it every time you create a new document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T175950Z" creationid="olex" creationdate="20180311T175950Z">
@@ -7522,6 +7530,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T205522Z" creationid="olex" creationdate="20180307T205321Z">
         <seg>Чтобы применить существующий стиль, выберите абзац, врезку, страницу или слово, а затем дважды щелкните на имени стиля в соответствующем списке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To apply table styles, position the cursor in the table to be formatted and choose &lt;f1&gt;Table &gt; AutoFormat Styles&lt;/f1&gt; in the main menu and select a style from the dialog that appears.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T204224Z" creationid="olex" creationdate="20180316T204224Z">
+        <seg>Чтобы применить стили таблицы, поместите курсор в таблицу для форматирования и выберите в меню &lt;f1&gt;Таблица &gt; Стили автоформата&lt;/f1&gt; и выберите стиль в появившемся диалоговом окне.</seg>
       </tuv>
     </tu>
     <tu>
