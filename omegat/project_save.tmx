@@ -2769,6 +2769,14 @@ denkin: исправил на "могли бы"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frame is a controller property that returns the main frame for a document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T163316Z" creationid="tagezi" creationdate="20180316T163316Z">
+        <seg>Frame — это свойство контроллера, которое возвращает основной кадр для документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Free LibreOffice support</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T220906Z" creationid="tagezi" creationdate="20180307T220906Z">
@@ -6929,6 +6937,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T082004Z" creationid="tagezi" creationdate="20180310T082004Z">
         <seg>Поэтому, некоторые иллюстрации не будут точь-в-точь выглядеть как то, что вы видите на дисплее своего компьютера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, the variable named document refers to a document’s frame, which receives dispatched commands.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T163628Z" creationid="tagezi" creationdate="20180316T163628Z">
+        <seg>Следовательно, переменная с именем document ссылается на кадр документа, который получает отправленные команды.</seg>
       </tuv>
     </tu>
     <tu>
