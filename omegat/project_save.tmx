@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1841,8 +1841,8 @@
       <tuv lang="EN-US">
         <seg>Dividing a document into chapters</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195708Z" creationid="olex" creationdate="20180306T195708Z">
-        <seg>Разделить документ на главы</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T192600Z" creationid="olex" creationdate="20180306T195708Z">
+        <seg>Разделение документа на главы</seg>
       </tuv>
     </tu>
     <tu>
@@ -3539,6 +3539,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T154230Z" creationid="User" creationdate="20180311T154230Z">
         <seg>В Writer щёлкните мышью в абзаце, где хотите вставить формулу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a similar way, you can &lt;i0/&gt;divide a document into chapters.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T192658Z" creationid="olex" creationdate="20180316T192658Z">
+        <seg>Аналогичным образом вы можете &lt;i0/&gt; разделить документ на главы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8859,6 +8867,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T190927Z" creationid="olex" creationdate="20180315T190927Z">
         <seg>другая первая страница</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>divide document into chapters</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T192617Z" creationid="olex" creationdate="20180316T192617Z">
+        <seg>разделить документ на главы</seg>
       </tuv>
     </tu>
     <tu>
