@@ -1865,8 +1865,8 @@
       <tuv lang="EN-US">
         <seg>Displaying different headers on right and left pages</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T195802Z" creationid="olex" creationdate="20180306T195802Z">
-        <seg>Отображение различных заголовков на правой и левой страницах</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T195608Z" creationid="olex" creationdate="20180306T195802Z">
+        <seg>Отображение различных верхних колонтитулов на правой и левой страницах</seg>
       </tuv>
     </tu>
     <tu>
@@ -5248,6 +5248,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193751Z" creationid="olex" creationdate="20180307T193751Z">
         <seg>Страница</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page styles can be set up to have the facing left and right pages &lt;f0&gt;mirrored&lt;/f0&gt; or only right (first pages of chapters are often defined to be right-page only) or only left.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T200230Z" creationid="olex" creationdate="20180316T200230Z">
+        <seg>Стили страницы могут быть настроены так, чтобы поля на левой и правой страницах были &lt;f0&gt;зеркальными&lt;/f0&gt; или только со смещением вправо (первые страницы глав часто определяются как "правые") или только влево.</seg>
       </tuv>
     </tu>
     <tu>
