@@ -4249,6 +4249,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice default landscape page style is Landscape.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T194632Z" creationid="olex" creationdate="20180316T194632Z">
+        <seg>Стиль альбомной страницы по умолчанию в LibreOffice - Альбомный.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice does not have a similar default template file; the “factory defaults” are embedded within the software.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T213710Z" creationid="olex" creationdate="20180312T213606Z">
@@ -7220,6 +7228,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This setup can also be created with page breaks and page styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T194405Z" creationid="olex" creationdate="20180316T194405Z">
+        <seg>Эта настройка также может быть создана с помощью разрывов страниц и стилей страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG:TODO: Разобраться с контролеррами и диспатчерами, полями и всем остальным</note>
       <tuv lang="EN-US">
         <seg>ThisComponent refers to the current document.</seg>
@@ -7459,6 +7475,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T154029Z" creationid="User" creationdate="20180311T154029Z">
         <seg>Для вставки формулы в документ LibreOffice откройте документ в Writer, Calc, Draw или Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To insert a landscape page in the middle of your document, insert a page break and select a page style with the landscape orientation on.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180316T194526Z" creationid="olex" creationdate="20180316T194526Z">
+        <seg>Чтобы вставить альбомную страницу в середине документа, вставьте разрыв страницы и выберите стиль страницы с альбомной ориентацией.</seg>
       </tuv>
     </tu>
     <tu>
