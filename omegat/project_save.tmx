@@ -2355,6 +2355,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a complete list of commands, see the &lt;f0&gt;Math Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094624Z" creationid="Роман" creationdate="20180316T094624Z">
+        <seg>Полный список команд доступен в полном &lt;f0&gt;Руководстве по Math&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a full list of file formats that LibreOffice can read and write, see &lt;a0&gt;https://en.wikipedia.org/wiki/LibreOffice#Supported_file_formats&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180304T071029Z" creationid="lera" creationdate="20180304T071029Z">
@@ -2455,6 +2463,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T191347Z" creationid="olex" creationdate="20180315T191347Z">
         <seg>Например, первая страница письма обычно имеет другой заголовок, или первая страница отчета может быть без верхнего или нижнего колонтитула, в отличии от остальных страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, typing the markup &lt;f1&gt;5 times 4&lt;/f1&gt; into the Formula Editor creates the simple formula &lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094809Z" creationid="Роман" creationdate="20180316T094809Z">
+        <seg>Например, ввод на языке разметки &lt;f1&gt;5 times 4&lt;/f1&gt; в Редакторе формул создаст простую формулу &lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2565,6 +2581,14 @@ denkin: исправил на "могли бы"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180312T071613Z" creationid="User" creationdate="20180312T071613Z">
         <seg>Больше информации о создании формул изложено в разделе “&lt;bf5&gt;Создание формул&lt;/bf5&gt;” на странице &lt;bf6&gt;8&lt;/bf6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For some seldom-used commands, you must always enter the command using the markup language.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094550Z" creationid="Роман" creationdate="20180316T094550Z">
+        <seg>Для некоторых редкоиспользуемых команд нужно всегда использовать ввод формулы на языке разметки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4341,6 +4365,22 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T190252Z" creationid="olex" creationdate="20180306T190252Z">
         <seg>Многие люди форматируют вручную абзацы, слова, таблицы, макеты страниц и другие части их документов, не обращая внимания на стили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Markup language</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094638Z" creationid="Роман" creationdate="20180316T094638Z">
+        <seg>Язык разметки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Markup language&lt;ie0/&gt; is entered directly into the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094656Z" creationid="Роман" creationdate="20180316T094656Z">
+        <seg>Язык разметки&lt;ie0/&gt; вводится прямо в Редакторе формул.</seg>
       </tuv>
     </tu>
     <tu>
