@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -234,8 +234,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Page styles&lt;/f0&gt; include margins, headers and footers, borders and backgrounds.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180307T180850Z" creationid="olex" creationdate="20180307T175955Z">
-        <seg>&lt;f0&gt; Стили страницы &lt;/f0&gt; включают поля, верхние и нижние колонтитулы, границы и фон.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T154610Z" creationid="olex" creationdate="20180307T175955Z">
+        <seg>&lt;f0&gt;Стили страницы&lt;/f0&gt; включают поля, верхние и нижние колонтитулы, границы и фон.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2677,8 +2677,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>For example, Writer relies on heading styles (or other styles you specify) when it compiles a table of contents.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T202113Z" creationid="olex" creationdate="20180306T202113Z">
-        <seg>Например, Writer опирается на стили заголовков (или другие стили, которые вы укажете), когда автоматически создает содержание документа.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T140949Z" creationid="olex" creationdate="20180306T202113Z">
+        <seg>Например, Writer опирается на стили заголовков (или другие стили, которые вы укажете), когда создает содержание документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6174,8 +6174,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Some common examples of style use are given in “&lt;rf0&gt;Examples of style use&lt;/rf0&gt;” on page &lt;rf1&gt;22&lt;/rf1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T093520Z" creationid="olex" creationdate="20180306T202437Z">
-        <seg>Некоторые общие примеры использования стилей приведены в «&lt;rf0&gt; Примеры использования стиля &lt;/rf0&gt;» на странице &lt;rf1&gt; 22 &lt;/rf1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T141031Z" creationid="olex" creationdate="20180306T202437Z">
+        <seg>Некоторые общие примеры использования стилей приведены в «&lt;rf0&gt;Примеры использования стиля&lt;/rf0&gt;» на странице &lt;rf1&gt;22&lt;/rf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
