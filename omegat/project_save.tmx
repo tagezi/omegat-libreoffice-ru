@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7393,6 +7393,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These placeholders must then be replaced with real numbers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173839Z" creationid="Роман" creationdate="20180317T173839Z">
+        <seg>Эти заполнители должны быть затем заменены на настоящие числа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They also make major formatting changes easy.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T135452Z" creationid="olex" creationdate="20180306T201330Z">
@@ -7558,8 +7566,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>This method initially places the formula text &lt;f0&gt;&lt;?&gt; times &lt;?&gt;&lt;/f0&gt; in the Formula Editor and the symbol &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;appears in the document.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173506Z" creationid="Роман" creationdate="20180317T173506Z">
-        <seg>This method initially places the formula text &lt;f0&gt;&lt;?&gt; times &lt;?&gt;&lt;/f0&gt; in the Formula Editor and the symbol &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;appears in the document.</seg>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173746Z" creationid="Роман" creationdate="20180317T173506Z">
+        <seg>Этот метод This method initially places the formula text &lt;f0&gt;&lt;?&gt; times &lt;?&gt;&lt;/f0&gt; in the Formula Editor and the symbol &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;appears in the document.</seg>
       </tuv>
     </tu>
     <tu>
