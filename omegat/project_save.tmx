@@ -424,7 +424,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>Тут странно звучит первод a set of formats. Нужно подумать над синонимам для format.</note>
       <tuv lang="EN-US">
         <seg>A &lt;f0&gt;style&lt;/f0&gt; is a set of formats that you can apply to selected pages, text, frames, and other elements in your document to quickly change their appearance.</seg>
       </tuv>
@@ -2840,7 +2839,8 @@ denkin: по смыслу как то не могу вписать "озадач
       <note>LG: TODO: Подумать над might. При прямом перводе получается какойто NLP, а не объяснение. Но менять на настоящее время теряеться смысл. Возможно, хорошим варианто м будет "можно было бы". Не уверен.
 any formatting = любое форматирование
 Форматирование описывается до и после such as, возможно нужно упрощать английский вариант.
-denkin: исправил на "могли бы"</note>
+denkin: исправил на "могли бы"
+LG:DONE</note>
       <tuv lang="EN-US">
         <seg>For example, you might specify the font family, font size, and any formatting such as bold or italic, like a typewriter described above.</seg>
       </tuv>
@@ -7356,7 +7356,8 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
     </tu>
     <tu>
-      <note>LG: TODO: Подумать над physical attributes. См. обсуждение на форуме http://forumooo.ru/index.php/topic,7016.msg45690.html#msg45690</note>
+      <note>LG: TODO: Подумать над physical attributes. См. обсуждение на форуме http://forumooo.ru/index.php/topic,7016.msg45690.html#msg45690
+LG:DONE</note>
       <tuv lang="EN-US">
         <seg>They are used to writing documents according to &lt;f0&gt;physical&lt;/f0&gt; attributes.</seg>
       </tuv>
