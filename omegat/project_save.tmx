@@ -5004,8 +5004,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>New documents created from this template will all have your company’s logo on the first page.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T020041Z" creationid="olex" creationdate="20180306T175620Z">
-        <seg>Новые документы, созданные на основе этого шаблона, будут иметь логотип вашей компании на первой странице.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T132330Z" creationid="olex" creationdate="20180306T175620Z">
+        <seg>Все новые документы, созданные на основе этого шаблона, будут иметь логотип вашей компании на первой странице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6422,7 +6422,6 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
-      <note>LG: user-specific = специфичной для пользователя - по мне звучит нормально и вполне допустимо. Вопрос возникает с setup information = данные наладки, то есть, user-specific setup information = пользоваетльские (специфичные для пользователя) данные наладки. Это из автоматизации термин. Ничего в голову не приходит, но первоначальный первод мне по ухам режет.</note>
       <tuv lang="EN-US">
         <seg>Templates can contain anything that regular documents can contain, such as text, graphics, a set of styles, and user-specific setup information such as measurement units, language, the default printer, and toolbar and menu customization.</seg>
       </tuv>
@@ -8820,12 +8819,11 @@ denkin: исправил на "включает"</note>
       </tuv>
     </tu>
     <tu>
-      <note>LG: specific я бы переводил прямо калькой специфичный, но можно "соответствующий конкретным требованиям", второе вообще, помоему идеально передает смысл  звучит приятно. </note>
       <tuv lang="EN-US">
         <seg>You can create a specific template for any document type (text, spreadsheet, drawing, presentation).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T180207Z" creationid="olex" creationdate="20180306T180207Z">
-        <seg>Можно создать определенный шаблон для любого типа документа (текст, таблица, рисунок, презентация).</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T132558Z" creationid="olex" creationdate="20180306T180207Z">
+        <seg>Можно создать шаблон соответствующий конкретным требованиям для любого типа документа (текст, таблица, рисунок, презентация).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9713,8 +9711,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>styles</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T115736Z" creationid="olex" creationdate="20180306T183621Z">
-        <seg>стиль</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T132100Z" creationid="olex" creationdate="20180306T183621Z">
+        <seg>стили</seg>
       </tuv>
     </tu>
     <tu>
@@ -9745,8 +9743,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>template</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180310T201122Z" creationid="olex" creationdate="20180306T175031Z">
-        <seg>шаблона</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T132156Z" creationid="olex" creationdate="20180306T175031Z">
+        <seg>шаблон</seg>
       </tuv>
     </tu>
     <tu>
@@ -9761,8 +9759,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>types supported</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T183637Z" creationid="olex" creationdate="20180306T183637Z">
-        <seg>Поддерживаемые типы</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T132038Z" creationid="olex" creationdate="20180306T183637Z">
+        <seg>поддерживаемые типы</seg>
       </tuv>
     </tu>
     <tu>
