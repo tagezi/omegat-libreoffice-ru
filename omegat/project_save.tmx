@@ -6094,8 +6094,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Select the first placeholder &lt;f0&gt;&lt;?&gt;&lt;/f0&gt; before the word &lt;f1&gt;times&lt;/f1&gt; in the Formula Editor and replace it with the character &lt;f2&gt;5&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173311Z" creationid="Роман" creationdate="20180317T173311Z">
-        <seg>Select the first placeholder &lt;f0&gt;&lt;?&gt;&lt;/f0&gt; before the word &lt;f1&gt;times&lt;/f1&gt; in the Formula Editor and replace it with the character &lt;f2&gt;5&lt;/f2&gt;.</seg>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173402Z" creationid="Роман" creationdate="20180317T173311Z">
+        <seg>Вделите первый заполнитель &lt;f0&gt;&lt;?&gt;&lt;/f0&gt; перед словом &lt;f1&gt;times&lt;/f1&gt; в Редакторе формул и замените его на символ &lt;f2&gt;5&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6104,6 +6104,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T202333Z" creationid="olex" creationdate="20180310T202333Z">
         <seg>Выберите необходимый шаблон и нажмите &lt;f0&gt;OK&lt;/f0&gt;, или нажмите дважды на выбранном шаблоне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the second placeholder &lt;f0&gt;&lt;?&gt;&lt;/f0&gt; after the word &lt;f1&gt;times&lt;/f1&gt; in the Formula Editor and replace it with the character &lt;f2&gt;4&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173452Z" creationid="Роман" creationdate="20180317T173452Z">
+        <seg>Выделите второй заполнитель &lt;f0&gt;&lt;?&gt;&lt;/f0&gt; после слова &lt;f1&gt;times&lt;/f1&gt; в Редакторе формул и замените его на символ &lt;f2&gt;4&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6990,6 +6998,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The formula in the document updates automatically.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173415Z" creationid="Роман" creationdate="20180317T173415Z">
+        <seg>Формула в документе обновится автоматически.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The four essential rights of open-source software are embodied within the Free Software Foundation’s &lt;f0&gt;General Public License&lt;/f0&gt; (GPL):</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T205112Z" creationid="lera" creationdate="20180303T205112Z">
@@ -7536,6 +7552,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T183605Z" creationid="tagezi" creationdate="20180312T183306Z">
         <seg>Это означает, что вы должны снова копировать свою информацию для повторения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This method initially places the formula text &lt;f0&gt;&lt;?&gt; times &lt;?&gt;&lt;/f0&gt; in the Formula Editor and the symbol &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;appears in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173506Z" creationid="Роман" creationdate="20180317T173506Z">
+        <seg>This method initially places the formula text &lt;f0&gt;&lt;?&gt; times &lt;?&gt;&lt;/f0&gt; in the Formula Editor and the symbol &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;appears in the document.</seg>
       </tuv>
     </tu>
     <tu>
