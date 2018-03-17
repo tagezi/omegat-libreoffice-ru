@@ -93,6 +93,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;df12&gt;&lt;d13/&gt;&lt;di14/&gt;&lt;s15&gt;formula&lt;/s15&gt;&lt;/df12&gt;appears in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180317T174032Z" creationid="Роман" creationdate="20180317T174032Z">
+        <seg>&lt;df12&gt;&lt;d13/&gt;&lt;di14/&gt;&lt;s15&gt;formula&lt;/s15&gt;&lt;/df12&gt;appears in the document.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>проверка примечаний</note>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;4&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Where to get more help&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
@@ -7926,6 +7934,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To move forward from one placeholder to the next placeholder in a formula, press the &lt;f0&gt;F4&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180317T174103Z" creationid="Роман" creationdate="20180317T174103Z">
+        <seg>To move forward from one placeholder to the next placeholder in a formula, press the &lt;f0&gt;F4&lt;/f0&gt; key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To open the Templates dialog from the Start Center, click on the &lt;f0&gt;Templates&lt;/f0&gt; button in the left pane.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T203953Z" creationid="olex" creationdate="20180310T203953Z">
@@ -8035,6 +8051,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T203734Z" creationid="olex" creationdate="20180307T203734Z">
         <seg>Чтобы использовать его для применения стилей:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To use markup language, enter &lt;f11&gt;5 times 4&lt;/f11&gt; in the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180317T174022Z" creationid="Роман" creationdate="20180317T174022Z">
+        <seg>Для использования языка разметки введите &lt;f11&gt;5 times 4&lt;/f11&gt; в Редакторе формул.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8341,6 +8365,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201509Z" creationid="Роман" creationdate="20180316T201509Z">
         <seg>Использование языка разметки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using markup language in the Formula Editor places the formula &lt;f5&gt;&lt;df6&gt;&lt;d7/&gt;&lt;di8/&gt;&lt;s9&gt;formula&lt;/s9&gt;&lt;/df6&gt;&lt;/f5&gt;&lt;s10/&gt;directly into the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173954Z" creationid="Роман" creationdate="20180317T173954Z">
+        <seg>Использование языка разметки в Редакторе формул помещает формулу &lt;f5&gt;&lt;df6&gt;&lt;d7/&gt;&lt;di8/&gt;&lt;s9&gt;formula&lt;/s9&gt;&lt;/df6&gt;&lt;/f5&gt;&lt;s10/&gt;прямо в документе.</seg>
       </tuv>
     </tu>
     <tu>
