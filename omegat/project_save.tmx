@@ -3596,8 +3596,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If you do not specify a template when you start a new document, then the document is based on the default template for that type of document.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T180600Z" creationid="olex" creationdate="20180306T180600Z">
-        <seg>Если вы не указали шаблон, когда создавали новый документ, то этот документ создается из шаблона по умолчанию для данного типа документа.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T123218Z" creationid="olex" creationdate="20180306T180600Z">
+        <seg>Если вы не указываете шаблон, когда создаете новый документ, то этот документ создается из шаблона по умолчанию для данного типа документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6428,8 +6428,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Templates can contain anything that regular documents can contain, such as text, graphics, a set of styles, and user-specific setup information such as measurement units, language, the default printer, and toolbar and menu customization.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T022005Z" creationid="olex" creationdate="20180306T175946Z">
-        <seg>Шаблоны могут содержать любой элемент обычных документов, такой как: текст, графика, набор стилей, и настройки специфичной для пользователя информации например: единицы измерения, язык, принтер по умолчанию, настройки панели инструментов и меню.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T123001Z" creationid="olex" creationdate="20180306T175946Z">
+        <seg>Шаблоны могут содержать любой элемент обычных документов, такой как: текст, графика, набор стилей, и настройки специфичные для пользователя, например: единицы измерения, язык, принтер по умолчанию, настройки панели инструментов и меню.</seg>
       </tuv>
     </tu>
     <tu>
