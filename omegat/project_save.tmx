@@ -2844,8 +2844,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>For example, you might specify the font family, font size, and any formatting such as bold or italic, like a typewriter described above.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T144940Z" creationid="olex" creationdate="20180306T190748Z">
-        <seg>Например, вы могли бы указать семейство шрифтов, размер шрифта и форматирование, такое как полужирный шрифт или курсив, как при использовании печатной машинки, описанном выше.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T133944Z" creationid="olex" creationdate="20180306T190748Z">
+        <seg>Например, вы могли бы указать семейство шрифтов, размер шрифта и другое форматирование, такое как полужирный шрифт или курсив, как при использовании печатной машинки, описанном выше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8285,8 +8285,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>Using styles means that you stop saying “font size 14pt, Times New Roman, bold, centered” and you start saying “Title” because you have defined the “Title” style to have those characteristics.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T152514Z" creationid="olex" creationdate="20180306T192729Z">
-        <seg>Использование стилей означает, что вы остановились, сказав: "шрифт размером 14pt, Times New Roman, полужирный, по центру",— и называете это "Заголовок", потому что вы определили стиль "Заголовок", который включает такие характеристики.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T134723Z" creationid="olex" creationdate="20180306T192729Z">
+        <seg>Использование стилей означает, что вы остановились, говоря: "шрифт размером 14pt, Times New Roman, полужирный, по центру",— и и начинаете говорить "Заголовок", потому что вы уже определили стиль "Заголовок", который включает такие характеристики.</seg>
       </tuv>
     </tu>
     <tu>
