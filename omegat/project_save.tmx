@@ -5699,6 +5699,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pasting the value also pasted an extra space, so press &lt;f0&gt;Backspace&lt;/f0&gt; to remove the extra space.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T212703Z" creationid="tagezi" creationdate="20180318T212703Z">
+        <seg>Вставка значения также добавляет дополнительный пробел, поэтому нажмите &lt;f0&gt;Backspace&lt;/f0&gt; для удаления лишнего лишнего пробела.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>People improve it, people adapt it, people fix bugs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T075606Z" creationid="lera" creationdate="20180303T211954Z">
@@ -5755,6 +5763,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;Backspace&lt;/f0&gt; twice to remove the two trailing spaces.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T212158Z" creationid="tagezi" creationdate="20180318T212158Z">
+        <seg>Нажмите дважды &lt;f0&gt;Backspace&lt;/f0&gt; для удаления двух конечных пробела.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press &lt;f0&gt;Ctrl+C&lt;/f0&gt; to copy the selected text to the clipboard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T212053Z" creationid="tagezi" creationdate="20180318T212053Z">
@@ -5787,6 +5803,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;Ctrl+V&lt;/f0&gt; to paste the selected number to the start of the line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T212535Z" creationid="tagezi" creationdate="20180318T212535Z">
+        <seg>Нажмите &lt;f0&gt;Ctrl+V&lt;/f0&gt; для вставки выбранного номера в начало строки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press &lt;f0&gt;Delete&lt;/f0&gt; to delete the lower case s and then press &lt;f1&gt;Shift+S&lt;/f1&gt; to add an upper case S.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T211801Z" creationid="tagezi" creationdate="20180318T211801Z">
@@ -5795,10 +5819,50 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;End&lt;/f0&gt; to move the cursor to the end of the line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T212116Z" creationid="tagezi" creationdate="20180318T212116Z">
+        <seg>Нажмите &lt;f0&gt;End&lt;/f0&gt; для перемещения курсора в конец строки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;Home&lt;/f0&gt; to move the cursor to the start of the line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T212228Z" creationid="tagezi" creationdate="20180318T212228Z">
+        <seg>Нажмите &lt;f0&gt;Home&lt;/f0&gt; для перемещения курсора к началу строки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;Home&lt;/f0&gt; to move to the start of the line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T212842Z" creationid="tagezi" creationdate="20180318T212842Z">
+        <seg>Нажмите &lt;f0&gt;Home&lt;/f0&gt; для перехода к началу строки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press &lt;f0&gt;Tab&lt;/f0&gt; to add the tab without the space after the constant name.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T211450Z" creationid="tagezi" creationdate="20180318T211450Z">
         <seg>Нажмите &lt;f0&gt;Tab&lt;/f0&gt; для добавления табуляции без пробела после имени константы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;Tab&lt;/f0&gt; to insert a tab between the number and the name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T212819Z" creationid="tagezi" creationdate="20180318T212819Z">
+        <seg>Нажмите &lt;f0&gt;Tab&lt;/f0&gt; вставить табуляцию между цифрой и именем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;down arrow&lt;/f0&gt; to move to the next line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T213009Z" creationid="tagezi" creationdate="20180318T213009Z">
+        <seg>Нажмите &lt;f0&gt;Стрелку вниз&lt;/f0&gt; для перехода к следующей строке.</seg>
       </tuv>
     </tu>
     <tu>
