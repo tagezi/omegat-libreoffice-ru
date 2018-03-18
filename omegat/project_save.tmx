@@ -5811,6 +5811,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reformat the text with tabs between columns so that it can be converted into a table using &lt;f0&gt;Table &gt; Convert &gt; Text to Table&lt;/f0&gt; on the main menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T194846Z" creationid="tagezi" creationdate="20180318T194846Z">
+        <seg>Отформатируйте заново текст с табуляцией между столбцами, чтобы его можно было преобразовать в таблицу, выбрав в меню &lt;f0&gt;Таблица &gt; Преобразовать &gt; Текст в Таблицу&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repeat step 3 until you have made all the changes for that style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T164609Z" creationid="olex" creationdate="20180308T164609Z">
