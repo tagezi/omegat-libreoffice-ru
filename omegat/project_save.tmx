@@ -10124,6 +10124,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>specifies a 200% font weight.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T205932Z" creationid="tagezi" creationdate="20180318T205932Z">
+        <seg>определяет насыщенность шрифта 200%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>specifies a 50% font weight.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T205806Z" creationid="tagezi" creationdate="20180318T205806Z">
@@ -10152,6 +10160,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T205845Z" creationid="tagezi" creationdate="20180318T205845Z">
         <seg>определяет насыщенность шрифта 90%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>specifies a normal font weight.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T205954Z" creationid="tagezi" creationdate="20180318T205954Z">
+        <seg>определяет нормальную насыщенность шрифта.</seg>
       </tuv>
     </tu>
     <tu>
