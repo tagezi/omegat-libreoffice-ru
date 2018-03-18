@@ -321,6 +321,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;args1&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value &lt;/f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;"Your name"&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T171027Z" creationid="tagezi" creationdate="20180318T171027Z">
+        <seg>&lt;f0&gt;args1&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value &lt;/f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;"Ваше имя"&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s2/&gt;Or, alternatively, position the cursor in the table to be formatted and double click on a style listed in the &lt;f3&gt;Table Styles&lt;/f3&gt; tab of the &lt;f4&gt;Styles&lt;/f4&gt; menu or the &lt;f5&gt;sidebar&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T204929Z" creationid="olex" creationdate="20180316T204929Z">
@@ -3212,8 +3220,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Gives the property the name “Text” and the value “Your name”, which is the text that is inserted when the macro is run.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T160112Z" creationid="tagezi" creationdate="20180318T160112Z">
-        <seg>Присваивает свойству имя «Текст» и значение «Ваше имя», которое является вставляемым текстом при запуске макроса.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T171059Z" creationid="tagezi" creationdate="20180318T160112Z">
+        <seg>Присваивает свойству имя «Text» и значение «Ваше имя», которое является вставляемым текстом при запуске макроса.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3725,8 +3733,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If you have to repeatedly enter the same information, you can copy this information after it has been entered into your document for the first time, then paste the information into your document each time you want to use it.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T182813Z" creationid="tagezi" creationdate="20180312T182813Z">
-        <seg>Если вам нужно повторно вводить одну и ту же информацию, после ее ввода в свой документ в первый раз, вы можете скопировать эту информацию , а затем вставлять информацию в свой документ каждый раз, когда хотите ее использовать.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T171411Z" creationid="tagezi" creationdate="20180312T182813Z">
+        <seg>Если вам нужно повторно вводить одну и ту же информацию, после ее ввода в свой документ в первый раз, вы можете скопировать эту информацию, а затем вставлять информацию в свой документ каждый раз, когда хотите ее использовать.</seg>
       </tuv>
     </tu>
     <tu>
