@@ -2932,8 +2932,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>For some types of information that you want to repeatedly enter into a document, it may be more convenient to create an AutoText file.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T090558Z" creationid="tagezi" creationdate="20180313T090558Z">
-        <seg>Для некоторых типов информации, которую вы хотите повторно вводить в документ, может быть удобнее создать файл AutoText</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T081252Z" creationid="tagezi" creationdate="20180313T090558Z">
+        <seg>Для некоторых типов информации, которую вы хотите повторно вводить в документ, может быть удобнее создать файл AutoText.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6606,6 +6606,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The EnterMyName macro is not as complicated as it first appears.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T082019Z" creationid="tagezi" creationdate="20180318T082019Z">
+        <seg>Макрос EnterMyName не сильно сложный когда он только что создан.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Extension Manager provides an easy way to install collections of templates that have been packaged as extensions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T204346Z" creationid="olex" creationdate="20180312T204346Z">
@@ -8083,8 +8091,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Type a descriptive name for the new module, for example &lt;f0&gt;Recorded&lt;/f0&gt;, and click &lt;f1&gt;OK&lt;/f1&gt; to create the module.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180314T073645Z" creationid="tagezi" creationdate="20180313T135621Z">
-        <seg>Введите имя, описывающее назначение нового модуля, например &lt;f0&gt;Recorded&lt;/f0&gt;, и нажмите &lt;f1&gt;ОК&lt;/f1&gt; ОК для его создания..</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T081319Z" creationid="tagezi" creationdate="20180313T135621Z">
+        <seg>Введите имя, описывающее назначение нового модуля, например &lt;f0&gt;Recorded&lt;/f0&gt;, и нажмите &lt;f1&gt;ОК&lt;/f1&gt; ОК для его создания.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8589,8 +8597,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>When a new module is created, it contains a comment and an empty macro named Main, which does nothing.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132010Z" creationid="tagezi" creationdate="20180312T132010Z">
-        <seg>При создании нового модуля, он содержит комментарий и пустой макрос с именем Main, который ничего не делает</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T081159Z" creationid="tagezi" creationdate="20180312T132010Z">
+        <seg>При создании нового модуля, он содержит комментарий и пустой макрос с именем Main, который ничего не делает.</seg>
       </tuv>
     </tu>
     <tu>
