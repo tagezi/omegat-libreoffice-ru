@@ -1736,8 +1736,8 @@
       <tuv lang="EN-US">
         <seg>CurrentController then dispatches the changes to the document frame.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T163204Z" creationid="tagezi" creationdate="20180316T163204Z">
-        <seg>Затем CurrentController отправляет изменения в кадр документа.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T084614Z" creationid="tagezi" creationdate="20180316T163204Z">
+        <seg>Затем CurrentController отправляет изменения в каркас документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2773,8 +2773,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>For example, when you type, it is the current controller that takes note of what you type.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T162804Z" creationid="tagezi" creationdate="20180316T132049Z">
-        <seg>Например, когда вы печатаете, CurrentController принимает к сведению то, что вы вводите.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T083900Z" creationid="tagezi" creationdate="20180316T132049Z">
+        <seg>Например, когда вы печатаете, CurrentController учитывает то, что вы вводите.</seg>
       </tuv>
     </tu>
     <tu>
