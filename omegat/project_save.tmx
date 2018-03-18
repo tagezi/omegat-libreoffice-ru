@@ -497,6 +497,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A more &lt;i0/&gt;complicated example of a macro</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T164454Z" creationid="tagezi" creationdate="20180318T164454Z">
+        <seg>Более &lt;i0/&gt;сложный пример макроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A more complex example would be: &lt;f3&gt;Title&lt;/f3&gt; followed by &lt;f4&gt;Author&lt;/f4&gt; followed by &lt;f5&gt;Abstract&lt;/f5&gt; followed by &lt;f6&gt;Heading 1&lt;/f6&gt; followed by &lt;f7&gt;Text Body&lt;/f7&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T203658Z" creationid="olex" creationdate="20180316T203658Z">
@@ -1193,6 +1201,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T081531Z" creationid="tagezi" creationdate="20180306T081531Z">
         <seg>Calc (электронные таблицы)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can the steps be arranged so that the last command leaves the cursor ready for the next command or entering text or data into the document?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T164415Z" creationid="tagezi" creationdate="20180318T164415Z">
+        <seg>Могут ли шаги быть организованы так, чтобы последняя команда оставила курсор готовым для следующей команды или ввода текста или данных в документ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can the task be written as a simple set of commands?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T164012Z" creationid="tagezi" creationdate="20180318T164012Z">
+        <seg>Может ли задача быть записана как простой набор команд?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7182,6 +7206,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The last line of the code ends the subroutine.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T163637Z" creationid="tagezi" creationdate="20180318T163637Z">
+        <seg>Последняя строка кода завершает подпрограмму.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The list shows the names of existing custom styles of the selected type.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203316Z" creationid="olex" creationdate="20180309T203316Z">
@@ -8755,6 +8787,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When creating a macro, it is important to ask two questions before recording:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T163849Z" creationid="tagezi" creationdate="20180318T163849Z">
+        <seg>При создании макроса важно задать два вопроса перед записью:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When opening .htm or .html files (used for web pages), LibreOffice customizes Writer for working with these files.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153334Z" creationid="tagezi" creationdate="20180304T153334Z">
@@ -9572,6 +9612,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>creating</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T163649Z" creationid="tagezi" creationdate="20180318T163649Z">
+        <seg>создание</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>creating by dragging and dropping</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203644Z" creationid="olex" creationdate="20180309T203644Z">
@@ -9688,6 +9736,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T191109Z" creationid="olex" creationdate="20180311T191109Z">
         <seg>редактирование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>example</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T164423Z" creationid="tagezi" creationdate="20180318T164423Z">
+        <seg>пример</seg>
       </tuv>
     </tu>
     <tu>
