@@ -7142,6 +7142,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first column in this example indicates a constant name and each name is followed by a space and a tab, and each line has two trailing spaces.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T202902Z" creationid="tagezi" creationdate="20180318T202902Z">
+        <seg>Первый столбец в этом примере указывает имя константы, а за каждым именем следует пробел и табуляция, и у каждой строки два конечных пробела.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first step in learning macro programming is to find and &lt;i0/&gt;use existing macros.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T124033Z" creationid="tagezi" creationdate="20180311T124033Z">
