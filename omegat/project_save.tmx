@@ -2176,6 +2176,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example 2</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180318T122809Z" creationid="Роман" creationdate="20180318T122809Z">
+        <seg>Пример 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example formulas are shown below.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T204353Z" creationid="User" creationdate="20180307T204353Z">
@@ -3210,6 +3218,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;View&lt;/f0&gt; on the menu bar and deselect &lt;f1&gt;AutoUpdate display&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180318T122200Z" creationid="Роман" creationdate="20180318T122200Z">
+        <seg>выберите пункт меню &lt;f0&gt;Вид&lt;/f0&gt; и снимите флажок с пункта &lt;f1&gt;Автообновление экрана&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;View&lt;/f0&gt; on the menu bar and select &lt;f1&gt;Elements&lt;/f1&gt; to open the &lt;i2/&gt;Elements window.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T093803Z" creationid="Роман" creationdate="20180316T093725Z">
@@ -3470,6 +3486,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T191248Z" creationid="olex" creationdate="20180308T181504Z">
         <seg>Если в нем смешаны различные размеры шрифта или разные стили шрифтов, то эти различные настройки останутся такими же, как раньше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If necessary, you can prevent a formula in a document from updating automatically.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180318T122108Z" creationid="Роман" creationdate="20180318T122108Z">
+        <seg>Если необходимо, можно предотвратить автоматическое обновление формулы в документе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8051,6 +8075,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T192251Z" creationid="tagezi" creationdate="20180310T192251Z">
         <seg>Для начала ознакомьтесь с этой страницей: &lt;a0&gt;https://www.libreoffice.org/community/get-involved/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To then manually update a formula, press &lt;f2&gt;F9&lt;/f2&gt; key or select &lt;f3&gt;View &gt; Update&lt;/f3&gt; on the menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180318T122253Z" creationid="Роман" creationdate="20180318T122253Z">
+        <seg>Для ручного обновления формулы нажмите клавишу &lt;f2&gt;F9&lt;/f2&gt; или выберите пункт меню &lt;f3&gt;Вид &gt; Обновить&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
