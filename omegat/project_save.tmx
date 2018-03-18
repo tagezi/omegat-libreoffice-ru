@@ -7142,6 +7142,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first column in the table should contain a numeric value, the second column the name, and the third column the description.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T203124Z" creationid="tagezi" creationdate="20180318T203124Z">
+        <seg>Первый столбец в таблице должен содержать числовое значение, во втором столбце - имя, а в третьем столбце - описание.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first column in this example indicates a constant name and each name is followed by a space and a tab, and each line has two trailing spaces.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T202902Z" creationid="tagezi" creationdate="20180318T202902Z">
@@ -7695,6 +7703,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T094952Z" creationid="tagezi" creationdate="20180311T094842Z">
         <seg>Эта глава основана на &lt;f0&gt;Руководстве LibreOffice 5.2 Math&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This conversion is easily accomplished for every row except for DONTKNOW and NORMAL, which do not contain a numeric value, but the values are between 0 and 100 and can be entered manually.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T205421Z" creationid="tagezi" creationdate="20180318T205421Z">
+        <seg>Это преобразование легко выполняется для каждой строки, за исключением DONTKNOW и NORMAL, которые не содержат числового значения, но значения находятся между 0 и 100 и могут вводиться вручную.</seg>
       </tuv>
     </tu>
     <tu>
