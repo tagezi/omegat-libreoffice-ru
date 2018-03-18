@@ -5747,6 +5747,62 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;Backspace&lt;/f0&gt; twice to remove the tab and the space.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T211324Z" creationid="tagezi" creationdate="20180318T211324Z">
+        <seg>Нажмите дважды &lt;f0&gt;Backspace&lt;/f0&gt; для удаления табуляции и пробела.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;Ctrl+C&lt;/f0&gt; to copy the selected text to the clipboard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T212053Z" creationid="tagezi" creationdate="20180318T212053Z">
+        <seg>Нажмите &lt;f0&gt;Ctrl+C&lt;/f0&gt; для копирования выделенного текста в буфер обмена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;Ctrl+Right Arrow&lt;/f0&gt; to move the cursor to the start of “specifies”.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T211217Z" creationid="tagezi" creationdate="20180318T211217Z">
+        <seg>Нажмите &lt;f0&gt;Ctrl+Стрелка Вправо&lt;/f0&gt; для перемещения курсора в начало «определяет».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;Ctrl+Right Arrow&lt;/f0&gt; twice to move the cursor to the start of the number.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T211857Z" creationid="tagezi" creationdate="20180318T211857Z">
+        <seg>Нажмите дважды&lt;f0&gt;Ctrl+Стрелка Вправо&lt;/f0&gt; для перемещения курсора к началу цифры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;Ctrl+Shift+Right Arrow&lt;/f0&gt; to select and move the cursor before the % sign.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T211940Z" creationid="tagezi" creationdate="20180318T211940Z">
+        <seg>Нажмите &lt;f0&gt;Ctrl+Shift+Стрелка Вправо&lt;/f0&gt; для выбора и перемещения курсора до знака %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;Delete&lt;/f0&gt; to delete the lower case s and then press &lt;f1&gt;Shift+S&lt;/f1&gt; to add an upper case S.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T211801Z" creationid="tagezi" creationdate="20180318T211801Z">
+        <seg>Нажмите &lt;f0&gt;Delete&lt;/f0&gt; для удаления о в нижнем регистре, а затем нажмите &lt;f1&gt;Shift+S&lt;/f1&gt; для добавления О в верхнем регистре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;Tab&lt;/f0&gt; to add the tab without the space after the constant name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T211450Z" creationid="tagezi" creationdate="20180318T211450Z">
+        <seg>Нажмите &lt;f0&gt;Tab&lt;/f0&gt; для добавления табуляции без пробела после имени константы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Publication date and software version</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T095944Z" creationid="lera" creationdate="20180303T152709Z">
