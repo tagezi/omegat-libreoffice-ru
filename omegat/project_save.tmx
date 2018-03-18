@@ -4555,8 +4555,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>LibreOffice includes&lt;i0/&gt; &lt;i1/&gt;a dispatch helper service, which does most of the work when using dispatches in macros.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T101153Z" creationid="tagezi" creationdate="20180318T101153Z">
-        <seg>LibreOffice включает&lt;i0/&gt; &lt;i1/&gt; сервис помощника отправок, which does most of the work when using dispatches in macros.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153142Z" creationid="tagezi" creationdate="20180318T101153Z">
+        <seg>LibreOffice включает&lt;i0/&gt; &lt;i1/&gt; сервис помощника отправок (DispatchHelper), который выполняет большую часть работы при использовании отправок команд в макросах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7157,6 +7157,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T084029Z" creationid="olex" creationdate="20180306T182844Z">
         <seg>Ручное форматирование или прямое форматирование выполняется, когда пользователь отдельно форматирует каждый элемент документа, страница за страницей, как это делалось во времена, когда в офисах использовались печатные машины.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The method CreateUnoService accepts the name of a service and it tries to create an instance of that service.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153252Z" creationid="tagezi" creationdate="20180318T153252Z">
+        <seg>Метод CreateUnoService принимает имя службы и пытается создать экземпляр этой службы.</seg>
       </tuv>
     </tu>
     <tu>
