@@ -3020,8 +3020,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Frame is a controller property that returns the main frame for a document.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T163316Z" creationid="tagezi" creationdate="20180316T163316Z">
-        <seg>Frame — это свойство контроллера, которое возвращает основной кадр для документа.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T084633Z" creationid="tagezi" creationdate="20180316T163316Z">
+        <seg>Frame — это свойство контроллера, которое возвращает основной каркас для документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4982,6 +4982,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T215532Z" creationid="tagezi" creationdate="20180304T153208Z">
         <seg>Большинство этих типов файлов автоматически определяются LibreOffice, и могут быть открыты без явного выбора типа документа в окне выбора файлов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most tasks in LibreOffice are accomplished by dispatching a command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T084839Z" creationid="tagezi" creationdate="20180318T084839Z">
+        <seg>Большинство задач в LibreOffice выполняются путем отправки команды.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7387,8 +7395,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>Therefore, the variable named document refers to a document’s frame, which receives dispatched commands.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T163628Z" creationid="tagezi" creationdate="20180316T163628Z">
-        <seg>Следовательно, переменная с именем document ссылается на кадр документа, который получает отправленные команды.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T084651Z" creationid="tagezi" creationdate="20180316T163628Z">
+        <seg>Следовательно, переменная с именем document ссылается на каркас документа, который получает отправленные команды.</seg>
       </tuv>
     </tu>
     <tu>
