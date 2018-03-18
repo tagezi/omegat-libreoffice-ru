@@ -2499,6 +2499,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Example of copied data</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T210033Z" creationid="tagezi" creationdate="20180318T210033Z">
+        <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: Пример скопированных данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Naming a new style created from a selection</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203623Z" creationid="olex" creationdate="20180309T203521Z">
@@ -3278,6 +3286,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060401Z" creationid="tagezi" creationdate="20180313T100601Z">
         <seg>Для начала записи макроса, выберите в меню &lt;f0&gt;Сервис &gt; Макросы &gt; Записать макрос&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Record Macro&lt;/f0&gt; on the main menu bar to start recording.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T211031Z" creationid="tagezi" creationdate="20180318T211031Z">
+        <seg>Выберите в главном меню&lt;f0&gt;Сервис &gt; Макросы &gt; Записать макросов&lt;/f0&gt;, чтобы начать запись.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7062,6 +7078,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The data can be cleaned up in several ways, all of them easy to accomplish.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T210103Z" creationid="tagezi" creationdate="20180318T210103Z">
+        <seg>Данные могут быть очищены несколькими способами, и все они легко выполняются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default location is your user templates directory, but you can choose a different location.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T185956Z" creationid="olex" creationdate="20180311T185749Z">
@@ -7130,6 +7154,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T113821Z" creationid="tagezi" creationdate="20180315T113821Z">
         <seg>Конец подпрограммы указывается при помощи ключевых слов END SUB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The example given below uses keystrokes that assume the cursor is at the start of the line with the text THIN.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T210922Z" creationid="tagezi" creationdate="20180318T210922Z">
+        <seg>В приведенном ниже примере предполагается, что курсор находится в начале строки с текстом THIN и используются нажатия клавиш.</seg>
       </tuv>
     </tu>
     <tu>
