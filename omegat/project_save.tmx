@@ -7174,6 +7174,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The last argument is the array of property values to be used while executing the command InsertText.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T163602Z" creationid="tagezi" creationdate="20180318T163602Z">
+        <seg>Последний аргумент - это массив значений свойств, которые используются при выполнении команды InsertText.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The list shows the names of existing custom styles of the selected type.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203316Z" creationid="olex" creationdate="20180309T203316Z">
@@ -7277,6 +7285,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T192421Z" creationid="olex" creationdate="20180313T192220Z">
         <seg>Когда вы будете создавать документ этого типа в следующий раз, выбрав &lt;f0&gt;Файл &gt; Создать,&lt;/f0&gt;, документ будет создан на основе этого шаблона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The next two arguments, frame name and search flags, are beyond the scope of this document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T163341Z" creationid="tagezi" creationdate="20180318T163341Z">
+        <seg>Следующие два аргумента, имя фрейма и флаги поиска, выходят за рамки этой книги.</seg>
       </tuv>
     </tu>
     <tu>
