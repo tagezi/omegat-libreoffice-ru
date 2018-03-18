@@ -1758,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Declares an array of properties.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153418Z" creationid="tagezi" creationdate="20180318T153418Z">
+        <seg>Объявляет массив свойств.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Defines dispatcher as an object variable.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T041237Z" creationid="tagezi" creationdate="20180316T041237Z">
@@ -2068,6 +2076,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T192933Z" creationid="olex" creationdate="20180316T192933Z">
         <seg>Каждая глава может начинаться со стиля &lt;f1&gt;Первая страница&lt;/f1&gt; со следующими страницами, в которых используется стиль страницы &lt;f2&gt;Базовый&lt;/f2&gt;, как указано выше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each property has a name and a value.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153516Z" creationid="tagezi" creationdate="20180318T153516Z">
+        <seg>Каждое свойство имеет имя и значение.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3170,6 +3186,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gives the property the name “Text” and the value “Your name”, which is the text that is inserted when the macro is run.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T160112Z" creationid="tagezi" creationdate="20180318T160112Z">
+        <seg>Присваивает свойству имя «Текст» и значение «Ваше имя», которое является вставляемым текстом при запуске макроса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Edit &gt; Paste&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+V&lt;/f1&gt;, to paste the contents from the old document into the new one.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T062016Z" creationid="olex" creationdate="20180313T200832Z">
@@ -4005,6 +4029,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T153005Z" creationid="tagezi" creationdate="20180310T153005Z">
         <seg>В большинстве случаев, пока диалоговое окно остается открытым, возможно взаимодействовать только с ним (а не с самим документом).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In other words, it is a name/value pair.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153555Z" creationid="tagezi" creationdate="20180318T153555Z">
+        <seg>Другими словами, это пара имя/значение.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5215,6 +5247,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T074644Z" creationid="lera" creationdate="20180303T164756Z">
         <seg>28 сентября 2010, сообщество добровольцев, которое разрабатывало и продвигало OpenOffice.org, объявило о значительных изменениях в структуре проекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On completion, the dispatcher variable contains a reference to a DispatchHelper.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153356Z" creationid="tagezi" creationdate="20180318T153356Z">
+        <seg>По завершении переменная dispatcher содержит ссылку на DispatchHelper.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6950,6 +6990,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The created array has one property at index zero.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153641Z" creationid="tagezi" creationdate="20180318T153641Z">
+        <seg>У созданного массива одно свойство с нулевым индексом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default location is your user templates directory, but you can choose a different location.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T185956Z" creationid="olex" creationdate="20180311T185749Z">
@@ -7608,6 +7656,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T100655Z" creationid="tagezi" creationdate="20180306T100655Z">
         <seg>Это первая линия поддержки использования LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is where the magic happens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T160448Z" creationid="tagezi" creationdate="20180318T160448Z">
+        <seg>Это то, где происходит волшебство.</seg>
       </tuv>
     </tu>
     <tu>
