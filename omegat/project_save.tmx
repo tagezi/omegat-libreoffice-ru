@@ -9252,6 +9252,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You know the name of the Greek character (pi), but do not know the markup associated with the &lt;f4&gt;Is Similar Or Equal&lt;/f4&gt; symbol&lt;f5&gt;&lt;df6&gt;&lt;d7/&gt;&lt;di8/&gt;&lt;s9&gt;formula&lt;/s9&gt;&lt;/df6&gt;&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180318T122925Z" creationid="Роман" creationdate="20180318T122925Z">
+        <seg>You know the name of the Greek character (pi), but do not know the markup associated with the &lt;f4&gt;Is Similar Or Equal&lt;/f4&gt; symbol&lt;f5&gt;&lt;df6&gt;&lt;d7/&gt;&lt;di8/&gt;&lt;s9&gt;formula&lt;/s9&gt;&lt;/df6&gt;&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may be asked to accept a license agreement.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T211104Z" creationid="olex" creationdate="20180312T211104Z">
@@ -9352,6 +9360,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T104051Z" creationid="tagezi" creationdate="20180310T104051Z">
         <seg>У вас должна быть возможность загружать другие наборы значков из репозитория программного обеспечения для вашего дистрибутива Linux, если вы хотите их использовать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You want to enter the formula&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt;where the value of pi is rounded to 5 decimal places.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180318T122851Z" creationid="Роман" creationdate="20180318T122851Z">
+        <seg>Вы хотите ввести формулу&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt;, в которой значение числа Пи округлено до 5 знаков после десятичной запятой.</seg>
       </tuv>
     </tu>
     <tu>
