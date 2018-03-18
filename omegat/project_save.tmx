@@ -7950,10 +7950,18 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To move backward from one placeholder to the previous placeholder in a formula, use the key combination &lt;f1&gt;Shift+F4&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180318T122000Z" creationid="Роман" creationdate="20180318T122000Z">
+        <seg>Для перемещения в обратном порядке от одного зполнителя к другому в формуле используйте сочетание клавиш &lt;f1&gt;Shift+F4&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To move forward from one placeholder to the next placeholder in a formula, press the &lt;f0&gt;F4&lt;/f0&gt; key.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Роман" changedate="20180317T174103Z" creationid="Роман" creationdate="20180317T174103Z">
-        <seg>To move forward from one placeholder to the next placeholder in a formula, press the &lt;f0&gt;F4&lt;/f0&gt; key.</seg>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180318T121924Z" creationid="Роман" creationdate="20180317T174103Z">
+        <seg>Для перемещения от одного заполнителя к другому в формуле нажимайте клавишу &lt;f0&gt;F4&lt;/f0&gt; key.</seg>
       </tuv>
     </tu>
     <tu>
