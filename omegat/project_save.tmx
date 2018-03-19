@@ -337,6 +337,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;rem (3) Press &lt;/f0&gt;&lt;f1&gt;Ctrl+Right Arrow&lt;/f1&gt;&lt;f2&gt; to move the cursor to the start of “specifies”.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T080923Z" creationid="tagezi" creationdate="20180319T080923Z">
+        <seg>&lt;f0&gt;rem (3) Нажмите &lt;/f0&gt;&lt;f1&gt;Ctrl+Стрелка Вправо&lt;/f1&gt;&lt;f2&gt; для перемещения курсора в начало слова «определяет».&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s2/&gt;Or, alternatively, position the cursor in the table to be formatted and double click on a style listed in the &lt;f3&gt;Table Styles&lt;/f3&gt; tab of the &lt;f4&gt;Styles&lt;/f4&gt; menu or the &lt;f5&gt;sidebar&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T204929Z" creationid="olex" creationdate="20180316T204929Z">
@@ -5845,8 +5853,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Press &lt;f0&gt;Ctrl+Right Arrow&lt;/f0&gt; twice to move the cursor to the start of the number.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T211857Z" creationid="tagezi" creationdate="20180318T211857Z">
-        <seg>Нажмите дважды&lt;f0&gt;Ctrl+Стрелка Вправо&lt;/f0&gt; для перемещения курсора к началу цифры.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T080645Z" creationid="tagezi" creationdate="20180318T211857Z">
+        <seg>Нажмите дважды &lt;f0&gt;Ctrl+Стрелка Вправо&lt;/f0&gt; для перемещения курсора к началу цифры.</seg>
       </tuv>
     </tu>
     <tu>
