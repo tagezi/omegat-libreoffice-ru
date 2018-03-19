@@ -3011,6 +3011,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, inserting an object generates the following code:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T175911Z" creationid="tagezi" creationdate="20180319T175911Z">
+        <seg>Например, вставка объекта генерирует следующий код:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, select your newly created macro EnterMyName and click &lt;f0&gt;Run&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T185346Z" creationid="tagezi" creationdate="20180313T185346Z">
@@ -3674,6 +3682,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How the macro recorder uses the dispatch framework</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T175347Z" creationid="tagezi" creationdate="20180319T175347Z">
+        <seg>Как запись макроса использует фреймворк отправки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to run a macro</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T142648Z" creationid="tagezi" creationdate="20180316T142648Z">
@@ -3798,6 +3814,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T201446Z" creationid="olex" creationdate="20180309T201446Z">
         <seg>Если в документе требуется пользовательские стили, созданные на основе базовых стилей, придумайте префикс имени пользовательских стилей из нескольких символов, чтобы различать их среди других стилей в списке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If an object is inserted from a file, you cannot specify which file to insert.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T180124Z" creationid="tagezi" creationdate="20180319T180124Z">
+        <seg>Если объект вставлен из файла — не указать, какой файл вставить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4613,6 +4637,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T155539Z" creationid="tagezi" creationdate="20180310T155539Z">
         <seg>Он основан на коде Apache OpenOffice, доступном в соответствии с Apache License 2.0, но также включает программное обеспечение под другими лицензиями на открытый исходный код, которое может отличать от версии к версии..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is not possible to specify what kind of object to create or insert.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T180001Z" creationid="tagezi" creationdate="20180319T180001Z">
+        <seg>Невозможно указать, какой объект создать или вставить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7805,6 +7837,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The macro recorder records the generated dispatches.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T175441Z" creationid="tagezi" creationdate="20180319T175441Z">
+        <seg>Запись макроса записывает сгенерированные пакеты.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG:TODO
 are dispatched = высылаются
 Dispatch framework = программный каркас отправки</note>
@@ -7921,10 +7961,26 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The problem is that not all &lt;t0/&gt;dispatched commands are complete.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T175846Z" creationid="tagezi" creationdate="20180319T175846Z">
+        <seg>Проблема в том, что не все &lt;t0/&gt;отправленные команды полные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The purpose of &lt;i0/&gt;&lt;i1/&gt;the dispatch framework is to provide uniform access to components (documents) for commands that usually correspond to menu items.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T173304Z" creationid="tagezi" creationdate="20180319T173304Z">
         <seg>Назначение &lt;i0/&gt;&lt;i1/&gt;фреймворка отправки — обеспечить единообразный доступ к компонентам (документам) для команд, которые обычно соответствуют элементам меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The recorder is relatively simple tool to use and the same commands that are issued are recorded for later use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T175747Z" creationid="tagezi" creationdate="20180319T175747Z">
+        <seg>Запись макроса является относительно простым инструментом для использования, и одни и те же команды, которые переданы, записываются для последующего использования.</seg>
       </tuv>
     </tu>
     <tu>
