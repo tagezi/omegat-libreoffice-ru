@@ -1677,6 +1677,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Run BASIC&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Macro toolbar, or press the &lt;f3&gt;F5&lt;/f3&gt; key, to run the macro.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T085603Z" creationid="tagezi" creationdate="20180319T085543Z">
+        <seg>Нажмите значок &lt;f0&gt;Выполнить&lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; на панели макросов, или нажмите клавишу &lt;f3&gt;F5&lt;/f3&gt; для запуска макроса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;f1&gt;From File&lt;/f1&gt; button to open a window from which to select the required document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T193103Z" creationid="olex" creationdate="20180310T193103Z">
@@ -5313,6 +5321,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modify Main so that it reads as shown in Listing &lt;t0&gt;5&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T085830Z" creationid="tagezi" creationdate="20180319T085830Z">
+        <seg>Измените Main так, чтобы он выглядел, как показано в Листинге &lt;t0&gt;5&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modifying styles</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194450Z" creationid="olex" creationdate="20180306T194450Z">
@@ -8837,6 +8853,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T063602Z" creationid="tagezi" creationdate="20180305T063602Z">
         <seg>Текст Unified Office Format (.uot, .uof)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless you change the first macro, it is the empty macro named Main.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T085748Z" creationid="tagezi" creationdate="20180319T085748Z">
+        <seg>Если вы не изменили первый макрос, этот макрос с именем Main пустой.</seg>
       </tuv>
     </tu>
     <tu>
