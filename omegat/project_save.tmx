@@ -119,6 +119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 13 Getting Started with Macros&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T074238Z" creationid="tagezi" creationdate="20180319T074238Z">
+        <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Глава 13 Начало работы с Макросами&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;s3/&gt;| &lt;/f2&gt;&lt;t4&gt;Chapter 3 Using Styles and Templates&lt;/t4&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T171917Z" creationid="olex" creationdate="20180306T171917Z">
@@ -353,6 +361,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;8&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Chapter 13 Getting Started with Macros&lt;/t3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T074256Z" creationid="tagezi" creationdate="20180319T074256Z">
+        <seg>&lt;t0&gt;8&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Глава 13 Начало работы с Макросами&lt;/t3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;8&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Appendix B Open Source, Standards, Document&lt;/t4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181635Z" creationid="tagezi" creationdate="20180304T181635Z">
@@ -373,6 +389,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181544Z" creationid="tagezi" creationdate="20180304T181544Z">
         <seg>&lt;t0&gt;Приложение B Свободное программное обеспечение, Открытые стандарты, OpenDocument&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Chapter 13 Getting Started with Macros&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T074244Z" creationid="tagezi" creationdate="20180319T074244Z">
+        <seg>&lt;t0&gt;Глава 13 Начало работы с Макросами&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;3&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -437,6 +461,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T195006Z" creationid="tagezi" creationdate="20180310T195006Z">
         <seg>&lt;t0&gt;Что все эти вещи означают?&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;7&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Your first macros&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;7&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T074311Z" creationid="tagezi" creationdate="20180319T074311Z">
+        <seg>&lt;t0&gt;Ваш первый макрос&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;7&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1297,6 +1329,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T213839Z" creationid="tagezi" creationdate="20180310T213839Z">
         <seg>Глава 13 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chapter 13 Getting Started with Macros</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T074206Z" creationid="tagezi" creationdate="20180319T074206Z">
+        <seg>Глава 13 Начало работы с Макросами</seg>
       </tuv>
     </tu>
     <tu>
@@ -4825,6 +4865,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Listing &lt;seq0&gt;4&lt;/seq0&gt;: Copying numeric value to start of the column</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T074141Z" creationid="tagezi" creationdate="20180319T074141Z">
+        <seg>Листинг&lt;seq0&gt;4&lt;/seq0&gt;: Копирование числового значения в начало столбца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Listing &lt;t0&gt;2&lt;/t0&gt; shows the new macro has been added before Sub Main.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132356Z" creationid="tagezi" creationdate="20180312T132356Z">
@@ -6127,6 +6175,22 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T202406Z" creationid="lera" creationdate="20180303T202406Z">
         <seg>Смотри &lt;a1&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See &lt;a2&gt;http://www.lulu.com/product/paperback/database-programming-with-openofficeorg-base-basic/3568728&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T074317Z" creationid="tagezi" creationdate="20180319T074317Z">
+        <seg>Смотрите &lt;a2&gt;http://www.lulu.com/product/paperback/database-programming-with-openofficeorg-base-basic/3568728&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See &lt;a2&gt;http://www.packtpub.com/openoffice-ooobasic-calc-automation/book&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T074930Z" creationid="tagezi" creationdate="20180319T074930Z">
+        <seg>Смотрите &lt;a2&gt;http://www.packtpub.com/openoffice-ooobasic-calc-automation/book&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
