@@ -379,8 +379,24 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;rem (15) Press &lt;/f0&gt;&lt;f1&gt;Tab&lt;/f1&gt;&lt;f2&gt; to insert a tab between the number and the name.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082537Z" creationid="tagezi" creationdate="20180319T082537Z">
-        <seg>&lt;f0&gt;rem (15) Нажмите &lt;/f0&gt;&lt;f1&gt;Tab&lt;/f1&gt;&lt;f2&gt; для вставки табуляцию между цифрой и именем.&lt;/f2&gt;</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082846Z" creationid="tagezi" creationdate="20180319T082537Z">
+        <seg>&lt;f0&gt;rem (15) Нажмите &lt;/f0&gt;&lt;f1&gt;Tab&lt;/f1&gt;&lt;f2&gt; для вставки табуляции между цифрой и именем.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;rem (16) Press &lt;/f0&gt;&lt;f1&gt;Home&lt;/f1&gt;&lt;f2&gt; to move to the start of the line.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082601Z" creationid="tagezi" creationdate="20180319T082601Z">
+        <seg>&lt;f0&gt;rem (16) Нажмите &lt;/f0&gt;&lt;f1&gt;Home&lt;/f1&gt;&lt;f2&gt; для перемещения курсора к началу строки.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;rem (17) Press &lt;/f0&gt;&lt;f1&gt;Down Arrow&lt;/f1&gt;&lt;f2&gt; to move to the next line.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082714Z" creationid="tagezi" creationdate="20180319T082714Z">
+        <seg>&lt;f0&gt;rem (17) Нажмите &lt;/f0&gt;&lt;f1&gt;Стрелку вниз&lt;/f1&gt;&lt;f2&gt; для перехода к следующей строке.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -403,8 +419,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;rem (5) Press &lt;/f0&gt;&lt;f1&gt;Tab&lt;/f1&gt;&lt;f2&gt; to add the tab without the space after the constant name.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T081650Z" creationid="tagezi" creationdate="20180319T081650Z">
-        <seg>&lt;f0&gt;rem (5) Нажмите &lt;/f0&gt;&lt;f1&gt;Tab&lt;/f1&gt;&lt;f2&gt; ля добавления табуляции без пробела после имени константы.&lt;/f2&gt;</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082743Z" creationid="tagezi" creationdate="20180319T081650Z">
+        <seg>&lt;f0&gt;rem (5) Нажмите &lt;/f0&gt;&lt;f1&gt;Tab&lt;/f1&gt;&lt;f2&gt; для добавления табуляции без пробела после имени константы.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6021,8 +6037,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Press &lt;f0&gt;Tab&lt;/f0&gt; to insert a tab between the number and the name.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T212819Z" creationid="tagezi" creationdate="20180318T212819Z">
-        <seg>Нажмите &lt;f0&gt;Tab&lt;/f0&gt; вставить табуляцию между цифрой и именем.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082823Z" creationid="tagezi" creationdate="20180318T212819Z">
+        <seg>Нажмите &lt;f0&gt;Tab&lt;/f0&gt; для вставки табуляции между цифрой и именем.</seg>
       </tuv>
     </tu>
     <tu>
