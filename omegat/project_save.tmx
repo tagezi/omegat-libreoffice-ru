@@ -2182,6 +2182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dispatch framework</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T172908Z" creationid="tagezi" creationdate="20180319T172858Z">
+        <seg>Фреймворк отправки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201426Z" creationid="Роман" creationdate="20180316T201426Z">
@@ -7873,6 +7881,22 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The primary offender is related to the dispatch framework and its relationship to the macro recorder.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T172845Z" creationid="tagezi" creationdate="20180319T172845Z">
+        <seg>Основной виновник связан с фреймворком отправки и его связью с записью макросов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The purpose of &lt;i0/&gt;&lt;i1/&gt;the dispatch framework is to provide uniform access to components (documents) for commands that usually correspond to menu items.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T173304Z" creationid="tagezi" creationdate="20180319T173304Z">
+        <seg>Назначение &lt;i0/&gt;&lt;i1/&gt;фреймворка отправки — обеспечить единообразный доступ к компонентам (документам) для команд, которые обычно соответствуют элементам меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The resulting document will contain only the changed text.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T202616Z" creationid="olex" creationdate="20180313T202616Z">
@@ -10305,6 +10329,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T195214Z" creationid="olex" creationdate="20180316T195214Z">
         <seg>различные на правой и левой страницах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dispatch framework</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T172914Z" creationid="tagezi" creationdate="20180319T172903Z">
+        <seg>фреймворк отправки</seg>
       </tuv>
     </tu>
     <tu>
