@@ -5131,8 +5131,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Macro recorder failures</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T171050Z" creationid="tagezi" creationdate="20180319T171050Z">
-        <seg>Недостаточность Записи макросов</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T171858Z" creationid="tagezi" creationdate="20180319T171050Z">
+        <seg>Недостаточность функции Записать макрос</seg>
       </tuv>
     </tu>
     <tu>
@@ -6833,6 +6833,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100303Z" creationid="lera" creationdate="20180303T195405Z">
         <seg>В состав наших корпоративных сторонников входят Canonical, GNOME Foundation, Google, Novell и Red Hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes the macro recorder has a failure and understanding LibreOffice internal workings helps to understand how and why the macro recorder sometimes fails.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T172117Z" creationid="tagezi" creationdate="20180319T171840Z">
+        <seg>Иногда запись макроса терпит неудачу, и понимание внутренней работы LibreOffice помогает понять, как и почему функция Записать макрос иногда не выполняется.</seg>
       </tuv>
     </tu>
     <tu>
