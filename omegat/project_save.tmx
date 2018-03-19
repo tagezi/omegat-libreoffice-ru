@@ -1123,6 +1123,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any work done inside the dialog is not usually recorded.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T180643Z" creationid="tagezi" creationdate="20180319T180643Z">
+        <seg>Любая работа, выполненная внутри диалогового окна, обычно не записывается.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anyone who wants to get up to speed quickly with LibreOffice will find this Getting Started Guide valuable.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T091724Z" creationid="tagezi" creationdate="20180305T091620Z">
@@ -2480,6 +2488,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examples of this include macro organization dialogs, inserting special characters, and similar types of dialogs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T181011Z" creationid="tagezi" creationdate="20180319T181011Z">
+        <seg>К примерам этого относятся диалоговые окна организации макросов, вставки специальных символов, а также другие аналогичные типы диалоговых окон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Explaining macro code</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T212041Z" creationid="tagezi" creationdate="20180315T212031Z">
@@ -3810,6 +3826,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a dialog is opened, a command to open the dialog is likely to be generated.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T180559Z" creationid="tagezi" creationdate="20180319T180559Z">
+        <seg>Если открывается диалоговое окно, скорее всего, будет сгенерирована команда для его открытия.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a document needs custom styles derived from base styles, consider prefixing the name of the custom styles with a few characters to highlight them among other styles in the list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T201446Z" creationid="olex" creationdate="20180309T201446Z">
@@ -3894,6 +3918,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T194145Z" creationid="olex" creationdate="20180310T194145Z">
         <seg>Если этот пункт не выбран, то вы будете копировать только стили, имена которых не используются в исходном документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If while recording a macro you use &lt;f0&gt;Tools &gt; Options&lt;/f0&gt; on the main menu bar to open and modify configuration items, the generated macro does not record any configuration changes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T180323Z" creationid="tagezi" creationdate="20180319T180323Z">
+        <seg>Если во время записи макроса вы используете в меню &lt;f0&gt;Сервис &gt; Параметры&lt;/f0&gt; для открытия и изменения элементов конфигурации, генерируемый макрос не записывает никаких изменений конфигурации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4341,6 +4373,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T183604Z" creationid="olex" creationdate="20180306T183604Z">
         <seg>Напротив, форматирование стилями является современным способом позволить компьютеру форматировать документы гораздо более эффективно и сократить время, затраченное на прямое форматирование.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In fact, the generated code is commented so it will not even be run.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T180418Z" creationid="tagezi" creationdate="20180319T180418Z">
+        <seg>Фактически, сгенерированный код комментируется, так что он даже не будет запущен.</seg>
       </tuv>
     </tu>
     <tu>
