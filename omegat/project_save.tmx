@@ -337,10 +337,114 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;rem (10) Press &lt;/f0&gt;&lt;f1&gt;End&lt;/f1&gt;&lt;f2&gt; to move the cursor to the end of the line.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082202Z" creationid="tagezi" creationdate="20180319T082202Z">
+        <seg>&lt;f0&gt;rem (10) Нажмите &lt;/f0&gt;&lt;f1&gt;End&lt;/f1&gt;&lt;f2&gt; для перемещения курсора в конец строки.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;rem (11) Press &lt;/f0&gt;&lt;f1&gt;Backspace&lt;/f1&gt;&lt;f2&gt; twice to remove the two trailing spaces.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082243Z" creationid="tagezi" creationdate="20180319T082243Z">
+        <seg>&lt;f0&gt;rem (11) Нажмите дважды &lt;/f0&gt;&lt;f1&gt;Backspace&lt;/f1&gt;&lt;f2&gt; для удаления двух конечных пробела.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;rem (12) Press &lt;/f0&gt;&lt;f1&gt;Home&lt;/f1&gt;&lt;f2&gt; to move the cursor to the start of the line.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082307Z" creationid="tagezi" creationdate="20180319T082307Z">
+        <seg>&lt;f0&gt;rem (12) Нажмите &lt;/f0&gt;&lt;f1&gt;Home&lt;/f1&gt;&lt;f2&gt; для перемещения курсора к началу строки.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;rem (13) Press &lt;/f0&gt;&lt;f1&gt;Ctrl+V&lt;/f1&gt;&lt;f2&gt; to paste the selected number to the start of the line.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082335Z" creationid="tagezi" creationdate="20180319T082335Z">
+        <seg>&lt;f0&gt;rem (13) Нажмите &lt;/f0&gt;&lt;f1&gt;Ctrl+V&lt;/f1&gt;&lt;f2&gt; для вставки выбранного числа в начало строки.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;rem (14) Press &lt;/f0&gt;&lt;f1&gt;Backspace&lt;/f1&gt;&lt;f2&gt; to remove the extra space.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082408Z" creationid="tagezi" creationdate="20180319T082408Z">
+        <seg>&lt;f0&gt;rem (14) Нажмите &lt;/f0&gt;&lt;f1&gt;Backspace&lt;/f1&gt;&lt;f2&gt; для удаления лишнего пробела.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;rem (15) Press &lt;/f0&gt;&lt;f1&gt;Tab&lt;/f1&gt;&lt;f2&gt; to insert a tab between the number and the name.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082537Z" creationid="tagezi" creationdate="20180319T082537Z">
+        <seg>&lt;f0&gt;rem (15) Нажмите &lt;/f0&gt;&lt;f1&gt;Tab&lt;/f1&gt;&lt;f2&gt; для вставки табуляцию между цифрой и именем.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;rem (3) Press &lt;/f0&gt;&lt;f1&gt;Ctrl+Right Arrow&lt;/f1&gt;&lt;f2&gt; to move the cursor to the start of “specifies”.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T081425Z" creationid="tagezi" creationdate="20180319T080923Z">
         <seg>&lt;f0&gt;rem (3) Нажмите &lt;/f0&gt;&lt;f1&gt;Ctrl+Вправо&lt;/f1&gt;&lt;f2&gt; для перемещения курсора к началу слова «определяет».&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;rem (4) Press &lt;/f0&gt;&lt;f1&gt;Backspace&lt;/f1&gt;&lt;f2&gt; twice to remove the tab and the space.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T081618Z" creationid="tagezi" creationdate="20180319T081618Z">
+        <seg>&lt;f0&gt;rem (4) Нажмите дважды &lt;/f0&gt;&lt;f1&gt;Backspace&lt;/f1&gt;&lt;f2&gt; для удаления табуляции и пробела.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;rem (5) Press &lt;/f0&gt;&lt;f1&gt;Tab&lt;/f1&gt;&lt;f2&gt; to add the tab without the space after the constant name.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T081650Z" creationid="tagezi" creationdate="20180319T081650Z">
+        <seg>&lt;f0&gt;rem (5) Нажмите &lt;/f0&gt;&lt;f1&gt;Tab&lt;/f1&gt;&lt;f2&gt; ля добавления табуляции без пробела после имени константы.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;rem (6) ... and then press &lt;/f0&gt;&lt;f1&gt;Shift+S&lt;/f1&gt;&lt;f2&gt; to add an upper case S.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T081826Z" creationid="tagezi" creationdate="20180319T081826Z">
+        <seg>&lt;f0&gt;rem (6) ... а затем нажмите &lt;/f0&gt;&lt;f1&gt;Shift+О&lt;/f1&gt;&lt;f2&gt; для добавления О в верхнем регистре.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;rem (6) Press &lt;/f0&gt;&lt;f1&gt;Delete&lt;/f1&gt;&lt;f2&gt; to delete the lower case s ....&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T081747Z" creationid="tagezi" creationdate="20180319T081747Z">
+        <seg>&lt;f0&gt;rem (6) Нажмите &lt;/f0&gt;&lt;f1&gt;Delete&lt;/f1&gt;&lt;f2&gt; для удаления о в нижнем регистре ....&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;rem (7) Press &lt;/f0&gt;&lt;f1&gt;Ctrl+Right Arrow&lt;/f1&gt;&lt;f2&gt; twice to move the cursor to the number.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T081908Z" creationid="tagezi" creationdate="20180319T081908Z">
+        <seg>&lt;f0&gt;rem (7) Нажмите дважды &lt;/f0&gt;&lt;f1&gt;Ctrl+Вправо&lt;/f1&gt;&lt;f2&gt; для перемещения курсора к началу цифры.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;rem (8) Press &lt;/f0&gt;&lt;f1&gt;Ctrl+Shift+Right Arrow&lt;/f1&gt;&lt;f2&gt; to select the number.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082022Z" creationid="tagezi" creationdate="20180319T082022Z">
+        <seg>&lt;f0&gt;rem (8) Нажмите &lt;/f0&gt;&lt;f1&gt;Ctrl+Shift+Вправо&lt;/f1&gt;&lt;f2&gt; для выделения числа.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;rem (9) Press &lt;/f0&gt;&lt;f1&gt;Ctrl+C&lt;/f1&gt;&lt;f2&gt; to copy the selected text to the clipboard.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082114Z" creationid="tagezi" creationdate="20180319T082114Z">
+        <seg>&lt;f0&gt;rem (9) Нажмите &lt;/f0&gt;&lt;f1&gt;Ctrl+C&lt;/f1&gt;&lt;f2&gt; для копирования выделенного текста в буфер обмена.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
