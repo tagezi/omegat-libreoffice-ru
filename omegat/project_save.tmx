@@ -1974,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cursor movements are used for all operations (as opposed to searching).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T083949Z" creationid="tagezi" creationdate="20180319T083949Z">
+        <seg>Движения курсора используются для всех операций (как противоположность поиску).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data Interchange Format (.dif)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T065508Z" creationid="tagezi" creationdate="20180305T065508Z">
@@ -3766,6 +3774,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180318T122108Z" creationid="Роман" creationdate="20180318T122108Z">
         <seg>Если необходимо, можно предотвратить автоматическое обновление формулы в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If run on the DONTKNOW line, the word &lt;f0&gt;weight&lt;/f0&gt; is moved to the front of the line, and the first “The” is changed to “She”.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T084523Z" creationid="tagezi" creationdate="20180319T084523Z">
+        <seg>Если он запущен на линии DONTKNOW, слово &lt;f0&gt;не&lt;/f0&gt; переместится в начало строки, а “Насыщенность” изменится на “Оасыщенность”.</seg>
       </tuv>
     </tu>
     <tu>
