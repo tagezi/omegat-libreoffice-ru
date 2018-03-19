@@ -2987,6 +2987,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, after saving a new document, the list of recent files is updated.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T174052Z" creationid="tagezi" creationdate="20180319T174052Z">
+        <seg>Например, после сохранения нового документа обновляется список Недавние документы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, in Writer &lt;f0&gt;Ctrl+0&lt;/f0&gt; applies the &lt;f1&gt;Text body&lt;/f1&gt; style, &lt;f2&gt;Ctrl+1&lt;/f2&gt; applies the &lt;f3&gt;Heading 1&lt;/f3&gt; style, and &lt;f4&gt;Ctrl+2&lt;/f4&gt; applies the &lt;f5&gt;Heading 2&lt;/f5&gt; style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T094320Z" creationid="olex" creationdate="20180308T172649Z">
@@ -7566,6 +7574,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The dispatch framework can also be used to send “commands” back to the User Interface (UI).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T173920Z" creationid="tagezi" creationdate="20180319T173920Z">
+        <seg>Фреймворк отправки также может использоваться для отправки «команд» обратно в пользовательский интерфейс (UI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The dispatch helper sends a dispatch to the document frame (stored in the variable named document) with the command .uno:InsertText.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T163259Z" creationid="tagezi" creationdate="20180318T163259Z">
@@ -9041,6 +9057,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T155222Z" creationid="lera" creationdate="20180303T155222Z">
         <seg>Используется с другими клавишами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using &lt;f2&gt;File &gt; Save&lt;/f2&gt; from the main menu bar, the shortcut keys &lt;f3&gt;Ctrl+S&lt;/f3&gt;, or clicking the &lt;f4&gt;Save&lt;/f4&gt; icon are all of commands that are translated into the same “dispatch command”.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T173804Z" creationid="tagezi" creationdate="20180319T173804Z">
+        <seg>Использование в главном меню &lt;f2&gt;Файл &gt; Сохранить&lt;/f2&gt;, сочетание клавиш &lt;f3&gt;Ctrl+S&lt;/f3&gt;, или нажатие на значок &lt;f4&gt;Сохранить&lt;/f4&gt; — это все команды, которые переводятся в одну «команду отправки»..</seg>
       </tuv>
     </tu>
     <tu>
