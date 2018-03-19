@@ -3458,6 +3458,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; on the main menu bar to open the Basic Macro dialog (Figure &lt;t1&gt;1&lt;/t1&gt; on page &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T085313Z" creationid="tagezi" creationdate="20180319T085313Z">
+        <seg>Откройте диалоговое окно Макросы Basic  (Рисунок &lt;t1&gt;1&lt;/t1&gt; на странице &lt;t2&gt;5&lt;/t2&gt;), выбрав в главном меню &lt;f0&gt;Сервис &gt; Макросы &gt; Управление макросами &gt; LibreOffice Basic&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; to open the LibreOffice Basic Macros dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T070053Z" creationid="tagezi" creationdate="20180315T070053Z">
@@ -4605,6 +4613,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T170131Z" creationid="tagezi" creationdate="20180304T170131Z">
         <seg>Настоятельно рекомендуется использовать OpenDocument в качестве форматов файлов по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is tedious to repeatedly run the macro using &lt;f0&gt;Tools &gt; Macros &gt; Run Macro&lt;/f0&gt; on the main menu bar when the macro can be run from the &lt;is1/&gt;IDE&lt;ie2/&gt; (Figure &lt;t3&gt;3&lt;/t3&gt; on page &lt;t4&gt;6&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T085041Z" creationid="tagezi" creationdate="20180319T085041Z">
+        <seg>Достаточно утомительно запускать макрос используя в главном меню &lt;f0&gt;Сервис &gt; Макросы &gt; Выполнить макрос&lt;/f0&gt;, когда макрос может быть запущен из &lt;is1/&gt;IDE&lt;ie2/&gt; (Рисунок &lt;t3&gt;3&lt;/t3&gt; на странице &lt;t4&gt;6&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6668,6 +6684,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select your macro and click &lt;f0&gt;Edit&lt;/f0&gt; to open the macro in the IDE.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T085412Z" creationid="tagezi" creationdate="20180319T085412Z">
+        <seg>Выберите ваш макрос и нажмите кнопку &lt;f0&gt;Правка&lt;/f0&gt; для открытия макроса в IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select your new macro EnterMyName and click &lt;f0&gt;Edit&lt;/f0&gt; to open the macro in the Basic &lt;is1/&gt;&lt;is2/&gt;IDE&lt;ie3/&gt;&lt;ie4/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T073822Z" creationid="tagezi" creationdate="20180315T073822Z">
@@ -8160,6 +8184,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T214301Z" creationid="tagezi" creationdate="20180307T214301Z">
         <seg>Эта информация часто запрашивается, если вы обращаетесь за помощью или оказанием содействия с программным обеспечением в сообщество.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is not perfect, but you should not run the macro on the lines that did not have the proper format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T084649Z" creationid="tagezi" creationdate="20180319T084649Z">
+        <seg>Это не идеально, но вы не должны запускать макрос в строках, которые не имеют соответствующего формата.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9976,6 +10008,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T104024Z" creationid="tagezi" creationdate="20180312T104024Z">
         <seg>Вы должны создать библиотеку и модуль, чтобы запускать макрос; для получения дополнительной информации смотрите “&lt;bf2&gt;Организация макросов&lt;/bf2&gt;” на странице &lt;bf3&gt;14&lt;/bf3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to do these manually.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T084735Z" creationid="tagezi" creationdate="20180319T084735Z">
+        <seg>Вам нужно сделать их вручную.</seg>
       </tuv>
     </tu>
     <tu>
