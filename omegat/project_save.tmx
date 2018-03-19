@@ -337,6 +337,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;args6&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value&lt;/f4&gt; &lt;f5&gt;=&lt;/f5&gt; &lt;f6&gt;"S"&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T083127Z" creationid="tagezi" creationdate="20180319T083127Z">
+        <seg>&lt;f0&gt;args6&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value&lt;/f4&gt; &lt;f5&gt;=&lt;/f5&gt; &lt;f6&gt;"О"&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;rem (10) Press &lt;/f0&gt;&lt;f1&gt;End&lt;/f1&gt;&lt;f2&gt; to move the cursor to the end of the line.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082202Z" creationid="tagezi" creationdate="20180319T082202Z">
@@ -379,8 +387,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;rem (15) Press &lt;/f0&gt;&lt;f1&gt;Tab&lt;/f1&gt;&lt;f2&gt; to insert a tab between the number and the name.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082846Z" creationid="tagezi" creationdate="20180319T082537Z">
-        <seg>&lt;f0&gt;rem (15) Нажмите &lt;/f0&gt;&lt;f1&gt;Tab&lt;/f1&gt;&lt;f2&gt; для вставки табуляции между цифрой и именем.&lt;/f2&gt;</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T083313Z" creationid="tagezi" creationdate="20180319T082537Z">
+        <seg>&lt;f0&gt;rem (15) Нажмите &lt;/f0&gt;&lt;f1&gt;Tab&lt;/f1&gt;&lt;f2&gt; для вставки табуляции между числом и именем.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -443,8 +451,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;rem (7) Press &lt;/f0&gt;&lt;f1&gt;Ctrl+Right Arrow&lt;/f1&gt;&lt;f2&gt; twice to move the cursor to the number.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T081908Z" creationid="tagezi" creationdate="20180319T081908Z">
-        <seg>&lt;f0&gt;rem (7) Нажмите дважды &lt;/f0&gt;&lt;f1&gt;Ctrl+Вправо&lt;/f1&gt;&lt;f2&gt; для перемещения курсора к началу цифры.&lt;/f2&gt;</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T083255Z" creationid="tagezi" creationdate="20180319T081908Z">
+        <seg>&lt;f0&gt;rem (7) Нажмите дважды &lt;/f0&gt;&lt;f1&gt;Ctrl+Вправо&lt;/f1&gt;&lt;f2&gt; для перемещения курсора к началу числа.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5973,8 +5981,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Press &lt;f0&gt;Ctrl+Right Arrow&lt;/f0&gt; twice to move the cursor to the start of the number.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T081333Z" creationid="tagezi" creationdate="20180318T211857Z">
-        <seg>Нажмите дважды &lt;f0&gt;Ctrl+Вправо&lt;/f0&gt; для перемещения курсора к началу цифры.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T083151Z" creationid="tagezi" creationdate="20180318T211857Z">
+        <seg>Нажмите дважды &lt;f0&gt;Ctrl+Вправо&lt;/f0&gt; для перемещения курсора к началу числа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5989,8 +5997,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Press &lt;f0&gt;Ctrl+V&lt;/f0&gt; to paste the selected number to the start of the line.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T212535Z" creationid="tagezi" creationdate="20180318T212535Z">
-        <seg>Нажмите &lt;f0&gt;Ctrl+V&lt;/f0&gt; для вставки выбранного номера в начало строки.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T083157Z" creationid="tagezi" creationdate="20180318T212535Z">
+        <seg>Нажмите &lt;f0&gt;Ctrl+V&lt;/f0&gt; для вставки выбранного числа в начало строки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6037,8 +6045,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Press &lt;f0&gt;Tab&lt;/f0&gt; to insert a tab between the number and the name.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082823Z" creationid="tagezi" creationdate="20180318T212819Z">
-        <seg>Нажмите &lt;f0&gt;Tab&lt;/f0&gt; для вставки табуляции между цифрой и именем.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T083217Z" creationid="tagezi" creationdate="20180318T212819Z">
+        <seg>Нажмите &lt;f0&gt;Tab&lt;/f0&gt; для вставки табуляции между числом и именем.</seg>
       </tuv>
     </tu>
     <tu>
