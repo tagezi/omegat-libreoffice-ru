@@ -5049,6 +5049,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Listing &lt;seq0&gt;5&lt;/seq0&gt;: Modify Main to call CopyNumToCol1.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T150906Z" creationid="tagezi" creationdate="20180319T150906Z">
+        <seg>Листинг &lt;seq0&gt;5&lt;/seq0&gt;: Модификация Main для вызова CopyNumToCol1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Listing &lt;t0&gt;2&lt;/t0&gt; shows the new macro has been added before Sub Main.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132356Z" creationid="tagezi" creationdate="20180312T132356Z">
@@ -8232,6 +8240,15 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T100655Z" creationid="tagezi" creationdate="20180306T100655Z">
         <seg>Это первая линия поддержки использования LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is very fast and easy, especially for temporary macros that will be used a few times and then discarded.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T150834Z" creationid="tagezi" creationdate="20180319T150834Z">
+        <seg>109/5000
+Это очень быстро и просто, особенно для временных макросов, которые будут использоваться несколько раз, а затем удалены.</seg>
       </tuv>
     </tu>
     <tu>
