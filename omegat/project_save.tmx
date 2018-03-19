@@ -657,6 +657,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A dispatch command is text, for example .uno:InsertObject or .uno:GoToStartOfLine.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T174133Z" creationid="tagezi" creationdate="20180319T174133Z">
+        <seg>Командой отправки является текст, например .uno:InsertObject или .uno:GoToStartOfLine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A macro is a saved sequence of commands or keystrokes that are stored for later use.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T061205Z" creationid="tagezi" creationdate="20180311T095554Z">
@@ -7458,6 +7466,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T114013Z" creationid="tagezi" creationdate="20180315T114013Z">
         <seg>Код начинается с определения подпрограммы с названием Main, которая пуста и ничего не делает.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The command is sent to the document frame and this passes on the command until an object is found that can handle the command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T175300Z" creationid="tagezi" creationdate="20180319T175300Z">
+        <seg>Команда отправляется во фрейм документа, и он передает по наследству эту команду до тех пор, пока не будет найден объект способный обрабатывать её.</seg>
       </tuv>
     </tu>
     <tu>
