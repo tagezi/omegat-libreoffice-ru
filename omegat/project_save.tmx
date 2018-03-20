@@ -2206,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete the first placeholder &lt;f0&gt;&lt;?&gt;&lt;/f0&gt; before the word &lt;f1&gt;simeq&lt;/f1&gt; in the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T145053Z" creationid="Роман" creationdate="20180320T145053Z">
+        <seg>Удалите первый заполнитель &lt;f0&gt;&lt;?&gt;&lt;/f0&gt; перед словом &lt;f1&gt;simeq&lt;/f1&gt; в Редакторе формул.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deleting a template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195448Z" creationid="olex" creationdate="20180306T195448Z">
@@ -4756,8 +4764,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>In the Elements window, select &lt;f0&gt;Relations&lt;/f0&gt; from the drop-down list and then select the &lt;f1&gt;Is Similar Or Equal&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T144816Z" creationid="Роман" creationdate="20180320T144816Z">
-        <seg>В панели Элементы выберите &lt;f0&gt;Отношения&lt;/f0&gt; из выпадающего списка и затем выберите значок&lt;f1&gt;Is Similar Or Equal&lt;/f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T145025Z" creationid="Роман" creationdate="20180320T144816Z">
+        <seg>В панели Элементы выберите &lt;f0&gt;Отношения&lt;/f0&gt; из выпадающего списка и затем выберите значок&lt;f1&gt;Подобно или равно&lt;/f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7343,8 +7351,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Select the category &lt;f0&gt;Relations&lt;/f0&gt; and symbol &lt;f1&gt;Is Similar Or Equal&lt;/f1&gt; using one of the following methods:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T144728Z" creationid="Роман" creationdate="20180320T144728Z">
-        <seg>Выберите категорию &lt;f0&gt;Отношения&lt;/f0&gt; и символ &lt;f1&gt;Is Similar Or Equal&lt;/f1&gt;, используя один из следующих методов:</seg>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T145015Z" creationid="Роман" creationdate="20180320T144728Z">
+        <seg>Выберите категорию &lt;f0&gt;Отношения&lt;/f0&gt; и символ &lt;f1&gt;Подобно или равно&lt;/f1&gt;, используя один из следующих методов:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7385,6 +7393,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T202333Z" creationid="olex" creationdate="20180310T202333Z">
         <seg>Выберите необходимый шаблон и нажмите &lt;f0&gt;OK&lt;/f0&gt;, или нажмите дважды на выбранном шаблоне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the second placeholder &lt;f0&gt;&lt;?&gt;&lt;/f0&gt; after the word &lt;f1&gt;simeq&lt;/f1&gt; in the Formula Editor and replace it with the characters &lt;f2&gt;3.14159&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T145222Z" creationid="Роман" creationdate="20180320T145222Z">
+        <seg>Выберите второй заполнитель &lt;f0&gt;&lt;?&gt;&lt;/f0&gt; после слова &lt;f1&gt;simeq&lt;/f1&gt; в Редакторе формул и замените его символами &lt;f2&gt;3.14159&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11002,8 +11018,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You know the name of the Greek character (pi), but do not know the markup associated with the &lt;f4&gt;Is Similar Or Equal&lt;/f4&gt; symbol&lt;f5&gt;&lt;df6&gt;&lt;d7/&gt;&lt;di8/&gt;&lt;s9&gt;formula&lt;/s9&gt;&lt;/df6&gt;&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T144535Z" creationid="Роман" creationdate="20180318T122925Z">
-        <seg>Вы знаете имя греческого символа (pi),но не знаете разметку, связанную с символом &lt;f4&gt;Is Similar Or Equal&lt;/f4&gt; &lt;f5&gt;&lt;df6&gt;&lt;d7/&gt;&lt;di8/&gt;&lt;s9&gt;formula&lt;/s9&gt;&lt;/df6&gt;&lt;/f5&gt;.</seg>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T145005Z" creationid="Роман" creationdate="20180318T122925Z">
+        <seg>Вы знаете имя греческого символа (pi),но не знаете разметку, связанную с символом &lt;f4&gt;Подобно или равно&lt;/f4&gt; &lt;f5&gt;&lt;df6&gt;&lt;d7/&gt;&lt;di8/&gt;&lt;s9&gt;formula&lt;/s9&gt;&lt;/df6&gt;&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
