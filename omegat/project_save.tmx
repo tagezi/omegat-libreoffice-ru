@@ -2198,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T133351Z" creationid="tagezi" creationdate="20180320T133351Z">
+        <seg>Описание</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Details are in Chapter 4, Formatting Pages, in the &lt;f5&gt;Writer Guide&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T192329Z" creationid="olex" creationdate="20180315T192329Z">
@@ -3482,6 +3490,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Forums, with many examples and help.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T133642Z" creationid="tagezi" creationdate="20180320T133642Z">
+        <seg>Форумы, со многими примерами и помощью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Frame</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193826Z" creationid="olex" creationdate="20180307T193826Z">
@@ -3870,6 +3886,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T175347Z" creationid="tagezi" creationdate="20180319T175347Z">
         <seg>Как запись макроса использует фреймворк отправки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to &lt;i0/&gt;run a macro</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T133855Z" creationid="tagezi" creationdate="20180320T133855Z">
+        <seg>Как &lt;i0/&gt;выполнить макрос</seg>
       </tuv>
     </tu>
     <tu>
@@ -5450,6 +5474,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T133345Z" creationid="tagezi" creationdate="20180320T133345Z">
+        <seg>Расположение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lothar Becker will present LibreOffice Certification on Saturday, March 24, during LibrePlanet, and will host a certification focused workshop on Monday, March 26, at the Boston Nonprofit Center, from 9:30 AM to 1:30 PM.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T201941Z" creationid="tagezi" creationdate="20180307T190045Z">
@@ -5462,6 +5494,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T211830Z" creationid="tagezi" creationdate="20180307T184510Z">
         <seg>Lothar Becker, сопредседатель Комитета Сертификации, с целью оказания помощи предприятиям в достижении независимости, тесно связанной со свободным программным обеспечением и открытыми форматами документов, расскажет об относящихся с LibreOffice проектах миграции и учебных мероприятиях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lots of links to macros.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T133443Z" creationid="tagezi" creationdate="20180320T133443Z">
+        <seg>Множество ссылок на макросы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5502,6 +5542,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T114658Z" creationid="tagezi" creationdate="20180320T114658Z">
         <seg>Диалоговое окно Управление макросами LibreOffice Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Macro examples</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T133340Z" creationid="tagezi" creationdate="20180320T133340Z">
+        <seg>Примеры макросов</seg>
       </tuv>
     </tu>
     <tu>
@@ -6684,6 +6732,22 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reference materials regarding database macros.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T133428Z" creationid="tagezi" creationdate="20180320T133428Z">
+        <seg>Справочные материалы по макросам баз данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reference materials regarding macros.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T133408Z" creationid="tagezi" creationdate="20180320T133408Z">
+        <seg>Справочные материалы по макросам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reformat the text with tabs between columns so that it can be converted into a table using &lt;f0&gt;Table &gt; Convert &gt; Text to Table&lt;/f0&gt; on the main menu bar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T194846Z" creationid="tagezi" creationdate="20180318T194846Z">
@@ -6936,6 +7000,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180632Z" creationid="olex" creationdate="20180308T180632Z">
         <seg>Смотрите главы про стили в руководстве пользователя для детальной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See “&lt;bf0&gt;Adding a macro&lt;/bf0&gt;” on page &lt;bf1&gt;4&lt;/bf1&gt; on how to add macros to your macro library and “&lt;bf2&gt;Viewing and editing macros&lt;/bf2&gt;” on page &lt;bf3&gt;7&lt;/bf3&gt; on how to edit macros using the Basic IDE.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T133229Z" creationid="tagezi" creationdate="20180320T133229Z">
+        <seg>Смотрите “&lt;bf0&gt;Добавление макроса&lt;/bf0&gt;” на странице &lt;bf1&gt;4&lt;/bf1&gt; о том как добавить макрос в вашу библиотеку макросов и “&lt;bf2&gt;Просмотр и редактирование макросов&lt;/bf2&gt;” на странице &lt;bf3&gt;7&lt;/bf3&gt; о том как редактировать макрос, используя Basic IDE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7338,6 +7410,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T105217Z" creationid="tagezi" creationdate="20180310T105217Z">
         <seg>Некоторые нажатия клавиш и пункты меню отличаются на macOS от тех, которые используются в Windows и Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some macros are available as free downloads on the Internet (see Table &lt;t0&gt;1&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T133323Z" creationid="tagezi" creationdate="20180320T133323Z">
+        <seg>Некоторые макросы доступны для бесплатной загрузки в Интернете (смотрите таблицу &lt;t0&gt;1&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
