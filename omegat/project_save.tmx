@@ -561,6 +561,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;Alternatively, right click on a selected formula in the &lt;f1&gt;formula editor&lt;/f1&gt; to bring up the context menu and choose from the standard editing options that appear (Figure &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T204710Z" creationid="Роман" creationdate="20180320T204710Z">
+        <seg>&lt;s0/&gt;Также можно щёлкнуть правой кнопкой мыши по выделенной формуле в &lt;f1&gt;Редакторе формулr&lt;/f1&gt;, чтобы показать контекстное меню и выбрать из доступных стандартных параметров редактирования (Рисунок &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s2/&gt;Or, alternatively, position the cursor in the table to be formatted and double click on a style listed in the &lt;f3&gt;Table Styles&lt;/f3&gt; tab of the &lt;f4&gt;Styles&lt;/f4&gt; menu or the &lt;f5&gt;sidebar&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T204929Z" creationid="olex" creationdate="20180316T204929Z">
@@ -3088,6 +3096,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204727Z" creationid="Роман" creationdate="20180316T204727Z">
         <seg>Рисунок &lt;seq0&gt;4&lt;/seq0&gt;: Диалог Символы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Context Menu Edit Commands</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T204743Z" creationid="Роман" creationdate="20180320T204743Z">
+        <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: Команды редактирования в контекстном меню</seg>
       </tuv>
     </tu>
     <tu>
