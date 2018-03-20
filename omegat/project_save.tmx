@@ -3059,6 +3059,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, the actions from the search dialog &lt;f0&gt;are&lt;/f0&gt; properly captured.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T084637Z" creationid="tagezi" creationdate="20180320T084637Z">
+        <seg>Например, действия в диалоговом окне поиска &lt;f0&gt;должным&lt;/f0&gt; образом захватываются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, the first page of a letterhead typically has a different header, or the first page of a report might have no header or footer, while the other pages do.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T191347Z" creationid="olex" creationdate="20180315T191347Z">
@@ -4216,6 +4224,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In LibreOffice, macros are &lt;i0/&gt;grouped in modules, modules are grouped in &lt;i1/&gt;libraries, and libraries are grouped &lt;i2/&gt;in&lt;i3/&gt; library containers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T085442Z" creationid="tagezi" creationdate="20180320T085442Z">
+        <seg>В LibreOffice, макросы &lt;i0/&gt;сгруппированы в модули, модули сгруппированы в &lt;i1/&gt;библиотеки, а библиотеки сгруппированы &lt;i2/&gt;в&lt;i3/&gt; контейнеры библиотек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In LibreOffice, select &lt;f0&gt;Tools &gt; Extension Manager&lt;/f0&gt; from the Menu bar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T205256Z" creationid="olex" creationdate="20180312T205256Z">
@@ -4730,6 +4746,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is usually best to start with simple examples and then increase the scope of macros as you learn more.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T085057Z" creationid="tagezi" creationdate="20180320T085057Z">
+        <seg>Обычно лучше всего начинать с простых примеров, а затем, когда вы узнаете больше, увеличивать объем макросов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is well documented with the complete specification publicly available, either free or at a nominal charge.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T212838Z" creationid="lera" creationdate="20180303T212838Z">
@@ -4798,6 +4822,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T080420Z" creationid="tagezi" creationdate="20180315T080420Z">
         <seg>Небольшое изучение значительно помогает улучшить понимание макросов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learning to read generated macros is a good place to start.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T085118Z" creationid="tagezi" creationdate="20180320T085118Z">
+        <seg>Учиться читать сгенерированные макросы - это хорошее место для начала.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6008,6 +6040,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T142308Z" creationid="tagezi" creationdate="20180306T142308Z">
         <seg>Другая бесплатная поддержка в сети</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T084655Z" creationid="tagezi" creationdate="20180320T084655Z">
+        <seg>Другие варианты</seg>
       </tuv>
     </tu>
     <tu>
@@ -9020,6 +9060,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unfortunately, there is a steep learning curve for these LibreOffice objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T084932Z" creationid="tagezi" creationdate="20180320T084932Z">
+        <seg>К сожалению, существует большая сложность в изучении для объектов LibreOffice .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unified Office Format presentation (.uop)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T065721Z" creationid="tagezi" creationdate="20180305T065721Z">
@@ -9571,6 +9619,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T234242Z" creationid="tagezi" creationdate="20180304T234242Z">
         <seg>При публикации документа, в котором вы не ожидаете модификацию со стороны получателя, предпочтительным вариантом является конвертация документа в PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the macro recorder is not able to solve a specific problem, the usual solution is to write code using the LibreOffice objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T084756Z" creationid="tagezi" creationdate="20180320T084756Z">
+        <seg>Когда функция записи макросов не может решить определенную проблему, обычным решением является написать код с использованием объектов LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
