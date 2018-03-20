@@ -4563,6 +4563,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you cannot select a formula element using the cursor, click on the &lt;f0&gt;Formula Cursor&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt;in the Tools toolbar to activate the formula cursor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T205247Z" creationid="Роман" creationdate="20180320T205247Z">
+        <seg>Если не получается выбрать элемент формулы, используя курсор, щёлкните на значке&lt;f0&gt;Курсор формулы&lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt;на панели инструментов, чтобы его активировать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you choose &lt;f0&gt;Keep Old Styles&lt;/f0&gt;, the document is no longer connected to the template, even though the template is still listed under &lt;f1&gt;File &gt; Properties &gt; General.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T194217Z" creationid="olex" creationdate="20180311T194217Z">
@@ -7867,6 +7875,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130220Z" creationid="tagezi" creationdate="20180320T130220Z">
         <seg>Выберите следующие параметры импорта библиотек:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the formula element you want to change, using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T205301Z" creationid="Роман" creationdate="20180320T205301Z">
+        <seg>Select the formula element you want to change, using one of the following methods:</seg>
       </tuv>
     </tu>
     <tu>
