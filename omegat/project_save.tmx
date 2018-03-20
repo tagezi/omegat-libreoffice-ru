@@ -649,6 +649,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A common use is to assign the Open Document event to call a specific macro.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T161933Z" creationid="tagezi" creationdate="20180320T161933Z">
+        <seg>Обычно используется назначение события Открытие файла для вызова определенного макроса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A dialog is a special type of window.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T105914Z" creationid="tagezi" creationdate="20180310T105754Z">
@@ -2728,6 +2736,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Events page in Customize dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T161213Z" creationid="tagezi" creationdate="20180320T161213Z">
+        <seg>Рисунок &lt;seq0&gt;10&lt;/seq0&gt;: Вкладка События в диалоговом окне Настройка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Getting more templates for LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T202342Z" creationid="olex" creationdate="20180311T202342Z">
@@ -4543,6 +4559,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180723Z" creationid="tagezi" creationdate="20180304T180723Z">
         <seg>Impress также может экспортировать в MacroMedia Flash (.swf) и некоторые другие формат, перечисленные для Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In &lt;f0&gt;Save In&lt;/f0&gt;, select LibreOffice, or a specific document from the drop down menu to save your event.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T161719Z" creationid="tagezi" creationdate="20180320T161719Z">
+        <seg>В выпадающем списке &lt;f0&gt;Сохранить в&lt;/f0&gt;, выберите LibreOffice или конкретный документ для сохранения События.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8508,6 +8532,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T113821Z" creationid="tagezi" creationdate="20180315T113821Z">
         <seg>Конец подпрограммы указывается при помощи ключевых слов END SUB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The events in the Customize dialog are related to the entire application and specific documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T161055Z" creationid="tagezi" creationdate="20180320T161055Z">
+        <seg>События в диалоговом окне Настройка относятся ко всему приложению и конкретным документам.</seg>
       </tuv>
     </tu>
     <tu>
