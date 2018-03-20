@@ -945,6 +945,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All available library containers are shown in the &lt;f3&gt;Macro from&lt;/f3&gt; list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T090757Z" creationid="tagezi" creationdate="20180320T090757Z">
+        <seg>Все доступные контейнеры библиотек показаны в списке &lt;f3&gt;Макрос из&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All comments in macro coding begin with REM, which stands for remark.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T090709Z" creationid="tagezi" creationdate="20180315T090709Z">
@@ -2452,6 +2460,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T142715Z" creationid="tagezi" creationdate="20180316T142715Z">
         <seg>События</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every document is a library container, capable of containing multiple libraries.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T090858Z" creationid="tagezi" creationdate="20180320T090858Z">
+        <seg>Каждый документ представляет собой контейнер библиотек, способный содержать несколько библиотек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7448,6 +7464,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The LibreOffice Macros are stored with the application runtime code, which may not be editable to you unless you are an administrator.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T102627Z" creationid="tagezi" creationdate="20180320T102627Z">
+        <seg>Макросы LibreOffice хранятся с выполняемым кодом приложения, который, если вы не являетесь администратором, может быть недоступен для редактирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The LibreOffice community</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T155742Z" creationid="lera" creationdate="20180303T155742Z">
@@ -7604,6 +7628,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T202015Z" creationid="olex" creationdate="20180310T202015Z">
         <seg>Откроется диалоговое окно Шаблоны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The application itself acts as two library containers, one container for macros distributed with LibreOffice called LibreOffice Macros, and one container for personal macros called My Macros.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T091050Z" creationid="tagezi" creationdate="20180320T091050Z">
+        <seg>Само приложение действует как два контейнера библиотек: один контейнер для макросов, распределенный с LibreOffice под названием Макросы LibreOffice, а другой контейнер для личных макросов под названием Мои макросы.</seg>
       </tuv>
     </tu>
     <tu>
