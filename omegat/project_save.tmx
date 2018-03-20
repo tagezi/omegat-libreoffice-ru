@@ -4857,6 +4857,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Writer, Calc, Impress, or Draw, double-click on the formula, or right-click on the formula and select &lt;f0&gt;Edit&lt;/f0&gt; from the context menu, to open the Formula Editor in editing mode.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T204957Z" creationid="Роман" creationdate="20180320T204957Z">
+        <seg>В Writer, Calc, Impress или Draw дважды щёлкните на формуле или щёлкните правой кнопкой мыши на формуле и выберите &lt;f0&gt;Правка&lt;/f0&gt; из контекстного меню, чтобы открыть Редактор формул в режиме редактирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Writer, click in the paragraph where you want to insert the formula.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T154230Z" creationid="User" creationdate="20180311T154230Z">
@@ -8822,6 +8830,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153641Z" creationid="tagezi" creationdate="20180318T153641Z">
         <seg>У созданного массива одно свойство с нулевым индексом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The cursor is positioned at the start of the formula in the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T205018Z" creationid="Роман" creationdate="20180320T205018Z">
+        <seg>Курсор помещается в начало формулы в Редакторе формул.</seg>
       </tuv>
     </tu>
     <tu>
