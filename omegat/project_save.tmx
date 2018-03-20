@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -107,6 +107,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="mikek" changedate="20180307T123138Z" creationid="mikek" creationdate="20180307T123138Z">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;4&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Где получить дополнительную помощь&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;s1/&gt;MsgBox &lt;/f0&gt;&lt;f2&gt;"This macro only works with a text document"&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190358Z" creationid="tagezi" creationdate="20180320T190358Z">
+        <seg>&lt;f0&gt;&lt;s1/&gt;MsgBox &lt;/f0&gt;&lt;f2&gt;"Этот макрос работает только с текстовыми документами"&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;s1/&gt;oCurs&lt;/f0&gt;&lt;f2&gt;.Text.&lt;/f2&gt;&lt;f3&gt;insertString&lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;f5&gt;oCurs&lt;/f5&gt;&lt;f6&gt;,&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;"Hello"&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt;&lt;f10&gt; False&lt;/f10&gt;&lt;f11&gt;)&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190758Z" creationid="tagezi" creationdate="20180320T190758Z">
+        <seg>&lt;f0&gt;&lt;s1/&gt;oCurs&lt;/f0&gt;&lt;f2&gt;.Text.&lt;/f2&gt;&lt;f3&gt;insertString&lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;f5&gt;oCurs&lt;/f5&gt;&lt;f6&gt;,&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;"Привет"&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt;&lt;f10&gt; False&lt;/f10&gt;&lt;f11&gt;)&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -781,6 +797,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T155723Z" creationid="lera" creationdate="20180303T155723Z">
         <seg>Краткая история LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A simple example, however, demonstrates how this works.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190011Z" creationid="tagezi" creationdate="20180320T190011Z">
+        <seg>Однако простой пример демонстрирует, как это работает.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2367,6 +2391,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Directly manipulating LibreOffice internal objects is an advanced topic that is beyond the scope of this chapter.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T185942Z" creationid="tagezi" creationdate="20180320T185942Z">
+        <seg>Непосредственное манипулирование внутренними объектами LibreOffice - это сложная тема, выходящая за рамки этой главы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directories and files with names beginning with a period may be hidden and not shown in a normal selection dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T124337Z" creationid="tagezi" creationdate="20180320T124337Z">
@@ -2725,6 +2757,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T181011Z" creationid="tagezi" creationdate="20180319T181011Z">
         <seg>К примерам этого относятся диалоговые окна организации макросов, вставки специальных символов, а также другие аналогичные типы диалоговых окон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand the Tools library in the LibreOffice library container.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T191728Z" creationid="tagezi" creationdate="20180320T191728Z">
+        <seg>Раскройте библиотеку Tools в контейнере библиотек LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3176,6 +3216,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060721Z" creationid="tagezi" creationdate="20180313T123636Z">
         <seg>Найдите в нём библиотеку с названием &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finding more information</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190819Z" creationid="tagezi" creationdate="20180320T190819Z">
+        <seg>Поиск дополнительной информации</seg>
       </tuv>
     </tu>
     <tu>
@@ -5083,6 +5131,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Included material</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T191230Z" creationid="tagezi" creationdate="20180320T191230Z">
+        <seg>Включенный материал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Individual &lt;i4/&gt;macros&lt;i5/&gt; &lt;i6/&gt;are&lt;i7/&gt; subroutines and functions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T090045Z" creationid="tagezi" creationdate="20180320T090045Z">
@@ -5747,6 +5803,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Listing &lt;seq0&gt;6&lt;/seq0&gt;: Append the text “Hello” to the current document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190229Z" creationid="tagezi" creationdate="20180320T190229Z">
+        <seg>Листинг &lt;seq0&gt;6&lt;/seq0&gt;: Append the text “Hello” to the current document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Listing &lt;t0&gt;2&lt;/t0&gt; shows the new macro has been added before Sub Main.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132356Z" creationid="tagezi" creationdate="20180312T132356Z">
@@ -5967,6 +6031,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T191132Z" creationid="olex" creationdate="20180315T191132Z">
         <seg>Многие документы, такие как письма и отчеты, имеют первую страницу, которая отличается от других страниц документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many excellent macros are included with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T191247Z" creationid="tagezi" creationdate="20180320T191247Z">
+        <seg>Многие отличные макросы включены в LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6329,6 +6401,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193833Z" creationid="olex" creationdate="20180307T193833Z">
         <seg>Нумерация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Numerous resources are available that provide help with writing macros.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190853Z" creationid="tagezi" creationdate="20180320T190853Z">
+        <seg>Доступны многочисленные ресурсы, которые предоставляют помощь при написании макросов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7041,6 +7121,46 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T152737Z" creationid="tagezi" creationdate="20180310T152737Z">
         <seg>Кнопка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REM Get the view cursor from the current controller.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190504Z" creationid="tagezi" creationdate="20180320T190426Z">
+        <seg>REM Получите курсор с текущего контроллера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REM Insert text "Hello" at the end of the document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190533Z" creationid="tagezi" creationdate="20180320T190533Z">
+        <seg>REM Вставить текст «Привет» в конце документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REM Move the cursor to the end of the document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190452Z" creationid="tagezi" creationdate="20180320T190452Z">
+        <seg>REM Переместите курсор в конец документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REM ThisComponent refers to the currently active document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190251Z" creationid="tagezi" creationdate="20180320T190251Z">
+        <seg>REM ThisComponent ссылается на текущий активный документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REM Verify that this is a text document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190322Z" creationid="tagezi" creationdate="20180320T190322Z">
+        <seg>REM Убедитесь, что это текстовый документ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9164,6 +9284,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The upper left corner of the LibreOffice help system contains a drop-down list that determines which help set is displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T191128Z" creationid="tagezi" creationdate="20180320T191128Z">
+        <seg>В верхнем левом углу справочной системы LibreOffice содержится раскрывающийся список, определяющий, какой набор справок отображается.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The usual methods for a beginner are to use macros that someone else has written or use the built-in macro recorder, which records keystrokes and saves them for use.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T105908Z" creationid="tagezi" creationdate="20180311T105908Z">
@@ -10044,6 +10172,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To view the help for Basic, choose &lt;f1&gt;LibreOffice Basic&lt;/f1&gt; from this list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T191219Z" creationid="tagezi" creationdate="20180320T191219Z">
+        <seg>Для просмотра Справки для Basic, выберите в выпадающем списке &lt;f1&gt;LibreOffice Basic&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toolbar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135123Z" creationid="tagezi" creationdate="20180320T135123Z">
@@ -10216,10 +10352,26 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use &lt;f0&gt;Help &gt; LibreOffice Help&lt;/f0&gt; to open the LibreOffice help pages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190935Z" creationid="tagezi" creationdate="20180320T190935Z">
+        <seg>Используйте &lt;f0&gt;Справка &gt; Справка по LibreOffice&lt;/f0&gt;, чтобы открыть страницы справки LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; to open the LibreOffice Basic Macro dialog (Figure &lt;t1&gt;1&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T120720Z" creationid="tagezi" creationdate="20180312T104811Z">
         <seg>Выберите &lt;f0&gt;Сервис &gt; Макросы &gt; Управление макросами &gt; LibreOffice Basic&lt;/f0&gt;, чтобы открыть диалоговое окна Макросы LibreOffice BASIC (Рисунок &lt;t1&gt;1&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; to open the Macro dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T191549Z" creationid="tagezi" creationdate="20180320T191549Z">
+        <seg>Используйте &lt;f0&gt;Сервис &gt; Макросы &gt; Управление макросами &gt; LibreOffice Basic&lt;/f0&gt; для открытия диалогового окна Управление макросами LibreOffice Basic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11983,6 +12135,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T181658Z" creationid="tagezi" creationdate="20180312T181658Z">
         <seg>запись</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>resources</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190830Z" creationid="tagezi" creationdate="20180320T190830Z">
+        <seg>ресурсы</seg>
       </tuv>
     </tu>
     <tu>
