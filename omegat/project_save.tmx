@@ -665,6 +665,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A library is usually used as a major grouping for either an entire category of macros, or for an entire application.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T085656Z" creationid="tagezi" creationdate="20180320T085656Z">
+        <seg>Библиотека обычно используется как основная структура или для всей категории макросов, или для всего приложения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A macro is a saved sequence of commands or keystrokes that are stored for later use.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T061205Z" creationid="tagezi" creationdate="20180311T095554Z">
@@ -2795,6 +2803,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;t8&gt;6&lt;/t8&gt; shows an example of the hierarchical structure of macro libraries in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T090143Z" creationid="tagezi" creationdate="20180320T090143Z">
+        <seg>Рисунок &lt;t8&gt;6&lt;/t8&gt; показывает пример иерархической структуры библиотек макросов в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File formats LibreOffice can open</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180304T071805Z" creationid="lera" creationdate="20180304T071805Z">
@@ -3526,6 +3542,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T085313Z" creationid="tagezi" creationdate="20180319T085313Z">
         <seg>Откройте диалоговое окно Макросы Basic  (Рисунок &lt;t1&gt;1&lt;/t1&gt; на странице &lt;t2&gt;5&lt;/t2&gt;), выбрав в главном меню &lt;f0&gt;Сервис &gt; Макросы &gt; Управление макросами &gt; LibreOffice Basic&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; on the main menu bar to open the LibreOffice Basic Macros dialog (Figure &lt;t1&gt;1&lt;/t1&gt; on page &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T090649Z" creationid="tagezi" creationdate="20180320T090649Z">
+        <seg>Выберите в меню &lt;f0&gt;Сервис &gt; Макросы &gt; Управление макросами &gt; LibreOffice Basic&lt;/f0&gt;, чтобы открыть диалоговое окно Макросы LibreOffice Basic (Рисунок &lt;t1&gt;1&lt;/t1&gt; на странице &lt;t2&gt;5&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4602,6 +4626,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Individual &lt;i4/&gt;macros&lt;i5/&gt; &lt;i6/&gt;are&lt;i7/&gt; subroutines and functions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T090045Z" creationid="tagezi" creationdate="20180320T090045Z">
+        <seg>&lt;i4/&gt;Отдельные &lt;i5/&gt;макросы — &lt;i6/&gt;это&lt;i7/&gt; подпрограммы и функции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Individual macros are stored in subroutines and these subroutines begin with the keyword SUB.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T113650Z" creationid="tagezi" creationdate="20180315T113650Z">
@@ -5478,6 +5510,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194450Z" creationid="olex" creationdate="20180306T194450Z">
         <seg>Изменение стилей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modules usually split functionality, such as user interaction and calculations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T085756Z" creationid="tagezi" creationdate="20180320T085756Z">
+        <seg>Модули обычно разделяют функциональные возможности, такие как взаимодействие с пользователем и вычисления.</seg>
       </tuv>
     </tu>
     <tu>
