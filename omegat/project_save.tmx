@@ -2520,6 +2520,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter &lt;f0&gt;%pi&lt;/f0&gt; in the Formula Editor to enter the Greek character for pi (π).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T144650Z" creationid="Роман" creationdate="20180320T144650Z">
+        <seg>Введите &lt;f0&gt;%pi&lt;/f0&gt; в Редакторе формул для ввода греческого символа (π).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter a library name, for example TestLibrary, and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T124728Z" creationid="tagezi" creationdate="20180312T124728Z">
@@ -4746,6 +4754,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Elements window, select &lt;f0&gt;Relations&lt;/f0&gt; from the drop-down list and then select the &lt;f1&gt;Is Similar Or Equal&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T144816Z" creationid="Роман" creationdate="20180320T144816Z">
+        <seg>В панели Элементы выберите &lt;f0&gt;Отношения&lt;/f0&gt; из выпадающего списка и затем выберите значок&lt;f1&gt;Is Similar Or Equal&lt;/f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Elements window, select &lt;f0&gt;Unary/Binary Operators&lt;/f0&gt; from the drop-down list and then select the &lt;f1&gt;Multiplication&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173147Z" creationid="Роман" creationdate="20180317T173147Z">
@@ -6892,6 +6908,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click in the Formula Editor and select &lt;f0&gt;Relations &gt; a simeq b&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T144947Z" creationid="Роман" creationdate="20180320T144947Z">
+        <seg>Щёлкните правой кнопкой мыши в Редакторе формул и выберите &lt;f0&gt;Отношения &gt; a simeq b&lt;/f0&gt; из контекстного меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click in the Formula Editor and select &lt;f0&gt;Unary/Binary Operators &gt; a times b&lt;/f0&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173309Z" creationid="Роман" creationdate="20180317T173309Z">
@@ -7313,6 +7337,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060907Z" creationid="tagezi" creationdate="20180313T133753Z">
         <seg>Для создания &lt;i1/&gt;нового модуля, который будет содержать макрос, выберите библиотеку Standard и нажмите кнопку &lt;f0&gt;Создать модуль&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the category &lt;f0&gt;Relations&lt;/f0&gt; and symbol &lt;f1&gt;Is Similar Or Equal&lt;/f1&gt; using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T144728Z" creationid="Роман" creationdate="20180320T144728Z">
+        <seg>Выберите категорию &lt;f0&gt;Отношения&lt;/f0&gt; и символ &lt;f1&gt;Is Similar Or Equal&lt;/f1&gt;, используя один из следующих методов:</seg>
       </tuv>
     </tu>
     <tu>
