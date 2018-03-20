@@ -2600,6 +2600,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even double-clicking on a graphic opens a dialog with a Macros tab that allows you to assign a macro to an event.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T183128Z" creationid="tagezi" creationdate="20180320T183128Z">
+        <seg>Даже двойное нажатие на графическом элементе открывает диалоговое окно со вкладкой Макросы, позволяющий назначать макрос событию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Event</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T141523Z" creationid="tagezi" creationdate="20180316T141523Z">
@@ -5882,6 +5890,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many objects in a document can be set to call macros when events occur.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T175921Z" creationid="tagezi" creationdate="20180320T175921Z">
+        <seg>Многие объекты в документе могут быть настроены на вызов макросов при возникновении событий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many people manually format paragraphs, words, tables, page layouts, and other parts of their documents without paying any attention to styles.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T133451Z" creationid="olex" creationdate="20180306T190252Z">
@@ -8815,6 +8831,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180304T071132Z" creationid="lera" creationdate="20180304T071132Z">
         <seg>Наиболее распространенными расширениями файлов, используемыми для документов OpenDocument, являются:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most common use is to add a control, such as a button, into a document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T175944Z" creationid="tagezi" creationdate="20180320T175944Z">
+        <seg>Наиболее распространенным является добавление элемента управления, например кнопки, в документ.</seg>
       </tuv>
     </tu>
     <tu>
