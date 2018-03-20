@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9546,8 +9546,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To apply a paragraph, page, or frame style, hover the mouse over the paragraph, page, or frame and click.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T160417Z" creationid="olex" creationdate="20180308T160417Z">
-        <seg>Чтобы применить стиль абзаца, страницы или врезки, наведите указатель мыши на абзац, страницу или врезку и нажмите правую кнопку мыши.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180320T184348Z" creationid="olex" creationdate="20180308T160417Z">
+        <seg>Чтобы применить стиль абзаца, страницы или врезки, наведите указатель мыши на абзац, страницу или врезку и нажмите левую кнопку мыши.</seg>
       </tuv>
     </tu>
     <tu>
