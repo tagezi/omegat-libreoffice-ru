@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5602,11 +5602,12 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: убрал повторение слова стили в конце, по русски оно лишнее</note>
       <tuv lang="EN-US">
         <seg>LibreOffice includes predefined styles, but you can also create custom styles.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T104727Z" creationid="olex" creationdate="20180308T174227Z">
-        <seg>LibreOffice включает в себя предопределенные стили, но вы также можете создавать собственные стили.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180320T191848Z" creationid="olex" creationdate="20180308T174227Z">
+        <seg>LibreOffice включает в себя предопределенные стили, но вы также можете создавать собственные.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10078,8 +10079,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>To remove manual formatting, select the text, right-click, and choose &lt;f0&gt;Clear Direct Formatting&lt;/f0&gt; from the context menu, or select the text and press &lt;f1&gt;Ctrl+M&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T104445Z" creationid="olex" creationdate="20180308T173901Z">
-        <seg>Чтобы удалить ручное форматирование, выберите текст, щелкните правой кнопкой мыши и выберите &lt;f0&gt;Стили &gt; Очистить форматирование&lt;/f0&gt; в контекстном меню или выделите текст и нажмите &lt;f1&gt;Ctrl + M&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180320T191642Z" creationid="olex" creationdate="20180308T173901Z">
+        <seg>Чтобы удалить ручное форматирование, выберите текст, щелкните правой кнопкой мыши и выберите &lt;f0&gt;Стили &gt; Очистить форматирование&lt;/f0&gt; в контекстном меню или нажмите &lt;f1&gt;Ctrl + M&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12269,8 +12270,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>styles</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T132100Z" creationid="olex" creationdate="20180306T183621Z">
-        <seg>стили</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180320T191730Z" creationid="olex" creationdate="20180306T183621Z">
+        <seg>стилей</seg>
       </tuv>
     </tu>
     <tu>
