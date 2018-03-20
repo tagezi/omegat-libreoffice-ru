@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3547,6 +3547,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more about obtaining and installing extensions, see Chapter 14, Customizing LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T184843Z" creationid="tagezi" creationdate="20180320T184843Z">
+        <seg>Подробнее о получении и установке расширений, смотрите Главу 14 Настройка LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more detail, see the user guides for the individual components.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T083231Z" creationid="tagezi" creationdate="20180306T083231Z">
@@ -4887,6 +4895,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T134922Z" creationid="olex" creationdate="20180306T200911Z">
         <seg>Другими словами, использование стилей означает, что вы смещаете акцент с того как выглядит текст (или страница, или другой элемент) на содержание &lt;f1&gt;текста&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In other words, you can create a macro that directly manipulates a document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T185745Z" creationid="tagezi" creationdate="20180320T185745Z">
+        <seg>Другими словами, вы можете создать макрос, который непосредственно манипулирует документом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10889,6 +10905,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Writing macros without the recorder</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T185145Z" creationid="tagezi" creationdate="20180320T185126Z">
+        <seg>Создание макросов без использования функции Запись макросов  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>X</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180319T190427Z" creationid="olex" creationdate="20180319T190427Z">
@@ -10973,6 +10997,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T180517Z" creationid="olex" creationdate="20180311T180321Z">
         <seg>Вы так же можете сохранять настройки меню и панели инструментов в шаблонах; смотрите &lt;f0&gt;главу 14, Настройка LibreOfficelt&lt;/f0&gt;, для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also write macros that directly access the objects that comprise LibreOffice if you are confident in writing computer code.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T185557Z" creationid="tagezi" creationdate="20180320T185557Z">
+        <seg>Если вы уверены в написании компьютерного кода, возможно также создавать макросы, обращающиеся напрямую к объектам, которые составляют LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12174,6 +12206,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T065538Z" creationid="tagezi" creationdate="20180315T065538Z">
         <seg>просмотр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>writing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T185139Z" creationid="tagezi" creationdate="20180320T184900Z">
+        <seg>создание</seg>
       </tuv>
     </tu>
     <tu>
