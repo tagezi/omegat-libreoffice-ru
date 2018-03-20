@@ -3107,6 +3107,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, on computer running Windows XP, this is &lt;f1&gt;C:\Documents and Settings\&lt;user name&gt;\Application Data&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T112201Z" creationid="tagezi" creationdate="20180320T112201Z">
+        <seg>Например, на компьютере под управлением Windows XP — это &lt;f1&gt;C:\Documents and Settings\&lt;user name&gt;\Application Data&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, select your newly created macro EnterMyName and click &lt;f0&gt;Run&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T185346Z" creationid="tagezi" creationdate="20180313T185346Z">
@@ -3638,6 +3646,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T061257Z" creationid="tagezi" creationdate="20180313T185238Z">
         <seg>Откройте диалоговое окно Выбор макроса (Рисунок &lt;t1&gt;4&lt;/t1&gt;), выбрав в меню &lt;f0&gt;Сервис &gt; Макросы &gt; Выполнить макрос&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f0&gt; on the main menu bar to view where other configuration data are stored.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T112136Z" creationid="tagezi" creationdate="20180320T112136Z">
+        <seg>Выберите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Пути&lt;/f0&gt; для просмотра, где хранятся другие данные конфигурации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8112,6 +8128,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The location is operating system specific.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T112002Z" creationid="tagezi" creationdate="20180320T112002Z">
+        <seg>Местоположение зависит от операционной системы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The location varies with your computer’s operating system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T203608Z" creationid="olex" creationdate="20180312T203608Z">
@@ -9451,6 +9475,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T155222Z" creationid="lera" creationdate="20180303T155222Z">
         <seg>Используется с другими клавишами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User macros are stored in &lt;f2&gt;LibreOffice\4\user\basic&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T112240Z" creationid="tagezi" creationdate="20180320T112240Z">
+        <seg>Пользовательские макросы хранятся в &lt;f2&gt;LibreOffice\4\user\basic&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
