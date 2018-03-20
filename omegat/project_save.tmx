@@ -1645,6 +1645,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to import the macro library you selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T132209Z" creationid="tagezi" creationdate="20180320T132209Z">
+        <seg>Нажмите кнопку &lt;f0&gt;OK&lt;/f0&gt; для импорта выбранной библиотеки макросов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the new style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203400Z" creationid="olex" creationdate="20180309T203400Z">
@@ -2322,6 +2330,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T202724Z" creationid="olex" creationdate="20180312T202724Z">
         <seg>Загрузите шаблон и сохраните его в любом месте на вашем компьютере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Downloading macros to import</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T132226Z" creationid="tagezi" creationdate="20180320T132226Z">
+        <seg>Загрузка макросов для импорта</seg>
       </tuv>
     </tu>
     <tu>
@@ -5506,6 +5522,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Macros are available for download.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T132236Z" creationid="tagezi" creationdate="20180320T132236Z">
+        <seg>Макросы доступны для загрузки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Macros are not available until the library that contains them is loaded.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T105204Z" creationid="tagezi" creationdate="20180320T105204Z">
@@ -7314,6 +7338,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T105217Z" creationid="tagezi" creationdate="20180310T105217Z">
         <seg>Некоторые нажатия клавиш и пункты меню отличаются на macOS от тех, которые используются в Windows и Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some macros are contained in documents, some as regular files that you must select and import, and some as macro text that should be copied and pasted into the Basic IDE.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T132958Z" creationid="tagezi" creationdate="20180320T132958Z">
+        <seg>Некоторые макросы содержатся в документах, некоторые - как обычные файлы, которые вы должны выбрать и импортировать, а некоторые - как тест макроса, который следует скопировать и вставить в Basic IDE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9991,6 +10023,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a library is used as a reference, it remains in its current location and is read only.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T132100Z" creationid="tagezi" creationdate="20180320T132100Z">
+        <seg>Когда библиотека используется в качестве ссылки, она остается в текущем местоположении и является только для чтения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a message box appears asking you to confirm the deletion, click &lt;f1&gt;Yes&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T210206Z" creationid="olex" creationdate="20180313T210206Z">
@@ -11028,6 +11068,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T201136Z" creationid="olex" creationdate="20180310T201136Z">
         <seg>документ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>downloading</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T132215Z" creationid="tagezi" creationdate="20180320T132215Z">
+        <seg>загрузка</seg>
       </tuv>
     </tu>
     <tu>
