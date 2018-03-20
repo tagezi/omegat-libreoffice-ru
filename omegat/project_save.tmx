@@ -7477,6 +7477,22 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the desired event and click &lt;f0&gt;Macro&lt;/f0&gt; to open the Macro Selector dialog (Figure &lt;t1&gt;4&lt;/t1&gt; on page &lt;t2&gt;7&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T162634Z" creationid="tagezi" creationdate="20180320T162634Z">
+        <seg>Выберите нужное событие и нажмите кнопку &lt;f0&gt;Макрос&lt;/f0&gt; для открытия диалогового окна Выбор макроса (Рисунок &lt;t1&gt;4&lt;/t1&gt; на странице &lt;t2&gt;7&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the desired macro and click &lt;f0&gt;OK&lt;/f0&gt; to assign the macro to the event.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T162724Z" creationid="tagezi" creationdate="20180320T162724Z">
+        <seg>Выберите нужный макрос и нажмите кнопку &lt;f0&gt;OK&lt;/f0&gt; для назначения макроса событию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the first placeholder &lt;f0&gt;&lt;?&gt;&lt;/f0&gt; before the word &lt;f1&gt;times&lt;/f1&gt; in the Formula Editor and replace it with the character &lt;f2&gt;5&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173402Z" creationid="Роман" creationdate="20180317T173311Z">
@@ -8759,6 +8775,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T122832Z" creationid="tagezi" creationdate="20180311T122832Z">
         <seg>Запись макросов работает по средствам записи команд, которые are dispatched (see “&lt;f0&gt;&lt;rf1&gt;Dispatch framework&lt;/rf1&gt;&lt;/f0&gt;” &lt;f2&gt;на странице &lt;/f2&gt;&lt;f3&gt;&lt;rf4&gt;13&lt;/rf4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The macro then performs certain setup tasks for the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T162246Z" creationid="tagezi" creationdate="20180320T162246Z">
+        <seg>Затем макрос выполняет определенные ситуационные задачи для документа.</seg>
       </tuv>
     </tu>
     <tu>
