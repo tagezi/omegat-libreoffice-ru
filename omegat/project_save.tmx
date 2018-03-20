@@ -713,6 +713,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A more common technique for frequently used macros is to link the macro to a toolbar icon, menu item, keyboard shortcut, or a button embedded in a document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134526Z" creationid="tagezi" creationdate="20180320T134526Z">
+        <seg>Более часто используемый способ для часто используемых макросов заключается в том, чтобы связать макрос с иконкой панели инструментов, элементом меню, сочетанием клавиш или кнопкой, встроенной в документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A more complex example would be: &lt;f3&gt;Title&lt;/f3&gt; followed by &lt;f4&gt;Author&lt;/f4&gt; followed by &lt;f5&gt;Abstract&lt;/f5&gt; followed by &lt;f6&gt;Heading 1&lt;/f6&gt; followed by &lt;f7&gt;Text Body&lt;/f7&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T203658Z" creationid="olex" creationdate="20180316T203658Z">
@@ -1055,6 +1063,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T150138Z" creationid="tagezi" creationdate="20180311T101930Z">
         <seg>Хотя изучить Basic и писать макросы возможно, существует большая сложность научиться написанию макросов с нуля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although you can use &lt;f0&gt;Tools &gt; Macros &gt; Run Macro&lt;/f0&gt; to run all macros, this is not efficient for frequently run macros.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134317Z" creationid="tagezi" creationdate="20180320T134317Z">
+        <seg>Хотя вы можете использовать в меню &lt;f0&gt; Сервис &gt; Макросы &gt; Выполнить макрос&lt;/f0&gt; для запуска всех макросов, это неэффективно для часто запускаемых макросов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3866,6 +3882,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How frequently will the macro be used?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134744Z" creationid="tagezi" creationdate="20180320T134744Z">
+        <seg>Как часто будет использоваться макрос?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How is LibreOffice licensed?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T155801Z" creationid="lera" creationdate="20180303T155801Z">
@@ -4894,6 +4918,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T173634Z" creationid="tagezi" creationdate="20180310T173634Z">
         <seg>Он написан на Java?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is the macro for a specific document type, such as a Calc document?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134728Z" creationid="tagezi" creationdate="20180320T134728Z">
+        <seg>Является ли это макросом для определенного типа документа, например документа Calc?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7020,6 +7052,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See “&lt;bf1&gt;Running a macro&lt;/bf1&gt;” on page &lt;bf2&gt;7&lt;/bf2&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134406Z" creationid="tagezi" creationdate="20180320T134406Z">
+        <seg>Смотрите “&lt;bf1&gt;Выполнение макросов&lt;/bf1&gt;” на странице &lt;bf2&gt;7&lt;/bf2&gt;, чтобы получить больше информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See “&lt;rf0&gt;Setting a default template&lt;/rf0&gt;” on page &lt;rf1&gt;18&lt;/rf1&gt;&lt;s2/&gt;for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T180913Z" creationid="olex" creationdate="20180306T180913Z">
@@ -7361,6 +7401,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T141512Z" creationid="tagezi" creationdate="20180316T141512Z">
         <seg>Сочетание клавиш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should the macro be available for only one document, or globally for all documents?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134642Z" creationid="tagezi" creationdate="20180320T134642Z">
+        <seg>Должен ли макрос быть доступен только для одного документа или для всех?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8060,6 +8108,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T202015Z" creationid="olex" creationdate="20180310T202015Z">
         <seg>Откроется диалоговое окно Шаблоны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The answers will determine where to store the macro and how to make it available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134847Z" creationid="tagezi" creationdate="20180320T134847Z">
+        <seg>Ответы будут определять, где хранить макрос, и как он должен быть доступным.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10251,6 +10307,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T083258Z" creationid="tagezi" creationdate="20180306T083258Z">
         <seg>Где получить дополнительную помощь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While choosing a method, it is also good to ask questions such as:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134600Z" creationid="tagezi" creationdate="20180320T134600Z">
+        <seg>Выбирая метод, также полезно задавать такие вопросы, как:</seg>
       </tuv>
     </tu>
     <tu>
