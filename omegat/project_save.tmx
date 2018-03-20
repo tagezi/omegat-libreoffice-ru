@@ -793,6 +793,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A specific document type</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135100Z" creationid="tagezi" creationdate="20180320T135100Z">
+        <seg>Документ конкретного типа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A standard file browser window opens.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T185052Z" creationid="olex" creationdate="20180315T185052Z">
@@ -2078,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Customize dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135234Z" creationid="tagezi" creationdate="20180320T135234Z">
+        <seg>Диалоговое окно Настройки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data Interchange Format (.dif)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T065508Z" creationid="tagezi" creationdate="20180305T065508Z">
@@ -3350,6 +3366,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T133944Z" creationid="olex" creationdate="20180306T190748Z">
         <seg>Например, вы могли бы указать семейство шрифтов, размер шрифта и другое форматирование, такое как полужирный шрифт или курсив, как при использовании печатной машинки, описанном выше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you will probably not add a rarely used macro to a toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134916Z" creationid="tagezi" creationdate="20180320T134916Z">
+        <seg>Например, вы, вероятно, не добавите редко используемый макрос на панель инструментов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5130,6 +5154,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice (for all components)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135031Z" creationid="tagezi" creationdate="20180320T135031Z">
+        <seg>LibreOffice (для всех компонентов)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice 3 adopted version 1.2 of the OpenDocument standard and LibreOffice 5 continues to use this standard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180304T061446Z" creationid="lera" creationdate="20180304T061446Z">
@@ -6160,6 +6192,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T135133Z" creationid="User" creationdate="20180308T135133Z">
         <seg>Выберите пункт меню &lt;f0&gt;Файл &gt; Создать &gt; Формулу&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135107Z" creationid="tagezi" creationdate="20180320T135107Z">
+        <seg>Один документ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7660,6 +7700,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153916Z" creationid="User" creationdate="20180311T153916Z">
         <seg>Таблица &lt;seq0&gt;1&lt;/seq0&gt;: Код MathML 1.01, импортированный из буфера обмена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table &lt;seq0&gt;2&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134950Z" creationid="tagezi" creationdate="20180320T134950Z">
+        <seg>Таблица &lt;seq0&gt;2&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9401,6 +9449,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To help determine your choices, see Table &lt;t0&gt;2&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134944Z" creationid="tagezi" creationdate="20180320T134944Z">
+        <seg>Чтобы определить ваши варианты, смотрите Таблицу &lt;t0&gt;2&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To import a MathML Presentation formula, copy the formula from the external equation editor and issue &lt;f0&gt;Tools &gt; Import MathML from Clipboard&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153702Z" creationid="User" creationdate="20180311T153702Z">
@@ -9618,6 +9674,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135123Z" creationid="tagezi" creationdate="20180320T135123Z">
+        <seg>Панель инструментов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toolbars, menu items, and keyboard shortcuts</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T142708Z" creationid="tagezi" creationdate="20180316T142708Z">
@@ -9640,6 +9704,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T183726Z" creationid="olex" creationdate="20180311T183726Z">
         <seg>Тип факса (деловой или личный)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type of macro</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135016Z" creationid="tagezi" creationdate="20180320T135016Z">
+        <seg>Тип макроса</seg>
       </tuv>
     </tu>
     <tu>
@@ -10307,6 +10379,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T083258Z" creationid="tagezi" creationdate="20180306T083258Z">
         <seg>Где получить дополнительную помощь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where to store a macro</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135003Z" creationid="tagezi" creationdate="20180320T135003Z">
+        <seg>Где хранить макрос</seg>
       </tuv>
     </tu>
     <tu>
@@ -11336,6 +11416,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>keyboard shortcuts (macros)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135150Z" creationid="tagezi" creationdate="20180320T135150Z">
+        <seg>сочетания клавиш (макросы)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>landscape page</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T193731Z" creationid="olex" creationdate="20180316T193731Z">
@@ -11652,6 +11740,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153511Z" creationid="tagezi" creationdate="20180304T153511Z">
         <seg>текстовых документов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>toolbar icons (macros)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135208Z" creationid="tagezi" creationdate="20180320T135208Z">
+        <seg>значки панели инструментов (макросы)</seg>
       </tuv>
     </tu>
     <tu>
