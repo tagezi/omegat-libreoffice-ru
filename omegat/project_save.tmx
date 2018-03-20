@@ -2246,6 +2246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Directories and files with names beginning with a period may be hidden and not shown in a normal selection dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T124337Z" creationid="tagezi" creationdate="20180320T124337Z">
+        <seg>Каталоги и файлы с именами, начинающимися с точки, могут быть скрыты и не показаны в обычном диалоговом окне выбора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dispatch framework</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T172908Z" creationid="tagezi" creationdate="20180319T172858Z">
@@ -4062,6 +4070,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T194145Z" creationid="olex" creationdate="20180310T194145Z">
         <seg>Если этот пункт не выбран, то вы будете копировать только стили, имена которых не используются в исходном документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If using LibreOffice dialogs, rather than the operating system specific dialogs, type the name of the desired directory in the Name field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T125952Z" creationid="tagezi" creationdate="20180320T125952Z">
+        <seg>Если вы используете диалоги LibreOffice, а не операционной системы, введите имя нужной директории в поле Имя.</seg>
       </tuv>
     </tu>
     <tu>
