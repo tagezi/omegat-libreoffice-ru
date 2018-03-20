@@ -715,8 +715,8 @@
       <tuv lang="EN-US">
         <seg>A more common technique for frequently used macros is to link the macro to a toolbar icon, menu item, keyboard shortcut, or a button embedded in a document.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134526Z" creationid="tagezi" creationdate="20180320T134526Z">
-        <seg>Более часто используемый способ для часто используемых макросов заключается в том, чтобы связать макрос с иконкой панели инструментов, элементом меню, сочетанием клавиш или кнопкой, встроенной в документ.</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T140355Z" creationid="tagezi" creationdate="20180320T134526Z">
+        <seg>Более часто используемый способ для часто используемых макросов заключается в том, чтобы связать макрос с значком панели инструментов, элементом меню, сочетанием клавиш или кнопкой, встроенной в документ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2911,6 +2911,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T203443Z" creationid="olex" creationdate="20180310T203443Z">
         <seg>Рисунок &lt;seq0&gt;8&lt;/seq0&gt;: Диалоговое окно Шаблоны, с выбранным шаблоном</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Menus page in Customize dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T140611Z" creationid="tagezi" creationdate="20180320T140611Z">
+        <seg>Рисунок &lt;seq0&gt;9&lt;/seq0&gt;: Вкладка Меню в диалоговом окне Настройка</seg>
       </tuv>
     </tu>
     <tu>
@@ -7848,6 +7856,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Customize dialog contains pages to configure menus, keyboard shortcuts, toolbars, and events.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T140640Z" creationid="tagezi" creationdate="20180320T140640Z">
+        <seg>Диалоговое окно Настройка содержит страницы для настройки меню, сочетаний клавиш, панелей инструментов и событий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Dim keyword originally stood for Dimension and was used to define the dimensions of an array.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T181543Z" creationid="tagezi" creationdate="20180315T181543Z">
@@ -9240,6 +9256,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To add a &lt;i0/&gt;menu item, &lt;i1/&gt;keyboard shortcut, or &lt;i2/&gt;toolbar icon that calls a macro, use &lt;i3/&gt;the Customize dialog (Figure &lt;t4&gt;9&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T140441Z" creationid="tagezi" creationdate="20180320T140345Z">
+        <seg>Для добавления &lt;i0/&gt;пункта меню, &lt;i1/&gt;сочетания клавиш или &lt;i2/&gt;значка на панель инструментов, которые будут вызывать макрос, используйте &lt;i3/&gt;диалоговое окно Настройка (Рисунок &lt;t4&gt;9&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To apply a character style to more than one word, select the characters first.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T205608Z" creationid="olex" creationdate="20180307T205608Z">
@@ -9541,6 +9565,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T203953Z" creationid="olex" creationdate="20180310T203953Z">
         <seg>Чтобы открыть диалоговое окно Шаблоны в стартовом окне, нажмите кнопку &lt;f0&gt;Шаблоны&lt;/f0&gt; на панели слева.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To open this dialog, go to &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; on the main menu bar or right-click in an empty space on a toolbar and select &lt;f1&gt;Customize Toolbar&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T141136Z" creationid="tagezi" creationdate="20180320T141136Z">
+        <seg>Чтобы открыть это диалоговое окно, выберите в меню &lt;f0&gt;Сервис &gt; Настройка&lt;/f0&gt;, или нажмите правой кнопкой мыши в пустом пространстве на панели инструментов и выберите в контекстном меню &lt;f1&gt;Настройка панели инструментов&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
