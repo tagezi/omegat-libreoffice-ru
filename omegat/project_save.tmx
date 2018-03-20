@@ -2763,6 +2763,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Macro Library hierarchy</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103305Z" creationid="tagezi" creationdate="20180320T103305Z">
+        <seg>Рисунок &lt;seq0&gt;6&lt;/seq0&gt;: Иерархия библиотек макросов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Table autoformat styles</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T213251Z" creationid="olex" creationdate="20180309T213251Z">
@@ -3886,6 +3894,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T201446Z" creationid="olex" creationdate="20180309T201446Z">
         <seg>Если в документе требуется пользовательские стили, созданные на основе базовых стилей, придумайте префикс имени пользовательских стилей из нескольких символов, чтобы различать их среди других стилей в списке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a macro is contained in a document, then a recorded macro will attempt to work on that document; because it primarily uses “ThisComponent” for its actions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103438Z" creationid="tagezi" creationdate="20180320T103438Z">
+        <seg>Если макрос содержится в документе, тогда записанный макрос будет пытаться работать над этим документом; потому что в первую очередь использует «ThisComponent» для своих действий.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7528,6 +7544,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The My Macros container is stored in your user area or home directory.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103220Z" creationid="tagezi" creationdate="20180320T103220Z">
+        <seg>Контейнер Мои макросы хранится в вашей пользовательской области или в домашнем каталоге.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The OpenOffice.org project began when &lt;is0/&gt;Sun Microsystems&lt;ie1/&gt; released the source code (“blueprints”) for its StarOffice® software to the open source community on October 13, 2000.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T053944Z" creationid="lera" creationdate="20180303T164411Z">
@@ -8498,6 +8522,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T165615Z" creationid="lera" creationdate="20180303T165615Z">
         <seg>Этот фонд является краеугольным камнем новой экосистемы, в которой отдельные лица и организации могут вносить свой вклад и получать доступ к наличию по-настоящему свободного офисного пакета.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This helps protect these macros because they should not be changed and you should not store your own macros in the LibreOffice container.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T102715Z" creationid="tagezi" creationdate="20180320T102715Z">
+        <seg>Это помогает защитить эти макросы, потому что их не следует изменять, и вы не должны хранить свои макросы в контейнере LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
