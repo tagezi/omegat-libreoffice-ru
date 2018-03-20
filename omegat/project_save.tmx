@@ -1244,6 +1244,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you create your macros, you must decide where to store them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T104055Z" creationid="tagezi" creationdate="20180320T104055Z">
+        <seg>Когда вы создаете свои макросы, вы должны решить, где их хранить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you enter the markup language in the Formula Editor, the formula will appear in the Preview window during and after input of the markup.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153059Z" creationid="User" creationdate="20180311T153021Z">
@@ -1385,6 +1393,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T201810Z" creationid="olex" creationdate="20180306T201810Z">
         <seg>Напротив, при использовании стилей, вам нужно сделать только одно изменение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, LibreOffice uses names such as Module1, Module2 and so on.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T104034Z" creationid="tagezi" creationdate="20180320T104034Z">
+        <seg>По умолчанию, LibreOffice использует имена, такие как Module1, Module2 и так далее.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2468,6 +2484,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T090858Z" creationid="tagezi" creationdate="20180320T090858Z">
         <seg>Каждый документ представляет собой контейнер библиотек, способный содержать несколько библиотек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every library container contains a library named &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103528Z" creationid="tagezi" creationdate="20180320T103528Z">
+        <seg>Каждый контейнер библиотек содержит библиотеку с именем &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4762,6 +4786,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is better to create your own libraries with meaningful names than to use the Standard library.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103624Z" creationid="tagezi" creationdate="20180320T103601Z">
+        <seg>Лучше создавать собственные библиотеки со значимыми именами, чем использовать библиотеку Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is not possible to specify what kind of object to create or insert.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T180001Z" creationid="tagezi" creationdate="20180319T180001Z">
@@ -4874,6 +4906,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just as it makes good sense to give your libraries meaningful names, it is prudent to use meaningful names for your modules.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103954Z" creationid="tagezi" creationdate="20180320T103954Z">
+        <seg>Так же, как имеет смысл придать вашим библиотекам значимые имена, разумно использовать значимые имена для ваших модулей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keyboard shortcuts</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T195909Z" creationid="olex" creationdate="20180307T195909Z">
@@ -4966,6 +5006,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153555Z" creationid="User" creationdate="20180311T153555Z">
         <seg>LibreOffice Math может импортировать презентации MathML напрямую из буфера обмена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice allows you to import libraries into a library container, but it will not allow you to overwrite the library named Standard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103826Z" creationid="tagezi" creationdate="20180320T103826Z">
+        <seg>LibreOffice позволяет импортировать библиотеки в контейнер библиотек, но не позволит перезаписывать библиотеку с именем Standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5338,6 +5386,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Macros stored in the application library container named My Macros, however, are globally available to all documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T105136Z" creationid="tagezi" creationdate="20180320T105136Z">
+        <seg>Однако макросы, хранящиеся в контейнере библиотек приложения с именем Мои макросы, доступны глобально для всех документов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mailing lists</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T091127Z" creationid="tagezi" creationdate="20180305T091127Z">
@@ -5663,6 +5719,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T183448Z" creationid="olex" creationdate="20180315T183448Z">
         <seg>Также вы не можете удалить шаблоны, установленные  в Управление расширениями, не удалив расширение, с которым они были установлены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not only are meaningful names easier to manage, but they can also be imported into other library containers whereas the Standard library cannot.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103737Z" creationid="tagezi" creationdate="20180320T103737Z">
+        <seg>Значимые имена не только упрощают управление, но также могут быть импортированы в другие контейнеры библиотек, тогда как стандартная библиотека не.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7110,6 +7174,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Storing a macro in a document is useful if the document will be shared and you want the macro to be included with the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T104128Z" creationid="tagezi" creationdate="20180320T104128Z">
+        <seg>Сохранение макроса в документе полезно, если документ будет совместно использоваться, и вы хотите, чтобы макрос был включен в документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Style Type</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193459Z" creationid="olex" creationdate="20180307T193459Z">
@@ -8351,6 +8423,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T104100Z" creationid="tagezi" creationdate="20180307T104100Z">
         <seg>Там вы найдете экземпляры Руководств пользователя и другую полезную информацию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, if you store your macros in the Standard library, you cannot import them into another library container.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103924Z" creationid="tagezi" creationdate="20180320T103924Z">
+        <seg>Поэтому, если вы сохраняете свои макросы в библиотеке Standard, их нельзя импортировать в другой контейнер библиотек.</seg>
       </tuv>
     </tu>
     <tu>
