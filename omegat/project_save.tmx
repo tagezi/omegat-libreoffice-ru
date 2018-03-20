@@ -5234,6 +5234,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice stores user-specific data in a directory in the home directory for each user.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T111824Z" creationid="tagezi" creationdate="20180320T111824Z">
+        <seg>LibreOffice хранит пользовательские данные в подкаталоге домашнего каталога для этого пользователя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice supports the following types of styles:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T175844Z" creationid="olex" creationdate="20180307T175844Z">
@@ -9057,6 +9065,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To load the library and the modules it contains, double-click on the library.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T110502Z" creationid="tagezi" creationdate="20180320T110502Z">
+        <seg>Чтобы загрузить библиотеку и модули, которые она содержит, дважды щелкните правой кнопкой мыши по библиотеке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To make those changes the default settings for that document type, you need to replace the default template with a new one.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T190843Z" creationid="olex" creationdate="20180313T190843Z">
@@ -9883,6 +9899,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T200611Z" creationid="olex" creationdate="20180316T200611Z">
         <seg>Когда вы вставляете верхний колонтитул в стиль страницы, настроенный для зеркальных страниц (или правых и левых страниц), вы можете сделать содержимое заголовка одинаковым для всех страниц или различным для правой и левой страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where are macros &lt;i0/&gt;stored?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T110529Z" creationid="tagezi" creationdate="20180320T110529Z">
+        <seg>Где макросы &lt;i0/&gt;хранятся?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11156,6 +11180,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201437Z" creationid="Роман" creationdate="20180316T201437Z">
         <seg>sqrt {a}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>storage</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T110510Z" creationid="tagezi" creationdate="20180320T110510Z">
+        <seg>хранилище</seg>
       </tuv>
     </tu>
     <tu>
