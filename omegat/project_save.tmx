@@ -1844,12 +1844,13 @@
       </tuv>
     </tu>
     <tu>
-      <note>LG: Тут скорее всего ошибка, оно должно писаться как: "Clicking word applies the character style to that word". Ну, и тогда нет необходимости актив превращать в пассив.</note>
+      <note>LG: Тут скорее всего ошибка, оно должно писаться как: "Clicking word applies the character style to that word". Ну, и тогда нет необходимости актив превращать в пассив.
+denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Clicking a word applies the character style for that word.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180308T164344Z" creationid="olex" creationdate="20180308T164344Z">
-        <seg>При нажатии на слово применяется стиль символа для всего слова.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180320T185003Z" creationid="olex" creationdate="20180308T164344Z">
+        <seg>При нажатии на слово применяется стиль символа для этого слова.</seg>
       </tuv>
     </tu>
     <tu>
