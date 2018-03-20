@@ -673,6 +673,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A loaded library is displayed differently from a library that is not loaded.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T110407Z" creationid="tagezi" creationdate="20180320T110407Z">
+        <seg>Загруженная библиотека отображается иначе, чем та, которая не загружена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A macro is a saved sequence of commands or keystrokes that are stored for later use.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T061205Z" creationid="tagezi" creationdate="20180311T095554Z">
