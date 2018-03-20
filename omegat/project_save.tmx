@@ -2843,6 +2843,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Choose library import options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130158Z" creationid="tagezi" creationdate="20180320T130158Z">
+        <seg>Рисунок &lt;seq0&gt;8&lt;/seq0&gt;: Выбор параметров импорта библиотеки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Templates dialog, showing a selected template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T203443Z" creationid="olex" creationdate="20180310T203443Z">
@@ -3874,6 +3882,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, if the library you are importing has the same name and you are importing into the same location, it will not be copied.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130435Z" creationid="tagezi" creationdate="20180320T130435Z">
+        <seg>Однако, если импортируемая библиотека имеет уже существующее имя и вы импортируете ее в то же место, она не будет скопирована.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, if you want to evaluate numeric values using formulas, then refer to the Calc Guide for more information; Math does not carry out any actual calculation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T204600Z" creationid="User" creationdate="20180307T204600Z">
@@ -4014,6 +4030,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180318T122108Z" creationid="Роман" creationdate="20180318T122108Z">
         <seg>Если необходимо, можно предотвратить автоматическое обновление формулы в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If no options are selected, the library is copied to your user macro directory.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130309Z" creationid="tagezi" creationdate="20180320T130309Z">
+        <seg>Если параметры не выбраны, библиотека будет скопирована в ваш каталог пользователя макросов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6956,6 +6980,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Replace existing libraries&lt;/f0&gt; if the library you want to import has the same name and you want to replace the existing library.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130701Z" creationid="tagezi" creationdate="20180320T130701Z">
+        <seg>Выберите &lt;f0&gt;Заменить существующие библиотеки&lt;/f0&gt;, если библиотека, которую вы хотите импортировать, имеет то же имя и вы хотите заменить существующую библиотеку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;View &gt; Styles&lt;/f0&gt; or &lt;f1&gt;Styles &gt; Manage Styles&lt;/f1&gt; from the Menu bar, or press &lt;f2&gt;F11&lt;/f2&gt; (&lt;f3&gt;⌘+T &lt;/f3&gt;on a Mac), or click the Styles tab in the Sidebar (&lt;f4&gt;View &gt; Sidebar&lt;/f4&gt; to open it).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180319T190857Z" creationid="olex" creationdate="20180307T204101Z">
@@ -6992,6 +7024,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123345Z" creationid="tagezi" creationdate="20180320T123345Z">
         <seg>Чтобы импортировать библиотеки, содержащиеся в документе, выберите документ вместо каталога на диске.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a file and click &lt;f0&gt;Open&lt;/f0&gt; to continue and open the Import Libraries dialog (Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130730Z" creationid="tagezi" creationdate="20180320T130058Z">
+        <seg>Выберите файл и нажмите кнопку &lt;f0&gt;Открыть&lt;/f0&gt; для продолжения и открытия диалогового окна «Добавить библиотеки» (Рисунок &lt;t1&gt;8&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7089,6 +7129,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173402Z" creationid="Роман" creationdate="20180317T173311Z">
         <seg>Вделите первый заполнитель &lt;f0&gt;&lt;?&gt;&lt;/f0&gt; перед словом &lt;f1&gt;times&lt;/f1&gt; в Редакторе формул и замените его на символ &lt;f2&gt;5&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the following options for importing libraries:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130220Z" creationid="tagezi" creationdate="20180320T130220Z">
+        <seg>Выберите следующие параметры импорта библиотек:</seg>
       </tuv>
     </tu>
     <tu>
