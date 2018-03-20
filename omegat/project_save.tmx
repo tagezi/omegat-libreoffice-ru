@@ -6956,6 +6956,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Insert as reference&lt;/f0&gt; if you want to use the library as reference, but not import the library into your document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T132000Z" creationid="tagezi" creationdate="20180320T132000Z">
+        <seg>Выберите &lt;f0&gt;Вставить как ссылку&lt;/f0&gt;, если вы хотите использовать библиотеку в качестве ссылки, но не импортируете библиотеку в свой документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Keep Old Styles&lt;/f0&gt; if you do not want to apply the changed styles in the template to the document (but see the Caution notice below).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T193924Z" creationid="olex" creationdate="20180311T193924Z">
