@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1066,6 +1066,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although individual extensions can be found in several places, there is currently an extension repository at: &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt; and some documentation at &lt;a1&gt;http://libreplanet.org/wiki/Group:OpenOfficeExtensions/List&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T184741Z" creationid="tagezi" creationdate="20180320T184741Z">
+        <seg>Хотя отдельные расширения можно найти в разных местах, в настоящее время существует репозиторий расширений: &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;$ и немного документации на: &lt;a1&gt;http://libreplanet.org/wiki/Group:OpenOfficeExtensions/List&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although the Save as Template dialog shows no document type when saving a new template of any type, the template will appear on the correct tab (Documents, Spreadsheets, Presentations, Drawings) when you return to the Templates dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T183317Z" creationid="olex" creationdate="20180311T183137Z">
@@ -1509,6 +1517,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calc Add-Ins, which provide new functionality for Calc, including new functions that act like normal built-in functions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T184244Z" creationid="tagezi" creationdate="20180320T184057Z">
+        <seg>Надстройки Calc, которые предоставляют новый функционал Calc, включая новые функции, которые ведут себя как обычные встроенные функции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can the steps be arranged so that the last command leaves the cursor ready for the next command or entering text or data into the document?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T164415Z" creationid="tagezi" creationdate="20180318T164415Z">
@@ -1625,6 +1641,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193819Z" creationid="olex" creationdate="20180307T193819Z">
         <seg>Символ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chart Add-Ins with new chart types</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T184359Z" creationid="tagezi" creationdate="20180320T184359Z">
+        <seg>Надстройки диаграмм с новыми типами диаграмм.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2390,6 +2414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Document templates and images</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T184428Z" creationid="tagezi" creationdate="20180320T184428Z">
+        <seg>Шаблоны документов и изображения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Donate to LibreOffice: &lt;a0&gt;https://www.libreoffice.org/donate/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T221619Z" creationid="tagezi" creationdate="20180307T221619Z">
@@ -2724,6 +2756,22 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T142732Z" creationid="tagezi" creationdate="20180316T142732Z">
         <seg>Расширения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions can be grouped into types:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T183944Z" creationid="tagezi" creationdate="20180320T183944Z">
+        <seg>Расширения могут быть сгруппированы по типам:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extensions can be written in almost any programming language and may be simple or sophisticated.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T183922Z" creationid="tagezi" creationdate="20180320T183922Z">
+        <seg>Расширения могут быть написаны практически на любом языке программирования и могут быть простыми или сложными.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5634,6 +5682,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Linguistic components such as spelling checkers</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T184413Z" creationid="tagezi" creationdate="20180320T184413Z">
+        <seg>Лингвистические компоненты, такие как проверки орфографии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Listing &lt;seq0&gt;1&lt;/seq0&gt;: Simple macro that says hello</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T104115Z" creationid="tagezi" creationdate="20180312T104115Z">
@@ -6135,6 +6191,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T155559Z" creationid="tagezi" creationdate="20180310T155559Z">
         <seg>Сейчас код доступен под LGPL 3.0 и MPL 2.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New components and functionality, which normally include some level of User Interface (UI) integration such as new menus or toolbars</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T184238Z" creationid="tagezi" creationdate="20180320T184238Z">
+        <seg>Новые компоненты и функциональные возможности, которые обычно включают некоторый уровень интеграции пользовательского интерфейса (UI), такой как новые меню или панели инструментов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6736,6 +6800,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T075606Z" creationid="lera" creationdate="20180303T211954Z">
         <seg>Люди улучшают его, люди адаптируют его, люди исправляют ошибки в нем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pivot Tables that are used directly in Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T184341Z" creationid="tagezi" creationdate="20180320T184341Z">
+        <seg>Сводные таблицы, которые используются непосредственно в Calc.</seg>
       </tuv>
     </tu>
     <tu>
