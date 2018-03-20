@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1583,8 +1583,8 @@
       <tuv lang="EN-US">
         <seg>Change a style using the Style dialog</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180320T192006Z" creationid="olex" creationdate="20180308T174607Z">
-        <seg>Изменение стиля с помощью диалогового окна Стили</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180320T192854Z" creationid="olex" creationdate="20180308T174607Z">
+        <seg>Изменить стиль с помощью диалогового окна Стили</seg>
       </tuv>
     </tu>
     <tu>
@@ -10320,7 +10320,7 @@ denkin: попробовал - не получается, ведь кнопку 
     <tu>
       <note>LG: Update - это обновить. "по выделению" как-то ухо режет, но это может быть лично мой баг... медицинское образование сказывается
 &lt;--
-denkin: это официальное название кнопки на панели</note>
+denkin: это практически официальное название кнопки на панели</note>
       <tuv lang="EN-US">
         <seg>Update a style from a selection</seg>
       </tuv>
