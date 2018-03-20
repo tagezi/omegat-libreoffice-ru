@@ -3067,6 +3067,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For casual use, it is not necessary to understand where macros are stored.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T112456Z" creationid="tagezi" creationdate="20180320T112456Z">
+        <seg>Для повседневного использования нет необходимости понимать, где хранятся макросы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, Writer relies on heading styles (or other styles you specify) when it compiles a table of contents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T140949Z" creationid="olex" creationdate="20180306T202113Z">
@@ -4175,6 +4183,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T171411Z" creationid="tagezi" creationdate="20180312T182813Z">
         <seg>Если вам нужно повторно вводить одну и ту же информацию, после ее ввода в свой документ в первый раз, вы можете скопировать эту информацию, а затем вставлять информацию в свой документ каждый раз, когда хотите ее использовать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you know where they are stored, however, you can create a backup, share your macros, or inspect them if there is an error.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T113943Z" creationid="tagezi" creationdate="20180320T113943Z">
+        <seg>Однако, если вы знаете, где они хранятся, вы можете создать резервную копию, поделиться своими макросами или проверить их, если есть ошибка.</seg>
       </tuv>
     </tu>
     <tu>
