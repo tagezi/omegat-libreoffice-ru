@@ -1413,6 +1413,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be careful when you configure an event handler.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T144841Z" creationid="tagezi" creationdate="20180320T144841Z">
+        <seg>Будьте осторожны при настройке обработчика событий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before you can use a template in LibreOffice, it must be in one of the folders listed for the Template path in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f0&gt;:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T184812Z" creationid="olex" creationdate="20180315T184618Z">
@@ -1773,6 +1781,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Help&lt;/f0&gt; button to access the help pages included with LibreOffice or see &lt;f1&gt;Chapter 14 Customizing LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T141428Z" creationid="tagezi" creationdate="20180320T141428Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Справка&lt;/f0&gt;, чтобы обратится к страницам справки установленных с LibreOffice, или смотрите &lt;f1&gt;Глава 14 Настройка LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;f0&gt;Run BASIC&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Macro toolbar, or press the &lt;f3&gt;F5&lt;/f3&gt; key, to run the macro.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T085603Z" creationid="tagezi" creationdate="20180319T085543Z">
@@ -1834,6 +1850,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T200041Z" creationid="olex" creationdate="20180306T200041Z">
         <seg>Автоматическое составление оглавления</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complete coverage of the Customize dialog is beyond the scope of this chapter.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T141220Z" creationid="tagezi" creationdate="20180320T141220Z">
+        <seg>Полный охват диалогового окна «Настройка» выходит за рамки этой главы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3219,6 +3243,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, assume that you write an event handler that is called every time that a key is pressed, but you make a mistake so the event is not properly handled.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T144948Z" creationid="tagezi" creationdate="20180320T144948Z">
+        <seg>Например, предположим, что вы пишете обработчик событий, который вызывается каждый раз, когда нажимается клавиша, но вы делаете ошибку такую, что событие обрабатывается неправильно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, in Writer &lt;f0&gt;Ctrl+0&lt;/f0&gt; applies the &lt;f1&gt;Text body&lt;/f1&gt; style, &lt;f2&gt;Ctrl+1&lt;/f2&gt; applies the &lt;f3&gt;Heading 1&lt;/f3&gt; style, and &lt;f4&gt;Ctrl+2&lt;/f4&gt; applies the &lt;f5&gt;Heading 2&lt;/f5&gt; style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T094320Z" creationid="olex" creationdate="20180308T172649Z">
@@ -3239,6 +3271,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T112201Z" creationid="tagezi" creationdate="20180320T112201Z">
         <seg>Например, на компьютере под управлением Windows XP — это &lt;f1&gt;C:\Documents and Settings\&lt;user name&gt;\Application Data&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, opening a document, pressing a key, or moving the mouse cursor are all events.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T141636Z" creationid="tagezi" creationdate="20180320T141636Z">
+        <seg>Например, открытие документа, нажатие клавиши или перемещение курсора мыши - это все события.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3682,6 +3722,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Full coverage of event handlers is well beyond the scope of this document, but a little knowledge can accomplish much.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T144820Z" creationid="tagezi" creationdate="20180320T144820Z">
+        <seg>Полный охват обработчиков событий выходит за рамки этого документа, но мало знаний может многое сделать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Functions are defined by the keyword FUNCTION at the beginning.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T123423Z" creationid="tagezi" creationdate="20180315T123423Z">
@@ -3742,6 +3790,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T064024Z" creationid="olex" creationdate="20180313T201329Z">
         <seg>Для сохранения нового файла под именем, из которого было взято содержимое, выберите пункт меню &lt;f0&gt;Файл &gt; Сохранить как&lt;/f0&gt;, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; on the main menu bar to open the Customize dialog and select the Events tab (Figure &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T160800Z" creationid="tagezi" creationdate="20180320T160800Z">
+        <seg>Выберите в меню &lt;f0&gt;Сервис &gt; Настройка&lt;/f0&gt;, чтобы открыть диалоговое окно Настройки и выберите вкладку События (Рисунок &lt;t1&gt;10&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5274,6 +5330,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice allows events to trigger the execution of a macro; the macro is then called an event handler.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T141756Z" creationid="tagezi" creationdate="20180320T141725Z">
+        <seg>LibreOffice позволяет событиям запускать макрос; макрос в этом случае вызывается обработчиком событий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice allows you to import libraries into a library container, but it will not allow you to overwrite the library named Standard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103826Z" creationid="tagezi" creationdate="20180320T103826Z">
@@ -6256,6 +6320,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135107Z" creationid="tagezi" creationdate="20180320T135107Z">
         <seg>Один документ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One possible result is that your event handler will consume all key presses, forcing you to kill LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T145146Z" creationid="tagezi" creationdate="20180320T145146Z">
+        <seg>Один из возможных результатов заключается в том, что ваш обработчик событий будет расходовать все ресурсы на нажатия клавиш, заставляя вас аварийно завершить работу LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10479,6 +10551,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever something happens in LibreOffice, it is called an &lt;i0/&gt;&lt;i1/&gt;event.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T141616Z" creationid="tagezi" creationdate="20180320T141616Z">
+        <seg>Всякий раз, когда что-то происходит в LibreOffice, это называется &lt;i0/&gt;&lt;i1/&gt;событием.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where are macros &lt;i0/&gt;stored?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T110529Z" creationid="tagezi" creationdate="20180320T110529Z">
@@ -11428,6 +11508,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T191109Z" creationid="olex" creationdate="20180311T191109Z">
         <seg>редактирование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>event handling</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T141443Z" creationid="tagezi" creationdate="20180320T141443Z">
+        <seg>обработка событий</seg>
       </tuv>
     </tu>
     <tu>
