@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5171,6 +5171,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inspect the Debug module—some good examples include WritedbgInfo(document) and printdbgInfo(sheet).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T192406Z" creationid="tagezi" creationdate="20180320T192406Z">
+        <seg>Изучите модуль Debug — некоторые хорошие примеры это WritedbgInfo(document) и printdbgInfo(sheet).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installing collections of templates</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195159Z" creationid="olex" creationdate="20180306T195159Z">
@@ -8854,6 +8862,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T212203Z" creationid="tagezi" creationdate="20180315T212203Z">
         <seg>Ниже приведено объяснение кода, используемого в макросе EnterMyName.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following links and references contain information regarding macro programming:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T192727Z" creationid="tagezi" creationdate="20180320T192727Z">
+        <seg>Следующие ссылки и рекомендации содержат информацию о программировании макросов:</seg>
       </tuv>
     </tu>
     <tu>
