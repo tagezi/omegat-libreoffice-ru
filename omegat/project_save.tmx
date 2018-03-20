@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;http://api.openoffice.org/docs/common/ref/com/sun/star/module-ix.html&lt;/a0&gt; (official IDL reference; here you will find almost every command with a description)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T200803Z" creationid="tagezi" creationdate="20180320T200803Z">
+        <seg>&lt;a0&gt;http://api.openoffice.org/docs/common/ref/com/sun/star/module-ix.html&lt;/a0&gt; (официальная ссылка IDL; здесь вы найдете почти каждую команду с описанием)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;http://ask.libreoffice.org/&lt;/a0&gt; (a Q &amp; A site where volunteers answer questions related to LibreOffice)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T193101Z" creationid="tagezi" creationdate="20180320T193101Z">
@@ -106,6 +114,46 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T193120Z" creationid="tagezi" creationdate="20180320T193120Z">
         <seg>&lt;a0&gt;http://forum.openoffice.org/en/forum/&lt;/a0&gt; (Форум сообщества Apache OpenOffice; добровольцы также отвечают на вопросы о LibreOffice)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;http://www.pitonyak.org/AndrewMacro.odt&lt;/a0&gt; (numerous examples of working macros)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T201106Z" creationid="tagezi" creationdate="20180320T201106Z">
+        <seg>&lt;a0&gt;http://www.pitonyak.org/AndrewMacro.odt&lt;/a0&gt; (многочисленные примеры рабочих макросов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;http://www.pitonyak.org/OOME_3_0.odt&lt;/a0&gt; (Andrew Pitonyak’s book on macros)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T201124Z" creationid="tagezi" creationdate="20180320T201124Z">
+        <seg>&lt;a0&gt;http://www.pitonyak.org/OOME_3_0.odt&lt;/a0&gt; (книга о макросах Andrew Pitonyak)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;http://www.pitonyak.org/database/&lt;/a0&gt; (numerous macro examples using Base)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T201247Z" creationid="tagezi" creationdate="20180320T201247Z">
+        <seg>&lt;a0&gt;http://www.pitonyak.org/database/&lt;/a0&gt; (многочисленные примеры макросов с использованием Base)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;http://www.pitonyak.org/oo.php&lt;/a0&gt; (macro page for Andrew Pitonyak)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T201033Z" creationid="tagezi" creationdate="20180320T201033Z">
+        <seg>&lt;a0&gt;http://www.pitonyak.org/oo.php&lt;/a0&gt; (страница макросов Andrew Pitonyak)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;https://wiki.documentfoundation.org/Documentation/Other_Documentation_and_Resources&lt;/a0&gt; (look in Programmers section for &lt;f1&gt;BASIC Programmers’ Guide&lt;/f1&gt; and &lt;f2&gt;Developers’ Guide&lt;/f2&gt;; the latter contains a detailed explanation)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T201002Z" creationid="tagezi" creationdate="20180320T201002Z">
+        <seg>&lt;a0&gt;https://wiki.documentfoundation.org/Documentation/Other_Documentation_and_Resources&lt;/a0&gt; (просмотрите раздел Программисты ради &lt;f1&gt;BASIC Programmers’ Guide&lt;/f1&gt; и &lt;f2&gt;Developers’ Guide&lt;/f2&gt;; последнее содержит подробное объяснение)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5195,6 +5243,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Information in the following books is mostly applicable to LibreOffice; the books are available for purchase in both printed and eBook form from their publishers:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T201429Z" creationid="tagezi" creationdate="20180320T201429Z">
+        <seg>Информация в следующих книгах в основном применима к LibreOffice; книги доступны для покупки в печатной и электронной форме от их издателей:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inspect the Debug module—some good examples include WritedbgInfo(document) and printdbgInfo(sheet).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T192406Z" creationid="tagezi" creationdate="20180320T192406Z">
@@ -7090,6 +7146,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T213009Z" creationid="tagezi" creationdate="20180318T213009Z">
         <seg>Нажмите &lt;f0&gt;Стрелку вниз&lt;/f0&gt; для перехода к следующей строке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printed and eBook materials</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T201303Z" creationid="tagezi" creationdate="20180320T201303Z">
+        <seg>Печатные и электронные книги</seg>
       </tuv>
     </tu>
     <tu>
@@ -9373,6 +9437,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are currently no books specific to LibreOffice macros that are available for download.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T201401Z" creationid="tagezi" creationdate="20180320T201401Z">
+        <seg>В настоящее время нет книг, специально о макросах LibreOffice, доступных для загрузки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are many other ways to use styles; see the guides for the various components for details.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T190840Z" creationid="olex" creationdate="20180315T190840Z">
@@ -10281,8 +10353,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>Unfortunately, there is a steep learning curve for these LibreOffice objects.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T084932Z" creationid="tagezi" creationdate="20180320T084932Z">
-        <seg>К сожалению, существует большая сложность в изучении для объектов LibreOffice .</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T200651Z" creationid="tagezi" creationdate="20180320T084932Z">
+        <seg>К сожалению, существует большая сложность в изучении объектов LibreOffice .</seg>
       </tuv>
     </tu>
     <tu>
