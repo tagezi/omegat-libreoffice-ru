@@ -8112,6 +8112,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Events page shows that the event has been assigned to a macro.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T175718Z" creationid="tagezi" creationdate="20180320T175718Z">
+        <seg>На вкладке События показано, что событию был назначен макрос.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Extension Manager provides an easy way to install collections of templates that have been packaged as extensions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T204346Z" creationid="olex" creationdate="20180312T204346Z">
@@ -11588,6 +11596,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T185820Z" creationid="olex" creationdate="20180315T185820Z">
         <seg>экспорт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>extensions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T174814Z" creationid="tagezi" creationdate="20180320T174814Z">
+        <seg>расширения</seg>
       </tuv>
     </tu>
     <tu>
