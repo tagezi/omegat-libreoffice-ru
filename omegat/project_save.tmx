@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -82,6 +82,30 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T194702Z" creationid="olex" creationdate="20180311T194429Z">
         <seg>&lt;/f1&gt; Вы можете импортировать стили в документ из шаблона вручную, но для восстановления связи файла с шаблоном вам придется скопировать его содержимое в пустой документ, созданный на основе этого шаблона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;http://ask.libreoffice.org/&lt;/a0&gt; (a Q &amp; A site where volunteers answer questions related to LibreOffice)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T193101Z" creationid="tagezi" creationdate="20180320T193101Z">
+        <seg>&lt;a0&gt;http://ask.libreoffice.org/&lt;/a0&gt; (сайт вопросов и ответов, на котором добровольцы отвечают на вопросы, связанные с LibreOffice)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;http://en.libreofficeforum.org/&lt;/a0&gt; (Unofficial LibreOffice community forum)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T193138Z" creationid="tagezi" creationdate="20180320T193138Z">
+        <seg>&lt;a0&gt;http://en.libreofficeforum.org/&lt;/a0&gt; (Неофициальный форум сообщества LibreOffice)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a0&gt;http://forum.openoffice.org/en/forum/&lt;/a0&gt; (Apache OpenOffice community forum; volunteers answer questions about LibreOffice as well)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T193120Z" creationid="tagezi" creationdate="20180320T193120Z">
+        <seg>&lt;a0&gt;http://forum.openoffice.org/en/forum/&lt;/a0&gt; (Форум сообщества Apache OpenOffice; добровольцы также отвечают на вопросы о LibreOffice)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8868,8 +8892,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The following links and references contain information regarding macro programming:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T192727Z" creationid="tagezi" creationdate="20180320T192727Z">
-        <seg>Следующие ссылки и рекомендации содержат информацию о программировании макросов:</seg>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T193011Z" creationid="tagezi" creationdate="20180320T192727Z">
+        <seg>Следующие ссылки и литература содержат информацию о программировании макросов:</seg>
       </tuv>
     </tu>
     <tu>
