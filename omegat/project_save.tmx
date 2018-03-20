@@ -1034,6 +1034,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, go to &lt;f3&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f3&gt; on the main menu bar to open the LibreOffice Macros dialog (Figure &lt;t4&gt;1&lt;/t4&gt; on page &lt;t5&gt;5&lt;/t5&gt;) and then click the &lt;f6&gt;Organizer&lt;/f6&gt; button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T114517Z" creationid="tagezi" creationdate="20180320T114517Z">
+        <seg>Или же, Выберите в меню &lt;f3&gt;Сервис &gt; Макросы &gt; Управление макросами &gt; LibreOffice Basic&lt;/f3&gt;, чтобы открыть диалоговое окно Макросы LibreOffice Basic (Рисунок &lt;t4&gt;1&lt;/t4&gt; на странице &lt;t5&gt;5&lt;/t5&gt;), а затем нажмите кнопку &lt;f6&gt;Управление&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although the Save as Template dialog shows no document type when saving a new template of any type, the template will appear on the correct tab (Documents, Spreadsheets, Presentations, Drawings) when you return to the Templates dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T183317Z" creationid="olex" creationdate="20180311T183137Z">
@@ -3606,6 +3614,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T064024Z" creationid="olex" creationdate="20180313T201329Z">
         <seg>Для сохранения нового файла под именем, из которого было взято содержимое, выберите пункт меню &lt;f0&gt;Файл &gt; Сохранить как&lt;/f0&gt;, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Dialogs&lt;/f0&gt; on the main menu bar to open the LibreOffice Macro Organizer dialog (Figure &lt;t1&gt;2&lt;/t1&gt; on page &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T114232Z" creationid="tagezi" creationdate="20180320T114232Z">
+        <seg>Выберите в меню &lt;f0&gt;Сервис &gt; Макросы &gt; Управление диалогами&lt;/f0&gt;, чтобы открыть диалоговое окно Управление макросами LibreOffice Basic (Рисунок &lt;t1&gt;2&lt;/t1&gt; на странице &lt;t2&gt;5&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
