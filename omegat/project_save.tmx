@@ -2504,6 +2504,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Editing formulas</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T145257Z" creationid="Роман" creationdate="20180320T145257Z">
+        <seg>Редактирование формул</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Effect</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T153312Z" creationid="lera" creationdate="20180303T153312Z">
@@ -3974,6 +3982,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T142648Z" creationid="tagezi" creationdate="20180316T142648Z">
         <seg>Как запустить макрос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How you edit a formula and switch into formula editing mode depends on whether the formula is in Math or another LibreOffice component.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T145306Z" creationid="Роман" creationdate="20180320T145306Z">
+        <seg>How you edit a formula and switch into formula editing mode depends on whether the formula is in Math or another LibreOffice component.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8500,6 +8516,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173415Z" creationid="Роман" creationdate="20180317T173415Z">
         <seg>Формула в документе обновится автоматически.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The formula&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;&lt;/f3&gt;now appears in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T145250Z" creationid="Роман" creationdate="20180320T145250Z">
+        <seg>Формула&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;&lt;/f3&gt; появится в документе.</seg>
       </tuv>
     </tu>
     <tu>
