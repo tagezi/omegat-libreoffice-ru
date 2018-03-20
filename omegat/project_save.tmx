@@ -2827,6 +2827,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Navigating to a macro library</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123416Z" creationid="tagezi" creationdate="20180320T123416Z">
+        <seg>Рисунок &lt;seq0&gt;7&lt;/seq0&gt;: Переход к библиотеке макросов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Templates dialog, showing a selected template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T203443Z" creationid="olex" creationdate="20180310T203443Z">
@@ -4834,6 +4842,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It does not matter which of these two files you select; both will be imported.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123150Z" creationid="tagezi" creationdate="20180320T123150Z">
+        <seg>Неважно, какой из этих двух файлов вы выберете; оба будут импортированы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is based on code from Apache OpenOffice made available under the Apache License 2.0 but also includes software that differs from version to version under a variety of other Open Source licenses.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T155539Z" creationid="tagezi" creationdate="20180310T155539Z">
@@ -5466,6 +5482,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Macros can be stored in libraries inside LibreOffice documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123227Z" creationid="tagezi" creationdate="20180320T123227Z">
+        <seg>Макросы могут храниться в библиотеках внутри документов LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Macros stored in the application library container named My Macros, however, are globally available to all documents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T105136Z" creationid="tagezi" creationdate="20180320T105136Z">
@@ -5747,6 +5771,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Navigate to the directory containing the library to import (Figure &lt;t0&gt;7&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123032Z" creationid="tagezi" creationdate="20180320T123032Z">
+        <seg>Перейдите в каталог, содержащий импортируемую библиотеку (Рисунок &lt;t0&gt;7&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Navigate to the template that you want to edit.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T192327Z" creationid="olex" creationdate="20180311T192327Z">
@@ -5928,6 +5960,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T074644Z" creationid="lera" creationdate="20180303T164756Z">
         <seg>28 сентября 2010, сообщество добровольцев, которое разрабатывало и продвигало OpenOffice.org, объявило о значительных изменениях в структуре проекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On a computer operating Linux, the LibreOffice specific files are stored in the home directory of a user, in a subdirectory whose name begins with a period (usually .config/).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123833Z" creationid="tagezi" creationdate="20180320T123833Z">
+        <seg>На компьютере, работающем под управлением Linux, файлы конфигурации LibreOffice хранятся в домашнем каталоге пользователя в подкаталоге, имя которого начинается с точки (обычно .config/).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6932,6 +6972,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select a document rather than a directory on disk to import libraries contained in a document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123345Z" creationid="tagezi" creationdate="20180320T123345Z">
+        <seg>Чтобы импортировать библиотеки, содержащиеся в документе, выберите документ вместо каталога на диске.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select a macro and then click &lt;f0&gt;Run&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T134017Z" creationid="tagezi" creationdate="20180312T134017Z">
@@ -7025,6 +7073,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173402Z" creationid="Роман" creationdate="20180317T173311Z">
         <seg>Вделите первый заполнитель &lt;f0&gt;&lt;?&gt;&lt;/f0&gt; перед словом &lt;f1&gt;times&lt;/f1&gt; в Редакторе формул и замените его на символ &lt;f2&gt;5&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the library container to use and then click &lt;f0&gt;Import&lt;/f0&gt; to import macro libraries (Figure &lt;t1&gt;2&lt;/t1&gt; on page &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T122954Z" creationid="tagezi" creationdate="20180320T122954Z">
+        <seg>Для импорта библиотеки макросов, выберите контейнер библиотек для использования, а затем нажмите кнопку &lt;f0&gt;Импорт&lt;/f0&gt; (Рисунок &lt;t1&gt;2&lt;/t1&gt; на странице &lt;t2&gt;5&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8511,6 +8567,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T190840Z" creationid="olex" creationdate="20180315T190840Z">
         <seg>Существует много других способов использования стилей; подробнее смотрите руководства для различных модулей LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are usually two files from which to choose, dialog.xlb and script.xlb.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123105Z" creationid="tagezi" creationdate="20180320T123105Z">
+        <seg>Обычно есть два файла, из которых можно выбрать dialog.xlb и script.xlb.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10492,6 +10556,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T183159Z" creationid="olex" creationdate="20180315T183159Z">
         <seg>Вы не можете удалять шаблоны, предустановленные вместе с LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot import the library named Standard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123358Z" creationid="tagezi" creationdate="20180320T123358Z">
+        <seg>Вы не можете импортировать библиотеку с именем Standard.</seg>
       </tuv>
     </tu>
     <tu>
