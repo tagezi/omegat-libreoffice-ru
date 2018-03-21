@@ -2567,6 +2567,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Download LibreOffice</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T051835Z" creationid="tagezi" creationdate="20180321T051835Z">
+        <seg>Загрузите LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Download the extension package (OXT file) and save it anywhere on your computer.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T205118Z" creationid="olex" creationdate="20180312T205118Z">
@@ -5587,6 +5595,22 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice 5.4.6 includes over 80 bug and regression fixes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T052139Z" creationid="tagezi" creationdate="20180321T052139Z">
+        <seg>LibreOffice 5.4.6 включает более 80 исправлений ошибок и регрессий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice 5.4.6 is immediately available for download from the following link: &lt;a0&gt;https://www.libreoffice.org/download/download/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T051926Z" creationid="tagezi" creationdate="20180321T051926Z">
+        <seg>LibreOffice 5.4.6 уже доступен для загрузки с официального сайта: &lt;a0&gt;https://www.libreoffice.org/download/download/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice &gt; Preferences</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T072446Z" creationid="tagezi" creationdate="20180305T072446Z">
@@ -8266,6 +8290,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TDF suggests to conservative users and enterprises to deploy LibreOffice with the backing of certified developers, migrators and trainers (an updated list is available at: &lt;a0&gt;https://www.libreoffice.org/get-help/professional-support/&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T052929Z" creationid="tagezi" creationdate="20180321T052929Z">
+        <seg>Консервативным пользователям и предприятиям TDF предлагает развертывать LibreOffice при поддержке сертифицированных разработчиков, специалистов по миграции и тренеров (обновленный список доступен по адресу: &lt;a0&gt;https://www.libreoffice.org/get-help/professional-support/&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tabbed page (not strictly speaking a control).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T145525Z" creationid="tagezi" creationdate="20180310T145525Z">
@@ -8342,6 +8374,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T204016Z" creationid="olex" creationdate="20180316T204016Z">
         <seg>Таблицы в документе Writer могут иметь предопределенный набор применяемых атрибутов форматирования, включая фон ячейки, шрифт, выделение и форматирование чисел (Рисунок &lt;t0&gt;17&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Technical details about the release can be found in the change logs: &lt;a0&gt;https://wiki.documentfoundation.org/Releases/5.4.6/RC1&lt;/a0&gt; (fixed in RC1) and &lt;a1&gt;https://wiki.documentfoundation.org/Releases/5.4.6/RC2&lt;/a1&gt; (fixed in RC2).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T052056Z" creationid="tagezi" creationdate="20180321T052056Z">
+        <seg>Интересующиеся техническими подробностями могут ознакомиться с журналами изменений: &lt;a0&gt;https://wiki.documentfoundation.org/Releases/5.4.6/RC1&lt;/a0&gt; (исправления в RC1) и &lt;a1&gt;https://wiki.documentfoundation.org/Releases/5.4.6/RC2&lt;/a1&gt; (исправления в RC2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9748,6 +9788,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T214301Z" creationid="tagezi" creationdate="20180307T214301Z">
         <seg>Эта информация часто запрашивается, если вы обращаетесь за помощью или оказанием содействия с программным обеспечением в сообщество.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is extremely important for the growth of the LibreOffice ecosystem.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T052203Z" creationid="tagezi" creationdate="20180321T052203Z">
+        <seg>Это чрезвычайно важно для роста экосистемы LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
