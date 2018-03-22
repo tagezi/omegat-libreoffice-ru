@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1917,6 +1917,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the formula element in the preview window, position the cursor at the beginning of the formula element in the Formula Editor, then select the formula element in the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180322T135543Z" creationid="Роман" creationdate="20180322T135543Z">
+        <seg>Щелкните по элементу формулы в Области предварительного просмотра, курсор будет помещён в начало элемента формулы в Редакторе формул, затем выделите элемент формулы в Редакторе формул.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click once on it to activate the file handling controls (see Figure &lt;t0&gt;8&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T192531Z" creationid="olex" creationdate="20180311T192531Z">
@@ -2579,6 +2587,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T121159Z" creationid="tagezi" creationdate="20180321T121159Z">
         <seg>Пожертвования помогают TDF поддерживать свою инфраструктуру, делиться знаниями и финансировать участие добровольцев на таких мероприятиях, как Конференция LibreOffice, где они могут встречаться со сторонниками Свободного программного обеспечения, приезжающими со всей Европы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click on the formula element in the preview window to select the formula element in the Formula Editor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180322T135623Z" creationid="Роман" creationdate="20180322T135623Z">
+        <seg>Дважды щёлкните мышью по элементу формулы в Области предварительного просмотра, чтобы выделить элемент формулы в Редакторе формул.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7134,6 +7150,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Position the cursor in the Formula Editor at the formula element you want to edit, then select that formula element.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180322T135636Z" creationid="Роман" creationdate="20180322T135636Z">
+        <seg>Position the cursor in the Formula Editor at the formula element you want to edit, then select that formula element.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preface</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T085950Z" creationid="tagezi" creationdate="20180305T085950Z">
@@ -7953,8 +7977,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Select the formula element you want to change, using one of the following methods:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="Роман" changedate="20180320T205301Z" creationid="Роман" creationdate="20180320T205301Z">
-        <seg>Select the formula element you want to change, using one of the following methods:</seg>
+      <tuv lang="RU-RU" changeid="Роман" changedate="20180322T135427Z" creationid="Роман" creationdate="20180320T205301Z">
+        <seg>Выберите элемент формулы, который хотите изменить, одним из следующих способов:</seg>
       </tuv>
     </tu>
     <tu>
