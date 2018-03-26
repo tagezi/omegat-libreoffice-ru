@@ -593,6 +593,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;52&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 5 Getting started with Calc&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T171637Z" creationid="olex" creationdate="20180326T171637Z">
+        <seg>&lt;t0&gt;52&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Глава 5 Начало работы с Calc&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;8&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Chapter 13 Getting Started with Macros&lt;/t3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T074256Z" creationid="tagezi" creationdate="20180319T074256Z">
@@ -637,6 +645,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T171521Z" creationid="olex" creationdate="20180306T171521Z">
         <seg>&lt;t0&gt;Глава 3 Использование стилей и шаблонов&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Chapter 5 Getting started with Calc&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;5&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T171647Z" creationid="olex" creationdate="20180326T171647Z">
+        <seg>&lt;t0&gt;Глава 5 Начало работы с Calc&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;5&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2579,6 +2595,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T184428Z" creationid="tagezi" creationdate="20180320T184428Z">
         <seg>Шаблоны документов и изображения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Documentation for LibreOffice is available at &lt;a0&gt;&lt;f1&gt;http://&lt;/f1&gt;&lt;/a0&gt;&lt;a2&gt;&lt;f3&gt;documentation&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;.libreoffice.org/&lt;/f5&gt;&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T171755Z" creationid="olex" creationdate="20180326T171755Z">
+        <seg>Документация для LibreOffice доступна на &lt;a0&gt;&lt;f1&gt;http://&lt;/f1&gt;&lt;/a0&gt;&lt;a2&gt;&lt;f3&gt;documentation&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;.libreoffice.org/&lt;/f5&gt;&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
