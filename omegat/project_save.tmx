@@ -1541,6 +1541,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Autocorrection options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T191952Z" creationid="olex" creationdate="20180326T191952Z">
+        <seg>Параметры автозамены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base (database)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T081618Z" creationid="tagezi" creationdate="20180306T081618Z">
@@ -2407,6 +2415,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Date and time</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T191901Z" creationid="olex" creationdate="20180326T191901Z">
+        <seg>Дата и время</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Declares an array of properties.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153418Z" creationid="tagezi" creationdate="20180318T153418Z">
@@ -3045,6 +3061,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T181011Z" creationid="tagezi" creationdate="20180319T181011Z">
         <seg>К примерам этого относятся диалоговые окна организации макросов, вставки специальных символов, а также другие аналогичные типы диалоговых окон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exceptions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T192034Z" creationid="olex" creationdate="20180326T192034Z">
+        <seg>Исключения</seg>
       </tuv>
     </tu>
     <tu>
@@ -5811,6 +5835,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leading zeroes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T191813Z" creationid="olex" creationdate="20180326T191813Z">
+        <seg>Ведущие нули</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learning a few things helps significantly in understanding macros.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T080420Z" creationid="tagezi" creationdate="20180315T080420Z">
@@ -6919,6 +6951,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Numbers as text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T191847Z" creationid="olex" creationdate="20180326T191847Z">
+        <seg>Числа, как текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Numerous resources are available that provide help with writing macros.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190853Z" creationid="tagezi" creationdate="20180320T190853Z">
@@ -7787,6 +7827,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T164609Z" creationid="olex" creationdate="20180308T164609Z">
         <seg>Повторяйте шаг 3, пока не внесете все изменения для этого стиля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T192003Z" creationid="olex" creationdate="20180326T192003Z">
+        <seg>Заменить</seg>
       </tuv>
     </tu>
     <tu>
@@ -8943,6 +8991,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180317T145533Z" creationid="olex" creationdate="20180306T175946Z">
         <seg>Шаблоны могут содержать любые элементы обычных документов, такие как: текст, графика, набор стилей, и настройки специфичные для пользователя, например: единицы измерения, язык, принтер по умолчанию, настройки панели инструментов и меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T191852Z" creationid="olex" creationdate="20180326T191852Z">
+        <seg>Текст</seg>
       </tuv>
     </tu>
     <tu>
