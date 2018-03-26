@@ -6638,6 +6638,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiple contiguous sheets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T182933Z" creationid="olex" creationdate="20180326T182933Z">
+        <seg>Несколько смежных листов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Native language support</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180308T083015Z" creationid="tagezi" creationdate="20180308T083015Z">
@@ -8312,6 +8320,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selecting sheets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T182715Z" creationid="olex" creationdate="20180326T182715Z">
+        <seg>Выбор листов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set the &lt;f0&gt;Location&lt;/f0&gt; to &lt;f1&gt;My Macros &amp; Dialogs&lt;/f1&gt;, which is the default location.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T124517Z" creationid="tagezi" creationdate="20180312T124517Z">
@@ -8394,8 +8410,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Single cell</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180326T182352Z" creationid="olex" creationdate="20180326T181717Z">
-        <seg>Одиночная ячейка</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T182849Z" creationid="olex" creationdate="20180326T181717Z">
+        <seg>Одна ячейка</seg>
       </tuv>
     </tu>
     <tu>
@@ -8404,6 +8420,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T182456Z" creationid="olex" creationdate="20180326T182456Z">
         <seg>Одиночные столбцы или строки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Single sheet</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T182814Z" creationid="olex" creationdate="20180326T182814Z">
+        <seg>Один лист</seg>
       </tuv>
     </tu>
     <tu>
