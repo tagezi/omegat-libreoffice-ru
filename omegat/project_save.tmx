@@ -7751,6 +7751,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Removing split views</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T185626Z" creationid="olex" creationdate="20180326T185626Z">
+        <seg>Отмена разбития окон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Renaming sheets</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183950Z" creationid="olex" creationdate="20180326T183950Z">
@@ -8633,10 +8641,18 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Splitting horizontally or vertically</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T185441Z" creationid="olex" creationdate="20180326T185441Z">
+        <seg>Горизонтальное или вертикальное разбитие</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Splitting the screen</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180326T184923Z" creationid="olex" creationdate="20180326T184923Z">
-        <seg>Разделение экрана</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T185342Z" creationid="olex" creationdate="20180326T184923Z">
+        <seg>Разбитие окна</seg>
       </tuv>
     </tu>
     <tu>
