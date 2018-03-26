@@ -223,6 +223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;s3/&gt;| &lt;/f2&gt;&lt;t4&gt;Chapter 5 Getting started with Calc&lt;/t4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T172028Z" creationid="olex" creationdate="20180326T172028Z">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;s3/&gt;| &lt;/f2&gt;&lt;t4&gt;Глава 5 Начало работы с Calc&lt;/t4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;About LibreOffice&lt;/f0&gt; Opens a dialog window and displays information about the version of LibreOffice and the operating system you are using.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T113610Z" creationid="tagezi" creationdate="20180307T113407Z">
@@ -1769,6 +1777,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T170043Z" creationid="Олександр" creationdate="20180305T190813Z">
         <seg>Глава 3 Использование стилей и шаблонов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chapter 5 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T172037Z" creationid="olex" creationdate="20180326T172037Z">
+        <seg>Глава 5 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4079,6 +4095,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T150819Z" creationid="lera" creationdate="20180303T150819Z">
         <seg>Руководство по началу работы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Getting Started with Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T172047Z" creationid="olex" creationdate="20180326T172047Z">
+        <seg>Начало работы с Calc</seg>
       </tuv>
     </tu>
     <tu>
