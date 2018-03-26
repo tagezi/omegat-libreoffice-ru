@@ -1137,6 +1137,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All sheets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T183030Z" creationid="olex" creationdate="20180326T183030Z">
+        <seg>Все листы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All text after REM and on the same line is ignored.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T090828Z" creationid="tagezi" creationdate="20180315T090828Z">
@@ -4391,6 +4399,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T085947Z" creationid="tagezi" creationdate="20180306T085947Z">
         <seg>Справочная система</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hiding and Showing sheets:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T183238Z" creationid="olex" creationdate="20180326T183238Z">
+        <seg>Скрытие и отображение листов:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11713,6 +11729,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T073401Z" creationid="tagezi" creationdate="20180319T073401Z">
         <seg>Поработайте медленно и подумайте о шагах, как вы их делаете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working with columns and rows</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T183316Z" creationid="olex" creationdate="20180326T183316Z">
+        <seg>Работа со столбцами и строками</seg>
       </tuv>
     </tu>
     <tu>
