@@ -6300,6 +6300,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Localized options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T192530Z" creationid="olex" creationdate="20180326T192530Z">
+        <seg>Национальные параметры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Location</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T133345Z" creationid="tagezi" creationdate="20180320T133345Z">
@@ -7351,6 +7359,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T192103Z" creationid="olex" creationdate="20180326T192103Z">
+        <seg>Параметры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Options for sender and recipient information (business fax)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T184324Z" creationid="olex" creationdate="20180311T184324Z">
@@ -7833,8 +7849,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Replace</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180326T192003Z" creationid="olex" creationdate="20180326T192003Z">
-        <seg>Заменить</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T192042Z" creationid="olex" creationdate="20180326T192003Z">
+        <seg>Замена</seg>
       </tuv>
     </tu>
     <tu>
