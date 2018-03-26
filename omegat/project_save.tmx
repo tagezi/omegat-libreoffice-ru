@@ -8256,10 +8256,18 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selecting cells</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T181512Z" creationid="olex" creationdate="20180326T181512Z">
+        <seg>Выделение ячеек</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selecting items in a spreadsheet</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180326T181400Z" creationid="olex" creationdate="20180326T181400Z">
-        <seg>Выбор элементов в электронной таблице</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T181450Z" creationid="olex" creationdate="20180326T181400Z">
+        <seg>Выделение элементов в электронной таблице</seg>
       </tuv>
     </tu>
     <tu>
@@ -8340,6 +8348,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T175406Z" creationid="olex" creationdate="20180326T175406Z">
         <seg>Боковая панель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Single cell</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T181717Z" creationid="olex" creationdate="20180326T181717Z">
+        <seg>Одинарная ячейка</seg>
       </tuv>
     </tu>
     <tu>
