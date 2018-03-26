@@ -2913,6 +2913,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Entire sheet</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T182634Z" creationid="olex" creationdate="20180326T182634Z">
+        <seg>Весь лист</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even double-clicking on a graphic opens a dialog with a Macros tab that allows you to assign a macro to an event.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T183128Z" creationid="tagezi" creationdate="20180320T183128Z">
@@ -6622,6 +6630,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiple columns or rows</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T182530Z" creationid="olex" creationdate="20180326T182530Z">
+        <seg>Несколько столбцов или строк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Native language support</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180308T083015Z" creationid="tagezi" creationdate="20180308T083015Z">
@@ -8378,8 +8394,16 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Single cell</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180326T181717Z" creationid="olex" creationdate="20180326T181717Z">
-        <seg>Одинарная ячейка</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T182352Z" creationid="olex" creationdate="20180326T181717Z">
+        <seg>Одиночная ячейка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Single column or row</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T182456Z" creationid="olex" creationdate="20180326T182456Z">
+        <seg>Одиночные столбцы или строки</seg>
       </tuv>
     </tu>
     <tu>
