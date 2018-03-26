@@ -2519,6 +2519,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deleting columns and rows</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T183517Z" creationid="olex" creationdate="20180326T183517Z">
+        <seg>Удаление столбцов и строк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deleting styles</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194836Z" creationid="olex" creationdate="20180306T194836Z">
@@ -5503,6 +5511,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T201429Z" creationid="tagezi" creationdate="20180320T201429Z">
         <seg>Информация в следующих книгах в основном применима к LibreOffice; книги доступны для покупки в печатной и электронной форме от их издателей:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserting columns and rows</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T183402Z" creationid="olex" creationdate="20180326T183402Z">
+        <seg>Вставка столбцов и строк</seg>
       </tuv>
     </tu>
     <tu>
@@ -11737,6 +11753,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183316Z" creationid="olex" creationdate="20180326T183316Z">
         <seg>Работа со столбцами и строками</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working with sheets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T183621Z" creationid="olex" creationdate="20180326T183621Z">
+        <seg>Работа с листами</seg>
       </tuv>
     </tu>
     <tu>
