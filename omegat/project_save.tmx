@@ -7575,6 +7575,22 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Range of contiguous cells</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T181748Z" creationid="olex" creationdate="20180326T181748Z">
+        <seg>Диапазон смежных ячеек</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range of non-contiguous cells</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T182140Z" creationid="olex" creationdate="20180326T182140Z">
+        <seg>Диапазон не смежных ячеек</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read the licenses: &lt;a0&gt;http://www.mozilla.org/MPL/2.0/&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T173554Z" creationid="tagezi" creationdate="20180310T173554Z">
