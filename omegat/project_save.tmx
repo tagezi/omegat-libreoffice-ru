@@ -1725,6 +1725,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cell navigation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T180618Z" creationid="olex" creationdate="20180326T180618Z">
+        <seg>Навигация по ячейкам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change a style using the Style dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180320T192854Z" creationid="olex" creationdate="20180308T174607Z">
@@ -5691,6 +5699,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keyboard navigation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T180730Z" creationid="olex" creationdate="20180326T180730Z">
+        <seg>Навигация при помощи клавиатуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keyboard shortcuts</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T195909Z" creationid="olex" creationdate="20180307T195909Z">
@@ -8268,6 +8284,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T070312Z" creationid="tagezi" creationdate="20180321T054357Z">
         <seg>Некоторые компании, заседающие в Консультативном совете TDF (&lt;a0&gt;https://www.documentfoundation.org/governance/advisory-board/&lt;/a0&gt;), основываясь на лучшем опыте, накопленном The Document Foundation, предоставляют дополнительную долгосрочную поддержку версий LibreOffice или оказывают консультативные услуги по миграции и тренингам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sheet navigation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T180628Z" creationid="olex" creationdate="20180326T180628Z">
+        <seg>Навигация по листам</seg>
       </tuv>
     </tu>
     <tu>
