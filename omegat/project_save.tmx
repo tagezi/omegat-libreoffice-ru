@@ -1685,6 +1685,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calc main window</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T173621Z" creationid="olex" creationdate="20180326T173621Z">
+        <seg>Главное окно Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can the steps be arranged so that the last command leaves the cursor ready for the next command or entering text or data into the document?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T164415Z" creationid="tagezi" creationdate="20180318T164415Z">
@@ -3927,6 +3935,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T093858Z" creationid="olex" creationdate="20180306T200142Z">
         <seg>Форматирование таблицы в Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formula Syntax</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T173500Z" creationid="olex" creationdate="20180326T173500Z">
+        <seg>Синтаксис Формулы</seg>
       </tuv>
     </tu>
     <tu>
@@ -6220,6 +6236,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Macros</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T173509Z" creationid="olex" creationdate="20180326T173509Z">
+        <seg>Макрос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Macros are available for download.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T132236Z" creationid="tagezi" creationdate="20180320T132236Z">
@@ -8301,6 +8325,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T151646Z" creationid="tagezi" creationdate="20180310T151646Z">
         <seg>Счётчик (чтобы изменить число, указанное в текстовом поле, нажмите стрелку вверх или вниз или введите номер в текстовое поле).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spreadsheets, sheets, and cells</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T173551Z" creationid="olex" creationdate="20180326T173551Z">
+        <seg>Электронные таблицы, листы и ячейки</seg>
       </tuv>
     </tu>
     <tu>
