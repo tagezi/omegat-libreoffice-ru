@@ -5523,6 +5523,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inserting new sheets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T183633Z" creationid="olex" creationdate="20180326T183633Z">
+        <seg>Вставка новых листов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inspect the Debug module—some good examples include WritedbgInfo(document) and printdbgInfo(sheet).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T192406Z" creationid="tagezi" creationdate="20180320T192406Z">
@@ -6658,6 +6666,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195530Z" creationid="olex" creationdate="20180306T195443Z">
         <seg>Перемещение шаблона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moving and copying sheets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180326T183657Z" creationid="olex" creationdate="20180326T183657Z">
+        <seg>Перемещение и копирование листов</seg>
       </tuv>
     </tu>
     <tu>
