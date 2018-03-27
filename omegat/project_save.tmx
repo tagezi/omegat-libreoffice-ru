@@ -593,6 +593,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s3/&gt;However, if you are familiar with Excel you may wish to change the default syntax in Calc by going to &lt;f4&gt;Tools &gt; Options &gt; Formula &gt; Formula Syntax&lt;/f4&gt; and choosing &lt;f5&gt;Excel R1&lt;/f5&gt; from the drop down menu provided.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T184423Z" creationid="olex" creationdate="20180327T184423Z">
+        <seg>&lt;s3 /&gt; Однако, если вы хорошо знакомы с Excel, вы можете изменить синтаксис по умолчанию в Calc, перейдя в &lt;f4&gt;Сервис &gt; Параметры &gt; Libreoffice Calc &gt; Формула &gt; Синтаксис формулы&lt;/f4&gt; и выбрав &lt;f5&gt;Excel R1&lt;/f5&gt; из выпадающего списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s3/&gt;Wildcards are more widespread in other spreadsheet applications and adopting a similar option in LibreOffice allows for better compatibility and a better experience for users who may not be familiar with the use of regular expressions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T183450Z" creationid="olex" creationdate="20180327T183450Z">
