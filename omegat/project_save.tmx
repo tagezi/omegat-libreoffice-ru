@@ -2489,8 +2489,16 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Defining a fill series</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T172723Z" creationid="olex" creationdate="20180327T172723Z">
-        <seg>Определение серий заполнения</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173119Z" creationid="olex" creationdate="20180327T172723Z">
+        <seg>Определение рядов заполнения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defining a fill series from a range in a sheet</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173253Z" creationid="olex" creationdate="20180327T173253Z">
+        <seg>Определение рядов заполнения из диапазона в листе</seg>
       </tuv>
     </tu>
     <tu>
@@ -11443,8 +11451,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>Using a fill series</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T172637Z" creationid="olex" creationdate="20180327T172637Z">
-        <seg>Использование серии заполнений</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173108Z" creationid="olex" creationdate="20180327T172637Z">
+        <seg>Использование рядов заполнения</seg>
       </tuv>
     </tu>
     <tu>
@@ -11487,6 +11495,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173954Z" creationid="Роман" creationdate="20180317T173954Z">
         <seg>Использование языка разметки в Редакторе формул помещает формулу &lt;f5&gt;&lt;df6&gt;&lt;d7/&gt;&lt;di8/&gt;&lt;s9&gt;formula&lt;/s9&gt;&lt;/df6&gt;&lt;/f5&gt;&lt;s10/&gt;прямо в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using selection lists</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173524Z" creationid="olex" creationdate="20180327T173524Z">
+        <seg>Использование списков выбора</seg>
       </tuv>
     </tu>
     <tu>
