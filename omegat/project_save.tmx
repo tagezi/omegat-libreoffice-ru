@@ -6988,6 +6988,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Microsoft Office uses &lt;f0&gt;Visual Basic for applications&lt;/f0&gt; (VBA) code, and LibreOffice uses &lt;f1&gt;Basic&lt;/f1&gt; code based on the LibreOffice API.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T184942Z" creationid="olex" creationdate="20180327T184942Z">
+        <seg>Microsoft Office использует код &lt;f0&gt;Visual Basic for applications&lt;/f0&gt; (VBA), а LibreOffice использует код &lt;f1&gt;Basic&lt;/f1&gt;, основанный на API LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Microsoft PowerPoint 97/2000/XP (.ppt and .pot)&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T154145Z" creationid="tagezi" creationdate="20180304T154145Z">
