@@ -1773,6 +1773,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing data</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T174040Z" creationid="olex" creationdate="20180327T174040Z">
+        <seg>Изменение данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changing document view</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T184415Z" creationid="olex" creationdate="20180326T184415Z">
@@ -4079,6 +4087,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T093858Z" creationid="olex" creationdate="20180306T200142Z">
         <seg>Форматирование таблицы в Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formatting data</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T174147Z" creationid="olex" creationdate="20180327T174147Z">
+        <seg>Форматирование данных</seg>
       </tuv>
     </tu>
     <tu>
@@ -6834,6 +6850,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T182933Z" creationid="olex" creationdate="20180326T182933Z">
         <seg>Несколько смежных листов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple lines of text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T174239Z" creationid="olex" creationdate="20180327T174239Z">
+        <seg>Многострочный текст</seg>
       </tuv>
     </tu>
     <tu>
@@ -11623,8 +11647,16 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>Using the keyboard</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180326T191704Z" creationid="olex" creationdate="20180326T191704Z">
-        <seg>Использование клавиатуры</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T174115Z" creationid="olex" creationdate="20180326T191704Z">
+        <seg>Используя клавиатуру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the mouse</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T174123Z" creationid="olex" creationdate="20180327T174104Z">
+        <seg>Используя мышь</seg>
       </tuv>
     </tu>
     <tu>
