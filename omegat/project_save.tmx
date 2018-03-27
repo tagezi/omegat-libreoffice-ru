@@ -1757,6 +1757,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cell Protection</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T175518Z" creationid="olex" creationdate="20180327T175518Z">
+        <seg>Защита ячеек</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cell navigation</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T180618Z" creationid="olex" creationdate="20180326T180618Z">
@@ -4623,6 +4631,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T175431Z" creationid="olex" creationdate="20180327T175431Z">
         <seg>Скрытие и отображение данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hiding data</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T175443Z" creationid="olex" creationdate="20180327T175443Z">
+        <seg>Скрытие данных</seg>
       </tuv>
     </tu>
     <tu>
@@ -8776,6 +8792,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Showing data</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T175456Z" creationid="olex" creationdate="20180327T175456Z">
+        <seg>Отображение данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shrinking text to fit the cell</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T174522Z" creationid="olex" creationdate="20180327T174522Z">
@@ -8901,6 +8925,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T200730Z" creationid="olex" creationdate="20180309T200730Z">
         <seg>Иногда это именно то, что вы хотите; но иногда нежелательно, чтобы изменения применялись ко всем связанным стилям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorting records</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T175606Z" creationid="olex" creationdate="20180327T175606Z">
+        <seg>Сортировка записей</seg>
       </tuv>
     </tu>
     <tu>
