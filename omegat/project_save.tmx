@@ -1733,6 +1733,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calc is the spreadsheet component of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T181249Z" creationid="olex" creationdate="20180327T181020Z">
+        <seg>Calc - это модуль LibreOffice для электронных таблиц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calc main window</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T173621Z" creationid="olex" creationdate="20180326T173621Z">
@@ -8860,6 +8868,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195207Z" creationid="olex" creationdate="20180306T195207Z">
         <seg>Настройка шаблона по умолчанию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting a header or footer</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T180855Z" creationid="olex" creationdate="20180327T180855Z">
+        <seg>Настройка верхних и нижних колонтитулов</seg>
       </tuv>
     </tu>
     <tu>
