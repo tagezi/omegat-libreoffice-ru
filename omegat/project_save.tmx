@@ -577,6 +577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s2/&gt;LibreOffice will translate seamlessly between the two.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T183842Z" creationid="olex" creationdate="20180327T183842Z">
+        <seg>&lt;s2/&gt;LibreOffice будет легко переводить между ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s2/&gt;Or, alternatively, position the cursor in the table to be formatted and double click on a style listed in the &lt;f3&gt;Table Styles&lt;/f3&gt; tab of the &lt;f4&gt;Styles&lt;/f4&gt; menu or the &lt;f5&gt;sidebar&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T204929Z" creationid="olex" creationdate="20180316T204929Z">
@@ -1697,6 +1705,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T201810Z" creationid="olex" creationdate="20180306T201810Z">
         <seg>Напротив, при использовании стилей, вам нужно сделать только одно изменение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, LibreOffice Calc will use the it’s own formula syntax, referred to as &lt;f0&gt;Calc R1&lt;/f0&gt; rather than the &lt;f1&gt;Excel R1&lt;/f1&gt; syntax that is used by Microsoft Excel.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T183641Z" creationid="olex" creationdate="20180327T183641Z">
+        <seg>По умолчанию LibreOffice Calc использует собственный синтаксис формул, называемый &lt;f0&gt;Calc R1&lt;/f0&gt;, а не синтаксис &lt;f1&gt;Excel R1&lt;/f1&gt;, который используется в Microsoft Excel.</seg>
       </tuv>
     </tu>
     <tu>
