@@ -4101,7 +4101,7 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Formatting cell background</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T174700Z" creationid="olex" creationdate="20180327T174700Z">
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T175027Z" creationid="olex" creationdate="20180327T174700Z">
         <seg>Форматирование фона ячейки</seg>
       </tuv>
     </tu>
@@ -4109,8 +4109,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Formatting cell borders</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T174754Z" creationid="olex" creationdate="20180327T174648Z">
-        <seg>Форматирование обрамления ячейки</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T175016Z" creationid="olex" creationdate="20180327T174648Z">
+        <seg>Форматирование обрамления ячеек</seg>
       </tuv>
     </tu>
     <tu>
@@ -4123,9 +4123,17 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Formatting default cell styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T175209Z" creationid="olex" creationdate="20180327T175209Z">
+        <seg>Стиль форматирования ячеек по умолчанию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Formatting fonts and text in cells</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T174604Z" creationid="olex" creationdate="20180327T174604Z">
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T174946Z" creationid="olex" creationdate="20180327T174604Z">
         <seg>Форматирование шрифта и текста в ячейках</seg>
       </tuv>
     </tu>
@@ -4133,8 +4141,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Formatting numbers</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T174827Z" creationid="olex" creationdate="20180327T174541Z">
-        <seg>Числовые форматы</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T174936Z" creationid="olex" creationdate="20180327T174541Z">
+        <seg>Форматирование чисел</seg>
       </tuv>
     </tu>
     <tu>
