@@ -2623,6 +2623,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deleting a page break</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T180749Z" creationid="olex" creationdate="20180327T180749Z">
+        <seg>Удаление разрыва страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deleting a template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195448Z" creationid="olex" creationdate="20180306T195448Z">
@@ -3013,6 +3021,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T192809Z" creationid="olex" creationdate="20180311T192809Z">
         <seg>Измените шаблон так, как вы бы изменяли любой другой документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing a print range</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T180547Z" creationid="olex" creationdate="20180327T180547Z">
+        <seg>Редактирование диапазона печати</seg>
       </tuv>
     </tu>
     <tu>
@@ -4643,6 +4659,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Headers and footers</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T180818Z" creationid="olex" creationdate="20180327T180818Z">
+        <seg>Верхние и нижние колонтитулы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Help system</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T085947Z" creationid="tagezi" creationdate="20180306T085947Z">
@@ -5767,6 +5791,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T201429Z" creationid="tagezi" creationdate="20180320T201429Z">
         <seg>Информация в следующих книгах в основном применима к LibreOffice; книги доступны для покупки в печатной и электронной форме от их издателей:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserting a break</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T180718Z" creationid="olex" creationdate="20180327T180718Z">
+        <seg>Вставка разрыва</seg>
       </tuv>
     </tu>
     <tu>
@@ -7639,6 +7671,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page breaks</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T180704Z" creationid="olex" creationdate="20180327T180704Z">
+        <seg>Разрыв страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page styles can be set up to have the facing left and right pages &lt;f0&gt;mirrored&lt;/f0&gt; or only right (first pages of chapters are often defined to be right-page only) or only left.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T200230Z" creationid="olex" creationdate="20180316T200230Z">
@@ -7895,6 +7935,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Printing options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T180634Z" creationid="olex" creationdate="20180327T180634Z">
+        <seg>Параметры печати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Publication date and software version</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T095944Z" creationid="lera" creationdate="20180303T152709Z">
@@ -8083,6 +8131,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183950Z" creationid="olex" creationdate="20180326T183950Z">
         <seg>Переименование листов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repeat printing of rows or columns</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T180652Z" creationid="olex" creationdate="20180327T180652Z">
+        <seg>Повторение печати строк или столбцов</seg>
       </tuv>
     </tu>
     <tu>
