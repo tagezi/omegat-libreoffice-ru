@@ -577,6 +577,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s2/&gt;Although the programming languages are the same, the objects and methods are different and therefore not entirely compatible.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T185215Z" creationid="olex" creationdate="20180327T185152Z">
+        <seg>&lt;s2/&gt;Хотя эти языки программирования одинаковы, объекты и методы различны и поэтому не полностью совместимы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s2/&gt;LibreOffice will translate seamlessly between the two.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T184102Z" creationid="olex" creationdate="20180327T183842Z">
@@ -6323,6 +6331,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice can however run &lt;f0&gt;some&lt;/f0&gt; Excel Visual Basic Scripts if you enable this feature at &lt;f1&gt;Tools &gt; Options &gt; Load/Save &gt; VBA Properties.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T185421Z" creationid="olex" creationdate="20180327T185210Z">
+        <seg>Однако LibreOffice запускает &lt;f0&gt;некоторые&lt;/f0&gt; скрипты Excel Visual Basic, если эта функция включена в &lt;f1&gt;Сервис &gt; Параметры &gt; Загрузка/Сохраннение &gt; Свойства VBA.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice can open a wide variety of file formats in addition to the OpenDocument formats, including Portable Document Format (PDF), if an ODF file is embedded in the PDF (see Chapter 10 Printing, Exporting, and Emailing for more information).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T143640Z" creationid="tagezi" creationdate="20180304T143640Z">
@@ -6990,8 +7006,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Microsoft Office uses &lt;f0&gt;Visual Basic for applications&lt;/f0&gt; (VBA) code, and LibreOffice uses &lt;f1&gt;Basic&lt;/f1&gt; code based on the LibreOffice API.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T184942Z" creationid="olex" creationdate="20180327T184942Z">
-        <seg>Microsoft Office использует код &lt;f0&gt;Visual Basic for applications&lt;/f0&gt; (VBA), а LibreOffice использует код &lt;f1&gt;Basic&lt;/f1&gt;, основанный на API LibreOffice.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T185107Z" creationid="olex" creationdate="20180327T184942Z">
+        <seg>Microsoft Office использует для макросов язык программирования &lt;f0&gt;Visual Basic for applications&lt;/f0&gt; (VBA), а LibreOffice использует язык &lt;f1&gt;Basic&lt;/f1&gt;, основанный на API LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
