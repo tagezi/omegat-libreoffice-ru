@@ -1515,6 +1515,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>AutoFormatting of cells</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T175228Z" creationid="olex" creationdate="20180327T175228Z">
+        <seg>Автоформатирование ячеек</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: Словари не полные. Там много чего нет.  https://ru.wiktionary.org не плохой словарь, там часто есть толкование и склонение слова</note>
       <tuv lang="EN-US">
         <seg>AutoUpdate</seg>
@@ -2515,6 +2523,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T173711Z" creationid="olex" creationdate="20180327T173253Z">
         <seg>Определение заполнения ряда из диапазона в листе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defining a new AutoFormat</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T175319Z" creationid="olex" creationdate="20180327T175319Z">
+        <seg>Определение нового автоформата</seg>
       </tuv>
     </tu>
     <tu>
@@ -4599,6 +4615,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183238Z" creationid="olex" creationdate="20180326T183238Z">
         <seg>Скрытие и отображение листов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hiding and showing data</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T175431Z" creationid="olex" creationdate="20180327T175431Z">
+        <seg>Скрытие и отображение данных</seg>
       </tuv>
     </tu>
     <tu>
@@ -11529,6 +11553,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using AutoFormat</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T175257Z" creationid="olex" creationdate="20180327T175250Z">
+        <seg>Использование Автоформата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using AutoUpdate</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194631Z" creationid="olex" creationdate="20180306T194631Z">
@@ -11605,6 +11637,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194842Z" creationid="olex" creationdate="20180306T194842Z">
         <seg>Использование шаблона для создания документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using conditional formatting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T175408Z" creationid="olex" creationdate="20180327T175408Z">
+        <seg>Использование условного форматирования</seg>
       </tuv>
     </tu>
     <tu>
@@ -11721,6 +11761,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T174123Z" creationid="olex" creationdate="20180327T174104Z">
         <seg>Используя мышь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using themes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T175337Z" creationid="olex" creationdate="20180327T175337Z">
+        <seg>Использование тем</seg>
       </tuv>
     </tu>
     <tu>
