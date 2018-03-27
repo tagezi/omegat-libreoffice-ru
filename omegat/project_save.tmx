@@ -1218,6 +1218,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, you can enter data and then use Calc in a “What if...” manner by changing some of the data and observing the results without having to retype the entire spreadsheet or sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T181721Z" creationid="olex" creationdate="20180327T181721Z">
+        <seg>Кроме того, вы можете вводить данные, а затем использовать Calc в манере «Что если ...», изменяя некоторые данные и наблюдая за результатами, без необходимости перепечатывать всю электронную таблицу или лист.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although individual extensions can be found in several places, there is currently an extension repository at: &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt; and some documentation at &lt;a1&gt;http://libreplanet.org/wiki/Group:OpenOfficeExtensions/List&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T184741Z" creationid="tagezi" creationdate="20180320T184741Z">
@@ -12665,6 +12673,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T082522Z" creationid="tagezi" creationdate="20180310T082522Z">
         <seg>Вы можете использовать диалоговые окна или ваше операционной системы, или LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can enter data (usually numerical) in a spreadsheet and then manipulate this data to produce certain results.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T181343Z" creationid="olex" creationdate="20180327T181343Z">
+        <seg>Вы можете вводить в электронную таблицу данные (обычно числовые), а затем манипулировать этими данными для получения определенных результатов.</seg>
       </tuv>
     </tu>
     <tu>
