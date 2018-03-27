@@ -2489,16 +2489,16 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Defining a fill series</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173547Z" creationid="olex" creationdate="20180327T172723Z">
-        <seg>Определение заполнения рядов</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173703Z" creationid="olex" creationdate="20180327T172723Z">
+        <seg>Определение заполнения ряда</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Defining a fill series from a range in a sheet</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173602Z" creationid="olex" creationdate="20180327T173253Z">
-        <seg>Определение заполнения рядов из диапазона в листе</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173711Z" creationid="olex" creationdate="20180327T173253Z">
+        <seg>Определение заполнения ряда из диапазона в листе</seg>
       </tuv>
     </tu>
     <tu>
@@ -2571,6 +2571,30 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183517Z" creationid="olex" creationdate="20180326T183517Z">
         <seg>Удаление столбцов и строк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting data</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173847Z" creationid="olex" creationdate="20180327T173847Z">
+        <seg>Удаление данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting data and formatting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173916Z" creationid="olex" creationdate="20180327T173916Z">
+        <seg>Удаление данных и форматирования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting data only</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173903Z" creationid="olex" creationdate="20180327T173903Z">
+        <seg>Удаление только данных</seg>
       </tuv>
     </tu>
     <tu>
@@ -2925,6 +2949,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195026Z" creationid="olex" creationdate="20180306T195026Z">
         <seg>Редактирование шаблона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing data</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173833Z" creationid="olex" creationdate="20180327T173833Z">
+        <seg>Редактирование данных</seg>
       </tuv>
     </tu>
     <tu>
@@ -7879,6 +7911,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replacing data</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173931Z" creationid="olex" creationdate="20180327T173931Z">
+        <seg>Замена данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T192640Z" creationid="olex" creationdate="20180326T192640Z">
@@ -8594,8 +8634,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Sharing content between sheets</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173652Z" creationid="olex" creationdate="20180327T173652Z">
-        <seg>Обмен содержанием между листами</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173746Z" creationid="olex" creationdate="20180327T173652Z">
+        <seg>Обмен содержимым между листами</seg>
       </tuv>
     </tu>
     <tu>
@@ -11459,8 +11499,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>Using a fill series</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173532Z" creationid="olex" creationdate="20180327T172637Z">
-        <seg>Использование заполнения рядов</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173658Z" creationid="olex" creationdate="20180327T172637Z">
+        <seg>Использование заполнения ряда</seg>
       </tuv>
     </tu>
     <tu>
@@ -11593,6 +11633,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T230744Z" creationid="tagezi" creationdate="20180304T230744Z">
         <seg>Валерий Гончарук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Validating cell contents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173811Z" creationid="olex" creationdate="20180327T173811Z">
+        <seg>Проверка содержимого ячейки</seg>
       </tuv>
     </tu>
     <tu>
