@@ -5276,6 +5276,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import and export of spreadsheets in multiple formats, including HTML, CSV, PDF, and PostScript.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T182913Z" creationid="olex" creationdate="20180327T182913Z">
+        <seg>Импорт и экспорт электронных таблиц в разных форматах, включая HTML, CSV, PDF и PostScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import the template into a template folder by following the instructions in “&lt;bf0&gt;Importing a template&lt;/bf0&gt;” on page &lt;bf1&gt;21&lt;/bf1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T202929Z" creationid="olex" creationdate="20180312T202929Z">
@@ -9012,6 +9020,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T175406Z" creationid="olex" creationdate="20180326T175406Z">
         <seg>Боковая панель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simple wildcards such as the &lt;f0&gt;asterisk (*)&lt;/f0&gt;, &lt;f1&gt;question mark (?)&lt;/f1&gt;, and &lt;f2&gt;tilde (~)&lt;/f2&gt; from other spreadsheet applications are recognized by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T183203Z" creationid="olex" creationdate="20180327T183203Z">
+        <seg>Простые подстановочные знаки, такие как &lt;f0&gt;звездочка (*)&lt;/f0&gt;, &lt;f1&gt;вопросительный знак (?)&lt;/f1&gt; и &lt;f2&gt;tilde (~)&lt;/f2&gt; из других приложений электронных таблиц, распознаются LibreOffice ,</seg>
       </tuv>
     </tu>
     <tu>
