@@ -1549,6 +1549,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic wrapping</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T174338Z" creationid="olex" creationdate="20180327T174338Z">
+        <seg>Автоматический перенос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base (database)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T081618Z" creationid="tagezi" creationdate="20180306T081618Z">
@@ -6588,6 +6596,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manual line breaks</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T174411Z" creationid="olex" creationdate="20180327T174411Z">
+        <seg>Разрыв строки вручную</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many documents, such as letters and reports, have a first page that is different from the other pages in the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T191132Z" creationid="olex" creationdate="20180315T191132Z">
@@ -8692,6 +8708,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134642Z" creationid="tagezi" creationdate="20180320T134642Z">
         <seg>Должен ли макрос быть доступен только для одного документа или для всех?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shrinking text to fit the cell</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T174522Z" creationid="olex" creationdate="20180327T174522Z">
+        <seg>Уменьшение текста до размеров ячейки</seg>
       </tuv>
     </tu>
     <tu>
