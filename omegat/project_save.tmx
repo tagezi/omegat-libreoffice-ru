@@ -595,8 +595,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s3/&gt;However, if you are familiar with Excel you may wish to change the default syntax in Calc by going to &lt;f4&gt;Tools &gt; Options &gt; Formula &gt; Formula Syntax&lt;/f4&gt; and choosing &lt;f5&gt;Excel R1&lt;/f5&gt; from the drop down menu provided.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T184423Z" creationid="olex" creationdate="20180327T184423Z">
-        <seg>&lt;s3 /&gt; Однако, если вы хорошо знакомы с Excel, вы можете изменить синтаксис по умолчанию в Calc, перейдя в &lt;f4&gt;Сервис &gt; Параметры &gt; Libreoffice Calc &gt; Формула &gt; Синтаксис формулы&lt;/f4&gt; и выбрав &lt;f5&gt;Excel R1&lt;/f5&gt; из выпадающего списка.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T184612Z" creationid="olex" creationdate="20180327T184423Z">
+        <seg>&lt;s3 /&gt; Однако, если вы хорошо знакомы с Excel, вы можете изменить синтаксис по умолчанию в Calc, перейдя в &lt;f4&gt;Сервис &gt; Параметры &gt; Libreoffice Calc &gt; Формула &gt; Синтаксис формулы&lt;/f4&gt; и выбрав &lt;f5&gt;Excel A1&lt;/f5&gt; или &lt;f5&gt;Excel R1C1&lt;/f5&gt; из выпадающего списка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1719,8 +1719,8 @@
       <tuv lang="EN-US">
         <seg>By default, LibreOffice Calc will use the it’s own formula syntax, referred to as &lt;f0&gt;Calc R1&lt;/f0&gt; rather than the &lt;f1&gt;Excel R1&lt;/f1&gt; syntax that is used by Microsoft Excel.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T183906Z" creationid="olex" creationdate="20180327T183641Z">
-        <seg>По умолчанию LibreOffice Calc использует собственный синтаксис формул, называемый &lt;f0&gt;Calc R1&lt;/f0&gt;, а не синтаксис &lt;f1&gt;Excel R1&lt;/f1&gt;, используемый в Microsoft Excel.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T184440Z" creationid="olex" creationdate="20180327T183641Z">
+        <seg>По умолчанию LibreOffice Calc использует собственный синтаксис формул, называемый &lt;f0&gt;Calc A1&lt;/f0&gt;, а не синтаксис &lt;f1&gt;Excel A1&lt;/f1&gt;, используемый в Microsoft Excel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4175,6 +4175,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180312T071613Z" creationid="User" creationdate="20180312T071613Z">
         <seg>Больше информации о создании формул изложено в разделе “&lt;bf5&gt;Создание формул&lt;/bf5&gt;” на странице &lt;bf6&gt;8&lt;/bf6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on formula syntax, see &lt;f0&gt;Chapter 7: Formulas and Functions&lt;/f0&gt; of the LibreOffice Calc guide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T184726Z" creationid="olex" creationdate="20180327T184726Z">
+        <seg>Дополнительные сведения о синтаксисе формул смотрите в &lt;f0&gt;Глава 7: Формулы и функции&lt;/f0&gt; руководства LibreOffice Calc.</seg>
       </tuv>
     </tu>
     <tu>
