@@ -1307,6 +1307,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Analyzing data</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T180028Z" creationid="olex" creationdate="20180327T180028Z">
+        <seg>Анализ данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Announcement of LibreOffice 5.4.6</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T054647Z" creationid="tagezi" creationdate="20180321T054647Z">
@@ -7663,6 +7671,22 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pivot Charts</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T180202Z" creationid="olex" creationdate="20180327T180202Z">
+        <seg>Сводные диаграммы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pivot Tables and Pivot Charts</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T180144Z" creationid="olex" creationdate="20180327T180144Z">
+        <seg>Сводные таблицы и сводные диаграммы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pivot Tables that are used directly in Calc</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T184341Z" creationid="tagezi" creationdate="20180320T184341Z">
@@ -7831,10 +7855,26 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Print ranges</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T180440Z" creationid="olex" creationdate="20180327T180440Z">
+        <seg>Диапазоны печати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Printed and eBook materials</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T201303Z" creationid="tagezi" creationdate="20180320T201303Z">
         <seg>Печатные и электронные книги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T180208Z" creationid="olex" creationdate="20180327T180208Z">
+        <seg>Печать</seg>
       </tuv>
     </tu>
     <tu>
