@@ -2487,6 +2487,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Database functions, to arrange, store, and filter data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T182628Z" creationid="olex" creationdate="20180327T182628Z">
+        <seg>Функции базы данных, по упорядочению, сохранению и фильтрованию данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Date and time</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T191901Z" creationid="olex" creationdate="20180326T191901Z">
@@ -4431,6 +4439,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T123423Z" creationid="tagezi" creationdate="20180315T123423Z">
         <seg>Функции определяются ключевым словом в начале FUNCTION.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Functions, which can be used to create formulas to perform complex calculations on data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T182043Z" creationid="olex" creationdate="20180327T182002Z">
+        <seg>Функции, которые могут использоваться для создания формул, для выполнения сложных вычислений по данным.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7643,6 +7659,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T210955Z" creationid="tagezi" creationdate="20180315T210955Z">
         <seg>Другие часто используемые типы &lt;f3&gt;string&lt;/f3&gt;, &lt;f4&gt;integer&lt;/f4&gt;, и &lt;f5&gt;date&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other features provided by Calc include:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T182022Z" creationid="olex" creationdate="20180327T181931Z">
+        <seg>Другие возможности, предоставляемые Calc, включают:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13320,8 +13344,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>features</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T181749Z" creationid="olex" creationdate="20180327T181749Z">
-        <seg>функции</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T182011Z" creationid="olex" creationdate="20180327T181749Z">
+        <seg>возможности</seg>
       </tuv>
     </tu>
     <tu>
