@@ -3009,6 +3009,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dynamic charts; a wide range of 2D and 3D charts.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T182652Z" creationid="olex" creationdate="20180327T182652Z">
+        <seg>Динамические диаграммы; широкий диапазон 2D и 3D-диаграмм.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each Style dialog has several tabs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180536Z" creationid="olex" creationdate="20180308T180536Z">
@@ -6704,6 +6712,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T105136Z" creationid="tagezi" creationdate="20180320T105136Z">
         <seg>Однако макросы, хранящиеся в контейнере библиотек приложения с именем Мои макросы, доступны глобально для всех документов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Macros, for recording and executing repetitive tasks; scripting languages supported include LibreOffice Basic, Python, BeanShell, and JavaScript.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180327T182728Z" creationid="olex" creationdate="20180327T182728Z">
+        <seg>Макросы для записи и выполнения повторяющихся задач; поддерживаемые языки сценариев включают LibreOffice Basic, Python, BeanShell и JavaScript.</seg>
       </tuv>
     </tu>
     <tu>
