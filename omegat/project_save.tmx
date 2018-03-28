@@ -3481,6 +3481,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Calc main window</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T175039Z" creationid="olex" creationdate="20180328T175039Z">
+        <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: Главное окно Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: LibreOffice Basic Macros dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132531Z" creationid="tagezi" creationdate="20180312T132424Z">
@@ -9677,8 +9685,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The &lt;i0/&gt;Title bar, located at the top, shows the name of the current spreadsheet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180328T174655Z" creationid="olex" creationdate="20180328T174557Z">
-        <seg>Строка заголовка &lt;i0/&gt;, расположенная вверху, показывает имя текущей электронной таблицы.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T174815Z" creationid="olex" creationdate="20180328T174557Z">
+        <seg>Строка заголовка &lt;i0/&gt;, расположенная вверху, показывает название текущей электронной таблицы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12383,8 +12391,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>When a spreadsheet is newly created from a template or a blank document, its name is &lt;f1&gt;Untitled X&lt;/f1&gt;, where &lt;f2&gt;X&lt;/f2&gt; is a number.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180328T174809Z" creationid="olex" creationdate="20180328T174809Z">
-        <seg>Если электронная таблица только что создана из шаблона или пустого документа, её имя равно &lt;f1&gt; Untitled X &lt;/ f1&gt;, где &lt;f2&gt; X &lt;/ f2&gt; - это число.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T174910Z" creationid="olex" creationdate="20180328T174809Z">
+        <seg>Если электронная таблица только что создана из шаблона или пустого документа, она будет называться &lt;f1&gt;Без имени X&lt;/f1&gt;, где &lt;f2&gt;X&lt;/f2&gt; - это число.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12497,6 +12505,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T200611Z" creationid="olex" creationdate="20180316T200611Z">
         <seg>Когда вы вставляете верхний колонтитул в стиль страницы, настроенный для зеркальных страниц (или правых и левых страниц), вы можете сделать содержимое заголовка одинаковым для всех страниц или различным для правой и левой страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you save a spreadsheet for the first time, you are prompted to enter a name of your choice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T175014Z" creationid="olex" creationdate="20180328T175014Z">
+        <seg>Когда вы сохраняете новую электронную таблицу, вам будет предложено ввести её название по вашему выбору.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13714,6 +13730,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T174224Z" creationid="olex" creationdate="20180328T174224Z">
         <seg>главное окно, описание</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>menu bar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T175047Z" creationid="olex" creationdate="20180328T175047Z">
+        <seg>панель меню</seg>
       </tuv>
     </tu>
     <tu>
