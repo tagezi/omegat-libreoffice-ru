@@ -3115,8 +3115,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Each spreadsheet can have several sheets, and each sheet can have many individual cells.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180328T173839Z" creationid="olex" creationdate="20180328T173839Z">
-        <seg>Каждая таблица может содержать несколько листов, и в каждом листе может быть много отдельных ячеек.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T174005Z" creationid="olex" creationdate="20180328T173839Z">
+        <seg>Каждая таблица может содержать несколько листов, и каждый лист состоит из множества отдельных ячеек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5438,8 +5438,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>In Calc, each sheet can have a maximum of 1,048,576 rows and a maximum of 1024 columns.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180328T173934Z" creationid="olex" creationdate="20180328T173934Z">
-        <seg>В Calc каждый лист может содержать максимум 1 048 576 строк и максимум 1024 столбца.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T174148Z" creationid="olex" creationdate="20180328T173934Z">
+        <seg>В Calc каждый лист может состоять из не более чем 1 048 576 строк и 1024 столбцов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6303,6 +6303,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T092111Z" creationid="tagezi" creationdate="20180315T092111Z">
         <seg>LibreOffice Basic не чувствителен регистру ключевых слов, поэтому комментарий может начинаться с REM, Rem или rem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice Calc can hold up to 32,000 sheets.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T174119Z" creationid="olex" creationdate="20180328T174119Z">
+        <seg>LibreOffice Calc может содержать до 32 000 листов.</seg>
       </tuv>
     </tu>
     <tu>
