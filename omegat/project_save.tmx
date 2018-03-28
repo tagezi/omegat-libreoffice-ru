@@ -464,6 +464,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Tools&lt;/f0&gt; – contains various functions to help you check and customize the spreadsheet; for example, &lt;f1&gt;Spelling&lt;/f1&gt;, &lt;f2&gt;Share Document&lt;/f2&gt;, &lt;f3&gt;Gallery&lt;/f3&gt;, &lt;f4&gt;Macros, Goal Seek, Solver, Detective, Protect Sheet, XML Filter Settings, Extension Manager&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T185126Z" creationid="olex" creationdate="20180328T185126Z">
+        <seg>&lt;f0&gt;Сервис&lt;/f0&gt; - содержит различные функции, которые помогут вам проверить и настроить электронную таблицу; например, &lt;f1&gt;Проверка орфографии...&lt;/f1&gt;, &lt;f2&gt;Совместно использовать документ...&lt;/f2&gt;, &lt;f3&gt;Макросы&lt;/f3&gt;, &lt;f4&gt;Подбор параметра..., Решатель..., Зависимости, Защитить лист, Настройки фильтров XML..., Управление расширениями...&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;User Guides &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Documentation page of the LibreOffice website &lt;a3&gt;https://documentation.libreoffice.org/en/english-documentation/&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T103533Z" creationid="tagezi" creationdate="20180307T103533Z">
