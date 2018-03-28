@@ -319,6 +319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Format&lt;/f0&gt; – contains commands for modifying the layout of a spreadsheet; for example, &lt;f1&gt;Cells&lt;/f1&gt;, &lt;f2&gt;Page&lt;/f2&gt;, &lt;f3&gt;Styles&lt;/f3&gt;, &lt;f4&gt;Alignment, Merge Cells, Print Range, Conditional Formatting, Spreadsheet Themes, Image, Chart, Object.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T182456Z" creationid="olex" creationdate="20180328T182456Z">
+        <seg>&lt;f0&gt;Формат&lt;/f0&gt; - содержит команды для изменения внешнего вида таблицы; например, &lt;f1&gt;Ячейки...&lt;/f1&gt;, &lt;f2&gt;Страница...&lt;/f2&gt;, &lt;f3&gt;Стили автоформата...&lt;/f3&gt;, &lt;f4&gt;Объединить ячейки, Диапазоны печати, Условное форматирование, Выбор тем, Изображение, Диаграмма , Объект.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Frame styles&lt;/f0&gt; are used to format graphic and text frames, including text wrap, borders, backgrounds, and columns.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T183901Z" creationid="olex" creationdate="20180307T183901Z">
