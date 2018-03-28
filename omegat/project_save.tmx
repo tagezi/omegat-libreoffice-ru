@@ -360,6 +360,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Help&lt;/f0&gt; – contains links to the LibreOffice help system and other miscellaneous functions; for example, &lt;f1&gt;Help&lt;/f1&gt;, &lt;f2&gt;License Information&lt;/f2&gt;, User Guides, &lt;f3&gt;Check for Updates, Send Feedback and Donate&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T185805Z" creationid="olex" creationdate="20180328T185805Z">
+        <seg>&lt;f0&gt;Справка&lt;/f0&gt; - содержит ссылки на справочную систему LibreOffice и разные другие функции; например, &lt;f1&gt;Справка по LibreOffice&lt;/f1&gt;, &lt;f2&gt;Лицензия...&lt;/f2&gt;, Руководства пользователя..., &lt;f3&gt; Отправить отзыв, Поддержать LibreOffice&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Insert&lt;/f0&gt; – contains commands for inserting elements into a spreadsheet; for example, &lt;f1&gt;Pictures, Media, Objects, Formula Design, Frames, Special Characters, Charts, Functions, Shapes, Pivot Tables, Named Ranges, Comments, Hyperlinks, Headers and Footers, Form Controls.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T181845Z" creationid="olex" creationdate="20180328T181845Z">
@@ -493,6 +501,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T102301Z" creationid="tagezi" creationdate="20180306T183244Z">
         <seg>&lt;f0&gt;Что это такое?&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;Для быстрых подсказок, когда видна панель инструментов, поместите указатель мыши над любым значком, чтобы увидеть маленькие прямоугольники (“всплывающая подсказка”) с кратким описанием функции значка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Window&lt;/f0&gt; – contains commands to open a &lt;f1&gt;New&lt;/f1&gt; window or &lt;f2&gt;Close&lt;/f2&gt; actual window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T185405Z" creationid="olex" creationdate="20180328T185405Z">
+        <seg>&lt;f0&gt;Окно&lt;/f0&gt; - содержит команды для открытия нового окна &lt;f1&gt;Новое окно&lt;/f1&gt; или закрытия текущего окна &lt;f2&gt;Закрыть окно&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
