@@ -1805,6 +1805,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calc works with documents called &lt;i0/&gt;&lt;f1&gt;spreadsheets&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T173028Z" creationid="olex" creationdate="20180328T173028Z">
+        <seg>Calc работает с документами, которые называются &lt;i0/&gt;&lt;f1&gt;электронные таблицы&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can the steps be arranged so that the last command leaves the cursor ready for the next command or entering text or data into the document?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T164415Z" creationid="tagezi" creationdate="20180318T164415Z">
