@@ -921,6 +921,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A particular cell is identified by its row number and column letter.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T173542Z" creationid="olex" creationdate="20180328T173542Z">
+        <seg>Каждая определенная ячейка обозначается номером строки и буквой столбца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A repository can be local (a directory on your computer to which you have downloaded templates) or remote (a URL from which you can download templates).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T200815Z" creationid="olex" creationdate="20180311T195019Z">
