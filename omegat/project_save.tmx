@@ -313,8 +313,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;File&lt;/f0&gt; – contains commands that apply to the entire document; for example, &lt;f1&gt;Open&lt;/f1&gt;, &lt;f2&gt;Save&lt;/f2&gt;, &lt;f3&gt;Wizards&lt;/f3&gt;, &lt;f4&gt;Export as PDF&lt;/f4&gt;, &lt;f5&gt;Print&lt;/f5&gt;, &lt;f6&gt;Digital Signatures and Templates., &lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180328T180035Z" creationid="olex" creationdate="20180328T175939Z">
-        <seg>&lt;f0&gt;Файл&lt;/f0&gt; - содержит команды, которые относятся ко всему документу; например, &lt;f1&gt;Открыть...&lt;/f1&gt;, &lt;f2&gt;Сохранить&lt;/f2&gt;, &lt;f3&gt;Мастер&lt;/f3&gt;, &lt;f4&gt;Экспорт в PDF...&lt;/f4&gt;, &lt;f5&gt;Печать...&lt;/f5&gt;, &lt;f6&gt;Цифровые подписи&lt;/f6&gt; и Шаблоны&lt;/f6&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T182721Z" creationid="olex" creationdate="20180328T175939Z">
+        <seg>&lt;f0&gt;Файл&lt;/f0&gt; - содержит команды, которые относятся ко всему документу; например, &lt;f1&gt;Открыть...&lt;/f1&gt;, &lt;f2&gt;Сохранить&lt;/f2&gt;, &lt;f3&gt;Мастер&lt;/f3&gt;, &lt;f4&gt;Экспорт в PDF...&lt;/f4&gt;, &lt;f5&gt;Печать...&lt;/f5&gt;, &lt;f6&gt;Цифровые подписи и Шаблоны&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -420,6 +420,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T111237Z" creationid="tagezi" creationdate="20180307T111237Z">
         <seg>&lt;f0&gt;Отправить отзыв&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&gt;Открывает ваш браузер по умолчанию на странице отзывов сайта LibreOffice &lt;a3&gt;https://www.libreoffice.org/get-help/feedback/&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Sheet&lt;/f0&gt; – &lt;s1/&gt;contains the most often used commands for handling sheets, such as &lt;f2&gt;Insert&lt;/f2&gt; and &lt;f3&gt;Delete Cells, Columns, Rows and Sheets, Sheets from File, Cell Reference Type, Link to External Data, &lt;/f3&gt;as well as&lt;f4&gt; Comments &lt;/f4&gt;and&lt;f5&gt; Fill cells.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T183829Z" creationid="olex" creationdate="20180328T183829Z">
+        <seg>&lt;f0&gt;Лист&lt;/f0&gt; - &lt;s1/&gt;содержит наиболее часто используемые команды для работы с листами, такие как &lt;f2&gt;Вставить&lt;/f2&gt; и &lt;f3&gt;Удалить ячейки, столбцы, строки и листы, вставить листы из файла, Сменить тип ссылок, Связь с внешними данными,&lt;/f3&gt; а также &lt;f4&gt;Комментарии к ячейке&lt;/f4&gt; и &lt;f5&gt;Заполнить.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Styles &lt;/f0&gt;– contains commands to apply standard styles to cell, group of cells or sheets contents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T182943Z" creationid="olex" creationdate="20180328T182943Z">
+        <seg>&lt;f0&gt;Стили&lt;/f0&gt;– содержит команды для применения стандартных стилей к содержимому ячейки, группы ячеек или содержимому листов.</seg>
       </tuv>
     </tu>
     <tu>
