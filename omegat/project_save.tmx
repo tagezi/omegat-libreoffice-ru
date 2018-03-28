@@ -431,6 +431,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;View&lt;/f0&gt; – contains commands for modifying how the Calc user interface looks; for example, &lt;f1&gt;Toolbars, Grids, Column &amp; Row Headers, Full Screen, Zoom.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T180844Z" creationid="olex" creationdate="20180328T180844Z">
+        <seg>&lt;f0&gt;Вид&lt;/f0&gt; - содержит команды для изменения внешнего вида пользовательского интерфейса Calc; например, &lt;f1&gt;Панели инструментов, Сетка и вспомогательные линии, Заголовки столбцв/строк, Во весь экран, Масштаб.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: TODO: Додеать структуру предложения</note>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;What's This?&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;For quick tips when a toolbar is visible, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
