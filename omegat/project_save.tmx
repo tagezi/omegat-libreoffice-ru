@@ -303,10 +303,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Edit&lt;/f0&gt; – contains commands for editing the document; for example, &lt;f1&gt;Undo, Copy, Paste, Track Changes, Find and Replace, Compare and Merge Documents&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T180425Z" creationid="olex" creationdate="20180328T180425Z">
+        <seg>&lt;f0&gt;Правка&lt;/f0&gt; - содержит команды для редактирования документа; например, &lt;f1&gt;Отменить, Копировать, Вставить, Отслеживать изменения, Найти и Заменить..., Сравнить документ... и Объединить исправления...&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;File&lt;/f0&gt; – contains commands that apply to the entire document; for example, &lt;f1&gt;Open&lt;/f1&gt;, &lt;f2&gt;Save&lt;/f2&gt;, &lt;f3&gt;Wizards&lt;/f3&gt;, &lt;f4&gt;Export as PDF&lt;/f4&gt;, &lt;f5&gt;Print&lt;/f5&gt;, &lt;f6&gt;Digital Signatures and Templates., &lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180328T175939Z" creationid="olex" creationdate="20180328T175939Z">
-        <seg>&lt;f0&gt;Файл&lt;/f0&gt; - содержит команды, которые относятся ко всему документу; например, &lt;f1&gt;Открыть...&lt;/f1&gt;, &lt;f2&gt;Сохранить&lt;/f2&gt;, &lt;f3&gt;Мастер&lt;/f3&gt;, &lt;f4&gt;Экспорт в PDF...&lt;/f4&gt;, &lt;f5&gt;Печать...&lt;/f5&gt;, &lt;f6&gt;Цифровые подписи&lt;/f6&gt; и &lt;f7&gt;Шаблоны&lt;/f7&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T180035Z" creationid="olex" creationdate="20180328T175939Z">
+        <seg>&lt;f0&gt;Файл&lt;/f0&gt; - содержит команды, которые относятся ко всему документу; например, &lt;f1&gt;Открыть...&lt;/f1&gt;, &lt;f2&gt;Сохранить&lt;/f2&gt;, &lt;f3&gt;Мастер&lt;/f3&gt;, &lt;f4&gt;Экспорт в PDF...&lt;/f4&gt;, &lt;f5&gt;Печать...&lt;/f5&gt;, &lt;f6&gt;Цифровые подписи&lt;/f6&gt; и Шаблоны&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
