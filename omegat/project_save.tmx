@@ -1877,6 +1877,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cells hold the individual elements – text, numbers, formulas, and so on – that make up the data to display and manipulate.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T173721Z" creationid="olex" creationdate="20180328T173721Z">
+        <seg>Ячейки содержат отдельные элементы - текст, цифры, формулы и т. п. - которые составляют данные для отображения и обработки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change a style using the Style dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180320T192854Z" creationid="olex" creationdate="20180308T174607Z">
@@ -3101,6 +3109,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153516Z" creationid="tagezi" creationdate="20180318T153516Z">
         <seg>Каждое свойство имеет имя и значение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each spreadsheet can have several sheets, and each sheet can have many individual cells.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T173839Z" creationid="olex" creationdate="20180328T173839Z">
+        <seg>Каждая таблица может содержать несколько листов, и в каждом листе может быть много отдельных ячеек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5416,6 +5432,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T154301Z" creationid="User" creationdate="20180311T154301Z">
         <seg>В Calc щёлкните мышью в ячейке электронной таблицы, где хотите вставить формулу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Calc, each sheet can have a maximum of 1,048,576 rows and a maximum of 1024 columns.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T173934Z" creationid="olex" creationdate="20180328T173934Z">
+        <seg>В Calc каждый лист может содержать максимум 1 048 576 строк и максимум 1024 столбца.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13250,6 +13274,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T123016Z" creationid="tagezi" creationdate="20180311T123016Z">
         <seg>добавление макросов из других источников</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cells</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T173550Z" creationid="olex" creationdate="20180328T173550Z">
+        <seg>ячейки</seg>
       </tuv>
     </tu>
     <tu>
