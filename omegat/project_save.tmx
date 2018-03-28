@@ -303,6 +303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;File&lt;/f0&gt; – contains commands that apply to the entire document; for example, &lt;f1&gt;Open&lt;/f1&gt;, &lt;f2&gt;Save&lt;/f2&gt;, &lt;f3&gt;Wizards&lt;/f3&gt;, &lt;f4&gt;Export as PDF&lt;/f4&gt;, &lt;f5&gt;Print&lt;/f5&gt;, &lt;f6&gt;Digital Signatures and Templates., &lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T175939Z" creationid="olex" creationdate="20180328T175939Z">
+        <seg>&lt;f0&gt;Файл&lt;/f0&gt; - содержит команды, которые относятся ко всему документу; например, &lt;f1&gt;Открыть...&lt;/f1&gt;, &lt;f2&gt;Сохранить&lt;/f2&gt;, &lt;f3&gt;Мастер&lt;/f3&gt;, &lt;f4&gt;Экспорт в PDF...&lt;/f4&gt;, &lt;f5&gt;Печать...&lt;/f5&gt;, &lt;f6&gt;Цифровые подписи&lt;/f6&gt; и &lt;f7&gt;Шаблоны&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Frame styles&lt;/f0&gt; are used to format graphic and text frames, including text wrap, borders, backgrounds, and columns.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T183901Z" creationid="olex" creationdate="20180307T183901Z">
@@ -12517,6 +12525,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you select an item on the &lt;i0/&gt;Menu bar, a sub-menu drops down to show commands.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T175303Z" creationid="olex" creationdate="20180328T175303Z">
+        <seg>Когда вы выбираете элемент на панели меню &lt;i0/&gt;, "выпадает" подменю, которое отображает команды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whenever something happens in LibreOffice, it is called an &lt;i0/&gt;&lt;i1/&gt;event.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T141616Z" creationid="tagezi" creationdate="20180320T141616Z">
@@ -12753,6 +12769,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T201843Z" creationid="olex" creationdate="20180310T201843Z">
         <seg>Вы так же можете нажать на маленькую стрелку после значка &lt;f1&gt;Создать&lt;/f1&gt; и выбрать &lt;f2&gt;Шаблоны&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also customize the Menu bar; see &lt;f1&gt;Chapter 14 Customizing LibreOffice&lt;/f1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T175352Z" creationid="olex" creationdate="20180328T175352Z">
+        <seg>Вы также можете настроить панель меню; смотрите &lt;f1&gt;Глава 14 Настройка LibreOffice&lt;/f1&gt; для получения дополнительной информации.</seg>
       </tuv>
     </tu>
     <tu>
