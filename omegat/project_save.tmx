@@ -9675,6 +9675,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;i0/&gt;Title bar, located at the top, shows the name of the current spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T174655Z" creationid="olex" creationdate="20180328T174557Z">
+        <seg>Строка заголовка &lt;i0/&gt;, расположенная вверху, показывает имя текущей электронной таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Customize dialog contains pages to configure menus, keyboard shortcuts, toolbars, and events.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T140640Z" creationid="tagezi" creationdate="20180320T140640Z">
@@ -12373,6 +12381,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a spreadsheet is newly created from a template or a blank document, its name is &lt;f1&gt;Untitled X&lt;/f1&gt;, where &lt;f2&gt;X&lt;/f2&gt; is a number.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T174809Z" creationid="olex" creationdate="20180328T174809Z">
+        <seg>Если электронная таблица только что создана из шаблона или пустого документа, её имя равно &lt;f1&gt; Untitled X &lt;/ f1&gt;, где &lt;f2&gt; X &lt;/ f2&gt; - это число.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When asked, confirm that you want to overwrite the old file.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T201723Z" creationid="olex" creationdate="20180313T201723Z">
@@ -13976,8 +13992,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>title bar</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180328T174540Z" creationid="olex" creationdate="20180328T174540Z">
-        <seg>панель заголовка</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180328T174603Z" creationid="olex" creationdate="20180328T174540Z">
+        <seg>строка заголовка</seg>
       </tuv>
     </tu>
     <tu>
