@@ -384,6 +384,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Input line&lt;/f0&gt; – displays the contents of the selected cell (data, formula, or function) and allows you to edit the cell contents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T184803Z" creationid="olex" creationdate="20180329T184803Z">
+        <seg>&lt;f0&gt;Строка ввода&lt;/f0&gt;- отображает содержимое выбранной ячейки (данные, формулу или функцию) и позволяет редактировать содержимое ячейки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Insert&lt;/f0&gt; – contains commands for inserting elements into a spreadsheet; for example, &lt;f1&gt;Pictures, Media, Objects, Formula Design, Frames, Special Characters, Charts, Functions, Shapes, Pivot Tables, Named Ranges, Comments, Hyperlinks, Headers and Footers, Form Controls.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T181845Z" creationid="olex" creationdate="20180328T181845Z">
@@ -11866,6 +11874,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180318T122253Z" creationid="Роман" creationdate="20180318T122253Z">
         <seg>Для ручного обновления формулы нажмите клавишу &lt;f2&gt;F9&lt;/f2&gt; или выберите пункт меню &lt;f3&gt;Вид &gt; Обновить&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To turn the Input line into a multiline input area for very long formulas, click the drop down button on the right.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T184912Z" creationid="olex" creationdate="20180329T184912Z">
+        <seg>Чтобы развернуть строку ввода в многострочную область ввода для очень длинных формул, нажмите кнопку раскрывающегося списка справа.</seg>
       </tuv>
     </tu>
     <tu>
