@@ -5211,6 +5211,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Formula Bar is not visible, go to &lt;f2&gt;View&lt;/f2&gt; on the Menu bar and select &lt;f3&gt;Formula Bar&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T180314Z" creationid="olex" creationdate="20180329T180314Z">
+        <seg>Если панель формул не видна, выберите в меню &lt;f2&gt;Вид &gt; Панель формул&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the cursor is not in a subroutine or function, a dialog will open; select the macro to run.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T133341Z" creationid="tagezi" creationdate="20180312T133341Z">
@@ -9787,6 +9795,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;i0/&gt;Formula Bar (Figure &lt;t1&gt;2&lt;/t1&gt;) is located at the top of the sheet in the Calc workspace.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T180019Z" creationid="olex" creationdate="20180329T180019Z">
+        <seg>Панель формул &lt;i0/&gt;(Рисунок &lt;t1&gt;2&lt;/t1&gt;) расположена в верхней части листа в рабочей области Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;i0/&gt;LibreOffice Macro Organizer dialog allows you to import macro libraries into your document as well as creating, deleting, and renaming libraries, modules, and dialogs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T122741Z" creationid="tagezi" creationdate="20180320T122741Z">
@@ -9887,6 +9903,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T204346Z" creationid="olex" creationdate="20180312T204346Z">
         <seg>Функция Управление расширениями предоставляет простой способ установки коллекций шаблонов, которые упакованы в виде расширений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Formula Bar is permanently docked in this position and cannot be used as a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T180055Z" creationid="olex" creationdate="20180329T180055Z">
+        <seg>Панель формул постоянно закреплена в этом положении и не может использоваться как плавающая панель инструментов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13770,6 +13794,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201433Z" creationid="Роман" creationdate="20180316T201433Z">
         <seg>formula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>formula bar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T175930Z" creationid="olex" creationdate="20180329T175930Z">
+        <seg>панель формул</seg>
       </tuv>
     </tu>
     <tu>
