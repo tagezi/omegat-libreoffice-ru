@@ -472,6 +472,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Sum&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;– clicking on the Sum icon totals the numbers in the cells above the selected cell and then places the total in the selected cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T182451Z" creationid="olex" creationdate="20180329T182451Z">
+        <seg>&lt;f0&gt;Сумма&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;- нажатие значка суммы складывает числа в ячейках выше выбранной, а затем помещает итог в выбранной ячейке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Table Styles&lt;/f0&gt; applies predefined formats to tables and tables elements in a text document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T183154Z" creationid="olex" creationdate="20180307T183154Z">
