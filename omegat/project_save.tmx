@@ -263,6 +263,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Character&lt;/f0&gt;: Controls for formatting the text, such as font family, size, and color.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T194754Z" creationid="olex" creationdate="20180329T194754Z">
+        <seg>&lt;f0&gt;Символ&lt;/f0&gt;: Элементы управления форматированием текста, такие как гарнитура, кегль и цвет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Check for Updates&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens a dialog window and checks the LibreOffice website for updates to your version of the software.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T113414Z" creationid="tagezi" creationdate="20180307T113353Z">
