@@ -12805,6 +12805,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you enter new data into a cell, the Sum and Function icons change to &lt;f0&gt;Cancel&lt;/f0&gt; and &lt;f1&gt;Accept&lt;/f1&gt; &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;icons.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T185133Z" creationid="olex" creationdate="20180329T185133Z">
+        <seg>Когда вы вводите новые данные в ячейку, значки Sum и Function меняются на значки &lt;f0&gt;Отменить&lt;/f0&gt; и &lt;f1&gt;Принять&lt;/f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you have completed entering the markup for the formula, close the Formula Editor by pressing the &lt;f0&gt;Esc&lt;/f0&gt; key or by clicking an area outside the formula in the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180312T101909Z" creationid="User" creationdate="20180312T101909Z">
@@ -13089,6 +13097,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T175352Z" creationid="olex" creationdate="20180328T175352Z">
         <seg>Вы также можете настроить панель меню; смотрите &lt;f1&gt;Глава 14 Настройка LibreOffice&lt;/f1&gt; для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also edit the contents of a cell directly in the cell itself by double-clicking on the cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T185005Z" creationid="olex" creationdate="20180329T185005Z">
+        <seg>Также вы можете редактировать содержимое ячейки непосредственно в самой ячейке, дважды щелкнув по ней.</seg>
       </tuv>
     </tu>
     <tu>
