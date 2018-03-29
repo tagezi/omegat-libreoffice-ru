@@ -12717,6 +12717,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the &lt;f5&gt;Sum&lt;/f5&gt; icon is used, Calc suggest the range to sum with a colored box, but does not insert the formula.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T183253Z" creationid="olex" creationdate="20180329T183253Z">
+        <seg>Когда используется значок &lt;f5&gt;Sum&lt;/f5&gt;, Calc предлагает складывать диапазон, выделенный цветной рамкой, но не заканчивает операцию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the macro recorder is not able to solve a specific problem, the usual solution is to write code using the LibreOffice objects.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T084756Z" creationid="tagezi" creationdate="20180320T084756Z">
