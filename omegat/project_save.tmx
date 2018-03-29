@@ -394,8 +394,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Name Box&lt;/f0&gt; – gives the current active cell reference using a combination of a letter and number, for example A1.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180329T180646Z" creationid="olex" creationdate="20180329T180646Z">
-        <seg>&lt;f0&gt;Поле имени&lt;/f0&gt; - показывает ссылку на активную ячейку, которая состоит из комбинации буквы и цифры, например A1.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T180746Z" creationid="olex" creationdate="20180329T180646Z">
+        <seg>&lt;f0&gt;Поле имени&lt;/f0&gt; - показывает ссылку на активную ячейку, которая состоит из комбинации буквы и числа, например A1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5432,6 +5432,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T123509Z" creationid="olex" creationdate="20180306T180733Z">
         <seg>Если вы не задавали шаблон по умолчанию, то LibreOffice использует для этого типа документа шаблон, который устанавливался с LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have selected a range of cells that is also a named range, the name of the range is shown in this box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T180923Z" creationid="olex" creationdate="20180329T180923Z">
+        <seg>Если вы выбрали диапазон ячеек, который также является именованным диапазоном, в этом поле отобразится название диапазона.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10583,6 +10591,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T163637Z" creationid="tagezi" creationdate="20180318T163637Z">
         <seg>Последняя строка кода завершает подпрограмму.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The letter indicates the column and the number indicates the row of the selected cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T180739Z" creationid="olex" creationdate="20180329T180739Z">
+        <seg>Буква указывает столбец, а число указывает номер строки выбранной ячейки.</seg>
       </tuv>
     </tu>
     <tu>
