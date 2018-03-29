@@ -9488,6 +9488,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some controls, such as superscript, only become active when the text cursor is active in the Input line of the Formula bar or the cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T194956Z" creationid="olex" creationdate="20180329T194956Z">
+        <seg>Некоторые элементы управления, такие как верхний индекс, становятся активными только тогда, когда активен текстовый курсор в строке ввода панели формул или внутри ячейки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some dialogs can be left open as you work, so you can switching back and forth between the dialog and the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T154134Z" creationid="tagezi" creationdate="20180310T154134Z">
