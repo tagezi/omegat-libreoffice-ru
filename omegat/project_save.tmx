@@ -392,6 +392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Name Box&lt;/f0&gt; – gives the current active cell reference using a combination of a letter and number, for example A1.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T180646Z" creationid="olex" creationdate="20180329T180646Z">
+        <seg>&lt;f0&gt;Поле имени&lt;/f0&gt; - показывает ссылку на активную ячейку, которая состоит из комбинации буквы и цифры, например A1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Page styles&lt;/f0&gt; include margins, headers and footers, borders and backgrounds.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T154610Z" creationid="olex" creationdate="20180307T175955Z">
@@ -3635,6 +3643,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Formula bar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T180403Z" creationid="olex" creationdate="20180329T180403Z">
+        <seg>Рисунок &lt;seq0&gt;2&lt;/seq0&gt;: Панель формул</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: LibreOffice Basic Macro Organizer dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132523Z" creationid="tagezi" creationdate="20180312T132523Z">
@@ -4575,6 +4591,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T170603Z" creationid="tagezi" creationdate="20180305T170603Z">
         <seg>Часто задаваемые вопросы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From left to right, the Formula Bar consists of the following:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T180453Z" creationid="olex" creationdate="20180329T180453Z">
+        <seg>Панель формул состоит из следующих элементов (слева направо):</seg>
       </tuv>
     </tu>
     <tu>
