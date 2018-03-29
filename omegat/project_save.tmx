@@ -7366,6 +7366,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most of the fields are similar to those in other components of LibreOffice; see &lt;f2&gt;Chapter 1 Introducing LibreOffice&lt;/f2&gt; in this guide and the &lt;f3&gt;Calc Guide Chapter 1 Introducing Calc&lt;/f3&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T191134Z" creationid="olex" creationdate="20180329T191134Z">
+        <seg>Большинство полей аналогичны полям других компонентов LibreOffice; смотрите &lt;f2&gt;Глава 1 Знакомство с LibreOffice&lt;/f2&gt; в этом руководстве и &lt;f3&gt;Руководство по Calc, Глава 1 Знакомство с Calc &lt;/f3&gt; для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most of these file types are automatically detected by LibreOffice, so they can be opened without explicitly selecting the document type in the file picker.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T215532Z" creationid="tagezi" creationdate="20180304T153208Z">
@@ -9895,6 +9903,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T190103Z" creationid="olex" creationdate="20180311T190103Z">
         <seg>Откроется диалоговое окно &lt;f2&gt;Сохранить&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;i0/&gt;Calc status bar (Figure &lt;t1&gt;3&lt;/t1&gt;) provides information about the spreadsheet as well as quick and convenient ways to change some of its features.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T191015Z" creationid="olex" creationdate="20180329T191015Z">
+        <seg>Строка состояния &lt;i0/&gt;Calc (Рисунок &lt;t1&gt;3&lt;/t1&gt;) предоставляет информацию об электронной таблице, а также быстрые и удобные способы изменения некоторых ее функций.</seg>
       </tuv>
     </tu>
     <tu>
