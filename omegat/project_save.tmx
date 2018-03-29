@@ -3001,8 +3001,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Docked toolbars can be undocked and either moved to different docked position on the workspace, or left as a floating toolbar.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180329T174303Z" creationid="olex" creationdate="20180329T174145Z">
-        <seg>Прикрепленные панели инструментов можно открепить и переместить в другое закрепленное положение на рабочей области или оставить в виде плавающей панели инструментов.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T174555Z" creationid="olex" creationdate="20180329T174145Z">
+        <seg>Прикрепленные панели инструментов можно открепить и переместить в другое определенное положение на рабочей области или оставить в виде плавающей панели инструментов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12945,6 +12945,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T185557Z" creationid="tagezi" creationdate="20180320T185557Z">
         <seg>Если вы уверены в написании компьютерного кода, возможно также создавать макросы, обращающиеся напрямую к объектам, которые составляют LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can choose the single-toolbar alternative to the default double toolbar arrangement.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T174830Z" creationid="olex" creationdate="20180329T174830Z">
+        <seg>Вы можете выбрать как альтернативу одиночную панель инструментов вместо двойной панели инструментов, которая активирована по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
