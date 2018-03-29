@@ -10579,6 +10579,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The icons &lt;df8&gt;&lt;di9/&gt;&lt;/df8&gt;&lt;s10/&gt;in the formula bar are equivalent to the &lt;f11&gt;Enter&lt;/f11&gt; and &lt;f12&gt;Esc&lt;/f12&gt; commands.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T184021Z" creationid="olex" creationdate="20180329T184021Z">
+        <seg>Значки &lt;df8&gt;&lt;di9/&gt;&lt;/df8&gt;&lt;s10/&gt; в строке формул эквивалентны командам &lt;f11&gt;Enter&lt;/f11&gt; и &lt;f12&gt; Esc&lt;/f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The icons for some of the many tools available in LibreOffice may then differ from the ones used in this guide.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T092125Z" creationid="tagezi" creationdate="20180310T092125Z">
@@ -13029,6 +13037,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also adjust the range with the mouse by dragging the colored box or its edges to adjust the range.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T183857Z" creationid="olex" creationdate="20180329T183857Z">
+        <seg>Вы можете также настроить диапазон с помощью мыши, перетащив цветную рамку или её края, чтобы установить диапазон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also click on the small arrow next to the &lt;f1&gt;New&lt;/f1&gt; icon and select &lt;f2&gt;Templates&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T201843Z" creationid="olex" creationdate="20180310T201843Z">
@@ -13552,8 +13568,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You need to confirm the suggested range by typing &lt;f6&gt;Enter&lt;/f6&gt;, or reject pressing &lt;f7&gt;Esc&lt;/f7&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180329T183639Z" creationid="olex" creationdate="20180329T183639Z">
-        <seg>Вы должны подтвердить предлагаемый диапазон, нажав &lt;f6&gt;Enter&lt;/f6&gt; или отклонить нажатием &lt;f7&gt;Esc&lt;/f7&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T183714Z" creationid="olex" creationdate="20180329T183639Z">
+        <seg>Вы должны подтвердить предлагаемый диапазон, нажав &lt;f6&gt;Enter&lt;/f6&gt; или отменить действие нажатием &lt;f7&gt;Esc&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
