@@ -5291,6 +5291,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there are no numbers above the selected cell, then the cells to the left are totaled.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T183016Z" creationid="olex" creationdate="20180329T183016Z">
+        <seg>Если выше выбранной ячейки нет чисел, то складываться будут числа из ячеек левее выбранной.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If they are not, use &lt;f0&gt;Edit &gt; Find &amp;&lt;/f0&gt; &lt;f1&gt;Replace&lt;/f1&gt; to replace old styles with new ones.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T195405Z" creationid="olex" creationdate="20180313T195405Z">
