@@ -1901,6 +1901,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calc toolbars can be either docked and fixed in place, or floating; you can move a toolbar into a more convenient position on the workspace.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T174055Z" creationid="olex" creationdate="20180329T174055Z">
+        <seg>Панели инструментов Calc могут быть: установлены и зафиксированы в определенном положении или плавающими; вы можете переместить панель инструментов в более удобное место на рабочей области.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calc works with documents called &lt;i0/&gt;&lt;f1&gt;spreadsheets&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T173028Z" creationid="olex" creationdate="20180328T173028Z">
@@ -14138,6 +14146,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135208Z" creationid="tagezi" creationdate="20180320T135208Z">
         <seg>значки панели инструментов (макросы)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>toolbars</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T173451Z" creationid="olex" creationdate="20180329T173451Z">
+        <seg>панели инструментов</seg>
       </tuv>
     </tu>
     <tu>
