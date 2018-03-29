@@ -13550,6 +13550,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You need to confirm the suggested range by typing &lt;f6&gt;Enter&lt;/f6&gt;, or reject pressing &lt;f7&gt;Esc&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T183639Z" creationid="olex" creationdate="20180329T183639Z">
+        <seg>Вы должны подтвердить предлагаемый диапазон, нажав &lt;f6&gt;Enter&lt;/f6&gt; или отклонить нажатием &lt;f7&gt;Esc&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You need to do these manually.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T084735Z" creationid="tagezi" creationdate="20180319T084735Z">
