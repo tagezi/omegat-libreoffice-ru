@@ -4675,6 +4675,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Function Wizard</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T181835Z" creationid="olex" creationdate="20180329T181835Z">
+        <seg>Мастер функций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Functions are defined by the keyword FUNCTION at the beginning.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T123423Z" creationid="tagezi" creationdate="20180315T123423Z">
@@ -5470,8 +5478,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If you type the name of a named range and press the &lt;f1&gt;Enter&lt;/f1&gt; key, the named range is selected and displayed.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180329T181415Z" creationid="olex" creationdate="20180329T181415Z">
-        <seg>Если вы наберете имя именованного диапазона и нажмёте клавишу &lt;f1&gt;Enter&lt;/f1&gt;, будет выбран и отображен именованный данный диапазон.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T181806Z" creationid="olex" creationdate="20180329T181415Z">
+        <seg>Если вы наберете имя именованного диапазона и нажмёте клавишу &lt;f1&gt;Enter&lt;/f1&gt;, то будет выбран и отображен данный именованный диапазон.</seg>
       </tuv>
     </tu>
     <tu>
