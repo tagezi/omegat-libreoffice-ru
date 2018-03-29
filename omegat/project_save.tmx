@@ -342,6 +342,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Function Wizard&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;– &lt;i5/&gt;opens a dialog from which you can search through a list of available functions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T182013Z" creationid="olex" creationdate="20180329T182013Z">
+        <seg>&lt;f0&gt;Мастер функций&lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;- &lt;i5/&gt;открывает диалоговое окно в котором вы можете выполнить поиск доступных функций по списку.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: я тут не знаю как перводить. АскБот у нас есть, но там ник-то не общается. Все хотят на форуме сидеть.</note>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Get Help Online &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Ask LibreOffice&lt;f3&gt; &lt;/f3&gt;forum of questions and answers from the LibreOffice community &lt;a4&gt;https://ask.libreoffice.org/en/questions/&lt;/a4&gt;.</seg>
@@ -11124,6 +11132,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T085935Z" creationid="tagezi" creationdate="20180306T085733Z">
         <seg>Эта книга, другие руководства пользователя LibreOffice, встроенная справочная система и система пользовательской поддержки предполагают, что вы знакомы с вашим компьютером и основными функциями такими, как запуск программы, открытие и сохранение файлов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be very useful because it also shows how the functions are formatted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T182249Z" creationid="olex" creationdate="20180329T182249Z">
+        <seg>Это окно может быть очень полезно, поскольку оно также показывает, как оформлены функции.</seg>
       </tuv>
     </tu>
     <tu>
