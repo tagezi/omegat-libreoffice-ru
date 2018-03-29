@@ -6291,6 +6291,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is a mixture of toolbar and dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T193508Z" creationid="olex" creationdate="20180329T193508Z">
+        <seg>Это смесь панели инструментов и диалоговых окон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is based on code from Apache OpenOffice made available under the Apache License 2.0 but also includes software that differs from version to version under a variety of other Open Source licenses.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T155539Z" creationid="tagezi" creationdate="20180310T155539Z">
@@ -6327,6 +6335,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T214023Z" creationid="lera" creationdate="20180303T213942Z">
         <seg>Он является общедоступным, не требующий лицензионных отчислений и без юридических или иных ограничений; поэтому файлы ODF не привязаны к конкретному офисному пакету, и любой может создать программу, которая интерпретирует эти файлы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is similar to the sidebar in Writer (shown in Chapter 1 and Chapter 4 of this book) and consists of five &lt;i1/&gt;decks: Properties, Styles, Gallery, &lt;s2/&gt;Navigator, and Functions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T193658Z" creationid="olex" creationdate="20180329T193658Z">
+        <seg>Это похоже на боковую панель в Writer (показано в главе 1 и главе 4 этой книги) и состоит из пяти палитр: &lt;i1/&gt;Свойства, Стили, Галерея, &lt;s2/&gt;Навигатор и Функции.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9731,6 +9747,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tab panel</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T193404Z" creationid="olex" creationdate="20180329T193404Z">
+        <seg>Панель вкладок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tabbed page (not strictly speaking a control).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T145525Z" creationid="tagezi" creationdate="20180310T145525Z">
@@ -9943,6 +9967,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T174815Z" creationid="olex" creationdate="20180328T174557Z">
         <seg>Строка заголовка &lt;i0/&gt;, расположенная вверху, показывает название текущей электронной таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Calc Sidebar (&lt;f0&gt;View &gt; Sidebar&lt;/f0&gt;) is located on the right side of the window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T193432Z" creationid="olex" creationdate="20180329T193432Z">
+        <seg>Боковая панель Calc (&lt;f0&gt;Вид &gt; Боковая панель&lt;/f0&gt;) расположена в правой части окна.</seg>
       </tuv>
     </tu>
     <tu>
