@@ -5745,6 +5745,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a spreadsheet the term “function” covers much more than just mathematical functions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T185300Z" creationid="olex" creationdate="20180329T185300Z">
+        <seg>Термин "функция" в электронной таблице охватывает гораздо больше, чем просто математические операции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to OpenDocument Formula (.odf) files, Math can open the format used by OpenOffice.org 1.x (.sxm), StarMath, (.smf), and MathML (.mml) files.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T155810Z" creationid="tagezi" creationdate="20180304T155810Z">
@@ -8819,6 +8827,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T203107Z" creationid="olex" creationdate="20180316T203107Z">
         <seg>Смотрите Главу 4 чтобы получить больше информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the &lt;f0&gt;Calc Guide Chapter 7 Using Formulas and Functions&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T185516Z" creationid="olex" creationdate="20180329T185516Z">
+        <seg>Смотрите более подробную информацию в &lt;f0&gt;Руководство по Calc, Глава 7. Использование формул и функций&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
