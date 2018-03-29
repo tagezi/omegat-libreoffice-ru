@@ -350,6 +350,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Function&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;– clicking on the Function icon inserts an equals (=) sign into the selected cell and the &lt;f5&gt;Input line&lt;/f5&gt;, allowing a formula to be entered.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T184433Z" creationid="olex" creationdate="20180329T184433Z">
+        <seg>&lt;f0&gt;Функция&lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;- нажатие значка функции вставляет знак равенства (=) в выбранную ячейку и кнопку &lt;f5&gt;Принять&lt;/f5&gt; на панели, позволяющую подтвердить формулу.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: я тут не знаю как перводить. АскБот у нас есть, но там ник-то не общается. Все хотят на форуме сидеть.</note>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Get Help Online &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Ask LibreOffice&lt;f3&gt; &lt;/f3&gt;forum of questions and answers from the LibreOffice community &lt;a4&gt;https://ask.libreoffice.org/en/questions/&lt;/a4&gt;.</seg>
