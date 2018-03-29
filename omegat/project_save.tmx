@@ -6163,6 +6163,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It contains the most-used commands.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T174902Z" creationid="olex" creationdate="20180329T174902Z">
+        <seg>Она содержит наиболее часто используемые команды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It does not matter which of these two files you select; both will be imported.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123150Z" creationid="tagezi" creationdate="20180320T123150Z">
@@ -11307,6 +11315,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To activate it, enable &lt;f0&gt;View &gt; Toolbars &gt; Standard (Single Mode)&lt;/f0&gt; and disable &lt;f1&gt;View &gt; Toolbars &gt; Standard&lt;/f1&gt; and &lt;f2&gt;View &gt; Toolbars &gt; Formatting&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T175203Z" creationid="olex" creationdate="20180329T175052Z">
+        <seg>Чтобы активировать её выберите &lt;f0&gt;Вид &gt; Панели инструментов &gt; Стандартная (однострочная)&lt;/f0&gt; и отключите &lt;f1&gt;Вид &gt; Панели инструментов &gt; Стандартная&lt;/f1&gt; и &lt;f2&gt;Вид &gt; Панели инструментов &gt; Форматирование&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To add a &lt;i0/&gt;menu item, &lt;i1/&gt;keyboard shortcut, or &lt;i2/&gt;toolbar icon that calls a macro, use &lt;i3/&gt;the Customize dialog (Figure &lt;t4&gt;9&lt;/t4&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T140441Z" creationid="tagezi" creationdate="20180320T140345Z">
@@ -12951,8 +12967,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can choose the single-toolbar alternative to the default double toolbar arrangement.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180329T174830Z" creationid="olex" creationdate="20180329T174830Z">
-        <seg>Вы можете выбрать как альтернативу одиночную панель инструментов вместо двойной панели инструментов, которая активирована по умолчанию.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T175107Z" creationid="olex" creationdate="20180329T174830Z">
+        <seg>Вы можете выбрать как альтернативу однострочную панель инструментов вместо двойной панели инструментов, которая активирована по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
