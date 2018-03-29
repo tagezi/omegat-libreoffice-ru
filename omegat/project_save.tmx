@@ -1903,8 +1903,8 @@
       <tuv lang="EN-US">
         <seg>Calc toolbars can be either docked and fixed in place, or floating; you can move a toolbar into a more convenient position on the workspace.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180329T174055Z" creationid="olex" creationdate="20180329T174055Z">
-        <seg>Панели инструментов Calc могут быть: установлены и зафиксированы в определенном положении или плавающими; вы можете переместить панель инструментов в более удобное место на рабочей области.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T174155Z" creationid="olex" creationdate="20180329T174055Z">
+        <seg>Панели инструментов Calc могут быть: прикреплены и зафиксированы в определенном положении или плавающими; вы можете переместить панель инструментов в более удобное место рабочей области.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2995,6 +2995,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T192600Z" creationid="olex" creationdate="20180306T195708Z">
         <seg>Разделение документа на главы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Docked toolbars can be undocked and either moved to different docked position on the workspace, or left as a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T174303Z" creationid="olex" creationdate="20180329T174145Z">
+        <seg>Прикрепленные панели инструментов можно открепить и переместить в другое закрепленное положение на рабочей области или оставить в виде плавающей панели инструментов.</seg>
       </tuv>
     </tu>
     <tu>
