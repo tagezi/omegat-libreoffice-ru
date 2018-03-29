@@ -3249,6 +3249,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each deck has a corresponding icon on the &lt;i3/&gt;Tab panel to the right of the sidebar, allowing you to switch between them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T194149Z" creationid="olex" creationdate="20180329T194149Z">
+        <seg>Каждая палитра имеет соответствующий значок на панели вкладок &lt;i3/&gt;справа от боковой панели, что позволяет вам переключаться между ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each property has a name and a value.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153516Z" creationid="tagezi" creationdate="20180318T153516Z">
@@ -13906,6 +13914,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180321T190955Z" creationid="olex" creationdate="20180309T193744Z">
         <seg>пользовательских</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>decks</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T193709Z" creationid="olex" creationdate="20180329T193709Z">
+        <seg>палитры</seg>
       </tuv>
     </tu>
     <tu>
