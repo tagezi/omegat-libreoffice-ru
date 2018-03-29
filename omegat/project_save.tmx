@@ -3699,6 +3699,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Calc status bar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T191217Z" creationid="olex" creationdate="20180329T191217Z">
+        <seg>Рисунок &lt;seq0&gt;3&lt;/seq0&gt;: Строка состояния Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Context menu in Formula Editor</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094415Z" creationid="Роман" creationdate="20180316T094415Z">
@@ -8841,8 +8849,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>See the &lt;f0&gt;Calc Guide Chapter 7 Using Formulas and Functions&lt;/f0&gt; for more information.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180329T185516Z" creationid="olex" creationdate="20180329T185516Z">
-        <seg>Смотрите более подробную информацию в &lt;f0&gt;Руководство по Calc, Глава 7. Использование формул и функций&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T191148Z" creationid="olex" creationdate="20180329T185516Z">
+        <seg>Смотрите более подробную информацию в &lt;f0&gt;Руководство по Calc, Глава 7 Использование формул и функций&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10946,6 +10954,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T200641Z" creationid="lera" creationdate="20180303T200641Z">
         <seg>Программное обеспечение переведено на многие языки и работает во всех основных операционных системах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The status bar has a quick way to do some math operations on selected cells in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T191331Z" creationid="olex" creationdate="20180329T191331Z">
+        <seg>Строка состояния может быстро выполнять некоторые математические операции с выбранными ячейками в электронной таблице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13209,6 +13225,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T185557Z" creationid="tagezi" creationdate="20180320T185557Z">
         <seg>Если вы уверены в написании компьютерного кода, возможно также создавать макросы, обращающиеся напрямую к объектам, которые составляют LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can calculate average and sum, count elements, and more on the selection by right-clicking &lt;t0/&gt;over the cell information area of the status bar and selecting the operations you want to display in the status bar (Figure &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T191654Z" creationid="olex" creationdate="20180329T191654Z">
+        <seg>Вы можете рассчитать среднее значение и сумму, количество ячеек и многое другое по выбору, щелкнув правой кнопкой мыши &lt;t0/&gt;по области информации о ячейке в строке состояния и выбрав операции, которые вы хотите отобразить в строке состояния (Рисунок &lt;t1&gt;10&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
