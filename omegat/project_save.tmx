@@ -456,6 +456,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Properties&lt;/f0&gt;: This deck includes five content panels.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T194354Z" creationid="olex" creationdate="20180329T194354Z">
+        <seg>&lt;f0&gt;Свойства&lt;/f0&gt;: Эта палитра включает в себя пять панелей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Restart in Safe Mode&lt;/f0&gt; Opens a dialog window where you will have the option to restart LibreOffice and reset the software to it's default settings.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T112127Z" creationid="tagezi" creationdate="20180307T112127Z">
@@ -484,6 +492,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T182943Z" creationid="olex" creationdate="20180328T182943Z">
         <seg>&lt;f0&gt;Стили&lt;/f0&gt;– содержит команды для применения стандартных стилей к содержимому ячейки, группы ячеек или содержимому листов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Styles:&lt;/f0&gt; Access to the available cell styles, update cell styles, and new cell styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T194610Z" creationid="olex" creationdate="20180329T194610Z">
+        <seg>&lt;f0&gt;Стили:&lt;/f0&gt; Доступ к доступным стилям ячеек, обновлению стилей ячеек и созданию  новых стилей ячеек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10455,6 +10471,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T210103Z" creationid="tagezi" creationdate="20180318T210103Z">
         <seg>Данные могут быть очищены несколькими способами, и все они легко выполняются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The decks are described below.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T194216Z" creationid="olex" creationdate="20180329T194216Z">
+        <seg>Палитры описаны ниже.</seg>
       </tuv>
     </tu>
     <tu>
