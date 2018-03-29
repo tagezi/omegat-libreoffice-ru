@@ -10243,6 +10243,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default setting when Calc opens is for the Standard and Formatting toolbars to be docked at the top of the workspace (Figure &lt;t0&gt;1&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T173434Z" creationid="olex" creationdate="20180329T173434Z">
+        <seg>При настройке по умолчанию, когда открывается Calc, панели инструментов Стандартная и Форматирование будут закреплены в верхней части рабочей области (Рисунок &lt;t0&gt;1&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The dialogs and choices are the same for defining new styles and for modifying existing styles.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T201138Z" creationid="olex" creationdate="20180309T201138Z">
