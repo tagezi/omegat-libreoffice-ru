@@ -5468,6 +5468,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you type the name of a named range and press the &lt;f1&gt;Enter&lt;/f1&gt; key, the named range is selected and displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T181415Z" creationid="olex" creationdate="20180329T181415Z">
+        <seg>Если вы наберете имя именованного диапазона и нажмёте клавишу &lt;f1&gt;Enter&lt;/f1&gt;, будет выбран и отображен именованный данный диапазон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you use symbolic constants defined by the Application Programming Interface (API), it is safer to assume that the names are case-sensitive.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T092702Z" creationid="tagezi" creationdate="20180315T092702Z">
@@ -13041,6 +13049,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T180517Z" creationid="olex" creationdate="20180311T180321Z">
         <seg>Вы так же можете сохранять настройки меню и панели инструментов в шаблонах; смотрите &lt;f0&gt;главу 14, Настройка LibreOfficelt&lt;/f0&gt;, для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also type a cell reference in the Name Box to jump to the referenced cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180329T181102Z" creationid="olex" creationdate="20180329T181102Z">
+        <seg>Так же вы можете ввести ссылку ячейки в поле имени и нажать Enter, чтобы перейти к этой ячейке.</seg>
       </tuv>
     </tu>
     <tu>
