@@ -255,6 +255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Cell Appearance:&lt;/f0&gt; Controls to set the appearance options, including cell background color, cell border formats including line color and style, and grid lines.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T170716Z" creationid="olex" creationdate="20180330T170716Z">
+        <seg>&lt;f0&gt;Внешний вид ячеек:&lt;/f0&gt; Элементы управления, для установки параметров внешнего вида, включая цвет фона ячейки, форматы границы ячейки, включая цвет и стиль линии, а также линии сетки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Cell styles&lt;/f0&gt; include fonts, alignment, borders, background, number formats (for example, currency, date, number), and cell protection.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T184853Z" creationid="olex" creationdate="20180307T184853Z">
@@ -3293,6 +3301,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T194149Z" creationid="olex" creationdate="20180329T194149Z">
         <seg>Каждая палитра имеет соответствующий значок на панели вкладок &lt;i3/&gt;справа от боковой панели, что позволяет вам переключаться между ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each of these panels has a &lt;f0&gt;More Options&lt;/f0&gt; button, which opens a dialog giving a greater number of options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T170826Z" creationid="olex" creationdate="20180330T170826Z">
+        <seg>На каждой из этих панелей есть кнопка &lt;f0&gt;Дополнительные параметры&lt;/f0&gt;, которая открывает диалоговое окно с большим количеством настроек.</seg>
       </tuv>
     </tu>
     <tu>
