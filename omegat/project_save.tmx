@@ -271,6 +271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Character Set&lt;/f0&gt; – specifies the character set to be used in the imported file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T190412Z" creationid="olex" creationdate="20180330T190412Z">
+        <seg>&lt;f0&gt;Кодировка&lt;/f0&gt; - указывает кодировку символов, которая будет использоваться в импортированном файле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Character styles&lt;/f0&gt; affect selected text within a paragraph, such as the font and size of text, or bold and italic formats.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T161718Z" creationid="olex" creationdate="20180307T180751Z">
@@ -437,6 +445,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T181845Z" creationid="olex" creationdate="20180328T181845Z">
         <seg>&lt;f0&gt;Вставка&lt;/f0&gt; - содержит команды для вставки элементов в электронную таблицу; например, &lt;f1&gt;Изображение..., Медиа, Объект, Функция..., Текстовое поле, Специальные символы..., Диаграмма, Фигуры, Сводная таблица, Именованный диапазон или выражение, Комментарий, Гиперссылка..., Колонтитулы..., Элементы управления.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Language&lt;/f0&gt; – determines how the number strings are imported.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T190539Z" creationid="olex" creationdate="20180330T190539Z">
+        <seg>&lt;f0&gt;Язык&lt;/f0&gt; – определяет, как будут импортироваться числовые строки.&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3965,6 +3981,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Text Import dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T190215Z" creationid="olex" creationdate="20180330T190215Z">
+        <seg>Рисунок &lt;seq0&gt;4&lt;/seq0&gt;: Диалоговое окно Импорт текста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Context Menu Edit Commands</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T204743Z" creationid="Роман" creationdate="20180320T204743Z">
@@ -5809,6 +5833,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T142457Z" creationid="tagezi" creationdate="20180306T142457Z">
         <seg>Иллюстрации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T190256Z" creationid="olex" creationdate="20180330T190256Z">
+        <seg>Импорт</seg>
       </tuv>
     </tu>
     <tu>
@@ -11233,6 +11265,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T211831Z" creationid="tagezi" creationdate="20180315T211831Z">
         <seg>Число в круглых скобках указывает максимальный номер для доступа к месту хранения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The options for importing CSV files into a Calc spreadsheet are as follows:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T190250Z" creationid="olex" creationdate="20180330T190250Z">
+        <seg>Параметры импорта CSV-файлов в электронную таблицу Calc следующие:</seg>
       </tuv>
     </tu>
     <tu>
