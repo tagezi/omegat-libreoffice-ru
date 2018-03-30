@@ -432,6 +432,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Number Format:&lt;/f0&gt; Quickly change the format of numbers including decimals, currency, dates, or numeric text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T165300Z" creationid="olex" creationdate="20180330T165300Z">
+        <seg>&lt;f0&gt;Формат чисел:&lt;/f0&gt; Быстрое изменение формата чисел, включая десятичные знаки, валюту, даты или числовой текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Page styles&lt;/f0&gt; include margins, headers and footers, borders and backgrounds.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T154610Z" creationid="olex" creationdate="20180307T175955Z">
