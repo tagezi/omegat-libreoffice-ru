@@ -473,6 +473,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Hide&lt;/f0&gt; – the data in the column are not imported.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T194533Z" creationid="olex" creationdate="20180330T194533Z">
+        <seg>&lt;f0&gt;Скрыть&lt;/f0&gt; - данные из этого столбца не импортируются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Input line&lt;/f0&gt; – displays the contents of the selected cell (data, formula, or function) and allows you to edit the cell contents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T184803Z" creationid="olex" creationdate="20180329T184803Z">
@@ -1254,6 +1262,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T200142Z" creationid="olex" creationdate="20180313T200142Z">
         <seg>Откроется новый документ, содержащий текст или графику, которые были в шаблоне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A number format is not applied.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T194341Z" creationid="olex" creationdate="20180330T194341Z">
+        <seg>Числовой формат не применяется.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5704,6 +5720,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T200835Z" creationid="olex" creationdate="20180310T200835Z">
         <seg>Если стиль не используется, он удаляется немедленно без подтверждения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are no US English entries, the &lt;f1&gt;Standard&lt;/f1&gt; format is applied.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T194452Z" creationid="olex" creationdate="20180330T194452Z">
+        <seg>Если в нет записей Английский США, то применяется формат &lt;f1&gt;Стандарт&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14901,6 +14925,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>methods</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T194539Z" creationid="olex" creationdate="20180330T194539Z">
+        <seg>методы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>modifying</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T173953Z" creationid="olex" creationdate="20180308T173934Z">
@@ -15009,6 +15041,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180226Z" creationid="tagezi" creationdate="20180304T180226Z">
         <seg>сохранение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>saving spreadsheets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T194600Z" creationid="olex" creationdate="20180330T194600Z">
+        <seg>сохранения электронных таблиц</seg>
       </tuv>
     </tu>
     <tu>
