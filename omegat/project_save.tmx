@@ -595,8 +595,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Separated by&lt;/f0&gt; – select the separator used in the data to delimit the data into columns.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T191901Z" creationid="olex" creationdate="20180330T191901Z">
-        <seg>&lt;f0&gt;Разделитель&lt;/ f0&gt; - выберите разделитель, используемый в данных, чтобы разделить данные на столбцы.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T193331Z" creationid="olex" creationdate="20180330T191901Z">
+        <seg>&lt;f0&gt;Разделитель&lt;/f0&gt; - выберите разделитель, используемый в данных, чтобы разделить данные на столбцы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1102,6 +1102,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T161933Z" creationid="tagezi" creationdate="20180320T161933Z">
         <seg>Обычно используется назначение события Открытие файла для вызова определенного макроса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A decimal number string can have digits 0-9, thousands separators, and a decimal separator.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T193621Z" creationid="olex" creationdate="20180330T193621Z">
+        <seg>Строка десятичного числа может содержать цифры 0-9, разделители тысяч и десятичный разделитель.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11421,6 +11429,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rest, including numbers formatted in scientific notation, will be imported as text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T193533Z" creationid="olex" creationdate="20180330T193533Z">
+        <seg>Остальные, включая числа, отформатированные в научной системе счисления, будут импортированы как текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The resulting document will contain only the changed text.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T202616Z" creationid="olex" creationdate="20180313T202616Z">
@@ -12014,6 +12030,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T041308Z" creationid="tagezi" creationdate="20180316T041308Z">
         <seg>ThisComponent ссылается на текущий документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thousands separators and decimal separators may vary with the selected language and region.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T193708Z" creationid="olex" creationdate="20180330T193708Z">
+        <seg>Разделители тысяч и десятичные разделители могут меняться в зависимости от выбранного языка и региона.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13440,6 +13464,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T165829Z" creationid="olex" creationdate="20180308T165020Z">
         <seg>Когда активен режим Стилевая заливка, щелчок правой кнопкой мыши в любом месте документа отменяет последнее действие.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When this option is disabled, Calc will detect and convert only decimal numbers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T193444Z" creationid="olex" creationdate="20180330T193444Z">
+        <seg>Когда эта опция отключена, Calc будет определять и преобразовывать только десятичные числа.</seg>
       </tuv>
     </tu>
     <tu>
