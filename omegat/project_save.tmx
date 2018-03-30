@@ -303,6 +303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Column type&lt;/f0&gt; – select a column in the preview window and select the data type to be applied the imported data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T194022Z" creationid="olex" creationdate="20180330T194022Z">
+        <seg>&lt;f0&gt;Тип столбца&lt;/f0&gt; - выберите столбец в окне предварительного просмотра и определите тип данных для применения к импортированным данным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Control+click&lt;/f0&gt; or &lt;f1&gt;right-click&lt;/f1&gt; depending on computer setup</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T174705Z" creationid="olex" creationdate="20180306T174201Z">
@@ -355,6 +363,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T180425Z" creationid="olex" creationdate="20180328T180425Z">
         <seg>&lt;f0&gt;Правка&lt;/f0&gt; - содержит команды для редактирования документа; например, &lt;f1&gt;Отменить, Копировать, Вставить, Отслеживать изменения, Найти и Заменить..., Сравнить документ... и Объединить исправления...&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Fields&lt;/f0&gt; – shows how the data will look when it is separated into columns.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T193908Z" creationid="olex" creationdate="20180330T193908Z">
+        <seg>&lt;f0&gt;Поля&lt;/f0&gt; - предварительный просмотр того, как будут выглядеть данные, когда они будут разделены на столбцы.</seg>
       </tuv>
     </tu>
     <tu>
