@@ -555,8 +555,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Styles:&lt;/f0&gt; This deck contains a single panel, which is the same as that opened by selecting the &lt;f1&gt;Styles&lt;/f1&gt; button (&lt;f2&gt;F11&lt;/f2&gt;) from the Text Formatting toolbar.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T171439Z" creationid="olex" creationdate="20180330T170947Z">
-        <seg>&lt;f0&gt;Стили:&lt;/f0&gt; Эта палитра содержит одну панель, это та же панель, что и открытая, по нажатию кнопки &lt;f1&gt;Стили&lt;/f1&gt; (&lt;f2&gt;F11&lt;/f2&gt;) на панели инструментов Форматирование.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T173910Z" creationid="olex" creationdate="20180330T170947Z">
+        <seg>&lt;f0&gt;Стили:&lt;/f0&gt; Эта палитра содержит одну панель, это та же панель, что и открытая, по нажатию кнопки &lt;f1&gt;Стили&lt;/f1&gt; (клавиша &lt;f2&gt;F11&lt;/f2&gt;) на панели инструментов Форматирование.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7882,6 +7882,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T142834Z" creationid="tagezi" creationdate="20180316T142834Z">
         <seg>Интернет-ресурсы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only the &lt;f4&gt;Contents&lt;/f4&gt; button is absent in the Sidebar’s Navigator panel.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T174335Z" creationid="olex" creationdate="20180330T174335Z">
+        <seg>Только кнопка &lt;f4&gt;Содержимое&lt;/f4&gt; отсутствует на панели Навигатор боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
