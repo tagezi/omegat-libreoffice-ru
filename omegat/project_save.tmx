@@ -382,6 +382,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Functions&lt;/f0&gt;: This deck contains a single panel, which is the same as the window opened by selecting &lt;f1&gt;Insert &gt; Function...&lt;/f1&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T174603Z" creationid="olex" creationdate="20180330T174603Z">
+        <seg>&lt;f0&gt;Функции&lt;/f0&gt;: эта палитра содержит одну панель, которая аналогична окну, открываемому при выборе в меню &lt;f1&gt;Вставка &gt; Функция...&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: здесь явная ошибка в оригинале: меню View &gt; Gallery , а не Tools &gt; Gallery</note>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Gallery&lt;/f0&gt;: This deck contains a single panel, which is the same as that opened by selecting &lt;f1&gt;Gallery&lt;/f1&gt; from the Standard toolbar or &lt;f2&gt;Tools &gt; Gallery&lt;/f2&gt; from the Menu bar.</seg>
