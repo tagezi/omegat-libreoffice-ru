@@ -1984,8 +1984,8 @@
       <tuv lang="EN-US">
         <seg>By default, a CSV file has the extension &lt;f1&gt;.csv&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185259Z" creationid="olex" creationdate="20180330T185259Z">
-        <seg>По умолчанию файл CSV  имеет расширение &lt;f1&gt;.csv&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185644Z" creationid="olex" creationdate="20180330T185259Z">
+        <seg>По умолчанию CSV-файл имеет расширение &lt;f1&gt;.csv&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2016,8 +2016,8 @@
       <tuv lang="EN-US">
         <seg>CSV file</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T184629Z" creationid="olex" creationdate="20180330T184629Z">
-        <seg>CSV файла</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185524Z" creationid="olex" creationdate="20180330T184629Z">
+        <seg>CSV-файла</seg>
       </tuv>
     </tu>
     <tu>
@@ -2288,8 +2288,8 @@
       <tuv lang="EN-US">
         <seg>Choose &lt;f0&gt;File &gt; Open&lt;/f0&gt; on the Menu bar and locate the CSV file that you want to open.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185134Z" creationid="olex" creationdate="20180330T185134Z">
-        <seg>Выберите в меню &lt;f0&gt;Файл &gt; Открыть&lt;/f0&gt; и укажите файл CSV, который вы хотите открыть.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185621Z" creationid="olex" creationdate="20180330T185134Z">
+        <seg>Выберите в меню &lt;f0&gt;Файл &gt; Открыть&lt;/f0&gt; и укажите CSV-файл, который вы хотите открыть.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2530,8 +2530,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Comma-separated-values (CSV) files are spreadsheet files in a text format where cell contents are separated by a character, for example a comma or semicolon.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T184438Z" creationid="olex" creationdate="20180330T184438Z">
-        <seg>Значения, разделенные запятыми (сomma separated values - CSV) файлы представляют собой файлы электронных таблиц в текстовом формате, где разделение на ячейки осуществляется символом, например запятой или точкой с запятой.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185503Z" creationid="olex" creationdate="20180330T184438Z">
+        <seg>Файлы CSV (значения, разделенные запятыми: сomma separated values - CSV) представляют собой файлы электронных таблиц в текстовом формате, где разделение на ячейки осуществляется символом, например запятой или точкой с запятой.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3436,8 +3436,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Each line in a CSV text file represents a row in a spreadsheet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T184533Z" creationid="olex" creationdate="20180330T184533Z">
-        <seg>Каждая строка в текстовом файле CSV представляет собой строку в электронной таблице.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185516Z" creationid="olex" creationdate="20180330T184533Z">
+        <seg>Каждая строка в текстовом CSV-файле представляет собой строку в электронной таблице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7607,8 +7607,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Most CSV files come from databases tables, queries, or reports, where further calculations and charting are required.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T184839Z" creationid="olex" creationdate="20180330T184839Z">
-        <seg>Большинство файлов CSV поступают из таблиц, запросов или отчетов баз данных, когда требуются дальнейшие вычисления и диаграммы.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185536Z" creationid="olex" creationdate="20180330T184839Z">
+        <seg>Большинство CSV-файлов поступают из таблиц, запросов или отчетов баз данных, когда требуются дальнейшие вычисления и диаграммы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7944,8 +7944,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>On Microsoft Windows, CSV files often have the XLS file name extension to look like an Excel file, but they are still CSV files internally.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T184936Z" creationid="olex" creationdate="20180330T184936Z">
-        <seg>В Microsoft Windows файлы CSV часто имеют расширение имени файла XLS, чтобы выглядеть как файл Excel, но при этом они являются CSV-файлами.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185553Z" creationid="olex" creationdate="20180330T184936Z">
+        <seg>В Microsoft Windows CSV-файлы часто имеют расширение имени файла XLS, чтобы выглядеть как файл Excel, но при этом они являются CSV-файлами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10210,6 +10210,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Text Import&lt;/f0&gt; dialog (Figure &lt;t1&gt;4&lt;/t1&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185726Z" creationid="olex" creationdate="20180330T185726Z">
+        <seg>Откроется диалоговое окно &lt;f0&gt;Text Import&lt;/f0&gt; (Рисунок &lt;t1&gt;4&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;f1&gt;Manage Templates&lt;/f1&gt; option on the list opens the Template dialog (Figure &lt;t2&gt;8&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T204607Z" creationid="olex" creationdate="20180310T204607Z">
@@ -12237,8 +12245,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To open a CSV file in Calc:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T184958Z" creationid="olex" creationdate="20180330T184958Z">
-        <seg>Чтобы открыть CSV файл в Calc:</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185557Z" creationid="olex" creationdate="20180330T184958Z">
+        <seg>Чтобы открыть CSV-файл в Calc:</seg>
       </tuv>
     </tu>
     <tu>
