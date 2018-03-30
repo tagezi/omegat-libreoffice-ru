@@ -536,6 +536,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Styles:&lt;/f0&gt; This deck contains a single panel, which is the same as that opened by selecting the &lt;f1&gt;Styles&lt;/f1&gt; button (&lt;f2&gt;F11&lt;/f2&gt;) from the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T171439Z" creationid="olex" creationdate="20180330T170947Z">
+        <seg>&lt;f0&gt;Стили:&lt;/f0&gt; Эта палитра содержит одну панель, это та же панель, что и открытая, по нажатию кнопки &lt;f1&gt;Стили&lt;/f1&gt; (&lt;f2&gt;F11&lt;/f2&gt;) на панели инструментов Форматирование.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Sum&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;– clicking on the Sum icon totals the numbers in the cells above the selected cell and then places the total in the selected cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T182451Z" creationid="olex" creationdate="20180329T182451Z">
@@ -11288,6 +11296,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T193905Z" creationid="olex" creationdate="20180313T193905Z">
         <seg>Если шаблон Libreoffice по умолчанию не заменялся пользовательским, как описано в предыдущем разделе, то шаблона этого типа не будет в списке выбора для восстановления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These dialogs lock the document for editing until they are closed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T170912Z" creationid="olex" creationdate="20180330T170912Z">
+        <seg>Это окно блокирует документ для редактирования до тех пор, пока они не будет закрыто.</seg>
       </tuv>
     </tu>
     <tu>
