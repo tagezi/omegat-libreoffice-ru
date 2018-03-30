@@ -265,8 +265,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Character&lt;/f0&gt;: Controls for formatting the text, such as font family, size, and color.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180329T194754Z" creationid="olex" creationdate="20180329T194754Z">
-        <seg>&lt;f0&gt;Символ&lt;/f0&gt;: Элементы управления форматированием текста, такие как гарнитура, кегль и цвет.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T165312Z" creationid="olex" creationdate="20180329T194754Z">
+        <seg>&lt;f0&gt;Символы&lt;/f0&gt;: Элементы управления форматированием текста, такие как гарнитура, кегль и цвет.</seg>
       </tuv>
     </tu>
     <tu>
@@ -434,8 +434,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Number Format:&lt;/f0&gt; Quickly change the format of numbers including decimals, currency, dates, or numeric text.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T165300Z" creationid="olex" creationdate="20180330T165300Z">
-        <seg>&lt;f0&gt;Формат чисел:&lt;/f0&gt; Быстрое изменение формата чисел, включая десятичные знаки, валюту, даты или числовой текст.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T165537Z" creationid="olex" creationdate="20180330T165300Z">
+        <seg>&lt;f0&gt;Формат чисел:&lt;/f0&gt; Быстрое изменение формата чисел, включая количество десятичных знаков, формат валюты, даты или числовой формат.</seg>
       </tuv>
     </tu>
     <tu>
@@ -514,8 +514,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Styles:&lt;/f0&gt; Access to the available cell styles, update cell styles, and new cell styles.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180329T194610Z" creationid="olex" creationdate="20180329T194610Z">
-        <seg>&lt;f0&gt;Стили:&lt;/f0&gt; Доступ к доступным стилям ячеек, обновлению стилей ячеек и созданию  новых стилей ячеек.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T165308Z" creationid="olex" creationdate="20180329T194610Z">
+        <seg>&lt;f0&gt;Стиль:&lt;/f0&gt; Доступ к доступным стилям ячеек, обновлению стилей ячеек и созданию  новых стилей ячеек.</seg>
       </tuv>
     </tu>
     <tu>
