@@ -12085,6 +12085,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To the right side of the title bar of each open deck is a &lt;f0&gt;Close&lt;/f0&gt; button (&lt;f1&gt;X&lt;/f1&gt;), which closes the deck to leave only the Tab bar open.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T174724Z" creationid="olex" creationdate="20180330T174724Z">
+        <seg>С правой стороны строки заголовка каждой открытой палитры находится кнопка &lt;f0&gt;Закрыть&lt;/f0&gt; (&lt;f1&gt;X&lt;/f1&gt;), которая закрывает палитру, оставляя открытой только панель вкладок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To then manually update a formula, press &lt;f2&gt;F9&lt;/f2&gt; key or select &lt;f3&gt;View &gt; Update&lt;/f3&gt; on the menu bar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180318T122253Z" creationid="Роман" creationdate="20180318T122253Z">
