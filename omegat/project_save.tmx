@@ -633,6 +633,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Standard &lt;/f0&gt;– Calc determines the type of data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T194053Z" creationid="olex" creationdate="20180330T194053Z">
+        <seg>&lt;f0&gt;Стандарт&lt;/f0&gt; - это то, как Calc определяет тип данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Styles &lt;/f0&gt;– contains commands to apply standard styles to cell, group of cells or sheets contents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T182943Z" creationid="olex" creationdate="20180328T182943Z">
@@ -681,6 +689,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; – imported data are treated as text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T194119Z" creationid="olex" creationdate="20180330T194119Z">
+        <seg>&lt;f0&gt;Текст&lt;/f0&gt; - импортированные данные обрабатываются как текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; menu selection</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100035Z" creationid="lera" creationdate="20180303T153517Z">
@@ -693,6 +709,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T185126Z" creationid="olex" creationdate="20180328T185126Z">
         <seg>&lt;f0&gt;Сервис&lt;/f0&gt; - содержит различные функции, которые помогут вам проверить и настроить электронную таблицу; например, &lt;f1&gt;Проверка орфографии...&lt;/f1&gt;, &lt;f2&gt;Совместно использовать документ...&lt;/f2&gt;, &lt;f3&gt;Макросы&lt;/f3&gt;, &lt;f4&gt;Подбор параметра..., Решатель..., Зависимости, Защитить лист, Настройки фильтров XML..., Управление расширениями...&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;US English&lt;/f0&gt; – numbers formatted in US English are searched for and included regardless of the system language.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T194312Z" creationid="olex" creationdate="20180330T194312Z">
+        <seg>&lt;f0&gt;Английский США&lt;/f0&gt; - числа, отформатированные как в американском английском языке, находятся и включаются независимо от системного языка.</seg>
       </tuv>
     </tu>
     <tu>
