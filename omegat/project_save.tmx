@@ -5420,6 +5420,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the headers are not visible on the spreadsheet, go to &lt;f1&gt;View&lt;/f1&gt; on the Menu bar and select &lt;f2&gt;Column &amp; Row Headers&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T181710Z" creationid="olex" creationdate="20180330T181710Z">
+        <seg>Если в электронной таблице не видны заголовки, то выберите в меню &lt;f1&gt;Вид &gt; Заголовки столбцов / строк&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the style is in use, you receive a warning message asking you to confirm deletion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T200919Z" creationid="olex" creationdate="20180310T200919Z">
@@ -10516,8 +10524,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The column headers use an alpha character starting at A and go on to the right.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T181043Z" creationid="olex" creationdate="20180330T181043Z">
-        <seg>В заголовках столбцов используются буквенные символы, начинающиеся с A, и продолжаются вправо.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T181308Z" creationid="olex" creationdate="20180330T181043Z">
+        <seg>В заголовках столбцов используются буквенные символы, начиная с A, и далее вправо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11377,6 +11385,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T193905Z" creationid="olex" creationdate="20180313T193905Z">
         <seg>Если шаблон Libreoffice по умолчанию не заменялся пользовательским, как описано в предыдущем разделе, то шаблона этого типа не будет в списке выбора для восстановления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These column and row headers form the cell references that appear in the Name Box on the Formula Bar (Figure &lt;t0&gt;2&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T181354Z" creationid="olex" creationdate="20180330T181354Z">
+        <seg>Эти заголовки столбцов и строк образуют ссылки на ячейки, которые отображаются в поле имени на панели формул (Рисунок &lt;t0&gt;2&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
