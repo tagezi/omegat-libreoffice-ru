@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose &lt;f0&gt;File &gt; Open&lt;/f0&gt; on the Menu bar and locate the CSV file that you want to open.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185134Z" creationid="olex" creationdate="20180330T185134Z">
+        <seg>Выберите в меню &lt;f0&gt;Файл &gt; Открыть&lt;/f0&gt; и укажите файл CSV, который вы хотите открыть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ClarisWorks/Appleworks Document (.cwk)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T062641Z" creationid="tagezi" creationdate="20180305T062641Z">
@@ -7918,6 +7926,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On Microsoft Windows, CSV files often have the XLS file name extension to look like an Excel file, but they are still CSV files internally.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T184936Z" creationid="olex" creationdate="20180330T184936Z">
+        <seg>В Microsoft Windows файлы CSV часто имеют расширение имени файла XLS, чтобы выглядеть как файл Excel, но при этом они являются CSV-файлами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On September 28, 2010, the community of volunteers who develop and promote OpenOffice.org announce a major change in project structure.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T074644Z" creationid="lera" creationdate="20180303T164756Z">
@@ -12191,6 +12207,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180318T121924Z" creationid="Роман" creationdate="20180317T174103Z">
         <seg>Для перемещения от одного заполнителя к другому в формуле нажимайте клавишу &lt;f0&gt;F4&lt;/f0&gt; key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To open a CSV file in Calc:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T184958Z" creationid="olex" creationdate="20180330T184958Z">
+        <seg>Чтобы открыть CSV файл в Calc:</seg>
       </tuv>
     </tu>
     <tu>
