@@ -10941,6 +10941,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The main section of the workspace in Calc displays the &lt;i0/&gt;cells in the form of a grid.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T180027Z" creationid="olex" creationdate="20180330T180027Z">
+        <seg>В основной части рабочей области Calc показаны ячейки &lt;i0/&gt;в виде сетки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The manual formatting or direct formatting is performed when user format each element of the document individually, as it was done at times when typewriters were used in offices, page by page.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T084029Z" creationid="olex" creationdate="20180306T182844Z">
@@ -11706,6 +11714,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To adjust the deck width, drag on the left edge of the sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T175629Z" creationid="olex" creationdate="20180330T175629Z">
+        <seg>Чтобы отрегулировать ширину палитры, перетащите левый край боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To apply a character style to more than one word, select the characters first.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T205608Z" creationid="olex" creationdate="20180307T205608Z">
@@ -11925,8 +11941,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To hide the Sidebar, or reveal it if already hidden, click on the edge Hide/Show button.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T175420Z" creationid="olex" creationdate="20180330T175420Z">
-        <seg>Чтобы скрыть боковую панель или открыть ее, если она уже скрыта, нажмите кнопку «Скрыть / Показать».</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T175558Z" creationid="olex" creationdate="20180330T175420Z">
+        <seg>Чтобы скрыть боковую панель или открыть ее, если она скрыта, нажмите на кромке кнопку Скрыть / Показать.</seg>
       </tuv>
     </tu>
     <tu>
