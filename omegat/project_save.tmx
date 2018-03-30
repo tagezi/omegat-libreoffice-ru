@@ -2504,6 +2504,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Comma-separated-values (CSV) files are spreadsheet files in a text format where cell contents are separated by a character, for example a comma or semicolon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T184438Z" creationid="olex" creationdate="20180330T184438Z">
+        <seg>Значения, разделенные запятыми (сomma separated values - CSV) файлы представляют собой файлы электронных таблиц в текстовом формате, где разделение на ячейки осуществляется символом, например запятой или точкой с запятой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Command</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201430Z" creationid="Роман" creationdate="20180316T201430Z">
@@ -3398,6 +3406,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T194149Z" creationid="olex" creationdate="20180329T194149Z">
         <seg>Каждая палитра имеет соответствующий значок на панели вкладок &lt;i3/&gt;справа от боковой панели, что позволяет вам переключаться между ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each line in a CSV text file represents a row in a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T184533Z" creationid="olex" creationdate="20180330T184533Z">
+        <seg>Каждая строка в текстовом файле CSV представляет собой строку в электронной таблице.</seg>
       </tuv>
     </tu>
     <tu>
