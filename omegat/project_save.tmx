@@ -561,6 +561,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Quoted fields as text&lt;/f0&gt; – when this option is enabled, fields or cells whose values are quoted in their entirety (the first and last characters of the value equal the text delimiter) are imported as text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T192907Z" creationid="olex" creationdate="20180330T192907Z">
+        <seg>&lt;f0&gt;Поля в кавычках как текст&lt;/f0&gt; - когда включена эта опция, поля или ячейки, данные в которых обозначены строкой (первый и последний символы соответствуют значению в Разделитель строк), импортируются как текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Restart in Safe Mode&lt;/f0&gt; Opens a dialog window where you will have the option to restart LibreOffice and reset the software to it's default settings.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T112127Z" creationid="tagezi" creationdate="20180307T112127Z">
@@ -637,6 +645,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T183154Z" creationid="olex" creationdate="20180307T183154Z">
         <seg>&lt;f0&gt;Стили таблицы&lt;/f0&gt; применяют заранее определенное форматирование к таблицам и элементам таблиц в текстовом документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Text delimiter&lt;/f0&gt; – select a character to delimit text data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T192533Z" creationid="olex" creationdate="20180330T192533Z">
+        <seg>&lt;f0&gt;Разделитель строк&lt;/f0&gt; - выберите символ для разграничения текстовых данных.</seg>
       </tuv>
     </tu>
     <tu>
