@@ -382,6 +382,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>denkin: здесь явная ошибка в оригинале: меню View &gt; Gallery , а не Tools &gt; Gallery</note>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Gallery&lt;/f0&gt;: This deck contains a single panel, which is the same as that opened by selecting &lt;f1&gt;Gallery&lt;/f1&gt; from the Standard toolbar or &lt;f2&gt;Tools &gt; Gallery&lt;/f2&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T171936Z" creationid="olex" creationdate="20180330T171936Z">
+        <seg>&lt;f0&gt;Галерея&lt;/f0&gt;: эта палитра содержит одну панель, которая аналогична открывающейся, при нажатии кнопки &lt;f1&gt;Галерея&lt;/f1&gt; на стандартной панели инструментов или выборе в меню &lt;f2&gt;Вид &gt; Галерея&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: я тут не знаю как перводить. АскБот у нас есть, но там ник-то не общается. Все хотят на форуме сидеть.</note>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Get Help Online &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Ask LibreOffice&lt;f3&gt; &lt;/f3&gt;forum of questions and answers from the LibreOffice community &lt;a4&gt;https://ask.libreoffice.org/en/questions/&lt;/a4&gt;.</seg>
