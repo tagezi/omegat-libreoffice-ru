@@ -561,6 +561,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Separator Options&lt;/f0&gt; – specifies whether the data uses separators or fixed widths as delimiters.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T191514Z" creationid="olex" creationdate="20180330T191514Z">
+        <seg>&lt;f0&gt;Параметры разделителя&lt;/f0&gt; - указывает, используют для данных разделители или фиксированную ширину в качестве разделителей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Sheet&lt;/f0&gt; – &lt;s1/&gt;contains the most often used commands for handling sheets, such as &lt;f2&gt;Insert&lt;/f2&gt; and &lt;f3&gt;Delete Cells, Columns, Rows and Sheets, Sheets from File, Cell Reference Type, Link to External Data, &lt;/f3&gt;as well as&lt;f4&gt; Comments &lt;/f4&gt;and&lt;f5&gt; Fill cells.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T183829Z" creationid="olex" creationdate="20180328T183829Z">
@@ -11377,6 +11385,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T181247Z" creationid="olex" creationdate="20180330T181125Z">
         <seg>В заголовки строк используются числовые обозначения, начиная с 1 и далее вниз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rows are visible in the preview window at the bottom of the dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T191234Z" creationid="olex" creationdate="20180330T191234Z">
+        <seg>Строки отображаются в окне предварительного просмотра в нижней части диалогового окна.</seg>
       </tuv>
     </tu>
     <tu>
