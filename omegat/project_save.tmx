@@ -359,6 +359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Fixed width&lt;/f0&gt; – separates fixed-width data (equal number of characters) into columns.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T191642Z" creationid="olex" creationdate="20180330T191642Z">
+        <seg>&lt;f0&gt;Фиксированная ширина&lt;/f0&gt; - разделяет данные фиксированной ширины (равное количество символов) на столбцы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Format&lt;/f0&gt; – contains commands for modifying the layout of a spreadsheet; for example, &lt;f1&gt;Cells&lt;/f1&gt;, &lt;f2&gt;Page&lt;/f2&gt;, &lt;f3&gt;Styles&lt;/f3&gt;, &lt;f4&gt;Alignment, Merge Cells, Print Range, Conditional Formatting, Spreadsheet Themes, Image, Chart, Object.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T182456Z" creationid="olex" creationdate="20180328T182456Z">
