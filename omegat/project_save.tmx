@@ -319,6 +319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Detect special numbers&lt;/f0&gt; – when this option is enabled, Calc will automatically detect all number formats, including special number formats such as dates, time, and scientific notation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T193107Z" creationid="olex" creationdate="20180330T193010Z">
+        <seg>&lt;f0&gt;Распознавать особые числа&lt;/f0&gt; - когда включена эта опция, то Calc автоматически определит все форматы чисел, включая специальные форматы чисел, такие как дата, время и научная система счисления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181526Z" creationid="tagezi" creationdate="20180304T181526Z">
@@ -563,8 +571,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Quoted fields as text&lt;/f0&gt; – when this option is enabled, fields or cells whose values are quoted in their entirety (the first and last characters of the value equal the text delimiter) are imported as text.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T192907Z" creationid="olex" creationdate="20180330T192907Z">
-        <seg>&lt;f0&gt;Поля в кавычках как текст&lt;/f0&gt; - когда включена эта опция, поля или ячейки, данные в которых обозначены строкой (первый и последний символы соответствуют значению в Разделитель строк), импортируются как текст.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T193015Z" creationid="olex" creationdate="20180330T192907Z">
+        <seg>&lt;f0&gt;Поля в кавычках как текст&lt;/f0&gt; - когда включена эта опция, то поля или ячейки, данные в которых обозначены строкой (первый и последний символы соответствуют значению в Разделитель строк), импортируются как текст.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11449,6 +11457,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T191234Z" creationid="olex" creationdate="20180330T191234Z">
         <seg>Строки отображаются в окне предварительного просмотра в нижней части диалогового окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected language also influences how such special numbers are detected, since different languages and regions many have different conventions for such special numbers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T193238Z" creationid="olex" creationdate="20180330T193238Z">
+        <seg>Выбранный язык также влияет на то, как такие специальные числа обнаруживаются, поскольку разные языки и регионы имеют разные форматы для таких специальных чисел.</seg>
       </tuv>
     </tu>
     <tu>
