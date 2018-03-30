@@ -1982,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, a CSV file has the extension &lt;f1&gt;.csv&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185259Z" creationid="olex" creationdate="20180330T185259Z">
+        <seg>По умолчанию файл CSV  имеет расширение &lt;f1&gt;.csv&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, tables of contents use Heading styles, but you can use whatever combination of styles you prefer.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T203031Z" creationid="olex" creationdate="20180316T203031Z">
@@ -2016,8 +2024,8 @@
       <tuv lang="EN-US">
         <seg>CSV files</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T184057Z" creationid="olex" creationdate="20180330T184057Z">
-        <seg>CSV файлы</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185406Z" creationid="olex" creationdate="20180330T184057Z">
+        <seg>CSV-файлы</seg>
       </tuv>
     </tu>
     <tu>
@@ -5332,6 +5340,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, some CSV files may have a &lt;f2&gt;.txt&lt;/f2&gt; extension.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185340Z" creationid="olex" creationdate="20180330T185340Z">
+        <seg>Однако некоторые CSV-файлы могут иметь расширение &lt;f2&gt;.txt&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, you can copy the contents of a document into an empty document that uses a different template.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T203051Z" creationid="olex" creationdate="20180313T195007Z">
@@ -8224,8 +8240,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Opening a CSV file</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180326T180141Z" creationid="olex" creationdate="20180326T180141Z">
-        <seg>Открытие файлов CSV</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185403Z" creationid="olex" creationdate="20180326T180141Z">
+        <seg>Открытие CSV-файлов</seg>
       </tuv>
     </tu>
     <tu>
@@ -9395,6 +9411,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T162724Z" creationid="tagezi" creationdate="20180320T162724Z">
         <seg>Выберите нужный макрос и нажмите кнопку &lt;f0&gt;OK&lt;/f0&gt; для назначения макроса событию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the file and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185207Z" creationid="olex" creationdate="20180330T185207Z">
+        <seg>Выберите файл и нажмите &lt;f0&gt;Открыть&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
