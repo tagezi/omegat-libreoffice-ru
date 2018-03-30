@@ -2358,6 +2358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to open and import the file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T190147Z" creationid="olex" creationdate="20180330T190147Z">
+        <seg>Чтобы начать импорт файла нажмите &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the new style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203400Z" creationid="olex" creationdate="20180309T203400Z">
@@ -5192,6 +5200,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T085947Z" creationid="tagezi" creationdate="20180306T085947Z">
         <seg>Справочная система</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you can select the various options available when importing a CSV file into a Calc spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T190052Z" creationid="olex" creationdate="20180330T190052Z">
+        <seg>Здесь вы можете выбрать различные параметры, доступные при импорте CSV-файла в электронную таблицу Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10212,8 +10228,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The &lt;f0&gt;Text Import&lt;/f0&gt; dialog (Figure &lt;t1&gt;4&lt;/t1&gt;) opens.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185726Z" creationid="olex" creationdate="20180330T185726Z">
-        <seg>Откроется диалоговое окно &lt;f0&gt;Text Import&lt;/f0&gt; (Рисунок &lt;t1&gt;4&lt;/t1&gt;).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T190012Z" creationid="olex" creationdate="20180330T185726Z">
+        <seg>Откроется диалоговое окно &lt;f0&gt;Импорт текста&lt;/f0&gt; (Рисунок &lt;t1&gt;4&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11908,8 +11924,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To add new colors to this color palette, see &lt;f3&gt;Chapter 14 Customizing LibreOffice&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T184048Z" creationid="olex" creationdate="20180330T184048Z">
-        <seg>Чтобы добавить новые цвета в эту цветовую палитру, смотрите &lt;F3&gt;Глава 14 Настройка LibreOffice&lt;/f3&gt;. </seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185830Z" creationid="olex" creationdate="20180330T184048Z">
+        <seg>Чтобы добавить новые цвета в эту цветовую палитру, смотрите &lt;f3&gt;Глава 14 Настройка LibreOffice&lt;/f3&gt;. </seg>
       </tuv>
     </tu>
     <tu>
