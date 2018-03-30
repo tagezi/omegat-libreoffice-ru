@@ -1524,6 +1524,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An active sheet is indicated with a white tab (default Calc setup).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T182403Z" creationid="olex" creationdate="20180330T182403Z">
+        <seg>Активный лист отображается белой вкладкой (при настройках Calc по умолчанию).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example is shown in Figure &lt;t0&gt;3&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094359Z" creationid="Роман" creationdate="20180316T094359Z">
@@ -2452,6 +2460,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180320T185003Z" creationid="olex" creationdate="20180308T164344Z">
         <seg>При нажатии на слово применяется стиль символа для этого слова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clicking on a tab enables access to each individual sheet and displays that sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T182303Z" creationid="olex" creationdate="20180330T182303Z">
+        <seg>Нажатие на вкладку обеспечивает доступ к каждому отдельному листу и отображает этот лист.</seg>
       </tuv>
     </tu>
     <tu>
