@@ -11141,6 +11141,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The row headers use a numerical character starting at 1 and go down.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T181247Z" creationid="olex" creationdate="20180330T181125Z">
+        <seg>В заголовки строк используются числовые обозначения, начиная с 1 и далее вниз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The simple formula &lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt;&lt;s4/&gt;can be created using LibreOffice Math as follows:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204826Z" creationid="Роман" creationdate="20180316T204826Z">
