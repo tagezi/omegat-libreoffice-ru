@@ -2006,6 +2006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CSV file</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T184629Z" creationid="olex" creationdate="20180330T184629Z">
+        <seg>CSV файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CSV files</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T184057Z" creationid="olex" creationdate="20180330T184057Z">
@@ -7572,6 +7580,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Most CSV files come from databases tables, queries, or reports, where further calculations and charting are required.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T184839Z" creationid="olex" creationdate="20180330T184839Z">
+        <seg>Большинство файлов CSV поступают из таблиц, запросов или отчетов баз данных, когда требуются дальнейшие вычисления и диаграммы.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG:TODO: Выяснит. В интерфейсе этого невидно.
 denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
@@ -10126,6 +10142,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T182011Z" creationid="tagezi" creationdate="20180304T181923Z">
         <seg>Текст и текст в Юникоде (LibreOffice Writer/Web) (.txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text is entered between quotation marks; numbers are entered without quotation marks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T184611Z" creationid="olex" creationdate="20180330T184611Z">
+        <seg>Текст вводится в кавычках; числа вводятся без кавычек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14593,6 +14617,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T141335Z" creationid="tagezi" creationdate="20180316T141335Z">
         <seg>модули</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>open</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T184622Z" creationid="olex" creationdate="20180330T184622Z">
+        <seg>открытие</seg>
       </tuv>
     </tu>
     <tu>
