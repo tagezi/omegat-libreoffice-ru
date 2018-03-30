@@ -10514,6 +10514,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The column headers use an alpha character starting at A and go on to the right.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T181043Z" creationid="olex" creationdate="20180330T181043Z">
+        <seg>В заголовках столбцов используются буквенные символы, начинающиеся с A, и продолжаются вправо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The command is sent to the document frame and this passes on the command until an object is found that can handle the command.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T175300Z" creationid="tagezi" creationdate="20180319T175300Z">
