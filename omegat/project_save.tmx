@@ -1789,6 +1789,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the top of the columns and the left end of the rows are a series of header boxes containing letters and numbers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T180734Z" creationid="olex" creationdate="20180330T180734Z">
+        <seg>Сверху над столбцами и слева от строк находятся заголовки, содержащие соответственно буквы и цифры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AutoCAD Interchange Format (*.dxf)&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064435Z" creationid="tagezi" creationdate="20180305T064435Z">
@@ -3326,6 +3334,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180536Z" creationid="olex" creationdate="20180308T180536Z">
         <seg>В каждом диалоговом окне Стиль есть несколько вкладок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each cell is formed by the intersection of one column and one row in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T180157Z" creationid="olex" creationdate="20180330T180157Z">
+        <seg>Каждая ячейка формируется путем пересечения в электронной таблице одного столбца и одной строки.</seg>
       </tuv>
     </tu>
     <tu>
