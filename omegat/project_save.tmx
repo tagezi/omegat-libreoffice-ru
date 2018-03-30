@@ -2442,8 +2442,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Clicking on any Tab button reopens the deck.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T174821Z" creationid="olex" creationdate="20180330T174821Z">
-        <seg>Нажатие на любую кнопку Боковой панели снова открывает палитру.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T175429Z" creationid="olex" creationdate="20180330T174821Z">
+        <seg>Нажатие на любую кнопку Боковой панели снова откроет палитру.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11919,6 +11919,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134944Z" creationid="tagezi" creationdate="20180320T134944Z">
         <seg>Чтобы определить ваши варианты, смотрите Таблицу &lt;t0&gt;2&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To hide the Sidebar, or reveal it if already hidden, click on the edge Hide/Show button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T175420Z" creationid="olex" creationdate="20180330T175420Z">
+        <seg>Чтобы скрыть боковую панель или открыть ее, если она уже скрыта, нажмите кнопку «Скрыть / Показать».</seg>
       </tuv>
     </tu>
     <tu>
