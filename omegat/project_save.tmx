@@ -5452,6 +5452,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If Language is set to Default for CSV import, Calc will use the globally set language.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T190818Z" creationid="olex" creationdate="20180330T190818Z">
+        <seg>Если для параметра Язык установлено значение По умолчанию при импорте CSV, то Calc будет использовать языковые настройки, заданные глобально.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If Paragraph Styles are active, the paragraph style will be added to the list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T205356Z" creationid="olex" creationdate="20180309T205356Z">
