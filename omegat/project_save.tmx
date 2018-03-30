@@ -489,6 +489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Merge delimiters&lt;/f0&gt; – combines consecutive delimiters and removes blank data fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T192336Z" creationid="olex" creationdate="20180330T192336Z">
+        <seg>&lt;f0&gt;Объединять разделители&lt;/f0&gt; - объединяет соседние разделители и удаляет пустые поля данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Name Box&lt;/f0&gt; – gives the current active cell reference using a combination of a letter and number, for example A1.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T180746Z" creationid="olex" creationdate="20180329T180646Z">
@@ -11779,6 +11787,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T205421Z" creationid="tagezi" creationdate="20180318T205421Z">
         <seg>Это преобразование легко выполняется для каждой строки, за исключением DONTKNOW и NORMAL, которые не содержат числового значения, но значения находятся между 0 и 100 и могут вводиться вручную.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This custom separator must also be contained in the data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180330T192144Z" creationid="olex" creationdate="20180330T192144Z">
+        <seg>Этот пользовательский разделитель должен содержаться в данных.</seg>
       </tuv>
     </tu>
     <tu>
