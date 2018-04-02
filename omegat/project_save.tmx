@@ -569,6 +569,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Page Down&lt;/f0&gt; moves the cell focus down one complete screen display.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T200306Z" creationid="olex" creationdate="20180402T200306Z">
+        <seg>&lt;f0&gt;Page Down&lt;/f0&gt;перемещает фокус ячейки вниз на размер экрана.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Page Up&lt;/f0&gt; moves the cell focus up one complete screen display.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T200455Z" creationid="olex" creationdate="20180402T200455Z">
+        <seg>&lt;f0&gt;Page Up&lt;/f0&gt; перемещает фокус ячейки вверх на размер экрана.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Page styles&lt;/f0&gt; include margins, headers and footers, borders and backgrounds.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T154610Z" creationid="olex" creationdate="20180307T175955Z">
@@ -15345,6 +15361,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T141335Z" creationid="tagezi" creationdate="20180316T141335Z">
         <seg>модули</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>moving from sheet to sheet</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T200319Z" creationid="olex" creationdate="20180402T200319Z">
+        <seg>перемещение от листа к листу</seg>
       </tuv>
     </tu>
     <tu>
