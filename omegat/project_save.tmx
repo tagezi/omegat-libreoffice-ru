@@ -761,6 +761,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Using the Tab key&lt;/f0&gt; – pressing Tab moves the cell focus right in a row to the next column.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T194957Z" creationid="olex" creationdate="20180402T194957Z">
+        <seg>&lt;f0&gt;Использование клавиши Tab&lt;/f0&gt; - нажатие Tab перемещает фокус ячейки направо по строке до следующего столбца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Using the mouse&lt;/f0&gt; – place the mouse pointer over the cell and click the left mouse button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T193823Z" creationid="olex" creationdate="20180402T193823Z">
@@ -9022,6 +9030,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pressing &lt;f1&gt;Shift+Tab&lt;/f1&gt; moves the focus to the left in a row to the previous column.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T195054Z" creationid="olex" creationdate="20180402T195054Z">
+        <seg>Нажатие &lt;f1&gt;Shift + Tab&lt;/f1&gt; перемещает фокус влево по строке к предыдущему столбцу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pressing &lt;f2&gt;Shift+Enter&lt;/f2&gt; moves the focus up in a column to the previous row.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T194845Z" creationid="olex" creationdate="20180402T194845Z">
@@ -15297,6 +15313,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T192926Z" creationid="olex" creationdate="20180402T192541Z">
         <seg>навигация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>navigating within spreadsheets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T195126Z" creationid="olex" creationdate="20180402T195126Z">
+        <seg>перемещение по листам</seg>
       </tuv>
     </tu>
     <tu>
