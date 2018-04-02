@@ -5396,6 +5396,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here you can select the character set, field delimiter, text delimiter, and so on to be used for the CSV file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T190607Z" creationid="olex" creationdate="20180402T190607Z">
+        <seg>Здесь вы можете выбрать кодировку символов, разделитель полей, разделитель строк и другие настройки, которые будут использоваться для файла CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here you can select the various options available when importing a CSV file into a Calc spreadsheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T190052Z" creationid="olex" creationdate="20180330T190052Z">
