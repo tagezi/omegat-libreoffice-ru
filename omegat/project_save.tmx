@@ -6085,6 +6085,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In &lt;f0&gt;File name&lt;/f0&gt;, you can enter a new file name for the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T182836Z" creationid="olex" creationdate="20180402T182836Z">
+        <seg>В поле &lt;f0&gt;Имя файла&lt;/f0&gt;, вы можете новое имя файла электронной таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In &lt;f0&gt;Save In&lt;/f0&gt;, select LibreOffice, or a specific document from the drop down menu to save your event.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T161719Z" creationid="tagezi" creationdate="20180320T161719Z">
@@ -9434,6 +9442,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T200536Z" creationid="olex" creationdate="20180313T200402Z">
         <seg>Выберите пункт меню &lt;f0&gt;Правка &gt; Выделить все&lt;/f0&gt; или нажмите &lt;f1&gt;Ctrl + A&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;File &gt; Save As&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Save As&lt;/f1&gt; dialog (Figure &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T181415Z" creationid="olex" creationdate="20180402T181415Z">
+        <seg>Выберите в меню &lt;f0&gt;Файл &gt; Сохранить как...&lt;/f0&gt;, чтобы открыть диалог &lt;f1&gt;Сохранить как&lt;/f1&gt; (Рисунок &lt;t2&gt;5&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
