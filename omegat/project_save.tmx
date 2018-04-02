@@ -367,6 +367,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;End&lt;/f0&gt; moves the cell focus to the last cell on the right in the row in the right-most column that contains data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T200107Z" creationid="olex" creationdate="20180402T200107Z">
+        <seg>&lt;f0&gt;End&lt;/f0&gt; перемещает фокус ячейки в последнюю ячейку справа в строке в самый правый столбец, который содержит данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Fields&lt;/f0&gt; – shows how the data will look when it is separated into columns.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T193908Z" creationid="olex" creationdate="20180330T193908Z">
@@ -477,6 +485,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T194533Z" creationid="olex" creationdate="20180330T194533Z">
         <seg>&lt;f0&gt;Скрыть&lt;/f0&gt; - данные из этого столбца не импортируются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Home&lt;/f0&gt; moves the cell focus to the start of a row.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T195922Z" creationid="olex" creationdate="20180402T195922Z">
+        <seg>&lt;f0&gt;Home&lt;/f0&gt; перемещает фокус ячейки в начало строки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -739,8 +755,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Using Home&lt;/f0&gt;, &lt;f1&gt;End&lt;/f1&gt;, &lt;f2&gt;Page Up&lt;/f2&gt; and &lt;f3&gt;Page Down&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180402T195833Z" creationid="olex" creationdate="20180402T195833Z">
-        <seg>Использование клавиши &lt;f0&gt;Home&lt;/f0&gt;, &lt;f1&gt;End&lt;/f1&gt;, &lt;f2&gt;Page Up&lt;/f2&gt; и &lt;f3&gt;Page Down&lt;/f3&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T195843Z" creationid="olex" creationdate="20180402T195833Z">
+        <seg>Использование клавиш &lt;f0&gt;Home&lt;/f0&gt;, &lt;f1&gt;End&lt;/f1&gt;, &lt;f2&gt;Page Up&lt;/f2&gt; и &lt;f3&gt;Page Down&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
