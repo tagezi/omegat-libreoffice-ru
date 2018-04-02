@@ -6111,8 +6111,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>In &lt;f0&gt;File type&lt;/f0&gt; drop-down menu, select the type of spreadsheet format you want to use.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180402T185108Z" creationid="olex" creationdate="20180402T185108Z">
-        <seg>В раскрывающемся списке &lt;f0&gt;Все форматы&lt;/f0&gt; выберите формата файла электронной таблицы, который вы хотите использовать.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T185458Z" creationid="olex" creationdate="20180402T185108Z">
+        <seg>В раскрывающемся списке &lt;f0&gt;Тип файла&lt;/f0&gt; выберите формата файла электронной таблицы, который вы хотите использовать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13552,6 +13552,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T165346Z" creationid="tagezi" creationdate="20180304T165346Z">
         <seg>При открытии документа Word, который содержит встроенный объект редактора формул, если для него указан параметр (MathType в LibreOffice Math или обратно) в &lt;f0&gt;Сервис &gt; Параметры... &gt; Загрузка/Сохранение &gt; Microsoft Office&lt;/f0&gt;, этот объект будет автоматически конвертирован в&lt;tc1/&gt; объект LibreOffice Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When saving in a non default file format, the &lt;f0&gt;Confirm File Format&lt;/f0&gt; dialog opens (Figure &lt;t1&gt;6&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T185830Z" creationid="olex" creationdate="20180402T185446Z">
+        <seg>При сохранении файла не в формате по умолчанию откроется диалоговое окно &lt;f0&gt;Подтверждение формата файла&lt;/f0&gt; (Рисунок &lt;t1&gt;6&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
