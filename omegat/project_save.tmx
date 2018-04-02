@@ -737,6 +737,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Using Home&lt;/f0&gt;, &lt;f1&gt;End&lt;/f1&gt;, &lt;f2&gt;Page Up&lt;/f2&gt; and &lt;f3&gt;Page Down&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T195833Z" creationid="olex" creationdate="20180402T195833Z">
+        <seg>Использование клавиши &lt;f0&gt;Home&lt;/f0&gt;, &lt;f1&gt;End&lt;/f1&gt;, &lt;f2&gt;Page Up&lt;/f2&gt; и &lt;f3&gt;Page Down&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Using a cell reference&lt;/f0&gt;&lt;re1/&gt; – highlight or delete the existing cell reference in the Name Box on the Formula Bar (Figure &lt;t2&gt;2&lt;/t2&gt;&lt;s3/&gt;on page &lt;t4&gt;9&lt;/t4&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T194209Z" creationid="olex" creationdate="20180402T194209Z">
@@ -765,6 +773,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T194957Z" creationid="olex" creationdate="20180402T194957Z">
         <seg>&lt;f0&gt;Использование клавиши Tab&lt;/f0&gt; - нажатие Tab перемещает фокус ячейки направо по строке до следующего столбца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Using the arrow keys&lt;/f0&gt; – pressing&lt;i1/&gt;&lt;i2/&gt; the arrow keys on the keyboard moves the cell focus in the direction of the arrow pressed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T195645Z" creationid="olex" creationdate="20180402T195611Z">
+        <seg>&lt;f0&gt;С помощью клавиш со стрелками&lt;/f0&gt; - нажатием &lt;i1/&gt;&lt;i2/&gt; клавиш со стрелками на клавиатуре перемещают фокус ячейки в направлении стрелки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14823,8 +14839,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>arrow keys</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180402T195429Z" creationid="olex" creationdate="20180402T195429Z">
-        <seg>клавиши стрелок</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T195620Z" creationid="olex" creationdate="20180402T195429Z">
+        <seg>клавиши со стрелками</seg>
       </tuv>
     </tu>
     <tu>
