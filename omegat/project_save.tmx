@@ -745,6 +745,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Using the Enter key&lt;/f0&gt; – pressing &lt;f1&gt;Enter&lt;/f1&gt; moves the cell focus down in a column to the next row.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T194756Z" creationid="olex" creationdate="20180402T194756Z">
+        <seg>&lt;f0&gt;Используя клавишу Enter&lt;/f0&gt; - нажатие &lt;f1&gt;Enter&lt;/f1&gt; перемещает фокус ячейки вниз по столбцу в следующую строку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Using the Navigator&lt;/f0&gt; – press the &lt;f1&gt;F5&lt;/f1&gt; key to open the Navigator dialog (Figure &lt;t2&gt;8&lt;/t2&gt;) or click the &lt;f3&gt;Navigator &lt;/f3&gt;button in the open Sidebar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T194526Z" creationid="olex" creationdate="20180402T194526Z">
@@ -4289,6 +4297,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130158Z" creationid="tagezi" creationdate="20180320T130158Z">
         <seg>Рисунок &lt;seq0&gt;8&lt;/seq0&gt;: Выбор параметров импорта библиотеки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Navigator in Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T194644Z" creationid="olex" creationdate="20180402T194644Z">
+        <seg>Рисунок &lt;seq0&gt;8&lt;/seq0&gt;: Навигатор в Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -9006,6 +9022,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pressing &lt;f2&gt;Shift+Enter&lt;/f2&gt; moves the focus up in a column to the previous row.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T194845Z" creationid="olex" creationdate="20180402T194845Z">
+        <seg>Нажатие &lt;f2&gt;Shift+Enter&lt;/f2&gt; перемещает фокус вверх по столбцу в предыдущую строку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Print ranges</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T180440Z" creationid="olex" creationdate="20180327T180440Z">
@@ -12987,6 +13011,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135016Z" creationid="tagezi" creationdate="20180320T135016Z">
         <seg>Тип макроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type the cell reference into the Column and Row fields and press the &lt;f4&gt;Enter&lt;/f4&gt; key.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T194628Z" creationid="olex" creationdate="20180402T194628Z">
+        <seg>Введите ссылку ячейки в полях Столбец и Строка, и нажмите клавишу &lt;f4&gt;Enter&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
