@@ -2462,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Export...&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T192532Z" creationid="olex" creationdate="20180402T192532Z">
+        <seg>Нажмите &lt;f0&gt;Сохранить&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;New category&lt;/f0&gt; on the context menu (see Figure &lt;t1&gt;13&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T204414Z" creationid="olex" creationdate="20180313T204414Z">
@@ -7765,6 +7773,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mark the &lt;f0&gt;Selection&lt;/f0&gt; checkbox in the &lt;f1&gt;Export&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T192316Z" creationid="olex" creationdate="20180402T192316Z">
+        <seg>Отметьте флажок &lt;f0&gt;Выделение&lt;/f0&gt; в диалоговом окне &lt;f1&gt;Экспорт&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Markup language</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094638Z" creationid="Роман" creationdate="20180316T094638Z">
@@ -9803,6 +9819,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180322T135427Z" creationid="Роман" creationdate="20180320T205301Z">
         <seg>Выберите элемент формулы, который хотите изменить, одним из следующих способов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the graphics file format in the &lt;f0&gt;Type&lt;/f0&gt; list</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T192222Z" creationid="olex" creationdate="20180402T192222Z">
+        <seg>Выберите формат графического файла в списке &lt;f0&gt;Тип файла&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
