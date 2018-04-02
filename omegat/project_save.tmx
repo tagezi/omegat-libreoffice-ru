@@ -4205,6 +4205,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Export Text File dialog for CSV files</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T190700Z" creationid="olex" creationdate="20180402T190700Z">
+        <seg>Рисунок &lt;seq0&gt;7&lt;/seq0&gt;: Диалоговое окно Экспорт в текстовый файл для CSV файлов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Navigating to a macro library</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123416Z" creationid="tagezi" creationdate="20180320T123416Z">
@@ -12503,6 +12511,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T195057Z" creationid="olex" creationdate="20180316T195057Z">
         <seg>Чтобы вернуться к книжному стилю страницы, вставьте другой разрыв страницы и выберите для вашего документа стиль страницы по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To have Calc save documents by default in a file format other than the default ODF format, go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T191043Z" creationid="olex" creationdate="20180402T191043Z">
+        <seg>Чтобы сохранять по умолчанию документы в формате, отличном от формата ODF, перейдите в &lt;f0&gt;Сервис &gt; Параметры &gt; Загрузка/Сохранение &gt; Общие&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
