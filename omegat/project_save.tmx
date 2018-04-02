@@ -2264,8 +2264,8 @@
       <tuv lang="EN-US">
         <seg>Calc provides many ways &lt;i0/&gt;to navigate within a spreadsheet from cell to cell and sheet to sheet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180402T193200Z" creationid="olex" creationdate="20180402T193200Z">
-        <seg>Calc предоставляет множество способов &lt;i0/&gt;для навигации внутри электронной таблицы от ячейки к ячейке и от листа к листу.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T195243Z" creationid="olex" creationdate="20180402T193200Z">
+        <seg>Calc предоставляет множество способов &lt;i0/&gt;перемещения внутри электронной таблицы от ячейки к ячейке и от листа к листу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2336,8 +2336,8 @@
       <tuv lang="EN-US">
         <seg>Cell navigation</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180326T180618Z" creationid="olex" creationdate="20180326T180618Z">
-        <seg>Навигация по ячейкам</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T195258Z" creationid="olex" creationdate="20180326T180618Z">
+        <seg>Перемещение по ячейкам</seg>
       </tuv>
     </tu>
     <tu>
@@ -8145,8 +8145,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Navigating within spreadsheets</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180402T192944Z" creationid="olex" creationdate="20180326T180409Z">
-        <seg>Навигация в электронных таблицах</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T195216Z" creationid="olex" creationdate="20180326T180409Z">
+        <seg>Перемещение в электронных таблицах</seg>
       </tuv>
     </tu>
     <tu>
@@ -14821,6 +14821,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>arrow keys</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T195429Z" creationid="olex" creationdate="20180402T195429Z">
+        <seg>клавиши стрелок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>cells</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T173550Z" creationid="olex" creationdate="20180328T173550Z">
@@ -15173,6 +15181,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>keyboard keys</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T195414Z" creationid="olex" creationdate="20180402T195414Z">
+        <seg>клавиши клавиатуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>keyboard shortcuts (macros)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135150Z" creationid="tagezi" creationdate="20180320T135150Z">
@@ -15303,16 +15319,16 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>navigate</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180402T193106Z" creationid="olex" creationdate="20180402T192645Z">
-        <seg>навигация</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T195222Z" creationid="olex" creationdate="20180402T192645Z">
+        <seg>перемещение</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>navigating</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180402T192926Z" creationid="olex" creationdate="20180402T192541Z">
-        <seg>навигация</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T195207Z" creationid="olex" creationdate="20180402T192541Z">
+        <seg>перемещение</seg>
       </tuv>
     </tu>
     <tu>
