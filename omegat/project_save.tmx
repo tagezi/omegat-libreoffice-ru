@@ -737,6 +737,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Using the mouse&lt;/f0&gt; – place the mouse pointer over the cell and click the left mouse button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T193823Z" creationid="olex" creationdate="20180402T193823Z">
+        <seg>&lt;f0&gt;Используя мышь&lt;/f0&gt; - поместите указатель мыши на ячейку и щелкните левой кнопкой мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;View&lt;/f0&gt; – contains commands for modifying how the Calc user interface looks; for example, &lt;f1&gt;Toolbars, Grids, Column &amp; Row Headers, Full Screen, Zoom.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T180844Z" creationid="olex" creationdate="20180328T180844Z">
@@ -11066,6 +11074,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The color of the cell border emphasis and the color of a group of selected cells depends on the operating system being used and how you have set up LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T193759Z" creationid="olex" creationdate="20180402T193759Z">
+        <seg>Цвет границы выделенной ячейки и цвет группы выбранных ячеек зависит от используемой операционной системы и от того, как вы настроили LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The column headers use an alpha character starting at A and go on to the right.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T181308Z" creationid="olex" creationdate="20180330T181043Z">
@@ -12695,6 +12711,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180318T121924Z" creationid="Роман" creationdate="20180317T174103Z">
         <seg>Для перемещения от одного заполнителя к другому в формуле нажимайте клавишу &lt;f0&gt;F4&lt;/f0&gt; key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To move the focus to another cell using the mouse, simply move the mouse pointer to the cell where you want the focus to be and click the left mouse button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T193927Z" creationid="olex" creationdate="20180402T193927Z">
+        <seg>Чтобы переместить фокус на другую ячейку с помощью мыши, просто переместите указатель мыши на ячейку, которую хотите выделить, и щелкните левой кнопкой мыши.</seg>
       </tuv>
     </tu>
     <tu>
