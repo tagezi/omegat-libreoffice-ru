@@ -745,6 +745,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Using the Navigator&lt;/f0&gt; – press the &lt;f1&gt;F5&lt;/f1&gt; key to open the Navigator dialog (Figure &lt;t2&gt;8&lt;/t2&gt;) or click the &lt;f3&gt;Navigator &lt;/f3&gt;button in the open Sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T194526Z" creationid="olex" creationdate="20180402T194526Z">
+        <seg>&lt;f0&gt;Используя навигатор&lt;/f0&gt; - нажмите клавишу &lt;f1&gt;F5&lt;/f1&gt;, чтобы открыть диалоговое окно Навигатор (Рисунок &lt;t2&gt;8&lt;/t2&gt;) или нажмите кнопку &lt;f3&gt;Навигатор&lt;/f3&gt; на открытой боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Using the mouse&lt;/f0&gt; – place the mouse pointer over the cell and click the left mouse button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T193823Z" creationid="olex" creationdate="20180402T193823Z">
@@ -2314,6 +2322,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T180618Z" creationid="olex" creationdate="20180326T180618Z">
         <seg>Навигация по ячейкам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cell references are case-insensitive: for example, typing either a3 or A3 will move the focus to cell A3.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T194359Z" creationid="olex" creationdate="20180402T194359Z">
+        <seg>Ссылки на ячейки нечувствительны к регистру букв: например, ввод a3 или A3 переместит фокус на ячейку A3.</seg>
       </tuv>
     </tu>
     <tu>
