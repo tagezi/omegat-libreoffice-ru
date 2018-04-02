@@ -3738,6 +3738,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter a name for your image in the &lt;f0&gt;File name&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T192111Z" creationid="olex" creationdate="20180402T192111Z">
+        <seg>Введите имя вашего изображения в поле &lt;f0&gt;Имя&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter markup language directly in the Formula Editor.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180315T193326Z" creationid="Роман" creationdate="20180315T193326Z">
@@ -9542,6 +9550,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;File – Export...&lt;/f0&gt; to open the Export dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T191959Z" creationid="olex" creationdate="20180402T191959Z">
+        <seg>Выберите в меню &lt;f0&gt;Файл &gt; Экспорт...&lt;/f0&gt;, чтобы открыть диалоговое окно Экспорт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Greek&lt;/f0&gt; from the &lt;f1&gt;Symbol set&lt;/f1&gt; drop-down list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204432Z" creationid="Роман" creationdate="20180316T204432Z">
@@ -9795,6 +9811,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T122954Z" creationid="tagezi" creationdate="20180320T122954Z">
         <seg>Для импорта библиотеки макросов, выберите контейнер библиотек для использования, а затем нажмите кнопку &lt;f0&gt;Импорт&lt;/f0&gt; (Рисунок &lt;t1&gt;2&lt;/t1&gt; на странице &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the range or the group of shapes in your spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T191825Z" creationid="olex" creationdate="20180402T191825Z">
+        <seg>Выберите диапазон ячеек или группу фигур в электронной таблице.</seg>
       </tuv>
     </tu>
     <tu>
