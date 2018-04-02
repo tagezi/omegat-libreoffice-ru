@@ -6165,6 +6165,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In &lt;f1&gt;Default file format&lt;/f1&gt; and &lt;f2&gt;ODF settings &gt; Document type&lt;/f2&gt;, select &lt;f3&gt;Spreadsheet,&lt;/f3&gt; then in &lt;f4&gt;Always save as&lt;/f4&gt;, select your preferred file format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T191404Z" creationid="olex" creationdate="20180402T191404Z">
+        <seg>В секции &lt;f1&gt;Формат файла по умолчанию&lt;/f1&gt; и &lt;f2&gt;настройки ODF &gt; Тип документа&lt;/f2&gt; выберите &lt;f3&gt;Электронная таблица&lt;/f3&gt;, а затем в &lt;f4&gt;Всегда сохранять как&lt;/f4&gt;, выберите предпочтительный для вас формат файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Calc, click in the spreadsheet cell where you want to insert the formula.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T154301Z" creationid="User" creationdate="20180311T154301Z">
