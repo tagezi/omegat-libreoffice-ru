@@ -3874,6 +3874,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exporting contents as image</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T191418Z" creationid="olex" creationdate="20180402T191418Z">
+        <seg>Экспорт содержимого в виде изображения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exporting to other formats</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181950Z" creationid="tagezi" creationdate="20180304T181950Z">
@@ -6033,6 +6041,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T092702Z" creationid="tagezi" creationdate="20180315T092702Z">
         <seg>Если вы используете символические константы, определенные интерфейсом прикладного программирования (API), безопаснее предположить, что имена будут чувствительны к регистру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to send a fragment of your spreadsheet to a colleague, business partner or publish it in the internet, Calc can export a range selection or a selected group of shapes (images) to a PNG or JPG graphics format:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T191736Z" creationid="olex" creationdate="20180402T191736Z">
+        <seg>Если вы хотите отправить фрагмент своей таблицы коллеге, деловому партнеру или опубликовать его в Интернете, то в Calc можно экспортировать выделенный диапазон или выбранную группу фигур (изображений) в формате PNG или JPG:</seg>
       </tuv>
     </tu>
     <tu>
