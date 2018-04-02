@@ -4173,6 +4173,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Confirm File Format dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T190116Z" creationid="olex" creationdate="20180402T190116Z">
+        <seg>Рисунок &lt;seq0&gt;6&lt;/seq0&gt;: Диалоговое окно Подтверждение формата файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Macro Library hierarchy</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103305Z" creationid="tagezi" creationdate="20180320T103305Z">
@@ -5977,6 +5985,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T181033Z" creationid="olex" creationdate="20180402T181033Z">
         <seg>Если вам нужно обмениваться файлами с пользователями, которые не могут получать файлы электронных таблиц в Open Document Format (ODF) (&lt;f0&gt;*.ods&lt;/f0&gt;), который Calc использует как формат по умолчанию, то вы можете сохранить электронную таблицу в другом формате ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you select &lt;f0&gt;Text CSV&lt;/f0&gt; format (&lt;f1&gt;*.csv&lt;/f1&gt;) for your spreadsheet, the &lt;f2&gt;Export Text File&lt;/f2&gt; dialog (Figure &lt;t3&gt;7&lt;/t3&gt;) may open.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T190415Z" creationid="olex" creationdate="20180402T190415Z">
+        <seg>Если вы выбрали формат &lt;f0&gt;Текст CSV&lt;/f0&gt; (&lt;f1&gt;*.csv&lt;/f1&gt;) для вашей таблицы, то откроется диалоговое окно &lt;f2&gt;Экспорт в текстовый файл&lt;/f2&gt; (Рисунок &lt;t3&gt;7&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
