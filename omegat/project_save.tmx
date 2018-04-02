@@ -737,6 +737,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Using a cell reference&lt;/f0&gt;&lt;re1/&gt; – highlight or delete the existing cell reference in the Name Box on the Formula Bar (Figure &lt;t2&gt;2&lt;/t2&gt;&lt;s3/&gt;on page &lt;t4&gt;9&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T194209Z" creationid="olex" creationdate="20180402T194209Z">
+        <seg>&lt;f0&gt;Использование ссылки на ячейку&lt;/f0&gt;&lt;re1/&gt; - выделите или удалите существующую ссылку на ячейку в поле имени на панели формул (Рисунок &lt;t2&gt;2&lt;/t2&gt;&lt;s3/&gt; на странице &lt;t4&gt;9&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Using the mouse&lt;/f0&gt; – place the mouse pointer over the cell and click the left mouse button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T193823Z" creationid="olex" creationdate="20180402T193823Z">
@@ -12971,6 +12979,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T115629Z" creationid="tagezi" creationdate="20180313T115629Z">
         <seg>Введите желаемую информацию или выполните соответствующую последовательность операций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type the new cell reference of the cell you want to move to and press &lt;f5&gt;Enter&lt;/f5&gt; key.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T194315Z" creationid="olex" creationdate="20180402T194315Z">
+        <seg>Введите новую ссылку на ячейки, на которую вы хотите переместить фокус, и нажмите клавишу &lt;f5&gt;Enter&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
