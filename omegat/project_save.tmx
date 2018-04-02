@@ -2222,6 +2222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calc provides many ways &lt;i0/&gt;to navigate within a spreadsheet from cell to cell and sheet to sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T193200Z" creationid="olex" creationdate="20180402T193200Z">
+        <seg>Calc предоставляет множество способов &lt;i0/&gt;для навигации внутри электронной таблицы от ячейки к ячейке и от листа к листу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calc toolbars can be either docked and fixed in place, or floating; you can move a toolbar into a more convenient position on the workspace.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T174155Z" creationid="olex" creationdate="20180329T174055Z">
@@ -13596,6 +13604,22 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a cell is selected or in focus, the cell borders are emphasized.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T193535Z" creationid="olex" creationdate="20180402T193500Z">
+        <seg>Если  ячейка выбрана или находится в фокусе, то границы ячейки выделены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a group of cells is selected, the cell area is colored.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T193641Z" creationid="olex" creationdate="20180402T193523Z">
+        <seg>Если выбрана группа ячеек, то область ячеек выделяется цветом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a library is used as a reference, it remains in its current location and is read only.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T132100Z" creationid="tagezi" creationdate="20180320T132100Z">
@@ -14264,6 +14288,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T181343Z" creationid="olex" creationdate="20180327T181343Z">
         <seg>Вы можете вводить в электронную таблицу данные (обычно числовые), а затем манипулировать этими данными для получения определенных результатов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can generally use the method you prefer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180402T193254Z" creationid="olex" creationdate="20180402T193254Z">
+        <seg>Вы можете использовать метод, который для вас предпочтительный.</seg>
       </tuv>
     </tu>
     <tu>
