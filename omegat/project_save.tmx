@@ -4106,6 +4106,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Right-click any arrow button</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T173249Z" creationid="olex" creationdate="20180403T173249Z">
+        <seg>Рисунок &lt;seq0&gt;10&lt;/seq0&gt;: Щелчок правой кнопкой мыши на любой кнопке со стрелкой</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Getting more templates for LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T202342Z" creationid="olex" creationdate="20180311T202342Z">
@@ -4417,6 +4425,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T140611Z" creationid="tagezi" creationdate="20180320T140611Z">
         <seg>Рисунок &lt;seq0&gt;9&lt;/seq0&gt;: Вкладка Меню в диалоговом окне Настройка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Navigating sheet tabs</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T173134Z" creationid="olex" creationdate="20180403T173134Z">
+        <seg>Рисунок &lt;seq0&gt;9&lt;/seq0&gt;: Навигация по вкладкам листов</seg>
       </tuv>
     </tu>
     <tu>
@@ -7072,6 +7088,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T214023Z" creationid="lera" creationdate="20180303T213942Z">
         <seg>Он является общедоступным, не требующий лицензионных отчислений и без юридических или иных ограничений; поэтому файлы ODF не привязаны к конкретному офисному пакету, и любой может создать программу, которая интерпретирует эти файлы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is recommended to rename sheets in a spreadsheet to make them more recognizable.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T173115Z" creationid="olex" creationdate="20180403T173115Z">
+        <seg>Рекомендуется переименовывать листы в электронной таблице, чтобы сделать их более узнаваемыми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12903,6 +12927,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T193927Z" creationid="olex" creationdate="20180402T193927Z">
         <seg>Чтобы переместить фокус на другую ячейку с помощью мыши, просто переместите указатель мыши на ячейку, которую хотите выделить, и щелкните левой кнопкой мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To navigate a spreadsheet using the keyboard, pressing a key or a combination of keys.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T173545Z" creationid="olex" creationdate="20180403T173545Z">
+        <seg>Для навигации по электронной таблице с используйте клавиатуру, нажимая клавишу или комбинацию клавиш.</seg>
       </tuv>
     </tu>
     <tu>
