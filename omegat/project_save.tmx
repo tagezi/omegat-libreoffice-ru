@@ -825,6 +825,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Using the keyboard&lt;/f0&gt; – use key combinations &lt;f1&gt;Ctrl+Page Down&lt;/f1&gt; to move one sheet to the right and &lt;f2&gt;Ctrl+Page Up&lt;/f2&gt; to move one sheet to the left.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T171803Z" creationid="olex" creationdate="20180403T171803Z">
+        <seg>&lt;f0&gt;Использование клавиатуры&lt;/f0&gt; - используйте комбинации клавиш &lt;f1&gt;Ctrl+Page Down&lt;/f1&gt;, чтобы переместиться на один лист вправо и &lt;f2&gt;Ctrl+Page Up&lt;/f2&gt;, чтобы переместиться на один лист влево.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Using the mouse&lt;/f0&gt; – click on one of the sheet tabs at the bottom of the spreadsheet to select that sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T171911Z" creationid="olex" creationdate="20180403T171911Z">
+        <seg>&lt;f0&gt;Используя мышь&lt;/f0&gt; - нажмите на одну из вкладок листа в нижней части электронной таблицы, чтобы выбрать этот лист.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Using the mouse&lt;/f0&gt; – place the mouse pointer over the cell and click the left mouse button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T193823Z" creationid="olex" creationdate="20180402T193823Z">
