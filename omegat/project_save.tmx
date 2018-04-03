@@ -3160,6 +3160,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Customizing&lt;i0/&gt; the Enter key</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T182456Z" creationid="olex" creationdate="20180403T182456Z">
+        <seg>Настройка&lt;i0/&gt; клавиши Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data Interchange Format (.dif)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T065508Z" creationid="tagezi" creationdate="20180305T065508Z">
@@ -3894,6 +3902,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T192111Z" creationid="olex" creationdate="20180402T192111Z">
         <seg>Введите имя вашего изображения в поле &lt;f0&gt;Имя&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter key</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T182351Z" creationid="olex" creationdate="20180403T182351Z">
+        <seg>Клавиша Enter</seg>
       </tuv>
     </tu>
     <tu>
@@ -8416,6 +8432,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moves cell focus up one cell (unless changed by user).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T182247Z" creationid="olex" creationdate="20180403T182247Z">
+        <seg>Перемещает фокус на одну ячейку вверх (если это не изменено пользователем).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moves cell focus up one cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T175209Z" creationid="olex" creationdate="20180403T174301Z">
@@ -9953,8 +9977,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>See the next topic.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T182207Z" creationid="olex" creationdate="20180403T182207Z">
-        <seg>Смотри следующую строку.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T182338Z" creationid="olex" creationdate="20180403T182207Z">
+        <seg>Смотри следующий раздел.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15354,6 +15378,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180321T190955Z" creationid="olex" creationdate="20180309T193744Z">
         <seg>пользовательских</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>customizing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T182435Z" creationid="olex" creationdate="20180403T182435Z">
+        <seg>настройка</seg>
       </tuv>
     </tu>
     <tu>
