@@ -8250,8 +8250,16 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Moves cell focus to the first column on the right containing data in that row if cell focus is on a blank cell.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174549Z" creationid="olex" creationdate="20180403T174549Z">
-        <seg>Перемещает фокус в ближайший справа столбец, который содержит данные в текущей строке, если фокус ячейки находился на пустой ячейке.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174824Z" creationid="olex" creationdate="20180403T174549Z">
+        <seg>Перемещает фокус в ближайший справа столбец, который содержит данные в текущей строке, если фокус находился на пустой ячейке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves cell focus to the last column on the right in the same range of occupied cells &lt;t0/&gt;in that row if cell focus is on a cell containing data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174849Z" creationid="olex" creationdate="20180403T174818Z">
+        <seg>Или перемещает фокус на ближайший справа столбец в диапазоне заполненных ячеек &lt;t0/&gt;в этой строке, если была выделена ячейка, содержащая данные.</seg>
       </tuv>
     </tu>
     <tu>
