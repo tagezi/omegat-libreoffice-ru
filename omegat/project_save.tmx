@@ -8290,16 +8290,16 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Moves cell focus one screen to the left (if possible).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T181253Z" creationid="olex" creationdate="20180403T181253Z">
-        <seg>Перемещение фокуса на один экран влево (если это возможно).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T181539Z" creationid="olex" creationdate="20180403T181253Z">
+        <seg>Перемещает фокус на один экран влево (если это возможно).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Moves cell focus one screen to the right (if possible).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T181206Z" creationid="olex" creationdate="20180403T181206Z">
-        <seg>Перемещение фокуса на размер экрана вправо (если это возможно).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T181531Z" creationid="olex" creationdate="20180403T181206Z">
+        <seg>Перемещает фокус на размер экрана вправо (если это возможно).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8314,16 +8314,16 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Moves cell focus to the &lt;s0/&gt;cell on the next sheet to the left in sheet tabs where the focus was there before; if the spreadsheet has more than on sheet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T181516Z" creationid="olex" creationdate="20180403T181516Z">
-        <seg>Перемещает фокус ячейки в ячейку &lt;s0 /&gt; на следующем листе слева на вкладках листа, где раньше был фокус; если таблица имеет больше, чем на листе.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T181753Z" creationid="olex" creationdate="20180403T181516Z">
+        <seg>Перемещает фокус на ячейку &lt;s0/&gt;предыдущего по вкладкам листа (слева от текущего), .</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Moves cell focus to the cell on the next sheet to the right in sheet tabs where the focus was there before; if the spreadsheet has more than one sheet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T181448Z" creationid="olex" creationdate="20180403T181448Z">
-        <seg>Перемещение фокуса на ячейку на следующего листа справа от текущего, если электронная таблица содержит более чем один лист.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T181823Z" creationid="olex" creationdate="20180403T181448Z">
+        <seg>Перемещает фокус на ячейку следующего по вкладкам листа (справа от текущего), если электронная таблица состоит из более чем одного листа.</seg>
       </tuv>
     </tu>
     <tu>
