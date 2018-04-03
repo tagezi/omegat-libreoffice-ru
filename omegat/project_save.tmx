@@ -8240,6 +8240,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moves cell focus from a blank cell to the first cell below containing data in the same column.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T180509Z" creationid="olex" creationdate="20180403T180509Z">
+        <seg>Перемещает фокус из пустой ячейки в ближайшую ячейку ниже, которая содержит данные в текущем столбце.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moves cell focus from the last cell containing data to the cell in the same column in the first row of the spreadsheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T180440Z" creationid="olex" creationdate="20180403T180440Z">
@@ -8290,8 +8298,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Moves cell focus to the first row in the same range of occupied cells if cell focus is on a cell containing data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T180157Z" creationid="olex" creationdate="20180403T180157Z">
-        <seg>Перемещает фокус в ближайшую строку в диапазоне заполненных ячеек в этом столбце, если была выделена ячейка, содержащая данные.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T180559Z" creationid="olex" creationdate="20180403T180157Z">
+        <seg>Перемещает фокус в ближайшую сверху строку в диапазоне заполненных ячеек в этом столбце, если была выделена ячейка, содержащая данные.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8316,6 +8324,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T175854Z" creationid="olex" creationdate="20180403T175057Z">
         <seg>Перемещает фокус на последний справа столбец в строке электронной таблицы, если правее нет ячеек, содержащих данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves cell focus to the last row in the same range of occupied cells in that column if cell focus is on a cell containing data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T180615Z" creationid="olex" creationdate="20180403T180536Z">
+        <seg>Перемещает фокус в ближайшую снизу строку в диапазоне заполненных ячеек в этом столбце, если была выделена ячейка, содержащая данные.</seg>
       </tuv>
     </tu>
     <tu>
