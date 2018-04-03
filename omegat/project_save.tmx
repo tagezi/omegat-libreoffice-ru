@@ -8248,10 +8248,34 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moves cell focus from anywhere on the spreadsheet to Cell A1 on the same sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T180752Z" creationid="olex" creationdate="20180403T180752Z">
+        <seg>Перемещает фокус из любой точки таблицы в ячейку A1 на текущем листе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves cell focus from anywhere on the spreadsheet to the last cell in the lower right-hand corner of the rectangular area of cells containing data on the same sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T181110Z" creationid="olex" creationdate="20180403T181110Z">
+        <seg>Перемещает фокус из любой точки таблицы в самую нижнюю и самую правую ячейку, содержащую данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moves cell focus from the last cell containing data to the cell in the same column in the first row of the spreadsheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T180440Z" creationid="olex" creationdate="20180403T180440Z">
         <seg>Перемещает фокус на самую первую строку этого столбца электронной таблицы, если выше нет ячеек, содержащих данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves cell focus from the last cell containing data to the cell in the same column in the last row of the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T180701Z" creationid="olex" creationdate="20180403T180701Z">
+        <seg>Перемещает фокус на самую последнюю строку этого столбца электронной таблицы, если ниже нет ячеек, содержащих данные.</seg>
       </tuv>
     </tu>
     <tu>
