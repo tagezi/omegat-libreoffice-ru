@@ -9502,6 +9502,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-clicking on any of the arrows opens a context menu where you can select a sheet (see Figure &lt;t0&gt;10&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T172357Z" creationid="olex" creationdate="20180403T172357Z">
+        <seg>Щелчок правой кнопкой мыши по любой из стрелок открывает контекстное меню, в котором вы можете выбрать лист (смотрите Рисунок &lt;t0&gt;10&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Running a macro</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T152649Z" creationid="tagezi" creationdate="20180313T152649Z">
@@ -13612,6 +13620,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using the four buttons to the left of the sheet tabs can move the tabs into view (Figure &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T172218Z" creationid="olex" creationdate="20180403T172218Z">
+        <seg>Используя четыре кнопки слева от вкладок листа, вы можете перемещать вкладки (Рисунок &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the keyboard</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T174115Z" creationid="olex" creationdate="20180326T191704Z">
@@ -14008,6 +14024,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T200611Z" creationid="olex" creationdate="20180316T200611Z">
         <seg>Когда вы вставляете верхний колонтитул в стиль страницы, настроенный для зеркальных страниц (или правых и левых страниц), вы можете сделать содержимое заголовка одинаковым для всех страниц или различным для правой и левой страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you insert a new sheet into a spreadsheet, Calc automatically uses the next number in the numeric sequence as a name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T172621Z" creationid="olex" creationdate="20180403T172621Z">
+        <seg>Когда вы создаете новый лист в электронной таблице, Calc автоматически использует следующий порядковый номер в числовой нумерации в качестве имени листа.</seg>
       </tuv>
     </tu>
     <tu>
