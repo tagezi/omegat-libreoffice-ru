@@ -803,8 +803,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Using the Navigator&lt;/f0&gt; – when the Navigator is open (Figure &lt;t1&gt;8&lt;/t1&gt;), double-click on any of the listed sheets to select the sheet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T171527Z" creationid="olex" creationdate="20180403T171527Z">
-        <seg>&lt;f0&gt;Используя Навигатор&lt;/f0&gt; - когда открыт Навигатор (Рисунок &lt;t1&gt;8&lt;/t1&gt;), щелкните дважды по любому из листов, чтобы выбрать его.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T171933Z" creationid="olex" creationdate="20180403T171527Z">
+        <seg>&lt;f0&gt;Используя Навигатор&lt;/f0&gt; - когда открыт Навигатор (Рисунок &lt;t1&gt;8&lt;/t1&gt;), щелкните дважды по любому из перечисленных листов, чтобы выбрать его.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5980,6 +5980,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this is the case:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T172136Z" creationid="olex" creationdate="20180403T172136Z">
+        <seg>В таком случае:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If using LibreOffice dialogs, rather than the operating system specific dialogs, type the name of the desired directory in the Name field.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T125952Z" creationid="tagezi" creationdate="20180320T125952Z">
@@ -6241,6 +6249,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T195712Z" creationid="olex" creationdate="20180310T195604Z">
         <seg>Если у вашего документа есть оглавление, и вы использовали пользовательские стили для заголовков, то уровни заголовков, связанные с уровнями оглавления в &lt;f0&gt;Сервис &gt; Нумерация глав...&lt;/f0&gt;, вернутся к значениям по умолчанию: Заголовок 1, Заголовок 2, и т. д.,- когда вы загружаете текстовые стили из файла, который не использует такие же пользовательские стили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your spreadsheet contains a lot of sheets, then some of the sheet tabs may be hidden.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T172113Z" creationid="olex" creationdate="20180403T172113Z">
+        <seg>Если ваша таблица содержит большое количество листов, то некоторые вкладки листа могут быть не видны.</seg>
       </tuv>
     </tu>
     <tu>
