@@ -801,6 +801,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Using the Navigator&lt;/f0&gt; – when the Navigator is open (Figure &lt;t1&gt;8&lt;/t1&gt;), double-click on any of the listed sheets to select the sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T171527Z" creationid="olex" creationdate="20180403T171527Z">
+        <seg>&lt;f0&gt;Используя Навигатор&lt;/f0&gt; - когда открыт Навигатор (Рисунок &lt;t1&gt;8&lt;/t1&gt;), щелкните дважды по любому из листов, чтобы выбрать его.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Using the Tab key&lt;/f0&gt; – pressing Tab moves the cell focus right in a row to the next column.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T194957Z" creationid="olex" creationdate="20180402T194957Z">
@@ -12033,6 +12041,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T190840Z" creationid="olex" creationdate="20180315T190840Z">
         <seg>Существует много других способов использования стилей; подробнее смотрите руководства для различных модулей LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are three ways to navigate between sheets in a spreadsheet:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T171316Z" creationid="olex" creationdate="20180403T171316Z">
+        <seg>Для перемещения между листами в электронной таблице существует три способа:</seg>
       </tuv>
     </tu>
     <tu>
