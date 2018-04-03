@@ -8224,6 +8224,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moves cell focus down one cell</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174311Z" creationid="olex" creationdate="20180403T174311Z">
+        <seg>Перемещение фокуса на одну ячейку вниз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moves cell focus left one cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T174208Z" creationid="olex" creationdate="20180403T174208Z">
@@ -8236,6 +8244,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T174235Z" creationid="olex" creationdate="20180403T174142Z">
         <seg>Перемещение фокуса на одну ячейку вправо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves cell focus to the first column on the right containing data in that row if cell focus is on a blank cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174549Z" creationid="olex" creationdate="20180403T174549Z">
+        <seg>Перемещает фокус в ближайший справа столбец, который содержит данные в текущей строке, если фокус ячейки находился на пустой ячейке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves cell focus up one cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174301Z" creationid="olex" creationdate="20180403T174301Z">
+        <seg>Перемещение фокуса на одну ячейку вверх.</seg>
       </tuv>
     </tu>
     <tu>
