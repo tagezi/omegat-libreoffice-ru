@@ -7227,6 +7227,15 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: в глоссарии слово клавиш написано с мягким знаком: клавишь</note>
+      <tuv lang="EN-US">
+        <seg>Keyboard shortcut</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174057Z" creationid="olex" creationdate="20180403T174057Z">
+        <seg>Сочетания клавиш</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Keyboard shortcuts</seg>
       </tuv>
@@ -8211,6 +8220,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T121110Z" creationid="tagezi" creationdate="20180311T121110Z">
         <seg>Большинство задач в LibreOffice реализовываются путем «выполнения команды» (отправки команды), которая перехватывается и используется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves cell focus left one cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174208Z" creationid="olex" creationdate="20180403T174208Z">
+        <seg>Перемещение фокуса на одну ячейку влево.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves cell focus right one cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174235Z" creationid="olex" creationdate="20180403T174142Z">
+        <seg>Перемещение фокуса на одну ячейку вправо.</seg>
       </tuv>
     </tu>
     <tu>
