@@ -8248,9 +8248,25 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moves cell focus to the first column in that row if there are no more cells containing data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T175710Z" creationid="olex" creationdate="20180403T175710Z">
+        <seg>Перемещает фокус ячейки в первый столбец в этой строке, если больше нет ячеек, содержащих данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves cell focus to the first column on the left in the same range of occupied cells in that row if cell focus is on a cell containing data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T175633Z" creationid="olex" creationdate="20180403T175633Z">
+        <seg>Перемещает фокус ячейки в ближайший слева столбец в диапазоне заполненных ячеек в этой строке, если была выделена ячейка, содержащая данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moves cell focus to the first column on the right containing data in that row if cell focus is on a blank cell.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174925Z" creationid="olex" creationdate="20180403T174549Z">
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T175453Z" creationid="olex" creationdate="20180403T174549Z">
         <seg>Перемещает фокус в ближайший справа столбец, который содержит данные в текущей строке, если была выделена пустая ячейка.</seg>
       </tuv>
     </tu>
@@ -8258,8 +8274,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Moves cell focus to the last column on the left containing data in that row if cell focus is on a blank cell.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T175358Z" creationid="olex" creationdate="20180403T175358Z">
-        <seg>Перемещает фокус ячейки на ближайший столбец слева, который содержит данные, в текущей строке, если фокус ячейки находится в пустой ячейке.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T175515Z" creationid="olex" creationdate="20180403T175358Z">
+        <seg>Перемещает фокус ячейки на ближайший слева столбец, который содержит данные в текущей строке, была выделена пустая ячейка.</seg>
       </tuv>
     </tu>
     <tu>
