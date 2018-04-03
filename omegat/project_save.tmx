@@ -8226,48 +8226,64 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Moves cell focus down one cell</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174311Z" creationid="olex" creationdate="20180403T174311Z">
-        <seg>Перемещение фокуса на одну ячейку вниз.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T175218Z" creationid="olex" creationdate="20180403T174311Z">
+        <seg>Перемещает фокус на одну ячейку вниз.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Moves cell focus left one cell.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174208Z" creationid="olex" creationdate="20180403T174208Z">
-        <seg>Перемещение фокуса на одну ячейку влево.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T175201Z" creationid="olex" creationdate="20180403T174208Z">
+        <seg>Перемещает фокус на одну ячейку влево.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Moves cell focus right one cell.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174235Z" creationid="olex" creationdate="20180403T174142Z">
-        <seg>Перемещение фокуса на одну ячейку вправо.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T175154Z" creationid="olex" creationdate="20180403T174142Z">
+        <seg>Перемещает фокус на одну ячейку вправо.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Moves cell focus to the first column on the right containing data in that row if cell focus is on a blank cell.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174824Z" creationid="olex" creationdate="20180403T174549Z">
-        <seg>Перемещает фокус в ближайший справа столбец, который содержит данные в текущей строке, если фокус находился на пустой ячейке.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174925Z" creationid="olex" creationdate="20180403T174549Z">
+        <seg>Перемещает фокус в ближайший справа столбец, который содержит данные в текущей строке, если была выделена пустая ячейка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves cell focus to the last column on the left containing data in that row if cell focus is on a blank cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T175358Z" creationid="olex" creationdate="20180403T175358Z">
+        <seg>Перемещает фокус ячейки на ближайший столбец слева, который содержит данные, в текущей строке, если фокус ячейки находится в пустой ячейке.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Moves cell focus to the last column on the right in the same range of occupied cells &lt;t0/&gt;in that row if cell focus is on a cell containing data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174849Z" creationid="olex" creationdate="20180403T174818Z">
-        <seg>Или перемещает фокус на ближайший справа столбец в диапазоне заполненных ячеек &lt;t0/&gt;в этой строке, если была выделена ячейка, содержащая данные.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174936Z" creationid="olex" creationdate="20180403T174818Z">
+        <seg>Перемещает фокус на ближайший справа столбец в диапазоне заполненных ячеек &lt;t0/&gt;в этой строке, если была выделена ячейка, содержащая данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves cell focus to the last column on the right in the spreadsheet if there are no more cells containing data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T175057Z" creationid="olex" creationdate="20180403T175057Z">
+        <seg>Перемещает фокус ячейки на последний справа столбец в электронной таблице, если правее нет ячеек, содержащих данные.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Moves cell focus up one cell.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T174301Z" creationid="olex" creationdate="20180403T174301Z">
-        <seg>Перемещение фокуса на одну ячейку вверх.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T175209Z" creationid="olex" creationdate="20180403T174301Z">
+        <seg>Перемещает фокус на одну ячейку вверх.</seg>
       </tuv>
     </tu>
     <tu>
