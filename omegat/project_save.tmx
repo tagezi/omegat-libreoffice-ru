@@ -8288,6 +8288,22 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moves cell focus one screen to the left (if possible).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T181253Z" creationid="olex" creationdate="20180403T181253Z">
+        <seg>Перемещение фокуса на один экран влево (если это возможно).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves cell focus one screen to the right (if possible).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T181206Z" creationid="olex" creationdate="20180403T181206Z">
+        <seg>Перемещение фокуса на размер экрана вправо (если это возможно).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moves cell focus right one cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T175154Z" creationid="olex" creationdate="20180403T174142Z">
