@@ -7212,10 +7212,18 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keyboard cell navigation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T173833Z" creationid="olex" creationdate="20180403T173833Z">
+        <seg>Перемещение по ячейкам с помощью клавиатуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keyboard navigation</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180326T180730Z" creationid="olex" creationdate="20180326T180730Z">
-        <seg>Навигация при помощи клавиатуры</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T173845Z" creationid="olex" creationdate="20180326T180730Z">
+        <seg>Перемещения при помощи клавиатуры</seg>
       </tuv>
     </tu>
     <tu>
@@ -10698,6 +10706,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;lists the keys and key combinations you can use for spreadsheet navigation in Calc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T173921Z" creationid="olex" creationdate="20180403T173725Z">
+        <seg>Таблица &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt; перечисляет клавиши и комбинации клавиш, которые вы можете использовать для перемещения по электронным таблицам в Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table &lt;t7&gt;2&lt;/t7&gt;&lt;s8/&gt;shows some examples of using markup language to enter commands.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201126Z" creationid="Роман" creationdate="20180316T201126Z">
@@ -12941,8 +12957,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To navigate a spreadsheet using the keyboard, pressing a key or a combination of keys.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T173545Z" creationid="olex" creationdate="20180403T173545Z">
-        <seg>Для навигации по электронной таблице с используйте клавиатуру, нажимая клавишу или комбинацию клавиш.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T173908Z" creationid="olex" creationdate="20180403T173545Z">
+        <seg>Для перемещения по электронной таблице используйте клавиатуру, нажимая клавишу или комбинацию клавиш.</seg>
       </tuv>
     </tu>
     <tu>
