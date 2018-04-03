@@ -8232,6 +8232,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moves cell focus down one cell (unless changed by user).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T182051Z" creationid="olex" creationdate="20180403T182051Z">
+        <seg>Перемещает фокус на одну ячейку вниз (если это не изменено пользователем).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moves cell focus from a blank cell to the first cell above containing data in the same column.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T180023Z" creationid="olex" creationdate="20180403T175829Z">
@@ -8314,8 +8322,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Moves cell focus to the &lt;s0/&gt;cell on the next sheet to the left in sheet tabs where the focus was there before; if the spreadsheet has more than on sheet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T181753Z" creationid="olex" creationdate="20180403T181516Z">
-        <seg>Перемещает фокус на ячейку &lt;s0/&gt;предыдущего по вкладкам листа (слева от текущего), .</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T181838Z" creationid="olex" creationdate="20180403T181516Z">
+        <seg>Перемещает фокус на ячейку &lt;s0/&gt;предыдущего по вкладкам листа (слева от текущего), если электронная таблица состоит из более чем одного листа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8388,6 +8396,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T180615Z" creationid="olex" creationdate="20180403T180536Z">
         <seg>Перемещает фокус в ближайшую снизу строку в диапазоне заполненных ячеек в этом столбце, если была выделена ячейка, содержащая данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves cell focus to the next cell on the left.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T182007Z" creationid="olex" creationdate="20180403T181935Z">
+        <seg>Перемещает фокус в следующую ячейку слева.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves cell focus to the next cell on the right.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T181943Z" creationid="olex" creationdate="20180403T181910Z">
+        <seg>Перемещает фокус в следующую ячейку справа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9923,6 +9947,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180632Z" creationid="olex" creationdate="20180308T180632Z">
         <seg>Смотрите главы про стили в руководстве пользователя для детальной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the next topic.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T182207Z" creationid="olex" creationdate="20180403T182207Z">
+        <seg>Смотри следующую строку.</seg>
       </tuv>
     </tu>
     <tu>
