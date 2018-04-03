@@ -8312,6 +8312,22 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moves cell focus to the &lt;s0/&gt;cell on the next sheet to the left in sheet tabs where the focus was there before; if the spreadsheet has more than on sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T181516Z" creationid="olex" creationdate="20180403T181516Z">
+        <seg>Перемещает фокус ячейки в ячейку &lt;s0 /&gt; на следующем листе слева на вкладках листа, где раньше был фокус; если таблица имеет больше, чем на листе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves cell focus to the cell on the next sheet to the right in sheet tabs where the focus was there before; if the spreadsheet has more than one sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180403T181448Z" creationid="olex" creationdate="20180403T181448Z">
+        <seg>Перемещение фокуса на ячейку на следующего листа справа от текущего, если электронная таблица содержит более чем один лист.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moves cell focus to the first column in that row if there are no more cells containing data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T175801Z" creationid="olex" creationdate="20180403T175710Z">
