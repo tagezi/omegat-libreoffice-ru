@@ -4869,6 +4869,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, to select the range that would go from A3 to C6, you would enter &lt;f3&gt;A3:C6&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T204617Z" creationid="olex" creationdate="20180404T204617Z">
+        <seg>Например, чтобы выбрать диапазон ячеек от A3 до C6, вы должны ввести &lt;f3&gt;A3:C6&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, typing %LAMBDA creates the Greek character Λ.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T203320Z" creationid="Роман" creationdate="20180316T203320Z">
