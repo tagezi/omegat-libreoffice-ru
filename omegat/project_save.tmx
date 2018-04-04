@@ -7301,6 +7301,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Left-click in the cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T202021Z" creationid="olex" creationdate="20180404T202021Z">
+        <seg>Щелкните левой кнопкой мыши в ячейке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lera Goncaruk</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T091400Z" creationid="tagezi" creationdate="20180305T091400Z">
@@ -14998,6 +15006,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can verify your selection by looking in the Name Box on the Formula Bar (Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;9&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T202231Z" creationid="olex" creationdate="20180404T202231Z">
+        <seg>Вы можете проверить правильность выбора, посмотрев в поле Имя на панели формул (Рисунок &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt; на странице &lt;t2&gt;9&lt;/t2&gt;)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can write a macro so that values can be passed to the subroutine.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T114721Z" creationid="tagezi" creationdate="20180315T114612Z">
@@ -15320,8 +15336,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>cells, in Calc</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180402T192937Z" creationid="olex" creationdate="20180402T192609Z">
-        <seg>по ячейкам в Calc</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T201934Z" creationid="olex" creationdate="20180402T192609Z">
+        <seg>ячеек в Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -15938,6 +15954,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T194600Z" creationid="olex" creationdate="20180330T194600Z">
         <seg>сохранения электронных таблиц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>selecting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T201919Z" creationid="olex" creationdate="20180404T201919Z">
+        <seg>выделение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>selection, in Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T201948Z" creationid="olex" creationdate="20180404T201948Z">
+        <seg>выделение, в Calc</seg>
       </tuv>
     </tu>
     <tu>
