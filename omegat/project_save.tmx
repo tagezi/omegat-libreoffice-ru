@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5424,6 +5424,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T182043Z" creationid="olex" creationdate="20180327T182002Z">
         <seg>Функции, которые могут использоваться для создания формул, для выполнения сложных вычислений по данным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generation of Random Numbers in Calc Tony Richardson richardson.tony@gmail.com University of Evansville December 9, 2013 The LibreOffice/OpenOffice spreadsheet application Calc has a fairly extensive set of statistics  functions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180404T212959Z" creationid="tagezi" creationdate="20180404T212959Z">
+        <seg>Генерация случайных чисел в Calc Tony Richardson richardson.tony@gmail.com Университет Эвансвилла 9 декабря 2013 У приложения электронных таблиц LibreOffice/OpenOffice Calc есть довольно обширный набор статистических функций.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13700,6 +13708,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T074827Z" creationid="lera" creationdate="20180303T165722Z">
         <seg>Не имея возможности приобрести товарное имя OpenOffice.org принадлежащее Oracle, The Document Foundation назвала свой проект LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unfortunately, it only has a uniform random number generator function.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180404T213408Z" creationid="tagezi" creationdate="20180404T213408Z">
+        <seg>К сожалению, у него есть только функция непрерывнгое равномерного распределения  генератора случайных чисел.</seg>
       </tuv>
     </tu>
     <tu>
