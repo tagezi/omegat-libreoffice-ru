@@ -2758,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click into the Name Box on the Formula Bar (Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;9&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T204430Z" creationid="olex" creationdate="20180404T204347Z">
+        <seg>Нажмите поле Имя на панели формул (Рисунок &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt; на странице &lt;t2&gt;9&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the formula element in the preview window, position the cursor at the beginning of the formula element in the Formula Editor, then select the formula element in the Formula Editor.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180322T135543Z" creationid="Роман" creationdate="20180322T135543Z">
@@ -13430,6 +13438,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To select a range of cells, enter the cell reference for the upper left-hand cell, followed by a colon (:), and then the lower right-hand cell reference.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T204539Z" creationid="olex" creationdate="20180404T204539Z">
+        <seg>Чтобы выбрать диапазон, введите ссылку на верхнюю левую ячейку, затем двоеточие (:), а затем ссылку на нижнюю правую ячейку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To select and run any macro in the module, click the &lt;f0&gt;Select Macro &lt;/f0&gt;icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Standard toolbar or go to &lt;f3&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T133947Z" creationid="tagezi" creationdate="20180312T133947Z">
@@ -14775,8 +14791,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can also directly select a range of cells using the Name Box.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180404T204326Z" creationid="olex" creationdate="20180404T204326Z">
-        <seg>Также вы можете вводить с клавиатуры диапазон ячеек непосредственно в поле Имя на панели формул.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T204356Z" creationid="olex" creationdate="20180404T204326Z">
+        <seg>Также вы можете вводить с клавиатуры диапазон ячеек непосредственно в поле Имя.</seg>
       </tuv>
     </tu>
     <tu>
