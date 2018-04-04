@@ -3416,6 +3416,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the file being used or the type of data being entered, setting a different direction can be useful.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T201520Z" creationid="olex" creationdate="20180404T201520Z">
+        <seg>В зависимости от используемого файла или типа вводимых данных можно установить удобное направление.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on which sheet is open when you insert a new sheet, and the insertion method you use, the new sheet may not be in its correct numerical position.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T173041Z" creationid="olex" creationdate="20180403T172953Z">
@@ -10264,6 +10272,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the direction cell focus moves from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T201417Z" creationid="olex" creationdate="20180404T201417Z">
+        <seg>Выберите направление перемещения фокуса ячейки из раскрывающегося списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the file and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T185207Z" creationid="olex" creationdate="20180330T185207Z">
@@ -11095,6 +11111,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T204607Z" creationid="olex" creationdate="20180310T204607Z">
         <seg>Параметр &lt;f1&gt;Управление шаблонами&lt;/f1&gt; в этом списке открывает диалоговое окно Шаблоны (Рисунок &lt;t2&gt;8&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;f2&gt;Enter&lt;/f2&gt; key can also be used to switch into and out of editing mode.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T201557Z" creationid="olex" creationdate="20180404T201557Z">
+        <seg>Клавиша &lt;f2&gt;Enter&lt;/f2&gt; также может использоваться для переключения в режим редактирования ячейки и выхода из него.</seg>
       </tuv>
     </tu>
     <tu>
