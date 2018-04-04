@@ -14781,6 +14781,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can customize the direction in which the &lt;f0&gt;Enter&lt;/f0&gt; key moves the cell focus by going to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; General&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T201254Z" creationid="olex" creationdate="20180404T201254Z">
+        <seg>Вы можете настроить направление, в котором клавиша &lt;f0&gt;Enter&lt;/f0&gt; перемещает фокус ячейки, в меню &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Calc &gt; Общие&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can define new table styles following these steps:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T211133Z" creationid="olex" creationdate="20180309T211023Z">
