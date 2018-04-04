@@ -1394,6 +1394,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A range of cells can be selected using the keyboard or the mouse.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T202327Z" creationid="olex" creationdate="20180404T202327Z">
+        <seg>Диапазон ячеек можно выбрать с помощью клавиатуры или мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A repository can be local (a directory on your computer to which you have downloaded templates) or remote (a URL from which you can download templates).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T200815Z" creationid="olex" creationdate="20180311T195019Z">
@@ -2722,6 +2730,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T184238Z" creationid="olex" creationdate="20180315T184238Z">
         <seg>Нажмите &lt;f2&gt;Да&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click in a cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T202511Z" creationid="olex" creationdate="20180404T202440Z">
+        <seg>Щелкните по ячейке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13326,6 +13342,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To select a range of cells by dragging the mouse cursor:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T202354Z" creationid="olex" creationdate="20180404T202354Z">
+        <seg>Чтобы выбрать диапазон ячеек, перетащив курсор мыши:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To select and run any macro in the module, click the &lt;f0&gt;Select Macro &lt;/f0&gt;icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Standard toolbar or go to &lt;f3&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T133947Z" creationid="tagezi" creationdate="20180312T133947Z">
@@ -15328,8 +15352,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>cells</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180328T173550Z" creationid="olex" creationdate="20180328T173550Z">
-        <seg>ячейки</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T202251Z" creationid="olex" creationdate="20180328T173550Z">
+        <seg>ячеек</seg>
       </tuv>
     </tu>
     <tu>
@@ -15906,6 +15930,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180358Z" creationid="tagezi" creationdate="20180304T180358Z">
         <seg>презентации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>range</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T202242Z" creationid="olex" creationdate="20180404T202242Z">
+        <seg>диапазон</seg>
       </tuv>
     </tu>
     <tu>
