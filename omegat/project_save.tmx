@@ -8110,6 +8110,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many simulations  require random number generators for other (non-uniform) probability distributions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180404T213602Z" creationid="tagezi" creationdate="20180404T213602Z">
+        <seg>Для многих симуляций требуются генераторы случайных чисел для других (неравномерных) распределений вероятностей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mark the &lt;f0&gt;Selection&lt;/f0&gt; checkbox in the &lt;f1&gt;Export&lt;/f1&gt; dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T192316Z" creationid="olex" creationdate="20180402T192316Z">
@@ -12934,6 +12942,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T133833Z" creationid="tagezi" creationdate="20180313T133833Z">
         <seg>Это откроет диалоговое окно Новый модуль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This paper  describes how to generate random numbers for several of the most common distribution functions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="tagezi" changedate="20180404T214459Z" creationid="tagezi" creationdate="20180404T214459Z">
+        <seg>В этом документе описывается, как генерировать случайные числа для нескольких наиболее распространенных функций распределения.</seg>
       </tuv>
     </tu>
     <tu>
