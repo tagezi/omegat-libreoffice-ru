@@ -5700,6 +5700,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T203005Z" creationid="olex" creationdate="20180404T203005Z">
+        <seg>Удерживая нажатой клавишу &lt;f0&gt;Shift&lt;/f0&gt; кликните мышью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How can I contribute to LibreOffice?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T183324Z" creationid="tagezi" creationdate="20180310T183324Z">
@@ -8292,6 +8300,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202555Z" creationid="olex" creationdate="20180404T202555Z">
         <seg>Переместите мышь по экрану.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the mouse to the opposite corner of the range of cells.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T202843Z" creationid="olex" creationdate="20180404T202843Z">
+        <seg>Переместите мышь в противоположный угол диапазона ячеек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14785,6 +14801,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T180517Z" creationid="olex" creationdate="20180311T180321Z">
         <seg>Вы так же можете сохранять настройки меню и панели инструментов в шаблонах; смотрите &lt;f0&gt;главу 14, Настройка LibreOfficelt&lt;/f0&gt;, для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also select a contiguous range of cells by first clicking in the &lt;f0&gt;Selection mode&lt;/f0&gt; field on the Status Bar (Figure &lt;t1&gt;3&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;10&lt;/t3&gt;) and selecting &lt;f4&gt;Extending selection&lt;/f4&gt; before clicking in the opposite corner of the range of cells.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T203533Z" creationid="olex" creationdate="20180404T203533Z">
+        <seg>Также вы можете выбрать диапазон ячеек, выбрав сначала в поле &lt;f0&gt;Режим выбора&lt;/f0&gt; на строке состояния (Рисунок &lt;t1&gt;3&lt;/t1&gt;&lt;s2/&gt; на странице &lt;t3&gt;10&lt;/t3&gt;) &lt;f4&gt;Расширяемое выделение&lt;/f4&gt;, а затем щелкнув в противоположном углу диапазона ячеек.</seg>
       </tuv>
     </tu>
     <tu>
