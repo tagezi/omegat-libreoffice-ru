@@ -5716,6 +5716,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and click or click-and-drag to select another range of cells to add to the first range.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T204950Z" creationid="olex" creationdate="20180404T204950Z">
+        <seg>Удерживая клавишу &lt;f0&gt;Ctrl&lt;/f0&gt;, щелкните или щелкните и перетащите курсор мыши, чтобы выбрать другой диапазон ячеек, который добавится в первому диапазону.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T203005Z" creationid="olex" creationdate="20180404T203005Z">
@@ -8328,6 +8336,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the mouse pointer to the start of the next range or single cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T204752Z" creationid="olex" creationdate="20180404T204752Z">
+        <seg>Переместите указатель мыши в начало следующего диапазона или на отдельную ячейку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the mouse to the opposite corner of the range of cells.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202843Z" creationid="olex" creationdate="20180404T202843Z">
@@ -10356,6 +10372,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T093842Z" creationid="Роман" creationdate="20180316T093733Z">
         <seg>Выберите категорию, которую хотите использовать в формуле из выпадающего списка в верхней части панели Элементы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the cell or range of cells using one of the methods above.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T204720Z" creationid="olex" creationdate="20180404T204720Z">
+        <seg>Выберите ячейку или диапазон ячеек, используя один из методов выше.</seg>
       </tuv>
     </tu>
     <tu>
