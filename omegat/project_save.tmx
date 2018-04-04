@@ -10344,6 +10344,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the cell that will be one of the corners in the range of cells.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T203914Z" creationid="olex" creationdate="20180404T203914Z">
+        <seg>Выберите ячейку, которая будет одним из углов в диапазоне ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the desired event and click &lt;f0&gt;Macro&lt;/f0&gt; to open the Macro Selector dialog (Figure &lt;t1&gt;4&lt;/t1&gt; on page &lt;t2&gt;7&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T162634Z" creationid="tagezi" creationdate="20180320T162634Z">
@@ -14549,6 +14557,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While holding down the &lt;f0&gt;Shift&lt;/f0&gt; key, use the cursor arrows to select the rest of the range.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T204014Z" creationid="olex" creationdate="20180404T204014Z">
+        <seg>Удерживая клавишу &lt;f0&gt;Shift&lt;/f0&gt;, с помощью стрелок курсора выберите остальную часть диапазона ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Who is this book for?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090921Z" creationid="tagezi" creationdate="20180305T090921Z">
@@ -14753,6 +14769,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T175352Z" creationid="olex" creationdate="20180328T175352Z">
         <seg>Вы также можете настроить панель меню; смотрите &lt;f1&gt;Глава 14 Настройка LibreOffice&lt;/f1&gt; для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also directly select a range of cells using the Name Box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T204326Z" creationid="olex" creationdate="20180404T204326Z">
+        <seg>Также вы можете вводить с клавиатуры диапазон ячеек непосредственно в поле Имя на панели формул.</seg>
       </tuv>
     </tu>
     <tu>
