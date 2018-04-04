@@ -8014,6 +8014,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure to change back to &lt;f5&gt;Standard selection&lt;/f5&gt; or you may find yourself extending a cell selection unintentionally.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T203831Z" creationid="olex" creationdate="20180404T203831Z">
+        <seg>Не забудьте затем вернуть режим &lt;f5&gt;Обычное выделение&lt;/f5&gt;, чтобы избежать случайного расширения выбора ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make your selections and click &lt;f3&gt;Save&lt;/f3&gt; to close the dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T190248Z" creationid="olex" creationdate="20180311T190248Z">
@@ -13402,6 +13410,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202719Z" creationid="olex" creationdate="20180404T202719Z">
         <seg>Чтобы выбрать диапазон ячеек без перетаскивания мыши:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To select a range of cells without using the mouse:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T203844Z" creationid="olex" creationdate="20180404T203844Z">
+        <seg>Чтобы выбрать диапазон ячеек без использования мыши:</seg>
       </tuv>
     </tu>
     <tu>
