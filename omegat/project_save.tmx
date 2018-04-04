@@ -1026,6 +1026,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;For example, you cannot copy a non-contiguous range.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T205141Z" creationid="olex" creationdate="20180404T205141Z">
+        <seg>&lt;s0/&gt;Например, вы не можете скопировать несмежный диапазон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s2/&gt;Although the programming languages are the same, the objects and methods are different and therefore not entirely compatible.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T185215Z" creationid="olex" creationdate="20180327T185152Z">
@@ -8753,6 +8761,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note: Some Calc operations cannot be used with non-contiguous cells.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T205202Z" creationid="olex" creationdate="20180404T205030Z">
+        <seg>Заметка. Некоторые операции Calc не могут применяться к нескольким диапазонам ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now, you can run CopyNumToCol1 by repeatedly clicking the &lt;f0&gt;Run Basic&lt;/f0&gt; icon in the toolbar of the IDE.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T150725Z" creationid="tagezi" creationdate="20180319T150725Z">
@@ -9771,6 +9787,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183950Z" creationid="olex" creationdate="20180326T183950Z">
         <seg>Переименование листов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repeat as necessary.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180404T205009Z" creationid="olex" creationdate="20180404T205009Z">
+        <seg>При необходимости повторите действия.</seg>
       </tuv>
     </tu>
     <tu>
