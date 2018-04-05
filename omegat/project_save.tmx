@@ -5796,6 +5796,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and click on the sheet tab.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T185640Z" creationid="olex" creationdate="20180405T185640Z">
+        <seg>Удерживая клавишу &lt;f0&gt;Ctrl&lt;/f0&gt; нажмите на вкладку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and click or click-and-drag to select another range of cells to add to the first range.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T204950Z" creationid="olex" creationdate="20180404T204950Z">
@@ -10007,6 +10015,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click a sheet tab and choose &lt;f0&gt;Select All Sheets&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T185802Z" creationid="olex" creationdate="20180405T185802Z">
+        <seg>Щелкните правой кнопкой мыши на вкладке листа и выберите &lt;f0&gt;Выбрать все листы&lt;/f0&gt; в контекстном меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click in the Formula Editor and select &lt;f0&gt;Relations &gt; a simeq b&lt;/f0&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T144947Z" creationid="Роман" creationdate="20180320T144947Z">
@@ -10981,6 +10997,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T200730Z" creationid="olex" creationdate="20180309T200730Z">
         <seg>Иногда это именно то, что вы хотите; но иногда нежелательно, чтобы изменения применялись ко всем связанным стилям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes you may want to hide the contents of a sheet to preserve data from accidental edition or because its contents is not important to display.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T190151Z" creationid="olex" creationdate="20180405T190151Z">
+        <seg>Иногда вам может понадобиться скрыть содержимое листа для защиты данных второстепенного  значения или потому, что его содержимое не важно для отображения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12530,6 +12554,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T193238Z" creationid="olex" creationdate="20180330T193238Z">
         <seg>Выбранный язык также влияет на то, как такие специальные числа обнаруживаются, поскольку разные языки и регионы имеют разные форматы для таких специальных чисел.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected tabs will turn white (default Calc setup).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T185708Z" creationid="olex" creationdate="20180405T185708Z">
+        <seg>Выбранные вкладки станут белыми (при настройках Calc по умолчанию).</seg>
       </tuv>
     </tu>
     <tu>
