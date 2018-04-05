@@ -1290,6 +1290,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A dialog window appear with all hidden sheets listed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T190519Z" creationid="olex" creationdate="20180405T190519Z">
+        <seg>Появится диалоговое окно со списком скрытых листов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A dispatch command is text, for example .uno:InsertObject or .uno:GoToStartOfLine.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T174133Z" creationid="tagezi" creationdate="20180319T174133Z">
@@ -2794,6 +2802,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T184103Z" creationid="olex" creationdate="20180405T184103Z">
         <seg>Нажимайте на следующие столбцы или строки, удерживая клавишу &lt;f0&gt;Ctrl&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on the desired sheet and then click OK.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T190559Z" creationid="olex" creationdate="20180405T190559Z">
+        <seg>Выберите нужный лист и нажмите «ОК».</seg>
       </tuv>
     </tu>
     <tu>
@@ -7561,6 +7577,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T174119Z" creationid="olex" creationdate="20180328T174119Z">
         <seg>LibreOffice Calc может содержать до 32 000 листов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice Calc does not let you hide the last visible sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T190617Z" creationid="olex" creationdate="20180405T190617Z">
+        <seg>LibreOffice Calc не позволяет скрывать последний видимый лист.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13468,6 +13492,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To hide a sheet or many sheets, select the sheet or sheets as above and right click the mouse to open the context menu and select Hide Sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T190340Z" creationid="olex" creationdate="20180405T190340Z">
+        <seg>Чтобы скрыть лист или несколько листов, выберите листы, как указано выше, и щелкните правой кнопкой мыши на вкладке листа, затем в контекстном меню выберите Скрыть лист.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To hide the Sidebar, or reveal it if already hidden, click on the edge Hide/Show button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T175558Z" creationid="olex" creationdate="20180330T175420Z">
@@ -13754,6 +13786,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T190013Z" creationid="olex" creationdate="20180311T185825Z">
         <seg>Чтобы установить имя файла или изменить каталог, выберите кнопку &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Путь&lt;/f1&gt; (три точки справа от места размещения).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To show hidden sheets, right click any sheet tab and select Show Sheet on the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T190434Z" creationid="olex" creationdate="20180405T190434Z">
+        <seg>Чтобы отобразить скрытые листы, щелкните правой кнопкой мыши на любой вкладке листа и выберите Показать лист в контекстном меню.</seg>
       </tuv>
     </tu>
     <tu>
