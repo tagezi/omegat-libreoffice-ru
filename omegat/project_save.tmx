@@ -4226,6 +4226,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Select All box</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T184535Z" creationid="olex" creationdate="20180405T184535Z">
+        <seg>Рисунок &lt;seq0&gt;12&lt;/seq0&gt;: Выделить все</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Creating a new category</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T204544Z" creationid="olex" creationdate="20180313T204544Z">
@@ -15286,6 +15294,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can select one or multiple sheets in Calc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T184617Z" creationid="olex" creationdate="20180405T184617Z">
+        <seg>Вы можете выбрать один или несколько листов в Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can set any template displayed in the Templates dialog to be the default for that document type:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T191053Z" creationid="olex" creationdate="20180313T191053Z">
@@ -16330,6 +16346,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T185557Z" creationid="olex" creationdate="20180327T185557Z">
         <seg>листы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sheets, in Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T184549Z" creationid="olex" creationdate="20180405T184549Z">
+        <seg>листов, в Calc</seg>
       </tuv>
     </tu>
     <tu>
