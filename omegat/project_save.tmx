@@ -1908,6 +1908,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any actions that you perform will now affect all highlighted sheets.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T185439Z" creationid="olex" creationdate="20180405T185439Z">
+        <seg>Действия, которые теперь вы выполняете, будут применяться ко всем выделенным листам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any changes recorded (tracked) in the document will be lost during this process.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T202459Z" creationid="olex" creationdate="20180313T202459Z">
@@ -8456,6 +8464,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the mouse pointer over the sheet tab for the second desired sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T185533Z" creationid="olex" creationdate="20180405T185533Z">
+        <seg>Поместите указатель мыши над вкладкой другого листа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the mouse pointer to the start of the next range or single cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T204752Z" creationid="olex" creationdate="20180404T204752Z">
@@ -13682,6 +13698,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T184946Z" creationid="olex" creationdate="20180405T184946Z">
         <seg>Чтобы выбрать несколько соседних листов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To select multiple non-contiguous sheets:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T185454Z" creationid="olex" creationdate="20180405T185454Z">
+        <seg>Чтобы выбрать несколько несмежных листов:</seg>
       </tuv>
     </tu>
     <tu>
