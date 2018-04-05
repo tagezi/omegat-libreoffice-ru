@@ -1682,6 +1682,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All tabs between these two selections will turn white (default Calc setup).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T185242Z" creationid="olex" creationdate="20180405T185242Z">
+        <seg>Все вкладки листов между двумя выбранными станут белыми (при настройках Calc по умолчанию).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All text after REM and on the same line is ignored.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T090828Z" creationid="tagezi" creationdate="20180315T090828Z">
@@ -2802,6 +2810,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T191816Z" creationid="olex" creationdate="20180330T191816Z">
         <seg>Нажмите на линейку в окне предварительного просмотра, чтобы установить ширину.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on the sheet tab for the first desired sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T185014Z" creationid="olex" creationdate="20180405T185014Z">
+        <seg>Нажмите на вкладку первого листа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5788,6 +5804,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click on the sheet tab.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T185107Z" creationid="olex" creationdate="20180405T185107Z">
+        <seg>Удерживая клавишу &lt;f0&gt;Shift&lt;/f0&gt; нажмите на вкладку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T203005Z" creationid="olex" creationdate="20180404T203005Z">
@@ -8420,6 +8444,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202555Z" creationid="olex" creationdate="20180404T202555Z">
         <seg>Переместите мышь по экрану.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the mouse pointer over the sheet tab for the last desired sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T185034Z" creationid="olex" creationdate="20180405T185034Z">
+        <seg>Переместите указатель мыши на вкладку листа последнего листа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13642,6 +13674,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T183956Z" creationid="olex" creationdate="20180405T183956Z">
         <seg>Чтобы выбрать несколько не смежных столбцов или строк:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To select multiple contiguous sheets:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T184946Z" creationid="olex" creationdate="20180405T184946Z">
+        <seg>Чтобы выбрать несколько соседних листов:</seg>
       </tuv>
     </tu>
     <tu>
