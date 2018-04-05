@@ -2774,6 +2774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the first column or row in the group.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T183814Z" creationid="olex" creationdate="20180405T183814Z">
+        <seg>Нажмите на первый столбец или строку в группе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the formula element in the preview window, position the cursor at the beginning of the formula element in the Formula Editor, then select the formula element in the Formula Editor.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180322T135543Z" creationid="Роман" creationdate="20180322T135543Z">
@@ -2842,6 +2850,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T193103Z" creationid="olex" creationdate="20180310T193103Z">
         <seg>Нажмите кнопку &lt;f1&gt;Из файла&lt;/f1&gt;, чтобы открыть окно в котором можно выбрать необходимый документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the last column or row in the group.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T183858Z" creationid="olex" creationdate="20180405T183858Z">
+        <seg>Нажмите последний столбец или строку в группе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5740,10 +5756,26 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T184018Z" creationid="olex" creationdate="20180405T184018Z">
+        <seg>Удерживайте клавишу &lt;f0&gt;Ctrl&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T203005Z" creationid="olex" creationdate="20180404T203005Z">
         <seg>Удерживая нажатой клавишу &lt;f0&gt;Shift&lt;/f0&gt; кликните мышью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T183841Z" creationid="olex" creationdate="20180405T183841Z">
+        <seg>Удерживайте клавишу &lt;f0&gt;Shift&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13554,6 +13586,22 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T133947Z" creationid="tagezi" creationdate="20180312T133947Z">
         <seg>Для выбора и запуска любого макроса, нажмите иконку &lt;f0&gt;Выбрать макрос&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; на панели инструментов Стандартная или выберите &lt;f3&gt;Сервис &gt; Управление макросами &gt; LibreOffice Basic&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To select multiple columns or rows that are contiguous:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T183754Z" creationid="olex" creationdate="20180405T183754Z">
+        <seg>Чтобы выбрать несколько соседних столбцов или строк:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To select multiple columns or rows that are not contiguous:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T183956Z" creationid="olex" creationdate="20180405T183956Z">
+        <seg>Чтобы выбрать несколько не смежных столбцов или строк:</seg>
       </tuv>
     </tu>
     <tu>
