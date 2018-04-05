@@ -2806,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the sheet tab for the sheet you want to select.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T184856Z" creationid="olex" creationdate="20180405T184856Z">
+        <seg>Нажмите вкладку листа, который вы хотите выбрать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click once on it to activate the file handling controls (see Figure &lt;t0&gt;8&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T192531Z" creationid="olex" creationdate="20180311T192531Z">
@@ -7168,6 +7176,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T082828Z" creationid="tagezi" creationdate="20180306T082828Z">
         <seg>Она также касается некоторого общего функционала для всех модулей, включая установку и настройку, стили и шаблоны, запись макросов и печать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be advantageous to select multiple sheets, especially when you want to make changes to many sheets at once.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T184836Z" creationid="olex" creationdate="20180405T184836Z">
+        <seg>Может быть полезно выделить несколько листов, особенно если вы хотите внести изменения во многих листах одновременно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12502,6 +12518,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The tab for the selected sheet becomes white (default Calc setup).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T184925Z" creationid="olex" creationdate="20180405T184925Z">
+        <seg>Вкладка выбранного листа станет белой (при настройках Calc по умолчанию).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The table below gives some common substitutions for the instructions in this book.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T105314Z" creationid="tagezi" creationdate="20180310T105314Z">
@@ -16312,16 +16336,16 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>selecting</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180404T201919Z" creationid="olex" creationdate="20180404T201919Z">
-        <seg>выделение</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T184650Z" creationid="olex" creationdate="20180404T201919Z">
+        <seg>выбор</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>selection, in Calc</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180404T201948Z" creationid="olex" creationdate="20180404T201948Z">
-        <seg>выделение, в Calc</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T184659Z" creationid="olex" creationdate="20180404T201948Z">
+        <seg>выбор, в Calc</seg>
       </tuv>
     </tu>
     <tu>
