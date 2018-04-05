@@ -13542,6 +13542,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To select a single row, click on the row header.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180405T183706Z" creationid="olex" creationdate="20180405T183706Z">
+        <seg>Чтобы выбрать одну строку, щелкните заголовок строки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To select and run any macro in the module, click the &lt;f0&gt;Select Macro &lt;/f0&gt;icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Standard toolbar or go to &lt;f3&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T133947Z" creationid="tagezi" creationdate="20180312T133947Z">
