@@ -10864,6 +10864,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the position in &lt;f0&gt;Insert before&lt;/f0&gt; where you want to place the sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T223007Z" creationid="olex" creationdate="20180407T223007Z">
+        <seg>Выберите где вы хочете поместить лист в списке &lt;f0&gt;Вставить перед&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the range or the group of shapes in your spreadsheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T191825Z" creationid="olex" creationdate="20180402T191825Z">
@@ -13148,6 +13156,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T085935Z" creationid="tagezi" creationdate="20180306T085733Z">
         <seg>Эта книга, другие руководства пользователя LibreOffice, встроенная справочная система и система пользовательской поддержки предполагают, что вы знакомы с вашим компьютером и основными функциями такими, как запуск программы, открытие и сохранение файлов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be the same spreadsheet, another spreadsheet already open, or a new spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T222817Z" creationid="olex" creationdate="20180407T222817Z">
+        <seg>Это может быть текущая таблица, другая открытая таблица или новая электронная таблица.</seg>
       </tuv>
     </tu>
     <tu>
