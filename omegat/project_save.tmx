@@ -7140,6 +7140,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the current document, right-click on the sheet tab you wish to move or copy and select &lt;f0&gt;Move/Copy Sheet&lt;/f0&gt; from the context menu or go to &lt;f1&gt;Sheet &gt; Move or Copy Sheet...&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T222304Z" creationid="olex" creationdate="20180407T222304Z">
+        <seg>В текущем документе щелкните правой кнопкой мыши на вкладке листа, который вы хотите переместить или скопировать, и выберите в контекстном меню &lt;f0&gt;Переместить/скопировать лист...&lt;/f0&gt; или выберите в меню &lt;f1&gt;Лист &gt; Переместить/скопировать лист...&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the document, select an item that has the format you want to adopt as a style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T181121Z" creationid="olex" creationdate="20180308T181121Z">
