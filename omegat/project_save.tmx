@@ -2678,6 +2678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to confirm the move or copy and close the dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T223322Z" creationid="olex" creationdate="20180407T223322Z">
+        <seg>Нажмите &lt;f0&gt;OK&lt;/f0&gt;, чтобы подтвердить действие и закрыть диалоговое окно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to copy the styles.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T194219Z" creationid="olex" creationdate="20180310T194219Z">
@@ -6422,8 +6430,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If you do not enter a name, Calc creates a default name (Sheet 2, Sheet 3, and so on).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180407T223143Z" creationid="olex" creationdate="20180407T223143Z">
-        <seg>Если вы не вводите имя, Calc создает имя по умолчанию (Лист 2, Лист 3 и т. Д.).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T223225Z" creationid="olex" creationdate="20180407T223143Z">
+        <seg>Если вы не введете имя, то Calc создает имя по умолчанию (Лист 2, Лист 3 и т.д.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14234,8 +14242,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>Type a name in the &lt;f0&gt;New name&lt;/f0&gt; text box if you want to rename the sheet when it is moved or copied.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180407T223129Z" creationid="olex" creationdate="20180407T223129Z">
-        <seg>Введите имя в текстовое поле &lt;f0&gt;Новое имя&lt;/f0&gt;, если вы хотите переименовать лист при его перемещении или копировании.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T223205Z" creationid="olex" creationdate="20180407T223129Z">
+        <seg>Введите имя в текстовое поле &lt;f0&gt;Новое имя&lt;/f0&gt;, если хотите переименовать лист.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15185,6 +15193,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T173002Z" creationid="olex" creationdate="20180403T172621Z">
         <seg>Когда вы вставляете новый лист в электронной таблице, Calc автоматически использует следующий порядковый номер в числовой нумерации в качестве имени листа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you move or copy to another spreadsheet or a new spreadsheet, a conflict may occur with formulas linked to other sheets in the previous location.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T223542Z" creationid="olex" creationdate="20180407T223542Z">
+        <seg>При перемещении или копировании листа в другую электронную таблицу или новую таблицу могут возникнуть проблемы с формулами, ссылающимися на другие листы в предыдущем файле.</seg>
       </tuv>
     </tu>
     <tu>
