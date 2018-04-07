@@ -14412,6 +14412,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the &lt;f0&gt;Move/Copy Sheet&lt;/f0&gt; dialog (Figure &lt;t1&gt;15&lt;/t1&gt;) to specify exactly whether you want the sheet in the same or a different spreadsheet, its position within the spreadsheet, and the sheet name when you move or copy the sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T222024Z" creationid="olex" creationdate="20180407T222024Z">
+        <seg>Используйте диалоговое окно &lt;f0&gt;Переместить/скопировать лист...&lt;/f0&gt; (Рисунок &lt;t1&gt;15&lt;/t1&gt;), чтобы точно указать, хотите ли вы, чтобы лист находился в той же электронной таблице или переместился в другую, его положение в электронной таблице, имя листа при перемещении или копировании листа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the English names of Greek characters in markup language when entering Greek characters into a formula.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201640Z" creationid="Роман" creationdate="20180316T201640Z">
