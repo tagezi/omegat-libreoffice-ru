@@ -2800,8 +2800,8 @@
       <tuv lang="EN-US">
         <seg>Click in the empty space at the end of the sheet tabs.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180407T215731Z" creationid="olex" creationdate="20180407T215731Z">
-        <seg>Щелкните на пустое место в конце вкладок листа.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T215826Z" creationid="olex" creationdate="20180407T215731Z">
+        <seg>Щелкните на пустое место позади вкладок листов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4334,6 +4334,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T212751Z" creationid="olex" creationdate="20180407T212751Z">
         <seg>Рисунок &lt;seq0&gt;13&lt;/seq0&gt;: Диалоговое окно Удалить ячейки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Insert Sheet dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T220013Z" creationid="olex" creationdate="20180407T220013Z">
+        <seg>Рисунок &lt;seq0&gt;14&lt;/seq0&gt;: Диалоговое окно Вставить лист</seg>
       </tuv>
     </tu>
     <tu>
@@ -10183,6 +10191,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click in the empty space at the end of the sheet tabs and select &lt;f0&gt;Insert Sheet&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T215938Z" creationid="olex" creationdate="20180407T215802Z">
+        <seg>Щелкните правой кнопкой мыши на пустое место  позади вкладок листов и выберите &lt;f0&gt;Вставить лист...&lt;/f0&gt; из контекстного меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click on the selected template and click the &lt;f0&gt;Set as default&lt;/f0&gt; button (see Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T191947Z" creationid="olex" creationdate="20180313T191947Z">
@@ -10193,8 +10209,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Right-click on the sheet tab where you want to insert a new sheet and select &lt;f0&gt;Insert Sheet&lt;/f0&gt; from the context menu.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180407T215631Z" creationid="olex" creationdate="20180407T215631Z">
-        <seg>Щелкните правой кнопкой мыши на вкладке листа, где вы хотите вставить новый лист, и выберите &lt;f0&gt;Вставить лист...&lt;/f0&gt; из контекстного меню.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T215920Z" creationid="olex" creationdate="20180407T215631Z">
+        <seg>Щелкните правой кнопкой мыши на вкладке листа, рядом с которым хотите вставить новый лист, и выберите &lt;f0&gt;Вставить лист...&lt;/f0&gt; из контекстного меню.</seg>
       </tuv>
     </tu>
     <tu>
