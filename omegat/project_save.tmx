@@ -10095,6 +10095,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click the column or row header.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T210938Z" creationid="olex" creationdate="20180407T210938Z">
+        <seg>Щелкните правой кнопкой мыши на заголовке столбца или строки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click to open the context menu click &lt;f1&gt;Edit&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T192634Z" creationid="olex" creationdate="20180311T192634Z">
@@ -10379,6 +10387,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204432Z" creationid="Роман" creationdate="20180316T204432Z">
         <seg>Выберите &lt;f0&gt;Греческий&lt;/f0&gt; из выпадающего списка &lt;f1&gt;Набор символов&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Insert Columns Left&lt;/f0&gt;, &lt;f1&gt;Insert Columns Right&lt;/f1&gt;, &lt;f2&gt;Insert Rows Above&lt;/f2&gt;, or &lt;f3&gt;Insert Rows Below&lt;/f3&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T211215Z" creationid="olex" creationdate="20180407T211215Z">
+        <seg>Выберите &lt;f0&gt;Вставить столбцы слева&lt;/f0&gt;, &lt;f1&gt;Вставить столбцы справа&lt;/f1&gt;, &lt;f2&gt;Вставить строки выше&lt;/f2&gt; или &lt;f3&gt;Вставить строки ниже&lt;/f3&gt; из контекстного меню.</seg>
       </tuv>
     </tu>
     <tu>
