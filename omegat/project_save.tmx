@@ -8832,6 +8832,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moving and &lt;i0/&gt;copying sheets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T220157Z" creationid="olex" creationdate="20180407T220157Z">
+        <seg>Перемещение и &lt;i0/&gt;копирование листов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moving and copying sheets</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183657Z" creationid="olex" creationdate="20180326T183657Z">
@@ -15637,6 +15645,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can insert several sheets by specifying the number of sheets to insert.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T220042Z" creationid="olex" creationdate="20180407T220042Z">
+        <seg>Вы можете вставить несколько листов, указав их количество.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can manually copy new templates into the template folders.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T203247Z" creationid="olex" creationdate="20180312T203247Z">
@@ -15658,6 +15674,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T104123Z" creationid="olex" creationdate="20180308T173014Z">
         <seg>Вы можете изменить эти сочетания клавиш и создавать свои собственные; смотрите главу 14, Настройка LibreOffice, для того чтобы узнать, как это сделать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can move or copy sheets within the same spreadsheet by dragging and dropping, or by using the &lt;f0&gt;Move/Copy Sheet&lt;/f0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T220321Z" creationid="olex" creationdate="20180407T220321Z">
+        <seg>Вы можете перемещать или копировать листы в электронной таблице путем перетаскивания или с помощью диалогового окна &lt;f0&gt;Переместить/скопировать лист...&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16098,6 +16122,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T184218Z" creationid="olex" creationdate="20180330T184218Z">
         <seg>значения, разделенные запятыми (comma separated values - CSV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>copying sheets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T220127Z" creationid="olex" creationdate="20180407T220127Z">
+        <seg>копирование листов</seg>
       </tuv>
     </tu>
     <tu>
