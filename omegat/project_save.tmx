@@ -5820,6 +5820,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Highlight the required number of columns or rows by holding down the left mouse button on the first one and then dragging across the required number of identifiers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T211817Z" creationid="olex" creationdate="20180407T211817Z">
+        <seg>Выделите необходимое количество столбцов или строк, нажав и удерживая левую кнопку мыши на первом, а затем захватывая требуемое количество заголовков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and click on the sheet tab.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T185640Z" creationid="olex" creationdate="20180405T185640Z">
