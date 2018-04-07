@@ -13788,6 +13788,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To move a sheet to a different position within the same spreadsheet, click and hold on the sheet tab and drag it to its new position before releasing the mouse button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T220804Z" creationid="olex" creationdate="20180407T220804Z">
+        <seg>Чтобы переместить лист на другое место в пределах электронной таблицы, нажмите и удерживайте вкладку листа, затем перетащите ее на новое место, не отпуская правую кнопку мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To move a template from one template category to another, select it in the Templates dialog, and click the &lt;f0&gt;Move&lt;/f0&gt; button in the bottom center of the dialog (see Figure &lt;t1&gt;14&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T182904Z" creationid="olex" creationdate="20180315T182904Z">
@@ -13808,6 +13816,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180318T121924Z" creationid="Роман" creationdate="20180317T174103Z">
         <seg>Для перемещения от одного заполнителя к другому в формуле нажимайте клавишу &lt;f0&gt;F4&lt;/f0&gt; key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To move or copy a sheet into a different spreadsheet, you have to use the &lt;f1&gt;Move/Copy Sheet&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T220543Z" creationid="olex" creationdate="20180407T220512Z">
+        <seg>Чтобы переместить или скопировать лист в другую таблицу, вы должны использовать диалог &lt;f1&gt;Переместить/скопировать лист...&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
