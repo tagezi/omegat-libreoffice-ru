@@ -10704,6 +10704,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the columns or rows, see “&lt;bf0&gt;Multiple columns or rows&lt;/bf0&gt;” on page &lt;bf1&gt;21&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T213939Z" creationid="olex" creationdate="20180407T213939Z">
+        <seg>Выберите столбцы или строки, смотрите «&lt;bf0&gt;Несколько столбцов или строк&lt;/bf0&gt;» на странице &lt;bf1&gt;21&lt;/bf1&gt;&lt;s2/&gt; для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the desired event and click &lt;f0&gt;Macro&lt;/f0&gt; to open the Macro Selector dialog (Figure &lt;t1&gt;4&lt;/t1&gt; on page &lt;t2&gt;7&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T162634Z" creationid="tagezi" creationdate="20180320T162634Z">
@@ -13568,6 +13576,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T200824Z" creationid="olex" creationdate="20180310T200824Z">
         <seg>Чтобы удалить любые ненужные стили, в окне Стили выберите каждый из них для удаления (удерживайте &lt;f0&gt;Ctrl&lt;/f0&gt; для выбора нескольких стилей), а затем нажмите правую кнопку мыши на выбранном стиле и выберите &lt;f1&gt;Удалить&lt;/f1&gt; в контекстном меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To delete multiple columns or rows:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T213656Z" creationid="olex" creationdate="20180407T213656Z">
+        <seg>Чтобы удалить несколько столбцов или строк:</seg>
       </tuv>
     </tu>
     <tu>
