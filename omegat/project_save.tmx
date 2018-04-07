@@ -8760,6 +8760,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiple columns or rows can be inserted at once rather than inserting them one at a time.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T211410Z" creationid="olex" creationdate="20180407T211410Z">
+        <seg>Можно вставлять сразу несколько столбцов или строк, а не вставлять их по одному.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multiple contiguous sheets</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T182933Z" creationid="olex" creationdate="20180326T182933Z">
