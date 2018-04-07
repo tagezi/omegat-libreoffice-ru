@@ -13411,6 +13411,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To &lt;f0&gt;copy&lt;/f0&gt; a sheet within the same spreadsheet, hold down the &lt;f1&gt;Ctrl&lt;/f1&gt; key (&lt;f2&gt;Option&lt;/f2&gt; key on Mac) then click on the sheet tab and drag it to its new position before releasing the mouse button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T221018Z" creationid="olex" creationdate="20180407T220843Z">
+        <seg>Чтобы &lt;f0&gt;скопировать&lt;/f0&gt; лист в пределах одной электронной таблицы, нажмите клавишу &lt;f1&gt;Ctrl&lt;/f1&gt; (&lt;f2&gt;Option&lt;/f2&gt; на Mac), а затем нажмите на вкладку листа и перетащите ее новое место, прежде чем отпускать кнопку мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To Previous Editions</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090552Z" creationid="tagezi" creationdate="20180305T090552Z">
@@ -13790,8 +13798,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To move a sheet to a different position within the same spreadsheet, click and hold on the sheet tab and drag it to its new position before releasing the mouse button.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180407T220804Z" creationid="olex" creationdate="20180407T220804Z">
-        <seg>Чтобы переместить лист на другое место в пределах электронной таблицы, нажмите и удерживайте вкладку листа, затем перетащите ее на новое место, не отпуская правую кнопку мыши.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T220850Z" creationid="olex" creationdate="20180407T220804Z">
+        <seg>Чтобы переместить лист на другое место в пределах одной электронной таблицы, нажмите и удерживайте вкладку листа, затем перетащите ее на новое место, не отпуская правую кнопку мыши.</seg>
       </tuv>
     </tu>
     <tu>
