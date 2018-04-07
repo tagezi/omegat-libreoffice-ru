@@ -6420,6 +6420,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do not enter a name, Calc creates a default name (Sheet 2, Sheet 3, and so on).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T223143Z" creationid="olex" creationdate="20180407T223143Z">
+        <seg>Если вы не вводите имя, Calc создает имя по умолчанию (Лист 2, Лист 3 и т. Д.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not have the offline help installed on your computer and you are connected to the Internet, your default browser will open the online Help pages on the LibreOffice website.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T144809Z" creationid="tagezi" creationdate="20180306T144809Z">
@@ -14220,6 +14228,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T081319Z" creationid="tagezi" creationdate="20180313T135621Z">
         <seg>Введите имя, описывающее назначение нового модуля, например &lt;f0&gt;Recorded&lt;/f0&gt;, и нажмите &lt;f1&gt;ОК&lt;/f1&gt; ОК для его создания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type a name in the &lt;f0&gt;New name&lt;/f0&gt; text box if you want to rename the sheet when it is moved or copied.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T223129Z" creationid="olex" creationdate="20180407T223129Z">
+        <seg>Введите имя в текстовое поле &lt;f0&gt;Новое имя&lt;/f0&gt;, если вы хотите переименовать лист при его перемещении или копировании.</seg>
       </tuv>
     </tu>
     <tu>
