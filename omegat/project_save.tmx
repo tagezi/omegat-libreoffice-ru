@@ -10471,6 +10471,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select a column or row where you want the new column or row inserted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T210856Z" creationid="olex" creationdate="20180407T210856Z">
+        <seg>Выберите столбец или строку, в месте где вы хотите добавить новый столбец или строку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select a document rather than a directory on disk to import libraries contained in a document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123345Z" creationid="tagezi" creationdate="20180320T123345Z">
@@ -14481,6 +14489,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T174123Z" creationid="olex" creationdate="20180327T174104Z">
         <seg>Используя мышь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the mouse:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T210759Z" creationid="olex" creationdate="20180407T210759Z">
+        <seg>Используя мышь:</seg>
       </tuv>
     </tu>
     <tu>
