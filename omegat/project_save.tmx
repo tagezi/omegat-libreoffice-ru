@@ -1771,6 +1771,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T212951Z" creationid="olex" creationdate="20180407T212951Z">
+        <seg>Другой вариант:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although individual extensions can be found in several places, there is currently an extension repository at: &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt; and some documentation at &lt;a1&gt;http://libreplanet.org/wiki/Group:OpenOfficeExtensions/List&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T184741Z" creationid="tagezi" creationdate="20180320T184741Z">
@@ -4298,6 +4306,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Delete Cells dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T212751Z" creationid="olex" creationdate="20180407T212751Z">
+        <seg>Рисунок &lt;seq0&gt;13&lt;/seq0&gt;: Диалоговое окно Удалить ячейки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Moving templates to another category</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T183117Z" creationid="olex" creationdate="20180315T183117Z">
@@ -5590,8 +5606,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Sheet&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Delete Cells&lt;/f1&gt; or right-click and select &lt;f2&gt;Delete&lt;/f2&gt; from the context menu.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180407T212622Z" creationid="olex" creationdate="20180407T212622Z">
-        <seg>Выберите в меню &lt;f0&gt;Лист &gt; Удалить ячейки&lt;/f0&gt; или щелкните правой кнопкой мыши и выберите в контекстном меню &lt;f1&gt;Удалить&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T212757Z" creationid="olex" creationdate="20180407T212622Z">
+        <seg>Выберите в меню &lt;f0&gt;Лист &gt; Удалить ячейки...&lt;/f0&gt; или щелкните правой кнопкой мыши и выберите в контекстном меню &lt;f1&gt;Удалить&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10740,6 +10756,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T122954Z" creationid="tagezi" creationdate="20180320T122954Z">
         <seg>Для импорта библиотеки макросов, выберите контейнер библиотек для использования, а затем нажмите кнопку &lt;f0&gt;Импорт&lt;/f0&gt; (Рисунок &lt;t1&gt;2&lt;/t1&gt; на странице &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the option you require from the Delete Cells dialog (Figure &lt;t0&gt;13&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T212720Z" creationid="olex" creationdate="20180407T212720Z">
+        <seg>Выберите необходимое действие в диалоговом окне Удалить ячейки (Рисунок &lt;t0&gt;13&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
