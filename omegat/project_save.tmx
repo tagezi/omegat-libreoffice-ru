@@ -10559,6 +10559,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Move&lt;/f0&gt; to move the sheet or &lt;f1&gt;Copy&lt;/f1&gt; to copy the sheet in the Action area.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T222449Z" creationid="olex" creationdate="20180407T222449Z">
+        <seg>Выберите в поле Действие &lt;f0&gt;Переместить&lt;/f0&gt;, чтобы переместить лист или &lt;f1&gt;Копировать&lt;/f1&gt;, чтобы скопировать лист.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Overwrite&lt;/f0&gt; if you want to replace styles in the original document that have the same name as styles in the document from which you are importing styles.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T194055Z" creationid="olex" creationdate="20180310T193526Z">
@@ -10892,6 +10900,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T215516Z" creationid="olex" creationdate="20180407T215516Z">
         <seg>Выберите лист, рядом с которым вы хотите вставить новый лист, затем выберите в меню &lt;f0&gt;Лист &gt; Вставить лист...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the spreadsheet where you want the sheet to be placed from the drop-down list in &lt;f0&gt;To document&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180407T222640Z" creationid="olex" creationdate="20180407T222640Z">
+        <seg>Выберите таблицу, в которую вы хотите поместить лист, из раскрывающегося списка в &lt;f0&gt;В документ&lt;/f0&gt; в поле Размещение.</seg>
       </tuv>
     </tu>
     <tu>
