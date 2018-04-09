@@ -13724,6 +13724,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To delete a single sheet, right-click on the sheet tab you want to delete and select &lt;f0&gt;Delete Sheet&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Sheet &lt;s2/&gt;&gt; Delete Sheet...&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T160056Z" creationid="olex" creationdate="20180409T160056Z">
+        <seg>Чтобы удалить один лист, щелкните правой кнопкой мыши на вкладке листа, которую вы хотите удалить, и выберите в контекстном меню &lt;f0&gt;Удалить листы...&lt;/f0&gt; или выберите в меню &lt;f1&gt;Лист &lt;s2/&gt;&gt; Удалить листы...&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To delete any unwanted styles, in the Styles window select each one to be deleted (hold &lt;f0&gt;Ctrl&lt;/f0&gt; while selecting multiple styles), and then right-click on a selected style and select &lt;f1&gt;Delete&lt;/f1&gt; on the context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T200824Z" creationid="olex" creationdate="20180310T200824Z">
