@@ -2782,6 +2782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f3&gt;Yes&lt;/f3&gt; to confirm the deletion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T160244Z" creationid="olex" creationdate="20180409T160244Z">
+        <seg>Нажмите &lt;f3&gt;Да&lt;/f3&gt; во всплывающем окне, чтобы подтвердить удаление.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click in a cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202511Z" creationid="olex" creationdate="20180404T202440Z">
@@ -13744,6 +13752,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T213656Z" creationid="olex" creationdate="20180407T213656Z">
         <seg>Чтобы удалить несколько столбцов или строк:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To delete multiple sheets, select the sheets (see “&lt;bf0&gt;Selecting sheets&lt;/bf0&gt;” on page &lt;bf1&gt;22&lt;/bf1&gt;), then right-click one of the sheet tabs and select &lt;f2&gt;Delete Sheet&lt;/f2&gt; from the context menu, or go to &lt;f3&gt;Sheet &gt; Delete Sheet...&lt;/f3&gt; from on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T160541Z" creationid="olex" creationdate="20180409T160541Z">
+        <seg>Чтобы удалить несколько листов, выберите листы (смотрите «&lt;bf0&gt;Выбор листов&lt;/bf0&gt;» на странице &lt;bf1&gt;22&lt;/bf1&gt;), затем щелкните правой кнопкой мыши на вкладке одного из листов и выберите в контекстном меню &lt;f2&gt;Удалить листы...&lt;/f2&gt; или выберите в меню &lt;f3&gt;Лист &gt; Удалить листы...&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
