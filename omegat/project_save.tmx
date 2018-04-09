@@ -2125,6 +2125,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attempting to rename a sheet with an invalid name will produce an error message.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T162512Z" creationid="olex" creationdate="20180409T162512Z">
+        <seg>При попытке ввести имя листа с недопустимыми символами появится сообщение об ошибке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AutoCAD Interchange Format (*.dxf)&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064435Z" creationid="tagezi" creationdate="20180305T064435Z">
@@ -14539,6 +14547,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use &lt;i0/&gt;the zoom function to show more or fewer cells in the window when you are working on a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T162817Z" creationid="olex" creationdate="20180409T162817Z">
+        <seg>Используйте &lt;i0/&gt;функцию масштаб, чтобы показывать больше или меньше ячеек в окне, во время работы с электронной таблицей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use AutoUpdate (paragraph and frame styles only)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T175459Z" creationid="olex" creationdate="20180308T175236Z">
@@ -17274,6 +17290,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201446Z" creationid="Роман" creationdate="20180316T201446Z">
         <seg>x cdot y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>zoom</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T162600Z" creationid="olex" creationdate="20180409T162600Z">
+        <seg>масштаб</seg>
       </tuv>
     </tu>
     <tu>
