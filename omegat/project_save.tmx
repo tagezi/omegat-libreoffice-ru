@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f1&gt;Window borders appear between the rows or columns indicating where the split has been placed, as shown in Figure &lt;t2&gt;18&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T172050Z" creationid="olex" creationdate="20180409T172050Z">
+        <seg>&lt;/f1&gt;Границы окна отобразятся между строками или столбцами, указывая место разделения, как показано на Рисунке &lt;t2&gt;18&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f1&gt;You can still import styles manually from the template, but to reconnect it to the template, you will have to copy it into an empty document based on the template.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T194702Z" creationid="olex" creationdate="20180311T194429Z">
@@ -5928,6 +5936,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204334Z" creationid="Роман" creationdate="20180316T204334Z">
         <seg>Выберите пункт меню &lt;f0&gt;Сервис &gt; Символы&lt;/f0&gt; или щёлкните по значку &lt;f1&gt;Символы&lt;/f1&gt; на панели инструментов, чтобы открыть диалог Символы (Рисунок &lt;t2&gt;4&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Split Window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T171632Z" creationid="olex" creationdate="20180409T171632Z">
+        <seg>Выберите в меню &lt;f0&gt;Вид &gt; Разделить окно&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
