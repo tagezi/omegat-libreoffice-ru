@@ -4725,6 +4725,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;t0&gt;16&lt;/t0&gt;&lt;s1/&gt;shows some frozen rows and columns.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T163843Z" creationid="olex" creationdate="20180409T163843Z">
+        <seg>Рисунок &lt;t0&gt;16&lt;/t0&gt;&lt;s1/&gt;показывает несколько зафиксированных строк и столбцов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;shows the window for Writer, with Paragraph Styles visible.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T063114Z" creationid="olex" creationdate="20180307T204828Z">
@@ -13106,6 +13114,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T064155Z" creationid="User" creationdate="20180311T154515Z">
         <seg>Затем, откройте Редактор формул, выбрав пункт меню &lt;f0&gt;Вставка &gt; Объект &gt; Формула&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, when moving around within a sheet, the cells in frozen rows and columns always remain in view.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T163750Z" creationid="olex" creationdate="20180409T163750Z">
+        <seg>Затем, когда вы перемещаетесь внутри листа, ячейки в зафиксированных строках и столбцах всегда остаются в поле зрения.</seg>
       </tuv>
     </tu>
     <tu>
