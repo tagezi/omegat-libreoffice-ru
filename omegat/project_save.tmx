@@ -5516,6 +5516,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Freezing locks a number of rows at the top of a spreadsheet or a number of columns on the left of a spreadsheet or both rows and columns.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T163647Z" creationid="olex" creationdate="20180409T163647Z">
+        <seg>Фиксирование блокирует ряд строк в верху таблицы или несколько столбцов слева в таблице или одновременно строк и столбцов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Freezing rows and columns</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T184524Z" creationid="olex" creationdate="20180326T184524Z">
@@ -5528,6 +5536,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T184755Z" creationid="olex" creationdate="20180326T184755Z">
         <seg>Фиксация строк и столбцов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freezing&lt;i0/&gt; rows and columns</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T163053Z" creationid="olex" creationdate="20180409T163053Z">
+        <seg>Фиксирование&lt;i0/&gt; строк и столбцов</seg>
       </tuv>
     </tu>
     <tu>
@@ -16358,6 +16374,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>columns, in Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T163020Z" creationid="olex" creationdate="20180409T163020Z">
+        <seg>столбцы в Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>comma separated values (CSV)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T184218Z" creationid="olex" creationdate="20180330T184218Z">
@@ -16642,6 +16666,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T154659Z" creationid="tagezi" creationdate="20180304T154659Z">
         <seg>файлы формул, открытие</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>freezing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T163007Z" creationid="olex" creationdate="20180409T163007Z">
+        <seg>фиксировать</seg>
       </tuv>
     </tu>
     <tu>
@@ -16976,8 +17008,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>rows, in Calc</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180404T205319Z" creationid="olex" creationdate="20180404T205319Z">
-        <seg>строк в Calc</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T163025Z" creationid="olex" creationdate="20180404T205319Z">
+        <seg>строки в Calc</seg>
       </tuv>
     </tu>
     <tu>
