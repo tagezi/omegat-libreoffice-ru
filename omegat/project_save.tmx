@@ -1964,6 +1964,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apart from the first character of the sheet name, permitted characters are letters, numbers, spaces, and the underscore character.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T162418Z" creationid="olex" creationdate="20180409T162418Z">
+        <seg>После первого символа в имени листа, допускается применять: буквы, цифры, пробелы и символ подчеркивания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appendix B &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T150923Z" creationid="lera" creationdate="20180303T150923Z">
@@ -11140,6 +11148,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T173746Z" creationid="olex" creationdate="20180327T173652Z">
         <seg>Обмен содержимым между листами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sheet names must start with either a letter or a number; other characters, including spaces, are not allowed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T162123Z" creationid="olex" creationdate="20180409T162123Z">
+        <seg>Имена листов должны начинаться с буквы или цифры; другие символы, в том числе пробелы, не допускаются.</seg>
       </tuv>
     </tu>
     <tu>
