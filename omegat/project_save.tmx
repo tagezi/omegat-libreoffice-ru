@@ -2302,6 +2302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, the name for each new sheet added is &lt;f0&gt;Sheet&lt;/f0&gt;X, where &lt;f1&gt;X&lt;/f1&gt; is the number of the next sheet to be added.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T161036Z" creationid="olex" creationdate="20180409T161036Z">
+        <seg>По умолчанию имя для каждого нового добавленного листа &lt;f0&gt;Лист&lt;/f0&gt;X, где &lt;f1&gt;X&lt;/f1&gt; - это порядковый номер добавляемого листа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, this feature is turned off when LibreOffice was installed on your computer.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T100354Z" creationid="tagezi" creationdate="20180313T100354Z">
@@ -16862,6 +16870,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>renaming</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T160628Z" creationid="olex" creationdate="20180409T160628Z">
+        <seg>переименование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>resources</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190830Z" creationid="tagezi" creationdate="20180320T190830Z">
@@ -16952,8 +16968,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>sheets</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T185557Z" creationid="olex" creationdate="20180327T185557Z">
-        <seg>листы</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T160635Z" creationid="olex" creationdate="20180327T185557Z">
+        <seg>листов</seg>
       </tuv>
     </tu>
     <tu>
