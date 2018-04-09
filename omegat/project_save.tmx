@@ -3792,6 +3792,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double-click on a sheet tab to open the &lt;f0&gt;Rename Sheet&lt;/f0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T162028Z" creationid="olex" creationdate="20180409T162028Z">
+        <seg>Дважды щелкните по вкладке листа, чтобы открыть диалог &lt;f0&gt;Переименовать лист&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double-click on the formula element in the preview window to select the formula element in the Formula Editor.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180322T135623Z" creationid="Роман" creationdate="20180322T135623Z">
@@ -4116,8 +4124,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Enter the name in the &lt;f0&gt;Name&lt;/f0&gt; text box when you create the sheet using the Insert Sheet dialog (Figure &lt;t1&gt;14&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;24&lt;/t3&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180409T161600Z" creationid="olex" creationdate="20180409T161600Z">
-        <seg>Введите имя в текстовое поле &lt;f0&gt;Имя&lt;/f0&gt; создавая лист в помощью диалогового окна &lt;f1&gt;Вставить лист&lt;&lt;f1&gt; (Рисунок &lt;t1&gt;14&lt;/t1&gt;&lt;s2/&gt; на странице &lt;t3&gt;24&lt;/t3&gt;). ,</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T161731Z" creationid="olex" creationdate="20180409T161600Z">
+        <seg>Введите имя в текстовое поле &lt;f0&gt;Имя&lt;/f0&gt; создавая лист в помощью диалогового окна Вставить лист (Рисунок &lt;t1&gt;14&lt;/t1&gt;&lt;s2/&gt; на странице &lt;t3&gt;24&lt;/t3&gt;). ,</seg>
       </tuv>
     </tu>
     <tu>
@@ -10267,6 +10275,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T215938Z" creationid="olex" creationdate="20180407T215802Z">
         <seg>Щелкните правой кнопкой мыши на пустое место  позади вкладок листов и выберите &lt;f0&gt;Вставить лист...&lt;/f0&gt; из контекстного меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-click on a sheet tab and select &lt;f0&gt;Rename Sheet&lt;/f0&gt; from the context menu to replace the existing name with a different one.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T161936Z" creationid="olex" creationdate="20180409T161936Z">
+        <seg>Щелкните правой кнопкой мыши на вкладке листа и выберите в контекстном меню &lt;f0&gt;Переименовать лист...&lt;/f0&gt;, чтобы изменить имя листа.</seg>
       </tuv>
     </tu>
     <tu>
