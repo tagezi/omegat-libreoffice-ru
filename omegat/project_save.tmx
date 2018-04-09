@@ -4522,6 +4522,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Split screen window borders</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T172723Z" creationid="olex" creationdate="20180409T172723Z">
+        <seg>Рисунок &lt;seq0&gt;18&lt;/seq0&gt;: Граница разделителя окна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: An empty formula document in Math</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T205538Z" creationid="User" creationdate="20180307T205538Z">
@@ -4983,8 +4991,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>For a horizontal split, drag the new horizontal window border beneath the row where you want the horizontal split positioned.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180409T172417Z" creationid="olex" creationdate="20180409T172357Z">
-        <seg>При горизонтальном разделении перетащите новый горизонтальный разделитель окна туда, где хотите разместить разделение.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T172619Z" creationid="olex" creationdate="20180409T172357Z">
+        <seg>При горизонтальном разделении перетащите новый разделитель окна ниже строки, где вы хотите разместить разделение.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5025,6 +5033,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T173710Z" creationid="lera" creationdate="20180303T153202Z">
         <seg>Для получения более подробного списка, обратитесь к справке приложения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a vertical split, drag the new vertical window border across to the right of the column where you want the vertical split positioned.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T172641Z" creationid="olex" creationdate="20180409T172445Z">
+        <seg>При вертикальном разделении перетащите новый разделитель окна справа от столбца, где вы хотите разместить разделение.</seg>
       </tuv>
     </tu>
     <tu>
