@@ -2304,8 +2304,8 @@
       <tuv lang="EN-US">
         <seg>By default, the name for each new sheet added is &lt;f0&gt;Sheet&lt;/f0&gt;X, where &lt;f1&gt;X&lt;/f1&gt; is the number of the next sheet to be added.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180409T161036Z" creationid="olex" creationdate="20180409T161036Z">
-        <seg>По умолчанию имя для каждого нового добавленного листа &lt;f0&gt;Лист&lt;/f0&gt;X, где &lt;f1&gt;X&lt;/f1&gt; - это порядковый номер добавляемого листа.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T161134Z" creationid="olex" creationdate="20180409T161036Z">
+        <seg>По умолчанию имя для каждого нового добавленного листа: &lt;f0&gt;Лист&lt;/f0&gt;X,- где &lt;f1&gt;X&lt;/f1&gt; - это порядковый номер добавляемого листа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4110,6 +4110,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180315T193326Z" creationid="Роман" creationdate="20180315T193326Z">
         <seg>Введите формулу на языке разметки прямо в Редакторе формул.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the name in the &lt;f0&gt;Name&lt;/f0&gt; text box when you create the sheet using the Insert Sheet dialog (Figure &lt;t1&gt;14&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;24&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T161600Z" creationid="olex" creationdate="20180409T161600Z">
+        <seg>Введите имя в текстовое поле &lt;f0&gt;Имя&lt;/f0&gt; создавая лист в помощью диалогового окна &lt;f1&gt;Вставить лист&lt;&lt;f1&gt; (Рисунок &lt;t1&gt;14&lt;/t1&gt;&lt;s2/&gt; на странице &lt;t3&gt;24&lt;/t3&gt;). ,</seg>
       </tuv>
     </tu>
     <tu>
@@ -15325,6 +15333,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While this works for a small spreadsheet with only a few sheets, it can become difficult to identify sheets when a spreadsheet contains many sheets.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T161243Z" creationid="olex" creationdate="20180409T161243Z">
+        <seg>Это работает для небольшой таблицы с несколькими листами, но может оказаться трудно идентифицировать листы, если таблица содержит много листов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Who is this book for?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090921Z" creationid="tagezi" creationdate="20180305T090921Z">
@@ -15866,6 +15882,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T200538Z" creationid="olex" creationdate="20180310T200538Z">
         <seg>Вы можете удалить любые пользовательские стили; но прежде чем вы это сделаете, вы должны убедиться, что эти стили не используются в текущем документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can rename a sheet using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T161313Z" creationid="olex" creationdate="20180409T161313Z">
+        <seg>Вы можете переименовать лист одним из следующих способов:</seg>
       </tuv>
     </tu>
     <tu>
