@@ -14334,6 +14334,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To unfreeze rows or columns, either go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Freeze Cells &gt; Freeze Rows and Columns&lt;/f1&gt; or click on the &lt;f2&gt;Freeze Rows and Columns&lt;/f2&gt; icon in the main toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T165245Z" creationid="olex" creationdate="20180409T165245Z">
+        <seg>Чтобы отменить фиксацию строк или столбцов, выберите в меню &lt;f0&gt;Вид &gt;  Фиксировать ячейки &gt; Фиксировать строки и столбцы&lt;/f0&gt; или нажмите на значок &lt;f1&gt;Фиксировать строки и столбцы&lt;/f1&gt; на панели инструментов Стандартная.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To update a style from a selection:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180952Z" creationid="olex" creationdate="20180308T180839Z">
