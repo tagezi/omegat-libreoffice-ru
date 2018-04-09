@@ -12603,6 +12603,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The heavier horizontal line between rows 3 and 23 and the heavier vertical line between columns F and Q indicate that rows 1 to 3 and columns A to F are frozen.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T164041Z" creationid="olex" creationdate="20180409T164041Z">
+        <seg>Более широкая горизонтальная линия между строками 3 и 23 и более широкая вертикальная линия между столбцами F и Q указывают, что строки с 1 по 3 и столбцы от A до F заморожены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The icons &lt;df8&gt;&lt;di9/&gt;&lt;/df8&gt;&lt;s10/&gt;in the formula bar are equivalent to the &lt;f11&gt;Enter&lt;/f11&gt; and &lt;f12&gt;Esc&lt;/f12&gt; commands.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T184021Z" creationid="olex" creationdate="20180329T184021Z">
@@ -12946,6 +12954,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T191234Z" creationid="olex" creationdate="20180330T191234Z">
         <seg>Строки отображаются в окне предварительного просмотра в нижней части диалогового окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rows between 3 and 23 and the columns between F and Q have been scrolled off the page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T164158Z" creationid="olex" creationdate="20180409T164158Z">
+        <seg>Строки между 3 и 23 и столбцы между F и Q не прокручиваются со страницей.</seg>
       </tuv>
     </tu>
     <tu>
