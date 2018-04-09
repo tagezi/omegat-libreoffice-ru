@@ -2870,6 +2870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click into the cell that is immediately below the rows you want to freeze and immediately to the right of the columns you want frozen.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T164409Z" creationid="olex" creationdate="20180409T164409Z">
+        <seg>Выделите ячейку, которая находится под строками, которые вы хотите зафиксировать, и справа от столбцов, которые вы хотите зафиксировать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on all of the subsequent columns or rows while holding down the &lt;f0&gt;Ctrl&lt;/f0&gt; key.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T184103Z" creationid="olex" creationdate="20180405T184103Z">
@@ -2882,6 +2890,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T214710Z" creationid="olex" creationdate="20180407T214710Z">
         <seg>Нажмите на значок &lt;f0&gt;Добавить лист&lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt; в нижней части экрана, чтобы вставить новый лист после последнего листа в электронной таблице без открытия диалогового окна &lt;f5&gt;Вставить лист...&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on the &lt;f0&gt;Freeze Rows and Columns&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;in the main toolbar or go to &lt;f3&gt;View&lt;/f3&gt; on the Menu bar and select &lt;f4&gt;Freeze Cells &gt; Freeze Rows and Columns&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T164741Z" creationid="olex" creationdate="20180409T164741Z">
+        <seg>Нажмите на значок &lt;f0&gt;Фиксировать строки и столбцы&lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; на панели инструментов Стандартная или выберите в меню &lt;f3&gt;Вид &gt; Фиксировать ячейки &gt; Фиксировать строки и столбцы&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4442,6 +4458,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Frozen rows and columns</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T164225Z" creationid="olex" creationdate="20180409T164225Z">
+        <seg>Рисунок &lt;seq0&gt;16&lt;/seq0&gt;: Зафиксированные строки и столбцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Some table styles in LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T205017Z" creationid="olex" creationdate="20180316T205017Z">
@@ -5536,6 +5560,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T184524Z" creationid="olex" creationdate="20180326T184524Z">
         <seg>Фиксация строк и столбцов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freezing rows or column&lt;be0/&gt;s</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T164412Z" creationid="olex" creationdate="20180409T164250Z">
+        <seg>Фиксировать строки или столбцы&lt;be0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
