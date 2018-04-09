@@ -4498,6 +4498,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Split screen example</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T170558Z" creationid="olex" creationdate="20180409T170558Z">
+        <seg>Рисунок &lt;seq0&gt;17&lt;/seq0&gt;: Пример разделения окна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: An empty formula document in Math</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T205538Z" creationid="User" creationdate="20180307T205538Z">
@@ -16128,8 +16136,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can then change the number in one cell and watch how it affects each of the formulas.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180409T170227Z" creationid="olex" creationdate="20180409T170227Z">
-        <seg>Используя технику разделения экрана, вы можете поместить ячейку, содержащую номер в одном разделе, и каждую ячейку с формулами в других разделах.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T170417Z" creationid="olex" creationdate="20180409T170227Z">
+        <seg>Затем вы можете изменять число в ячейке и смотреть, как это влияет на каждую из формул.</seg>
       </tuv>
     </tu>
     <tu>
