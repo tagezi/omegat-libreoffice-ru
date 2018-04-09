@@ -80,8 +80,8 @@
       <tuv lang="EN-US">
         <seg>&lt;/f1&gt;Window borders appear between the rows or columns indicating where the split has been placed, as shown in Figure &lt;t2&gt;18&lt;/t2&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180409T172050Z" creationid="olex" creationdate="20180409T172050Z">
-        <seg>&lt;/f1&gt;Границы окна отобразятся между строками или столбцами, указывая место разделения, как показано на Рисунке &lt;t2&gt;18&lt;/t2&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T173644Z" creationid="olex" creationdate="20180409T172050Z">
+        <seg>Границы окна отобразятся между строками или столбцами, указывая место разделения, как показано на Рисунке &lt;t2&gt;18&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2342,6 +2342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, numbers are right aligned in a cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T174053Z" creationid="olex" creationdate="20180409T174053Z">
+        <seg>По умолчанию числа выравниваются по правой стороне в ячейке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, tables of contents use Heading styles, but you can use whatever combination of styles you prefer.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T203031Z" creationid="olex" creationdate="20180316T203031Z">
@@ -2858,6 +2866,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202511Z" creationid="olex" creationdate="20180404T202440Z">
         <seg>Щелкните по ячейке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click in the cell and type in a number using the number keys on either the main keyboard or numeric keypad.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T173917Z" creationid="olex" creationdate="20180409T173917Z">
+        <seg>Нажмите на ячейку и введите число с помощью цифровых клавиш на основной клавиатуре или цифровой клавиатуре.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5972,6 +5988,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;Split Window.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T173208Z" creationid="olex" creationdate="20180409T173208Z">
+        <seg>Выберите в меню снова &lt;f0&gt;Вид &gt; Разделить окно&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Split Window.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T171632Z" creationid="olex" creationdate="20180409T171632Z">
@@ -8778,6 +8802,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T185536Z" creationid="olex" creationdate="20180330T184839Z">
         <seg>Большинство CSV-файлов поступают из таблиц, запросов или отчетов баз данных, когда требуются дальнейшие вычисления и диаграммы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most data entry in Calc can be accomplished using the keyboard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T173749Z" creationid="olex" creationdate="20180409T173257Z">
+        <seg>В большинстве случаев ввод данных в Calc может быть выполнен с использованием клавиатуры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17122,6 +17154,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T195126Z" creationid="olex" creationdate="20180402T195126Z">
         <seg>перемещение по листам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>numbers</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T173301Z" creationid="olex" creationdate="20180409T173301Z">
+        <seg>числа</seg>
       </tuv>
     </tu>
     <tu>
