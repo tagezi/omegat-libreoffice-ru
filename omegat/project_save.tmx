@@ -1860,6 +1860,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An example of splitting the screen is shown in Figure &lt;t0&gt;17&lt;/t0&gt;&lt;s1/&gt;where a split is indicated by additional window borders within the sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T165917Z" creationid="olex" creationdate="20180409T165917Z">
+        <seg>Пример разделения окна показан на Рисунке &lt;t0&gt;17&lt;/t0&gt;&lt;s1/&gt;, где разделение обозначается дополнительными границами окна внутри листа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example of this type is the Find &amp; Replace dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T154257Z" creationid="tagezi" creationdate="20180310T154257Z">
@@ -13018,6 +13026,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T164158Z" creationid="olex" creationdate="20180409T164158Z">
         <seg>Строки между 3 и 23 и столбцы между F и Q не прокручиваются со страницей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The screen can be split horizontally, vertically, or both, giving you up to four portions of the spreadsheet in view at any one time.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180409T165923Z" creationid="olex" creationdate="20180409T165826Z">
+        <seg>Окно можно разделить по горизонтали, вертикали или по вертикали и горизонтали, одновременно вы можете просматривать до четырех частей таблицы.</seg>
       </tuv>
     </tu>
     <tu>
