@@ -2742,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; and the number, when entered, is converted to text and, by default, left aligned.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T184133Z" creationid="olex" creationdate="20180411T184133Z">
+        <seg>Нажмите &lt;f0&gt;ОК&lt;/f0&gt;, число в ячейке, преобразуется в текст и по умолчанию выравнивается влево.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close this small dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T133414Z" creationid="tagezi" creationdate="20180312T133414Z">
@@ -8586,6 +8594,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060158Z" creationid="tagezi" creationdate="20180313T095717Z">
         <seg>Убедитесь, что запись макроса включена, выбрав в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Расширенные возможности&lt;/f0&gt; и  установив флажок &lt;f1&gt;Включить запись макросов&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure the &lt;f0&gt;Numbers&lt;/f0&gt; page is selected, then select &lt;f1&gt;Text&lt;/f1&gt; from the &lt;f2&gt;Category&lt;/f2&gt; list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T183759Z" creationid="olex" creationdate="20180411T183646Z">
+        <seg>Убедитесь, что выбрана вкладка &lt;f0&gt;Числа&lt;/f0&gt;, затем выберите &lt;f1&gt;Текст&lt;/f1&gt; в списке &lt;f2&gt;Категория&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15911,8 +15927,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>With the cell selected, right-click on the cell and select &lt;f0&gt;Format Cells&lt;/f0&gt; from the context menu or go to &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; on the Menu bar or use the keyboard shortcut &lt;f2&gt;Ctrl+1&lt;/f2&gt; to open the &lt;f3&gt;Format Cells&lt;/f3&gt; dialog (Figure &lt;t4&gt;19&lt;/t4&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180411T183557Z" creationid="olex" creationdate="20180411T183557Z">
-        <seg>Выбрав ячейку, щелкните правой кнопкой мыши на ней и выберите в контекстном меню &lt;f0&gt;Формат ячеек&lt;/f0&gt; или выберите в меню &lt;f1&gt;Формат &gt; Ячейки...&lt;/f1&gt;, или используйте сочетание клавиш &lt;f2&gt;Ctrl+1&lt;/f2&gt;, чтобы открыть диалог &lt;f3&gt;Формат ячеек&lt;/f3&gt; (Рисунок &lt;t4&gt; 19 &lt;/ t4&gt;).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T183830Z" creationid="olex" creationdate="20180411T183557Z">
+        <seg>Выбрав ячейку, щелкните правой кнопкой мыши на ней и выберите в контекстном меню &lt;f0&gt;Формат ячеек...&lt;/f0&gt; или выберите в меню &lt;f1&gt;Формат &gt; Ячейки...&lt;/f1&gt;, или используйте сочетание клавиш &lt;f2&gt;Ctrl+1&lt;/f2&gt;, чтобы открыть диалог &lt;f3&gt;Формат ячеек&lt;/f3&gt; (Рисунок &lt;t4&gt;19&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
