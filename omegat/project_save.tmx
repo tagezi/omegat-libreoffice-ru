@@ -2344,8 +2344,8 @@
       <tuv lang="EN-US">
         <seg>By default, numbers are right aligned in a cell.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180409T174104Z" creationid="olex" creationdate="20180409T174053Z">
-        <seg>By default, numbers are right aligned in a cell.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T175506Z" creationid="olex" creationdate="20180409T174053Z">
+        <seg>По умолчанию, числа в ячейке выравниваются по право стороне.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14072,6 +14072,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T191839Z" creationid="olex" creationdate="20180311T191839Z">
         <seg>Чтобы изменить шаблон:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To enter a negative number, either type a minus (–) sign in front of the number or enclose the number in parentheses (), for example (1234).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T180108Z" creationid="olex" creationdate="20180411T180108Z">
+        <seg>Чтобы ввести отрицательное число, введите знак минуса (-) перед числом или укажите число в круглых скобках (), например (1234).</seg>
       </tuv>
     </tu>
     <tu>
