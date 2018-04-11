@@ -4620,6 +4620,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Set Leading zeroes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T182944Z" creationid="olex" creationdate="20180411T182944Z">
+        <seg>Рисунок &lt;seq0&gt;20&lt;/seq0&gt;: Установка ведущих нулей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Dialog showing common controls</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T144853Z" creationid="tagezi" creationdate="20180310T144853Z">
@@ -6496,6 +6504,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103438Z" creationid="tagezi" creationdate="20180320T103438Z">
         <seg>Если макрос содержится в документе, тогда записанный макрос будет пытаться работать над этим документом; потому что в первую очередь использует «ThisComponent» для своих действий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a number is entered with leading zeroes, for example 01481, without first setting the Leading zeros parameter, then by default Calc will automatically drop the leading 0.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T183054Z" creationid="olex" creationdate="20180411T183054Z">
+        <seg>Если вводить число с ведущими нулями, например 01481, без предварительной настройки параметра Ведущие нули, то по умолчанию Calc автоматически отбрасывает незначащие 0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14404,6 +14420,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To preserve leading zeros in a number:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T183114Z" creationid="olex" creationdate="20180411T183114Z">
+        <seg>Чтобы сохранить ведущие нули в числе:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To publish on a Wiki server, export the documents with MediaWiki (.txt) format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T212011Z" creationid="tagezi" creationdate="20180304T212011Z">
@@ -14724,6 +14748,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T223205Z" creationid="olex" creationdate="20180407T223129Z">
         <seg>Введите имя в текстовое поле &lt;f0&gt;Новое имя&lt;/f0&gt;, если хотите переименовать лист.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type an apostrophe (') before the number, for example '01481.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T183207Z" creationid="olex" creationdate="20180411T183207Z">
+        <seg>Вводите апостроф (') перед числом, например '01481.</seg>
       </tuv>
     </tu>
     <tu>
