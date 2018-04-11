@@ -14334,6 +14334,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To retain a minimum number of integer characters in a cell when entering numbers in order to retain the number format, for example 1234 and 0012, leading zeros have to be added using one of the following methods.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T181041Z" creationid="olex" creationdate="20180411T181041Z">
+        <seg>Чтобы установить минимальное количество отображаемых разрядов целых чисел в ячейке при вводе, когда задается формат числа, например 1234 и 0012, необходимо добавить отображение начальных нулей одним из следующих способов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To save a spreadsheet, see &lt;f0&gt;Chapter 1 Introducing LibreOffice&lt;/f0&gt; for more details on how to save files manually or automatically.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T180433Z" creationid="olex" creationdate="20180402T180230Z">
