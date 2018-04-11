@@ -5669,6 +5669,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Formula functions will ignore text entries.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T185212Z" creationid="olex" creationdate="20180411T185212Z">
+        <seg>Функции в формулах будут игнорировать текстовые записи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Formulas are inserted as OLE objects into documents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180312T102021Z" creationid="User" creationdate="20180312T102021Z">
@@ -16242,6 +16250,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T193137Z" creationid="olex" creationdate="20180329T191654Z">
         <seg>Вы можете рассчитать среднее значение и сумму, количество ячеек и многое другое по выбору, щелкнув правой кнопкой мыши &lt;t0/&gt;по области информации про ячейку в строке состояния и выбрав операции, которые вы хотите отобразить в строке состояния (Рисунок &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can change this feature in &lt;f0&gt;Tools – Options – LibreOffice – Calc – Formula&lt;/f0&gt;, in &lt;f1&gt;Detailed Calculation Settings&lt;/f1&gt;, select &lt;f2&gt;Custom (conversion of text to numbers and more)&lt;/f2&gt; and then select the proper treatment in the &lt;f3&gt;Convert from text to numbers&lt;/f3&gt; drop down list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T190132Z" creationid="olex" creationdate="20180411T190132Z">
+        <seg>Вы можете изменить это поведение в &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Calc &gt; Формула&lt;/f0&gt;, в &lt;f1&gt;Подробные настройки вычислений&lt;/f1&gt;, выберите &lt;f2&gt;Особые (преобразование текста в числа и прочее)&lt;/f2&gt;, а затем выберите &lt;f2&gt;Подробности&lt;/f2&gt; и в открывшемся диалоговом окне &lt;f2&gt;Подробные настройки вычислений&lt;/f2&gt; в раскрывающемся списке &lt;f3&gt;Преобразование из текста в число&lt;/f3&gt; выберите &lt;f3&gt; &lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
