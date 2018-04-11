@@ -8944,6 +8944,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the cell focus to another cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T183227Z" creationid="olex" creationdate="20180411T183227Z">
+        <seg>Переместите фокус в другую ячейку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the mouse around the screen.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202555Z" creationid="olex" creationdate="20180404T202555Z">
@@ -9437,6 +9445,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T191847Z" creationid="olex" creationdate="20180326T191847Z">
         <seg>Числа, как текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Numbers can also be entered as text using one of the following methods.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T183338Z" creationid="olex" creationdate="20180411T183338Z">
+        <seg>Числа также могут быть введены в виде текста одним из следующих способов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12511,6 +12527,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134847Z" creationid="tagezi" creationdate="20180320T134847Z">
         <seg>Ответы будут определять, где хранить макрос, и как он должен быть доступным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The apostrophe is automatically removed, the leading zeros are retained and the number is converted to text left aligned.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T183318Z" creationid="olex" creationdate="20180411T183318Z">
+        <seg>Апостроф автоматически скроется, ведущие нули сохранятся, но число преобразуется в текст и выравнивается влево.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15881,6 +15905,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T073448Z" creationid="tagezi" creationdate="20180319T073448Z">
         <seg>С практикой это становится чем-то обыденным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the cell selected, right-click on the cell and select &lt;f0&gt;Format Cells&lt;/f0&gt; from the context menu or go to &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; on the Menu bar or use the keyboard shortcut &lt;f2&gt;Ctrl+1&lt;/f2&gt; to open the &lt;f3&gt;Format Cells&lt;/f3&gt; dialog (Figure &lt;t4&gt;19&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T183557Z" creationid="olex" creationdate="20180411T183557Z">
+        <seg>Выбрав ячейку, щелкните правой кнопкой мыши на ней и выберите в контекстном меню &lt;f0&gt;Формат ячеек&lt;/f0&gt; или выберите в меню &lt;f1&gt;Формат &gt; Ячейки...&lt;/f1&gt;, или используйте сочетание клавиш &lt;f2&gt;Ctrl+1&lt;/f2&gt;, чтобы открыть диалог &lt;f3&gt;Формат ячеек&lt;/f3&gt; (Рисунок &lt;t4&gt; 19 &lt;/ t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
