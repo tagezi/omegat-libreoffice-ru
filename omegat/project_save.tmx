@@ -13086,6 +13086,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result for both methods of entry will be the same, for example -1234.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T180238Z" creationid="olex" creationdate="20180411T180238Z">
+        <seg>Результат будет одинаковым, для обоих методов ввода: -1234.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The resulting document will contain only the changed text.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T202616Z" creationid="olex" creationdate="20180313T202616Z">
