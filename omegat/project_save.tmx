@@ -2886,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click back on the cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T184504Z" creationid="olex" creationdate="20180411T184504Z">
+        <seg>Нажмите на ячейку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click in a cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202511Z" creationid="olex" creationdate="20180404T202440Z">
@@ -5600,6 +5608,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T182926Z" creationid="olex" creationdate="20180411T182926Z">
         <seg>Форматирование применяется немедленно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formatting is applied to the cell immediately.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T184413Z" creationid="olex" creationdate="20180411T184413Z">
+        <seg>Форматирование к ячейке применяется немедленно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9703,6 +9719,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open the Sidebar (&lt;f0&gt;View &gt; Sidebar&lt;/f0&gt;) and click the &lt;f1&gt;Open Panel&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) icon on the &lt;f3&gt;Number Format&lt;/f3&gt; panel.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T184241Z" creationid="olex" creationdate="20180411T184241Z">
+        <seg>Откройте боковую панель (&lt;f0&gt;Вид &gt; Боковая панель&lt;/f0&gt;) и щелкните значок &lt;f1&gt;Открыть панель&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) на панели &lt;f3&gt;Формат чисел&lt;/f3&gt; ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open the Styles &lt;s0/&gt;window</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T150558Z" creationid="olex" creationdate="20180306T174530Z">
@@ -10995,6 +11019,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130701Z" creationid="tagezi" creationdate="20180320T130701Z">
         <seg>Выберите &lt;f0&gt;Заменить существующие библиотеки&lt;/f0&gt;, если библиотека, которую вы хотите импортировать, имеет то же имя и вы хотите заменить существующую библиотеку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Text&lt;/f0&gt; in the &lt;f1&gt;Category&lt;/f1&gt; list box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T184341Z" creationid="olex" creationdate="20180411T184341Z">
+        <seg>Выберите &lt;f0&gt;Текст&lt;/f0&gt; в выпадающем списке &lt;f1&gt;Выбор категории содержимого&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
