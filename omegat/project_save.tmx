@@ -4572,8 +4572,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Format Cells dialog – Numbers page</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180411T182234Z" creationid="olex" creationdate="20180411T182234Z">
-        <seg>Рисунок &lt;seq0&gt;19&lt;/seq0&gt;: Диалоговое окно Формат ячеек - страница Числа</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T182338Z" creationid="olex" creationdate="20180411T182234Z">
+        <seg>Рисунок &lt;seq0&gt;19&lt;/seq0&gt;: Диалоговое окно Формат ячеек - вкладка Числа</seg>
       </tuv>
     </tu>
     <tu>
@@ -9635,6 +9635,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T155452Z" creationid="lera" creationdate="20180303T155452Z">
         <seg>Открыть окно навигатора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the Sidebar (&lt;f0&gt;View &gt; Sidebar&lt;/f0&gt;) and click the &lt;f1&gt;Open Panel&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) icon on the &lt;f3&gt;Number Format&lt;/f3&gt; panel to open it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T182618Z" creationid="olex" creationdate="20180411T182618Z">
+        <seg>Откройте боковую панель (&lt;f0&gt;Вид &gt; Боковая панель&lt;/f0&gt;) и щелкните по значку &lt;f1&gt;Открыть панель &lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) на панели &lt;f3&gt;Формат чисел&lt;/f3&gt; чтобы раскрыть ее.</seg>
       </tuv>
     </tu>
     <tu>
