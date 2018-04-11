@@ -5149,6 +5149,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, for four characters, enter 4.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T181646Z" creationid="olex" creationdate="20180411T181646Z">
+        <seg>Например, для четырех символов введите 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, in Writer &lt;f0&gt;Ctrl+0&lt;/f0&gt; applies the &lt;f1&gt;Text body&lt;/f1&gt; style, &lt;f2&gt;Ctrl+1&lt;/f2&gt; applies the &lt;f3&gt;Heading 1&lt;/f3&gt; style, and &lt;f4&gt;Ctrl+2&lt;/f4&gt; applies the &lt;f5&gt;Heading 2&lt;/f5&gt; style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T094320Z" creationid="olex" creationdate="20180308T172649Z">
@@ -6957,6 +6965,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In &lt;f0&gt;Options &gt; Leading Zeros&lt;/f0&gt;, enter the minimum number of characters required.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T181630Z" creationid="olex" creationdate="20180411T181630Z">
+        <seg>В &lt;f0&gt;Параметры &gt; Ведущие нули&lt;/f0&gt; введите минимальное количество символов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In &lt;f0&gt;Save In&lt;/f0&gt;, select LibreOffice, or a specific document from the drop down menu to save your event.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T161719Z" creationid="tagezi" creationdate="20180320T161719Z">
@@ -8522,6 +8538,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060158Z" creationid="tagezi" creationdate="20180313T095717Z">
         <seg>Убедитесь, что запись макроса включена, выбрав в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Расширенные возможности&lt;/f0&gt; и  установив флажок &lt;f1&gt;Включить запись макросов&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure the &lt;f0&gt;Numbers&lt;/f0&gt; tab is selected then select &lt;f1&gt;Number&lt;/f1&gt; in the &lt;f2&gt;Category&lt;/f2&gt; list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T181537Z" creationid="olex" creationdate="20180411T181537Z">
+        <seg>Убедитесь, что выбрана вкладка &lt;f0&gt;Числа&lt;/f0&gt;, затем выберите &lt;f1&gt;Числовой&lt;/f1&gt; в списке &lt;f2&gt;Категория&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
