@@ -5580,6 +5580,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Formatting is applied immediately.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T182926Z" creationid="olex" creationdate="20180411T182926Z">
+        <seg>Форматирование применяется немедленно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Formatting numbers</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T174936Z" creationid="olex" creationdate="20180327T174541Z">
@@ -10919,6 +10927,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Number&lt;/f0&gt; in the &lt;f1&gt;Category&lt;/f1&gt; list box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T182800Z" creationid="olex" creationdate="20180411T182800Z">
+        <seg>Выберите &lt;f0&gt;Числовой&lt;/f0&gt; в выпадающем списке &lt;f1&gt;Выбор категории содержимого&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Overwrite&lt;/f0&gt; if you want to replace styles in the original document that have the same name as styles in the document from which you are importing styles.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T194055Z" creationid="olex" creationdate="20180310T193526Z">
@@ -11372,6 +11388,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T205345Z" creationid="olex" creationdate="20180404T205345Z">
         <seg>Выделение&lt;i0/&gt; столбцов и строк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the &lt;f0&gt;Leading zeroes&lt;/f0&gt; value box to &lt;f1&gt;4&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T182841Z" creationid="olex" creationdate="20180411T182841Z">
+        <seg>Установите в поле &lt;f0&gt;Ведущие нули&lt;/f0&gt; значение &lt;f1&gt;4&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
