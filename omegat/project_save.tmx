@@ -2349,6 +2349,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>denkin: есть очевидный косяк с этим утверждением: например числа отформатированные как текст чудесно складываюся и перемножаются, но не суммируются</note>
+      <tuv lang="EN-US">
+        <seg>By default, any numbers that have been formatted as text in a spreadsheet will be treated as a zero by any formulas used in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T185129Z" creationid="olex" creationdate="20180411T185129Z">
+        <seg>Любые числа, которые были отформатированы как текст в электронной таблице, по умолчанию будут обрабатываться как ноль в любых формулах с функциями, используемых в электронной таблице.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>By default, numbers are right aligned in a cell.</seg>
       </tuv>
@@ -4254,6 +4263,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T161731Z" creationid="olex" creationdate="20180409T161600Z">
         <seg>Введите имя в текстовое поле &lt;f0&gt;Имя&lt;/f0&gt; создавая лист в помощью диалогового окна Вставить лист (Рисунок &lt;t1&gt;14&lt;/t1&gt;&lt;s2/&gt; на странице &lt;t3&gt;24&lt;/t3&gt;). ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the number and move focus from the cell to have the data formatted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T184639Z" creationid="olex" creationdate="20180411T184600Z">
+        <seg>Введите число и переместите фокус на другую ячейку, чтобы применить формат к данным.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11025,8 +11042,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Text&lt;/f0&gt; in the &lt;f1&gt;Category&lt;/f1&gt; list box.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180411T184341Z" creationid="olex" creationdate="20180411T184341Z">
-        <seg>Выберите &lt;f0&gt;Текст&lt;/f0&gt; в выпадающем списке &lt;f1&gt;Выбор категории содержимого&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180411T184607Z" creationid="olex" creationdate="20180411T184341Z">
+        <seg>Выберите &lt;f0&gt;Текстовый&lt;/f0&gt; в выпадающем списке &lt;f1&gt;Выбор категории содержимого&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
