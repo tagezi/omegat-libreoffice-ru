@@ -8655,6 +8655,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure the &lt;f0&gt;Numbers&lt;/f0&gt; page is selected, then select &lt;f1&gt;Date&lt;/f1&gt; or &lt;f2&gt;Time&lt;/f2&gt; from the &lt;f3&gt;Category&lt;/f3&gt; list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T192015Z" creationid="olex" creationdate="20180412T192015Z">
+        <seg>Убедитесь, что выбрана вкладка &lt;f0&gt;Числа&lt;/f0&gt;, затем выберите &lt;f1&gt;Дата&lt;/f1&gt; или &lt;f2&gt;Время&lt;/f2&gt; в списке &lt;f3&gt;Категория&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure the &lt;f0&gt;Numbers&lt;/f0&gt; page is selected, then select &lt;f1&gt;Text&lt;/f1&gt; from the &lt;f2&gt;Category&lt;/f2&gt; list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T183759Z" creationid="olex" creationdate="20180411T183646Z">
@@ -11285,6 +11293,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T213939Z" creationid="olex" creationdate="20180407T213939Z">
         <seg>Выберите столбцы или строки, смотрите «&lt;bf0&gt;Несколько столбцов или строк&lt;/bf0&gt;» на странице &lt;bf1&gt;21&lt;/bf1&gt;&lt;s2/&gt; для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the date or time format you want to use from the &lt;f0&gt;Format&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T192146Z" creationid="olex" creationdate="20180412T192146Z">
+        <seg>Выберите формат даты или времени, который вы хотите использовать, в списке &lt;f0&gt;Формат&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
