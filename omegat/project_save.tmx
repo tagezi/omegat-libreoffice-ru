@@ -16359,6 +16359,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also undo any autocorrection changes by using the keyboard shortcut &lt;f0&gt;Ctrl+Z&lt;/f0&gt; or manually by going back to the change and replacing the autocorrection with what you want to actually see.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T194225Z" creationid="olex" creationdate="20180412T194225Z">
+        <seg>Вы также можете отменить изменения автокоррекции с помощью сочетания клавиш &lt;f0&gt;Ctrl+Z&lt;/f0&gt; или вручную, вернувшись к измененному месту и заменив результат автокоррекции тем, что вам необходимо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also write macros that directly access the objects that comprise LibreOffice if you are confident in writing computer code.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T185557Z" creationid="tagezi" creationdate="20180320T185557Z">
