@@ -2871,6 +2871,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T192156Z" creationid="olex" creationdate="20180412T192156Z">
+        <seg>Нажмите &lt;f1&gt;ОК&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f2&gt;Use [xxx] Format&lt;/f2&gt; to continue saving in your selected spreadsheet format or click &lt;f3&gt;Use ODF Format&lt;/f3&gt; to save the spreadsheet in Calc ODS format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T190047Z" creationid="olex" creationdate="20180402T190047Z">
@@ -14238,8 +14246,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To change the date or time format used by Calc, use one of the following methods.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180412T191422Z" creationid="olex" creationdate="20180412T191422Z">
-        <seg>Чтобы изменить формат даты или времени, используемый Calc, используйте один из следующих способов.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T192223Z" creationid="olex" creationdate="20180412T191422Z">
+        <seg>Чтобы изменить формат даты или времени, используемый Calc, используйте один из следующих методов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16050,6 +16058,15 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T073448Z" creationid="tagezi" creationdate="20180319T073448Z">
         <seg>С практикой это становится чем-то обыденным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>denkin: в исходнике битая ссылка на рисунок 20</note>
+      <tuv lang="EN-US">
+        <seg>With the cell selected, open the Sidebar (&lt;f0&gt;View &gt; Sidebar&lt;/f0&gt;) and (if necessary) click the &lt;f1&gt;Open Panel&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) icon on the &lt;f3&gt;Number Format&lt;/f3&gt; panel (Figure &lt;t4&gt;Ошибка: источник перекрёстной ссылки не найден&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T192811Z" creationid="olex" creationdate="20180412T192211Z">
+        <seg>Выберите ячейку и откройте боковую панель (&lt;f0&gt;Вид &gt; Боковая панель&lt;/f0&gt;) и, при необходимости, щелкните значок &lt;f1&gt;Открыть панель&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) на вкладке &lt;f3&gt;Формат чисел&lt;/f3&gt; (Рисунок &lt;t4&gt;20&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
