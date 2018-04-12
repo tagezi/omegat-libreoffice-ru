@@ -2375,6 +2375,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, text is left-aligned in a cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T185445Z" creationid="olex" creationdate="20180412T185445Z">
+        <seg>По умолчанию, текст в ячейке выравнивается по левой стороне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, the name for each new sheet added is &lt;f0&gt;Sheet&lt;/f0&gt;X, where &lt;f1&gt;X&lt;/f1&gt; is the number of the next sheet to be added.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T161134Z" creationid="olex" creationdate="20180409T161036Z">
@@ -11237,6 +11245,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T093842Z" creationid="Роман" creationdate="20180316T093733Z">
         <seg>Выберите категорию, которую хотите использовать в формуле из выпадающего списка в верхней части панели Элементы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the cell and type the date or time.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T190128Z" creationid="olex" creationdate="20180412T190128Z">
+        <seg>Выберите ячейку и введите дату или время.</seg>
       </tuv>
     </tu>
     <tu>
