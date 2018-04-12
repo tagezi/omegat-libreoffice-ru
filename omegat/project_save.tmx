@@ -2447,6 +2447,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calc automatically applies many changes during data input using autocorrection, unless you have deactivated any autocorrect changes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T193924Z" creationid="olex" creationdate="20180412T193924Z">
+        <seg>Calc применяет много изменений во время ввода данных автоматически, используя автокоррекцию, если вы не отключили автокоррекцию данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calc can also save spreadsheets in a range of formats and also export spreadsheets to PDF, HTML, XHTML file formats and JPEG and PNG images formats; see the &lt;f1&gt;Calc Guide Chapter 6 Printing, Exporting, and E-mailing&lt;/f1&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T180650Z" creationid="olex" creationdate="20180402T180335Z">
@@ -3107,6 +3115,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T141428Z" creationid="tagezi" creationdate="20180320T141428Z">
         <seg>Нажмите кнопку &lt;f0&gt;Справка&lt;/f0&gt;, чтобы обратится к страницам справки установленных с LibreOffice, или смотрите &lt;f1&gt;Глава 14 Настройка LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;More Options&lt;/f0&gt; button in the panel title bar to open the &lt;f1&gt;Format Cells&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T193143Z" creationid="olex" creationdate="20180412T193143Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Дополнительные параметры&lt;/f0&gt; в строке заголовка панели, чтобы открыть диалоговое окно &lt;f1&gt;Формат ячеек&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10972,6 +10988,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T180913Z" creationid="olex" creationdate="20180306T180913Z">
         <seg>Смотрите “&lt;rf0&gt;Настройка шаблона по умолчанию&lt;/rf0&gt;” на странице &lt;rf1&gt;18&lt;/rf1&gt;&lt;s2/&gt;для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Date&lt;/f0&gt; in the &lt;f1&gt;Category&lt;/f1&gt; list box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T192929Z" creationid="olex" creationdate="20180412T192929Z">
+        <seg>Выберите &lt;f0&gt;Дата&lt;/f0&gt; в выпадающем списке списке &lt;f1&gt;Выбор категории содержимого&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
