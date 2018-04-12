@@ -4229,8 +4229,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Edits the replacement table for automatically correcting or replacing words or abbreviations in the document.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180412T195144Z" creationid="olex" creationdate="20180412T194852Z">
-        <seg>Изменяется таблица значений для автоматической коррекции или замены слов или сокращений в документе.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T195710Z" creationid="olex" creationdate="20180412T194852Z">
+        <seg>Измените таблицу значений для автоматической коррекции или замены слов или сокращений в документе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10632,6 +10632,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resets modified values back to the LibreOffice default values.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T200054Z" creationid="olex" creationdate="20180412T200054Z">
+        <seg>Сбрасывает настройки к значениям LibreOffice по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resetting the default template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195314Z" creationid="olex" creationdate="20180306T195314Z">
@@ -11860,16 +11868,16 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Specify the AutoCorrect options for quotation marks and for options that are specific to the language of the text.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180412T195653Z" creationid="olex" creationdate="20180412T195653Z">
-        <seg>Укажите параметры автозамены для кавычек и для параметров, специфичных для языка текста.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T195928Z" creationid="olex" creationdate="20180412T195653Z">
+        <seg>Укажите параметры автозамены для кавычек и настройки, специфичные для текста на вашем языке.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Specify the abbreviations or letter combinations that you do not want LibreOffice to correct automatically.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180412T195304Z" creationid="olex" creationdate="20180412T195137Z">
-        <seg>Указываются аббревиатуры или комбинации букв, которые вы хотите не подвергать автоматической коррекции в LibreOffice.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T195720Z" creationid="olex" creationdate="20180412T195137Z">
+        <seg>Укажите аббревиатуры или комбинации букв, которые вы хотите не подвергать автоматической коррекции в LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
