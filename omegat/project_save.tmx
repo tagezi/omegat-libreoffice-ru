@@ -14260,6 +14260,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the autocorrect options, go to &lt;f0&gt;Tools &gt; AutoCorrect Options&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;AutoCorrect&lt;/f1&gt; dialog (Figure &lt;t2&gt;21&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T194524Z" creationid="olex" creationdate="20180412T194240Z">
+        <seg>Чтобы изменить параметры автозамены, перейдите в меню &lt;f0&gt;Сервис &gt; Параметры автозамены...&lt;/f0&gt;, чтобы открыть диалоговое окно &lt;f1&gt;Автозамена&lt;/f1&gt; (Рисунок &lt;t2&gt;21&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change the color of a sheet tab, right-click on the tab and select &lt;f0&gt;Tab Color&lt;/f0&gt; from the context menu to open the &lt;f1&gt;Tab Color&lt;/f1&gt; dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T183426Z" creationid="olex" creationdate="20180330T183426Z">
@@ -16358,6 +16366,7 @@ denkin: исправил на "включает"</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: сложная для меня фраза - пытался передать смысл, жертвуя точностью перевода</note>
       <tuv lang="EN-US">
         <seg>You can also undo any autocorrection changes by using the keyboard shortcut &lt;f0&gt;Ctrl+Z&lt;/f0&gt; or manually by going back to the change and replacing the autocorrection with what you want to actually see.</seg>
       </tuv>
