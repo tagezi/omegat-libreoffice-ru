@@ -4229,8 +4229,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Edits the replacement table for automatically correcting or replacing words or abbreviations in the document.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180412T195123Z" creationid="olex" creationdate="20180412T194852Z">
-        <seg>Изменяет таблицу значений для автоматической коррекции или замены слов или сокращений в документе.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T195144Z" creationid="olex" creationdate="20180412T194852Z">
+        <seg>Изменяется таблица значений для автоматической коррекции или замены слов или сокращений в документе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11846,6 +11846,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T175606Z" creationid="olex" creationdate="20180327T175606Z">
         <seg>Сортировка записей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify the abbreviations or letter combinations that you do not want LibreOffice to correct automatically.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T195304Z" creationid="olex" creationdate="20180412T195137Z">
+        <seg>Указываются аббревиатуры или комбинации букв, которые вы хотите не подвергать автоматической коррекции в LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
