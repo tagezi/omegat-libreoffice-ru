@@ -12766,8 +12766,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The date format automatically changes to the selected format used by Calc.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180412T191218Z" creationid="olex" creationdate="20180412T191218Z">
-        <seg>Формат даты автоматически изменяется на выбранный формат, используемый в Calc.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T191240Z" creationid="olex" creationdate="20180412T191218Z">
+        <seg>Формат даты автоматически изменяется на формат, используемый в Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13527,6 +13527,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The time format automatically changes to the selected format used by Calc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T191359Z" creationid="olex" creationdate="20180412T191359Z">
+        <seg>Формат времени автоматически изменяется на формат, используемый в Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The two names can be different but this may later cause confusion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T185700Z" creationid="olex" creationdate="20180311T185617Z">
@@ -14208,6 +14216,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T183426Z" creationid="olex" creationdate="20180330T183426Z">
         <seg>Чтобы изменить цвет вкладки листа, щелкните правой кнопкой мыши вкладку и выберите в контекстном меню &lt;f0&gt;Цвет ярлычка...&lt;/f0&gt;, откроется диалоговое окно &lt;f1&gt;Цвет ярлыка&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the date or time format used by Calc, use one of the following methods.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T191422Z" creationid="olex" creationdate="20180412T191422Z">
+        <seg>Чтобы изменить формат даты или времени, используемый Calc, используйте один из следующих способов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15706,6 +15722,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T163849Z" creationid="tagezi" creationdate="20180318T163849Z">
         <seg>При создании макроса важно задать два вопроса перед записью:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When entering a time, separate time elements with colons, for example 10:43:45.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T191316Z" creationid="olex" creationdate="20180412T191231Z">
+        <seg>При вводе времени разделяйте элементы времени двоеточиями, например 10:43:45.</seg>
       </tuv>
     </tu>
     <tu>
