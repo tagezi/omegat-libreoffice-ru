@@ -2929,8 +2929,8 @@
       <tuv lang="EN-US">
         <seg>Click in the cell and type the text.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180412T185358Z" creationid="olex" creationdate="20180412T185358Z">
-        <seg>Выделите ячейку и введите текст.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T190137Z" creationid="olex" creationdate="20180412T185358Z">
+        <seg>Выберите ячейку и введите текст.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16524,6 +16524,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T184617Z" creationid="olex" creationdate="20180405T184617Z">
         <seg>Вы можете выбрать один или несколько листов в Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can separate the date elements with a slash (/) or a hyphen (–) or use text, for example 10 Oct 2012.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180412T190805Z" creationid="olex" creationdate="20180412T190805Z">
+        <seg>Вы можете разделить элементы даты с помощью косой черты (/) или дефиса (-) или использовать текст, например 10 октября 2012 года.</seg>
       </tuv>
     </tu>
     <tu>
