@@ -14889,8 +14889,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>To turn off or on Calc AutoCorrect, go to &lt;f0&gt;Tools &lt;/f0&gt;on the Menu bar and deselect or select &lt;f1&gt;AutoInput&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T134748Z" creationid="olex" creationdate="20180414T134748Z">
-        <seg>Чтобы отключить или включить Автозамену в Calc, выберите в меню &lt;f0&gt;Сервис &gt; Автоввод&lt;/f0&gt;, чтобы установить или снять выделение.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T134816Z" creationid="olex" creationdate="20180414T134748Z">
+        <seg>Чтобы отключить или включить Автозамену в Calc, выберите в меню &lt;f0&gt;Сервис &gt; Автоввод&lt;/f0&gt;, чтобы установить или снять активацию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17242,6 +17242,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>data entry, Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T134844Z" creationid="olex" creationdate="20180414T134844Z">
+        <seg>ввода данных, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>decks</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T193709Z" creationid="olex" creationdate="20180329T193709Z">
@@ -17918,6 +17926,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T075142Z" creationid="tagezi" creationdate="20180318T205954Z">
         <seg>определяет нормальную насыщенность шрифта. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>speeding up</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T134831Z" creationid="olex" creationdate="20180414T134831Z">
+        <seg>ускорение</seg>
       </tuv>
     </tu>
     <tu>
