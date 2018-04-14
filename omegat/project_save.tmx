@@ -960,6 +960,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Weekday&lt;/f0&gt; – use the Date series type and this option to create a series of five day sets.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T144512Z" creationid="olex" creationdate="20180414T144512Z">
+        <seg>&lt;f0&gt;День недели&lt;/f0&gt; – используйте тип ряда Дата и этот параметр, чтобы создать серию из пяти дневных наборов.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: TODO: Додеать структуру предложения</note>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;What's This?&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;For quick tips when a toolbar is visible, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
