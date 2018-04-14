@@ -11761,6 +11761,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some AutoCorrect settings are applied when you press the spacebar after you enter data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T134403Z" creationid="olex" creationdate="20180414T134403Z">
+        <seg>Некоторые настройки Автозамены применяются, когда вы нажимаете пробел после ввода данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some Linux distributions include &lt;f0&gt;LibreOffice&lt;/f0&gt; as part of the installation and may not include all the icon sets mentioned above.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T101514Z" creationid="tagezi" creationdate="20180310T101514Z">
@@ -14875,6 +14883,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180318T122253Z" creationid="Роман" creationdate="20180318T122253Z">
         <seg>Для ручного обновления формулы нажмите клавишу &lt;f2&gt;F9&lt;/f2&gt; или выберите пункт меню &lt;f3&gt;Вид &gt; Обновить&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To turn off or on Calc AutoCorrect, go to &lt;f0&gt;Tools &lt;/f0&gt;on the Menu bar and deselect or select &lt;f1&gt;AutoInput&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T134748Z" creationid="olex" creationdate="20180414T134748Z">
+        <seg>Чтобы отключить или включить Автозамену в Calc, выберите в меню &lt;f0&gt;Сервис &gt; Автоввод&lt;/f0&gt;, чтобы установить или снять выделение.</seg>
       </tuv>
     </tu>
     <tu>
