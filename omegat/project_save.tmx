@@ -343,6 +343,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Direction&lt;/f0&gt; – determines the direction of series creation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T142458Z" creationid="olex" creationdate="20180414T142458Z">
+        <seg>&lt;f0&gt;Направление&lt;/f0&gt; – определяет направление создания ряда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181526Z" creationid="tagezi" creationdate="20180304T181526Z">
@@ -363,6 +371,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T112334Z" creationid="tagezi" creationdate="20180307T112334Z">
         <seg>&lt;f0&gt;Поддержать LibreOffice &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt; Открывает ваш браузер по умолчанию на странице пожертвований сайта LibreOffice &lt;a2&gt;https://donate.libreoffice.org/&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Down&lt;/f0&gt; – creates a downward series in the selected cell range for the column using the defined increment to the end value.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T142551Z" creationid="olex" creationdate="20180414T142551Z">
+        <seg>&lt;f0&gt;Вниз&lt;/f0&gt; – создает нисходящую серию в выбранном диапазоне ячеек для столбца с использованием заданного приращения до конечного значения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4766,6 +4782,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Fill Series dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T142356Z" creationid="olex" creationdate="20180414T142356Z">
+        <seg>Рисунок &lt;seq0&gt;23&lt;/seq0&gt;: Диалоговое окно Заполнить ряды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Dialog showing common controls</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T144853Z" creationid="tagezi" creationdate="20180310T144853Z">
@@ -6346,6 +6370,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T190607Z" creationid="olex" creationdate="20180402T190607Z">
         <seg>Здесь вы можете выбрать кодировку символов, разделитель полей, разделитель строк и другие настройки, которые будут использоваться для файла CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you can select the type of series you want.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T142334Z" creationid="olex" creationdate="20180414T142334Z">
+        <seg>Здесь вы можете выбрать тип нужного ряда.</seg>
       </tuv>
     </tu>
     <tu>
