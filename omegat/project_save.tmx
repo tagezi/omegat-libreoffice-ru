@@ -415,6 +415,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;End Value&lt;/f0&gt; – determines the end value for the series.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T145000Z" creationid="olex" creationdate="20180414T145000Z">
+        <seg>&lt;f0&gt;Кон. значение&lt;/f0&gt; – определяет конечное значение для ряда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;End&lt;/f0&gt; moves the cell focus to the last cell on the right in the row in the right-most column that contains data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T200107Z" creationid="olex" creationdate="20180402T200107Z">
@@ -549,6 +557,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T195922Z" creationid="olex" creationdate="20180402T195922Z">
         <seg>&lt;f0&gt;Home&lt;/f0&gt; перемещает фокус ячейки в начало строки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Increment&lt;/f0&gt; – determines the value by which the series of the selected type increases by each step.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T145130Z" creationid="olex" creationdate="20180414T145118Z">
+        <seg>&lt;f0&gt;Приращение&lt;/f0&gt; – определяет значение, на которое ряд выбранного типа увеличивается каждый раз.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4504,6 +4520,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T182634Z" creationid="olex" creationdate="20180326T182634Z">
         <seg>Весь лист</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Entries can only be made if the linear, growth or date series types have been selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T145328Z" creationid="olex" creationdate="20180414T145328Z">
+        <seg>Записи могут быть созданы только в том случае, если был выбран тип рядов: Линейный, Геометрический или Дата.</seg>
       </tuv>
     </tu>
     <tu>
