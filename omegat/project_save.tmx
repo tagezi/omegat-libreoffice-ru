@@ -2935,6 +2935,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click and drag in the direction you want the cells to be filled.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T141643Z" creationid="olex" creationdate="20180414T141643Z">
+        <seg>Нажмите квадрат и перетащите в том направлении, в котором вы хотите, заполнить ячейки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click back on the cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T184504Z" creationid="olex" creationdate="20180411T184504Z">
@@ -4746,6 +4754,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T200121Z" creationid="olex" creationdate="20180412T200121Z">
         <seg>Рисунок &lt;seq0&gt;21&lt;/seq0&gt;: Диалоговое окно Автозамена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Using the Fill tool</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T141801Z" creationid="olex" creationdate="20180414T141801Z">
+        <seg>Рисунок &lt;seq0&gt;22&lt;/seq0&gt;: Использование инструмента Заполнить</seg>
       </tuv>
     </tu>
     <tu>
@@ -6746,6 +6762,22 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T181710Z" creationid="olex" creationdate="20180330T181710Z">
         <seg>Если в электронной таблице не видны заголовки, то выберите в меню &lt;f1&gt;Вид &gt; Заголовки столбцов / строк&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the original cell contained a number, a series will be created.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T141741Z" creationid="olex" creationdate="20180414T141741Z">
+        <seg>Если исходная ячейка содержит число, будет создан ряд чисел.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the original cell contained text, then the text will automatically be copied.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T141701Z" creationid="olex" creationdate="20180414T141701Z">
+        <seg>Если исходная ячейка содержит текст, текст будет автоматически скопирован.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16131,6 +16163,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T175014Z" creationid="olex" creationdate="20180328T175014Z">
         <seg>Когда вы сохраняете новую электронную таблицу, вам будет предложено ввести её название по вашему выбору.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you select a series fill from &lt;f0&gt;Sheet &gt; Fill Cells &gt; Series...&lt;/f0&gt;, the &lt;f1&gt;Fill Series&lt;/f1&gt; dialog (Figure &lt;t2&gt;23&lt;/t2&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T142310Z" creationid="olex" creationdate="20180414T141844Z">
+        <seg>Когда вы выбираете заполнение ряда в меню &lt;f0&gt;Лист &gt; Заполнить &gt; Ряды...&lt;/f0&gt;, открывается диалоговое окно &lt;f1&gt;Заполнить ряды&lt;/f1&gt; (Рисунок &lt;t2&gt;23&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
