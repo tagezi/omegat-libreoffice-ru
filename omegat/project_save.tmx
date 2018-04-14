@@ -545,10 +545,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Left&lt;/f0&gt; – creates a series running from right to left in the selected cell range using the defined increment to the end value.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T142733Z" creationid="olex" creationdate="20180414T142733Z">
+        <seg>&lt;f0&gt;Влево&lt;/f0&gt; – создает серию, идущую справа налево в выбранном диапазоне ячеек с использованием заданного приращения до конечного значения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;License Information&lt;/f0&gt; outlining the licenses under which LibreOffice is made available.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T113112Z" creationid="tagezi" creationdate="20180307T113112Z">
         <seg>&lt;f0&gt;Лицензия...&lt;/f0&gt; Краткое изложение лицензии, под которой доступен LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Linear&lt;/f0&gt; – creates a linear number series using the defined increment and end value.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T142906Z" creationid="olex" creationdate="20180414T142906Z">
+        <seg>&lt;f0&gt;Линейный&lt;/f0&gt; – создает линейный ряд чисел с использованием заданного приращения и конечного значения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -665,6 +681,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Right&lt;/f0&gt; – creates a series running from left to right within the selected cell range using the defined increment to the end value.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T142623Z" creationid="olex" creationdate="20180414T142623Z">
+        <seg>&lt;f0&gt;Вправо&lt;/f0&gt; – создает серию, идущую слева направо в пределах выбранного диапазона ячеек с использованием заданного приращения до конечного значения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Send Feedback&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Feedback page of the LibreOffice website &lt;a3&gt;https://www.libreoffice.org/get-help/feedback/&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T111237Z" creationid="tagezi" creationdate="20180307T111237Z">
@@ -685,6 +709,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T191514Z" creationid="olex" creationdate="20180330T191514Z">
         <seg>&lt;f0&gt;Параметры разделителя&lt;/f0&gt; - указывает, используют для данных разделители или фиксированную ширину в качестве разделителей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Series Type&lt;/f0&gt; – defines the series type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T142811Z" creationid="olex" creationdate="20180414T142811Z">
+        <seg>&lt;f0&gt;Тип рядов&lt;/f0&gt; – определяет тип ряда.</seg>
       </tuv>
     </tu>
     <tu>
@@ -781,6 +813,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T194312Z" creationid="olex" creationdate="20180330T194312Z">
         <seg>&lt;f0&gt;Английский США&lt;/f0&gt; - числа, отформатированные как в американском английском языке, находятся и включаются независимо от системного языка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Up&lt;/f0&gt; – creates an upward series in the cell range of the column using the defined increment to the end value.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T142652Z" creationid="olex" creationdate="20180414T142652Z">
+        <seg>&lt;f0&gt;Вверх&lt;/f0&gt; – создает восходящую серию в диапазоне ячеек столбца с использованием заданного приращения до конечного значения.</seg>
       </tuv>
     </tu>
     <tu>
