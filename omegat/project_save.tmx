@@ -6070,6 +6070,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Fill Cells&lt;/f0&gt; on the Menu bar and select the direction in which you want to copy or create data (&lt;f1&gt;Up&lt;/f1&gt;, &lt;f2&gt;Down&lt;/f2&gt;, &lt;f3&gt;Left&lt;/f3&gt; or &lt;f4&gt;Right&lt;/f4&gt;) or &lt;f5&gt;Series&lt;/f5&gt; and &lt;f6&gt;Random Number...&lt;/f6&gt; from the submenu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T141118Z" creationid="olex" creationdate="20180414T141118Z">
+        <seg>Выберите в меню &lt;f0&gt;Лист &gt; Заполнить&lt;/f0&gt; и выберите в открывшемся подменю направление, в котором вы хотите скопировать или создать данные (&lt;f1&gt;Вверх&lt;/f1&gt;, &lt;f2&gt;Вниз&lt;/f2&gt;, &lt;f3&gt;Влево&lt;/f3&gt; или &lt;f4&gt;Вправо&lt;/f4&gt;) или &lt;f5&gt;Ряды...&lt;/f5&gt; и &lt;f6&gt; Случайные числа...&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Sheet&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Delete Cells&lt;/f1&gt; or right-click and select &lt;f2&gt;Delete Columns&lt;/f2&gt; or &lt;f3&gt;Delete Rows&lt;/f3&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T213637Z" creationid="olex" creationdate="20180407T213313Z">
