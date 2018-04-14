@@ -9138,6 +9138,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the cursor over the small square in the bottom right corner of the selected cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T141534Z" creationid="olex" creationdate="20180414T141534Z">
+        <seg>Поместите курсор над маленьким квадратом в нижнем правом углу выбранной ячейки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the mouse around the screen.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202555Z" creationid="olex" creationdate="20180404T202555Z">
@@ -11388,8 +11396,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Select the cell containing the contents you want to copy or start the series from.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T140406Z" creationid="olex" creationdate="20180414T140406Z">
-        <seg>Выберите ячейку, содержащую данные, которые вы хотите скопировать или создать последовательность.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T141505Z" creationid="olex" creationdate="20180414T140406Z">
+        <seg>Выберите ячейку, содержащую данные, которые вы хотите скопировать или создать ряд.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12937,6 +12945,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T205018Z" creationid="Роман" creationdate="20180320T205018Z">
         <seg>Курсор помещается в начало формулы в Редакторе формул.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The cursor will change shape.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T141600Z" creationid="olex" creationdate="20180414T141600Z">
+        <seg>Курсор изменит форму.</seg>
       </tuv>
     </tu>
     <tu>
