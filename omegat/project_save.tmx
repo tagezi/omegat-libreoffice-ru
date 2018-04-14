@@ -1787,6 +1787,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, you can use a shortcut to fill cells.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T141303Z" creationid="olex" creationdate="20180414T141303Z">
+        <seg>Кроме того, вы можете использовать сочетания клавиш для заполнения ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T212951Z" creationid="olex" creationdate="20180407T212951Z">
@@ -12431,8 +12439,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The Calc Fill tool is used to duplicate existing content or create a series in a range of cells in your spreadsheet (Figure &lt;t0&gt;22&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T140251Z" creationid="olex" creationdate="20180414T140002Z">
-        <seg>Инструмент Calc Заполнить используется для дублирования существующих данных или создания последовательности в диапазоне ячеек в вашей электронной таблице (Рисунок &lt;t0&gt;22&lt;/t0&gt;).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T141142Z" creationid="olex" creationdate="20180414T140002Z">
+        <seg>Инструмент Calc Заполнить используется для дублирования существующих данных или создания рядов в диапазоне ячеек в вашей электронной таблице (Рисунок &lt;t0&gt;22&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
