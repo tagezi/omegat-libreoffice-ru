@@ -351,6 +351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Day&lt;/f0&gt; – use the Date series type and this option to create a series using seven days.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T144120Z" creationid="olex" creationdate="20180414T144120Z">
+        <seg>&lt;f0&gt;День&lt;/f0&gt; – используйте тип ряда Дата и этот параметр, чтобы создать серию, использующую семь дней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Detect special numbers&lt;/f0&gt; – when this option is enabled, Calc will automatically detect all number formats, including special number formats such as dates, time, and scientific notation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T193107Z" creationid="olex" creationdate="20180330T193010Z">
@@ -14118,6 +14126,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T073340Z" creationid="lera" creationdate="20180303T152536Z">
         <seg>Это раздел основан на Примечании B из книги &lt;f0&gt;Руководство по началу работы с OpenOffice.org 3.3&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This area is only active if the Date option has been chosen in the Series type area.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T143848Z" creationid="olex" creationdate="20180414T143848Z">
+        <seg>Эта область окна активна только в том случае, если в области Тип рядов выбрана опция Дата.</seg>
       </tuv>
     </tu>
     <tu>
