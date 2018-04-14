@@ -5047,6 +5047,22 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fill tool</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T135724Z" creationid="olex" creationdate="20180414T135711Z">
+        <seg>Инструмент заливка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fill tool, Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T135731Z" creationid="olex" creationdate="20180414T135731Z">
+        <seg>Инструмент заливка, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finally, you can choose whether to create a new document from the template immediately, or manually change the template, and then click &lt;f0&gt;Finish&lt;/f0&gt; to save the template.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180324T170245Z" creationid="olex" creationdate="20180311T190641Z">
@@ -13866,6 +13882,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They include the fill tool, selection lists, and the ability to input information into multiple sheets of the same document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T135634Z" creationid="olex" creationdate="20180414T135634Z">
+        <seg>Эти инструменты: заполнение, списки выбора и возможность ввода информации на нескольких листах одновременно для одного и того же документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This appendix is adapted from Appendix B of &lt;f0&gt;Getting Started with OpenOffice.org 3.3&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T073340Z" creationid="lera" creationdate="20180303T152536Z">
@@ -15357,6 +15381,14 @@ denkin: исправил все</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180320T190711Z" creationid="olex" creationdate="20180308T165321Z">
         <seg>Использование списка &lt;i0/&gt;&lt;i1/&gt;Задать стиль абзаца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using &lt;i0/&gt;&lt;i1/&gt;the Fill tool</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T135747Z" creationid="olex" creationdate="20180414T135747Z">
+        <seg>Использование &lt;i0/&gt;&lt;i1/&gt;Инструмента заливка</seg>
       </tuv>
     </tu>
     <tu>
