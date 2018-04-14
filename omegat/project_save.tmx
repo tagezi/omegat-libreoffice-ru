@@ -5049,16 +5049,16 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Fill tool</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T135724Z" creationid="olex" creationdate="20180414T135711Z">
-        <seg>Инструмент заливка</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T140017Z" creationid="olex" creationdate="20180414T135711Z">
+        <seg>Инструмент Заполнить</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Fill tool, Calc</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T135731Z" creationid="olex" creationdate="20180414T135731Z">
-        <seg>Инструмент заливка, Calc</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T140059Z" creationid="olex" creationdate="20180414T135731Z">
+        <seg>Инструмент Заполнить, Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -12405,6 +12405,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Calc Fill tool is used to duplicate existing content or create a series in a range of cells in your spreadsheet (Figure &lt;t0&gt;22&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T140002Z" creationid="olex" creationdate="20180414T140002Z">
+        <seg>Инструмент Calc Fill используется для дублирования существующего контента или создания серии в диапазоне ячеек в вашей электронной таблице (рисунок &lt;t0&gt; 22 &lt;/ t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Calc Sidebar (&lt;f0&gt;View &gt; Sidebar&lt;/f0&gt;) is located on the right side of the window.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T193432Z" creationid="olex" creationdate="20180329T193432Z">
@@ -17309,8 +17317,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>data entry, Calc</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T134844Z" creationid="olex" creationdate="20180414T134844Z">
-        <seg>ввода данных, Calc</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T140050Z" creationid="olex" creationdate="20180414T134844Z">
+        <seg>ввод данных, Calc</seg>
       </tuv>
     </tu>
     <tu>
