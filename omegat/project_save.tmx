@@ -4322,6 +4322,15 @@ DONE</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: счел возможным перевести как упрощение ввода сложную конструкцию автора</note>
+      <tuv lang="EN-US">
+        <seg>Entering data into a spreadsheet can be very labor-intensive, but Calc provides several tools for removing some of the drudgery from input.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T134932Z" creationid="olex" creationdate="20180414T134932Z">
+        <seg>Ввод данных в электронную таблицу может быть очень трудоемким, но Calc предоставляет несколько инструментов для упрощения ввода.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Entire sheet</seg>
       </tuv>
@@ -13283,6 +13292,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153252Z" creationid="tagezi" creationdate="20180318T153252Z">
         <seg>Метод CreateUnoService принимает имя службы и пытается создать экземпляр этой службы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most basic ability is to drop and drag the contents of one cell to another with a mouse.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T135221Z" creationid="olex" creationdate="20180414T134947Z">
+        <seg>Одна из основных возможностей - перетаскивание содержимого из одной ячейки в другую с помощью мыши.</seg>
       </tuv>
     </tu>
     <tu>
