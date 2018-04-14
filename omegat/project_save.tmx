@@ -11362,6 +11362,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the cell containing the contents you want to copy or start the series from.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T140406Z" creationid="olex" creationdate="20180414T140406Z">
+        <seg>Выберите ячейку, содержащую данные, которые вы хотите скопировать или создать последовательность.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the cell or range of cells using one of the methods above.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T204720Z" creationid="olex" creationdate="20180404T204720Z">
@@ -12407,8 +12415,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The Calc Fill tool is used to duplicate existing content or create a series in a range of cells in your spreadsheet (Figure &lt;t0&gt;22&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T140002Z" creationid="olex" creationdate="20180414T140002Z">
-        <seg>Инструмент Calc Fill используется для дублирования существующего контента или создания серии в диапазоне ячеек в вашей электронной таблице (рисунок &lt;t0&gt; 22 &lt;/ t0&gt;).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T140251Z" creationid="olex" creationdate="20180414T140002Z">
+        <seg>Инструмент Calc Заполнить используется для дублирования существующих данных или создания последовательности в диапазоне ячеек в вашей электронной таблице (Рисунок &lt;t0&gt;22&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15395,8 +15403,8 @@ denkin: исправил все</note>
       <tuv lang="EN-US">
         <seg>Using &lt;i0/&gt;&lt;i1/&gt;the Fill tool</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T135747Z" creationid="olex" creationdate="20180414T135747Z">
-        <seg>Использование &lt;i0/&gt;&lt;i1/&gt;Инструмента заливка</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T140106Z" creationid="olex" creationdate="20180414T135747Z">
+        <seg>Использование &lt;i0/&gt;&lt;i1/&gt;Инструмента Заполнить</seg>
       </tuv>
     </tu>
     <tu>
