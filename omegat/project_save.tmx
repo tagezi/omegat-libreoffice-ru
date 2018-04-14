@@ -2269,6 +2269,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AutoFill tries to complete a value series by using a defined pattern.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T143451Z" creationid="olex" creationdate="20180414T143451Z">
+        <seg>Автозаполнение пытается завершить ряд значений с помощью определенного шаблона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AutoFormatting of cells</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T175228Z" creationid="olex" creationdate="20180327T175228Z">
@@ -5411,6 +5419,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T144948Z" creationid="tagezi" creationdate="20180320T144948Z">
         <seg>Например, предположим, что вы пишете обработчик событий, который вызывается каждый раз, когда нажимается клавиша, но вы делаете ошибку такую, что событие обрабатывается неправильно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, by entering January in the first cell, the series is completed using the list defined in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Sort Lists&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T143412Z" creationid="olex" creationdate="20180414T143412Z">
+        <seg>Например, если ввести январь в первую ячейку, то серия завершается с использованием списка, определенного в &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Calc &gt; Списки сортировки&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12569,6 +12585,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T174815Z" creationid="olex" creationdate="20180328T174557Z">
         <seg>Строка заголовка &lt;i0/&gt;, расположенная вверху, показывает название текущей электронной таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The AutoFill function takes account of customized lists.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180414T143232Z" creationid="olex" creationdate="20180414T143232Z">
+        <seg>Функция Автозаполнение использует настроенные списки.</seg>
       </tuv>
     </tu>
     <tu>
