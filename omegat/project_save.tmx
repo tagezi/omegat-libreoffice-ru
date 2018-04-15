@@ -2919,6 +2919,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;New&lt;/f0&gt; and the &lt;f1&gt;Entries&lt;/f1&gt; box is cleared.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T091059Z" creationid="olex" creationdate="20180415T091059Z">
+        <seg>Нажмите &lt;f0&gt;Создать&lt;/f0&gt;, и поле &lt;f1&gt;Элементы&lt;/f1&gt; будет очищено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;New&lt;/f0&gt; to open the New Library dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T124639Z" creationid="tagezi" creationdate="20180312T124639Z">
@@ -14300,8 +14308,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>This dialog shows the previously-defined series in the &lt;f2&gt;Lists&lt;/f2&gt; box on the left and the contents of the highlighted list in the &lt;f3&gt;Entries&lt;/f3&gt; box.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180415T090913Z" creationid="olex" creationdate="20180415T090913Z">
-        <seg>В этом окне отображаются ранее определенные ряды в поле &lt;f2&gt;Списки&lt;/f2&gt; слева и содержимое выделенного списка в поле &lt;f3&gt;Записи&lt;/f3&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T091109Z" creationid="olex" creationdate="20180415T090913Z">
+        <seg>В этом окне отображаются ранее определенные ряды в поле &lt;f2&gt;Списки&lt;/f2&gt; слева и содержимое выделенного списка в поле &lt;f3&gt;Элементы&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15446,6 +15454,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T194315Z" creationid="olex" creationdate="20180402T194315Z">
         <seg>Введите новую ссылку на ячейки, на которую вы хотите переместить фокус, и нажмите клавишу &lt;f5&gt;Enter&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type the series for the new list in the &lt;f0&gt;Entries&lt;/f0&gt; box (one entry per line).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T091224Z" creationid="olex" creationdate="20180415T091224Z">
+        <seg>Введите ряд для нового списка в поле &lt;f0&gt;Элементы&lt;/f0&gt; (по одному элементу в строке).</seg>
       </tuv>
     </tu>
     <tu>
