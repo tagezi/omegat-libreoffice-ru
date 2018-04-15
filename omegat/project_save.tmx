@@ -6398,6 +6398,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Sort Lists&lt;/f0&gt; to open the Sort Lists dialog (Figure &lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T090745Z" creationid="olex" creationdate="20180415T090745Z">
+        <seg>Перейдите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice Calc &gt; Списки сортировки&lt;/f0&gt;, чтобы открыть диалоговое окно Списки сортировки (Рисунок &lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Symbols&lt;/f0&gt; on the menu bar or click on the &lt;f1&gt;Symbols&lt;/f1&gt; icon on the Tools toolbar to open the Symbols dialog (Figure &lt;t2&gt;4&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204334Z" creationid="Роман" creationdate="20180316T204334Z">
@@ -14286,6 +14294,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T192144Z" creationid="olex" creationdate="20180330T192144Z">
         <seg>Этот пользовательский разделитель должен содержаться в данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This dialog shows the previously-defined series in the &lt;f2&gt;Lists&lt;/f2&gt; box on the left and the contents of the highlighted list in the &lt;f3&gt;Entries&lt;/f3&gt; box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T090913Z" creationid="olex" creationdate="20180415T090913Z">
+        <seg>В этом окне отображаются ранее определенные ряды в поле &lt;f2&gt;Списки&lt;/f2&gt; слева и содержимое выделенного списка в поле &lt;f3&gt;Записи&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
