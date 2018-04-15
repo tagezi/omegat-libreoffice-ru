@@ -1458,6 +1458,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A drop-down list appears listing any cell in the same column that either has at least one text character or whose format is defined as text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T093810Z" creationid="olex" creationdate="20180415T093810Z">
+        <seg>Появится раскрывающийся список с содержимым любой ячейки в том же столбце, которая имеет хотя бы один текстовый символ или формат которой определен как текстовый.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A heavier line appears between the rows or columns indicating where the freeze has been placed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T164907Z" creationid="olex" creationdate="20180409T164907Z">
@@ -11049,6 +11057,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click and select &lt;f0&gt;Selection Lists&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T093532Z" creationid="olex" creationdate="20180415T093532Z">
+        <seg>Щелкните правой кнопкой мыши по ячейке и выберите &lt;f0&gt;Список выбора&lt;/f0&gt; в контекстном меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click in the Formula Editor and select &lt;f0&gt;Relations &gt; a simeq b&lt;/f0&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T144947Z" creationid="Роман" creationdate="20180320T144947Z">
@@ -11501,6 +11517,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T131615Z" creationid="tagezi" creationdate="20180312T131615Z">
         <seg>Выберите Module1, или новый модуль, который вы создали, и нажмите кнопку &lt;f0&gt;Правка&lt;/f0&gt;, чтобы открыть Интегрированную Среду Разработки (IDE) (Рисунок &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a blank cell in a column that contains cells with text entries.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T093441Z" creationid="olex" creationdate="20180415T093441Z">
+        <seg>Выберите пустую ячейку в столбце, который содержит ячейки с текстовыми записями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11966,6 +11990,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T205345Z" creationid="olex" creationdate="20180404T205345Z">
         <seg>Выделение&lt;i0/&gt; столбцов и строк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selection lists are available only for text and are limited to using only text that has already been entered in the same column.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T093419Z" creationid="olex" creationdate="20180415T093419Z">
+        <seg>Списки выбора доступны только для текста и ограничены использованием только текста, который уже был введен в том же столбце.</seg>
       </tuv>
     </tu>
     <tu>
