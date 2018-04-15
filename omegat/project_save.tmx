@@ -401,8 +401,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Down&lt;/f0&gt; – creates a downward series in the selected cell range for the column using the defined increment to the end value.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T142551Z" creationid="olex" creationdate="20180414T142551Z">
-        <seg>&lt;f0&gt;Вниз&lt;/f0&gt; – создает нисходящую серию в выбранном диапазоне ячеек для столбца с использованием заданного приращения до конечного значения.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T091745Z" creationid="olex" creationdate="20180414T142551Z">
+        <seg>&lt;f0&gt;Вниз&lt;/f0&gt; – создает нисходящий ряд в выбранном диапазоне ячеек для столбца с использованием заданного приращения до конечного значения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -595,8 +595,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Left&lt;/f0&gt; – creates a series running from right to left in the selected cell range using the defined increment to the end value.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T142733Z" creationid="olex" creationdate="20180414T142733Z">
-        <seg>&lt;f0&gt;Влево&lt;/f0&gt; – создает серию, идущую справа налево в выбранном диапазоне ячеек с использованием заданного приращения до конечного значения.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T091855Z" creationid="olex" creationdate="20180414T142733Z">
+        <seg>&lt;f0&gt;Влево&lt;/f0&gt; – создает ряд, идущий справа налево в выбранном диапазоне ячеек с использованием заданного приращения до конечного значения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -739,8 +739,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Right&lt;/f0&gt; – creates a series running from left to right within the selected cell range using the defined increment to the end value.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T142623Z" creationid="olex" creationdate="20180414T142623Z">
-        <seg>&lt;f0&gt;Вправо&lt;/f0&gt; – создает серию, идущую слева направо в пределах выбранного диапазона ячеек с использованием заданного приращения до конечного значения.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T091803Z" creationid="olex" creationdate="20180414T142623Z">
+        <seg>&lt;f0&gt;Вправо&lt;/f0&gt; – создает ряд, идущий слева направо в пределах выбранного диапазона ячеек с использованием заданного приращения до конечного значения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -891,8 +891,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Up&lt;/f0&gt; – creates an upward series in the cell range of the column using the defined increment to the end value.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T142652Z" creationid="olex" creationdate="20180414T142652Z">
-        <seg>&lt;f0&gt;Вверх&lt;/f0&gt; – создает восходящую серию в диапазоне ячеек столбца с использованием заданного приращения до конечного значения.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T091816Z" creationid="olex" creationdate="20180414T142652Z">
+        <seg>&lt;f0&gt;Вверх&lt;/f0&gt; – создает восходящий ряд в диапазоне ячеек столбца с использованием заданного приращения до конечного значения.</seg>
       </tuv>
     </tu>
     <tu>
