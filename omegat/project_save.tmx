@@ -635,8 +635,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Month&lt;/f0&gt; – use the Date series type and this option to form a series from the names or abbreviations of the months.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T144630Z" creationid="olex" creationdate="20180414T144630Z">
-        <seg>&lt;f0&gt;Месяц&lt;/f0&gt; – используйте тип ряда Дата и эту опцию, чтобы сформировать серию из названий или сокращений месяцев.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T092315Z" creationid="olex" creationdate="20180414T144630Z">
+        <seg>&lt;f0&gt;Месяц&lt;/f0&gt; – используйте тип ряда Дата и эту опцию, чтобы сформировать ряд из названий или сокращений месяцев.</seg>
       </tuv>
     </tu>
     <tu>
@@ -995,8 +995,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Weekday&lt;/f0&gt; – use the Date series type and this option to create a series of five day sets.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T144512Z" creationid="olex" creationdate="20180414T144512Z">
-        <seg>&lt;f0&gt;День недели&lt;/f0&gt; – используйте тип ряда Дата и этот параметр, чтобы создать серию из пяти дневных наборов.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T092305Z" creationid="olex" creationdate="20180414T144512Z">
+        <seg>&lt;f0&gt;День недели&lt;/f0&gt; – используйте тип ряда Дата и этот параметр, чтобы создать ряд из пяти дневных наборов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1020,8 +1020,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Year&lt;/f0&gt; – use the Date series type and this option to create a series of years.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T144720Z" creationid="olex" creationdate="20180414T144720Z">
-        <seg>&lt;f0&gt;Год&lt;/f0&gt; – используйте тип ряда Дата и этот параметр, чтобы создать серию лет.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T092325Z" creationid="olex" creationdate="20180414T144720Z">
+        <seg>&lt;f0&gt;Год&lt;/f0&gt; – используйте тип ряда Дата и этот параметр, чтобы создать ряд лет.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5513,8 +5513,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>For example, a numerical series using 1,3,5 is automatically completed with 7,9,11,13; a date and time series using 01.01.99 and 15.01.99, an interval of fourteen days is used.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T143630Z" creationid="olex" creationdate="20180414T143630Z">
-        <seg>Например, серия чисел, 1,3, 5, автоматически заполняется 7,9,11,13 и т.д.; дата и временные ряды с использованием 01.01.99 и 15.01.99, используют интервал в 14 дней.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T092240Z" creationid="olex" creationdate="20180414T143630Z">
+        <seg>Например, ряд чисел, 1,3, 5, автоматически заполняется 7,9,11,13 и т.д.; дата и временные ряды с использованием 01.01.99 и 15.01.99, используют интервал в 14 дней.</seg>
       </tuv>
     </tu>
     <tu>
