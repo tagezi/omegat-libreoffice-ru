@@ -345,8 +345,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Date&lt;/f0&gt; – creates a date series using the defined increment and end date.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T143112Z" creationid="olex" creationdate="20180414T143112Z">
-        <seg>&lt;f0&gt;Дата&lt;/f0&gt; – создает серию дат с использованием заданного приращения и даты окончания.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T091730Z" creationid="olex" creationdate="20180414T143112Z">
+        <seg>&lt;f0&gt;Дата&lt;/f0&gt; – создает ряд дат с использованием заданного приращения и даты окончания.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5537,8 +5537,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>For example, by entering January in the first cell, the series is completed using the list defined in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Sort Lists&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T143412Z" creationid="olex" creationdate="20180414T143412Z">
-        <seg>Например, если ввести январь в первую ячейку, то серия завершается с использованием списка, определенного в &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Calc &gt; Списки сортировки&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T091707Z" creationid="olex" creationdate="20180414T143412Z">
+        <seg>Например, если ввести январь в первую ячейку, то ряд завершается с использованием списка, определенного в &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Calc &gt; Списки сортировки&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16982,6 +16982,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T201254Z" creationid="olex" creationdate="20180404T201254Z">
         <seg>Вы можете настроить направление, в котором клавиша &lt;f0&gt;Enter&lt;/f0&gt; перемещает фокус ячейки, в меню &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Calc &gt; Общие&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can define a range of text values as a fill series.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T091650Z" creationid="olex" creationdate="20180415T091650Z">
+        <seg>Вы можете определить диапазон текстовых значений в качестве рядов заполнения.</seg>
       </tuv>
     </tu>
     <tu>
