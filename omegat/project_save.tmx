@@ -6422,6 +6422,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Sort Lists&lt;/f0&gt; to open the Sort List dialog (Figure &lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T092607Z" creationid="olex" creationdate="20180415T092607Z">
+        <seg>Перейдите в &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice Calc &gt; Списки сортировки&lt;/f0&gt;, чтобы открыть диалоговое окно Списки сортировки (Рисунок &lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Sort Lists&lt;/f0&gt; to open the Sort Lists dialog (Figure &lt;t1&gt;24&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T090745Z" creationid="olex" creationdate="20180415T090745Z">
@@ -11798,6 +11806,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T223007Z" creationid="olex" creationdate="20180407T223007Z">
         <seg>Выберите где вы хочете поместить лист в списке &lt;f0&gt;Вставить перед&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the range containing the text values that you want to use as a fill series.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T092500Z" creationid="olex" creationdate="20180415T092500Z">
+        <seg>Выберите диапазон, содержащий текстовые значения, которые вы хотите использовать в качестве рядов заполнения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18263,6 +18279,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T184650Z" creationid="olex" creationdate="20180404T201919Z">
         <seg>выбор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>selection lists</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T092927Z" creationid="olex" creationdate="20180415T092927Z">
+        <seg>списки выбора</seg>
       </tuv>
     </tu>
     <tu>
