@@ -3787,8 +3787,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Defining a fill series</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T173703Z" creationid="olex" creationdate="20180327T172723Z">
-        <seg>Определение заполнения ряда</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T090455Z" creationid="olex" creationdate="20180327T172723Z">
+        <seg>Определение ряда заполнения</seg>
       </tuv>
     </tu>
     <tu>
@@ -14770,6 +14770,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T184428Z" creationid="olex" creationdate="20180311T184428Z">
         <seg>Чтобы создать шаблона с помощью мастера:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To define your own fill series:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T090522Z" creationid="olex" creationdate="20180415T090440Z">
+        <seg>Чтобы определить свой собственный ряд заполнения:</seg>
       </tuv>
     </tu>
     <tu>
