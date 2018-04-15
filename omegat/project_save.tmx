@@ -6342,6 +6342,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Select Sheets... &lt;/f0&gt;&lt;s1/&gt;on the Menu bar to open the &lt;f2&gt;Select Sheets&lt;/f2&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T115937Z" creationid="olex" creationdate="20180415T115937Z">
+        <seg>Выберите в меню &lt;f0&gt;Лист &gt; Выбрать листы...&lt;/f0&gt;&lt;s1/&gt;, чтобы открыть диалог &lt;f2&gt; Выбрать листы &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Sheet&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Delete Cells&lt;/f1&gt; or right-click and select &lt;f2&gt;Delete Columns&lt;/f2&gt; or &lt;f3&gt;Delete Rows&lt;/f3&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T213637Z" creationid="olex" creationdate="20180407T213313Z">
@@ -8082,6 +8090,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195149Z" creationid="olex" creationdate="20180306T195149Z">
         <seg>Установка отдельных шаблонов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead of entering the list on each sheet individually, you can enter the information in several sheets at the same time.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T094125Z" creationid="olex" creationdate="20180415T094125Z">
+        <seg>Вместо того, чтобы вводить список на каждом листе отдельно, вы можете одновременно вводить информацию на нескольких листах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17491,6 +17507,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You might want to enter the same information in the same cell on multiple sheets, for example to set up standard listings for a group of individuals or organizations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T094050Z" creationid="olex" creationdate="20180415T094050Z">
+        <seg>Возможно, вы захотите ввести одну и ту же информацию в одной ячейке на нескольких листах, например, чтобы настроить стандартные списки для группы лиц или организаций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must create a library and module to contain your macro; see “&lt;bf2&gt;Macro organization&lt;/bf2&gt;” on page &lt;bf3&gt;14&lt;/bf3&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T104024Z" creationid="tagezi" creationdate="20180312T104024Z">
@@ -18375,6 +18399,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T203143Z" creationid="olex" creationdate="20180316T203143Z">
         <seg>автоматическая последовательность стилей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sharing content</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180415T094002Z" creationid="olex" creationdate="20180415T094002Z">
+        <seg>совместное использование контента</seg>
       </tuv>
     </tu>
     <tu>
