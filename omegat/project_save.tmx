@@ -11409,6 +11409,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the &lt;f1&gt;Calc Guide Chapter 2 Entering, Editing and Formatting Data&lt;/f1&gt; for more information on validating cell contents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T183009Z" creationid="olex" creationdate="20180416T183009Z">
+        <seg>Подробнее о проверке содержимого ячеек смотрите в главе &lt;f1&gt;Руководство по Calc Глава 2 Ввод, редактирование и форматирование данных&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the Advanced Options in Chapter 2 of this guide.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T183036Z" creationid="tagezi" creationdate="20180310T183036Z">
@@ -17057,6 +17065,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also set the cell to refuse invalid content, accept it with a warning, or start a macro when an error is entered.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T182910Z" creationid="olex" creationdate="20180416T182910Z">
+        <seg>Вы также можете настроить ячейку на отказ от недопустимого ввода, принять такой ввод с предупреждением или запустить макрос в случае ошибки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also type a cell reference in the Name Box to jump to the referenced cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T181507Z" creationid="olex" creationdate="20180329T181102Z">
@@ -18016,6 +18032,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T191109Z" creationid="olex" creationdate="20180311T191109Z">
         <seg>редактирование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editing data</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T183024Z" creationid="olex" creationdate="20180416T183024Z">
+        <seg>редактирование данных</seg>
       </tuv>
     </tu>
     <tu>
