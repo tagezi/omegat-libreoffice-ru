@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>-Deleting data and formatting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T184735Z" creationid="olex" creationdate="20180416T184735Z">
+        <seg>- Удаление данных и форматирования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>... and many others</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T144241Z" creationid="tagezi" creationdate="20180304T144241Z">
@@ -14995,6 +15003,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T202918Z" creationid="olex" creationdate="20180316T201746Z">
         <seg>Чтобы автоматически составить оглавление, сначала примените стили к заголовкам, которые вы хотите отобразить в содержании, затем используйте &lt;f0&gt;Сервис &gt; Нумерация глав&lt;/f0&gt;, чтобы показать Writer, какие стили идут, с какими уровнями в оглавлении,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To completely replace data in a cell and insert new data, select the cell and type in the new data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T184846Z" creationid="olex" creationdate="20180416T184846Z">
+        <seg>Чтобы полностью заменить данные в ячейке новой информацией, выберите ячейку и введите новые данные.</seg>
       </tuv>
     </tu>
     <tu>
