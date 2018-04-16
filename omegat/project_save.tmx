@@ -4990,6 +4990,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Select Sheets dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T174747Z" creationid="olex" creationdate="20180416T174747Z">
+        <seg>Рисунок &lt;seq0&gt;25&lt;/seq0&gt;: Диалоговое окно Выбрать листы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Dialog showing common controls</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T144853Z" creationid="tagezi" creationdate="20180310T144853Z">
@@ -11830,6 +11838,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T192222Z" creationid="olex" creationdate="20180402T192222Z">
         <seg>Выберите формат графического файла в списке &lt;f0&gt;Тип файла&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the individual sheets where you want the information to be repeated.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T175102Z" creationid="olex" creationdate="20180416T175102Z">
+        <seg>Удерживая клавишу &lt;f0&gt;Shift&lt;/f0&gt;, выберите листы на которых вы хотите ввести одинаковую информацию.</seg>
       </tuv>
     </tu>
     <tu>
