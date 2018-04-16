@@ -15504,6 +15504,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To validate new data entered by a user, select a cell and go to &lt;f0&gt;Data &gt; Validity&lt;/f0&gt; on the Menu bar to define the type of contents that can be entered in that cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T182346Z" creationid="olex" creationdate="20180416T182346Z">
+        <seg>Чтобы проверить новые данные, введенные пользователем, выберите ячейку и перейдите в меню &lt;f0&gt;Данные &gt; Проверка...&lt;/f0&gt;, чтобы определить тип содержимого, которое можно ввести в эту ячейку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To view and/or edit the macro that you created:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T065946Z" creationid="tagezi" creationdate="20180315T065946Z">
