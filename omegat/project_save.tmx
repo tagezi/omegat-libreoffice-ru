@@ -9144,6 +9144,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure you deselect the additional sheets when you are finished entering information that is going to be repeated before continuing to enter data into your spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T180714Z" creationid="olex" creationdate="20180416T180714Z">
+        <seg>Убедитесь, что вы отменили множественное выделение листов, когда закончите ввод повторяемой информации, прежде чем продолжить работу с электронной таблицей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make your selections and click &lt;f3&gt;Save&lt;/f3&gt; to close the dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T190248Z" creationid="olex" creationdate="20180311T190248Z">
@@ -14632,6 +14640,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180325T122844Z" creationid="olex" creationdate="20180316T194405Z">
         <seg>This setup can also be created with page breaks and page styles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This technique automatically overwrites, without any warning, any information that is already in the cells on the selected sheets.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T180531Z" creationid="olex" creationdate="20180416T180531Z">
+        <seg>При этом способе автоматически перезаписывается без предупреждения любая информация, которая была записана ранее в ячейках выбранных листов.</seg>
       </tuv>
     </tu>
     <tu>
