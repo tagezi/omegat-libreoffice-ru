@@ -17042,6 +17042,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also use &lt;i0/&gt;validation in your own work as a guide to entering data that is either complex or rarely used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T181619Z" creationid="olex" creationdate="20180416T181619Z">
+        <seg>Вы также можете использовать проверку &lt;i0/&gt; в своей работе для себя: в качестве подсказки при вводе данных, которые сложны либо редко используются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also write macros that directly access the objects that comprise LibreOffice if you are confident in writing computer code.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T185557Z" creationid="tagezi" creationdate="20180320T185557Z">
