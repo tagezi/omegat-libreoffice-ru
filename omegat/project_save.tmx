@@ -3175,6 +3175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click in the cell to select it and then press the &lt;f0&gt;Delete&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T183439Z" creationid="olex" creationdate="20180416T183439Z">
+        <seg>Выберите ячейку, а затем нажмите клавишу &lt;f0&gt;Delete&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click in the cell which is to be one corner of the range of cells.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202809Z" creationid="olex" creationdate="20180404T202809Z">
@@ -3757,6 +3765,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064008Z" creationid="tagezi" creationdate="20180305T064008Z">
         <seg>Формат обмена данными (.dif)&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Data and cell formatting can be deleted from a cell at the same time.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T183828Z" creationid="olex" creationdate="20180416T183828Z">
+        <seg>Можно одновременно удалить содержимое ячейки и ее форматирование.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17100,8 +17116,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can also use &lt;i0/&gt;validation in your own work as a guide to entering data that is either complex or rarely used.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180416T181619Z" creationid="olex" creationdate="20180416T181619Z">
-        <seg>Вы также можете использовать проверку &lt;i0/&gt; в своей работе для себя: в качестве подсказки при вводе данных, которые сложны либо редко используются.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T183542Z" creationid="olex" creationdate="20180416T181619Z">
+        <seg>Вы также можете использовать проверку &lt;i0/&gt; в своей работе, в качестве подсказки при вводе данных, которые сложны либо редко используются.</seg>
       </tuv>
     </tu>
     <tu>
