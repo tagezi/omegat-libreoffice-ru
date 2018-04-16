@@ -11844,8 +11844,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Select the individual sheets where you want the information to be repeated.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180416T175102Z" creationid="olex" creationdate="20180416T175102Z">
-        <seg>Удерживая клавишу &lt;f0&gt;Shift&lt;/f0&gt;, выберите листы на которых вы хотите ввести одинаковую информацию.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T175314Z" creationid="olex" creationdate="20180416T175102Z">
+        <seg>Выделите листы на которых вы хотите ввести одинаковую информацию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15794,6 +15794,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T222024Z" creationid="olex" creationdate="20180407T222024Z">
         <seg>Используйте диалоговое окно &lt;f0&gt;Переместить/скопировать лист...&lt;/f0&gt; (Рисунок &lt;t1&gt;15&lt;/t1&gt;), чтобы точно указать, хотите ли вы, чтобы лист находился в той же электронной таблице или переместился в другую, его положение в электронной таблице, имя листа при перемещении или копировании листа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the &lt;f0&gt;Shift&lt;/f0&gt; and &lt;f1&gt;Ctrl&lt;/f1&gt; (&lt;f2&gt;Options&lt;/f2&gt; on Mac) keys to select multiple sheets.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T175533Z" creationid="olex" creationdate="20180416T175533Z">
+        <seg>Удерживайте клавишу &lt;f0&gt;Shift&lt;/f0&gt; или &lt;f1&gt;Ctrl&lt;/f1&gt; (&lt;f2&gt;Options&lt;/f2&gt; на Mac), чтобы выбрать несколько листов.</seg>
       </tuv>
     </tu>
     <tu>
