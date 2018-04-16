@@ -4001,6 +4001,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on how validation is set up, validation can also define the range of contents that can be entered, provide help messages explaining the content rules set up for the cell and what users &lt;t0/&gt;should do when they enter invalid content.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T182738Z" creationid="olex" creationdate="20180416T182738Z">
+        <seg>В зависимости от настроек, проверка также может определять диапазон содержимого, который можно ввести, предоставлять справочные сообщения, объясняющие правила содержимого, установленные для ячейки, и что пользователи &lt;t0/&gt;должны делать, если они вводят недопустимые данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the file being used or the type of data being entered, setting a different direction can be useful.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T201520Z" creationid="olex" creationdate="20180404T201520Z">
