@@ -3761,6 +3761,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data can be deleted from a cell without deleting any of the cell formatting.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T183330Z" creationid="olex" creationdate="20180416T183330Z">
+        <seg>Данные можно удалять из ячейки не удаляя ее форматирование.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Database functions, to arrange, store, and filter data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T182628Z" creationid="olex" creationdate="20180327T182628Z">
@@ -16474,8 +16482,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>When creating spreadsheets for other people to use, validating cell contents ensures that they enter data that is valid and appropriate for the cell.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180416T181208Z" creationid="olex" creationdate="20180416T181208Z">
-        <seg>При создании электронных таблиц для использования другими пользователями, проверка содержимого ячеек гарантирует, что они вводят данные, которые являются действительными и подходящими для ячейки.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T183059Z" creationid="olex" creationdate="20180416T181208Z">
+        <seg>При создании электронных таблиц для использования другими пользователями, проверка содержимого ячеек гарантирует, что они вводят данные, являющиеся корректными и подходящими для ячейки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17916,6 +17924,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>data editing, Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T183159Z" creationid="olex" creationdate="20180416T183159Z">
+        <seg>редактирование данных, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>data entry, Calc</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T140050Z" creationid="olex" creationdate="20180414T134844Z">
@@ -18040,6 +18056,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T183024Z" creationid="olex" creationdate="20180416T183024Z">
         <seg>редактирование данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>editing data, Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T183120Z" creationid="olex" creationdate="20180416T183120Z">
+        <seg>редактирование данных, Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -18432,6 +18456,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T181658Z" creationid="tagezi" creationdate="20180312T181658Z">
         <seg>запись</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>removing data from a cell</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T183135Z" creationid="olex" creationdate="20180416T183135Z">
+        <seg>удаление данных из ячейки</seg>
       </tuv>
     </tu>
     <tu>
