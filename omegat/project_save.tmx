@@ -5559,6 +5559,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, a cell may require a date or a whole number with no alphabetic characters or decimal points, or a cell may not be left empty.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T182521Z" creationid="olex" creationdate="20180416T182521Z">
+        <seg>Например, ячейка должна содержать дату, или целое число без алфавитных символов и десятичных точек, или ячейка может не оставаться пустой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, a letter template may contain your name, address, and salutation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T180025Z" creationid="olex" creationdate="20180311T180025Z">
