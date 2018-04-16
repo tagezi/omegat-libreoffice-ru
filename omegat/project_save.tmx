@@ -3183,6 +3183,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click in the cell to select it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T183900Z" creationid="olex" creationdate="20180416T183900Z">
+        <seg>Нажмите на ячейку, чтобы выбрать ее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click in the cell which is to be one corner of the range of cells.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202809Z" creationid="olex" creationdate="20180404T202809Z">
@@ -10805,6 +10813,15 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202529Z" creationid="olex" creationdate="20180404T202529Z">
         <seg>Нажмите и удерживайте левую кнопку мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>denkin: снова искал по меню где на самом деле находится функция</note>
+      <tuv lang="EN-US">
+        <seg>Press the &lt;f0&gt;Backspace&lt;/f0&gt; key, or right-click in the cell and select &lt;f1&gt;Delete Contents&lt;/f1&gt; from the context menu, or go to &lt;f2&gt;Edit &gt; Delete Contents&lt;/f2&gt;) on the Menu bar to open the &lt;f3&gt;Delete Contents&lt;/f3&gt; dialog (Figure &lt;t4&gt;26&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T184506Z" creationid="olex" creationdate="20180416T184506Z">
+        <seg>Нажмите клавишу &lt;f0&gt;Backspace&lt;/f0&gt;, или щелкните правой кнопкой мыши на ячейке и выберите в контекстном меню &lt;f1&gt;Очистить содержимое...&lt;/f1&gt;, или перейдите в меню &lt;f2&gt;Лист &gt; Очистить ячейки&lt;/f2&gt;, чтобы открыть диалоговое окно &lt;f3&gt;Удалить содержимое&lt;/f3&gt; (Рисунок &lt;t4&gt;26&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
