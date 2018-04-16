@@ -16430,6 +16430,15 @@ denkin: исправил на "включает"</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: что то сложновато для вечера в понедельник - не могу понять смысл предложения, что хотел сказать автор?</note>
+      <tuv lang="EN-US">
+        <seg>When creating spreadsheets for other people to use, validating cell contents ensures that they enter data that is valid and appropriate for the cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T181208Z" creationid="olex" creationdate="20180416T181208Z">
+        <seg>При создании электронных таблиц для использования другими пользователями, проверка содержимого ячеек гарантирует, что они вводят данные, которые являются действительными и подходящими для ячейки.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>When entering a time, separate time elements with colons, for example 10:43:45.</seg>
       </tuv>
@@ -17859,6 +17868,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>data validity</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T180815Z" creationid="olex" creationdate="20180416T180815Z">
+        <seg>достоверность данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>decks</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T193709Z" creationid="olex" creationdate="20180329T193709Z">
@@ -18695,6 +18712,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T204844Z" creationid="tagezi" creationdate="20180310T204844Z">
         <seg>пользовательский интерфейс, части</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>validating cell contents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T180729Z" creationid="olex" creationdate="20180416T180729Z">
+        <seg>проверка содержимого ячейки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>validating cell contents, Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180416T180758Z" creationid="olex" creationdate="20180416T180758Z">
+        <seg>проверка содержимого ячейки, Calc</seg>
       </tuv>
     </tu>
     <tu>
