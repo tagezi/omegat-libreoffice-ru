@@ -13830,6 +13830,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The font size of the data in a cell can automatically adjust to fit inside cell borders.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T201508Z" creationid="olex" creationdate="20180418T201508Z">
+        <seg>Размер шрифта данных в ячейке может автоматически  меняться, чтобы текст вписывался в границы ячейки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The font weight is not specified/known.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T090631Z" creationid="tagezi" creationdate="20180318T205631Z">
@@ -16716,6 +16724,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T132100Z" creationid="tagezi" creationdate="20180320T132100Z">
         <seg>Когда библиотека используется в качестве ссылки, она остается в текущем местоположении и является только для чтения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a manual line break is entered in a cell, the cell row height changes to display all the lines in the cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T201311Z" creationid="olex" creationdate="20180418T201311Z">
+        <seg>Когда в ячейке вводится ручной разрыв строки, высота строки ячейки изменяется, чтобы отобразить все строки в ячейке.</seg>
       </tuv>
     </tu>
     <tu>
