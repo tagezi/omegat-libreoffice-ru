@@ -4467,6 +4467,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each method is useful for different situations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T195629Z" creationid="olex" creationdate="20180418T195629Z">
+        <seg>Каждый из методов полезен в различных ситуациях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each of these panels has a &lt;f0&gt;More Options&lt;/f0&gt; button, which opens a dialog giving a greater number of options.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T170826Z" creationid="olex" creationdate="20180330T170826Z">
@@ -9926,6 +9934,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T174239Z" creationid="olex" creationdate="20180327T174239Z">
         <seg>Многострочный текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple lines of text can be entered into a single cell using automatic wrapping or manual line breaks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T195529Z" creationid="olex" creationdate="20180418T195434Z">
+        <seg>В одну ячейку можно вводить многострочный текст, используя автоматический перенос или ручные разрывы строк.</seg>
       </tuv>
     </tu>
     <tu>
