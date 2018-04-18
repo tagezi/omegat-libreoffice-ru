@@ -1941,8 +1941,8 @@
       <tuv lang="EN-US">
         <seg>Alternatively, select the cell and click in the Input Line on the Formula Bar (Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;9&lt;/t2&gt;), then double-click on the data to highlight it completely and type the new data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180418T193552Z" creationid="olex" creationdate="20180418T193552Z">
-        <seg>Другой способ6 выберите ячейку и щелкните по строке ввода на панели формул (Рисунок &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt; на странице &lt;t2&gt;9&lt;/t2&gt;), затем дважды щелкните по содержимому, чтобы выделить его полностью и введите новые данные.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T193643Z" creationid="olex" creationdate="20180418T193552Z">
+        <seg>Другой способ: выберите ячейку и щелкните по строке ввода на панели формул (Рисунок &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt; на странице &lt;t2&gt;9&lt;/t2&gt;), затем дважды щелкните по содержимому, чтобы выделить его полностью и введите новые данные.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5667,6 +5667,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T091707Z" creationid="olex" creationdate="20180414T143412Z">
         <seg>Например, если ввести январь в первую ячейку, то ряд завершается с использованием списка, определенного в &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Calc &gt; Списки сортировки&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, changing the phrase “Sales in Qtr.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T193758Z" creationid="olex" creationdate="20180418T193758Z">
+        <seg>Например, изменить выражение «Продажи в Qtr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12420,6 +12428,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sometimes it is necessary to edit the contents of cell without removing all of the data from the cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T193713Z" creationid="olex" creationdate="20180418T193713Z">
+        <seg>Иногда необходимо отредактировать содержимое ячейки, не удаляя при этом все данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sometimes the macro recorder has a failure and understanding LibreOffice internal workings helps to understand how and why the macro recorder sometimes fails.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T172117Z" creationid="tagezi" creationdate="20180319T171840Z">
@@ -17857,6 +17873,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T201934Z" creationid="olex" creationdate="20180402T192609Z">
         <seg>ячеек в Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>changing data in a cell</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T193604Z" creationid="olex" creationdate="20180418T193604Z">
+        <seg>изменение данных в ячейке</seg>
       </tuv>
     </tu>
     <tu>
