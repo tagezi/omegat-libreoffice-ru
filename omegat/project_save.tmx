@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2” &lt;s0/&gt;to “Sales rose in Qtr” can be done as follows.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T194002Z" creationid="olex" creationdate="20180418T193821Z">
+        <seg>2" &lt;s0/&gt;на "Продажи роз в Qtr " можно следующими способами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f1&gt;Window borders appear between the rows or columns indicating where the split has been placed, as shown in Figure &lt;t2&gt;18&lt;/t2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T173644Z" creationid="olex" creationdate="20180409T172050Z">
@@ -5673,8 +5681,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>For example, changing the phrase “Sales in Qtr.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180418T193758Z" creationid="olex" creationdate="20180418T193758Z">
-        <seg>Например, изменить выражение «Продажи в Qtr.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T193827Z" creationid="olex" creationdate="20180418T193758Z">
+        <seg>Например, изменить выражение "Продажи в Qtr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10862,6 +10870,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T184506Z" creationid="olex" creationdate="20180416T184506Z">
         <seg>Нажмите клавишу &lt;f0&gt;Backspace&lt;/f0&gt;, или щелкните правой кнопкой мыши на ячейке и выберите в контекстном меню &lt;f1&gt;Очистить содержимое...&lt;/f1&gt;, или перейдите в меню &lt;f2&gt;Лист &gt; Очистить ячейки&lt;/f2&gt;, чтобы открыть диалоговое окно &lt;f3&gt;Удалить содержимое&lt;/f3&gt; (Рисунок &lt;t4&gt;26&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the &lt;f0&gt;F2&lt;/f0&gt; key and the cursor is placed at the end of the cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T194203Z" creationid="olex" creationdate="20180418T194203Z">
+        <seg>Нажмите клавишу &lt;f0&gt;F2&lt;/f0&gt;, и в конце ячейки появится курсор.</seg>
       </tuv>
     </tu>
     <tu>
