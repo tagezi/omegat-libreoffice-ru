@@ -9610,6 +9610,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the cursor to the Input Line on the Formula Bar (Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;9&lt;/t2&gt;) and click at the position where you want to start entering the new data in the cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T194839Z" creationid="olex" creationdate="20180418T194818Z">
+        <seg>Переместите курсор в строку ввода на панели формул (Рисунок &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt; на странице &lt;t2&gt;9&lt;/t2&gt;) и щелкните в месте, где вы хотите начать ввод новых данных в ячейке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the mouse around the screen.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202555Z" creationid="olex" creationdate="20180404T202555Z">
@@ -16773,6 +16781,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180312T101909Z" creationid="User" creationdate="20180312T101909Z">
         <seg>После завершения ввода формулы на языке разметки закройте Редактор формул , нажав клавишу &lt;f0&gt;Esc&lt;/f0&gt; или щёлкнув мышью в документе вне области формулы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you have finished, click away from the cell to deselect it and your editing changes are saved.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T195102Z" creationid="olex" creationdate="20180418T195102Z">
+        <seg>Когда вы закончите, нажмите в стороне от ячейки, чтобы снять выделение и сохранить ваши изменения.</seg>
       </tuv>
     </tu>
     <tu>
