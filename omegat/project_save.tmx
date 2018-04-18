@@ -1202,6 +1202,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;When editing text, double-click the cell, then reposition the cursor to where you want the line break.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T201018Z" creationid="olex" creationdate="20180418T201018Z">
+        <seg>&lt;s1/&gt;В случае редактирования текста дважды щелкните по ячейке, затем поместите курсор туда, где вы хотите разбить строку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s2/&gt;Although the programming languages are the same, the objects and methods are different and therefore not entirely compatible.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T185215Z" creationid="olex" creationdate="20180327T185152Z">
@@ -8138,6 +8146,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203002Z" creationid="olex" creationdate="20180309T203002Z">
         <seg>В документе выберите элемент, который вы хотите сохранить как стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the input line of the formula bar, press &lt;f2&gt;Shift+Enter&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T201149Z" creationid="olex" creationdate="20180418T201149Z">
+        <seg>В строке ввода строки формулы нажмите &lt;f2&gt;Shift+Enter&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15379,6 +15395,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T194526Z" creationid="olex" creationdate="20180316T194526Z">
         <seg>Чтобы вставить альбомную страницу в середине документа, вставьте разрыв страницы и выберите стиль страницы с альбомной ориентацией.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To insert a manual line break while typing in a cell, press &lt;f0&gt;Ctrl+Enter&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T200911Z" creationid="olex" creationdate="20180418T200911Z">
+        <seg>Чтобы вставить разрыв строки вручную во время ввода в ячейку, нажмите &lt;f0&gt;Ctrl+Enter&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
