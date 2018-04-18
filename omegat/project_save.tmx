@@ -4265,6 +4265,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double-click on the cell to select it and place the cursor in the cell for editing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T194524Z" creationid="olex" creationdate="20180418T194524Z">
+        <seg>Дважды щелкните по ячейке, чтобы выбрать ее, и установите курсор внутри ячейки для редактирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double-click on the formula element in the preview window to select the formula element in the Formula Editor.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180322T135623Z" creationid="Роман" creationdate="20180322T135623Z">
@@ -4543,6 +4551,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T153312Z" creationid="lera" creationdate="20180303T153312Z">
         <seg>Эффект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Either:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T194537Z" creationid="olex" creationdate="20180418T194537Z">
+        <seg>Или:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11170,6 +11186,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reposition the cursor to where you want to start entering the new data in the cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T194633Z" creationid="olex" creationdate="20180418T194633Z">
+        <seg>Поместите курсор в ячейке туда, где вы хотите вводить новые данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T192640Z" creationid="olex" creationdate="20180326T192640Z">
@@ -12351,6 +12375,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T182814Z" creationid="olex" creationdate="20180326T182814Z">
         <seg>Один лист</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Single-click to select the cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T194659Z" creationid="olex" creationdate="20180418T194659Z">
+        <seg>Выделите ячейку одним щелчком мыши.</seg>
       </tuv>
     </tu>
     <tu>
