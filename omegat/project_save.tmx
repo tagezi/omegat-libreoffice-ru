@@ -11346,6 +11346,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click on the cell and select &lt;f0&gt;Format Cells&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; on the Menu bar, or press &lt;f2&gt;Ctrl+1&lt;/f2&gt;, to open the Format Cells dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T200153Z" creationid="olex" creationdate="20180418T200153Z">
+        <seg>Щелкните правой кнопкой мыши на ячейке и выберите в контекстном меню &lt;f0&gt;Формат ячеек...&lt;/f0&gt;, или выберите в меню &lt;f1&gt;Формат &gt; Ячейки...&lt;/f1&gt;, или нажмите клавиши &lt;f2&gt;Ctrl+1&lt;/f2&gt;, чтобы открыть диалоговое окно Формат ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click on the selected template and click the &lt;f0&gt;Set as default&lt;/f0&gt; button (see Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T191947Z" creationid="olex" creationdate="20180313T191947Z">
@@ -15034,6 +15042,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T195555Z" creationid="olex" creationdate="20180313T195555Z">
         <seg>Чтобы связать документ с другим шаблоном:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To automatically wrap multiple lines of text in a cell, use one of the following methods.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T195902Z" creationid="olex" creationdate="20180418T195902Z">
+        <seg>Чтобы настроить автоматический перенос текста в ячейке, используйте один из следующих способов.</seg>
       </tuv>
     </tu>
     <tu>
