@@ -16023,6 +16023,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the keyboard arrow keys to reposition the cursor where you want to start entering the new data in the cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T194336Z" creationid="olex" creationdate="20180418T194336Z">
+        <seg>Используя клавиши со стрелками, переместите курсор в ячейке туда, где вы хотите начать новый ввод данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Used with other keys</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T155222Z" creationid="lera" creationdate="20180303T155222Z">
@@ -16733,6 +16741,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180312T101909Z" creationid="User" creationdate="20180312T101909Z">
         <seg>После завершения ввода формулы на языке разметки закройте Редактор формул , нажав клавишу &lt;f0&gt;Esc&lt;/f0&gt; или щёлкнув мышью в документе вне области формулы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you have finished, press the &lt;f0&gt;Enter&lt;/f0&gt; key and your editing changes are saved.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T194445Z" creationid="olex" creationdate="20180418T194445Z">
+        <seg>Когда вы закончите, нажмите клавишу &lt;f0&gt;Enter&lt;/f0&gt;, и ваши изменения будут сохранены.</seg>
       </tuv>
     </tu>
     <tu>
