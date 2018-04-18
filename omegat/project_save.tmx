@@ -14739,6 +14739,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This dialog is also available by clicking the &lt;f5&gt;More Options&lt;/f5&gt; button in the &lt;f6&gt;Character&lt;/f6&gt; title bar of the &lt;f7&gt;Properties&lt;/f7&gt; deck on the opened Sidebar, with text in the cell selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T202319Z" creationid="olex" creationdate="20180418T202319Z">
+        <seg>Это диалоговое окно также вызывается нажатием кнопки &lt;f5&gt;Дополнительные параметры&lt;/f5&gt; в строке заголовка &lt;f6&gt;Выравнивание&lt;/f6&gt; панели &lt;f7&gt;Свойства&lt;/f7&gt; на боковой панели когда выбрана ячейка с текстом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This dialog shows the previously-defined series in the &lt;f2&gt;Lists&lt;/f2&gt; box on the left and the contents of the highlighted list in the &lt;f3&gt;Entries&lt;/f3&gt; box.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T091109Z" creationid="olex" creationdate="20180415T090913Z">
@@ -15307,6 +15315,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T144140Z" creationid="tagezi" creationdate="20180306T144140Z">
         <seg>Чтобы воспользоваться справочной системой, нажмите &lt;f0&gt;F1&lt;/f0&gt; или выберите &lt;f1&gt;Справка по LibreOffice &gt; &lt;s2/&gt;Справка по LibreOffice&lt;/f1&gt; в меню Справка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do this, select the &lt;f0&gt;Shrink to fit cell size&lt;/f0&gt; option under &lt;f1&gt;Properties&lt;/f1&gt; in the Format Cells dialog (Figure &lt;t2&gt;27&lt;/t2&gt;) on &lt;t3/&gt;the &lt;f4&gt;Alignment&lt;/f4&gt; page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180418T201707Z" creationid="olex" creationdate="20180418T201707Z">
+        <seg>Чтобы сделать это, выберите опцию &lt;f0&gt;Уменьшать по размеру ячейки&lt;/f0&gt; в разделе &lt;f1&gt;Свойства &lt;/f1&gt; в диалоговом окне Формат ячеек (Рисунок &lt;t2&gt;27&lt;/t2&gt;) на вкладке &lt;t3/&gt;&lt;f4&gt;Выравнивание&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
