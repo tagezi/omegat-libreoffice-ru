@@ -2839,6 +2839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing language in a cell allows different languages to be used within the same document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T194241Z" creationid="olex" creationdate="20180424T194241Z">
+        <seg>Изменение языка в ячейке позволяет использовать разные языки в одном документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changing page orientation within a document</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195835Z" creationid="olex" creationdate="20180306T195741Z">
@@ -16351,6 +16359,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the &lt;f0&gt;Font Effects&lt;/f0&gt; tab on the Format Cells dialog to set other font characteristics.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T194547Z" creationid="olex" creationdate="20180424T194547Z">
+        <seg>Используйте вкладку &lt;f0&gt;Эффекты шрифта&lt;/f0&gt; в диалоговом окне Формат ячеек, чтобы установить другие характеристики шрифта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the &lt;f0&gt;Move/Copy Sheet&lt;/f0&gt; dialog (Figure &lt;t1&gt;15&lt;/t1&gt;) to specify exactly whether you want the sheet in the same or a different spreadsheet, its position within the spreadsheet, and the sheet name when you move or copy the sheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T222024Z" creationid="olex" creationdate="20180407T222024Z">
@@ -17582,6 +17598,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T182603Z" creationid="olex" creationdate="20180330T182603Z">
         <seg>Вы также можете выбрать несколько листов, удерживая клавишу &lt;f1&gt;Ctrl&lt;/f1&gt; и одновременно нажимая на вкладки листов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also select the &lt;f1&gt;More Options&lt;/f1&gt; button on the Character panel of the Sidebar to open the Format Cells dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T194209Z" creationid="olex" creationdate="20180424T194209Z">
+        <seg>Вы также можете выбрать кнопку &lt;f1&gt;Дополнительные параметры&lt;/f1&gt; на панели Символы боковой панели, чтобы открыть диалоговое окно Формат ячеек.</seg>
       </tuv>
     </tu>
     <tu>
