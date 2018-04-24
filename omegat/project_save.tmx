@@ -2247,8 +2247,8 @@
       <tuv lang="EN-US">
         <seg>Apply any of the data types in the &lt;f0&gt;Category&lt;/f0&gt; list to the data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180424T185846Z" creationid="olex" creationdate="20180424T185846Z">
-        <seg>Примените любой тип данных из списка &lt;f0&gt;Категория&lt;/f0&gt; к ячейке.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T185918Z" creationid="olex" creationdate="20180424T185846Z">
+        <seg>Применяйте любой тип формата из списка &lt;f0&gt;Категория&lt;/f0&gt; к данным.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3605,6 +3605,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180314T160809Z" creationid="User" creationdate="20180314T160809Z">
         <seg>Авторы того руководства:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control the number of decimal places and leading zeros in &lt;f0&gt;Options&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T190109Z" creationid="olex" creationdate="20180424T190109Z">
+        <seg>Управляйте количеством десятичных знаков и начальными нулями в &lt;f0&gt;Параметры&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
