@@ -13166,6 +13166,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Properties&lt;/f0&gt; deck of the Sidebar has five panels, &lt;f1&gt;Styles&lt;/f1&gt;, &lt;f2&gt;Character&lt;/f2&gt;, &lt;f3&gt;Number Format&lt;/f3&gt;, &lt;f4&gt;Alignment&lt;/f4&gt; and &lt;f5&gt;Cell Appearance&lt;/f5&gt;, which between them contain all the formatting controls from the Formatting toolbar and more.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T193945Z" creationid="olex" creationdate="20180424T193945Z">
+        <seg>Палитра &lt;f0&gt;Свойства&lt;/f0&gt; боковой панели имеет пять панелей, &lt;f1&gt;Стиль&lt;/f1&gt;, &lt;f2&gt;Символы&lt;/f2&gt;, &lt;f3&gt;Формат чисел&lt;/f3&gt;, &lt;f4&gt;Выравнивание&lt;/f4&gt; и &lt;f5&gt;Внешний вид ячеек&lt;/f5&gt;, в которых содержатся все элементы управления форматированием панели инструментов Форматирование и многое другое.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;f0&gt;Text Import&lt;/f0&gt; dialog (Figure &lt;t1&gt;4&lt;/t1&gt;) opens.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T190012Z" creationid="olex" creationdate="20180330T185726Z">
@@ -15901,6 +15909,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T190434Z" creationid="olex" creationdate="20180405T190434Z">
         <seg>Чтобы отобразить скрытые листы, щелкните правой кнопкой мыши на любой вкладке листа и выберите Показать лист в контекстном меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To specify the language used in the cell, open the &lt;f0&gt;Font&lt;/f0&gt; page on the Format Cells dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T194108Z" creationid="olex" creationdate="20180424T194108Z">
+        <seg>Чтобы указать язык, используемый в ячейке, откройте вкладку &lt;f0&gt;Шрифт&lt;/f0&gt; в диалоговом окне Формат ячеек.</seg>
       </tuv>
     </tu>
     <tu>
