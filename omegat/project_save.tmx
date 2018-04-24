@@ -2783,6 +2783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cell border properties apply only to the selected cells and can be changed only when you are editing those cells.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T200919Z" creationid="olex" creationdate="20180424T200919Z">
+        <seg>Настройки обрамления ячеек применяются только к выделенным ячейкам и могут быть изменены только при редактировании этих ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cell navigation</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T195258Z" creationid="olex" creationdate="20180326T180618Z">
@@ -5863,6 +5871,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if cell C3 has a top border, that border can only be removed by selecting C3.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T200948Z" creationid="olex" creationdate="20180424T200948Z">
+        <seg>Например, если ячейка C3 имеет верхнюю границу, эту границу можно удалить, только выбрав C3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, in Writer &lt;f0&gt;Ctrl+0&lt;/f0&gt; applies the &lt;f1&gt;Text body&lt;/f1&gt; style, &lt;f2&gt;Ctrl+1&lt;/f2&gt; applies the &lt;f3&gt;Heading 1&lt;/f3&gt; style, and &lt;f4&gt;Ctrl+2&lt;/f4&gt; applies the &lt;f5&gt;Heading 2&lt;/f5&gt; style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T094320Z" creationid="olex" creationdate="20180308T172649Z">
@@ -8490,6 +8506,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T212903Z" creationid="lera" creationdate="20180303T212903Z">
         <seg>Он может свободно копироваться, распространяться и использоваться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It cannot be removed in C2 despite also appearing to be the bottom border for cell C2.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T201040Z" creationid="olex" creationdate="20180424T201040Z">
+        <seg>Эту границу нельзя удалить в ячейке C2, несмотря на то, что она также является нижней границей для ячейки C2.</seg>
       </tuv>
     </tu>
     <tu>
