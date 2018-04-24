@@ -5152,8 +5152,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Number icons on Formatting toolbar</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180424T184737Z" creationid="olex" creationdate="20180424T184737Z">
-        <seg>Рисунок &lt;seq0&gt;29&lt;/seq0&gt;: Значки числовых форматов на панели инструментов Форматирование</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T184909Z" creationid="olex" creationdate="20180424T184737Z">
+        <seg>Рисунок &lt;seq0&gt;29&lt;/seq0&gt;: Значки форматов чисел на панели инструментов Форматирование</seg>
       </tuv>
     </tu>
     <tu>
@@ -6014,6 +6014,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more control or to select other number formats, use the &lt;f0&gt;Numbers&lt;/f0&gt; page of the Format Cells dialog (Figure &lt;t1&gt;19&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;29&lt;/t3&gt;):</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T185203Z" creationid="olex" creationdate="20180424T184820Z">
+        <seg>Больше настроек и большее количество форматов чисел найдете на вкладке &lt;f0&gt;Числа&lt;/f0&gt; диалогового окна Формат ячеек (Рисунок &lt;t1&gt;19&lt;/t1&gt;&lt;s2/&gt; на странице &lt;t3&gt;29&lt;/t3&gt; ):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more detail, see the user guides for the individual components.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T083231Z" creationid="tagezi" creationdate="20180306T083231Z">
@@ -6192,8 +6200,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Formatting numbers</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180424T184559Z" creationid="olex" creationdate="20180327T174541Z">
-        <seg>Числовые форматы</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T184839Z" creationid="olex" creationdate="20180327T174541Z">
+        <seg>Форматы чисел</seg>
       </tuv>
     </tu>
     <tu>
@@ -12045,8 +12053,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Select the cell, then click the relevant icon to change the number format.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180424T184624Z" creationid="olex" creationdate="20180424T184456Z">
-        <seg>Выделите ячейку, затем щелкните соответствующий значок, чтобы изменить числовой формат.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T184859Z" creationid="olex" creationdate="20180424T184456Z">
+        <seg>Выделите ячейку, затем щелкните соответствующий значок, чтобы изменить формат числа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12397,8 +12405,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Several different number formats can be applied to cells by using icons on the Formatting toolbar (highlighted in Figure &lt;t0&gt;29&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180424T184611Z" creationid="olex" creationdate="20180424T184418Z">
-        <seg>Некоторые из числовых форматов могут быть применены к ячейкам с помощью кнопок на панели инструментов Форматирование (выделено на рисунке &lt;t0&gt;29&lt;/t0&gt;).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T184850Z" creationid="olex" creationdate="20180424T184418Z">
+        <seg>Некоторые из форматов чисел могут быть применены к ячейкам с помощью кнопок на панели инструментов Форматирование (выделено на рисунке &lt;t0&gt;29&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
