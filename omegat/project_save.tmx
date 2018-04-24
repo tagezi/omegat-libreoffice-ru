@@ -3375,6 +3375,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the small triangle on the right of the Font Size on the Formatting toolbar and select a font size from the drop down list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T191220Z" creationid="olex" creationdate="20180424T191220Z">
+        <seg>Нажмите на маленький треугольник справа от поля Кегль на панели инструментов Форматирования и выберите размер шрифта в раскрывающемся списке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the text entry you require and it is entered into the selected cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T093929Z" creationid="olex" creationdate="20180415T093929Z">
@@ -3459,6 +3467,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T183858Z" creationid="olex" creationdate="20180405T183858Z">
         <seg>Нажмите последний столбец или строку в группе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the small triangle on the right of the Font Name box on the Formatting toolbar (highlighted in Figure &lt;t0&gt;30&lt;/t0&gt;) and select a font from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T190800Z" creationid="olex" creationdate="20180424T190800Z">
+        <seg>Нажмите маленький треугольник справа от поля Гарнитура на панели инструментов Форматирование (выделено на Рисунке &lt;t0&gt;30&lt;/t0&gt;) и выберите шрифт из раскрывающегося списка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12437,8 +12453,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Several different number formats can be applied to cells by using icons on the Formatting toolbar (highlighted in Figure &lt;t0&gt;29&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180424T184850Z" creationid="olex" creationdate="20180424T184418Z">
-        <seg>Некоторые из форматов чисел могут быть применены к ячейкам с помощью кнопок на панели инструментов Форматирование (выделено на рисунке &lt;t0&gt;29&lt;/t0&gt;).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T190810Z" creationid="olex" creationdate="20180424T184418Z">
+        <seg>Некоторые из форматов чисел могут быть применены к ячейкам с помощью кнопок на панели инструментов Форматирование (выделено на Рисунке &lt;t0&gt;29&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15643,6 +15659,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T212011Z" creationid="tagezi" creationdate="20180304T212011Z">
         <seg>Для публикации на сервер Wiki, экспортируйте документы в формате MediaWiki (.txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To quickly select a font and format text for use in a cell:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T190631Z" creationid="olex" creationdate="20180424T190631Z">
+        <seg>Чтобы быстро выбрать шрифт и формат текста для ячейки:</seg>
       </tuv>
     </tu>
     <tu>
