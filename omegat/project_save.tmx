@@ -3377,8 +3377,8 @@
       <tuv lang="EN-US">
         <seg>Click on the small triangle on the right of the Font Size on the Formatting toolbar and select a font size from the drop down list.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180424T191220Z" creationid="olex" creationdate="20180424T191220Z">
-        <seg>Нажмите на маленький треугольник справа от поля Кегль на панели инструментов Форматирования и выберите размер шрифта в раскрывающемся списке.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T191249Z" creationid="olex" creationdate="20180424T191220Z">
+        <seg>Нажмите на маленький треугольник справа от поля Кегль на панели инструментов Форматирования и выберите в раскрывающемся списке размер шрифта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3473,8 +3473,8 @@
       <tuv lang="EN-US">
         <seg>Click the small triangle on the right of the Font Name box on the Formatting toolbar (highlighted in Figure &lt;t0&gt;30&lt;/t0&gt;) and select a font from the drop-down list.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180424T190800Z" creationid="olex" creationdate="20180424T190800Z">
-        <seg>Нажмите маленький треугольник справа от поля Гарнитура на панели инструментов Форматирование (выделено на Рисунке &lt;t0&gt;30&lt;/t0&gt;) и выберите шрифт из раскрывающегося списка.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T191238Z" creationid="olex" creationdate="20180424T190800Z">
+        <seg>Нажмите маленький треугольник справа от поля Гарнитура на панели инструментов Форматирование (выделено на Рисунке &lt;t0&gt;30&lt;/t0&gt;) и выберите из раскрывающегося списка тип шрифта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5242,6 +5242,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T171750Z" creationid="olex" creationdate="20180308T171750Z">
         <seg>Рисунок &lt;seq0&gt;2&lt;/seq0&gt;: список Задать стиль абзаца на панели инструментов Форматирование.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Font Name and Size on Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T191352Z" creationid="olex" creationdate="20180424T191352Z">
+        <seg>Рисунок &lt;seq0&gt;30&lt;/seq0&gt;: Имя и размер шрифта на панели инструментов Форматирования</seg>
       </tuv>
     </tu>
     <tu>
@@ -15258,6 +15266,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T194524Z" creationid="olex" creationdate="20180412T194240Z">
         <seg>Чтобы изменить параметры автозамены, перейдите в меню &lt;f0&gt;Сервис &gt; Параметры автозамены...&lt;/f0&gt;, чтобы открыть диалоговое окно &lt;f1&gt;Автозамена&lt;/f1&gt; (Рисунок &lt;t2&gt;21&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the character format, click on the &lt;f0&gt;Bold&lt;/f0&gt;, &lt;f1&gt;Italic&lt;/f1&gt;, or Underline icons.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T191917Z" creationid="olex" creationdate="20180424T191917Z">
+        <seg>Чтобы изменить формат символа, щелкните кнопку &lt;f0&gt;Жирный&lt;/f0&gt;, &lt;f1&gt;Курсив&lt;/f1&gt; или &lt;f1&gt;Подчеркнутый&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
