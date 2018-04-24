@@ -6144,8 +6144,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>For more options go to menu &lt;f2&gt;Format – Cells – Alignment&lt;/f2&gt;, and select one of the options in the Horizontal drop down list.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180424T192445Z" creationid="olex" creationdate="20180424T192445Z">
-        <seg>Для получения дополнительных параметров пройдите в меню &lt;f2&gt;Формат &gt; Ячейки... &gt; Выравнивание&lt;/f2&gt; и выберите один из параметров в раскрывающемся списке По горизонтали.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T192559Z" creationid="olex" creationdate="20180424T192445Z">
+        <seg>Для получения дополнительных параметров пройдите в меню &lt;f2&gt;Формат &gt; Ячейки... &gt; Выравнивание&lt;/f2&gt; и выберите один из вариантов в раскрывающемся списке По горизонтали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15310,6 +15310,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the font color, click the arrow next to the Font Color icon &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt;to display the color palette, then select the desired color.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T192749Z" creationid="olex" creationdate="20180424T192749Z">
+        <seg>Чтобы изменить цвет шрифта, щелкните стрелку рядом с кнопкой Цвет шрифта &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; &lt;s2/&gt;, чтобы отобразилась цветовая палитра, а затем выберите нужный цвет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change the horizontal paragraph alignment, click on one of the four alignment icons (Left, Center, Right, Justified) &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T192200Z" creationid="olex" creationdate="20180424T192200Z">
@@ -15322,6 +15330,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T105056Z" creationid="tagezi" creationdate="20180310T092940Z">
         <seg>Чтобы изменить используемый набор значков, выберите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Вид&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the vertical alignment of the text in the cell, go to menu &lt;f0&gt;Format – Cells – Alignment&lt;/f0&gt; and select one of the options in the Vertical drop down list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T192631Z" creationid="olex" creationdate="20180424T192548Z">
+        <seg>Чтобы изменить вертикальное выравнивание текста в ячейке, перейдите в меню &lt;f0&gt;Формат &gt; Ячейки... &gt; Выравнивание&lt;/f0&gt; и выберите один из вариантов в раскрывающемся списке По вертикали.</seg>
       </tuv>
     </tu>
     <tu>
