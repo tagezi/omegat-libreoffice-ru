@@ -1426,6 +1426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A color palette is displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T195751Z" creationid="olex" creationdate="20180424T195751Z">
+        <seg>Отобразится цветовая палитра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A common scenario is to have &lt;i0/&gt;a &lt;i1/&gt;landscape page in the middle of a document, whereas the other pages are in a portrait orientation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180325T120701Z" creationid="olex" creationdate="20180316T194314Z">
@@ -13170,6 +13178,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180050Z" creationid="tagezi" creationdate="20180304T180050Z">
         <seg>Формат .rtf является распространенным форматом для передачи текстовых файлов между приложениями, но вы, вероятно, обнаружите потерю форматирования и изображений при его использовании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Cell Appearance&lt;/f0&gt; panel of the &lt;f1&gt;Properties&lt;/f1&gt; deck in the Sidebar contains &lt;f2&gt;Cell border&lt;/f2&gt;, &lt;f3&gt;Line style&lt;/f3&gt; and &lt;f4&gt;Line color&lt;/f4&gt; controls.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T200135Z" creationid="olex" creationdate="20180424T200135Z">
+        <seg>Панель &lt;f0&gt;Внешний вид ячеек&lt;/f0&gt; палитре &lt;f1&gt;Свойства&lt;/f1&gt; боковой панели содержит настройки &lt;f2&gt;Выбор обрамления выбранных ячеек&lt;/f2&gt;, &lt;f3&gt;Выбор стиля линий обрамления&lt;/f3&gt; и &lt;f4&gt;Выберите цвет линий обрамления&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
