@@ -11730,6 +11730,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the &lt;f1&gt;Calc Guide Chapter 4 Using Styles and Templates in Calc&lt;/f1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T194639Z" creationid="olex" creationdate="20180424T194639Z">
+        <seg>Дополнительную информацию смотрите в главе &lt;f1&gt;Руководство по Calc Глава 4 Использование стилей и шаблонов в Calc&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the Advanced Options in Chapter 2 of this guide.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T183036Z" creationid="tagezi" creationdate="20180310T183036Z">
@@ -15531,6 +15539,22 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T212609Z" creationid="tagezi" creationdate="20180304T212609Z">
         <seg>Для экспорта в один из этих форматов, выберите &lt;f0&gt;Файл &gt; Экспорт...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To format the border line style, click on the line style icon &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt;and select the type from the palette.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T195339Z" creationid="olex" creationdate="20180424T195339Z">
+        <seg>Чтобы отформатировать стиль линии для границ, щелкните значок стиля линии &lt;df0&gt; &lt;di1 /&gt; &lt;/ df0&gt; &lt;s2 /&gt; и выберите тип из палитры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To format the borders of a cell or a group of selected cells, click on the Borders icon &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt;on the Formatting toolbar, and select one of the border options displayed in the palette.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T194924Z" creationid="olex" creationdate="20180424T194924Z">
+        <seg>Чтобы настроить вид границ ячейки или группы выбранных ячеек, щелкните кнопку Обрамление &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt; на панели инструментов Форматирование и выберите один из вариантов границ, отображаемых в палитре ,</seg>
       </tuv>
     </tu>
     <tu>
