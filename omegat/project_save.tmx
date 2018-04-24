@@ -2247,8 +2247,8 @@
       <tuv lang="EN-US">
         <seg>Apply any of the data types in the &lt;f0&gt;Category&lt;/f0&gt; list to the data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180424T185918Z" creationid="olex" creationdate="20180424T185846Z">
-        <seg>Применяйте любой тип формата из списка &lt;f0&gt;Категория&lt;/f0&gt; к данным.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T190124Z" creationid="olex" creationdate="20180424T185846Z">
+        <seg>Применяйте любой тип данных из списка &lt;f0&gt;Категория&lt;/f0&gt; к ячейкам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3611,8 +3611,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Control the number of decimal places and leading zeros in &lt;f0&gt;Options&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180424T190109Z" creationid="olex" creationdate="20180424T190109Z">
-        <seg>Управляйте количеством десятичных знаков и начальными нулями в &lt;f0&gt;Параметры&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T190143Z" creationid="olex" creationdate="20180424T190109Z">
+        <seg>Управляйте количеством десятичных знаков и начальными нулями в области &lt;f0&gt;Параметры&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4631,6 +4631,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T144650Z" creationid="Роман" creationdate="20180320T144650Z">
         <seg>Введите &lt;f0&gt;%pi&lt;/f0&gt; в Редакторе формул для ввода греческого символа (π).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a custom format code.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180424T190242Z" creationid="olex" creationdate="20180424T190242Z">
+        <seg>Введите пользовательский код формата.</seg>
       </tuv>
     </tu>
     <tu>
