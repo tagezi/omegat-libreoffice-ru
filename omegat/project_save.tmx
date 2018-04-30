@@ -1538,6 +1538,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A menu displays the default styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T174049Z" creationid="olex" creationdate="20180430T174049Z">
+        <seg>В меню отобразятся стили по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A message box appears and asks you to confirm the deletion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T184158Z" creationid="olex" creationdate="20180315T184158Z">
@@ -13906,6 +13914,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T173434Z" creationid="olex" creationdate="20180329T173434Z">
         <seg>При настройке по умолчанию, когда открывается Calc, панели инструментов Стандартная и Форматирование будут закреплены в верхней части рабочей области (Рисунок &lt;t0&gt;1&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default styles can be applied, deleted, or modified through the Styles and Formatting deck.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T174225Z" creationid="olex" creationdate="20180430T174225Z">
+        <seg>Стили по умолчанию можно применять, удалять или изменять с помощью вкладки Стили в Боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
