@@ -2333,6 +2333,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As soon as you select a theme, the theme styles are applied to the spreadsheet and are immediately visible.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T183734Z" creationid="olex" creationdate="20180430T183734Z">
+        <seg>Стили темы применяются к электронной таблице сразу, как только вы выбираете тему.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As this is an experimental feature, it may not work reliably.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T202145Z" creationid="olex" creationdate="20180311T202145Z">
@@ -12583,6 +12591,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T183801Z" creationid="olex" creationdate="20180315T183801Z">
         <seg>Выберите шаблон, который необходимо удалить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the theme that you want to apply.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T183636Z" creationid="olex" creationdate="20180430T183636Z">
+        <seg>Выберите тему, которую вы хотите применить.</seg>
       </tuv>
     </tu>
     <tu>
