@@ -11786,6 +11786,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the &lt;f10&gt;Calc Guide Chapter 4 Using Styles and Templates in Calc&lt;/f10&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T173506Z" creationid="olex" creationdate="20180430T173506Z">
+        <seg>Дополнительную информацию смотрите в &lt;f10&gt;Руководство по Calc Глава 4 Использование стилей и шаблонов в Calc&lt;/f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the &lt;f1&gt;Calc Guide Chapter 2 Entering, Editing and Formatting Data&lt;/f1&gt; for more information on validating cell contents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T183009Z" creationid="olex" creationdate="20180416T183009Z">
@@ -15266,6 +15274,15 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T140441Z" creationid="tagezi" creationdate="20180320T140345Z">
         <seg>Для добавления &lt;i0/&gt;пункта меню, &lt;i1/&gt;сочетания клавиш или &lt;i2/&gt;значка на панель инструментов, которые будут вызывать макрос, используйте &lt;i3/&gt;диалоговое окно Настройка (Рисунок &lt;t4&gt;9&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>denkin: не нашел что имелрсь ввиду Формат &gt; Стили нет такого в меню</note>
+      <tuv lang="EN-US">
+        <seg>To add default styles for a cell or a group of cells, click Format &gt; Styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T174024Z" creationid="olex" creationdate="20180430T174024Z">
+        <seg>Чтобы добавить стили по умолчанию для ячейки или группы ячеек, выберите в меню Формат &gt; Стили.</seg>
       </tuv>
     </tu>
     <tu>
