@@ -1610,6 +1610,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A new set of styles, including one named &lt;f0&gt;Card&lt;/f0&gt; is added to your document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T184414Z" creationid="olex" creationdate="20180430T184414Z">
+        <seg>В ваш документ добавлен новый набор стилей, в том числе один с именем &lt;f0&gt;Card&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A number format is not applied.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T194341Z" creationid="olex" creationdate="20180330T194341Z">
@@ -5394,6 +5402,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T181056Z" creationid="olex" creationdate="20180430T181056Z">
         <seg>Рисунок &lt;seq0&gt;32&lt;/seq0&gt;: Диалоговое окно Автоформат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Theme Selection dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T184232Z" creationid="olex" creationdate="20180430T184232Z">
+        <seg>Рисунок &lt;seq0&gt;33&lt;/seq0&gt;: Диалоговое окно Выбор тем</seg>
       </tuv>
     </tu>
     <tu>
@@ -12980,6 +12996,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some themes even change the Default cell style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T184323Z" creationid="olex" creationdate="20180430T184323Z">
+        <seg>Некоторые темы даже изменяют стиль ячейки по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sometimes it is necessary to edit the contents of cell without removing all of the data from the cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T193713Z" creationid="olex" creationdate="20180418T193713Z">
@@ -13938,6 +13962,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T091050Z" creationid="tagezi" creationdate="20180320T091050Z">
         <seg>Само приложение действует как два контейнера библиотек: один контейнер для макросов, распределенный с LibreOffice под названием Макросы LibreOffice, а другой контейнер для личных макросов под названием Мои макросы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The applied spreadsheet themes works with cell styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T184309Z" creationid="olex" creationdate="20180430T184309Z">
+        <seg>Примененные темы электронных таблиц работают со стилями ячеек.</seg>
       </tuv>
     </tu>
     <tu>
