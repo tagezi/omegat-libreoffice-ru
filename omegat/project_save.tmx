@@ -2429,6 +2429,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AutoFormat</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T175648Z" creationid="olex" creationdate="20180430T175648Z">
+        <seg>Автоформат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AutoFormat, Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T175704Z" creationid="olex" creationdate="20180430T175704Z">
+        <seg>Автоформат, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AutoFormatting of cells</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T175228Z" creationid="olex" creationdate="20180327T175228Z">
@@ -18126,6 +18142,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can use &lt;i0/&gt;&lt;i1/&gt;Calc’s AutoFormat&lt;i2/&gt; feature to format a table (range of cells) quickly and easily.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T180220Z" creationid="olex" creationdate="20180430T180220Z">
+        <seg>Вы можете использовать функцию &lt;i0/&gt;&lt;i1/&gt;Стили автоформата...&lt;i2/&gt; для быстрого и легкого форматирования таблицы (диапазона ячеек).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can use the styles as provided, modify them, or create new styles, as described in this chapter.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193307Z" creationid="olex" creationdate="20180307T193307Z">
@@ -18826,6 +18850,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T204110Z" creationid="olex" creationdate="20180313T204110Z">
         <seg>папки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>formatting, Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T175657Z" creationid="olex" creationdate="20180430T175657Z">
+        <seg>форматирование, Calc</seg>
       </tuv>
     </tu>
     <tu>
