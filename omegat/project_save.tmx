@@ -1540,8 +1540,8 @@
       <tuv lang="EN-US">
         <seg>A menu displays the default styles.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180430T174049Z" creationid="olex" creationdate="20180430T174049Z">
-        <seg>В меню отобразятся стили по умолчанию.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T174709Z" creationid="olex" creationdate="20180430T174049Z">
+        <seg>В окне Стили отобразятся стили по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15297,8 +15297,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To add default styles for a cell or a group of cells, click Format &gt; Styles.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180430T174024Z" creationid="olex" creationdate="20180430T174024Z">
-        <seg>Чтобы добавить стили по умолчанию для ячейки или группы ячеек, выберите в меню Формат &gt; Стили.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T174638Z" creationid="olex" creationdate="20180430T174024Z">
+        <seg>Чтобы добавить стили по умолчанию для ячейки или группы ячеек, выберите в меню Стили &gt; Управление стилями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17865,6 +17865,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T132558Z" creationid="olex" creationdate="20180306T180207Z">
         <seg>Можно создать шаблон соответствующий конкретным требованиям для любого типа документа (текст, таблица, рисунок, презентация).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can create and use custom default cell styles for a cell by clicking Format &gt; Styles &gt; New Styles… Enter in a new name for the style or click an existing style name to update that style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T174926Z" creationid="olex" creationdate="20180430T174926Z">
+        <seg>Вы можете создавать и использовать собственные стили ячеек по умолчанию для ячейки, выбрав в меню Формат &gt; Стили &gt; Новые стили ... Введите новое имя для стиля или щелкните существующее имя стиля, чтобы обновить этот стиль.</seg>
       </tuv>
     </tu>
     <tu>
