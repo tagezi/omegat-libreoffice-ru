@@ -1612,8 +1612,8 @@
       <tuv lang="EN-US">
         <seg>A new set of styles, including one named &lt;f0&gt;Card&lt;/f0&gt; is added to your document.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180430T184414Z" creationid="olex" creationdate="20180430T184414Z">
-        <seg>В ваш документ добавлен новый набор стилей, в том числе один с именем &lt;f0&gt;Card&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T184513Z" creationid="olex" creationdate="20180430T184414Z">
+        <seg>В ваш документ будет добавлен новый набор стилей, в том числе один с именем &lt;f0&gt;Card&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5414,6 +5414,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Cell styles of theme "Pastel"</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T184706Z" creationid="olex" creationdate="20180430T184624Z">
+        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Cell styles of theme "Pastel"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Calc status bar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T191217Z" creationid="olex" creationdate="20180329T191217Z">
@@ -5627,6 +5635,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180312T071730Z" creationid="User" creationdate="20180312T071730Z">
         <seg>Рисунок &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;показывает пример документа Writer с выделенной формулой, готовой к вводу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;t1&gt;34&lt;/t1&gt;&lt;s2/&gt;shows the styles added by the &lt;f3&gt;Pastel&lt;/f3&gt; theme.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T184451Z" creationid="olex" creationdate="20180430T184451Z">
+        <seg>Рисунок &lt;t1&gt;34&lt;/t1&gt;&lt;s2/&gt;показывает стили, добавленные с темой &lt;f3&gt;Pastel&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
