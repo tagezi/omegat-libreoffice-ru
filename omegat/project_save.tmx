@@ -1898,6 +1898,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All formatting applied are direct formatting.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T180412Z" creationid="olex" creationdate="20180430T180412Z">
+        <seg>Все применяемые настройки являются ручным форматированием.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All sheets</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183030Z" creationid="olex" creationdate="20180326T183030Z">
@@ -8526,6 +8534,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also let you format different tables of the sheet with the same look and feel very easily.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T180336Z" creationid="olex" creationdate="20180430T180336Z">
+        <seg>Это также позволяет легко приводить различные таблицы листа к такому же же внешнему виду и оформлению.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can be advantageous to select multiple sheets, especially when you want to make changes to many sheets at once.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T184836Z" creationid="olex" creationdate="20180405T184836Z">
@@ -12255,6 +12271,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T182252Z" creationid="olex" creationdate="20180411T182252Z">
         <seg>Выберите ячейку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the cells in at least three columns and rows, including column and row headers, that you want to format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T180516Z" creationid="olex" creationdate="20180430T180516Z">
+        <seg>Выберите ячейки как минимум в трех столбцах и строках, включая столбцы и строки с названиями, которые вы хотите отформатировать.</seg>
       </tuv>
     </tu>
     <tu>
