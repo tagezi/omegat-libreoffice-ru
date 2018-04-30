@@ -513,8 +513,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Functions&lt;/f0&gt;: This deck contains a single panel, which is the same as the window opened by selecting &lt;f1&gt;Insert &gt; Function...&lt;/f1&gt; from the Menu bar.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T174603Z" creationid="olex" creationdate="20180330T174603Z">
-        <seg>&lt;f0&gt;Функции&lt;/f0&gt;: эта палитра содержит одну панель, которая аналогична окну, открываемому при выборе в меню &lt;f1&gt;Вставка &gt; Функция...&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T172816Z" creationid="olex" creationdate="20180330T174603Z">
+        <seg>&lt;f0&gt;Функции&lt;/f0&gt;: эта вкладка содержит одну панель, которая аналогична окну, открываемому при выборе в меню &lt;f1&gt;Вставка &gt; Функция...&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,8 +522,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Gallery&lt;/f0&gt;: This deck contains a single panel, which is the same as that opened by selecting &lt;f1&gt;Gallery&lt;/f1&gt; from the Standard toolbar or &lt;f2&gt;Tools &gt; Gallery&lt;/f2&gt; from the Menu bar.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T171936Z" creationid="olex" creationdate="20180330T171936Z">
-        <seg>&lt;f0&gt;Галерея&lt;/f0&gt;: эта палитра содержит одну панель, которая аналогична открывающейся, при нажатии кнопки &lt;f1&gt;Галерея&lt;/f1&gt; на стандартной панели инструментов или выборе в меню &lt;f2&gt;Вид &gt; Галерея&lt;/f2&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T172802Z" creationid="olex" creationdate="20180330T171936Z">
+        <seg>&lt;f0&gt;Галерея&lt;/f0&gt;: эта вкладка содержит одну панель, которая аналогична открывающейся, при нажатии кнопки &lt;f1&gt;Галерея&lt;/f1&gt; на стандартной панели инструментов или выборе в меню &lt;f2&gt;Вид &gt; Галерея&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -667,8 +667,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Navigator&lt;/f0&gt;: This deck contains a single panel, which is essentially the same as the Navigator window opened by clicking the &lt;f1&gt;Navigator&lt;/f1&gt; button on the Standard toolbar or selecting &lt;f2&gt;View &gt; Navigator&lt;/f2&gt; (&lt;f3&gt;F5&lt;/f3&gt;) from the Menu bar.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T173834Z" creationid="olex" creationdate="20180330T173834Z">
-        <seg>&lt;f0&gt;Навигатор&lt;/f0&gt;: эта палитра содержит одну панель, которая по сути такая же, как и окно Навигатор, которое открывается нажатием кнопки &lt;f1&gt;Навигатор&lt;/f1&gt; на стандартной панели инструментов или выбором в меню &lt;f2&gt;Вид &gt; Навигатор&lt;/f2&gt; (клавиша &lt;f3&gt;F5&lt;/f3&gt;).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T172809Z" creationid="olex" creationdate="20180330T173834Z">
+        <seg>&lt;f0&gt;Навигатор&lt;/f0&gt;: эта вкладка содержит одну панель, которая по сути такая же, как и окно Навигатор, которое открывается нажатием кнопки &lt;f1&gt;Навигатор&lt;/f1&gt; на стандартной панели инструментов или выбором в меню &lt;f2&gt;Вид &gt; Навигатор&lt;/f2&gt; (клавиша &lt;f3&gt;F5&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -731,8 +731,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Properties&lt;/f0&gt;: This deck includes five content panels.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180329T194354Z" creationid="olex" creationdate="20180329T194354Z">
-        <seg>&lt;f0&gt;Свойства&lt;/f0&gt;: Эта палитра включает в себя пять панелей.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T172745Z" creationid="olex" creationdate="20180329T194354Z">
+        <seg>&lt;f0&gt;Свойства&lt;/f0&gt;: Эта вкладка включает в себя пять панелей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -835,8 +835,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Styles:&lt;/f0&gt; This deck contains a single panel, which is the same as that opened by selecting the &lt;f1&gt;Styles&lt;/f1&gt; button (&lt;f2&gt;F11&lt;/f2&gt;) from the Text Formatting toolbar.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T173910Z" creationid="olex" creationdate="20180330T170947Z">
-        <seg>&lt;f0&gt;Стили:&lt;/f0&gt; Эта палитра содержит одну панель, это та же панель, что и открытая, по нажатию кнопки &lt;f1&gt;Стили&lt;/f1&gt; (клавиша &lt;f2&gt;F11&lt;/f2&gt;) на панели инструментов Форматирование.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T172753Z" creationid="olex" creationdate="20180330T170947Z">
+        <seg>&lt;f0&gt;Стили:&lt;/f0&gt; Эта вкладка содержит одну панель, это та же панель, что и открытая, по нажатию кнопки &lt;f1&gt;Стили&lt;/f1&gt; (клавиша &lt;f2&gt;F11&lt;/f2&gt;) на панели инструментов Форматирование.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4549,8 +4549,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Each deck has a corresponding icon on the &lt;i3/&gt;Tab panel to the right of the sidebar, allowing you to switch between them.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180329T194149Z" creationid="olex" creationdate="20180329T194149Z">
-        <seg>Каждая палитра имеет соответствующий значок на панели вкладок &lt;i3/&gt;справа от боковой панели, что позволяет вам переключаться между ними.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T172737Z" creationid="olex" creationdate="20180329T194149Z">
+        <seg>Каждая вкладка имеет соответствующий значок на панели вкладок &lt;i3/&gt;справа от боковой панели, что позволяет вам переключаться между ними.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13256,8 +13256,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The &lt;f0&gt;Properties&lt;/f0&gt; deck of the Sidebar has five panels, &lt;f1&gt;Styles&lt;/f1&gt;, &lt;f2&gt;Character&lt;/f2&gt;, &lt;f3&gt;Number Format&lt;/f3&gt;, &lt;f4&gt;Alignment&lt;/f4&gt; and &lt;f5&gt;Cell Appearance&lt;/f5&gt;, which between them contain all the formatting controls from the Formatting toolbar and more.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180424T193945Z" creationid="olex" creationdate="20180424T193945Z">
-        <seg>Палитра &lt;f0&gt;Свойства&lt;/f0&gt; боковой панели имеет пять панелей, &lt;f1&gt;Стиль&lt;/f1&gt;, &lt;f2&gt;Символы&lt;/f2&gt;, &lt;f3&gt;Формат чисел&lt;/f3&gt;, &lt;f4&gt;Выравнивание&lt;/f4&gt; и &lt;f5&gt;Внешний вид ячеек&lt;/f5&gt;, в которых содержатся все элементы управления форматированием панели инструментов Форматирование и многое другое.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T172837Z" creationid="olex" creationdate="20180424T193945Z">
+        <seg>Вкладка &lt;f0&gt;Свойства&lt;/f0&gt; боковой панели имеет пять панелей, &lt;f1&gt;Стиль&lt;/f1&gt;, &lt;f2&gt;Символы&lt;/f2&gt;, &lt;f3&gt;Формат чисел&lt;/f3&gt;, &lt;f4&gt;Выравнивание&lt;/f4&gt; и &lt;f5&gt;Внешний вид ячеек&lt;/f5&gt;, в которых содержатся все элементы управления форматированием панели инструментов Форматирование и многое другое.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17743,6 +17743,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T183542Z" creationid="olex" creationdate="20180416T181619Z">
         <seg>Вы также можете использовать проверку &lt;i0/&gt; в своей работе, в качестве подсказки при вводе данных, которые сложны либо редко используются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also use the &lt;f3&gt;Background&lt;/f3&gt; tab of the Format Cells dialog (Figure &lt;t4&gt;19&lt;/t4&gt;&lt;s5/&gt;on page &lt;t6&gt;29&lt;/t6&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T173051Z" creationid="olex" creationdate="20180430T173051Z">
+        <seg>Вы также можете использовать вкладку &lt;f3&gt;Фон&lt;/f3&gt; диалогового окна Формат ячеек (Рисунок &lt;t4&gt;19&lt;/t4&gt;&lt;s5/&gt; на странице &lt;t6&gt;29&lt;/t6&gt;).</seg>
       </tuv>
     </tu>
     <tu>
