@@ -2743,6 +2743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calc comes with a predefined set of formatting themes (set of styles) that you can apply to your spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T182338Z" creationid="olex" creationdate="20180430T182338Z">
+        <seg>Calc поставляется с предопределенным набором тем форматирования (набором стилей), который вы можете применить к своей электронной таблице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calc is the spreadsheet component of LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T181249Z" creationid="olex" creationdate="20180327T181020Z">
@@ -6752,8 +6760,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Format &gt; AutoFormat&lt;/f0&gt; to open the AutoFormat dialog and the &lt;f1&gt;Add&lt;/f1&gt; button is now active.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180430T181548Z" creationid="olex" creationdate="20180430T181525Z">
-        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Стили автоформата...&lt;/ f0&gt;, чтобы открыть диалоговое окно Автоформат: кнопка &lt;f1&gt;Добавить&lt;/f1&gt; теперь активна.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T182215Z" creationid="olex" creationdate="20180430T181525Z">
+        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Стили автоформата...&lt;/f0&gt;, чтобы открыть диалоговое окно Автоформат: кнопка &lt;f1&gt;Добавить&lt;/f1&gt; теперь активна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14449,6 +14457,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The modified styles become available for use in the whole spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T182505Z" creationid="olex" creationdate="20180430T182505Z">
+        <seg>Модифицированные стили становятся доступными для использования во всей электронной таблице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The most basic ability is to drop and drag the contents of one cell to another with a mouse.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T135221Z" creationid="olex" creationdate="20180414T134947Z">
@@ -15507,6 +15523,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180320T184348Z" creationid="olex" creationdate="20180308T160417Z">
         <seg>Чтобы применить стиль абзаца, страницы или врезки, наведите указатель мыши на абзац, страницу или врезку и нажмите левую кнопку мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To apply a theme to a spreadsheet:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T182518Z" creationid="olex" creationdate="20180430T182518Z">
+        <seg>Чтобы применить тему к электронной таблице:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17534,6 +17558,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135003Z" creationid="tagezi" creationdate="20180320T135003Z">
         <seg>Где хранить макрос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While It is not possible to add new themes in Calc, you can modify the theme styles once the theme is applied to the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T182437Z" creationid="olex" creationdate="20180430T182437Z">
+        <seg>Пока невозможно добавлять новые темы в Calc, но вы можете изменить стиль темы, как только тема будет применена в электронной таблице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19650,6 +19682,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153511Z" creationid="tagezi" creationdate="20180304T153511Z">
         <seg>текстовых документов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>themes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T182115Z" creationid="olex" creationdate="20180430T182115Z">
+        <seg>темы</seg>
       </tuv>
     </tu>
     <tu>
