@@ -6710,6 +6710,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Format &gt; AutoFormat Styles &lt;/f0&gt;on the Menu bar to open the &lt;f1&gt;AutoFormat&lt;/f1&gt; dialog (Figure &lt;t2&gt;32&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T180641Z" creationid="olex" creationdate="20180430T180641Z">
+        <seg>Выберите в меню&lt;f0&gt;Формат &gt; Стили автоформата...&lt;/f0&gt;, чтобы открыть диалоговое окно &lt;f1&gt;Автоформат&lt;/f1&gt; (Рисунок &lt;t2&gt;32&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Sheet &gt; Fill Cells&lt;/f0&gt; on the Menu bar and select the direction in which you want to copy or create data (&lt;f1&gt;Up&lt;/f1&gt;, &lt;f2&gt;Down&lt;/f2&gt;, &lt;f3&gt;Left&lt;/f3&gt; or &lt;f4&gt;Right&lt;/f4&gt;) or &lt;f5&gt;Series&lt;/f5&gt; and &lt;f6&gt;Random Number...&lt;/f6&gt; from the submenu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T141118Z" creationid="olex" creationdate="20180414T141118Z">
@@ -12347,6 +12355,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the formatting properties to be included in the AutoFormat function.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T180833Z" creationid="olex" creationdate="20180430T180833Z">
+        <seg>Выберите типы форматирования, которые будут включены в функцию Автоформат внизу окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the formula element you want to change, using one of the following methods:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180322T135427Z" creationid="Роман" creationdate="20180320T205301Z">
@@ -12479,6 +12495,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T183801Z" creationid="olex" creationdate="20180315T183801Z">
         <seg>Выберите шаблон, который необходимо удалить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the type of format and format color from the list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T180734Z" creationid="olex" creationdate="20180430T180734Z">
+        <seg>Выберите тип формата из списка.</seg>
       </tuv>
     </tu>
     <tu>
