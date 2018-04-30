@@ -6310,6 +6310,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Format the data type, font, font size, cell borders, cell background, and so on for a range of cells.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T181315Z" creationid="olex" creationdate="20180430T181315Z">
+        <seg>Настройте для диапазона ячеек: тип данных, шрифт, размер шрифта, границы ячеек, фон ячейки и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Formatting a document can be manual or automated.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T182627Z" creationid="olex" creationdate="20180306T182627Z">
@@ -6722,6 +6730,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T180641Z" creationid="olex" creationdate="20180430T180641Z">
         <seg>Выберите в меню&lt;f0&gt;Формат &gt; Стили автоформата...&lt;/f0&gt;, чтобы открыть диалоговое окно &lt;f1&gt;Автоформат&lt;/f1&gt; (Рисунок &lt;t2&gt;32&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Format &gt; AutoFormat&lt;/f0&gt; to open the AutoFormat dialog and the &lt;f1&gt;Add&lt;/f1&gt; button is now active.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T181525Z" creationid="olex" creationdate="20180430T181525Z">
+        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Стили автоформата...&lt;/ f0&gt;, чтобы открыть диалоговое окно Автоформат, и кнопку &lt;f1&gt;Добавить&lt;/f1&gt;, которая теперь активна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12439,6 +12455,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T191825Z" creationid="olex" creationdate="20180402T191825Z">
         <seg>Выберите диапазон ячеек или группу фигур в электронной таблице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the range.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T181330Z" creationid="olex" creationdate="20180430T181330Z">
+        <seg>Выберите диапазон.</seg>
       </tuv>
     </tu>
     <tu>
