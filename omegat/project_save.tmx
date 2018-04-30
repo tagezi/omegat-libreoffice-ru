@@ -3031,6 +3031,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Add&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T181609Z" creationid="olex" creationdate="20180430T181609Z">
+        <seg>Нажмите &lt;f0&gt;Добавить&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Close&lt;/f0&gt; when you have finished entering Greek characters into the formula.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204714Z" creationid="Роман" creationdate="20180316T204714Z">
@@ -3139,6 +3147,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203400Z" creationid="olex" creationdate="20180309T203400Z">
         <seg>Нажмите &lt;f0&gt;OK&lt;/f0&gt;, чтобы сохранить новый стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T181748Z" creationid="olex" creationdate="20180430T181748Z">
+        <seg>Нажмите &lt;f0&gt;ОК&lt;/f0&gt;, чтобы сохранить изменения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6736,8 +6752,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Format &gt; AutoFormat&lt;/f0&gt; to open the AutoFormat dialog and the &lt;f1&gt;Add&lt;/f1&gt; button is now active.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180430T181525Z" creationid="olex" creationdate="20180430T181525Z">
-        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Стили автоформата...&lt;/ f0&gt;, чтобы открыть диалоговое окно Автоформат, и кнопку &lt;f1&gt;Добавить&lt;/f1&gt;, которая теперь активна.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T181548Z" creationid="olex" creationdate="20180430T181525Z">
+        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Стили автоформата...&lt;/ f0&gt;, чтобы открыть диалоговое окно Автоформат: кнопка &lt;f1&gt;Добавить&lt;/f1&gt; теперь активна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8234,6 +8250,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T124956Z" creationid="tagezi" creationdate="20180312T124956Z">
         <seg>В списке &lt;f0&gt;Модуль&lt;/f0&gt;, раскройте &lt;f1&gt;Мои макросы&lt;/f1&gt; и выберите, например, TestLibrary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the &lt;f0&gt;Name&lt;/f0&gt; box of the Add AutoFormat dialog that opens, type a meaningful name for the new format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T181720Z" creationid="olex" creationdate="20180430T181720Z">
+        <seg>В поле &lt;f0&gt;Имя&lt;/f0&gt; в диалоговом окне Добавить автоформат, которое откроется, введите имя для нового формата.</seg>
       </tuv>
     </tu>
     <tu>
