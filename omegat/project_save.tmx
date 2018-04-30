@@ -5342,6 +5342,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: AutoFormat dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T181056Z" creationid="olex" creationdate="20180430T181056Z">
+        <seg>Рисунок &lt;seq0&gt;32&lt;/seq0&gt;: Диалоговое окно Автоформат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Calc status bar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T191217Z" creationid="olex" creationdate="20180329T191217Z">
@@ -17274,6 +17282,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When selecting or unselecting a formatting property, the AutoFormat dialog displays the change instantly.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T181033Z" creationid="olex" creationdate="20180430T181033Z">
+        <seg>При выделении или снятии выделения свойства форматирования изменения в диалоговом окне Автоформат отображаются незамедлительно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When sharing a document that you do not expect the recipient to modify, the preferred option is to convert the document to PDF.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T234242Z" creationid="tagezi" creationdate="20180304T234242Z">
@@ -17977,6 +17993,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T201254Z" creationid="olex" creationdate="20180404T201254Z">
         <seg>Вы можете настроить направление, в котором клавиша &lt;f0&gt;Enter&lt;/f0&gt; перемещает фокус ячейки, в меню &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Calc &gt; Общие&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can define a new AutoFormat so that it becomes available for use in all spreadsheets.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T181217Z" creationid="olex" creationdate="20180430T181217Z">
+        <seg>Вы можете определить новый стиль Автоформата, чтобы он стал доступен для использования во всех электронных таблицах.</seg>
       </tuv>
     </tu>
     <tu>
