@@ -7246,6 +7246,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, other users can import the new AutoFormat selecting the table range in the spreadsheet document and defining it as new AutoFormat.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T182110Z" creationid="olex" creationdate="20180430T182110Z">
+        <seg>Тем не менее, другие пользователи могут импортировать новый стиль автоформата, выбрав диапазон ячеек в документе электронной таблицы и определив его как новый стиль автоформата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, recorded macros in LibreOffice always create subroutines, not functions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T123508Z" creationid="tagezi" creationdate="20180315T123508Z">
@@ -14477,6 +14485,22 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T221628Z" creationid="olex" creationdate="20180407T221628Z">
         <seg>Указатель мыши может измениться, включив знак плюс, в зависимости от настройки вашей операционной системы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The new AutoFormat is now available in the &lt;f1&gt;Format&lt;/f1&gt; list in the AutoFormat dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T181908Z" creationid="olex" creationdate="20180430T181908Z">
+        <seg>Новый стиль автоформата теперь будет доступен в списке &lt;f1&gt;Формат&lt;/f1&gt; в диалоговом окне Автоформат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The new AutoFormat is stored in your computer user profile and is not available to other users.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T181951Z" creationid="olex" creationdate="20180430T181951Z">
+        <seg>Новый стиль автоформата хранится в профиле пользователя вашего компьютера и недоступен для других пользователей.</seg>
       </tuv>
     </tu>
     <tu>
