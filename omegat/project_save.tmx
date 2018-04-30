@@ -2293,6 +2293,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applying a new theme over an existing one will override all existing theme styles customization with the new theme styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T184135Z" creationid="olex" creationdate="20180430T184135Z">
+        <seg>Применение новой темы поверх существующей будет переопределять все существующие стили темы с настройками внесенными вручную.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applying styles</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T193539Z" creationid="olex" creationdate="20180306T193539Z">
@@ -7843,6 +7851,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T131043Z" creationid="tagezi" creationdate="20180312T131043Z">
         <seg>Если вы хотите создать другой модуль в библиотеке, нажмите кнопку  &lt;f2&gt;Создать&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you wish, you can now open the Styles window to modify specific styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T183908Z" creationid="olex" creationdate="20180430T183908Z">
+        <seg>Если вы хотите, вы можете открыть окно Стили, чтобы изменить определенные стили.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15029,6 +15045,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T202301Z" creationid="olex" creationdate="20180311T202301Z">
         <seg>Они устанавливаются несколько иначе, как - описано ниже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These changes do not modify the theme; they only change the appearance of the style in the specific spreadsheet you are creating.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180430T183945Z" creationid="olex" creationdate="20180430T183945Z">
+        <seg>Эти изменения не изменяют тему; они только изменяют стиль внешнего вида в конкретной электронной таблице, которую вы создаете.</seg>
       </tuv>
     </tu>
     <tu>
