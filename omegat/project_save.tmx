@@ -6023,6 +6023,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, in a table of numbers, you can show all the values above the average in green and all those below the average in red.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T180138Z" creationid="olex" creationdate="20180502T180138Z">
+        <seg>Например, в числовом формате вы можете выводить все значения выше среднего зеленым, а все значения ниже среднего красным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, inserting an object generates the following code:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T175911Z" creationid="tagezi" creationdate="20180319T175911Z">
