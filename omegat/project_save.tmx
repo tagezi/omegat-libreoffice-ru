@@ -1202,6 +1202,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;Multiple formatting options can be entered and arranged using assigned &lt;f1&gt;priority rules &lt;/f1&gt;to order the importance of the conditions; allowing certain formatting options to take place before others, for example.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T180553Z" creationid="olex" creationdate="20180502T180553Z">
+        <seg>&lt;s0/&gt;Можно ввести несколько параметров внешнего вида и организовать их с использованием назначенных правил &lt;f1&gt;приоритета&lt;/f1&gt;, чтобы упорядочить важность условий; расставляя одни опции форматирования перед другими.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s1/&gt;When editing text, double-click the cell, then reposition the cursor to where you want the line break.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T201018Z" creationid="olex" creationdate="20180418T201018Z">
