@@ -2019,6 +2019,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, right-click on the sheet tabs, row headers or column headers and select &lt;f0&gt;Show&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T190411Z" creationid="olex" creationdate="20180502T190411Z">
+        <seg>По другому, нажмите правой кнопкой мыши на вкладке листа, заголовках строк или столбцов и выберите в контекстном меню &lt;f0&gt;Показать листы... (строки или столбцы)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, select the cell and click in the Input Line on the Formula Bar (Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;9&lt;/t2&gt;), then double-click on the data to highlight it completely and type the new data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T193643Z" creationid="olex" creationdate="20180418T193552Z">
@@ -6864,16 +6872,16 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Format&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Row&lt;/f1&gt; or &lt;f2&gt;Column&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180502T184334Z" creationid="olex" creationdate="20180502T184118Z">
-        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Строки &gt;&lt;/f0&gt; или &lt;f1&gt;Формат &gt; Столбцы &gt;&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T185533Z" creationid="olex" creationdate="20180502T184118Z">
+        <seg>Пройдите в меню &lt;f0&gt;Формат &gt; Строки &gt;&lt;/f0&gt; или &lt;f1&gt;Формат &gt; Столбцы &gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Format&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Sheet&lt;/f1&gt;, &lt;f2&gt;Row&lt;/f2&gt; or &lt;f3&gt;Column&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180502T185522Z" creationid="olex" creationdate="20180502T185522Z">
-        <seg>Выберите в меню &lt;f0&gt;Формат&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Sheet&lt;/f1&gt;, &lt;f2&gt;Row&lt;/f2&gt; or &lt;f3&gt;Column&lt;/f3&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T185631Z" creationid="olex" creationdate="20180502T185522Z">
+        <seg>Пройдите в меню &lt;f0&gt;Формат &gt; Строки&lt;/f0&gt; или &lt;f1&gt;Формат &gt; Столбцы&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12262,6 +12270,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130701Z" creationid="tagezi" creationdate="20180320T130701Z">
         <seg>Выберите &lt;f0&gt;Заменить существующие библиотеки&lt;/f0&gt;, если библиотека, которую вы хотите импортировать, имеет то же имя и вы хотите заменить существующую библиотеку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Show&lt;/f0&gt; from the menu and the sheet, row or column will be displayed and can be printed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T185932Z" creationid="olex" creationdate="20180502T185932Z">
+        <seg>Выберите в подменю &lt;f0&gt;Показать&lt;/f0&gt; и строки или столбцы будут отображаться на экране и при печати.</seg>
       </tuv>
     </tu>
     <tu>
