@@ -1210,6 +1210,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;This can be handy when multiple people have access to the spreadsheet itself, but for various reasons only a few can be allowed to modify the data it contains.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T192726Z" creationid="olex" creationdate="20180502T192726Z">
+        <seg>&lt;s0/&gt;Это может быть удобно, когда несколько человек имеют доступ к электронной таблице, но по разным причинам только некоторым может быть разрешено изменять содержащиеся в ней данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s1/&gt;When editing text, double-click the cell, then reposition the cursor to where you want the line break.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T201018Z" creationid="olex" creationdate="20180418T201018Z">
@@ -2650,6 +2658,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T201810Z" creationid="olex" creationdate="20180306T201810Z">
         <seg>Напротив, при использовании стилей, вам нужно сделать только одно изменение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, &lt;f0&gt;all &lt;/f0&gt;cells will be flagged as &lt;f1&gt;Protected &lt;/f1&gt;(Figure &lt;t2&gt;35&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T193053Z" creationid="olex" creationdate="20180502T193053Z">
+        <seg>По умолчанию, &lt;f0&gt;все&lt;/f0&gt; ячейки помечены флажком &lt;f1&gt;Защищено&lt;/f1&gt; (Рисунок &lt;t2&gt;35&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
