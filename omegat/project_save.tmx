@@ -16899,6 +16899,14 @@ denkin: исправил все</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using &lt;i0/&gt;conditional formatting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T175614Z" creationid="olex" creationdate="20180502T175614Z">
+        <seg>Использование &lt;i0/&gt;условного форматирования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using &lt;i0/&gt;selection lists</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T093235Z" creationid="olex" creationdate="20180415T093235Z">
@@ -18406,6 +18414,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can set up cell formats to change depending on conditions that you specify.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T175832Z" creationid="olex" creationdate="20180502T175832Z">
+        <seg>Вы можете сделать оформление ячеек изменяемым, в зависимости от условий, которые вы указали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can set up one paragraph style so that when you press &lt;f0&gt;Enter&lt;/f0&gt; at the end of that paragraph, the following paragraph automatically has the style you wish applied to it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T203319Z" creationid="olex" creationdate="20180316T203319Z">
@@ -18842,6 +18858,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T184218Z" creationid="olex" creationdate="20180330T184218Z">
         <seg>значения, разделенные запятыми (comma separated values - CSV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>conditional</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T175559Z" creationid="olex" creationdate="20180502T175559Z">
+        <seg>условное</seg>
       </tuv>
     </tu>
     <tu>
