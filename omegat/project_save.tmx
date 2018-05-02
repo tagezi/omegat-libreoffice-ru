@@ -4930,6 +4930,14 @@ DONE</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the password to unprotect the sheet and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T194607Z" creationid="olex" creationdate="20180502T194421Z">
+        <seg>Введите пароль для снятия защиты с листа и нажмите &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: счел возможным перевести как упрощение ввода сложную конструкцию автора</note>
       <tuv lang="EN-US">
         <seg>Entering data into a spreadsheet can be very labor-intensive, but Calc provides several tools for removing some of the drudgery from input.</seg>
@@ -16620,8 +16628,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>To toggle the hidden status of protected cells:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180502T194013Z" creationid="olex" creationdate="20180502T194013Z">
-        <seg>Чтобы переключить состояние отображения защищенных ячеек:</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T194442Z" creationid="olex" creationdate="20180502T194013Z">
+        <seg>Чтобы выключить состояние скрытия защищенных ячеек:</seg>
       </tuv>
     </tu>
     <tu>
