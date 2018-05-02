@@ -1922,6 +1922,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All or some of the cells in a spreadsheet can be password protected to prevent changes being made by unauthorized users.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T192617Z" creationid="olex" creationdate="20180502T192617Z">
+        <seg>Все данные или некоторые из ячеек в электронной таблице могут быть защищены паролем, чтобы предотвратить внесение изменений неправомочными пользователями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All sheets</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183030Z" creationid="olex" creationdate="20180326T183030Z">
@@ -7610,6 +7618,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T133341Z" creationid="tagezi" creationdate="20180312T133341Z">
         <seg>Если курсор не находится в подпрограмме или функции, откроется диалоговое окно; выберите макрос для запуска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the first column (A) or first row (1) is hidden, you must select the whole sheet to access the show command for this row or column.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T192426Z" creationid="olex" creationdate="20180502T192426Z">
+        <seg>Если скрыт первый столбец (A) или первая строка (1), то вы должны выбрать весь лист для доступа к команде Показать строки или столбцы.</seg>
       </tuv>
     </tu>
     <tu>
