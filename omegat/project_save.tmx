@@ -3715,8 +3715,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Conditional formatting depends upon the use of styles and the AutoCalculate feature must be enabled.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180502T181702Z" creationid="olex" creationdate="20180502T181702Z">
-        <seg>Условное форматирование зависит от использования стилей, и должна быть включена функция &lt;f1&gt;Данные &gt; Содержимое ячейки &gt; Вычислять автоматически&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T182018Z" creationid="olex" creationdate="20180502T181702Z">
+        <seg>Условное форматирование зависит от использования стилей и должна быть включена функция Вычислять автоматически.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6890,6 +6890,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T210731Z" creationid="olex" creationdate="20180407T210731Z">
         <seg>Выберите в меню &lt;f0&gt;Лист &gt; Вставить Столбцы &gt; Столбцы слева&lt;/f0&gt; или &lt;f1&gt;Столбцы справа&lt;/f1&gt; либо &lt;f2&gt;Лист &gt; Вставить Строки &gt; Строки выше&lt;/f2&gt; или &lt;f3&gt;Строки ниже&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Cell Contents &gt; AutoCalculate&lt;/f0&gt; on the Menu bar to enable this feature.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T182005Z" creationid="olex" creationdate="20180502T182005Z">
+        <seg>Пройдите в меню &lt;f0&gt;Данные &gt; Содержимое ячейки &gt; Вычислять автоматически&lt;/f0&gt;, чтобы включить эту функцию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12014,6 +12022,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T183009Z" creationid="olex" creationdate="20180416T183009Z">
         <seg>Подробнее о проверке содержимого ячеек смотрите в главе &lt;f1&gt;Руководство по Calc Глава 2 Ввод, редактирование и форматирование данных&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the &lt;f1&gt;Calc Guide Chapter 2 Entering, Editing, and Formatting Data&lt;/f1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T182121Z" creationid="olex" creationdate="20180502T182121Z">
+        <seg>Дополнительную информацию смотрите в &lt;f1&gt;Руководство по Calc Глава 2 Ввод, редактирование и форматирование данных&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
