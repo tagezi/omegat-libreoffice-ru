@@ -2662,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bring up the Format Cells dialog by right-clicking and selecting &lt;f0&gt;Format Cells&lt;/f0&gt; or by selecting &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; from the &lt;f2&gt;Main Menu&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T193637Z" creationid="olex" creationdate="20180502T193637Z">
+        <seg>Запустите диалоговое окно Формат ячеек, нажатием правой кнопкой мыши и выбрав &lt;f0&gt;Формат ячеек&lt;/f0&gt; или выбрав в меню &lt;f1&gt;Формат &gt; Ячейки...&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By contrast, when you use styles, you only need to make a single change.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T201810Z" creationid="olex" creationdate="20180306T201810Z">
@@ -6714,6 +6722,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T180453Z" creationid="olex" creationdate="20180329T180453Z">
         <seg>Панель формул состоит из следующих элементов (слева направо):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the Cell Protection tab of the Format Cells dialog, the Protected status of individual or groups of cells can be toggled on or off.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T193744Z" creationid="olex" creationdate="20180502T193744Z">
+        <seg>На вкладке Защита ячеек диалогового окна Формат ячеек можно включить или отключить статус Защищено для выбранных ячеек.</seg>
       </tuv>
     </tu>
     <tu>
