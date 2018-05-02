@@ -6854,6 +6854,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Format&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Row&lt;/f1&gt; or &lt;f2&gt;Column&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T184118Z" creationid="olex" creationdate="20180502T184118Z">
+        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Строки &gt; Скрыть&lt;/f0&gt; или &lt;f1&gt;Формат &gt; Столбцы &gt; Скрыть&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Sheet &gt; Fill Cells&lt;/f0&gt; on the Menu bar and select the direction in which you want to copy or create data (&lt;f1&gt;Up&lt;/f1&gt;, &lt;f2&gt;Down&lt;/f2&gt;, &lt;f3&gt;Left&lt;/f3&gt; or &lt;f4&gt;Right&lt;/f4&gt;) or &lt;f5&gt;Series&lt;/f5&gt; and &lt;f6&gt;Random Number...&lt;/f6&gt; from the submenu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T141118Z" creationid="olex" creationdate="20180414T141118Z">
@@ -12651,6 +12659,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the row or column you want to hide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T183853Z" creationid="olex" creationdate="20180502T183853Z">
+        <seg>Выберите строки или столбцы, которые вы хотите скрыть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the second placeholder &lt;f0&gt;&lt;?&gt;&lt;/f0&gt; after the word &lt;f1&gt;simeq&lt;/f1&gt; in the Formula Editor and replace it with the characters &lt;f2&gt;3.14159&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T145222Z" creationid="Роман" creationdate="20180320T145222Z">
@@ -16056,6 +16072,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To hide &lt;f0&gt;rows&lt;/f0&gt; or &lt;f1&gt;columns&lt;/f1&gt;:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T183811Z" creationid="olex" creationdate="20180502T183811Z">
+        <seg>Чтобы скрыть &lt;f0&gt;строки&lt;/f0&gt; или &lt;f1&gt;столбцы&lt;/f1&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To hide &lt;f0&gt;sheets&lt;/f0&gt;, select them, then go to &lt;f1&gt;Sheet &gt; Hide Sheets&lt;/f1&gt; on the Menu bar, or right-click and choose &lt;f2&gt;Hide Sheets&lt;/f2&gt; on the context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T183659Z" creationid="olex" creationdate="20180502T183659Z">
@@ -18618,6 +18642,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T183159Z" creationid="olex" creationdate="20180315T183159Z">
         <seg>Вы не можете удалять шаблоны, предустановленные вместе с LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot hide all the sheets in a spreadsheet; at least one sheet must remain visible.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T183744Z" creationid="olex" creationdate="20180502T183744Z">
+        <seg>Вы не можете скрыть все листы в электронной таблице; по крайней мере один лист должен оставаться видимым.</seg>
       </tuv>
     </tu>
     <tu>
