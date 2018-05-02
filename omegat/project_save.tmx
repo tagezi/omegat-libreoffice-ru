@@ -2727,14 +2727,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Calc</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180307T193536Z" creationid="olex" creationdate="20180307T193536Z">
-        <seg>Таблица Calc</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Calc (spreadsheets)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T081531Z" creationid="tagezi" creationdate="20180306T081531Z">
@@ -7318,6 +7310,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, hidden elements can still be selected for copying if you select the elements around them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T182439Z" creationid="olex" creationdate="20180502T182439Z">
+        <seg>При этом скрытые элементы будут доступны для копирования, если выбрать элементы вокруг них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, if something else is copied to the clipboard, the contents on the clipboard are changed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T183034Z" creationid="tagezi" creationdate="20180312T183034Z">
@@ -8051,6 +8051,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T191404Z" creationid="olex" creationdate="20180402T191404Z">
         <seg>В секции &lt;f1&gt;Формат файла по умолчанию&lt;/f1&gt; и &lt;f2&gt;настройки ODF &gt; Тип документа&lt;/f2&gt; выберите &lt;f3&gt;Электронная таблица&lt;/f3&gt;, а затем в &lt;f4&gt;Всегда сохранять как&lt;/f4&gt;, выберите предпочтительный для вас формат файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Calc you can hide elements so that they are neither visible on a computer display nor printed when a spreadsheet is printed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T182311Z" creationid="olex" creationdate="20180502T182311Z">
+        <seg>В Calc вы можете скрыть элементы электронной таблицы, чтобы они не были видны на дисплее компьютера и не выводились на печать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19274,6 +19282,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T195552Z" creationid="olex" creationdate="20180316T195552Z">
         <seg>верхние колонтитулы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hiding and showing data</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T182152Z" creationid="olex" creationdate="20180502T182152Z">
+        <seg>скрытие и отображение данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hiding and showing data, Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T182142Z" creationid="olex" creationdate="20180502T182142Z">
+        <seg>скрытие и отображение данных, Calc</seg>
       </tuv>
     </tu>
     <tu>
