@@ -5416,8 +5416,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Cell styles of theme "Pastel"</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180430T184706Z" creationid="olex" creationdate="20180430T184624Z">
-        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Cell styles of theme "Pastel"</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T175425Z" creationid="olex" creationdate="20180430T184624Z">
+        <seg>Рисунок &lt;seq0&gt;34&lt;/seq0&gt;: Стили ячеек в теме "Pastel"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18842,6 +18842,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T184218Z" creationid="olex" creationdate="20180330T184218Z">
         <seg>значения, разделенные запятыми (comma separated values - CSV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>conditional formatting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T175551Z" creationid="olex" creationdate="20180502T175551Z">
+        <seg>условное форматирование</seg>
       </tuv>
     </tu>
     <tu>
