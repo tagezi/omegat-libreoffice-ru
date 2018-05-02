@@ -6728,8 +6728,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>From the Cell Protection tab of the Format Cells dialog, the Protected status of individual or groups of cells can be toggled on or off.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180502T193744Z" creationid="olex" creationdate="20180502T193744Z">
-        <seg>На вкладке Защита ячеек диалогового окна Формат ячеек можно включить или отключить статус Защищено для выбранных ячеек.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T193811Z" creationid="olex" creationdate="20180502T193744Z">
+        <seg>На вкладке Защита ячейки диалогового окна Формат ячеек можно включить или отключить статус Защищено для выбранных ячеек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8466,6 +8466,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T185745Z" creationid="tagezi" creationdate="20180320T185745Z">
         <seg>Другими словами, вы можете создать макрос, который непосредственно манипулирует документом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the &lt;f0&gt;Cell Protection&lt;/f0&gt; tab of the &lt;f1&gt;Format Cells dialog&lt;/f1&gt; is also the option to Hide all data contained in protected cells.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T193929Z" creationid="olex" creationdate="20180502T193929Z">
+        <seg>На вкладке &lt;f0&gt;Защита ячейки&lt;/f0&gt; диалогового окна &lt;f1&gt;Формат ячеек&lt;/f1&gt; также можно скрыть все данные, содержащиеся в защищенных ячейках.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16598,6 +16606,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180318T122253Z" creationid="Роман" creationdate="20180318T122253Z">
         <seg>Для ручного обновления формулы нажмите клавишу &lt;f2&gt;F9&lt;/f2&gt; или выберите пункт меню &lt;f3&gt;Вид &gt; Обновить&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To toggle the hidden status of protected cells:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T194013Z" creationid="olex" creationdate="20180502T194013Z">
+        <seg>Чтобы переключить состояние отображения защищенных ячеек:</seg>
       </tuv>
     </tu>
     <tu>
