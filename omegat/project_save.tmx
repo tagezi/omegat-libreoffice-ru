@@ -2622,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before protecting the sheet, you may wish to select certain cells that will be unprotected that can be changed by any users without the password.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T193327Z" creationid="olex" creationdate="20180502T193327Z">
+        <seg>Прежде чем установить защиту на лист, вы можете снять защиту с определенных ячеек, которые могут быть изменены любым пользователем без пароля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before you can use a template in LibreOffice, it must be in one of the folders listed for the Template path in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f0&gt;:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T184812Z" creationid="olex" creationdate="20180315T184618Z">
@@ -16072,6 +16080,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To do this:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T193338Z" creationid="olex" creationdate="20180502T193338Z">
+        <seg>Чтобы сделать это:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To edit a template:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T191839Z" creationid="olex" creationdate="20180311T191839Z">
@@ -17193,6 +17209,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194842Z" creationid="olex" creationdate="20180306T194842Z">
         <seg>Использование шаблона для создания документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using any of the methods previously discussed, select the cells that you wish to unprotect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T193417Z" creationid="olex" creationdate="20180502T193417Z">
+        <seg>Используя любой из ранее описанных методов, выберите ячейки, защиту с которых вы хотите снять.</seg>
       </tuv>
     </tu>
     <tu>
