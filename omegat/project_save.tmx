@@ -2011,6 +2011,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, right-click on the row header or column header and select &lt;f0&gt;Hide Rows&lt;/f0&gt; or &lt;f1&gt;Hide Columns&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T184801Z" creationid="olex" creationdate="20180502T184801Z">
+        <seg>По другому, нажмите правой кнопкой мыши заголовок строки или заголовок столбца и выберите в контекстном меню &lt;f0&gt;Скрыть строки&lt;/f0&gt; или &lt;f1&gt;Скрыть столбцы&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, select the cell and click in the Input Line on the Formula Bar (Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;9&lt;/t2&gt;), then double-click on the data to highlight it completely and type the new data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T193643Z" creationid="olex" creationdate="20180418T193552Z">
