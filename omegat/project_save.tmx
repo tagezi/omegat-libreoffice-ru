@@ -6023,6 +6023,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if column B is hidden, it is copied when you select columns A and C.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T182606Z" creationid="olex" creationdate="20180502T182606Z">
+        <seg>Например, когда столбец B скрыт, то он копируется, если выбрать столбцы от A до C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, in Writer &lt;f0&gt;Ctrl+0&lt;/f0&gt; applies the &lt;f1&gt;Text body&lt;/f1&gt; style, &lt;f2&gt;Ctrl+1&lt;/f2&gt; applies the &lt;f3&gt;Heading 1&lt;/f3&gt; style, and &lt;f4&gt;Ctrl+2&lt;/f4&gt; applies the &lt;f5&gt;Heading 2&lt;/f5&gt; style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T094320Z" creationid="olex" creationdate="20180308T172649Z">
@@ -6330,6 +6338,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T184726Z" creationid="olex" creationdate="20180327T184726Z">
         <seg>Дополнительные сведения о синтаксисе формул смотрите в &lt;f0&gt;Глава 7: Формулы и функции&lt;/f0&gt; руководства LibreOffice Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on how to hide and show data, including how to use outline groups and filtering, see the &lt;f0&gt;Calc Guide Chapter 2 Entering, Editing, and Formatting Data&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T183213Z" creationid="olex" creationdate="20180502T183213Z">
+        <seg>Дополнительные сведения о том, как скрывать и показывать данные, в том числе о том, как использовать группирование и фильтрацию, смотрите в &lt;f0&gt;Руководство по Calc Глава 2 Ввод, редактирование и форматирование данных&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7312,8 +7328,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>However, hidden elements can still be selected for copying if you select the elements around them.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180502T182439Z" creationid="olex" creationdate="20180502T182439Z">
-        <seg>При этом скрытые элементы будут доступны для копирования, если выбрать элементы вокруг них.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T182500Z" creationid="olex" creationdate="20180502T182439Z">
+        <seg>При этом скрытые данные будут доступны для копирования, если выбрать элементы вокруг них.</seg>
       </tuv>
     </tu>
     <tu>
