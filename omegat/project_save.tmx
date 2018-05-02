@@ -6856,8 +6856,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Format&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Row&lt;/f1&gt; or &lt;f2&gt;Column&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180502T184118Z" creationid="olex" creationdate="20180502T184118Z">
-        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Строки &gt; Скрыть&lt;/f0&gt; или &lt;f1&gt;Формат &gt; Столбцы &gt; Скрыть&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T184334Z" creationid="olex" creationdate="20180502T184118Z">
+        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Строки &gt;&lt;/f0&gt; или &lt;f1&gt;Формат &gt; Столбцы &gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12174,6 +12174,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204432Z" creationid="Роман" creationdate="20180316T204432Z">
         <seg>Выберите &lt;f0&gt;Греческий&lt;/f0&gt; из выпадающего списка &lt;f1&gt;Набор символов&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Hide&lt;/f0&gt; from the submenu and the row or column can no longer viewed or printed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T184513Z" creationid="olex" creationdate="20180502T184513Z">
+        <seg>Выберите &lt;f0&gt;Скрыть&lt;/f0&gt; из подменю и строка или столбец не будут видны на экране и при печати.</seg>
       </tuv>
     </tu>
     <tu>
