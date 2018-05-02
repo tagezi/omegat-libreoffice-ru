@@ -12707,6 +12707,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the sheets, rows or columns each side of the hidden sheet, row or column.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T185233Z" creationid="olex" creationdate="20180502T185233Z">
+        <seg>Выберите листы, строки или столбцы на каждой стороне скрытого листа, строки или столбца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the spreadsheet where you want the sheet to be placed from the drop-down list in &lt;f0&gt;To document&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T222640Z" creationid="olex" creationdate="20180407T222640Z">
@@ -16462,6 +16470,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T190434Z" creationid="olex" creationdate="20180405T190434Z">
         <seg>Чтобы отобразить скрытые листы, щелкните правой кнопкой мыши на любой вкладке листа и выберите Показать лист в контекстном меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To show hidden sheets, rows, and columns:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180502T184846Z" creationid="olex" creationdate="20180502T184846Z">
+        <seg>Чтобы показать скрытые листы, строки или столбцы:</seg>
       </tuv>
     </tu>
     <tu>
