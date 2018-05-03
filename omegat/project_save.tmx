@@ -5510,6 +5510,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: Protect Sheet dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180503T190948Z" creationid="olex" creationdate="20180503T190948Z">
+        <seg>Рисунок &lt;seq0&gt;36&lt;/seq0&gt;: Диалоговое окно Защитить лист</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Calc status bar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T191217Z" creationid="olex" creationdate="20180329T191217Z">
@@ -12370,6 +12378,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Protect this sheet and the contents of protected cells&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180503T191033Z" creationid="olex" creationdate="20180503T191033Z">
+        <seg>Выберите &lt;f0&gt;Защитите лист и содержимое защищенных ячеек&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Replace existing libraries&lt;/f0&gt; if the library you want to import has the same name and you want to replace the existing library.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130701Z" creationid="tagezi" creationdate="20180320T130701Z">
@@ -12510,6 +12526,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T153418Z" creationid="olex" creationdate="20180307T205008Z">
         <seg>Нажмите одну из кнопок в левом верхнем углу окна Стили, чтобы отобразить список стилей в этой категории.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select or deselect the user selection options for cells.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180503T191248Z" creationid="olex" creationdate="20180503T191248Z">
+        <seg>Установите необходимый выбор разрешений выбора для ячеек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16800,6 +16824,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T223205Z" creationid="olex" creationdate="20180407T223129Z">
         <seg>Введите имя в текстовое поле &lt;f0&gt;Новое имя&lt;/f0&gt;, если хотите переименовать лист.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type a password and then confirm the password.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180503T191103Z" creationid="olex" creationdate="20180503T191103Z">
+        <seg>Напишите пароль и затем подтвердите пароль.</seg>
       </tuv>
     </tu>
     <tu>
