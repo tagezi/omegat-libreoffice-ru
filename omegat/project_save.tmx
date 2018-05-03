@@ -3585,8 +3585,8 @@
       <tuv lang="EN-US">
         <seg>Click the &lt;f0&gt;Cell Protection&lt;/f0&gt; tab (Figure &lt;t1&gt;35&lt;/t1&gt;) and deselect the hide options for the cells.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180503T190514Z" creationid="olex" creationdate="20180503T190514Z">
-        <seg>Выберите вкладку &lt;f0&gt;Защита ячейки&lt;/f0&gt; (Рисунок &lt;t1&gt;35&lt;/t1&gt;) и отмените выбор параметра Скрыть все для ячеек.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180503T190706Z" creationid="olex" creationdate="20180503T190514Z">
+        <seg>Выберите вкладку &lt;f0&gt;Защита ячейки&lt;/f0&gt; (Рисунок &lt;t1&gt;35&lt;/t1&gt;) и отмените выбор параметров скрытия для ячеек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14086,6 +14086,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Protect Sheet dialog will open (Figure &lt;t1&gt;36&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180503T190928Z" creationid="olex" creationdate="20180503T190928Z">
+        <seg>Откроется диалоговое окно Защитить лист (Рисунок &lt;t1&gt;36&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Save As window opens.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T190237Z" creationid="olex" creationdate="20180315T190237Z">
@@ -17693,6 +17701,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T174910Z" creationid="olex" creationdate="20180328T174809Z">
         <seg>Если электронная таблица только что создана из шаблона или пустого документа, она будет называться &lt;f1&gt;Без имени X&lt;/f1&gt;, где &lt;f2&gt;X&lt;/f2&gt; - это число.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When all desired cells have been flagged with either a protected or unprotected status:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180503T190824Z" creationid="olex" creationdate="20180503T190824Z">
+        <seg>Когда все нужные ячейки отмечены как защищенные или как незащищенные:</seg>
       </tuv>
     </tu>
     <tu>
