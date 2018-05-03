@@ -2051,6 +2051,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, you can choose to protect the entire spreadsheet rather than individual cells on individual sheets by selecting &lt;f0&gt;Tools &gt; Protect Spreadsheet&lt;/f0&gt; from the &lt;f1&gt;Main Menu&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180503T191600Z" creationid="olex" creationdate="20180503T191600Z">
+        <seg>Так же, вы можете защитить всю электронную таблицу, а не отдельные ячейки на отдельных листах, выбрав в меню &lt;f0&gt;Сервис &gt; Защитить документ&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, you can enter data and then use Calc in a “What if...” manner by changing some of the data and observing the results without having to retype the entire spreadsheet or sheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T181721Z" creationid="olex" creationdate="20180327T181721Z">
@@ -2240,6 +2248,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T185439Z" creationid="olex" creationdate="20180405T185439Z">
         <seg>Действия, которые теперь вы выполняете, будут применяться ко всем выделенным листам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any cells that had been toggled as protected will no longer be editable by anyone that does not have the password.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180503T191327Z" creationid="olex" creationdate="20180503T191327Z">
+        <seg>Любые ячейки, которые были отмечены как защищенные, больше не будут доступны для редактирования тем, у кого нет пароля.</seg>
       </tuv>
     </tu>
     <tu>
