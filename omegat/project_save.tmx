@@ -5534,6 +5534,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;37&lt;/seq0&gt;: The lock in a protected sheet</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180503T191844Z" creationid="olex" creationdate="20180503T191844Z">
+        <seg>Рисунок &lt;seq0&gt;37&lt;/seq0&gt;: Значок замка на защищенном листе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Calc status bar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T191217Z" creationid="olex" creationdate="20180329T191217Z">
@@ -15005,6 +15013,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T175846Z" creationid="tagezi" creationdate="20180319T175846Z">
         <seg>Проблема в том, что не все &lt;t0/&gt;отправленные команды полные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The protected sheets has a lock icon in its tab, as indicated in Figure &lt;t2&gt;37&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180503T191813Z" creationid="olex" creationdate="20180503T191813Z">
+        <seg>У защищенных листов на вкладке появляется значок блокировки, как видно на Рисунке &lt;t2&gt;37&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
