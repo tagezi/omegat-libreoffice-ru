@@ -1188,8 +1188,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s0/&gt;A comment is not considered a part of the spreadsheet for calculation or printing purposes, and will only appear when hovering the mouse over the particular cell that has been ‘commented’.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180506T181953Z" creationid="olex" creationdate="20180506T181953Z">
-        <seg>&lt;s0/&gt;Примечание не являются частью таблицы для расчета или для печати и появляется только если навести указатель мыши на ячейку, которая была «прокомментирована».</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T184421Z" creationid="olex" creationdate="20180506T181953Z">
+        <seg>&lt;s0/&gt;Комментарии не являются частью таблицы для расчета или для печати и появляется только если навести указатель мыши на ячейку, которая была «прокомментирована».</seg>
       </tuv>
     </tu>
     <tu>
@@ -1292,8 +1292,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s4/&gt;&lt;/f3&gt;Alternatively, a comment can be inserted&lt;f5&gt; &lt;/f5&gt;by selecting &lt;f6&gt;Insert &gt; Comment &lt;/f6&gt;from the &lt;f7&gt;Main Menu, &lt;/f7&gt;by pressing the keyboard shortcut &lt;f8&gt;(Ctrl+Alt+C), &lt;/f8&gt;or by pressing the icon in the &lt;f9&gt;Standard Toolbar.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180506T183021Z" creationid="olex" creationdate="20180506T182601Z">
-        <seg>&lt;s4/&gt;&lt;/f3&gt;По другому примечание можно вставить&lt;f5&gt; &lt;/f5&gt;, выбрав в меню &lt;f6&gt;Вставка &gt; Комментарий&lt;/f6&gt;&lt;f7&gt;, &lt;/f7&gt;или нажав сочетание клавиш &lt;f8&gt;(Ctrl+Alt+C), &lt;/f8&gt;или нажав кнопку на панели инструментов &lt;f9&gt;Стандартная&lt;/f9&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T184523Z" creationid="olex" creationdate="20180506T182601Z">
+        <seg>&lt;s4/&gt;&lt;/f3&gt;По другому комментарий можно вставить&lt;f5&gt; &lt;/f5&gt;, выбрав в меню &lt;f6&gt;Вставка &gt; Комментарий&lt;/f6&gt;&lt;f7&gt;, &lt;/f7&gt;или нажав сочетание клавиш &lt;f8&gt;(Ctrl+Alt+C), &lt;/f8&gt;или нажав кнопку на панели инструментов &lt;f9&gt;Стандартная&lt;/f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2785,8 +2785,8 @@
       <tuv lang="EN-US">
         <seg>By default, comments will remain hidden and only appear when hovering the mouse.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180506T183201Z" creationid="olex" creationdate="20180506T183201Z">
-        <seg>По умолчанию примечания все скрыты и отображаются только при наведении мыши.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T184547Z" creationid="olex" creationdate="20180506T183201Z">
+        <seg>По умолчанию комментарии скрыты и отображаются только при наведении мыши.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2977,8 +2977,8 @@
       <tuv lang="EN-US">
         <seg>Cell Comments</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T175831Z" creationid="olex" creationdate="20180327T175831Z">
-        <seg>Примечания к ячейке</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T184346Z" creationid="olex" creationdate="20180327T175831Z">
+        <seg>Комментарии к ячейке</seg>
       </tuv>
     </tu>
     <tu>
@@ -3827,8 +3827,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Comments are small notes and text that can serve as a reminder or an aside to the user.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180506T181756Z" creationid="olex" creationdate="20180506T181756Z">
-        <seg>Примечания это небольшие заметки и текст, которые могут быть напоминанием или пояснением для других пользователей.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T184402Z" creationid="olex" creationdate="20180506T181756Z">
+        <seg>Комментарии это небольшие заметки и текст, которые могут быть напоминанием или пояснением для других пользователей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14672,8 +14672,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The easiest way to &lt;s0/&gt;insert a comment is by right-clicking on the desired cell and selecting &lt;f1&gt;Insert Comment &lt;/f1&gt;from the&lt;f2&gt; Context Menu &lt;/f2&gt;that appears&lt;f3&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180506T182619Z" creationid="olex" creationdate="20180506T182203Z">
-        <seg>Самый простой способ вставить &lt;s0/&gt; примечание - щелкнуть правой кнопкой мыши по нужной ячейке и выбрать &lt;f1&gt;Добавить примечание&lt;/f1&gt; из всплывающего &lt;f2&gt;Контекстного меню&lt;/f2&gt;&lt;f3&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T184446Z" creationid="olex" creationdate="20180506T182203Z">
+        <seg>Самый простой способ вставить &lt;s0/&gt;комментарий - щелкнуть правой кнопкой мыши по нужной ячейке и выбрать &lt;f1&gt;Добавить примечание&lt;/f1&gt; из всплывающего &lt;f2&gt;Контекстного меню&lt;/f2&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
