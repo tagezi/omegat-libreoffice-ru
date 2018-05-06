@@ -1234,6 +1234,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;You can also choose to complete functions from within the wizard with easy to use steps rather than having to type full formulas into the formula bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T190005Z" creationid="olex" creationdate="20180506T190005Z">
+        <seg>&lt;s0/&gt;Вы также можете выполнять функции из мастера с помощью простых шагов, а не вводить полные формулы в панель формул.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0/&gt;You can launch the function wizard by pressing the function wizard icon to the right of the &lt;f1&gt;name box.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T185557Z" creationid="olex" creationdate="20180506T185557Z">
@@ -5646,6 +5654,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;39&lt;/seq0&gt;: Function Wizard with Search Bar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T185647Z" creationid="olex" creationdate="20180506T185647Z">
+        <seg>Рисунок &lt;seq0&gt;39&lt;/seq0&gt;: Мастер функций с панелью поиска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Calc status bar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T191217Z" creationid="olex" creationdate="20180329T191217Z">
@@ -8970,6 +8986,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183633Z" creationid="olex" creationdate="20180326T183633Z">
         <seg>Вставка новых листов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inside the function wizard, you can search, list and narrow down the many Calc functions available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T185947Z" creationid="olex" creationdate="20180506T185947Z">
+        <seg>В окне мастера функций вы можете искать, перелистывать и находить многие доступные функции Calc.</seg>
       </tuv>
     </tu>
     <tu>
