@@ -1580,8 +1580,8 @@
       <tuv lang="EN-US">
         <seg>A fast alternative to the function wizard, the Calc Sidebar contains a &lt;f0&gt;functions tab&lt;/f0&gt; which allows you quickly list and narrow down functions and provides brief explanations on their use and syntax, but does not provide the search or data entry functionalities of the full wizard.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180506T190921Z" creationid="olex" creationdate="20180506T190921Z">
-        <seg>Быстрая альтернатива мастеру функций, это боковая панель Calc, которая содержит вкладку &lt;f0&gt;Функций&lt;/f0&gt;, она позволяет быстро пролистать и сужать функции и дает краткие пояснения по их использованию и синтаксису, но не обеспечивает поиск или ввод данных функциональности полного мастера.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T191109Z" creationid="olex" creationdate="20180506T190921Z">
+        <seg>Быстрая альтернатива мастеру функций, это боковая панель Calc, которая содержит вкладку &lt;f0&gt;Функций&lt;/f0&gt;, она позволяет быстро пролистать и выбрать функции и дает краткие пояснения по их использованию и синтаксису, но не обеспечивает функциональности мастера по поиску или вводу данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,6 +1678,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T141946Z" creationid="tagezi" creationdate="20180316T141946Z">
         <seg>Более сложный пример макроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A more in depth introduction to formulas and the function wizard can be found in &lt;f0&gt;Chapter 7: Formulas and Functions &lt;/f0&gt;of the LibreOffice Calc guide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T191152Z" creationid="olex" creationdate="20180506T191152Z">
+        <seg>Более подробное введение в формулы и мастер функций можно найти в &lt;f0&gt;Главе 7: Формулы и функции&lt;/f0&gt; руководства LibreOffice Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9017,8 +9025,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Inside the function wizard, you can search, list and narrow down the many Calc functions available.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180506T185947Z" creationid="olex" creationdate="20180506T185947Z">
-        <seg>В окне мастера функций вы можете искать, перелистывать и находить многие доступные функции Calc.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T190945Z" creationid="olex" creationdate="20180506T185947Z">
+        <seg>В окне мастера функций вы можете искать, пролистать и найти многие доступные функции Calc.</seg>
       </tuv>
     </tu>
     <tu>
