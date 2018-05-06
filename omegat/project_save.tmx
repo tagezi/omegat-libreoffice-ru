@@ -1186,6 +1186,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;A comment is not considered a part of the spreadsheet for calculation or printing purposes, and will only appear when hovering the mouse over the particular cell that has been ‘commented’.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T181953Z" creationid="olex" creationdate="20180506T181953Z">
+        <seg>&lt;s0/&gt;Примечание не являются частью таблицы для расчета или для печати и появляется только если навести указатель мыши на ячейку, которая была «прокомментирована».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0/&gt;Alternatively, right click on a selected formula in the &lt;f1&gt;formula editor&lt;/f1&gt; to bring up the context menu and choose from the standard editing options that appear (Figure &lt;t2&gt;5&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T204710Z" creationid="Роман" creationdate="20180320T204710Z">
