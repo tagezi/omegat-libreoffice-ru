@@ -1202,6 +1202,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;Cells that contain comments are marked with a red square in the upper right corner.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T183245Z" creationid="olex" creationdate="20180506T183245Z">
+        <seg>&lt;s0/&gt;Ячейки, содержащие примечания, помечены красным квадратиком в верхнем правом углу ячейки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0/&gt;For example, you cannot copy a non-contiguous range.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T205141Z" creationid="olex" creationdate="20180404T205141Z">
@@ -1222,6 +1230,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T192726Z" creationid="olex" creationdate="20180502T192726Z">
         <seg>&lt;s0/&gt;Это может быть удобно, когда несколько человек имеют доступ к электронной таблице, но по разным причинам только некоторым может быть разрешено изменять содержащиеся в ней данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;To toggle the visibility of comments, select &lt;f2&gt;View &gt; Comments &lt;/f2&gt;from the &lt;f3&gt;Main Menu.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T183525Z" creationid="olex" creationdate="20180506T183525Z">
+        <seg>&lt;s1/&gt;Чтобы сделать примечания видимыми, выберите в меню &lt;f2&gt;Вид &gt; Комментарии&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1276,8 +1292,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s4/&gt;&lt;/f3&gt;Alternatively, a comment can be inserted&lt;f5&gt; &lt;/f5&gt;by selecting &lt;f6&gt;Insert &gt; Comment &lt;/f6&gt;from the &lt;f7&gt;Main Menu, &lt;/f7&gt;by pressing the keyboard shortcut &lt;f8&gt;(Ctrl+Alt+C), &lt;/f8&gt;or by pressing the icon in the &lt;f9&gt;Standard Toolbar.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180506T182931Z" creationid="olex" creationdate="20180506T182601Z">
-        <seg>&lt;s4/&gt;&lt;/f3&gt;По другому примечание можно вставить&lt;f5&gt; &lt;/f5&gt;, выбрав в меню &lt;f6&gt;Вставка &gt; Комментарий&lt;/f6&gt;&lt;f7&gt;, &lt;/f7&gt;или нажав сочетание клавиш &lt;f8&gt;(Ctrl+Alt+C), &lt;/f8&gt;или нажав кнопку на панели инструментов Стандартная &lt;f9&gt;.&lt;/f9&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T183021Z" creationid="olex" creationdate="20180506T182601Z">
+        <seg>&lt;s4/&gt;&lt;/f3&gt;По другому примечание можно вставить&lt;f5&gt; &lt;/f5&gt;, выбрав в меню &lt;f6&gt;Вставка &gt; Комментарий&lt;/f6&gt;&lt;f7&gt;, &lt;/f7&gt;или нажав сочетание клавиш &lt;f8&gt;(Ctrl+Alt+C), &lt;/f8&gt;или нажав кнопку на панели инструментов &lt;f9&gt;Стандартная&lt;/f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2763,6 +2779,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T185129Z" creationid="olex" creationdate="20180411T185129Z">
         <seg>Любые числа, которые были отформатированы как текст в электронной таблице, по умолчанию будут обрабатываться как ноль в любых формулах с функциями, используемых в электронной таблице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, comments will remain hidden and only appear when hovering the mouse.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T183201Z" creationid="olex" creationdate="20180506T183201Z">
+        <seg>По умолчанию примечания все скрыты и отображаются только при наведении мыши.</seg>
       </tuv>
     </tu>
     <tu>
