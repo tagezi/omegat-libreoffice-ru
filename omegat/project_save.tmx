@@ -6488,8 +6488,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>For more information on how to sort records and the sorting options available, see the &lt;f0&gt;Calc Guide Chapter 2 Entering, Editing, and Formatting Data&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180506T175725Z" creationid="olex" creationdate="20180506T175725Z">
-        <seg>Дополнительные сведения о сортировке записей и доступных параметрах сортировки смотрите в &lt;f0&gt;Руководство по Calc Глава 2 Ввод, редактирование и форматирование данных &lt;/ f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T180143Z" creationid="olex" creationdate="20180506T175725Z">
+        <seg>Дополнительные сведения о сортировке записей и доступных параметрах сортировки смотрите в &lt;f0&gt;Руководство по Calc Глава 2 Ввод, редактирование и форматирование данных&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6970,6 +6970,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T171059Z" creationid="tagezi" creationdate="20180318T160112Z">
         <seg>Присваивает свойству имя «Text» и значение «Ваше имя», которое является вставляемым текстом при запуске макроса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Data &gt; Sort&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Sort&lt;/f1&gt; dialog (Figure &lt;t2&gt;38&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T180421Z" creationid="olex" creationdate="20180506T180421Z">
+        <seg>Выберите в меню &lt;f0&gt;Данные &gt; Сортировка...&lt;/f0&gt;, чтобы открыть диалоговое окно &lt;f1&gt;Сортировка&lt;/f1&gt; (Рисунок &lt;t2&gt;38&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12723,6 +12731,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the cells to be sorted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T180234Z" creationid="olex" creationdate="20180506T180234Z">
+        <seg>Выберите ячейки для сортировки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the columns or rows, see “&lt;bf0&gt;Multiple columns or rows&lt;/bf0&gt;” on page &lt;bf1&gt;21&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T213939Z" creationid="olex" creationdate="20180407T213939Z">
@@ -12919,6 +12935,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T185321Z" creationid="olex" creationdate="20180502T185233Z">
         <seg>Выберите строки или столбцы с обеих сторон от скрытой строки или столбца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the sort criteria from the drop down lists.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T180442Z" creationid="olex" creationdate="20180506T180442Z">
+        <seg>Выберите критерии сортировки из выпадающих списков.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15177,6 +15201,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The selected lists are populated from the selected cells.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T181020Z" creationid="olex" creationdate="20180506T181020Z">
+        <seg>Списки выбора состоят из выбранных ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The selected range is in the box &lt;f0&gt;Copy list from&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T093026Z" creationid="olex" creationdate="20180415T093026Z">
@@ -16734,6 +16766,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T190749Z" creationid="olex" creationdate="20180502T184846Z">
         <seg>Чтобы отобразить скрытые строки или столбцы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To sort cells in a spreadsheet:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T180055Z" creationid="olex" creationdate="20180506T180055Z">
+        <seg>Чтобы отсортировать ячейки в электронной таблице:</seg>
       </tuv>
     </tu>
     <tu>
