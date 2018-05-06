@@ -1234,6 +1234,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;You can launch the function wizard by pressing the function wizard icon to the right of the &lt;f1&gt;name box.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T185557Z" creationid="olex" creationdate="20180506T185557Z">
+        <seg>&lt;s0/&gt;Вы можете запустить мастер функций, нажав значок Мастер функций справа от поля &lt;f1&gt;Область листа&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s1/&gt;To toggle the visibility of comments, select &lt;f2&gt;View &gt; Comments &lt;/f2&gt;from the &lt;f3&gt;Main Menu.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T184739Z" creationid="olex" creationdate="20180506T183525Z">
@@ -1550,6 +1558,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T093810Z" creationid="olex" creationdate="20180415T093810Z">
         <seg>Появится раскрывающийся список с содержимым любой ячейки в том же столбце, которая имеет хотя бы один текстовый символ или формат которой определен как текстовый.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A function is a predefined calculation entered in a cell to help you analyze or manipulate data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T184947Z" creationid="olex" creationdate="20180506T184918Z">
+        <seg>Функция - это определенный расчет, введенный в ячейку, чтобы помочь вам анализировать данные или манипулировать с ними.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2022,6 +2038,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T015551Z" creationid="lera" creationdate="20180303T151856Z">
         <seg>Все торговые знаки в этом руководстве принадлежат их владельцам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All you have to do is enter the arguments and the calculation is automatically made for you.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T185018Z" creationid="olex" creationdate="20180506T184941Z">
+        <seg>Все, что вам нужно сделать, это ввести аргументы, и расчет будет сделан для вас автоматически.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6966,10 +6990,26 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Functions and formulas can be entered into LibreOffice Calc directly into the formula bar or by accessing the function wizard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T185316Z" creationid="olex" creationdate="20180506T185316Z">
+        <seg>Функции и формулы в LibreOffice Calc могут быть введены непосредственно в панели формул или с помощью мастера функций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Functions are defined by the keyword FUNCTION at the beginning.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T123423Z" creationid="tagezi" creationdate="20180315T123423Z">
         <seg>Функции определяются ключевым словом в начале FUNCTION.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Functions help you create the formulas required to get the results that you are looking for.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T185059Z" creationid="olex" creationdate="20180506T185059Z">
+        <seg>Функции помогают создавать формулы, необходимые для получения результатов, которые вам необходимы.</seg>
       </tuv>
     </tu>
     <tu>
