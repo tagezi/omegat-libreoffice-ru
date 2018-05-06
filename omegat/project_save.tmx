@@ -6742,6 +6742,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Formulas are equations that use numbers and variables to produce a result.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T184228Z" creationid="olex" creationdate="20180506T184228Z">
+        <seg>Формулы - это уравнения, которые используют числа и переменные для получения результата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Formulas are inserted as OLE objects into documents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180312T102021Z" creationid="User" creationdate="20180312T102021Z">
@@ -10909,6 +10917,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T133243Z" creationid="olex" creationdate="20180306T185951Z">
         <seg>Часто применение стиля означает одновременное применение целой группы способов визуального оформления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Often the contents of one cell depend on the contents of other cells.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T184203Z" creationid="olex" creationdate="20180506T184203Z">
+        <seg>Часто содержимое одной ячейки зависит от содержимого других ячеек.</seg>
       </tuv>
     </tu>
     <tu>
