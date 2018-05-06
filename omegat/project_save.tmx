@@ -12578,6 +12578,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select either ascending order (A-Z, 1-9) or descending order (Z-A, 9-1).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T181519Z" creationid="olex" creationdate="20180506T181519Z">
+        <seg>Выберите критерий сортировки по возрастанию (A-Z, 1-9) или по убыванию (Z-A, 9-1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select it and click the &lt;f0&gt;Delete&lt;/f0&gt; button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T210108Z" creationid="olex" creationdate="20180313T205636Z">
