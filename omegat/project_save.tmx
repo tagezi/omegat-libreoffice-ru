@@ -1204,8 +1204,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s0/&gt;Cells that contain comments are marked with a red square in the upper right corner.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180506T183245Z" creationid="olex" creationdate="20180506T183245Z">
-        <seg>&lt;s0/&gt;Ячейки, содержащие примечания, помечены красным квадратиком в верхнем правом углу ячейки.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T184730Z" creationid="olex" creationdate="20180506T183245Z">
+        <seg>&lt;s0/&gt;Ячейки, содержащие комментарии, помечены красным квадратиком в верхнем правом углу ячейки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1236,8 +1236,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s1/&gt;To toggle the visibility of comments, select &lt;f2&gt;View &gt; Comments &lt;/f2&gt;from the &lt;f3&gt;Main Menu.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180506T183525Z" creationid="olex" creationdate="20180506T183525Z">
-        <seg>&lt;s1/&gt;Чтобы сделать примечания видимыми, выберите в меню &lt;f2&gt;Вид &gt; Комментарии&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T184739Z" creationid="olex" creationdate="20180506T183525Z">
+        <seg>&lt;s1/&gt;Чтобы сделать комментарии видимыми, выберите в меню &lt;f2&gt;Вид &gt; Комментарии&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17741,6 +17741,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T211414Z" creationid="tagezi" creationdate="20180315T211414Z">
         <seg>Значения в массиве обычно нумеруются начиная с нуля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Variables are placed in cells to hold data required by equations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T184838Z" creationid="olex" creationdate="20180506T184838Z">
+        <seg>Переменные помещаются в ячейки в качестве данных для уравнений.</seg>
       </tuv>
     </tu>
     <tu>
