@@ -1994,6 +1994,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, sorting is useful when you add new information to your spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T175425Z" creationid="olex" creationdate="20180506T175425Z">
+        <seg>Кроме того, сортировка полезна, когда вы добавляете в электронную таблицу новую информацию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively,</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T212125Z" creationid="olex" creationdate="20180309T212125Z">
@@ -17781,6 +17789,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T081159Z" creationid="tagezi" creationdate="20180312T132010Z">
         <seg>При создании нового модуля, он содержит комментарий и пустой макрос с именем Main, который ничего не делает.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a spreadsheet is long, it is usually easier to add new information at the bottom of the sheet, rather than adding rows in their correct place.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T175603Z" creationid="olex" creationdate="20180506T175603Z">
+        <seg>Если электронная таблица массивная, то обычно проще добавлять новую информацию внизу листа, а не вставлять строки в нужное место.</seg>
       </tuv>
     </tu>
     <tu>
