@@ -1218,6 +1218,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;It will also display dialog boxes allowing you to enter the information required by that function and a &lt;f1&gt;result window &lt;/f1&gt;which will show you the expected calculation from the data you have entered.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T190726Z" creationid="olex" creationdate="20180506T190726Z">
+        <seg>&lt;s0/&gt;Также будут отображаться диалоговые окна, позволяющие ввести информацию, которая необходима для этой функции, и &lt;f1&gt;окно результатов&lt;/f1&gt;, которое покажет вам результат расчета по введенным данным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0/&gt;Multiple formatting options can be entered and arranged using assigned &lt;f1&gt;priority rules &lt;/f1&gt;to order the importance of the conditions; allowing certain formatting options to take place before others, for example.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T180553Z" creationid="olex" creationdate="20180502T180553Z">
@@ -4839,6 +4847,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T172737Z" creationid="olex" creationdate="20180329T194149Z">
         <seg>Каждая вкладка имеет соответствующий значок на панели вкладок &lt;i3/&gt;справа от боковой панели, что позволяет вам переключаться между ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each function, when selected, will display a brief explanation of it’s use and acceptable syntax.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T190533Z" creationid="olex" creationdate="20180506T190533Z">
+        <seg>Каждая функция, когда вы ее выбираете, отобразит краткое объяснение по ее использованию и допустимому синтаксису.</seg>
       </tuv>
     </tu>
     <tu>
