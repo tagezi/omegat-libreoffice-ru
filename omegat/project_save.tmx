@@ -1236,8 +1236,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s0/&gt;You can also choose to complete functions from within the wizard with easy to use steps rather than having to type full formulas into the formula bar.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180506T190005Z" creationid="olex" creationdate="20180506T190005Z">
-        <seg>&lt;s0/&gt;Вы также можете выполнять функции из мастера с помощью простых шагов, а не вводить полные формулы в панель формул.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180506T190337Z" creationid="olex" creationdate="20180506T190005Z">
+        <seg>&lt;s0/&gt;Вы также можете выбирать функции из мастера шаг за шагом, а не вводить сложные формулы прямо в панели формул.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8989,6 +8989,7 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: сложноватая для меня фраза, перевел по наитию</note>
       <tuv lang="EN-US">
         <seg>Inside the function wizard, you can search, list and narrow down the many Calc functions available.</seg>
       </tuv>
