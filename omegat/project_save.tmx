@@ -6670,6 +6670,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information on Pivot Charts and Charts in general, see &lt;f0&gt;Chapter 3: Charts and Graphs&lt;/f0&gt; and &lt;f1&gt;Chapter 8: Pivot Tables&lt;/f1&gt; of the LibreOffice Calc guide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T191830Z" creationid="olex" creationdate="20180507T191830Z">
+        <seg>Для получения дополнительной информации о диаграммах и сводных диаграммах в целом смотрите &lt;f0&gt;Глава 3: Диаграммы и графики&lt;/f0&gt; и &lt;f1&gt;Глава 8: Сводные таблицы&lt;/f1&gt; руководства Calc LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information on creating formulas, see “&lt;bf1&gt;Creating formulas&lt;/bf1&gt;” on page &lt;bf2&gt;8&lt;/bf2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153238Z" creationid="User" creationdate="20180311T153238Z">
@@ -11903,6 +11911,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T180208Z" creationid="olex" creationdate="20180327T180208Z">
         <seg>Печать</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printing from Calc is much the same &lt;i0/&gt;as printing&lt;i1/&gt; from other LibreOffice components (see &lt;f2&gt;Chapter 10 Printing, Exporting, and Emailing&lt;/f2&gt; in this guide).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T191951Z" creationid="olex" creationdate="20180507T191951Z">
+        <seg>Печать из Calc очень похожа на &lt;i0/&gt;печать&lt;i1/&gt; из других компонентов LibreOffice (смотрите &lt;f2&gt;Глава 10 Печать, экспорт и отправка по электронной почте&lt;/f2&gt; в этом руководстве).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20355,6 +20371,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180358Z" creationid="tagezi" creationdate="20180304T180358Z">
         <seg>презентации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>printing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T191838Z" creationid="olex" creationdate="20180507T191838Z">
+        <seg>печать</seg>
       </tuv>
     </tu>
     <tu>
