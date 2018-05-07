@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f1&gt;Page break lines are displayed on screen.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T193405Z" creationid="olex" creationdate="20180507T193405Z">
+        <seg>&lt;/f1&gt;На экране отобразятся линии разрыва страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f1&gt;Window borders appear between the rows or columns indicating where the split has been placed, as shown in Figure &lt;t2&gt;18&lt;/t2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T173644Z" creationid="olex" creationdate="20180409T172050Z">
@@ -16549,6 +16557,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T061917Z">
         <seg>Для изменения диалоговых окон, которые используется, выберите &lt;f0&gt;Свервис &gt; Парметры &gt; LibreOffice &gt; Общие&lt;/f0&gt; и установите или снимите флажок на пункте &lt;f1&gt;Использовать диалоги LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To check the print range, go to &lt;f0&gt;File &gt; Print Preview &lt;/f0&gt;on the Menu bar or click on the &lt;f1&gt;Print Preview&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T193905Z" creationid="olex" creationdate="20180507T193905Z">
+        <seg>Чтобы проверить диапазон печати, выберите в меню &lt;f0&gt;Файл &gt; Просмотр печати&lt;/f0&gt; или нажмите значок &lt;f1&gt;Переключить просмотр печати&lt;/f1&gt; &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; на панели инструментов &lt;f1&gt;Стандартная&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
