@@ -7118,6 +7118,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Functionally, pivot charts are nearly identical to regular charts in functionality except in two key areas: &lt;s0/&gt;First, as the data in the pivot table is altered, the pivot chart will adjust itself automatically to follow suit.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T191522Z" creationid="olex" creationdate="20180507T191522Z">
+        <seg>Функционально, сводные диаграммы почти идентичны обычным диаграммам в работе, за исключением двух ключевых областей: &lt;s0/&gt;Во-первых, по мере изменения данных в сводной таблице сводная диаграмма автоматически перестраивается вслед за данными.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Functions and formulas can be entered into LibreOffice Calc directly into the formula bar or by accessing the function wizard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T185316Z" creationid="olex" creationdate="20180506T185316Z">
