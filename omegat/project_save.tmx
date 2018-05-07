@@ -2927,6 +2927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calc also includes many tools for statistical analysis of data, where you can obtain important numerical information on data obtained from physical measurements, polls, or even business transactions such as sales, stock quotations, and so on.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T184218Z" creationid="olex" creationdate="20180507T184218Z">
+        <seg>Calc также включает множество инструментов для статистического анализа данных, где вы можете получить важную цифровую информацию о данных, полученных из физических измерений, опросов или даже деловых операций, таких как продажи, котировки акций и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calc also includes several other tools for automating input, especially of repetitive material.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T135502Z" creationid="olex" creationdate="20180414T135502Z">
@@ -15710,6 +15718,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173839Z" creationid="Роман" creationdate="20180317T173839Z">
         <seg>Эти заполнители должны быть затем заменены на настоящие числа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These tools are divided between the Tools and Data menus.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T184144Z" creationid="olex" creationdate="20180507T184144Z">
+        <seg>Эти инструменты разделены между меню Данные и Сервис.</seg>
       </tuv>
     </tu>
     <tu>
