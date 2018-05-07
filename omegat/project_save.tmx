@@ -2018,6 +2018,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After defining a print range, select an extra range of cells for adding to the print range.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T194306Z" creationid="olex" creationdate="20180507T194306Z">
+        <seg>После определения диапазона печати выберите дополнительный диапазон ячеек для добавления в диапазон печати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After defining a print range, you can add more cells to it by creating another print range.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T194045Z" creationid="olex" creationdate="20180507T194045Z">
@@ -7298,6 +7306,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180503T190221Z" creationid="olex" creationdate="20180503T190221Z">
         <seg>Выберите в меню &lt;f0&gt;Формат &gt; Ячейки&lt;/f0&gt; или нажмите правую кнопку мыши и выберите в контекстном меню &lt;f1&gt;Формат ячеек&lt;/f1&gt;, или воспользуйтесь сочетанием клавиш &lt;f2&gt;Ctrl+1&lt;/f2&gt;, чтобы открыть диалоговое окно &lt;f3&gt;Формат ячеек&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Add&lt;/f0&gt; on the Menu bar to add the extra cells to the print range.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T194439Z" creationid="olex" creationdate="20180507T194439Z">
+        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Диапазоны печати &gt; Добавить&lt;/f0&gt;, чтобы добавить дополнительные ячейки в диапазон печати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15446,6 +15462,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T211037Z" creationid="olex" creationdate="20180312T211037Z">
         <seg>Пакет начинает устанавливаться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The page break lines are no longer displayed on the screen.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T194533Z" creationid="olex" creationdate="20180507T194533Z">
+        <seg>Линии разрыва страницы исчезнут с экрана.</seg>
       </tuv>
     </tu>
     <tu>
