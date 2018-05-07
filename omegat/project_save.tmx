@@ -2018,6 +2018,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After defining a print range, you can add more cells to it by creating another print range.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T194045Z" creationid="olex" creationdate="20180507T194045Z">
+        <seg>После определения диапазона печати вы можете добавить к нему дополнительные ячейки, создав другой диапазон печати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After ten years’ successful growth with Sun Microsystems as founding and principle sponsor, the project launched an independent foundation called The Document Foundation, to fulfill the promise of independence written in the original charter.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T170520Z" creationid="lera" creationdate="20180303T165353Z">
@@ -9889,6 +9897,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice will display the cells in the print range.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T194024Z" creationid="olex" creationdate="20180507T194024Z">
+        <seg>LibreOffice отобразит ячейки из диапазона печати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOfficeMath is a &lt;is0/&gt;formula editor&lt;ie1/&gt; you can use to create or edit formulas (equations) in a symbolic form within LibreOffice documents or as standalone objects.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T135045Z" creationid="User" creationdate="20180307T204305Z">
@@ -15920,6 +15936,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T135634Z" creationid="olex" creationdate="20180414T135634Z">
         <seg>Эти инструменты: заполнение, списки выбора и возможность ввода информации на нескольких листах одновременно для одного и того же документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This allows multiple, separate areas of the same sheet to be printed while not printing the whole sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T194249Z" creationid="olex" creationdate="20180507T194249Z">
+        <seg>Это позволяет печатать несколько отдельных областей одного и того же листа, не распечатывая весь лист.</seg>
       </tuv>
     </tu>
     <tu>
