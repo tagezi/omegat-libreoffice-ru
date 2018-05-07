@@ -9921,6 +9921,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice will display the print ranges as separate pages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T194804Z" creationid="olex" creationdate="20180507T194804Z">
+        <seg>LibreOffice отобразит каждый диапазон печати как отдельную страницу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOfficeMath is a &lt;is0/&gt;formula editor&lt;ie1/&gt; you can use to create or edit formulas (equations) in a symbolic form within LibreOffice documents or as standalone objects.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T135045Z" creationid="User" creationdate="20180307T204305Z">
@@ -14711,6 +14719,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The additional print range will print as a separate page, even if both ranges are on the same sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T194826Z" creationid="olex" creationdate="20180507T194826Z">
+        <seg>Дополнительный диапазон печати будет печататься как отдельная страница, даже если оба диапазона находятся на одном листе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The answers will determine where to store the macro and how to make it available.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134847Z" creationid="tagezi" creationdate="20180320T134847Z">
@@ -16613,6 +16629,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T193905Z" creationid="olex" creationdate="20180507T193905Z">
         <seg>Чтобы проверить диапазон печати, выберите в меню &lt;f0&gt;Файл &gt; Просмотр печати&lt;/f0&gt; или нажмите значок &lt;f1&gt;Переключить просмотр печати&lt;/f1&gt; &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; на панели инструментов &lt;f1&gt;Стандартная&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To check the print ranges, go to &lt;f0&gt;File &gt; Print Preview&lt;/f0&gt; on the Menu bar or click on the &lt;f1&gt;Print Preview&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T194734Z" creationid="olex" creationdate="20180507T194734Z">
+        <seg>Чтобы проверить диапазоны печати, выберите в меню&lt;f0&gt;Файл &gt; Просмотр печати&lt;/f0&gt; на панели меню или нажмите значок &lt;f1&gt;Переключить просмотр печати&lt;/f1&gt; &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
