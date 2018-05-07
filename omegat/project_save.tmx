@@ -1306,6 +1306,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s2/&gt;The &lt;f3&gt;Pivot Table Layout dialog&lt;/f3&gt; will intelligently guess the column headings from the provided raw data and insert them into the &lt;f4&gt;Available Fields&lt;/f4&gt; selection box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T190515Z" creationid="olex" creationdate="20180507T190515Z">
+        <seg>&lt;s2/&gt;В диалоговом окне &lt;f3&gt;Разметка сводной таблицы&lt;/f3&gt; будут разумно угадываться заголовки столбцов из предоставленных исходных данных и вставляться в поле выбора &lt;f4&gt;Доступные поля&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s3/&gt;However, if you are familiar with Excel you may wish to change the default syntax in Calc by going to &lt;f4&gt;Tools &gt; Options &gt; Formula &gt; Formula Syntax&lt;/f4&gt; and choosing &lt;f5&gt;Excel R1&lt;/f5&gt; from the drop down menu provided.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T184612Z" creationid="olex" creationdate="20180327T184423Z">
@@ -16217,8 +16225,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To access the pivot table creation dialog, choose &lt;f0&gt;Insert &gt; Pivot Table&lt;/f0&gt; or &lt;f1&gt;Data &gt; Pivot Table &gt; Create&lt;/f1&gt; from the main menu.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180507T190048Z" creationid="olex" creationdate="20180507T190048Z">
-        <seg>Чтобы открыть диалоговое окно Разметка сводной таблицы, выберите в меню &lt;f0&gt;Вставка &gt; Сводная таблица...&lt;/f0&gt; или &lt;f1&gt;Данные &gt; Сводная таблица &gt; Создать...&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T190149Z" creationid="olex" creationdate="20180507T190048Z">
+        <seg>Чтобы открыть диалоговое окно Разметка сводной таблицы, выберите в меню &lt;f0&gt;Вставка &gt; Сводная таблица...&lt;/f0&gt; или &lt;f1&gt;Данные &gt; Сводная таблица &gt; Создать...&lt;/f1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
