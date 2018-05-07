@@ -1242,6 +1242,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;To determine your solution, you could manually calculate that amount by using the sorting and formatting options provided by Calc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T185427Z" creationid="olex" creationdate="20180507T185427Z">
+        <seg>&lt;s0/&gt;Чтобы определить ваше решение, вы можете вручную вычислить эту сумму, используя параметры сортировки и форматирования, предоставленные Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0/&gt;You can also choose to complete functions from within the wizard with easy to use steps rather than having to type full formulas into the formula bar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T190337Z" creationid="olex" creationdate="20180506T190005Z">
@@ -6339,6 +6347,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T175911Z" creationid="tagezi" creationdate="20180319T175911Z">
         <seg>Например, вставка объекта генерирует следующий код:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, let’s say that you have a spreadsheet containing a list of donations to various charities by a group of recruiters in various months, but you are only interested in how much money each recruiter has collected in total.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T185347Z" creationid="olex" creationdate="20180507T185347Z">
+        <seg>Например, предположим, что у вас есть таблица с пожертвованиями различных благотворительных организаций группой рекрутеров в разные месяцы, но вас интересует только то, сколько денег собрал каждый рекрутер.</seg>
       </tuv>
     </tu>
     <tu>
