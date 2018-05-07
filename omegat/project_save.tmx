@@ -6654,6 +6654,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information about using print ranges, see the &lt;f0&gt;Calc Guide Chapter 6 Printing, Exporting, and E-mailing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T192916Z" creationid="olex" creationdate="20180507T192916Z">
+        <seg>Дополнительные сведения об использовании диапазонов печати смотрите в разделе &lt;f0&gt;Руководство по Calc Глава 6 Печать, экспорт и отправка по электронной почте&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information on Free and Open Source software, visit these websites:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T212122Z" creationid="lera" creationdate="20180303T212122Z">
@@ -7274,6 +7282,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180503T190221Z" creationid="olex" creationdate="20180503T190221Z">
         <seg>Выберите в меню &lt;f0&gt;Формат &gt; Ячейки&lt;/f0&gt; или нажмите правую кнопку мыши и выберите в контекстном меню &lt;f1&gt;Формат ячеек&lt;/f1&gt;, или воспользуйтесь сочетанием клавиш &lt;f2&gt;Ctrl+1&lt;/f2&gt;, чтобы открыть диалоговое окно &lt;f3&gt;Формат ячеек&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Define&lt;/f0&gt; on the Menu bar&lt;f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T193331Z" creationid="olex" creationdate="20180507T193331Z">
+        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Диапазоны печати &gt; Задать&lt;/f0&gt;&lt;f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13196,6 +13212,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the range of cells to be included in the print range.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T193130Z" creationid="olex" creationdate="20180507T193130Z">
+        <seg>Выберите диапазон ячеек, который будет включен в диапазон печати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the range or the group of shapes in your spreadsheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T191825Z" creationid="olex" creationdate="20180402T191825Z">
@@ -16589,6 +16613,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T184428Z" creationid="olex" creationdate="20180311T184428Z">
         <seg>Чтобы создать шаблона с помощью мастера:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To define a new print range or modify an existing print range:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T193114Z" creationid="olex" creationdate="20180507T193114Z">
+        <seg>Чтобы определить новый диапазон печати или изменить существующий диапазон печати:</seg>
       </tuv>
     </tu>
     <tu>
