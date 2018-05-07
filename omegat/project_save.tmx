@@ -16215,6 +16215,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access the pivot table creation dialog, choose &lt;f0&gt;Insert &gt; Pivot Table&lt;/f0&gt; or &lt;f1&gt;Data &gt; Pivot Table &gt; Create&lt;/f1&gt; from the main menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T190048Z" creationid="olex" creationdate="20180507T190048Z">
+        <seg>Чтобы открыть диалоговое окно Разметка сводной таблицы, выберите в меню &lt;f0&gt;Вставка &gt; Сводная таблица...&lt;/f0&gt; или &lt;f1&gt;Данные &gt; Сводная таблица &gt; Создать...&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To activate it, enable &lt;f0&gt;View &gt; Toolbars &gt; Standard (Single Mode)&lt;/f0&gt; and disable &lt;f1&gt;View &gt; Toolbars &gt; Standard&lt;/f1&gt; and &lt;f2&gt;View &gt; Toolbars &gt; Formatting&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T175203Z" creationid="olex" creationdate="20180329T175052Z">
