@@ -7838,6 +7838,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, some details for printing in Calc are different, especially regarding preparation for printing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T192129Z" creationid="olex" creationdate="20180507T192129Z">
+        <seg>Однако некоторые детали печати в Calc отличаются, особенно в отношении подготовки к печати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, you can copy the contents of a document into an empty document that uses a different template.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T203051Z" creationid="olex" creationdate="20180313T195007Z">
@@ -11895,6 +11903,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T180440Z" creationid="olex" creationdate="20180327T180440Z">
         <seg>Диапазоны печати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print ranges have several uses, including printing only a specific part of the data or printing selected rows or columns on every page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T192834Z" creationid="olex" creationdate="20180507T192834Z">
+        <seg>Диапазоны печати имеют несколько видов использования, включая печать только определенной части данных или печать выбранных строк или столбцов на каждой странице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20371,6 +20387,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180358Z" creationid="tagezi" creationdate="20180304T180358Z">
         <seg>презентации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>print ranges, Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T192141Z" creationid="olex" creationdate="20180507T192141Z">
+        <seg>диапазоны печати, Calc</seg>
       </tuv>
     </tu>
     <tu>
