@@ -1706,6 +1706,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A more in depth explanation of pivot tables is available in &lt;f0&gt;Chapter 8: Pivot Tables &lt;/f0&gt;of the LibreOffice Calc guide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T190952Z" creationid="olex" creationdate="20180507T190952Z">
+        <seg>Более подробное объяснение сводных таблиц доступно в &lt;f0&gt;Главе 8: Сводные таблицы&lt;/f0&gt; руководства LibreOffice Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A more in depth introduction to formulas and the function wizard can be found in &lt;f0&gt;Chapter 7: Formulas and Functions &lt;/f0&gt;of the LibreOffice Calc guide.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T191152Z" creationid="olex" creationdate="20180506T191152Z">
@@ -16473,6 +16481,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To choose new information to display, or to alter the layout of the existing information, right click anywhere in the existing pivot table to bring up the context menu and choose &lt;f0&gt;Edit Layout.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T190917Z" creationid="olex" creationdate="20180507T190917Z">
+        <seg>Чтобы выбрать новую информацию для отображения или изменить макет существующей информации, щелкните правой кнопкой мыши в любом месте существующей сводной таблицы, чтобы открыть контекстное меню, и выберите &lt;f0&gt;Редактировать макет&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To compile an automatic table of contents, first apply styles to the headings you want to appear in the contents list, then use &lt;f0&gt;Tools &gt; Outline Numbering&lt;/f0&gt; to tell Writer which styles go with which level in the table of contents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T202918Z" creationid="olex" creationdate="20180316T201746Z">
@@ -16653,6 +16669,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T195438Z" creationid="olex" creationdate="20180424T194924Z">
         <seg>Чтобы настроить вид границ ячейки или группы выбранных ячеек, щелкните по значку Обрамление &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt; на панели инструментов Форматирование и выберите один из вариантов границ, отображаемых в палитре ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To get a quick visual representation of the data contained in a pivot table, a &lt;f0&gt;Pivot Chart&lt;/f0&gt; can be generated.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180507T191220Z" creationid="olex" creationdate="20180507T191220Z">
+        <seg>Чтобы получить быстрое визуальное представление данных, содержащихся в сводной таблице, можно сгенерировать диаграмму &lt;f0&gt;Сводная диаграмма&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
