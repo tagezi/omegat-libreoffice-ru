@@ -6519,6 +6519,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, to repeat column A, type &lt;f1&gt;$A&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T182559Z" creationid="olex" creationdate="20180508T182559Z">
+        <seg>Например, чтобы повторить столбец A, введите &lt;f1&gt;$A&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, to repeat rows 1 and 2, type &lt;f1&gt;$1:$2&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T182029Z" creationid="olex" creationdate="20180508T182029Z">
@@ -16110,8 +16118,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>This automatically changes &lt;f2&gt;Rows to repeat&lt;/f2&gt; &lt;s3/&gt;from, &lt;f4&gt;- none -&lt;/f4&gt; &lt;s5/&gt;to &lt;f6&gt;- user defined -&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180508T182225Z" creationid="olex" creationdate="20180508T182225Z">
-        <seg>Это автоматически изменит &lt;f2&gt;Повторять строки&lt;/f2&gt; &lt;s3/&gt;с &lt;f4&gt;- нет -&lt;/f4&gt; &lt;s5/&gt;до &lt;f6&gt;- определено пользователем -&lt;/f6&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T182336Z" creationid="olex" creationdate="20180508T182225Z">
+        <seg>Это автоматически изменит значение поля &lt;f2&gt;Повторять строки&lt;/f2&gt; &lt;s3/&gt;с &lt;f4&gt;- нет -&lt;/f4&gt; &lt;s5/&gt;до &lt;f6&gt;- пользовательский -&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17609,6 +17617,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T194628Z" creationid="olex" creationdate="20180402T194628Z">
         <seg>Введите ссылку ячейки в полях Столбец и Строка, и нажмите клавишу &lt;f4&gt;Enter&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type the column identifiers in the &lt;f0&gt;Columns to repeat&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T182453Z" creationid="olex" creationdate="20180508T182453Z">
+        <seg>Введите адрес столбца в поле &lt;f0&gt;Повторять столбцы&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
