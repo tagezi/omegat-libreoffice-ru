@@ -6838,10 +6838,26 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information on page styles, see the &lt;f0&gt;Calc Guide Chapter 4 Using Styles and Templates&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T185659Z" creationid="olex" creationdate="20180508T185659Z">
+        <seg>Дополнительные сведения о стилях страниц смотрите в &lt;f0&gt;Руководство по Calc Глава 4 Использование стилей и шаблонов&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information on printing options, see the &lt;f0&gt;Calc Guide Chapter 6 Printing, Exporting, and E‑mailing&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T181448Z" creationid="olex" creationdate="20180508T181448Z">
         <seg>Дополнительные сведения о параметрах печати смотрите в &lt;f0&gt; Руководство по Calc Глава 6 Печать, экспорт и отправка по электронной почте&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on setting and defining headers and footers, see the &lt;f0&gt;Calc Guide Chapter 6 Printing, Exporting, and E‑mailing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T185423Z" creationid="olex" creationdate="20180508T185423Z">
+        <seg>Дополнительные сведения о настройке и определении верхних и нижних колонтитулов смотрите в разделе &lt;f0&gt;Руководство по Calc Глава 6 Печать, экспорт и отправка по электронной почте&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7748,6 +7764,30 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T180818Z" creationid="olex" creationdate="20180327T180818Z">
         <seg>Верхние и нижние колонтитулы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Headers and footers are also assigned to a page style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T185545Z" creationid="olex" creationdate="20180508T185545Z">
+        <seg>Верхние и нижние колонтитулы также привязаны к стилю страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Headers and footers are predefined pieces of text that are printed at the top or bottom of a page when a spreadsheet is printed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T185309Z" creationid="olex" creationdate="20180508T185309Z">
+        <seg>Верхние и нижние колонтитулы представляют собой предопределенные фрагменты текста, которые печатаются в верхней или нижней части страницы при печати электронной таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Headers and footers are set and defined using the same method.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T185342Z" creationid="olex" creationdate="20180508T185342Z">
+        <seg>Верхние и нижние колонтитулы устанавливаются и определяются одним и тем же способом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11145,6 +11185,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123032Z" creationid="tagezi" creationdate="20180320T123032Z">
         <seg>Перейдите в каталог, содержащий импортируемую библиотеку (Рисунок &lt;t0&gt;7&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigate to the sheet that you want to set the header or footer for.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T185741Z" creationid="olex" creationdate="20180508T185741Z">
+        <seg>Перейдите на лист, для которого вы хотите установить верхний или нижний колонтитул.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17501,6 +17549,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To set a header or footer:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T185717Z" creationid="olex" creationdate="20180508T185717Z">
+        <seg>Чтобы установить верхний или нижний колонтитул:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To set the file name or change the directory, select the&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Path&lt;/f1&gt; button (the three dots to the right of the location).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T190013Z" creationid="olex" creationdate="20180311T185825Z">
@@ -19504,6 +19560,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can define more than one page style for a spreadsheet and assign different page styles to different sheets within a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T185602Z" creationid="olex" creationdate="20180508T185602Z">
+        <seg>Вы можете определить более одного стиля страницы для электронной таблицы и назначить разные стили страниц для разных листов в электронной таблице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can define new table styles following these steps:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T211133Z" creationid="olex" creationdate="20180309T211023Z">
@@ -20525,6 +20589,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T195552Z" creationid="olex" creationdate="20180316T195552Z">
         <seg>верхние колонтитулы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>headers and footers, Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T185208Z" creationid="olex" creationdate="20180508T185208Z">
+        <seg>верхние и нижние колонтитулы, Calc</seg>
       </tuv>
     </tu>
     <tu>
