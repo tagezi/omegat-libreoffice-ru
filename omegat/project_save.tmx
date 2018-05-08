@@ -9022,6 +9022,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the &lt;f2&gt;Columns to repeat&lt;/f2&gt; list, - &lt;f3&gt;none&lt;/f3&gt; - changes to - &lt;f4&gt;user defined&lt;/f4&gt; -.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T182851Z" creationid="olex" creationdate="20180508T182755Z">
+        <seg>В поле &lt;f2&gt;Повторять столбцы&lt;/f2&gt; &lt;f3&gt;- нет -&lt;/f3&gt; изменится на &lt;f4&gt;- пользовательский -&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Create Style dialog, type a name for the new style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203233Z" creationid="olex" creationdate="20180309T203233Z">
@@ -16118,8 +16126,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>This automatically changes &lt;f2&gt;Rows to repeat&lt;/f2&gt; &lt;s3/&gt;from, &lt;f4&gt;- none -&lt;/f4&gt; &lt;s5/&gt;to &lt;f6&gt;- user defined -&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180508T182336Z" creationid="olex" creationdate="20180508T182225Z">
-        <seg>Это автоматически изменит значение поля &lt;f2&gt;Повторять строки&lt;/f2&gt; &lt;s3/&gt;с &lt;f4&gt;- нет -&lt;/f4&gt; &lt;s5/&gt;до &lt;f6&gt;- пользовательский -&lt;/f6&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T182827Z" creationid="olex" creationdate="20180508T182225Z">
+        <seg>Это автоматически изменит значение поля &lt;f2&gt;Повторять строки&lt;/f2&gt; &lt;s3/&gt;с &lt;f4&gt;- нет -&lt;/f4&gt; &lt;s5/&gt;на &lt;f6&gt;- пользовательский -&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
