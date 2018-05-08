@@ -17267,6 +17267,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To select the printing options for &lt;i0/&gt;page order, details, and scale to be used when printing a spreadsheet:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T181028Z" creationid="olex" creationdate="20180508T181028Z">
+        <seg>Чтобы выбрать параметры печати, &lt;i0/&gt;порядок страниц, детали и масштаб, которые будут использоваться при печати электронной таблицы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To set the file name or change the directory, select the&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Path&lt;/f1&gt; button (the three dots to the right of the location).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T190013Z" creationid="olex" creationdate="20180311T185825Z">
@@ -20531,6 +20539,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T193508Z" creationid="olex" creationdate="20180315T190957Z">
         <seg>макета страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>page order, details, scale, in Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T180738Z" creationid="olex" creationdate="20180508T180738Z">
+        <seg>порядок страниц, детали, масштаб, в Calc</seg>
       </tuv>
     </tu>
     <tu>
