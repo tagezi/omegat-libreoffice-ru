@@ -13790,6 +13790,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set the margins, spacing, and height for the header or footer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T191050Z" creationid="olex" creationdate="20180508T191050Z">
+        <seg>Установите поля, интервал и высоту для верхнего или нижнего колонтитула.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Setting &lt;i0/&gt;a default template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T212238Z" creationid="olex" creationdate="20180312T212238Z">
@@ -16858,6 +16866,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the appearance of the header or footer, click on &lt;f0&gt;More&lt;/f0&gt; to open the borders and background dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T191356Z" creationid="olex" creationdate="20180508T191356Z">
+        <seg>Чтобы изменить внешний вид верхнего или нижнего колонтитула, нажмите &lt;f0&gt;Еще...&lt;/f0&gt;, для открытия диалогового окна Обрамление / Фон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change the autocorrect options, go to &lt;f0&gt;Tools &gt; AutoCorrect Options&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;AutoCorrect&lt;/f1&gt; dialog (Figure &lt;t2&gt;21&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T194524Z" creationid="olex" creationdate="20180412T194240Z">
@@ -19394,6 +19410,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T180517Z" creationid="olex" creationdate="20180311T180321Z">
         <seg>Вы так же можете сохранять настройки меню и панели инструментов в шаблонах; смотрите &lt;f0&gt;главу 14, Настройка LibreOfficelt&lt;/f0&gt;, для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also select &lt;f0&gt;AutoFit height&lt;/f0&gt; box to automatically adjust the height of the header or footer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T191158Z" creationid="olex" creationdate="20180508T191158Z">
+        <seg>Вы также можете выбрать &lt;f0&gt;Автоподбор высоты&lt;/f0&gt;, чтобы автоматически регулировать высоту верхнего или нижнего колонтитула.</seg>
       </tuv>
     </tu>
     <tu>
