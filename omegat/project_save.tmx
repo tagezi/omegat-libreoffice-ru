@@ -6830,6 +6830,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information on manual breaks, see the &lt;f0&gt;Calc Guide Chapter 6 Printing, Exporting, and E‑mailing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T183923Z" creationid="olex" creationdate="20180508T183923Z">
+        <seg>Для получения дополнительной информации о разрыве страницы смотрите &lt;f0&gt;Руководство Calc Глава 6 Печать, экспорт и отправка по электронной почте &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information on printing options, see the &lt;f0&gt;Calc Guide Chapter 6 Printing, Exporting, and E‑mailing&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T181448Z" creationid="olex" creationdate="20180508T181448Z">
@@ -9274,6 +9282,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T201429Z" creationid="tagezi" creationdate="20180320T201429Z">
         <seg>Информация в следующих книгах в основном применима к LibreOffice; книги доступны для покупки в печатной и электронной форме от их издателей:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserting a &lt;i0/&gt;&lt;i1/&gt;break</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T183950Z" creationid="olex" creationdate="20180508T183950Z">
+        <seg>Вставка &lt;i0/&gt;&lt;i1/&gt;разрыва</seg>
       </tuv>
     </tu>
     <tu>
@@ -19470,6 +19486,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can insert a horizontal page break above or a vertical page break to the left of the active cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T183820Z" creationid="olex" creationdate="20180508T183820Z">
+        <seg>Вы можете вставить горизонтальный разрыв страницы выше или вертикальный разрыв страницы слева от активной ячейки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can insert elements into a formula using one of the following methods:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180314T182812Z" creationid="User" creationdate="20180314T182812Z">
@@ -20683,6 +20707,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T193527Z" creationid="olex" creationdate="20180316T193527Z">
         <seg>ориентация страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>page break, Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T183933Z" creationid="olex" creationdate="20180508T183933Z">
+        <seg>разрыв страницы, Calc</seg>
       </tuv>
     </tu>
     <tu>
