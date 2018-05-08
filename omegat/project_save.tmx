@@ -7358,6 +7358,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Edit &gt; Delete Page Break&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T184756Z" creationid="olex" creationdate="20180508T184756Z">
+        <seg>Выберите в меню &lt;f0&gt;Лист &gt; Удалить разрыв страницы&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Edit &gt; Paste&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+V&lt;/f1&gt;, to paste the contents from the old document into the new one.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T062016Z" creationid="olex" creationdate="20180313T200832Z">
@@ -7453,6 +7461,7 @@ LG:DONE</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: в оригинале неправильный пункт меню</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Insert &gt; Page Break&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
@@ -11103,6 +11112,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180308T083015Z" creationid="tagezi" creationdate="20180308T083015Z">
         <seg>Поддержка на родном языке</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigate to a cell that is next to the break you want to remove.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T184658Z" creationid="olex" creationdate="20180508T184658Z">
+        <seg>Перейдите к ячейке, расположенной рядом с разрывом, который вы хотите удалить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17303,6 +17320,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T203212Z" creationid="olex" creationdate="20180313T192354Z">
         <seg>Чтобы восстановить оригинальный шаблон LibreOffice в качестве шаблона по умолчанию:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To remove a page break:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T184637Z" creationid="olex" creationdate="20180508T184637Z">
+        <seg>Чтобы удалить разрыв страницы:</seg>
       </tuv>
     </tu>
     <tu>
