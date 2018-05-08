@@ -3399,6 +3399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;OK.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T181348Z" creationid="olex" creationdate="20180508T181348Z">
+        <seg>Нажмите &lt;f0&gt;ОК&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; again to close the AutoFormat dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T213103Z" creationid="olex" creationdate="20180309T213103Z">
@@ -7314,6 +7322,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180503T190221Z" creationid="olex" creationdate="20180503T190221Z">
         <seg>Выберите в меню &lt;f0&gt;Формат &gt; Ячейки&lt;/f0&gt; или нажмите правую кнопку мыши и выберите в контекстном меню &lt;f1&gt;Формат ячеек&lt;/f1&gt;, или воспользуйтесь сочетанием клавиш &lt;f2&gt;Ctrl+1&lt;/f2&gt;, чтобы открыть диалоговое окно &lt;f3&gt;Формат ячеек&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Page&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Page Style&lt;/f1&gt; dialog (Figure &lt;t2&gt;41&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T181251Z" creationid="olex" creationdate="20180508T181251Z">
+        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Страница...&lt;/f0&gt;, чтобы открыть диалоговое окно &lt;f1&gt;Стиль страницы&lt;/f1&gt; (Рисунок &lt;t2&gt;41&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13031,6 +13047,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T124807Z" creationid="tagezi" creationdate="20180312T124807Z">
         <seg>Выберите вкладку &lt;f0&gt;Модули&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the &lt;f0&gt;Sheet&lt;/f0&gt; tab and make your selections from the available options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T181331Z" creationid="olex" creationdate="20180508T181331Z">
+        <seg>Выберите вкладку &lt;f0&gt;Лист&lt;/f0&gt; и сделайте выбор из доступных параметров.</seg>
       </tuv>
     </tu>
     <tu>
