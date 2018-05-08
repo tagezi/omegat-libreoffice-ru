@@ -5855,6 +5855,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Edit Print Ranges dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T183027Z" creationid="olex" creationdate="20180508T183027Z">
+        <seg>Рисунок &lt;seq0&gt;42&lt;/seq0&gt;: Диалоговое окно Изменение диапазонов печати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Macro Selector dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T061754Z" creationid="tagezi" creationdate="20180315T061754Z">
@@ -6770,6 +6778,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180312T071613Z" creationid="User" creationdate="20180312T071613Z">
         <seg>Больше информации о создании формул изложено в разделе “&lt;bf5&gt;Создание формул&lt;/bf5&gt;” на странице &lt;bf6&gt;8&lt;/bf6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on editing print ranges, see the &lt;f0&gt;Calc Guide&lt;/f0&gt;, Chapter 6 Printing, Exporting, and E‑mailing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T182952Z" creationid="olex" creationdate="20180508T182952Z">
+        <seg>Дополнительные сведения о редактировании диапазонов печати смотрите в &lt;f0&gt;Руководство по Calc&lt;/f0&gt;, Глава 6 Печать, экспорт и отправка по электронной почте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16126,8 +16142,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>This automatically changes &lt;f2&gt;Rows to repeat&lt;/f2&gt; &lt;s3/&gt;from, &lt;f4&gt;- none -&lt;/f4&gt; &lt;s5/&gt;to &lt;f6&gt;- user defined -&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180508T182827Z" creationid="olex" creationdate="20180508T182225Z">
-        <seg>Это автоматически изменит значение поля &lt;f2&gt;Повторять строки&lt;/f2&gt; &lt;s3/&gt;с &lt;f4&gt;- нет -&lt;/f4&gt; &lt;s5/&gt;на &lt;f6&gt;- пользовательский -&lt;/f6&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T182900Z" creationid="olex" creationdate="20180508T182225Z">
+        <seg>Это автоматически изменит значение поля &lt;f2&gt;Повторять строки&lt;/f2&gt; &lt;s3/&gt; &lt;f4&gt;- нет -&lt;/f4&gt; &lt;s5/&gt;на &lt;f6&gt;- пользовательский -&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18831,6 +18847,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180317T172921Z" creationid="olex" creationdate="20180306T182521Z">
         <seg>В то время как содержание является результатом интеллектуальной деятельности человека, форматирование документа является задачей, которую компьютер может выполнять быстро и легко.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While defining a print range can be a powerful tool, it may sometimes be necessary to manually adjust the Calc printout manually using a &lt;f0&gt;manual or page break&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T183550Z" creationid="olex" creationdate="20180508T183550Z">
+        <seg>Хотя определение диапазона печати может быть мощным инструментом, иногда бывает необходимо настроив печать Calc вручную, используя &lt;f0&gt;разрыв страниц&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
