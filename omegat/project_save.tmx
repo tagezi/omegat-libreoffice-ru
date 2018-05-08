@@ -17605,6 +17605,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To set the contents, for example page number, date and so on, that appears in the header or footer, click on &lt;f0&gt;Edit&lt;/f0&gt; to open the style dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T191625Z" creationid="olex" creationdate="20180508T191625Z">
+        <seg>Чтобы установить содержимое, например номер страницы, дату и т.д., которое отобразится в верхнем или нижнем колонтитуле, нажмите &lt;f0&gt;Правка...&lt;/f0&gt;, для открытия диалогового окна Нижний ~колонтитул или Верхний ~колонтитул.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To set the file name or change the directory, select the&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Path&lt;/f1&gt; button (the three dots to the right of the location).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T190013Z" creationid="olex" creationdate="20180311T185825Z">
