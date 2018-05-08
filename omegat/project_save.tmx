@@ -9423,6 +9423,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It may become necessary to remove a defined print range, for example, if the whole sheet needs to be printed later.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T175704Z" creationid="olex" creationdate="20180508T175704Z">
+        <seg>Может потребоваться удалить определенный диапазон печати, например, если весь лист должен быть напечатан позже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It pays to plan ahead.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T200820Z" creationid="olex" creationdate="20180309T200820Z">
@@ -17103,6 +17111,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T172915Z" creationid="olex" creationdate="20180409T172915Z">
         <seg>Чтобы отменить разделение окна, выполните одно из следующих действий:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To remove all the defined print ranges, go to &lt;f0&gt;Format &gt; Print Ranges &gt; Remove &lt;/f0&gt;on the Menu bar.&lt;f1&gt; &lt;/f1&gt;After the print ranges have been removed, the default page break lines will appear on the screen.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T175906Z" creationid="olex" creationdate="20180508T175906Z">
+        <seg>Чтобы удалить все определенные диапазоны печати, выберите в меню &lt;f0&gt;Формат &gt; Диапазоны печати &gt; Удалить&lt;/f0&gt;. &lt;f1&gt;&lt;/f1&gt;После того, как диапазоны печати будут удалены, на экране появятся строки разрыва страницы по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
