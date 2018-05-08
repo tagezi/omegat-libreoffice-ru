@@ -12875,6 +12875,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Column Break&lt;/f0&gt; to create a page break to the left of the selected cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T184617Z" creationid="olex" creationdate="20180508T184617Z">
+        <seg>Выберите &lt;f0&gt;Разрыв по столбцу&lt;/f0&gt; для создания разрыва страницы слева от выбранной ячейки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Date&lt;/f0&gt; in the &lt;f1&gt;Category&lt;/f1&gt; list box.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T192929Z" creationid="olex" creationdate="20180412T192929Z">
@@ -12999,6 +13007,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130701Z" creationid="tagezi" creationdate="20180320T130701Z">
         <seg>Выберите &lt;f0&gt;Заменить существующие библиотеки&lt;/f0&gt;, если библиотека, которую вы хотите импортировать, имеет то же имя и вы хотите заменить существующую библиотеку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Row Break&lt;/f0&gt; to create a page break above the selected cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T184534Z" creationid="olex" creationdate="20180508T184534Z">
+        <seg>Выберите &lt;f0&gt;Разрыв по строке&lt;/f0&gt; чтобы создать разрыв страницы над выбранной ячейкой.</seg>
       </tuv>
     </tu>
     <tu>
