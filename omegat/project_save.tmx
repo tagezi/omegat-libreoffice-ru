@@ -7374,6 +7374,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Edit &lt;/f0&gt;on the Menu bar to open the &lt;f1&gt;Edit Print Ranges&lt;/f1&gt; dialog (Figure &lt;t2&gt;42&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T181859Z" creationid="olex" creationdate="20180508T181859Z">
+        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Диапазоны печати &gt; Правка...&lt;/f0&gt;, чтобы открыть диалоговое окно &lt;f1&gt;Изменение диапазонов печати&lt;/f1&gt; (Рисунок &lt;t2&gt;42&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Edit&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Edit Print Ranges&lt;/f1&gt; dialog where you can define the print range.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T180716Z" creationid="olex" creationdate="20180508T180716Z">
@@ -17601,6 +17609,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T194315Z" creationid="olex" creationdate="20180402T194315Z">
         <seg>Введите новую ссылку на ячейки, на которую вы хотите переместить фокус, и нажмите клавишу &lt;f5&gt;Enter&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type the row identifiers in the &lt;f0&gt;Rows to repeat&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T181955Z" creationid="olex" creationdate="20180508T181955Z">
+        <seg>Введите адреса строк в поле &lt;f0&gt;Повторять строки&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
