@@ -13117,6 +13117,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Same content left/right &lt;/f0&gt;option if you want the same header or footer to appear on all the printed pages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T190426Z" creationid="olex" creationdate="20180508T190426Z">
+        <seg>Выберите &lt;f0&gt; Одинаковое содержимое слева/справа&lt;/f0&gt;, если вы хотите, чтобы на всех печатаемых страницах отображался один и тот же верхний или нижний колонтитул.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Show&lt;/f0&gt; from the menu and the sheet, row or column will be displayed and can be printed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T191051Z" creationid="olex" creationdate="20180502T185932Z">
@@ -13287,8 +13295,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Select the &lt;f0&gt;Header on&lt;/f0&gt; or &lt;f1&gt;Footer on&lt;/f1&gt; option.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180508T190125Z" creationid="olex" creationdate="20180508T190125Z">
-        <seg>Выберите &lt;f0&gt;Верхний колонтитул&lt;/f0&gt; или &lt;f1&gt;Footer on&lt;/f1&gt; option.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T190222Z" creationid="olex" creationdate="20180508T190125Z">
+        <seg>Установите флажок на &lt;f0&gt;Верхний колонтитул&lt;/f0&gt; или &lt;f1&gt;Нижний колонтитул&lt;/f1&gt; для включения.</seg>
       </tuv>
     </tu>
     <tu>
