@@ -7357,6 +7357,7 @@ LG:DONE</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: в оригинале неправильный пункт меню</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Edit &gt; Delete Page Break&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
@@ -11100,6 +11101,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiple manual row and column breaks can exist on the same page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T185117Z" creationid="olex" creationdate="20180508T185117Z">
+        <seg>На одной странице может быть несколько разрывов строк и столбцов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multiple non-contiguous sheets</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T182951Z" creationid="olex" creationdate="20180326T182951Z">
@@ -13024,6 +13033,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130701Z" creationid="tagezi" creationdate="20180320T130701Z">
         <seg>Выберите &lt;f0&gt;Заменить существующие библиотеки&lt;/f0&gt;, если библиотека, которую вы хотите импортировать, имеет то же имя и вы хотите заменить существующую библиотеку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Row Break&lt;/f0&gt; or &lt;f1&gt;Column Break&lt;/f1&gt; depending on your need and break is removed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T185039Z" creationid="olex" creationdate="20180508T185039Z">
+        <seg>Выберите &lt;f0&gt;Разрыв по строке&lt;/f0&gt; или &lt;f1&gt;Разрыв по столбцу&lt;/f1&gt; в зависимости от того, что вам необходимо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18880,6 +18897,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T175303Z" creationid="olex" creationdate="20180328T175303Z">
         <seg>Когда вы выбираете элемент на панели меню &lt;i0/&gt;, "выпадает" подменю, которое отображает команды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you want to remove them, you have to remove each break individually.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T185140Z" creationid="olex" creationdate="20180508T185140Z">
+        <seg>Если вы хотите удалить их, вы должны удалить каждый разрыв по отдельности.</seg>
       </tuv>
     </tu>
     <tu>
