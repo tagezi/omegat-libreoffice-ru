@@ -6519,6 +6519,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, to repeat rows 1 and 2, type &lt;f1&gt;$1:$2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T182029Z" creationid="olex" creationdate="20180508T182029Z">
+        <seg>Например, чтобы повторить строки 1 и 2, введите &lt;f1&gt;$1:$2&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, to select the range that would go from A3 to C6, you would enter &lt;f3&gt;A3:C6&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T204617Z" creationid="olex" creationdate="20180404T204617Z">
@@ -16096,6 +16104,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T143848Z" creationid="olex" creationdate="20180414T143848Z">
         <seg>Эта область окна активна только в том случае, если в области Тип рядов выбрана опция Дата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This automatically changes &lt;f2&gt;Rows to repeat&lt;/f2&gt; &lt;s3/&gt;from, &lt;f4&gt;- none -&lt;/f4&gt; &lt;s5/&gt;to &lt;f6&gt;- user defined -&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T182225Z" creationid="olex" creationdate="20180508T182225Z">
+        <seg>Это автоматически изменит &lt;f2&gt;Повторять строки&lt;/f2&gt; &lt;s3/&gt;с &lt;f4&gt;- нет -&lt;/f4&gt; &lt;s5/&gt;до &lt;f6&gt;- определено пользователем -&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
