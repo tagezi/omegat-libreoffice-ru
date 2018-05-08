@@ -7431,6 +7431,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Page&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Page Style&lt;/f1&gt; dialog (Figure &lt;t2&gt;43&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T185917Z" creationid="olex" creationdate="20180508T185917Z">
+        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Страница...&lt;/f0&gt;, чтобы открыть диалоговое окно &lt;f1&gt;Стиль страницы&lt;/f1&gt; (Рисунок &lt;t2&gt;43&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Add&lt;/f0&gt; on the Menu bar to add the extra cells to the print range.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T194439Z" creationid="olex" creationdate="20180507T194439Z">
@@ -11500,6 +11508,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the Page Style dialog, select &lt;f0&gt;Header&lt;/f0&gt; or &lt;f1&gt;Footer&lt;/f1&gt; tab.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T190019Z" creationid="olex" creationdate="20180508T190019Z">
+        <seg>В диалоговом окне Стиль страницы выберите вкладку &lt;f0&gt;Верхний колонтитул&lt;/f0&gt; или &lt;f1&gt;Нижний колонтитул&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the Standard toolbar, click the triangle to the right of the &lt;f0&gt;New&lt;/f0&gt; icon and select &lt;f1&gt;Formula&lt;/f1&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T135520Z" creationid="User" creationdate="20180308T135520Z">
@@ -13265,6 +13281,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T155642Z" creationid="olex" creationdate="20180308T155642Z">
         <seg>Нажмите кнопку &lt;f0&gt;Стилевая заливка&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the &lt;f0&gt;Header on&lt;/f0&gt; or &lt;f1&gt;Footer on&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T190125Z" creationid="olex" creationdate="20180508T190125Z">
+        <seg>Выберите &lt;f0&gt;Верхний колонтитул&lt;/f0&gt; или &lt;f1&gt;Footer on&lt;/f1&gt; option.</seg>
       </tuv>
     </tu>
     <tu>
