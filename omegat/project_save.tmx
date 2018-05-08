@@ -7454,6 +7454,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Insert &gt; Page Break&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T184449Z" creationid="olex" creationdate="20180508T184449Z">
+        <seg>Выберите в меню &lt;f0&gt;Лист &gt; Вставить разрыв страницы&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Sheet &gt; Fill Cells&lt;/f0&gt; on the Menu bar and select the direction in which you want to copy or create data (&lt;f1&gt;Up&lt;/f1&gt;, &lt;f2&gt;Down&lt;/f2&gt;, &lt;f3&gt;Left&lt;/f3&gt; or &lt;f4&gt;Right&lt;/f4&gt;) or &lt;f5&gt;Series&lt;/f5&gt; and &lt;f6&gt;Random Number...&lt;/f6&gt; from the submenu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T141118Z" creationid="olex" creationdate="20180414T141118Z">
@@ -11095,6 +11103,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180308T083015Z" creationid="tagezi" creationdate="20180308T083015Z">
         <seg>Поддержка на родном языке</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigate to the cell where the page break will begin.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T184102Z" creationid="olex" creationdate="20180508T184102Z">
+        <seg>Перейдите в ячейку, где нужен разрыв страницы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17101,6 +17117,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T200911Z" creationid="olex" creationdate="20180418T200911Z">
         <seg>Чтобы вставить разрыв строки вручную во время ввода в ячейку, нажмите &lt;f0&gt;Ctrl+Enter&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To insert a page break:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T184014Z" creationid="olex" creationdate="20180508T184014Z">
+        <seg>Чтобі вставить разрыв страницы:</seg>
       </tuv>
     </tu>
     <tu>
