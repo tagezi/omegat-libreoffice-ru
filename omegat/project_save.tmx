@@ -5847,6 +5847,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;41&lt;/seq0&gt;: Page Style dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T181517Z" creationid="olex" creationdate="20180508T181517Z">
+        <seg>Рисунок &lt;seq0&gt;41&lt;/seq0&gt;: Диалоговое окно Стиль страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Macro Selector dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T061754Z" creationid="tagezi" creationdate="20180315T061754Z">
@@ -6415,6 +6423,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if the top two rows of the sheet as well as column A need to be printed on all pages, do the following:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T181657Z" creationid="olex" creationdate="20180508T181657Z">
+        <seg>Например, если две верхние строки листа, а также столбец А должны быть напечатаны на всех страницах, выполните следующие действия:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, in Writer &lt;f0&gt;Ctrl+0&lt;/f0&gt; applies the &lt;f1&gt;Text body&lt;/f1&gt; style, &lt;f2&gt;Ctrl+1&lt;/f2&gt; applies the &lt;f3&gt;Heading 1&lt;/f3&gt; style, and &lt;f4&gt;Ctrl+2&lt;/f4&gt; applies the &lt;f5&gt;Heading 2&lt;/f5&gt; style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T094320Z" creationid="olex" creationdate="20180308T172649Z">
@@ -6770,6 +6786,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T185546Z" creationid="olex" creationdate="20180327T185546Z">
         <seg>Дополнительные сведения о макросах смотрите в Главе 12 Макросы Calc в руководстве к LibreOffice Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on printing options, see the &lt;f0&gt;Calc Guide Chapter 6 Printing, Exporting, and E‑mailing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T181448Z" creationid="olex" creationdate="20180508T181448Z">
+        <seg>Дополнительные сведения о параметрах печати смотрите в &lt;f0&gt; Руководство по Calc Глава 6 Печать, экспорт и отправка по электронной почте&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8050,6 +8074,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T183054Z" creationid="olex" creationdate="20180411T183054Z">
         <seg>Если вводить число с ведущими нулями, например 01481, без предварительной настройки параметра Ведущие нули, то по умолчанию Calc автоматически отбрасывает незначащие 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a sheet is printed on multiple pages, you can set up certain rows or columns to repeat on each printed page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T181625Z" creationid="olex" creationdate="20180508T181625Z">
+        <seg>Если лист печатается на нескольких страницах, вы можете настроить определенные строки или столбцы для повторения на каждой печатаемой странице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12255,6 +12287,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T205009Z" creationid="olex" creationdate="20180404T205009Z">
         <seg>При необходимости повторите действия.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repeat printing &lt;i0/&gt;of rows or columns</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T181552Z" creationid="olex" creationdate="20180508T181547Z">
+        <seg>Повторить печать &lt;i0/&gt;строк или столбцов</seg>
       </tuv>
     </tu>
     <tu>
@@ -20643,6 +20683,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180406T163203Z" creationid="olex" creationdate="20180406T163203Z">
         <seg>строк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rows or columns</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180508T181529Z" creationid="olex" creationdate="20180508T181529Z">
+        <seg>строки или столбцы</seg>
       </tuv>
     </tu>
     <tu>
