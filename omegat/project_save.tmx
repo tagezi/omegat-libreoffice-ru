@@ -1340,8 +1340,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s3/&gt;Wildcards are more widespread in other spreadsheet applications and adopting a similar option in LibreOffice allows for better compatibility and a better experience for users who may not be familiar with the use of regular expressions.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T183450Z" creationid="olex" creationdate="20180327T183450Z">
-        <seg>&lt;s3/&gt; Подстановочные знаки более распространены в других приложениях для электронных таблиц, и использование аналогичного варианта в LibreOffice позволяет улучшить совместимость и улучшает навыки для пользователей, которые могут быть не знакомы с использованием регулярных выражений.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180515T173246Z" creationid="olex" creationdate="20180327T183450Z">
+        <seg>&lt;s3/&gt; Подстановочные знаки более распространены в других приложениях для электронных таблиц, использование аналогичной настройки в LibreOffice предоставляет лучшую совместимость и больше навыков пользователям, которые не знакомы с использованием регулярных выражений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13937,8 +13937,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Simple wildcards such as the &lt;f0&gt;asterisk (*)&lt;/f0&gt;, &lt;f1&gt;question mark (?)&lt;/f1&gt;, and &lt;f2&gt;tilde (~)&lt;/f2&gt; from other spreadsheet applications are recognized by LibreOffice.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T183203Z" creationid="olex" creationdate="20180327T183203Z">
-        <seg>Простые подстановочные знаки, такие как &lt;f0&gt;звездочка (*)&lt;/f0&gt;, &lt;f1&gt;вопросительный знак (?)&lt;/f1&gt; и &lt;f2&gt;tilde (~)&lt;/f2&gt; из других приложений электронных таблиц, распознаются LibreOffice ,</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180515T172808Z" creationid="olex" creationdate="20180327T183203Z">
+        <seg>Простые подстановочные знаки, такие как &lt;f0&gt;звездочка (*)&lt;/f0&gt;, &lt;f1&gt;вопросительный знак (?)&lt;/f1&gt; и &lt;f2&gt;тильда (~)&lt;/f2&gt; из других приложений электронных таблиц, распознаются LibreOffice ,</seg>
       </tuv>
     </tu>
     <tu>
