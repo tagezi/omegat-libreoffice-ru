@@ -1308,8 +1308,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s2/&gt;LibreOffice will translate seamlessly between the two.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T184102Z" creationid="olex" creationdate="20180327T183842Z">
-        <seg>&lt;s2/&gt;LibreOffice может легко конвертировать его.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180515T174001Z" creationid="olex" creationdate="20180327T183842Z">
+        <seg>&lt;s2/&gt;LibreOffice может легко работать с обоими.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2905,8 +2905,8 @@
       <tuv lang="EN-US">
         <seg>By default, LibreOffice Calc will use the it’s own formula syntax, referred to as &lt;f0&gt;Calc R1&lt;/f0&gt; rather than the &lt;f1&gt;Excel R1&lt;/f1&gt; syntax that is used by Microsoft Excel.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T184440Z" creationid="olex" creationdate="20180327T183641Z">
-        <seg>По умолчанию LibreOffice Calc использует собственный синтаксис формул, называемый &lt;f0&gt;Calc A1&lt;/f0&gt;, а не синтаксис &lt;f1&gt;Excel A1&lt;/f1&gt;, используемый в Microsoft Excel.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180515T173837Z" creationid="olex" creationdate="20180327T183641Z">
+        <seg>По умолчанию LibreOffice Calc использует собственный синтаксис формул, который называется &lt;f0&gt;Calc A1&lt;/f0&gt;, а не синтаксис &lt;f1&gt;Excel A1&lt;/f1&gt;, который используется в Microsoft Excel.</seg>
       </tuv>
     </tu>
     <tu>
