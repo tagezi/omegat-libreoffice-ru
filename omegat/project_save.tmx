@@ -1300,16 +1300,16 @@
       <tuv lang="EN-US">
         <seg>&lt;s2/&gt;Although the programming languages are the same, the objects and methods are different and therefore not entirely compatible.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T185215Z" creationid="olex" creationdate="20180327T185152Z">
-        <seg>&lt;s2/&gt;Хотя эти языки программирования одинаковы, объекты и методы различны и поэтому не полностью совместимы.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180515T174603Z" creationid="olex" creationdate="20180327T185152Z">
+        <seg>&lt;s2/&gt;Хотя эти языки программирования одинаковы, объекты и методы различны и поэтому они не полностью совместимы.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;s2/&gt;LibreOffice will translate seamlessly between the two.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180515T174001Z" creationid="olex" creationdate="20180327T183842Z">
-        <seg>&lt;s2/&gt;LibreOffice может легко работать с обоими.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180515T174104Z" creationid="olex" creationdate="20180327T183842Z">
+        <seg>&lt;s2/&gt;LibreOffice может легко преобразовывать один в другой.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1332,16 +1332,16 @@
       <tuv lang="EN-US">
         <seg>&lt;s3/&gt;However, if you are familiar with Excel you may wish to change the default syntax in Calc by going to &lt;f4&gt;Tools &gt; Options &gt; Formula &gt; Formula Syntax&lt;/f4&gt; and choosing &lt;f5&gt;Excel R1&lt;/f5&gt; from the drop down menu provided.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180515T173353Z" creationid="olex" creationdate="20180327T184423Z">
-        <seg>&lt;s3/&gt; Однако, если вы хорошо знакомы с Excel, вы можете изменить синтаксис по умолчанию в Calc, перейдя в &lt;f4&gt;Сервис &gt; Параметры &gt; Libreoffice Calc &gt; Формула &gt; Синтаксис формулы&lt;/f4&gt; и выбрав &lt;f5&gt;Excel A1&lt;/f5&gt; или &lt;f5&gt;Excel R1C1&lt;/f5&gt; из выпадающего списка.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180515T174234Z" creationid="olex" creationdate="20180327T184423Z">
+        <seg>&lt;s3/&gt;Однако, если вы хорошо знакомы с Excel, то можете изменить синтаксис формул по умолчанию в Calc, перейдя в меню &lt;f4&gt;Сервис &gt; Параметры &gt; Libreoffice Calc &gt; Формула &gt; Синтаксис формулы&lt;/f4&gt; и выбрав &lt;f5&gt;Excel A1&lt;/f5&gt; или &lt;f5&gt;Excel R1C1&lt;/f5&gt; из выпадающего списка.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;s3/&gt;Wildcards are more widespread in other spreadsheet applications and adopting a similar option in LibreOffice allows for better compatibility and a better experience for users who may not be familiar with the use of regular expressions.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180515T173246Z" creationid="olex" creationdate="20180327T183450Z">
-        <seg>&lt;s3/&gt; Подстановочные знаки более распространены в других приложениях для электронных таблиц, использование аналогичной настройки в LibreOffice предоставляет лучшую совместимость и больше навыков пользователям, которые не знакомы с использованием регулярных выражений.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180515T174402Z" creationid="olex" creationdate="20180327T183450Z">
+        <seg>&lt;s3/&gt; Подстановочные знаки более распространены в других приложениях для электронных таблиц, использование аналогичной настройки в LibreOffice предоставляет лучшую совместимость и больше возможностей пользователям, которые не знакомы с использованием регулярных выражений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6809,8 +6809,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>For more information on formula syntax, see &lt;f0&gt;Chapter 7: Formulas and Functions&lt;/f0&gt; of the LibreOffice Calc guide.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T184726Z" creationid="olex" creationdate="20180327T184726Z">
-        <seg>Дополнительные сведения о синтаксисе формул смотрите в &lt;f0&gt;Глава 7: Формулы и функции&lt;/f0&gt; руководства LibreOffice Calc.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180515T174506Z" creationid="olex" creationdate="20180327T184726Z">
+        <seg>Дополнительные сведения о синтаксисе формул смотрите в &lt;f0&gt;Главе 7: Формулы и функции&lt;/f0&gt; руководства по LibreOffice Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6833,8 +6833,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>For more information on macros, refer to Chapter 12 Calc Macros in the LibreOffice Calc guide.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T185546Z" creationid="olex" creationdate="20180327T185546Z">
-        <seg>Дополнительные сведения о макросах смотрите в Главе 12 Макросы Calc в руководстве к LibreOffice Calc.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180515T174642Z" creationid="olex" creationdate="20180327T185546Z">
+        <seg>Дополнительные сведения о макросах смотрите в Главе 12 Макросы Calc руководства по LibreOffice Calc.</seg>
       </tuv>
     </tu>
     <tu>
