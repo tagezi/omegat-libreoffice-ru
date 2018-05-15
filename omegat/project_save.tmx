@@ -2250,11 +2250,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>denkin: сильно изменил текст предложения, пытаясь передать суть, как я ее понял.</note>
       <tuv lang="EN-US">
         <seg>Alternatively, you can enter data and then use Calc in a “What if...” manner by changing some of the data and observing the results without having to retype the entire spreadsheet or sheet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180327T181721Z" creationid="olex" creationdate="20180327T181721Z">
-        <seg>Кроме того, вы можете вводить данные, а затем использовать Calc в манере «Что если ...», изменяя некоторые данные и наблюдая за результатами, без необходимости перепечатывать всю электронную таблицу или лист.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180515T172327Z" creationid="olex" creationdate="20180327T181721Z">
+        <seg>Кроме того, вы можете ввести данные, а затем, используя логические функции Calc типа «Если, то, иначе ...», изменять данные и наблюдать за результатами, без необходимости перепечатывать всю электронную таблицу или лист.</seg>
       </tuv>
     </tu>
     <tu>
