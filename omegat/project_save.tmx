@@ -481,8 +481,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Format&lt;/f0&gt; – contains commands for modifying the layout of a spreadsheet; for example, &lt;f1&gt;Cells&lt;/f1&gt;, &lt;f2&gt;Page&lt;/f2&gt;, &lt;f3&gt;Styles&lt;/f3&gt;, &lt;f4&gt;Alignment, Merge Cells, Print Range, Conditional Formatting, Spreadsheet Themes, Image, Chart, Object.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180328T182456Z" creationid="olex" creationdate="20180328T182456Z">
-        <seg>&lt;f0&gt;Формат&lt;/f0&gt; - содержит команды для изменения внешнего вида таблицы; например, &lt;f1&gt;Ячейки...&lt;/f1&gt;, &lt;f2&gt;Страница...&lt;/f2&gt;, &lt;f3&gt;Стили автоформата...&lt;/f3&gt;, &lt;f4&gt;Объединить ячейки, Диапазоны печати, Условное форматирование, Выбор тем, Изображение, Диаграмма , Объект.&lt;/f4&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180515T190854Z" creationid="olex" creationdate="20180328T182456Z">
+        <seg>&lt;f0&gt;Формат&lt;/f0&gt; - содержит команды для изменения внешнего вида таблицы; например, &lt;f1&gt;Ячейки...&lt;/f1&gt;, &lt;f2&gt;Страница...&lt;/f2&gt;, &lt;f3&gt;Стили автоформата...&lt;/f3&gt;, &lt;f4&gt;Объединить ячейки, Диапазоны печати, Условное форматирование, Выбор тем, Изображение, Диаграмма, Объект.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1011,8 +1011,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;View&lt;/f0&gt; – contains commands for modifying how the Calc user interface looks; for example, &lt;f1&gt;Toolbars, Grids, Column &amp; Row Headers, Full Screen, Zoom.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180328T180844Z" creationid="olex" creationdate="20180328T180844Z">
-        <seg>&lt;f0&gt;Вид&lt;/f0&gt; - содержит команды для изменения внешнего вида пользовательского интерфейса Calc; например, &lt;f1&gt;Панели инструментов, Сетка и вспомогательные линии, Заголовки столбцв/строк, Во весь экран, Масштаб.&lt;/f1&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180515T190742Z" creationid="olex" creationdate="20180328T180844Z">
+        <seg>&lt;f0&gt;Вид&lt;/f0&gt; - содержит команды для изменения внешнего вида пользовательского интерфейса Calc; например, &lt;f1&gt;Панели инструментов, Сетка и вспомогательные линии, Заголовки столбцов и строк, Во весь экран, Масштаб.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
