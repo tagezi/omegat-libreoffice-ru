@@ -1780,8 +1780,8 @@
       <tuv lang="EN-US">
         <seg>A particular cell is identified by its row number and column letter.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180328T173542Z" creationid="olex" creationdate="20180328T173542Z">
-        <seg>Каждая определенная ячейка обозначается номером строки и буквой столбца.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180515T175106Z" creationid="olex" creationdate="20180328T173542Z">
+        <seg>Каждая определенная ячейка обозначается буквой столбца и номером строки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8796,8 +8796,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>In Calc, each sheet can have a maximum of 1,048,576 rows and a maximum of 1024 columns.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180328T174148Z" creationid="olex" creationdate="20180328T173934Z">
-        <seg>В Calc каждый лист может состоять из не более чем 1 048 576 строк и 1024 столбцов.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180515T175251Z" creationid="olex" creationdate="20180328T173934Z">
+        <seg>В Calc каждый лист может состоять не более чем из 1 048 576 строк и 1024 столбцов.</seg>
       </tuv>
     </tu>
     <tu>
