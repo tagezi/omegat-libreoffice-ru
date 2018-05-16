@@ -513,8 +513,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Function&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;– clicking on the Function icon inserts an equals (=) sign into the selected cell and the &lt;f5&gt;Input line&lt;/f5&gt;, allowing a formula to be entered.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180329T184433Z" creationid="olex" creationdate="20180329T184433Z">
-        <seg>&lt;f0&gt;Функция&lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;- нажатие значка функции вставляет знак равенства (=) в выбранную ячейку и кнопку &lt;f5&gt;Принять&lt;/f5&gt; на панели, позволяющую подтвердить формулу.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180516T190614Z" creationid="olex" creationdate="20180329T184433Z">
+        <seg>&lt;f0&gt;Функция&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt; - нажатие значка функции вставляет знак равенства (=) в выбранную ячейку и кнопку &lt;f5&gt;Принять&lt;/f5&gt; на панели, позволяющую подтвердить формулу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14916,8 +14916,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The Name box now displays the most frequently used functions, for a quick access to the function name and syntax.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180329T184721Z" creationid="olex" creationdate="20180329T184721Z">
-        <seg>В поле имени отображаются наиболее часто используемые функции, для быстрого доступа.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180516T190823Z" creationid="olex" creationdate="20180329T184721Z">
+        <seg>В поле имени, при этом, отображаются наиболее часто используемые функции, для быстрого доступа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15500,8 +15500,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The icons &lt;df8&gt;&lt;di9/&gt;&lt;/df8&gt;&lt;s10/&gt;in the formula bar are equivalent to the &lt;f11&gt;Enter&lt;/f11&gt; and &lt;f12&gt;Esc&lt;/f12&gt; commands.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180516T190237Z" creationid="olex" creationdate="20180329T184021Z">
-        <seg>Значки &lt;df8&gt;&lt;di9/&gt; и &lt;/df8&gt;&lt;s10/&gt; в строке формул эквивалентны командам &lt;f11&gt;Enter&lt;/f11&gt; и &lt;f12&gt; Esc&lt;/f12&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180516T190458Z" creationid="olex" creationdate="20180329T184021Z">
+        <seg>Значки &lt;df8&gt;&lt;di9/&gt;  &lt;/df8&gt;&lt;s10/&gt; в строке формул эквивалентны командам &lt;f11&gt;Enter&lt;/f11&gt; и &lt;f12&gt; Esc&lt;/f12&gt;.</seg>
       </tuv>
     </tu>
     <tu>
