@@ -8155,16 +8155,16 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If Language is set to Default for CSV import, Calc will use the globally set language.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T190818Z" creationid="olex" creationdate="20180330T190818Z">
-        <seg>Если для параметра Язык установлено значение По умолчанию при импорте CSV, то Calc будет использовать языковые настройки, заданные глобально.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T191815Z" creationid="olex" creationdate="20180330T190818Z">
+        <seg>Если для параметра Язык установлено значение По умолчанию, то Calc при импорте CSV будет использовать языковые настройки, заданные в настройках программы.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If Language is set to a specific language, that language will be used when importing numbers.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T190859Z" creationid="olex" creationdate="20180330T190859Z">
-        <seg>Если для в этом поле задан определенный язык, то этот язык будет использоваться при импорте чисел.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T191856Z" creationid="olex" creationdate="20180330T190859Z">
+        <seg>Если в этом поле задан определенный язык, то при импорте чисел будут использоваться настройки для этого языка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15914,8 +15914,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>The rows are visible in the preview window at the bottom of the dialog.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T191234Z" creationid="olex" creationdate="20180330T191234Z">
-        <seg>Строки отображаются в окне предварительного просмотра в нижней части диалогового окна.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T192012Z" creationid="olex" creationdate="20180330T191234Z">
+        <seg>Результат отображаются в окне предварительного просмотра в нижней части диалогового окна.</seg>
       </tuv>
     </tu>
     <tu>
