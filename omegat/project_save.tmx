@@ -843,8 +843,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Styles:&lt;/f0&gt; This deck contains a single panel, which is the same as that opened by selecting the &lt;f1&gt;Styles&lt;/f1&gt; button (&lt;f2&gt;F11&lt;/f2&gt;) from the Text Formatting toolbar.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180430T172753Z" creationid="olex" creationdate="20180330T170947Z">
-        <seg>&lt;f0&gt;Стили:&lt;/f0&gt; Эта вкладка содержит одну панель, это та же панель, что и открытая, по нажатию кнопки &lt;f1&gt;Стили&lt;/f1&gt; (клавиша &lt;f2&gt;F11&lt;/f2&gt;) на панели инструментов Форматирование.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T183149Z" creationid="olex" creationdate="20180330T170947Z">
+        <seg>&lt;f0&gt;Стили:&lt;/f0&gt; Эта вкладка содержит одну панель, это та же панель, что открывается по нажатию кнопки &lt;f1&gt;Стили&lt;/f1&gt; на панели инструментов Форматирование (клавиша &lt;f2&gt;F11&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2664,8 +2664,8 @@
       <tuv lang="EN-US">
         <seg>At the bottom of the grid of cells in a spreadsheet &lt;i0/&gt;are sheet tabs indicating how many sheets there are in the spreadsheet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T182221Z" creationid="olex" creationdate="20180330T182221Z">
-        <seg>Внизу под сеткой ячеек в таблице &lt;i0/&gt;указаны вкладки листов, указывающие сколько листов есть в таблице.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T185000Z" creationid="olex" creationdate="20180330T182221Z">
+        <seg>Внизу под ячейками в таблице &lt;i0/&gt;показаны вкладки, указывающие сколько листов есть в таблице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3338,8 +3338,8 @@
       <tuv lang="EN-US">
         <seg>Choose &lt;f0&gt;File &gt; Open&lt;/f0&gt; on the Menu bar and locate the CSV file that you want to open.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185621Z" creationid="olex" creationdate="20180330T185134Z">
-        <seg>Выберите в меню &lt;f0&gt;Файл &gt; Открыть&lt;/f0&gt; и укажите CSV-файл, который вы хотите открыть.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T190123Z" creationid="olex" creationdate="20180330T185134Z">
+        <seg>Выберите в меню &lt;f0&gt;Файл &gt; Открыть&lt;/f0&gt; и найдите CSV-файл, который вы хотите открыть.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3940,16 +3940,16 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Clicking on a tab enables access to each individual sheet and displays that sheet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T182303Z" creationid="olex" creationdate="20180330T182303Z">
-        <seg>Нажатие на вкладку обеспечивает доступ к каждому отдельному листу и отображает этот лист.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T185233Z" creationid="olex" creationdate="20180330T182303Z">
+        <seg>Нажатие на вкладку обеспечивает доступ к листу и отображает этот лист.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Clicking on any Tab button reopens the deck.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T175429Z" creationid="olex" creationdate="20180330T174821Z">
-        <seg>Нажатие на любую кнопку Боковой панели снова откроет палитру.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T184229Z" creationid="olex" creationdate="20180330T174821Z">
+        <seg>Нажатие на любую кнопку Боковой панели снова откроет вкладку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8812,8 +8812,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>In Calc, you can have more than one sheet in a spreadsheet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T181841Z" creationid="olex" creationdate="20180330T181841Z">
-        <seg>В Calc вы можете содержать более одного листа в электронной таблице.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T184917Z" creationid="olex" creationdate="20180330T181841Z">
+        <seg>В Calc вы можете создавать более одного листа в электронной таблице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11466,8 +11466,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>On Microsoft Windows, CSV files often have the XLS file name extension to look like an Excel file, but they are still CSV files internally.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185553Z" creationid="olex" creationdate="20180330T184936Z">
-        <seg>В Microsoft Windows CSV-файлы часто имеют расширение имени файла XLS, чтобы выглядеть как файл Excel, но при этом они являются CSV-файлами.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T185938Z" creationid="olex" creationdate="20180330T184936Z">
+        <seg>В Microsoft Windows CSV-файлы часто имеют расширение имени файла XLS, чтобы выглядеть как файл Excel, но фактически они являются CSV-файлами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11586,8 +11586,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Only the &lt;f4&gt;Contents&lt;/f4&gt; button is absent in the Sidebar’s Navigator panel.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T174335Z" creationid="olex" creationdate="20180330T174335Z">
-        <seg>Только кнопка &lt;f4&gt;Содержимое&lt;/f4&gt; отсутствует на панели Навигатор боковой панели.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T183553Z" creationid="olex" creationdate="20180330T174335Z">
+        <seg>Только на панели Навигатор боковой панели нет кнопки &lt;f4&gt;Содержимое&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16752,8 +16752,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To add new colors to this color palette, see &lt;f3&gt;Chapter 14 Customizing LibreOffice&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T185830Z" creationid="olex" creationdate="20180330T184048Z">
-        <seg>Чтобы добавить новые цвета в эту цветовую палитру, смотрите &lt;f3&gt;Глава 14 Настройка LibreOffice&lt;/f3&gt;. </seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T185753Z" creationid="olex" creationdate="20180330T184048Z">
+        <seg>Чтобы добавить новые цвета в эту цветовую палитру, смотрите &lt;f3&gt;Главу 14 Настройка LibreOffice&lt;/f3&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -16904,8 +16904,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To change the color of a sheet tab, right-click on the tab and select &lt;f0&gt;Tab Color&lt;/f0&gt; from the context menu to open the &lt;f1&gt;Tab Color&lt;/f1&gt; dialog.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T183426Z" creationid="olex" creationdate="20180330T183426Z">
-        <seg>Чтобы изменить цвет вкладки листа, щелкните правой кнопкой мыши вкладку и выберите в контекстном меню &lt;f0&gt;Цвет ярлычка...&lt;/f0&gt;, откроется диалоговое окно &lt;f1&gt;Цвет ярлыка&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T185745Z" creationid="olex" creationdate="20180330T183426Z">
+        <seg>Чтобы изменить цвет вкладки листа, щелкните правой кнопкой мыши на вкладке и выберите в контекстном меню &lt;f0&gt;Цвет ярлычка...&lt;/f0&gt;, откроется диалоговое окно &lt;f1&gt;Цвет ярлыка&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16920,8 +16920,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To change the default name for a sheet (Sheet1, Sheet2, and so on), right-click on a sheet tab and select &lt;f0&gt;Rename Sheet&lt;/f0&gt; from the context menu or double click on the sheet tab to open a dialog to let you type a new name for the sheet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T182954Z" creationid="olex" creationdate="20180330T182848Z">
-        <seg>Чтобы изменить имя листа (по умолчанию это Лист1, Лист2 и т. д.), щелкните правой кнопкой мыши вкладку листа и выберите в контекстном меню &lt;f0&gt;Переименовать лист&lt;/f0&gt; или дважды щелкните по вкладке листа, чтобы открыть диалоговое окно и ввести новое имя для листа.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T185655Z" creationid="olex" creationdate="20180330T182848Z">
+        <seg>Чтобы изменить имя листа (по умолчанию это Лист1, Лист2 и т. д.), щелкните правой кнопкой мыши на вкладке и выберите в контекстном меню &lt;f0&gt;Переименовать лист&lt;/f0&gt; или дважды щелкните по вкладке, чтобы открыть диалоговое окно и ввести новое имя для листа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17241,8 +17241,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To hide the Sidebar, or reveal it if already hidden, click on the edge Hide/Show button.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T175558Z" creationid="olex" creationdate="20180330T175420Z">
-        <seg>Чтобы скрыть боковую панель или открыть ее, если она скрыта, нажмите на кромке кнопку Скрыть / Показать.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T184411Z" creationid="olex" creationdate="20180330T175420Z">
+        <seg>Чтобы скрыть боковую панель или открыть ее, если она скрыта, нажмите на левой кромке кнопку Скрыть / Показать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17675,8 +17675,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>To the right side of the title bar of each open deck is a &lt;f0&gt;Close&lt;/f0&gt; button (&lt;f1&gt;X&lt;/f1&gt;), which closes the deck to leave only the Tab bar open.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T174724Z" creationid="olex" creationdate="20180330T174724Z">
-        <seg>С правой стороны строки заголовка каждой открытой палитры находится кнопка &lt;f0&gt;Закрыть&lt;/f0&gt; (&lt;f1&gt;X&lt;/f1&gt;), которая закрывает палитру, оставляя открытой только панель вкладок.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T184212Z" creationid="olex" creationdate="20180330T174724Z">
+        <seg>С правой стороны строки заголовка каждой открытой вкладки находится кнопка &lt;f0&gt;Закрыть&lt;/f0&gt; (&lt;f1&gt;X&lt;/f1&gt;), которая закрывает вкладку, оставляя открытой только панель вкладок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19452,8 +19452,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can also select multiple sheets by holding down the &lt;f1&gt;Ctrl&lt;/f1&gt; key while clicking on the sheet tabs.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T182603Z" creationid="olex" creationdate="20180330T182603Z">
-        <seg>Вы также можете выбрать несколько листов, удерживая клавишу &lt;f1&gt;Ctrl&lt;/f1&gt; и одновременно нажимая на вкладки листов.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T185324Z" creationid="olex" creationdate="20180330T182603Z">
+        <seg>Вы также можете выбрать одновременно несколько листов, удерживая клавишу &lt;f1&gt;Ctrl&lt;/f1&gt; и последовательно нажимая на вкладки.</seg>
       </tuv>
     </tu>
     <tu>
