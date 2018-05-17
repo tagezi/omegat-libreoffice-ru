@@ -11390,9 +11390,12 @@ denkin: не понял? чего не видно?</note>
       </tuv>
     </tu>
     <tu>
-      <note>denkin: не смог перевести этот фрагмент</note>
+      <note>denkin: не смог перевести этот фрагмент дословно, перевел по содержанию панели - как смог</note>
       <tuv lang="EN-US">
         <seg>Numerical and label field controls for Forms are also available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T182549Z">
+        <seg>Также доступны дополнительные настройки вида данных в числовом формате.</seg>
       </tuv>
     </tu>
     <tu>
