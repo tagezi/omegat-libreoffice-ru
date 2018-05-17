@@ -273,8 +273,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Alignment&lt;/f0&gt;: Controls to align the text in various ways, including horizontal and vertical alignment, wrapping, indenting, merging, text orientation, and vertical stacking.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T170525Z" creationid="olex" creationdate="20180330T170525Z">
-        <seg>&lt;f0&gt;Выравнивание&lt;/f0&gt;: Элементы управления для выравнивания текста различными способами, включая горизонтальное и вертикальное выравнивание, поворот, перенос, слияние, ориентацию текста и вертикальное расположение.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T182854Z" creationid="olex" creationdate="20180330T170525Z">
+        <seg>&lt;f0&gt;Выравнивание&lt;/f0&gt;: Элементы управления для выравнивания текста различными способами, включая горизонтальное и вертикальное выравнивание, поворот, перенос, слияние, ориентацию текста и его вертикальное расположение.</seg>
       </tuv>
     </tu>
     <tu>
@@ -297,8 +297,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Cell Appearance:&lt;/f0&gt; Controls to set the appearance options, including cell background color, cell border formats including line color and style, and grid lines.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T170716Z" creationid="olex" creationdate="20180330T170716Z">
-        <seg>&lt;f0&gt;Внешний вид ячеек:&lt;/f0&gt; Элементы управления, для установки параметров внешнего вида, включая цвет фона ячейки, форматы границы ячейки, включая цвет и стиль линии, а также линии сетки.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T182923Z" creationid="olex" creationdate="20180330T170716Z">
+        <seg>&lt;f0&gt;Внешний вид ячеек:&lt;/f0&gt; Элементы управления, для установки параметров внешнего вида, включая цвет фона ячейки, формат границ ячейки, включая цвет и стиль линии, а также линий сетки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16250,8 +16250,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>These dialogs lock the document for editing until they are closed.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T170912Z" creationid="olex" creationdate="20180330T170912Z">
-        <seg>Это окно блокирует документ для редактирования до тех пор, пока они не будет закрыто.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180517T183009Z" creationid="olex" creationdate="20180330T170912Z">
+        <seg>Это окно блокирует документ для редактирования до тех пор, пока оно не будет закрыто.</seg>
       </tuv>
     </tu>
     <tu>
