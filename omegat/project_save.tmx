@@ -385,8 +385,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Detect special numbers&lt;/f0&gt; – when this option is enabled, Calc will automatically detect all number formats, including special number formats such as dates, time, and scientific notation.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T193107Z" creationid="olex" creationdate="20180330T193010Z">
-        <seg>&lt;f0&gt;Распознавать особые числа&lt;/f0&gt; - когда включена эта опция, то Calc автоматически определит все форматы чисел, включая специальные форматы чисел, такие как дата, время и научная система счисления.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T180203Z" creationid="olex" creationdate="20180330T193010Z">
+        <seg>&lt;f0&gt;Распознавать особые числа&lt;/f0&gt; - когда включена эта опция, то Calc будет определять автоматически все форматы чисел, включая специальные форматы чисел, такие как дата, время и научная система счисления.</seg>
       </tuv>
     </tu>
     <tu>
@@ -747,8 +747,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Quoted fields as text&lt;/f0&gt; – when this option is enabled, fields or cells whose values are quoted in their entirety (the first and last characters of the value equal the text delimiter) are imported as text.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T193015Z" creationid="olex" creationdate="20180330T192907Z">
-        <seg>&lt;f0&gt;Поля в кавычках как текст&lt;/f0&gt; - когда включена эта опция, то поля или ячейки, данные в которых обозначены строкой (первый и последний символы соответствуют значению в Разделитель строк), импортируются как текст.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T175932Z" creationid="olex" creationdate="20180330T192907Z">
+        <seg>&lt;f0&gt;Поля в кавычках как текст&lt;/f0&gt; - когда включена эта опция, то поля или ячейки, данные в которых обозначены строкой (первый и последний символы соответствуют значению в поле Разделитель строк), импортируются как текст.</seg>
       </tuv>
     </tu>
     <tu>
@@ -867,8 +867,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Text delimiter&lt;/f0&gt; – select a character to delimit text data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T192533Z" creationid="olex" creationdate="20180330T192533Z">
-        <seg>&lt;f0&gt;Разделитель строк&lt;/f0&gt; - выберите символ для разграничения текстовых данных.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T175639Z" creationid="olex" creationdate="20180330T192533Z">
+        <seg>&lt;f0&gt;Разделитель строк&lt;/f0&gt; - выберите символ для выделения текстовых данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8588,8 +8588,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If you select &lt;f1&gt;Other&lt;/f1&gt;, specify the character used to separate data into columns.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T192114Z" creationid="olex" creationdate="20180330T192114Z">
-        <seg>Если выбран &lt;f1&gt;Другой&lt;/f1&gt;, то укажите символ, используемый для разделения данных на столбцы.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T175340Z" creationid="olex" creationdate="20180330T192114Z">
+        <seg>Если вы выбрали &lt;f1&gt;Другой&lt;/f1&gt;, то укажите символ, используемый для разделения данных на столбцы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15935,11 +15935,12 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: может черезчур творчески подошел к построению этой фразы пытаясь уйти от механического перевода.</note>
       <tuv lang="EN-US">
         <seg>The selected language also influences how such special numbers are detected, since different languages and regions many have different conventions for such special numbers.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T193238Z" creationid="olex" creationdate="20180330T193238Z">
-        <seg>Выбранный язык также влияет на то, как такие специальные числа обнаруживаются, поскольку разные языки и регионы имеют разные форматы для таких специальных чисел.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T180515Z" creationid="olex" creationdate="20180330T193238Z">
+        <seg>Выбранный язык также влияет на то, как обнаруживаются такие специальные числа, поскольку в разных регионах и языках такие специальные числа оформляются по разному.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16420,8 +16421,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>This custom separator must also be contained in the data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T192144Z" creationid="olex" creationdate="20180330T192144Z">
-        <seg>Этот пользовательский разделитель должен содержаться в данных.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T175408Z" creationid="olex" creationdate="20180330T192144Z">
+        <seg>Этот пользовательский разделитель должен содержаться в файле.</seg>
       </tuv>
     </tu>
     <tu>
