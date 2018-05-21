@@ -345,8 +345,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Column type&lt;/f0&gt; – select a column in the preview window and select the data type to be applied the imported data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T194022Z" creationid="olex" creationdate="20180330T194022Z">
-        <seg>&lt;f0&gt;Тип столбца&lt;/f0&gt; - выберите столбец в окне предварительного просмотра и определите тип данных для применения к импортированным данным.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T181303Z" creationid="olex" creationdate="20180330T194022Z">
+        <seg>&lt;f0&gt;Тип столбца&lt;/f0&gt; - выберите столбец в окне предварительного просмотра и определите тип данных для применения к импортированным данным этого столбца.</seg>
       </tuv>
     </tu>
     <tu>
@@ -457,8 +457,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Fields&lt;/f0&gt; – shows how the data will look when it is separated into columns.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T193908Z" creationid="olex" creationdate="20180330T193908Z">
-        <seg>&lt;f0&gt;Поля&lt;/f0&gt; - предварительный просмотр того, как будут выглядеть данные, когда они будут разделены на столбцы.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T181244Z" creationid="olex" creationdate="20180330T193908Z">
+        <seg>&lt;f0&gt;Поля&lt;/f0&gt; - показывает, как будут выглядеть данные, когда они будут разделены на столбцы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -811,8 +811,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Standard &lt;/f0&gt;– Calc determines the type of data.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T194053Z" creationid="olex" creationdate="20180330T194053Z">
-        <seg>&lt;f0&gt;Стандарт&lt;/f0&gt; - это то, как Calc определяет тип данных.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T181415Z" creationid="olex" creationdate="20180330T194053Z">
+        <seg>&lt;f0&gt;Стандарт&lt;/f0&gt; - это то, как Calc определяет тип данных по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8572,8 +8572,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If you need to exchange files with users who are unable to receive spreadsheet files in Open Document Format (ODF) (&lt;f0&gt;*.ods&lt;/f0&gt;), which Calc uses as default format, you can save a spreadsheet in another format.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180402T181033Z" creationid="olex" creationdate="20180402T181033Z">
-        <seg>Если вам нужно обмениваться файлами с пользователями, которые не могут получать файлы электронных таблиц в Open Document Format (ODF) (&lt;f0&gt;*.ods&lt;/f0&gt;), который Calc использует как формат по умолчанию, то вы можете сохранить электронную таблицу в другом формате ,</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T182940Z" creationid="olex" creationdate="20180402T181033Z">
+        <seg>Если вам нужно обмениваться файлами с пользователями, которые не могут открывать файлы электронных таблиц в Open Document Format (ODF) (&lt;f0&gt;*.ods&lt;/f0&gt;), который Calc использует как формат по умолчанию, то вы можете сохранить электронную таблицу в другом формате ,</seg>
       </tuv>
     </tu>
     <tu>
@@ -15939,8 +15939,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>The selected language also influences how such special numbers are detected, since different languages and regions many have different conventions for such special numbers.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180521T180515Z" creationid="olex" creationdate="20180330T193238Z">
-        <seg>Выбранный язык также влияет на то, как обнаруживаются такие специальные числа, поскольку в разных регионах и языках такие специальные числа оформляются по разному.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T180621Z" creationid="olex" creationdate="20180330T193238Z">
+        <seg>Выбранный язык влияет на то, как обнаруживаются такие специальные числа, поскольку в разных регионах и языках такие специальные числа оформляются по разному.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16656,8 +16656,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Thousands separators and decimal separators may vary with the selected language and region.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T193708Z" creationid="olex" creationdate="20180330T193708Z">
-        <seg>Разделители тысяч и десятичные разделители могут меняться в зависимости от выбранного языка и региона.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T180843Z" creationid="olex" creationdate="20180330T193708Z">
+        <seg>Разделители тысяч и десятичные разделители могут быть различными в зависимости от выбранного языка и региона.</seg>
       </tuv>
     </tu>
     <tu>
