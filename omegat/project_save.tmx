@@ -779,8 +779,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Separated by&lt;/f0&gt; – select the separator used in the data to delimit the data into columns.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180330T193331Z" creationid="olex" creationdate="20180330T191901Z">
-        <seg>&lt;f0&gt;Разделитель&lt;/f0&gt; - выберите разделитель, используемый в данных, чтобы разделить данные на столбцы.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T175328Z" creationid="olex" creationdate="20180330T191901Z">
+        <seg>&lt;f0&gt;Разделитель&lt;/f0&gt; - выберите разделитель, используемый в CSV-файле, чтобы разделить данные на столбцы.</seg>
       </tuv>
     </tu>
     <tu>
