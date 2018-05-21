@@ -691,8 +691,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Page Down&lt;/f0&gt; moves the cell focus down one complete screen display.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180402T200306Z" creationid="olex" creationdate="20180402T200306Z">
-        <seg>&lt;f0&gt;Page Down&lt;/f0&gt;перемещает фокус ячейки вниз на размер экрана.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T184824Z" creationid="olex" creationdate="20180402T200306Z">
+        <seg>&lt;f0&gt;Page Down&lt;/f0&gt; перемещает фокус ячейки вниз на размер экрана.</seg>
       </tuv>
     </tu>
     <tu>
@@ -963,8 +963,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Using the Navigator&lt;/f0&gt; – when the Navigator is open (Figure &lt;t1&gt;8&lt;/t1&gt;), double-click on any of the listed sheets to select the sheet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T171933Z" creationid="olex" creationdate="20180403T171527Z">
-        <seg>&lt;f0&gt;Используя Навигатор&lt;/f0&gt; - когда открыт Навигатор (Рисунок &lt;t1&gt;8&lt;/t1&gt;), щелкните дважды по любому из перечисленных листов, чтобы выбрать его.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T185155Z" creationid="olex" creationdate="20180403T171527Z">
+        <seg>&lt;f0&gt;Используя Навигатор&lt;/f0&gt; - когда открыт Навигатор (смотрите Рисунок &lt;t1&gt;8&lt;/t1&gt;), щелкните дважды по любому из перечисленных листов, чтобы выбрать его.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5030,8 +5030,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Each sheet in a spreadsheet is independent of the other sheets, though references can be linked from one sheet to another.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T171236Z" creationid="olex" creationdate="20180403T171157Z">
-        <seg>Каждый лист электронной таблицы не зависит от других листов, хотя в одном из листов можно создавать ссылки на другие листы.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T185145Z" creationid="olex" creationdate="20180403T171157Z">
+        <seg>Каждый лист электронной таблицы не зависит от других листов, хотя в каждом из листов можно создавать ссылки на другие листы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8772,8 +8772,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>In &lt;f1&gt;Default file format&lt;/f1&gt; and &lt;f2&gt;ODF settings &gt; Document type&lt;/f2&gt;, select &lt;f3&gt;Spreadsheet,&lt;/f3&gt; then in &lt;f4&gt;Always save as&lt;/f4&gt;, select your preferred file format.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180402T191404Z" creationid="olex" creationdate="20180402T191404Z">
-        <seg>В секции &lt;f1&gt;Формат файла по умолчанию&lt;/f1&gt; и &lt;f2&gt;настройки ODF &gt; Тип документа&lt;/f2&gt; выберите &lt;f3&gt;Электронная таблица&lt;/f3&gt;, а затем в &lt;f4&gt;Всегда сохранять как&lt;/f4&gt;, выберите предпочтительный для вас формат файла.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T183729Z" creationid="olex" creationdate="20180402T191404Z">
+        <seg>В секции &lt;f1&gt;Формат файла по умолчанию и настройки ODF&lt;/f1&gt;&lt;f2&gt; &gt; Тип документа&lt;/f2&gt; выберите &lt;f3&gt;Электронная таблица&lt;/f3&gt;, а затем в поле &lt;f4&gt;Всегда сохранять как&lt;/f4&gt;, выберите предпочтительный для вас формат файла.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17362,8 +17362,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To move the focus to another cell using the mouse, simply move the mouse pointer to the cell where you want the focus to be and click the left mouse button.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180402T193927Z" creationid="olex" creationdate="20180402T193927Z">
-        <seg>Чтобы переместить фокус на другую ячейку с помощью мыши, просто переместите указатель мыши на ячейку, которую хотите выделить, и щелкните левой кнопкой мыши.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T184729Z" creationid="olex" creationdate="20180402T193927Z">
+        <seg>Чтобы переместить фокус на другую ячейку с помощью мыши, просто переместите указатель мыши на эту ячейку, и щелкните левой кнопкой мыши.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18483,8 +18483,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>Using the four buttons to the left of the sheet tabs can move the tabs into view (Figure &lt;t0&gt;9&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T172218Z" creationid="olex" creationdate="20180403T172218Z">
-        <seg>Используя четыре кнопки слева от вкладок листа, вы можете перемещать вкладки (Рисунок &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T185220Z" creationid="olex" creationdate="20180403T172218Z">
+        <seg>Используя четыре кнопки слева от вкладок листа, вы можете перемещать вкладки (смотрите Рисунок &lt;t0&gt;9&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18715,16 +18715,16 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>When a cell is selected or in focus, the cell borders are emphasized.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180402T193535Z" creationid="olex" creationdate="20180402T193500Z">
-        <seg>Если  ячейка выбрана или находится в фокусе, то границы ячейки выделены.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T183942Z" creationid="olex" creationdate="20180402T193500Z">
+        <seg>Если ячейка выбрана (находится в фокусе), то ее границы выделены.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>When a group of cells is selected, the cell area is colored.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180402T193641Z" creationid="olex" creationdate="20180402T193523Z">
-        <seg>Если выбрана группа ячеек, то область ячеек выделяется цветом.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T184218Z" creationid="olex" creationdate="20180402T193523Z">
+        <seg>Если выбрана группа ячеек, то эта группа выделяется цветом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19696,8 +19696,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can generally use the method you prefer.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180402T193254Z" creationid="olex" creationdate="20180402T193254Z">
-        <seg>Вы можете использовать метод, который для вас предпочтительный.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180521T183808Z" creationid="olex" creationdate="20180402T193254Z">
+        <seg>Вы можете использовать любой предпочтительный для вас метод.</seg>
       </tuv>
     </tu>
     <tu>
