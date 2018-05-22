@@ -5439,8 +5439,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Right-click any arrow button</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T173249Z" creationid="olex" creationdate="20180403T173249Z">
-        <seg>Рисунок &lt;seq0&gt;10&lt;/seq0&gt;: Щелчок правой кнопкой мыши на любой кнопке со стрелкой</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180522T183021Z" creationid="olex" creationdate="20180403T173249Z">
+        <seg>Рисунок &lt;seq0&gt;10&lt;/seq0&gt;: Щелчок правой кнопкой мыши на любой активной кнопке со стрелкой</seg>
       </tuv>
     </tu>
     <tu>
@@ -11032,8 +11032,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Moves cell focus to the last column on the left containing data in that row if cell focus is on a blank cell.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T175908Z" creationid="olex" creationdate="20180403T175358Z">
-        <seg>Перемещает фокус на ближайший слева столбец, который содержит данные в текущей строке, была выделена пустая ячейка.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180522T183258Z" creationid="olex" creationdate="20180403T175358Z">
+        <seg>Перемещает фокус на ближайший слева столбец, который содержит данные в текущей строке, если была выделена пустая ячейка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14423,8 +14423,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>Table &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;lists the keys and key combinations you can use for spreadsheet navigation in Calc.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180403T173921Z" creationid="olex" creationdate="20180403T173725Z">
-        <seg>Таблица &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt; перечисляет клавиши и комбинации клавиш, которые вы можете использовать для перемещения по электронным таблицам в Calc.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180522T183117Z" creationid="olex" creationdate="20180403T173725Z">
+        <seg>Таблица &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt; перечисляет клавиши и комбинации клавиш, которые вы можете использовать для перемещения по электронной таблице в Calc.</seg>
       </tuv>
     </tu>
     <tu>
