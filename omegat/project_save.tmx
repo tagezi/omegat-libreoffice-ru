@@ -3746,8 +3746,8 @@
       <tuv lang="EN-US">
         <seg>Click on the &lt;f0&gt;Freeze Rows and Columns&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;in the main toolbar or go to &lt;f3&gt;View&lt;/f3&gt; on the Menu bar and select &lt;f4&gt;Freeze Cells &gt; Freeze Rows and Columns&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180409T164741Z" creationid="olex" creationdate="20180409T164741Z">
-        <seg>Нажмите на значок &lt;f0&gt;Фиксировать строки и столбцы&lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; на панели инструментов Стандартная или выберите в меню &lt;f3&gt;Вид &gt; Фиксировать ячейки &gt; Фиксировать строки и столбцы&lt;/f3&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180523T192236Z" creationid="olex" creationdate="20180409T164741Z">
+        <seg>Нажмите на значок &lt;f0&gt;Фиксировать строки и столбцы&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; на панели инструментов Стандартная или выберите в меню &lt;f3&gt;Вид &gt; Фиксировать ячейки &gt; Фиксировать строки и столбцы&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15487,8 +15487,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The heavier horizontal line between rows 3 and 23 and the heavier vertical line between columns F and Q indicate that rows 1 to 3 and columns A to F are frozen.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180409T164041Z" creationid="olex" creationdate="20180409T164041Z">
-        <seg>Более широкая горизонтальная линия между строками 3 и 23 и более широкая вертикальная линия между столбцами F и Q указывают, что строки с 1 по 3 и столбцы от A до F заморожены.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180523T191924Z" creationid="olex" creationdate="20180409T164041Z">
+        <seg>Более широкая горизонтальная линия между строками 2 и 6 и более широкая вертикальная линия между столбцами D и Q указывают, что строки с 1 по 2 и столбцы от A до D заморожены.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15922,8 +15922,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>The rows between 3 and 23 and the columns between F and Q have been scrolled off the page.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180409T164158Z" creationid="olex" creationdate="20180409T164158Z">
-        <seg>Строки между 3 и 23 и столбцы между F и Q не прокручиваются со страницей.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180523T192123Z" creationid="olex" creationdate="20180409T164158Z">
+        <seg>Строки после 2-й и столбцы после D прокручиваются со страницей.</seg>
       </tuv>
     </tu>
     <tu>
