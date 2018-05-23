@@ -3730,8 +3730,8 @@
       <tuv lang="EN-US">
         <seg>Click on the &lt;f0&gt;Add Sheet&lt;/f0&gt; icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;on the bottom of the screen to insert a new sheet after the last sheet in the spreadsheet without opening the &lt;f5&gt;Insert Sheet&lt;/f5&gt; dialog.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180407T214710Z" creationid="olex" creationdate="20180407T214710Z">
-        <seg>Нажмите на значок &lt;f0&gt;Добавить лист&lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt; в нижней части экрана, чтобы вставить новый лист после последнего листа в электронной таблице без открытия диалогового окна &lt;f5&gt;Вставить лист...&lt;/f5&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180523T183545Z" creationid="olex" creationdate="20180407T214710Z">
+        <seg>Нажмите на значок &lt;f0&gt;Добавить лист&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt; в нижней части экрана, чтобы вставить новый лист после последнего листа в электронной таблице без открытия диалогового окна &lt;f5&gt;Вставить лист...&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17354,8 +17354,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To move or copy a sheet into a different spreadsheet, you have to use the &lt;f1&gt;Move/Copy Sheet&lt;/f1&gt; dialog.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180407T220543Z" creationid="olex" creationdate="20180407T220512Z">
-        <seg>Чтобы переместить или скопировать лист в другую таблицу, вы должны использовать диалог &lt;f1&gt;Переместить/скопировать лист...&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180523T184412Z" creationid="olex" creationdate="20180407T220512Z">
+        <seg>Чтобы переместить или скопировать лист в другой файл таблиц, вы должны использовать диалог &lt;f1&gt;Переместить/скопировать лист...&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
