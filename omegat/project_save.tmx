@@ -13388,8 +13388,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Select the cell containing the contents you want to copy or start the series from.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T141505Z" creationid="olex" creationdate="20180414T140406Z">
-        <seg>Выберите ячейку, содержащую данные, которые вы хотите скопировать или создать ряд.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180524T185350Z" creationid="olex" creationdate="20180414T140406Z">
+        <seg>Выберите ячейку содержащую данные, которые вы хотите скопировать или создать из них ряд.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13556,8 +13556,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Select the options for automatically correcting errors as you type and then click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180412T195547Z" creationid="olex" creationdate="20180412T195547Z">
-        <seg>Выберите параметры автоматической коррекции ошибок при ввода, а затем нажмите &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180524T184713Z" creationid="olex" creationdate="20180412T195547Z">
+        <seg>Выберите параметры автоматической коррекции ошибок при вводе, а затем нажмите &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17700,8 +17700,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>To turn off or on Calc AutoCorrect, go to &lt;f0&gt;Tools &lt;/f0&gt;on the Menu bar and deselect or select &lt;f1&gt;AutoInput&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T134816Z" creationid="olex" creationdate="20180414T134748Z">
-        <seg>Чтобы отключить или включить Автозамену в Calc, выберите в меню &lt;f0&gt;Сервис &gt; Автоввод&lt;/f0&gt;, чтобы установить или снять активацию.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180524T185057Z" creationid="olex" creationdate="20180414T134748Z">
+        <seg>Чтобы отключить или включить Автозамену в Calc, выберите в меню &lt;f0&gt;Сервис &gt; Автоввод&lt;/f0&gt;, чтобы снять или установить активацию.</seg>
       </tuv>
     </tu>
     <tu>
