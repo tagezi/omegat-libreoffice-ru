@@ -2841,8 +2841,8 @@
       <tuv lang="EN-US">
         <seg>Before protecting the sheet, you may wish to select certain cells that will be unprotected that can be changed by any users without the password.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180502T193327Z" creationid="olex" creationdate="20180502T193327Z">
-        <seg>Прежде чем установить защиту на лист, вы можете снять защиту с определенных ячеек, которые могут быть изменены любым пользователем без пароля.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180528T100813Z" creationid="olex" creationdate="20180502T193327Z">
+        <seg>Прежде чем установить защиту на лист, вы можете снять защиту с определенных ячеек, которые впоследствии любой пользователь сможет изменять без пароля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18812,8 +18812,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>When data in cells are hidden, the blank cells remain visible in the spreadsheet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180502T183359Z" creationid="olex" creationdate="20180502T183359Z">
-        <seg>Если данные в ячейках электронной таблицы скрыты, то пустые ячейки остаются видимыми.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180528T095658Z" creationid="olex" creationdate="20180502T183359Z">
+        <seg>Если в ячейках электронной таблицы скрыть данные, то остаются видимыми пустые ячейки.</seg>
       </tuv>
     </tu>
     <tu>
