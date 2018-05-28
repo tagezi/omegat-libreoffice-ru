@@ -6362,8 +6362,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>For example, a cell may require a date or a whole number with no alphabetic characters or decimal points, or a cell may not be left empty.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180416T182521Z" creationid="olex" creationdate="20180416T182521Z">
-        <seg>Например, ячейка должна содержать дату, или целое число без алфавитных символов и десятичных точек, или ячейка может не оставаться пустой.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180528T081830Z" creationid="olex" creationdate="20180416T182521Z">
+        <seg>Например, ячейка должна содержать дату, или целое число без алфавитных символов и десятичных точек, или ячейка не может оставаться пустой.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18491,8 +18491,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>Using the keyboard</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180524T182643Z" creationid="olex" creationdate="20180326T191704Z">
-        <seg>Использование клавиатуры</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180528T082631Z" creationid="olex" creationdate="20180326T191704Z">
+        <seg>Используя клавиатуры</seg>
       </tuv>
     </tu>
     <tu>
@@ -18804,8 +18804,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>When creating spreadsheets for other people to use, validating cell contents ensures that they enter data that is valid and appropriate for the cell.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180416T183059Z" creationid="olex" creationdate="20180416T181208Z">
-        <seg>При создании электронных таблиц для использования другими пользователями, проверка содержимого ячеек гарантирует, что они вводят данные, являющиеся корректными и подходящими для ячейки.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180528T081628Z" creationid="olex" creationdate="20180416T181208Z">
+        <seg>При создании электронных таблиц для использования другими пользователями, проверка содержимого ячеек гарантирует, что вводятся данные, являющиеся корректными и подходящими для ячейки.</seg>
       </tuv>
     </tu>
     <tu>
