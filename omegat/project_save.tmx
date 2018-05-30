@@ -1260,16 +1260,16 @@
       <tuv lang="EN-US">
         <seg>&lt;s0/&gt;You can also choose to complete functions from within the wizard with easy to use steps rather than having to type full formulas into the formula bar.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180506T190337Z" creationid="olex" creationdate="20180506T190005Z">
-        <seg>&lt;s0/&gt;Вы также можете выбирать функции из мастера шаг за шагом, а не вводить сложные формулы прямо в панели формул.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180530T173214Z" creationid="olex" creationdate="20180506T190005Z">
+        <seg>&lt;s0/&gt;Вы также можете выбирать функции из Мастера шаг за шагом, а не вводить сложные формулы прямо в панели формул.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;s0/&gt;You can launch the function wizard by pressing the function wizard icon to the right of the &lt;f1&gt;name box.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180506T185557Z" creationid="olex" creationdate="20180506T185557Z">
-        <seg>&lt;s0/&gt;Вы можете запустить мастер функций, нажав значок Мастер функций справа от поля &lt;f1&gt;Область листа&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180530T172750Z" creationid="olex" creationdate="20180506T185557Z">
+        <seg>&lt;s0/&gt;Вы можете запустить Мастер функций, нажав значок Мастер функций справа от поля &lt;f1&gt;Область листа&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1620,8 +1620,8 @@
       <tuv lang="EN-US">
         <seg>A fast alternative to the function wizard, the Calc Sidebar contains a &lt;f0&gt;functions tab&lt;/f0&gt; which allows you quickly list and narrow down functions and provides brief explanations on their use and syntax, but does not provide the search or data entry functionalities of the full wizard.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180506T191109Z" creationid="olex" creationdate="20180506T190921Z">
-        <seg>Быстрая альтернатива мастеру функций, это боковая панель Calc, которая содержит вкладку &lt;f0&gt;Функций&lt;/f0&gt;, она позволяет быстро пролистать и выбрать функции и дает краткие пояснения по их использованию и синтаксису, но не обеспечивает функциональности мастера по поиску или вводу данных.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180530T173743Z" creationid="olex" creationdate="20180506T190921Z">
+        <seg>Быстрая альтернатива Мастеру функций, это боковая панель Calc, которая содержит вкладку &lt;f0&gt;Функций&lt;/f0&gt;, она позволяет быстро пролистать и выбрать функции и дает краткие пояснения по их использованию и синтаксису, но не обеспечивает функциональности мастера по поиску или вводу данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4990,8 +4990,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Each function, when selected, will display a brief explanation of it’s use and acceptable syntax.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180506T190533Z" creationid="olex" creationdate="20180506T190533Z">
-        <seg>Каждая функция, когда вы ее выбираете, отобразит краткое объяснение по ее использованию и допустимому синтаксису.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180530T172939Z" creationid="olex" creationdate="20180506T190533Z">
+        <seg>Для каждой функции, когда вы ее выбираете, отобразится краткое пояснение по ее использованию и допустимому синтаксису.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9396,8 +9396,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Inside the function wizard, you can search, list and narrow down the many Calc functions available.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180506T190945Z" creationid="olex" creationdate="20180506T185947Z">
-        <seg>В окне мастера функций вы можете искать, пролистать и найти многие доступные функции Calc.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180530T173203Z" creationid="olex" creationdate="20180506T185947Z">
+        <seg>В окне Мастера функций вы можете искать, просматривать и находить многие доступные функции Calc.</seg>
       </tuv>
     </tu>
     <tu>
