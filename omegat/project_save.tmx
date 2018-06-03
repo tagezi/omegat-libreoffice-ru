@@ -5150,8 +5150,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Draw is fully integrated into the LibreOffice suite, and this simplifies exchanging graphics with all components of the suite.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180603T181049Z" creationid="olex" creationdate="20180603T170353Z">
-        <seg>Draw полностью интегрирован в LibreOffice и это упрощает обмен графикой со всеми компонентами офисного пакета.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T184200Z" creationid="olex" creationdate="20180603T170353Z">
+        <seg>Draw полностью интегрирован в пакет LibreOffice и это упрощает обмен графикой со всеми компонентами пакета.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5921,6 +5921,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132531Z" creationid="tagezi" creationdate="20180312T132424Z">
         <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: Диалоговое окно Макросы LibreOffice BASIC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: LibreOffice Draw workspace</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T184139Z" creationid="olex" creationdate="20180603T184139Z">
+        <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: главное окно LibreOffice Draw</seg>
       </tuv>
     </tu>
     <tu>
@@ -8694,6 +8702,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T181348Z" creationid="olex" creationdate="20180603T181348Z">
         <seg>Если панель Страницы не отображается, выберите в меню &lt;f1&gt;Вид &gt; Панель страниц&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Sidebar is not visible, go to &lt;f1&gt;View&lt;/f1&gt; on the Menu bar and select &lt;f2&gt;Sidebar&lt;/f2&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T183933Z" creationid="olex" creationdate="20180603T183933Z">
+        <seg>Если боковая панель не видна, выберите в меню &lt;f1&gt;Вид &gt; Боковая панель&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12089,6 +12105,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only one section at a time can be open.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T183746Z" creationid="olex" creationdate="20180603T183746Z">
+        <seg>Может отображаться одновременно только одна вкладка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only the &lt;f4&gt;Contents&lt;/f4&gt; button is absent in the Sidebar’s Navigator panel.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T183553Z" creationid="olex" creationdate="20180330T174335Z">
@@ -12365,6 +12389,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T174214Z" creationid="olex" creationdate="20180306T174214Z">
         <seg>Открывается контекстное меню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens sub-sections for object properties that you can change to suit your requirements.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T184428Z" creationid="olex" creationdate="20180603T184428Z">
+        <seg>Открывает подразделы для свойств объектов, которые вы можете изменить в соответствии с вашими требованиями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12798,6 +12830,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T212005Z" creationid="olex" creationdate="20180407T212005Z">
         <seg>Повторите действия по вставке столбца или строки по указаниям выше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Properties</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T184230Z" creationid="olex" creationdate="20180603T184230Z">
+        <seg>Свойства</seg>
       </tuv>
     </tu>
     <tu>
@@ -15237,11 +15277,12 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: неточность в оригинале - написано 4 вкладки, на самом деле есть еще вкладка с фигурами</note>
       <tuv lang="EN-US">
         <seg>The &lt;f0&gt;Sidebar&lt;/f0&gt; has four main sections in Draw.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180603T183144Z" creationid="olex" creationdate="20180603T183144Z">
-        <seg>&lt;f0&gt;Боковая панель&lt;/f0&gt; в Draw содержит четыре основных части.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T183510Z" creationid="olex" creationdate="20180603T183144Z">
+        <seg>&lt;f0&gt;Боковая панель&lt;/f0&gt; в Draw содержит 5 вкладок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17851,8 +17892,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To expand a section, click on its icon or click on the small triangle at the top of the icons and select a section from the drop down list.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180603T183315Z" creationid="olex" creationdate="20180603T183315Z">
-        <seg>Чтобы развернуть раздел, щелкните по его значку или щелкните по маленькому треугольнику в верхней части значков и выберите раздел из выпадающего списка.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T183649Z" creationid="olex" creationdate="20180603T183315Z">
+        <seg>Чтобы переключить вкладку, щелкните по ее значку или щелкните по маленькому треугольнику в верхней части значков и выберите вкладку из выпадающего списка.</seg>
       </tuv>
     </tu>
     <tu>
