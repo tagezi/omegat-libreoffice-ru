@@ -5669,6 +5669,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exporting graphics</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T161824Z" creationid="olex" creationdate="20180603T161824Z">
+        <seg>Экспорт графических объектов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exporting to other formats</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181950Z" creationid="tagezi" creationdate="20180304T181950Z">
@@ -6610,8 +6618,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>For a more detailed list, see the application Help.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180603T145819Z" creationid="lera" creationdate="20180303T153202Z">
-        <seg>Для получения более подробного перечня, обратитесь к справке приложения.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T162029Z" creationid="lera" creationdate="20180303T153202Z">
+        <seg>Для получения более подробного списка, обратитесь к справке приложения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9745,10 +9753,26 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inserting and editing pictures</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T161746Z" creationid="olex" creationdate="20180603T161746Z">
+        <seg>Вставка и правка изображений</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inserting columns and rows</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183402Z" creationid="olex" creationdate="20180326T183402Z">
         <seg>Вставка столбцов и строк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserting comments in a drawing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T161926Z" creationid="olex" creationdate="20180603T161926Z">
+        <seg>Добавление комментариев в рисунок</seg>
       </tuv>
     </tu>
     <tu>
@@ -19815,6 +19839,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T073401Z" creationid="tagezi" creationdate="20180319T073401Z">
         <seg>Поработайте медленно и подумайте о шагах, как вы их делаете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working with 3D objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T161804Z" creationid="olex" creationdate="20180603T161804Z">
+        <seg>Работа с 3D объектами</seg>
       </tuv>
     </tu>
     <tu>
