@@ -2082,6 +2082,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjusting object size</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T153151Z" creationid="olex" creationdate="20180603T153151Z">
+        <seg>Настройка размера объекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After defining a print range, select an extra range of cells for adding to the print range.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T194306Z" creationid="olex" creationdate="20180507T194306Z">
@@ -2618,6 +2626,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T193539Z" creationid="olex" creationdate="20180306T193539Z">
         <seg>Применение стилей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arranging objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T153001Z" creationid="olex" creationdate="20180603T153001Z">
+        <seg>Расположение объектов</seg>
       </tuv>
     </tu>
     <tu>
@@ -4802,6 +4818,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Direct selection</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T152806Z" creationid="olex" creationdate="20180603T152806Z">
+        <seg>Непосредственное выделение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directly manipulating LibreOffice internal objects is an advanced topic that is beyond the scope of this chapter.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T185942Z" creationid="tagezi" creationdate="20180320T185942Z">
@@ -5280,6 +5304,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T145257Z" creationid="Роман" creationdate="20180320T145257Z">
         <seg>Редактирование формул</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T153401Z" creationid="olex" creationdate="20180603T153401Z">
+        <seg>Правка объектов</seg>
       </tuv>
     </tu>
     <tu>
@@ -10404,6 +10436,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Line and Filling toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T153528Z" creationid="olex" creationdate="20180603T153528Z">
+        <seg>Панель инструментов Линия и заливка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Linguistic components such as spelling checkers</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T184413Z" creationid="tagezi" creationdate="20180320T184413Z">
@@ -11342,10 +11382,26 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moving and adjusting object size</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T153056Z" creationid="olex" creationdate="20180603T153056Z">
+        <seg>Перемещение и настройка размера объекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moving and copying sheets</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183657Z" creationid="olex" creationdate="20180326T183657Z">
         <seg>Перемещение и копирование листов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moving objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T153112Z" creationid="olex" creationdate="20180603T153112Z">
+        <seg>Перемещение объектов</seg>
       </tuv>
     </tu>
     <tu>
@@ -12953,6 +13009,22 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotating an object</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T153331Z" creationid="olex" creationdate="20180603T153331Z">
+        <seg>Вращение объекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotating and slanting an object</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T153229Z" creationid="olex" creationdate="20180603T153229Z">
+        <seg>Вращение и наклон объекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rulers</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T150250Z" creationid="olex" creationdate="20180603T150250Z">
@@ -14010,10 +14082,26 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selecting hidden objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T152855Z" creationid="olex" creationdate="20180603T152855Z">
+        <seg>Выделение скрытых объектов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selecting items in a spreadsheet</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T181450Z" creationid="olex" creationdate="20180326T181400Z">
         <seg>Выделение элементов в электронной таблице</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selecting objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T152813Z" creationid="olex" creationdate="20180603T152703Z">
+        <seg>Выделение объектов</seg>
       </tuv>
     </tu>
     <tu>
@@ -14030,6 +14118,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T205345Z" creationid="olex" creationdate="20180404T205345Z">
         <seg>Выделение&lt;i0/&gt; столбцов и строк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selection by framing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T152833Z" creationid="olex" creationdate="20180603T152833Z">
+        <seg>Выделение рамкой</seg>
       </tuv>
     </tu>
     <tu>
@@ -14230,6 +14326,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T194659Z" creationid="olex" creationdate="20180418T194659Z">
         <seg>Выделите ячейку одним щелчком мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slanting an object</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T153344Z" creationid="olex" creationdate="20180603T153344Z">
+        <seg>Наклон объекта</seg>
       </tuv>
     </tu>
     <tu>
@@ -14495,6 +14599,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T063037Z" creationid="tagezi" creationdate="20180305T063037Z">
         <seg>Форматы StarWriter (.sdw, .sgl, .vor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stars and banners</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T152644Z" creationid="olex" creationdate="20180603T152644Z">
+        <seg>Звезды</seg>
       </tuv>
     </tu>
     <tu>
