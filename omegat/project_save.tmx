@@ -271,6 +271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 7 Getting Started with Draw&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T145132Z" creationid="olex" creationdate="20180603T145132Z">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Глава 7 Начало работы с Draw&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;About LibreOffice&lt;/f0&gt; Opens a dialog window and displays information about the version of LibreOffice and the operating system you are using.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T113610Z" creationid="tagezi" creationdate="20180307T113407Z">
@@ -1458,6 +1466,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Chapter 7 Getting Started with Draw&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;5&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T145107Z" creationid="olex" creationdate="20180603T145107Z">
+        <seg>&lt;t0&gt;Глава 7 Начало работы с Draw&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;5&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;Chapter 9 Getting Started with Math&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;5&lt;/t3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180314T160606Z" creationid="User" creationdate="20180314T160606Z">
@@ -1982,6 +1998,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132043Z" creationid="tagezi" creationdate="20180312T132043Z">
         <seg>Добавьте новый макрос либо до Sub Main, либо после End Sub.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding a layer</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T150329Z" creationid="olex" creationdate="20180603T150329Z">
+        <seg>Добавление слоя</seg>
       </tuv>
     </tu>
     <tu>
@@ -3320,6 +3344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chapter 7 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T145142Z" creationid="olex" creationdate="20180603T145142Z">
+        <seg>Глава 7 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chapter 7 Getting Started with Draw</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T144712Z" creationid="olex" creationdate="20180603T144712Z">
@@ -3372,6 +3404,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T190123Z" creationid="olex" creationdate="20180330T185134Z">
         <seg>Выберите в меню &lt;f0&gt;Файл &gt; Открыть&lt;/f0&gt; и найдите CSV-файл, который вы хотите открыть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choosing and defining colors</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T150343Z" creationid="olex" creationdate="20180603T150343Z">
+        <seg>Выбор и определение цветов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choosing line endings</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T150641Z" creationid="olex" creationdate="20180603T150641Z">
+        <seg>Выбор окончаний линии</seg>
       </tuv>
     </tu>
     <tu>
@@ -4964,10 +5012,66 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw main window</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T145922Z" creationid="olex" creationdate="20180603T145914Z">
+        <seg>Главное окно Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw/Impress</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T210049Z" creationid="olex" creationdate="20180309T210049Z">
         <seg>Рисунок Draw и перезентация Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drawing a dimension line</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T150655Z" creationid="olex" creationdate="20180603T150655Z">
+        <seg>Рисование размерной линии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drawing a straight line</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T150551Z" creationid="olex" creationdate="20180603T150551Z">
+        <seg>Рисование прямой линии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drawing an arrow</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T150607Z" creationid="olex" creationdate="20180603T150607Z">
+        <seg>Рисование стрелки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drawing basic shapes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T150404Z" creationid="olex" creationdate="20180603T150404Z">
+        <seg>Рисование основных фигур</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drawing circles or ellipses</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T150733Z" creationid="olex" creationdate="20180603T150733Z">
+        <seg>Рисование кругов или эллипсов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drawing rectangles or squares</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T150721Z" creationid="olex" creationdate="20180603T150721Z">
+        <seg>Рисование прямоугольников или квадратов</seg>
       </tuv>
     </tu>
     <tu>
@@ -6330,8 +6434,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>For a more detailed list, see the application Help.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T173710Z" creationid="lera" creationdate="20180303T153202Z">
-        <seg>Для получения более подробного списка, обратитесь к справке приложения.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T145819Z" creationid="lera" creationdate="20180303T153202Z">
+        <seg>Для получения более подробного перечня, обратитесь к справке приложения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7371,6 +7475,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T172047Z" creationid="olex" creationdate="20180326T172047Z">
         <seg>Начало работы с Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Getting Started with Draw</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T145156Z" creationid="olex" creationdate="20180603T145156Z">
+        <seg>Начало работы с Draw</seg>
       </tuv>
     </tu>
     <tu>
@@ -9763,6 +9875,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Layers bar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T150226Z" creationid="olex" creationdate="20180603T150226Z">
+        <seg>Панель слоев</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leading zeroes</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T191813Z" creationid="olex" creationdate="20180326T191813Z">
@@ -11350,6 +11470,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note for macOS users</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T145546Z" creationid="olex" creationdate="20180603T145546Z">
+        <seg>Примечание для пользователей MacOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that every library container has a library named Standard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T132457Z" creationid="tagezi" creationdate="20180313T132457Z">
@@ -11988,6 +12116,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T200230Z" creationid="olex" creationdate="20180316T200230Z">
         <seg>Стили страницы могут быть настроены так, чтобы поля на левой и правой страницах были &lt;f0&gt;зеркальными&lt;/f0&gt; или только со смещением вправо (первые страницы глав часто определяются как "правые") или только влево.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pages pane</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T150027Z" creationid="olex" creationdate="20180603T150021Z">
+        <seg>Панель страниц</seg>
       </tuv>
     </tu>
     <tu>
@@ -12733,6 +12869,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T192617Z" creationid="olex" creationdate="20180403T172357Z">
         <seg>Щелчок правой кнопкой мыши по любой из активных стрелок открывает контекстное меню, в котором вы можете выбрать лист (смотрите Рисунок &lt;t0&gt;10&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rulers</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T150250Z" creationid="olex" creationdate="20180603T150250Z">
+        <seg>Линейки</seg>
       </tuv>
     </tu>
     <tu>
@@ -14063,6 +14207,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T173629Z" creationid="lera" creationdate="20180303T153023Z">
         <seg>Некоторые сочетания клавиш и пункты меню на Mac отличаются от тех, которые используются в Windows и Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some keystrokes and menu items are different on a macOS from those used in Windows and Linux.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T145640Z" creationid="olex" creationdate="20180603T145640Z">
+        <seg>Некоторые сочетания клавиш и пункты меню в macOS отличаются от тех, которые используются в Windows и Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18593,6 +18745,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vector Drawing in LibreOffice</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T145301Z" creationid="olex" creationdate="20180603T145301Z">
+        <seg>Векторный рисунок в LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Version 5.0 was released in July 2015; version 5.1 was releases in February 2016&lt;ts0/&gt; &lt;f1&gt;and vserion 6.0 was release in February 2018&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T170051Z" creationid="lera" creationdate="20180303T170051Z">
@@ -18669,6 +18829,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T173239Z" creationid="olex" creationdate="20180326T173239Z">
         <seg>Что такое Calc?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is Draw?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T145905Z" creationid="olex" creationdate="20180603T145905Z">
+        <seg>Что такое Draw?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19291,10 +19459,26 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Working with layers</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T150315Z" creationid="olex" creationdate="20180603T150315Z">
+        <seg>Работа со слоями</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Working with sheets</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183621Z" creationid="olex" creationdate="20180326T183621Z">
         <seg>Работа с листами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workspace</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T145946Z" creationid="olex" creationdate="20180603T145946Z">
+        <seg>Рабочее пространство</seg>
       </tuv>
     </tu>
     <tu>
