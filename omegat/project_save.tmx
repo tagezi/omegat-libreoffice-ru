@@ -2034,6 +2034,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adding text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T150749Z" creationid="olex" creationdate="20180603T150749Z">
+        <seg>Добавление текста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding to a print range</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T180515Z" creationid="olex" creationdate="20180327T180515Z">
@@ -7515,6 +7523,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T171059Z" creationid="tagezi" creationdate="20180318T160112Z">
         <seg>Присваивает свойству имя «Text» и значение «Ваше имя», которое является вставляемым текстом при запуске макроса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glue points and connectors</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T151426Z" creationid="olex" creationdate="20180603T151426Z">
+        <seg>Точки соединения и соединительные линии</seg>
       </tuv>
     </tu>
     <tu>
