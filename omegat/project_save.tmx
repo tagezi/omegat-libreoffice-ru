@@ -215,6 +215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;6&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Draw main window&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T144815Z" creationid="olex" creationdate="20180603T144815Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;6&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Главное окно Draw&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;s1/&gt;MsgBox &lt;/f0&gt;&lt;f2&gt;"This macro only works with a text document"&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190358Z" creationid="tagezi" creationdate="20180320T190358Z">
@@ -1378,6 +1386,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;32&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Grouping&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T144932Z" creationid="olex" creationdate="20180603T144932Z">
+        <seg>&lt;t0&gt;32&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Группирование&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;52&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 5 Getting started with Calc&lt;/t4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T171637Z" creationid="olex" creationdate="20180326T171637Z">
@@ -1470,6 +1486,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T184244Z" creationid="tagezi" creationdate="20180305T184244Z">
         <seg>&lt;t0&gt;Формулы в Writer&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;27&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Inserting and editing pictures&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;33&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T144741Z" creationid="olex" creationdate="20180603T144741Z">
+        <seg>&lt;t0&gt;Вставка и редактирование изображений&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;33&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3292,6 +3316,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T171342Z" creationid="olex" creationdate="20180326T171342Z">
         <seg>Глава 5 Начало работы с Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chapter 7 Getting Started with Draw</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T144712Z" creationid="olex" creationdate="20180603T144712Z">
+        <seg>Глава 7 Начало работы с Draw</seg>
       </tuv>
     </tu>
     <tu>
