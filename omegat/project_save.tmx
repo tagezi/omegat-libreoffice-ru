@@ -5124,14 +5124,6 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Draw</seg>
-      </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180307T193542Z" creationid="olex" creationdate="20180307T193542Z">
-        <seg>Рисунок Draw</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Draw (vector graphics)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T081606Z" creationid="tagezi" creationdate="20180306T081606Z">
@@ -9252,6 +9244,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180319T201219Z" creationid="olex" creationdate="20180307T210129Z">
         <seg>На Рисунке &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;  в окне показаны &lt;f2&gt;Используемые стили&lt;/f2&gt;, это означает, что в список включены только те стили, которые использованы в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In LibreOffice Draw, the maximum size of a drawing is 300 cm by 300 cm.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T173309Z" creationid="olex" creationdate="20180603T173309Z">
+        <seg>В LibreOffice Draw максимальный размер рисунка составляет 300х300 см.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13394,6 +13394,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the &lt;f0&gt;Draw Guide&lt;/f0&gt; and the Help for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T172212Z" creationid="olex" creationdate="20180603T172212Z">
+        <seg>Смотрите &lt;f0&gt;Руководство по Draw&lt;/f0&gt; и Справку для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the &lt;f0&gt;Writer Guide Chapter 3 Working with Text&lt;/f0&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T090728Z" creationid="tagezi" creationdate="20180313T090728Z">
@@ -16158,6 +16166,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The large area in the center of the window (Workspace) is where you create your drawings and this drawing area can be surrounded with toolbars and information areas.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T172808Z" creationid="olex" creationdate="20180603T172808Z">
+        <seg>Большая площадь в центре окна (рабочее пространство) - это место, где вы создаете свои рисунки и эта область рисования может быть окружена панелями инструментов и информационными панелями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The last argument is the array of property values to be used while executing the command InsertText.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T163602Z" creationid="tagezi" creationdate="20180318T163602Z">
@@ -16237,6 +16253,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T162246Z" creationid="tagezi" creationdate="20180320T162246Z">
         <seg>Затем макрос выполняет определенные ситуационные задачи для документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The main components of &lt;i0/&gt;the&lt;i1/&gt; Draw main window are shown in Figure &lt;t2&gt;1&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T172534Z" creationid="olex" creationdate="20180603T172534Z">
+        <seg>Основные компоненты &lt;i0/&gt;главного окна Draw&lt;i1/&gt; показаны на Рисунке &lt;t2&gt;1&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16381,6 +16405,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T163341Z" creationid="tagezi" creationdate="20180318T163341Z">
         <seg>Следующие два аргумента, имя фрейма и флаги поиска, выходят за рамки этой книги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number and position of the visible tools vary with the task in hand and user preferences, therefore your setup may look different from Figure &lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T173230Z" creationid="olex" creationdate="20180603T173230Z">
+        <seg>Количество и положение видимых инструментов меняется в зависимости от задач и вручную пользовательскими настройками, поэтому ваше окно может отличаться от рисунка &lt;t0&gt;1&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16984,6 +17016,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180516T185915Z" creationid="olex" creationdate="20180329T182249Z">
         <seg>Это окно может быть очень полезно, поскольку оно также показывает, как устроены функции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chapter introduces some features of Draw and does not attempt to cover all of the Draw features.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T172348Z" creationid="olex" creationdate="20180603T172108Z">
+        <seg>В этой главе представлены только некоторые функции Draw без попытки охватить все возможности модуля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21504,6 +21544,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>main window</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T172248Z" creationid="olex" creationdate="20180603T172248Z">
+        <seg>главное окно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>main window, description</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T174224Z" creationid="olex" creationdate="20180328T174224Z">
@@ -22140,6 +22188,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T065538Z" creationid="tagezi" creationdate="20180315T065538Z">
         <seg>просмотр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>workspace</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T172241Z" creationid="olex" creationdate="20180603T172241Z">
+        <seg>рабочее пространство</seg>
       </tuv>
     </tu>
     <tu>
