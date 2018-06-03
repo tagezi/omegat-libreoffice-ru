@@ -641,6 +641,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;LibreOffice Draw&lt;/f0&gt; is &lt;i1/&gt;a vector graphics drawing program, although it can also perform some operations on raster graphics (pixels).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T165744Z" creationid="olex" creationdate="20180603T165707Z">
+        <seg>&lt;f0&gt;LibreOffice Draw&lt;/f0&gt; это &lt;i1/&gt;программа для рисования векторной графики, хотя она также может выполнять некоторые операции с растровой (пиксельной) графикой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;License Information&lt;/f0&gt; outlining the licenses under which LibreOffice is made available.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T113112Z" creationid="tagezi" creationdate="20180307T113112Z">
@@ -5132,6 +5140,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw is fully integrated into the LibreOffice suite, and this simplifies exchanging graphics with all components of the suite.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T170353Z" creationid="olex" creationdate="20180603T170353Z">
+        <seg>Draw полностью интегрирован в набор LibreOffice и это упрощает обмен графикой со всеми компонентами пакета.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw main window</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T145922Z" creationid="olex" creationdate="20180603T145914Z">
@@ -6772,6 +6788,15 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T181657Z" creationid="olex" creationdate="20180508T181657Z">
         <seg>Например, если две верхние строки листа, а также столбец А должны быть напечатаны на всех страницах, выполните следующие действия:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>denkin: позволил себе полносью переделать предложение, чтобы лучше передать смысл</note>
+      <tuv lang="EN-US">
+        <seg>For example, if you create an image in Draw, reusing it in a Writer document is as simple as copying and pasting the image.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T171024Z" creationid="olex" creationdate="20180603T171024Z">
+        <seg>Например, вы можете создать изображение в Draw и затем просто скопировать и вставить его в документ Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18853,6 +18878,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using Draw, you can quickly create a wide variety of graphical images.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T165808Z" creationid="olex" creationdate="20180603T165808Z">
+        <seg>Используя Draw, вы можете быстро создать широкий спектр графических изображений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using Fill Format Mode</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T150247Z" creationid="olex" creationdate="20180308T150052Z">
@@ -19141,6 +19174,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T145301Z" creationid="olex" creationdate="20180603T145301Z">
         <seg>Векторный рисунок в LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vector graphics allow for easier storage and scaling of the image.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T170234Z" creationid="olex" creationdate="20180603T170234Z">
+        <seg>Векторная графика упрощает хранение и масштабирование изображения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vector graphics store and display an image as an assembly of simple geometric elements such as lines, circles, and polygons, rather than a collection &lt;i0/&gt;of pixels (points on the screen).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T165942Z" creationid="olex" creationdate="20180603T165942Z">
+        <seg>Векторная графика хранит и отображает изображение как сборку простых геометрических элементов, таких как линии, круги и многоугольники, а не как набор &lt;i0/&gt;пикселей (точек на экране).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21587,6 +21636,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T180738Z" creationid="olex" creationdate="20180508T180738Z">
         <seg>порядок страниц, детали, масштаб, в Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pixels</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T165821Z" creationid="olex" creationdate="20180603T165821Z">
+        <seg>пиксели</seg>
       </tuv>
     </tu>
     <tu>
