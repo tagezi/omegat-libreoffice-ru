@@ -2638,6 +2638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arrows, arrowheads, and line endings</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T154232Z" creationid="olex" creationdate="20180603T154232Z">
+        <seg>Стрелки, указатели и окончания линий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a short cut, the single quote character (') can also be used to start a comment.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T091006Z" creationid="tagezi" creationdate="20180315T091006Z">
@@ -7191,6 +7199,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Formatting area fill</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T154353Z" creationid="olex" creationdate="20180603T154353Z">
+        <seg>Форматирование заливки фигуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Formatting cell background</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T172332Z" creationid="olex" creationdate="20180327T174700Z">
@@ -7243,6 +7259,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T184413Z" creationid="olex" creationdate="20180411T184413Z">
         <seg>Форматирование к ячейке применяется немедленно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formatting lines and borders</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T153944Z" creationid="olex" creationdate="20180603T153944Z">
+        <seg>Форматирование линий и границ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12360,6 +12384,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Positioning objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T154449Z" creationid="olex" creationdate="20180603T154449Z">
+        <seg>Расположение объектов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preface</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T085950Z" creationid="tagezi" creationdate="20180305T085950Z">
@@ -14290,6 +14322,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sidebar Properties</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T153738Z" creationid="olex" creationdate="20180603T153738Z">
+        <seg>Боковая панель Свойства</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simple wildcards such as the &lt;f0&gt;asterisk (*)&lt;/f0&gt;, &lt;f1&gt;question mark (?)&lt;/f1&gt;, and &lt;f2&gt;tilde (~)&lt;/f2&gt; from other spreadsheet applications are recognized by LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180515T172808Z" creationid="olex" creationdate="20180327T183203Z">
@@ -14334,6 +14374,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T153344Z" creationid="olex" creationdate="20180603T153344Z">
         <seg>Наклон объекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Snap function</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T154523Z" creationid="olex" creationdate="20180603T154523Z">
+        <seg>Функция привязки</seg>
       </tuv>
     </tu>
     <tu>
@@ -14905,6 +14953,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T065405Z" creationid="tagezi" creationdate="20180305T065102Z">
         <seg>Текст с выбором кодировки (.txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T153720Z" creationid="olex" creationdate="20180603T153720Z">
+        <seg>Панель инструментов Форматирование текста</seg>
       </tuv>
     </tu>
     <tu>
@@ -18787,6 +18843,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T173524Z" creationid="olex" creationdate="20180327T173524Z">
         <seg>Использование списков выбора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T154410Z" creationid="olex" creationdate="20180603T154410Z">
+        <seg>Использование стилей</seg>
       </tuv>
     </tu>
     <tu>
