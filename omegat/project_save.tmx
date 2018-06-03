@@ -2622,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applying special effects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T154836Z" creationid="olex" creationdate="20180603T154836Z">
+        <seg>Применение специальных эффектов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applying styles</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T193539Z" creationid="olex" creationdate="20180306T193539Z">
@@ -4874,6 +4882,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distorting an object</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T155428Z" creationid="olex" creationdate="20180603T155428Z">
+        <seg>Искажение объекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dividing a document into chapters</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T192600Z" creationid="olex" creationdate="20180306T195708Z">
@@ -5176,6 +5192,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T182652Z" creationid="olex" creationdate="20180327T182652Z">
         <seg>Динамические диаграммы; широкий диапазон 2D и 3D-диаграмм.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dynamic transparency gradients</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T155626Z" creationid="olex" creationdate="20180603T155626Z">
+        <seg>Динамический прозрачный градиент</seg>
       </tuv>
     </tu>
     <tu>
@@ -6436,6 +6460,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190819Z" creationid="tagezi" creationdate="20180320T190819Z">
         <seg>Поиск дополнительной информации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flipping objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T155022Z" creationid="olex" creationdate="20180603T155022Z">
+        <seg>Отражение объектов</seg>
       </tuv>
     </tu>
     <tu>
@@ -8085,6 +8117,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T185342Z" creationid="olex" creationdate="20180508T185342Z">
         <seg>Верхние и нижние колонтитулы устанавливаются и определяются одним и тем же способом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Help lines</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T154638Z" creationid="olex" creationdate="20180603T154638Z">
+        <seg>Вспомогательные линии</seg>
       </tuv>
     </tu>
     <tu>
@@ -11024,6 +11064,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T191744Z" creationid="olex" creationdate="20180326T191744Z">
         <seg>Отрицательные числа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mirror copies</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T155334Z" creationid="olex" creationdate="20180603T155334Z">
+        <seg>Зеркальные копии</seg>
       </tuv>
     </tu>
     <tu>
@@ -14380,8 +14428,16 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Snap function</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180603T154523Z" creationid="olex" creationdate="20180603T154523Z">
-        <seg>Функция привязки</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T154538Z" creationid="olex" creationdate="20180603T154523Z">
+        <seg>Работа привязки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Snap to grid</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T154601Z" creationid="olex" creationdate="20180603T154601Z">
+        <seg>Привязка к сетке</seg>
       </tuv>
     </tu>
     <tu>
