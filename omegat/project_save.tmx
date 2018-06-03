@@ -1674,6 +1674,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A few examples of the drawing functions are: layer management, magnetic grid-point system, dimensions and measurement display, connectors for making organization charts, 3D functions that enable small three-dimensional drawings to be created (with texture and lighting effects), drawing and page-style integration, and Bézier curves.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T171944Z" creationid="olex" creationdate="20180603T171944Z">
+        <seg>Несколько примеров функций рисования: управление слоями, система привязки к сетке, размеры и показ измерений, соединители для создания организационных диаграмм, функции трехмерного рисования, которые позволяют создавать небольшие трехмерные рисунки (с текстурой и световыми эффектами), рисование и интеграция в стиль страницы, а также кривые Безье.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A function is a predefined calculation entered in a cell to help you analyze or manipulate data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T184947Z" creationid="olex" creationdate="20180506T184918Z">
@@ -16070,6 +16078,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The functionality of LibreOffice Draw is extensive and, even though it was not designed to rival high-end graphics applications, it possesses more functionality than the drawing tools that are generally integrated with most office productivity suites.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T171658Z" creationid="olex" creationdate="20180603T171658Z">
+        <seg>Функциональность LibreOffice Draw обширна и, хотя он не был разработан для конкуренции с графическими приложениями высокого уровня, но он обладает большей функциональностью, чем инструменты рисования, которые обычно интегрированы в большинством офисных программ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The generated macro code in Listing &lt;t0&gt;4&lt;/t0&gt; has been modified to contain the step number in the comments to match the code to the step above.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T073933Z" creationid="tagezi" creationdate="20180319T073933Z">
@@ -20169,6 +20185,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T173051Z" creationid="olex" creationdate="20180430T173051Z">
         <seg>Вы также можете использовать вкладку &lt;f3&gt;Фон&lt;/f3&gt; диалогового окна Формат ячеек (Рисунок &lt;t4&gt;19&lt;/t4&gt;&lt;s5/&gt; на странице &lt;t6&gt;29&lt;/t6&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also work with drawings directly from within Writer or Impress, using a subset of the functions and tools from &lt;f0&gt;Draw&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T171223Z" creationid="olex" creationdate="20180603T171223Z">
+        <seg>Вы можете также работать с рисунками непосредственно в Writer или Impress, используя множество функций и инструментов &lt;f0&gt;Draw&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
