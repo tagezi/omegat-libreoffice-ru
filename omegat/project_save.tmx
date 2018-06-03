@@ -1698,6 +1698,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A layer is a workspace where you insert your drawings elements and objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T181646Z" creationid="olex" creationdate="20180603T181646Z">
+        <seg>Слой - это рабочее пространство, в которое вы вставляете элементы и объекты рисунков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A library is usually used as a major grouping for either an entire category of macros, or for an entire application.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T085656Z" creationid="tagezi" creationdate="20180320T085656Z">
@@ -7172,6 +7180,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T180143Z" creationid="olex" creationdate="20180506T175725Z">
         <seg>Дополнительные сведения о сортировке записей и доступных параметрах сортировки смотрите в &lt;f0&gt;Руководство по Calc Глава 2 Ввод, редактирование и форматирование данных&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on layers see “&lt;bf0&gt;Working with layers&lt;/bf0&gt;“ on page &lt;bf1&gt;9&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T182159Z" creationid="olex" creationdate="20180603T182159Z">
+        <seg>Для получения дополнительной информации о слоях смотрите «&lt;bf0&gt;Работа со слоями&lt;/bf0&gt;» на странице &lt;bf1&gt;9&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15222,6 +15238,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Sidebar&lt;/f0&gt; has four main sections in Draw.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T183144Z" creationid="olex" creationdate="20180603T183144Z">
+        <seg>&lt;f0&gt;Боковая панель&lt;/f0&gt; в Draw содержит четыре основных части.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;f0&gt;Text Import&lt;/f0&gt; dialog (Figure &lt;t1&gt;4&lt;/t1&gt;) opens.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T190012Z" creationid="olex" creationdate="20180330T185726Z">
@@ -16210,6 +16234,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T163637Z" creationid="tagezi" creationdate="20180318T163637Z">
         <seg>Последняя строка кода завершает подпрограмму.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The layers bar is located on the bottom of the workplace and contains the guides for layer selection and layer command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T182107Z" creationid="olex" creationdate="20180603T182107Z">
+        <seg>Строка слоев расположена в нижней части рабочего пространства и содержит инструменты для выбора и управления слоями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17981,6 +18013,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T110502Z" creationid="tagezi" creationdate="20180320T110502Z">
         <seg>Чтобы загрузить библиотеку и модули, которые она содержит, дважды щелкните правой кнопкой мыши по библиотеке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To make changes to the page order, drag and drop one or more pages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T181552Z" creationid="olex" creationdate="20180603T181552Z">
+        <seg>Чтобы изменить порядок страниц, просто перетащите одну или несколько страниц.</seg>
       </tuv>
     </tu>
     <tu>
