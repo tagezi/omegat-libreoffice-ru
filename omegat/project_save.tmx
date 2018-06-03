@@ -5142,8 +5142,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Draw is fully integrated into the LibreOffice suite, and this simplifies exchanging graphics with all components of the suite.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180603T170353Z" creationid="olex" creationdate="20180603T170353Z">
-        <seg>Draw полностью интегрирован в набор LibreOffice и это упрощает обмен графикой со всеми компонентами пакета.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T181049Z" creationid="olex" creationdate="20180603T170353Z">
+        <seg>Draw полностью интегрирован в LibreOffice и это упрощает обмен графикой со всеми компонентами офисного пакета.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8670,6 +8670,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T180314Z" creationid="olex" creationdate="20180329T180314Z">
         <seg>Если панель формул не видна, выберите в меню &lt;f2&gt;Вид &gt; Панель формул&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Pages pane is not visible, go to &lt;f1&gt;View&lt;/f1&gt; on the Menu bar and select &lt;f2&gt;Page Pane&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T181348Z" creationid="olex" creationdate="20180603T181348Z">
+        <seg>Если панель Страницы не отображается, выберите в меню &lt;f1&gt;Вид &gt; Панель страниц&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15200,8 +15208,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The &lt;f0&gt;Pages&lt;/f0&gt; pane gives an overview of the pages that you create in your drawing.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180603T181014Z" creationid="olex" creationdate="20180603T181014Z">
-        <seg>На панели &lt;f0&gt;Страницы&lt;/f0&gt; представлен обзор страниц, созданных на чертеже.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T181142Z" creationid="olex" creationdate="20180603T181014Z">
+        <seg>На панели &lt;f0&gt;Страницы&lt;/f0&gt; представлен обзор страниц, созданных в вашем рисунке.</seg>
       </tuv>
     </tu>
     <tu>
