@@ -4426,6 +4426,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cross-fading</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T160948Z" creationid="olex" creationdate="20180603T160948Z">
+        <seg>Морфинг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CurrentController is a property referring to a service that controls the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T131801Z" creationid="tagezi" creationdate="20180316T131801Z">
@@ -5188,6 +5196,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Duplication</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T160402Z" creationid="olex" creationdate="20180603T155657Z">
+        <seg>Размножение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dynamic charts; a wide range of 2D and 3D charts.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T182652Z" creationid="olex" creationdate="20180327T182652Z">
@@ -5198,8 +5214,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Dynamic transparency gradients</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180603T155626Z" creationid="olex" creationdate="20180603T155626Z">
-        <seg>Динамический прозрачный градиент</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T155714Z" creationid="olex" creationdate="20180603T155626Z">
+        <seg>Динамическая градиентная прозрачность</seg>
       </tuv>
     </tu>
     <tu>
