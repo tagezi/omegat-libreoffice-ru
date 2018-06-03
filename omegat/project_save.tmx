@@ -2879,6 +2879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Basic shapes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T152001Z" creationid="olex" creationdate="20180603T152001Z">
+        <seg>Основные фигуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be careful not to accidentally right-click and undo actions you want to keep.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T165109Z" creationid="olex" creationdate="20180308T165109Z">
@@ -2931,6 +2939,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T211517Z" creationid="tagezi" creationdate="20180307T173529Z">
         <seg>Берлин, 8 марта 2018 - The Document Foundation представит Сертификацию LibreOffice для членов Free Software Foundation и сторонников бесплатного программного обеспечения, посещающих LibrePlanet в Бостоне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block arrows</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T152203Z" creationid="olex" creationdate="20180603T152203Z">
+        <seg>Стрелки</seg>
       </tuv>
     </tu>
     <tu>
@@ -3164,6 +3180,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T173028Z" creationid="olex" creationdate="20180328T173028Z">
         <seg>Calc работает с документами, которые называются &lt;i0/&gt;&lt;f1&gt;электронные таблицы&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Callouts</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T152513Z" creationid="olex" creationdate="20180603T152513Z">
+        <seg>Выноски</seg>
       </tuv>
     </tu>
     <tu>
@@ -4130,6 +4154,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connectors</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T151912Z" creationid="olex" creationdate="20180603T151912Z">
+        <seg>Соединительные линии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T155626Z" creationid="lera" creationdate="20180303T155626Z">
@@ -5072,6 +5104,22 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T150733Z" creationid="olex" creationdate="20180603T150733Z">
         <seg>Рисование кругов или эллипсов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drawing curves or polygons</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T151849Z" creationid="olex" creationdate="20180603T151849Z">
+        <seg>Hисования кривых или многоугольников</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drawing geometric shapes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T151932Z" creationid="olex" creationdate="20180603T151932Z">
+        <seg>Рисование геометрических фигур</seg>
       </tuv>
     </tu>
     <tu>
@@ -6352,6 +6400,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flowcharts</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T152337Z" creationid="olex" creationdate="20180603T152337Z">
+        <seg>Блок-схемы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Follow the instructions on the pages of the wizard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T184803Z" creationid="olex" creationdate="20180311T184803Z">
@@ -7523,6 +7579,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T171059Z" creationid="tagezi" creationdate="20180318T160112Z">
         <seg>Присваивает свойству имя «Text» и значение «Ваше имя», которое является вставляемым текстом при запуске макроса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glue points</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T151858Z" creationid="olex" creationdate="20180603T151858Z">
+        <seg>Точки соединения</seg>
       </tuv>
     </tu>
     <tu>
@@ -14513,6 +14577,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T201110Z" creationid="olex" creationdate="20180306T201110Z">
         <seg>Стили помогают улучшить согласованность оформления документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symbol shapes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T152218Z" creationid="olex" creationdate="20180603T152131Z">
+        <seg>Символы</seg>
       </tuv>
     </tu>
     <tu>
