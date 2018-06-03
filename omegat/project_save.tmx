@@ -11583,6 +11583,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multi-page drawings are used mainly for presentations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T173402Z" creationid="olex" creationdate="20180603T173402Z">
+        <seg>Многостраничные рисунки используются в основном для презентаций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multiple columns or rows</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T182530Z" creationid="olex" creationdate="20180326T182530Z">
@@ -15186,6 +15194,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T190327Z" creationid="olex" creationdate="20180424T190327Z">
         <seg>Параметр &lt;f0&gt;Язык&lt;/f0&gt; управляет локальными настройками для разных форматов, таких как формат даты и символ валюты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Pages&lt;/f0&gt; pane gives an overview of the pages that you create in your drawing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T181014Z" creationid="olex" creationdate="20180603T181014Z">
+        <seg>На панели &lt;f0&gt;Страницы&lt;/f0&gt; представлен обзор страниц, созданных на чертеже.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20572,6 +20588,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T203319Z" creationid="olex" creationdate="20180316T203319Z">
         <seg>Вы можете настроить один стиль абзаца так, чтобы при нажатии &lt;f0&gt;Enter&lt;/f0&gt; в конце этого абзаца в следующем абзаце автоматически применялся стиль, который вы хотите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can split drawings in Draw over several pages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180603T173338Z" creationid="olex" creationdate="20180603T173338Z">
+        <seg>Вы можете разделять рисунки в Draw на несколько страниц.</seg>
       </tuv>
     </tu>
     <tu>
