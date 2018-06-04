@@ -8836,8 +8836,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If they are not visible, you can enable them by selecting &lt;f1&gt;View &gt; Ruler&lt;/f1&gt; in the Menu bar.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180604T191542Z" creationid="olex" creationdate="20180604T191542Z">
-        <seg>Если они не видны, вы можете включить их, выбрав &lt;f1&gt;Вид &gt; Линейка&lt;/f1&gt; в строке меню.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T191835Z" creationid="olex" creationdate="20180604T191542Z">
+        <seg>Если они не видны, то вы можете включить их, выбрав &lt;f1&gt;Вид &gt; Линейка&lt;/f1&gt; в строке меню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16764,8 +16764,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>The rulers &lt;t2/&gt;show the size of a selected object on the page using double lines (highlighted in Figure &lt;t3&gt;2&lt;/t3&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180604T191632Z" creationid="olex" creationdate="20180604T191632Z">
-        <seg>Линейки &lt;t2/&gt;показывают размер выбранного объекта на странице, используя двойные линии (выделено на рисунке &lt;t3&gt;2&lt;/t3&gt;).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T191730Z" creationid="olex" creationdate="20180604T191632Z">
+        <seg>Линейки &lt;t2/&gt;показывают размер выбранного объекта на странице, используя двойные линии (выделено на Рисунке &lt;t3&gt;2&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19756,6 +19756,15 @@ denkin: исправил на "включает"</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: похоже ошибка в описании, по крайней мере у меня в ЛО 6.0 на линейках положение курсора мыши не отображается</note>
+      <tuv lang="EN-US">
+        <seg>When no object is selected, they show the location of the mouse pointer, which helps to position drawing objects more accurately.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T192042Z" creationid="olex" creationdate="20180604T192042Z">
+        <seg>Когда не выбрано ни одного объекта, они показывают местоположение указателя мыши, что помогает более точно позиционировать объекты чертежа.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>When opening .htm or .html files (used for web pages), LibreOffice customizes Writer for working with these files.</seg>
       </tuv>
@@ -20463,6 +20472,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also use the rulers to manage object handles and guide lines, making it easier to position objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T192417Z" creationid="olex" creationdate="20180604T192417Z">
+        <seg>Вы также можете использовать линейки для управления ручками объектов и направляющими линиями, это упрощает размещение объектов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also work with drawings directly from within Writer or Impress, using a subset of the functions and tools from &lt;f0&gt;Draw&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T171223Z" creationid="olex" creationdate="20180603T171223Z">
@@ -21116,8 +21133,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You should &lt;i0/&gt;see rulers (bars with numbers) on the upper and left-hand sides of the workspace.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180604T191512Z" creationid="olex" creationdate="20180604T191512Z">
-        <seg>Вы должны &lt;i0/&gt; видеть линейки (панели с числами) на верхней и левой сторонах рабочей области.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T191829Z" creationid="olex" creationdate="20180604T191512Z">
+        <seg>На верхней и левой сторонах рабочей области вы должны &lt;i0/&gt;видеть линейки (панели с числами).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21950,6 +21967,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T193508Z" creationid="olex" creationdate="20180315T190957Z">
         <seg>макета страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>page margins</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T192705Z" creationid="olex" creationdate="20180604T192705Z">
+        <seg> поля страницы</seg>
       </tuv>
     </tu>
     <tu>
