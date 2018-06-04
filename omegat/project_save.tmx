@@ -8250,6 +8250,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here you can edit and apply image styles to objects within your drawing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T190605Z" creationid="olex" creationdate="20180604T190605Z">
+        <seg>Здесь вы можете редактировать и применять стили изображений к объектам в рисунке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here you can select the character set, field delimiter, text delimiter, and so on to be used for the CSV file.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T190607Z" creationid="olex" creationdate="20180402T190607Z">
@@ -14939,6 +14947,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Styles and Formatting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T190436Z" creationid="olex" creationdate="20180604T190436Z">
+        <seg>Стили</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: http://forumooo.ru/index.php/topic,7016.msg45794.html#msg45794
 denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
@@ -19761,6 +19777,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T153622Z" creationid="tagezi" creationdate="20180310T153622Z">
         <seg>Когда вы закрываете диалоговое окно после использования (обычно, нажатие &lt;f0&gt;ОК&lt;/f0&gt; или другой кнопки сохраняет ваши изменения и закрывает диалоговое окно), возможно снова работать с документом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you edit a style, the changes are automatically applied to all of the elements formatted with this image style in your drawing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T190645Z" creationid="olex" creationdate="20180604T190645Z">
+        <seg>Когда вы редактируете стиль, изменения автоматически применяются ко всем элементам, отформатированным в этом стиле изображения в вашем рисунке.</seg>
       </tuv>
     </tu>
     <tu>
