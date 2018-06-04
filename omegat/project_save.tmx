@@ -1626,6 +1626,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A copy of an object is independent of the original object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T190913Z" creationid="olex" creationdate="20180604T190913Z">
+        <seg>Копия объекта не имеет связи с исходным объектом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A decimal number string can have digits 0-9, thousands separators, and a decimal separator.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T193621Z" creationid="olex" creationdate="20180330T193621Z">
@@ -1710,6 +1718,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T085656Z" creationid="tagezi" creationdate="20180320T085656Z">
         <seg>Библиотека обычно используется как основная структура или для всей категории макросов, или для всего приложения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A link remains dependent on the original object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T191013Z" creationid="olex" creationdate="20180604T191013Z">
+        <seg>Ссылка на рисунок сохраняет зависимость от исходного объекта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3340,6 +3356,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180320T192854Z" creationid="olex" creationdate="20180308T174607Z">
         <seg>Изменить стиль с помощью диалогового окна Стили</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changes to the original object are also reflected in the link.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T191055Z" creationid="olex" creationdate="20180604T191055Z">
+        <seg>Изменения исходного объекта отображаются в ссылке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changes to the original object have no effect on the copy.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T190930Z" creationid="olex" creationdate="20180604T190930Z">
+        <seg>Изменения в исходном объекте не влияют на копию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7704,6 +7736,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gallery</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T190650Z" creationid="olex" creationdate="20180604T190650Z">
+        <seg>Галерея</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generation of Random Numbers in Calc Tony Richardson richardson.tony@gmail.com University of Evansville December 9, 2013 The LibreOffice/OpenOffice spreadsheet application Calc has a fairly extensive set of statistics  functions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180404T212959Z" creationid="tagezi" creationdate="20180404T212959Z">
@@ -8790,6 +8830,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T183016Z" creationid="olex" creationdate="20180329T183016Z">
         <seg>Если выше выбранной ячейки нет чисел, то складываться будут числа из ячеек левее выбранной.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If they are not visible, you can enable them by selecting &lt;f1&gt;View &gt; Ruler&lt;/f1&gt; in the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T191542Z" creationid="olex" creationdate="20180604T191542Z">
+        <seg>Если они не видны, вы можете включить их, выбрав &lt;f1&gt;Вид &gt; Линейка&lt;/f1&gt; в строке меню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10047,6 +10095,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T214023Z" creationid="lera" creationdate="20180303T213942Z">
         <seg>Он является общедоступным, не требующий лицензионных отчислений и без юридических или иных ограничений; поэтому файлы ODF не привязаны к конкретному офисному пакету, и любой может создать программу, которая интерпретирует эти файлы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is recommended to give pages and objects in your drawing meaningful names so that you can easily identify them when using the Navigator.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T191411Z" creationid="olex" creationdate="20180604T191411Z">
+        <seg>Рекомендуется указывать страницы и тип объекта в именах элементов рисунка, чтобы вы могли легко идентифицировать их при использовании навигатора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11751,6 +11807,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Navigator</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T191100Z" creationid="olex" creationdate="20180604T191100Z">
+        <seg>Навигатор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New code is available under LGPL 3.0 and MPL 2.0.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T155559Z" creationid="tagezi" creationdate="20180310T155559Z">
@@ -12405,6 +12469,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T184428Z" creationid="olex" creationdate="20180603T184428Z">
         <seg>Открывает подразделы для свойств объектов, которые вы можете изменить в соответствии с вашими требованиями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens the Drawing gallery where you can insert an object into your drawing either as a copy or as a link.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T190812Z" creationid="olex" creationdate="20180604T190812Z">
+        <seg>Открывает галерею рисунков, откуда вы можете вставить объект в свой рисунок либо в виде копии, либо в виде ссылки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens the Drawing navigator, in which you can quickly move between pages in your drawing or select an object on the drawing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T191208Z" creationid="olex" creationdate="20180604T191208Z">
+        <seg>Открывает навигатор рисунка, в котором вы можете быстро перемещаться между страницами в файле или выбирать объект на рисунке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16678,6 +16758,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180523T192123Z" creationid="olex" creationdate="20180409T164158Z">
         <seg>Строки после 2-й и столбцы после D прокручиваются со страницей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rulers &lt;t2/&gt;show the size of a selected object on the page using double lines (highlighted in Figure &lt;t3&gt;2&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T191632Z" creationid="olex" creationdate="20180604T191632Z">
+        <seg>Линейки &lt;t2/&gt;показывают размер выбранного объекта на странице, используя двойные линии (выделено на рисунке &lt;t3&gt;2&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21026,6 +21114,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You should &lt;i0/&gt;see rulers (bars with numbers) on the upper and left-hand sides of the workspace.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T191512Z" creationid="olex" creationdate="20180604T191512Z">
+        <seg>Вы должны &lt;i0/&gt; видеть линейки (панели с числами) на верхней и левой сторонах рабочей области.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You should be able to download other icon sets from the software repository for your Linux distribution if you wish to use them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T104051Z" creationid="tagezi" creationdate="20180310T104051Z">
@@ -21958,6 +22054,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T163025Z" creationid="olex" creationdate="20180404T205319Z">
         <seg>строки в Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rulers</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T191423Z" creationid="olex" creationdate="20180604T191423Z">
+        <seg>линейки</seg>
       </tuv>
     </tu>
     <tu>
