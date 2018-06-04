@@ -16474,6 +16474,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The margin area is indicated by the grayed out area on the rulers as shown in Figure &lt;t0&gt;2&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T193019Z" creationid="olex" creationdate="20180604T193019Z">
+        <seg>Область полей обозначается на линейках областью серого цвета, как показано на Рисунке &lt;t0&gt;2&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The method CreateUnoService accepts the name of a service and it tries to create an instance of that service.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153252Z" creationid="tagezi" creationdate="20180318T153252Z">
@@ -16646,6 +16654,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T194533Z" creationid="olex" creationdate="20180507T194533Z">
         <seg>Линии разрыва страницы исчезнут с экрана.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The page margins in the drawing area are also represented on the rulers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T192824Z" creationid="olex" creationdate="20180604T192824Z">
+        <seg>На линейках также показаны поля страницы в области рисования.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20501,6 +20517,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T175316Z" creationid="olex" creationdate="20180329T191654Z">
         <seg>Вы можете рассчитать среднее значение и сумму, количество ячеек и многое другое по выбору, щелкнув правой кнопкой мыши &lt;t0/&gt;по области информации про объект или ячейку в строке состояния и выбрав операции, которые вы хотите отобразить в строке состояния (Рисунок &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can change the margins directly on the rulers by dragging them with the mouse.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T192915Z" creationid="olex" creationdate="20180604T192915Z">
+        <seg>Вы можете изменять поля непосредственно на линейках, перетаскивая их мышью.</seg>
       </tuv>
     </tu>
     <tu>
