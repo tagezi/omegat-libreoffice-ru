@@ -16730,6 +16730,15 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: этот абзац явно устарел - эта часть боковой панели изрядно поменялась.</note>
+      <tuv lang="EN-US">
+        <seg>The sub-sections are &lt;f0&gt;Insert Shapes&lt;/f0&gt;, &lt;f1&gt;Character&lt;/f1&gt;, &lt;f2&gt;Paragraph&lt;/f2&gt;, &lt;f3&gt;Area&lt;/f3&gt;, &lt;f4&gt;Line&lt;/f4&gt;, and &lt;f5&gt;Position and Size&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180604T190400Z" creationid="olex" creationdate="20180604T190400Z">
+        <seg>Подразделы &lt;f0&gt;Вставить фигуры&lt;/f0&gt;, &lt;f1&gt;Символ&lt;/f1&gt;, &lt;f2&gt;Параграф&lt;/f2&gt;, &lt;f3&gt;Область&lt;/f3&gt;, &lt;f4&gt;Линия&lt;/f4&gt; , и &lt;f5&gt;Позиция и размер&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>The symbols that are available change according to the selected category.</seg>
       </tuv>
