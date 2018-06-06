@@ -10325,6 +10325,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It provides control&lt;f0&gt;s which allow you&lt;/f0&gt; to carry out an action, &lt;f1&gt;or make changes&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T191845Z" creationid="olex" creationdate="20180606T191756Z">
+        <seg>Оно обеспечивает управление, &lt;f0&gt;которое позволяет&lt;/f0&gt; выполнять действие, &lt;f1&gt;или вносить изменения&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It provides controls to use to specify how to carry out an action.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T202711Z" creationid="tagezi" creationdate="20180310T202711Z">
@@ -12383,6 +12391,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180322T194835Z" creationid="olex" creationdate="20180309T212530Z">
         <seg>Откройте в меню &lt;f0&gt;Таблица &gt; Стили автоформата &lt;/f0&gt; и нажмите кнопку &lt;f1&gt;Добавить&lt;/f1&gt; (Рисунок &lt;t2&gt;6&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the &lt;f0&gt;sidebar&lt;/f0&gt; Styles and Formatting &lt;f1&gt;deck&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T191602Z" creationid="olex" creationdate="20180606T191602Z">
+        <seg>Откройте &lt;f0&gt;боковую панель&lt;/f0&gt; &lt;f1&gt;на вкладке&lt;/f1&gt; Стили и форматирование</seg>
       </tuv>
     </tu>
     <tu>
@@ -16481,10 +16497,18 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The icons &lt;f1&gt;shown &lt;/f1&gt;in this guide have been taken from a variety of LibreOffice installations that use different sets of icons.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T191249Z" creationid="olex" creationdate="20180606T191249Z">
+        <seg>Значки &lt;f1&gt;,показанные&lt;/f1&gt; в этом руководстве, были взяты из различных установок LibreOffice, которые используют разные наборы значков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The icons for some of the many tools available in LibreOffice may then differ from the ones used in this guide.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T092125Z" creationid="tagezi" creationdate="20180310T092125Z">
-        <seg>Значки для некоторых из многих инструментов, доступных в LibreOffice, могут отличаться от используемых в этом руководстве.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T191337Z" creationid="tagezi" creationdate="20180310T092125Z">
+        <seg>Значки для многих инструментов, доступных в LibreOffice, могут отличаться от используемых в этом руководстве.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17070,6 +17094,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The technical names for common controls are shown in Figure &lt;t2&gt;2&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T191937Z" creationid="olex" creationdate="20180606T191937Z">
+        <seg>Технические названия общих элементов управления показаны на рисунке &lt;t2&gt;2&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The template is saved and the dialog closes.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T182704Z" creationid="olex" creationdate="20180311T182704Z">
@@ -17098,6 +17130,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T211740Z" creationid="olex" creationdate="20180312T211740Z">
         <seg>Шаблоны станут доступны для использования через меню &lt;f0&gt;Файл &gt; Шаблоны &gt; Управление шаблонами&lt;/f0&gt; и &lt;f1&gt;Файл &gt; Создать &gt; Шаблоны&lt;/f1&gt;, а расширение будет указано в Управление расширениями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The terms used in LibreOffice for most parts of the &lt;i0/&gt;user interface (the parts of the program you see and use, in contrast to the behind-the-scenes code that actually make it work) are the same as for most other programs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T191706Z" creationid="olex" creationdate="20180606T191706Z">
+        <seg>Термины, используемые в LibreOffice для большинства элементов пользовательского интерфейса &lt;i0/&gt; (части программы, которые вы видите и используете, в отличие от кода за кадром, который фактически заставляет его работать) такие же, как для большинства других программы.</seg>
       </tuv>
     </tu>
     <tu>
