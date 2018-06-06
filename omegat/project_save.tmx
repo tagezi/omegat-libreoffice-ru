@@ -303,6 +303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;About LibreOffice&lt;/f0&gt; &lt;f1&gt;Opens a dialog window &lt;/f1&gt;and displays information about the version of LibreOffice and the operating system you are using.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T184819Z" creationid="olex" creationdate="20180606T184819Z">
+        <seg>&lt;f0&gt;О программе LibreOffice&lt;/f0&gt; &lt;f1&gt;Открывает диалоговое окно&lt;/f1&gt; и отображает информацию про версию LibreOffice и операционную систему, которую вы используете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;About LibreOffice&lt;/f0&gt; Opens a dialog window and displays information about the version of LibreOffice and the operating system you are using.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T113610Z" creationid="tagezi" creationdate="20180307T113407Z">
@@ -642,6 +650,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In addition to the Help menu links above, there are other online community support options available, s&lt;/f0&gt;ee &lt;f1&gt;the t&lt;/f1&gt;able &lt;f2&gt;below.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T185509Z" creationid="olex" creationdate="20180606T185158Z">
+        <seg>&lt;f0&gt;В дополнение к ссылкам меню справки, приведенным выше, доступны другие варианты онлайн-поддержки сообщества,&lt;/f0&gt; смотрите &lt;f1&gt;ниже&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Increment&lt;/f0&gt; – determines the value by which the series of the selected type increases by each step.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T145130Z" creationid="olex" creationdate="20180414T145118Z">
@@ -750,6 +766,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T165537Z" creationid="olex" creationdate="20180330T165300Z">
         <seg>&lt;f0&gt;Формат чисел:&lt;/f0&gt; Быстрое изменение формата чисел, включая количество десятичных знаков, формат валюты, даты или числовой формат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Other f&lt;/f0&gt;ree online support</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T185008Z" creationid="olex" creationdate="20180606T185008Z">
+        <seg>&lt;f0&gt;Другая&lt;/f0&gt; бесплатная онлайн-поддержка</seg>
       </tuv>
     </tu>
     <tu>
@@ -1287,6 +1311,15 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082114Z" creationid="tagezi" creationdate="20180319T082114Z">
         <seg>&lt;f0&gt;rem (9) Нажмите &lt;/f0&gt;&lt;f1&gt;Ctrl+C&lt;/f1&gt;&lt;f2&gt; для копирования выделенного текста в буфер обмена.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>denkin: перевел, кроме примечания про возможное удаление</note>
+      <tuv lang="EN-US">
+        <seg>&lt;l0&gt;DB&lt;/l0&gt;&lt;t1&gt;&lt;f2&gt;PROPOSED DELETION&lt;/f2&gt;&lt;/t1&gt;&lt;t3&gt;&lt;f4&gt;This &lt;/f4&gt;&lt;f5&gt;Preface&lt;/f5&gt;&lt;f6&gt; section is intended to inform the reader about the difference between the book and what they might see.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T190224Z" creationid="olex" creationdate="20180606T190224Z">
+        <seg>&lt;l0&gt;DB&lt;/l0&gt;&lt;t1&gt;&lt;f2&gt;PROPOSED DELETION&lt;/f2&gt;&lt;/t1&gt;&lt;t3&gt;&lt;f4&gt;Эта часть &lt;/f4&gt;&lt;f5&gt;Предисловия&lt;/f5&gt;&lt;f6&gt; предназначена для информирования читателя о различии между книгой и тем, что они могут видеть.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10180,6 +10213,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is not intended to give instruction about how to make those changes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T190358Z" creationid="olex" creationdate="20180606T190026Z">
+        <seg>Она не предназначена для указания того, как внести эти изменения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is not possible to specify what kind of object to create or insert.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T180001Z" creationid="tagezi" creationdate="20180319T180001Z">
@@ -10730,6 +10771,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T200802Z" creationid="olex" creationdate="20180311T194856Z">
         <seg>LibreOffice ссылается на источники шаблонов, как на хранилище.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice runs on Windows, Linux, and &lt;f0&gt;m&lt;/f0&gt;acOS operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T185839Z" creationid="olex" creationdate="20180606T185839Z">
+        <seg>LibreOffice работает в операционных системах Windows, Linux и &lt;f0&gt;macOS&lt;/f0&gt;, каждая из которых имеет несколько версий и может быть изменена пользователями (шрифты, цвета, темы, оконные менеджеры).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15431,6 +15480,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That must be left to the relevant chapter of the guide.&lt;/f6&gt;&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T190447Z" creationid="olex" creationdate="20180606T190447Z">
+        <seg>Это необходимо оставить в соответствующей главе руководства.&lt;/f6&gt;&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The .rtf format is a common format for transferring text files between applications, but you are likely to experience loss of formatting and images.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180050Z" creationid="tagezi" creationdate="20180304T180050Z">
@@ -16180,6 +16237,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T082707Z" creationid="tagezi" creationdate="20180310T082707Z">
         <seg>Различия главным образом затрагивают диалоговые окна Открыть, Сохранить и Печать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The differences affect mainly Open, Save, and Print dialogs.&lt;o0/&gt;&lt;f1&gt; To change which dialogs are used, go to &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; and select or deselect the option &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Use LibreOffice dialogs&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T190908Z" creationid="olex" creationdate="20180606T190908Z">
+        <seg>Различия затрагивают главным образом диалоговые окна Открыть..., Сохранить и Печать....&lt;o0/&gt;&lt;f1&gt; Чтобы изменить вид используемых диалоговых окон, перейдите в &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Сервис &gt; Параметры... &gt; LibreOffice &gt; Общие&lt;/f3&gt;&lt;/f2&gt; &lt;f4&gt;и выберите или снимите флажок&lt;/f4&gt; &lt;f5&gt;&lt;f6&gt;Использовать диалоги LibreOffice&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19735,8 +19800,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>What you see may be different</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T142436Z" creationid="tagezi" creationdate="20180306T142436Z">
-        <seg>То, что вы видите, может быть отличаться</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T185332Z" creationid="tagezi" creationdate="20180306T142436Z">
+        <seg>То, что вы видите, может отличаться</seg>
       </tuv>
     </tu>
     <tu>
