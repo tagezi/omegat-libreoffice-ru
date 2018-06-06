@@ -889,6 +889,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he following options &lt;f1&gt;shown here prefixed by a &lt;/f1&gt;&lt;f2&gt;‡&lt;/f2&gt;&lt;f3&gt; sign&lt;/f3&gt; &lt;f4&gt;are only accessible if&lt;/f4&gt; your computer &lt;f5&gt;is connected to the Internet.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T175959Z" creationid="olex" creationdate="20180606T175959Z">
+        <seg>&lt;f0&gt;С&lt;/f0&gt;ледующие опции, &lt;f1&gt;показанные здесь с префиксом&lt;/f1&gt; &lt;f2&gt;‡&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;, &lt;f4&gt;доступны только в том случае, если &lt;/f4&gt; ваш компьютер &lt;f5&gt;подключен к Интернету&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Table Styles&lt;/f0&gt; applies predefined formats to tables and tables elements in a text document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T183154Z" creationid="olex" creationdate="20180307T183154Z">
@@ -1053,6 +1061,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T092305Z" creationid="olex" creationdate="20180414T144512Z">
         <seg>&lt;f0&gt;День недели&lt;/f0&gt; – используйте тип ряда Дата и этот параметр, чтобы создать ряд из пяти дневных наборов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;What's This?&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;For quick tips &lt;f2&gt;when a toolbar is visible&lt;/f2&gt;, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T180258Z" creationid="olex" creationdate="20180606T180229Z">
+        <seg>&lt;f0&gt;Что это?&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; Для быстрых советов, &lt;f2&gt;когда панель инструментов отображена&lt;/f2&gt;, наведите указатель мыши на любой из значков, чтобы увидеть небольшой прямоугольник («подсказку») с кратким пояснением про функцию значка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6700,6 +6716,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T102652Z" creationid="tagezi" creationdate="20180307T102652Z">
         <seg>Для получения более подробной пояснение , выберите &lt;f2&gt;Справка &gt; Что это такое?&lt;/f2&gt; и удерживайте указатель над значком..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a more detailed explanation, select &lt;f3&gt;Help &gt; What's This?&lt;/f3&gt; and hold the pointer over the icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T180436Z" creationid="olex" creationdate="20180606T180244Z">
+        <seg>Чтобы получить более подробное объяснение, выберите &lt;f3&gt;Справка &gt; Что это такое?&lt;/f3&gt; и удерживайте указатель над значком.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17999,6 +18023,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T160541Z" creationid="olex" creationdate="20180409T160541Z">
         <seg>Чтобы удалить несколько листов, выберите листы (смотрите «&lt;bf0&gt;Выбор листов&lt;/bf0&gt;» на странице &lt;bf1&gt;22&lt;/bf1&gt;), затем щелкните правой кнопкой мыши на вкладке одного из листов и выберите в контекстном меню &lt;f2&gt;Удалить листы...&lt;/f2&gt; или выберите в меню &lt;f3&gt;Лист &gt; Удалить листы...&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To display the Help system, press &lt;f0&gt;F1&lt;/f0&gt; or select &lt;f1&gt;&lt;f2&gt;Help &gt; LibreOffice Help&lt;/f2&gt;&lt;/f1&gt; from the menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T175725Z" creationid="olex" creationdate="20180606T175725Z">
+        <seg>Чтобы отобразить справочную систему, нажмите &lt;f0&gt;F1&lt;/f0&gt; или выберите в меню &lt;f1&gt;&lt;f2&gt;Справка &gt; Справка по LibreOffice&lt;/f2&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
