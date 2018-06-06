@@ -382,6 +382,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>denkin: на самом деле нет такого пункта в меню, сообщил Оливье</note>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Check for Updates&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;‡&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Opens a dialog window &lt;/f5&gt;and checks the LibreOffice website for update&lt;f6&gt;s to your&lt;/f6&gt; version of the software.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T184553Z" creationid="olex" creationdate="20180606T184553Z">
+        <seg>&lt;f0&gt;Проверить наличие обновлений&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;‡&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Открывает диалоговое окно&lt;/f5&gt; и проверяет веб-сайт LibreOffice на наличие обновления &lt;f6&gt;для вашей версии&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Column type&lt;/f0&gt; – select a column in the preview window and select the data type to be applied the imported data.</seg>
       </tuv>
@@ -451,6 +460,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T174128Z" creationid="tagezi" creationdate="20180306T174128Z">
         <seg>&lt;f0&gt;Документация на LibreOffice доступна на &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Donate to LibreOffice &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at th&lt;f2&gt;e&lt;/f2&gt; &lt;f3&gt;Donation&lt;/f3&gt; page of the LibreOffice website &lt;a4&gt;&lt;f5&gt;https://donate.libreoffice.org/&lt;/f5&gt;&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T183015Z" creationid="olex" creationdate="20180606T183015Z">
+        <seg>&lt;f0&gt;Поддержать LibreOffice&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Открывает браузер по умолчанию на &lt;f2&gt;странице&lt;/f2&gt; &lt;f3&gt;Пожертвования&lt;/f3&gt; веб-сайта LibreOffice &lt;a4&gt;&lt;f5&gt;https://donate.libreoffice.org/&lt;/f5&gt;&lt;/a4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -803,8 +820,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Restart in Safe Mode&lt;/f0&gt; Opens a dialog window where you will have the option to restart LibreOffice &lt;f1&gt;and&lt;/f1&gt; reset the software &lt;f2&gt;to it's default settings&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180606T182727Z" creationid="olex" creationdate="20180606T182727Z">
-        <seg>&lt;f0&gt;Перезапуск в безопасном режиме&lt;/f0&gt; Открывает диалоговое окно, в котором у вас будет возможность перезапустить LibreOffice &lt;f1&gt;и&lt;/f1&gt; сбросить программу &lt;f2&gt;до настроек по умолчанию&lt;/f2&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T182742Z" creationid="olex" creationdate="20180606T182727Z">
+        <seg>&lt;f0&gt;Перезапуск в безопасном режиме...&lt;/f0&gt; Открывает диалоговое окно, в котором у вас будет возможность перезапустить LibreOffice &lt;f1&gt;и&lt;/f1&gt; сбросить программу &lt;f2&gt;до настроек по умолчанию&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17128,6 +17145,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123105Z" creationid="tagezi" creationdate="20180320T123105Z">
         <seg>Обычно есть два файла, из которых можно выбрать dialog.xlb и script.xlb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There you &lt;f6&gt;can&lt;/f6&gt; choose to make a donation &lt;f7&gt;to support LibreOffice.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180606T183148Z" creationid="olex" creationdate="20180606T183148Z">
+        <seg>Там вы &lt;f6&gt;можете&lt;/f6&gt; сделать пожертвование &lt;f7&gt;для поддержки LibreOffice&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
