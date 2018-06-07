@@ -3153,6 +3153,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base also provides support for a subset of ANSI-92 SQL.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T203729Z" creationid="olex" creationdate="20180607T203729Z">
+        <seg>Base также обеспечивает поддержку подмножества ANSI-92 SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base incorporates two relational database engines, HSQLDB and PostgreSQL.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T203632Z" creationid="olex" creationdate="20180607T203632Z">
+        <seg>Base включает в себя две реляционных СУБД, HSQLDB и PostgreSQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base provides many new features, such as the ability to analyze and edit relationships from a diagram view.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T203557Z" creationid="olex" creationdate="20180607T203557Z">
+        <seg>База предоставляет множество новых функций, таких как возможность анализировать и редактировать связи в схематическом виде.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base provides tools for day-to-day database work within a simple interface.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T203311Z" creationid="olex" creationdate="20180607T203311Z">
@@ -10461,6 +10485,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can also use dBASE, Microsoft Access, MySQL, or Oracle, or any ODBC compliant or JDBC compliant database.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T203703Z" creationid="olex" creationdate="20180607T203703Z">
+        <seg>Он также может использовать dBASE, Microsoft Access, MySQL или Oracle, или любую совместимую с ODBC или совместимую с JDBC базу данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can be advantageous to select multiple sheets, especially when you want to make changes to many sheets at once.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T184836Z" creationid="olex" creationdate="20180405T184836Z">
@@ -11691,6 +11723,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T194733Z" creationid="olex" creationdate="20180607T194733Z">
         <seg>Math (редактор формул)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Math is the LibreOffice formula or equation editor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T203842Z" creationid="olex" creationdate="20180607T203842Z">
+        <seg>Math это редактор формул или уравнений  LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20920,6 +20960,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While it is most commonly used &lt;t0/&gt;to create formulas in other documents, such as Writer and Impress files, Math can also work as a standalone tool.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T204008Z" creationid="olex" creationdate="20180607T204008Z">
+        <seg>Хотя Math чаще всего используется &lt;t0/&gt;для создания формул в других документах, таких как файлы Writer и Impress, он также может работать как автономный инструмент.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While this works for a small spreadsheet with only a few sheets, it can become difficult to identify sheets when a spreadsheet contains many sheets.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T161243Z" creationid="olex" creationdate="20180409T161243Z">
@@ -21709,6 +21757,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can save formulas in the standard Mathematical Markup Language (MathML) format for inclusion in web pages and other documents not created by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T204041Z" creationid="olex" creationdate="20180607T204041Z">
+        <seg>Вы можете сохранять формулы в стандартном формате математического разметки (MathML) для включения в веб-страницы и другие документы, не созданные в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can select one or multiple sheets in Calc.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T184617Z" creationid="olex" creationdate="20180405T184617Z">
@@ -21785,6 +21841,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T203109Z" creationid="olex" creationdate="20180607T203109Z">
         <seg>Вы можете создавать в Draw рисунки для использования в любом из компонентов LibreOffice, так же вы можете создать свой собственный клип, а затем добавить его в Галерею.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use it to create complex equations that include symbols or characters not available in standard font sets.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T203901Z" creationid="olex" creationdate="20180607T203901Z">
+        <seg>Вы можете использовать его для создания сложных уравнений, которые включают символы или символы, недоступные в стандартных наборах шрифтов.</seg>
       </tuv>
     </tu>
     <tu>
