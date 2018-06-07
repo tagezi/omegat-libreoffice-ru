@@ -231,6 +231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;6&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;What is LibreOffice?&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T191804Z" creationid="olex" creationdate="20180607T191804Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;6&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Что такое LibreOffice?&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Get Help Online &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;‡&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;Opens your default browser at the Ask LibreOffice&lt;f5&gt; &lt;/f5&gt;forum of questions and answers from the LibreOffice community &lt;a6&gt;&lt;f7&gt;https://ask.libreoffice.org/en/questions/&lt;/f7&gt;&lt;/a6&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T182045Z" creationid="olex" creationdate="20180606T182045Z">
@@ -307,6 +315,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T172028Z" creationid="olex" creationdate="20180326T172028Z">
         <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;s3/&gt;| &lt;/f2&gt;&lt;t4&gt;Глава 5 Начало работы с Calc&lt;/t4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 1 Introducing LibreOffice&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T191916Z" creationid="olex" creationdate="20180607T191916Z">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Глава 1 Введение в LibreOffice&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1540,6 +1556,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;24&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Closing LibreOffice&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T191819Z" creationid="olex" creationdate="20180607T191819Z">
+        <seg>&lt;t0&gt;24&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Закрытие LibreOffice&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;30&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 9 Getting Started with Math&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180314T160556Z" creationid="User" creationdate="20180314T160556Z">
@@ -1604,6 +1628,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Chapter 1 Introducing LibreOffice&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;5&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T191857Z" creationid="olex" creationdate="20180607T191857Z">
+        <seg>&lt;t0&gt;Глава 1 Введение в LibreOffice&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;5&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;Chapter 13 Getting Started with Macros&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;3&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T074244Z" creationid="tagezi" creationdate="20180319T074244Z">
@@ -1648,6 +1680,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180314T160606Z" creationid="User" creationdate="20180314T160606Z">
         <seg>&lt;t0&gt;Глава 9 Быстрый старт с Math&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;5&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Closing a document&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;23&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T191746Z" creationid="olex" creationdate="20180607T191746Z">
+        <seg>&lt;t0&gt;Закрытие документа&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;23&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3598,6 +3638,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195835Z" creationid="olex" creationdate="20180306T195741Z">
         <seg>Изменение ориентации страниц внутри документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chapter 1 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T192028Z" creationid="olex" creationdate="20180607T192028Z">
+        <seg>Глава 1 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chapter 1 Introducing LibreOffice</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T192022Z" creationid="olex" creationdate="20180607T192022Z">
+        <seg>Глава 1 Введение в LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -10153,6 +10209,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T094125Z" creationid="olex" creationdate="20180415T094125Z">
         <seg>Вместо того, чтобы вводить список на каждом листе отдельно, вы можете одновременно вводить информацию на нескольких листах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introducing LibreOffice</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T192034Z" creationid="olex" creationdate="20180607T192034Z">
+        <seg>Введение в LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -17885,8 +17949,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To &lt;f0&gt;Previous&lt;/f0&gt; Edition&lt;f1&gt;s&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090436Z" creationid="tagezi" creationdate="20180305T090436Z">
-        <seg>&lt;f0&gt;Previous&lt;/f0&gt; Edition&lt;f1&gt;s&lt;/f1&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T192210Z" creationid="tagezi" creationdate="20180305T090436Z">
+        <seg>&lt;f0&gt;Предидущих&lt;/f0&gt; &lt;f1&gt;выпусков&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
