@@ -3442,6 +3442,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calc can also export spreadsheets in several formats, including for example Comma Separated Value (CSV), Adobe PDF and HTML formats.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T201944Z" creationid="olex" creationdate="20180607T201944Z">
+        <seg>Calc также может экспортировать электронные таблицы в различные форматы, включая, например, Comma Separated Value (CSV), Adobe PDF и HTML форматы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calc can also save spreadsheets in a range of formats and also export spreadsheets to PDF, HTML, XHTML file formats and JPEG and PNG images formats; see the &lt;f1&gt;Calc Guide Chapter 6 Printing, Exporting, and E-mailing&lt;/f1&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T180650Z" creationid="olex" creationdate="20180402T180335Z">
@@ -3454,6 +3462,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T182338Z" creationid="olex" creationdate="20180430T182338Z">
         <seg>Calc поставляется с предопределенным набором тем форматирования (набором стилей), который вы можете применить к своей электронной таблице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calc generates 2D and 3D charts, which can be integrated into other LibreOffice documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T201719Z" creationid="olex" creationdate="20180607T201719Z">
+        <seg>Calc генерирует 2D и 3D диаграммы, которые могут быть интегрированы в другие документы LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calc has all of the advanced analysis, charting, and decision making features expected from a high-end spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T201509Z" creationid="olex" creationdate="20180607T201509Z">
+        <seg>Calc имеет все современные возможности анализа, составления графиков и принятия решений, ожидаемые от высококачественной электронной таблицы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9605,6 +9629,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impress provides all the common multimedia presentation tools, such as special effects, animation, and drawing tools.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T202019Z" creationid="olex" creationdate="20180607T202019Z">
+        <seg>Impress предоставляет все распространенные мультимедийные средства презентаций, такие как специальные эффекты, анимация и инструменты рисования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In &lt;f0&gt;File name&lt;/f0&gt;, you can enter a new file name for the spreadsheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T184914Z" creationid="olex" creationdate="20180402T182836Z">
@@ -10373,6 +10405,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also connects to your email client.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T201115Z" creationid="olex" creationdate="20180607T201115Z">
+        <seg>Он также подключается к вашему почтовому клиенту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also covers some of the features common to all components, including setup and customization, styles and templates, macro recording, and printing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T082828Z" creationid="tagezi" creationdate="20180306T082828Z">
@@ -10437,6 +10477,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It includes over 300 functions for financial, statistical, and mathematical operations, among others.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T201556Z" creationid="olex" creationdate="20180607T201556Z">
+        <seg>Он включает более 300 функций для финансовых, статистических, математических и других операций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is a mixture of toolbar and dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T193508Z" creationid="olex" creationdate="20180329T193508Z">
@@ -10457,6 +10505,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103624Z" creationid="tagezi" creationdate="20180320T103601Z">
         <seg>Лучше создавать собственные библиотеки со значимыми именами, чем использовать библиотеку Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is integrated with the advanced graphics capabilities of LibreOffice Draw and Math components.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T202055Z" creationid="olex" creationdate="20180607T202055Z">
+        <seg>Он интегрирован с расширенными графическими возможностями компонентов LibreOffice Draw и Math.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15301,6 +15357,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slideshows can be further enhanced using Fontwork special effects text, as well as sound and video clips.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T202208Z" creationid="olex" creationdate="20180607T202208Z">
+        <seg>Слайд-шоу можно дополнительно улучшить, используя спецэффекты текста Fontwork, а также звуковые и видеоклипы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Snap function</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T154538Z" creationid="olex" creationdate="20180603T154523Z">
@@ -16389,6 +16453,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T191442Z" creationid="olex" creationdate="20180311T182241Z">
         <seg>Откроется диалоговое окно Сохранить как шаблон (Рисунок &lt;t1&gt;9&lt;/t1&gt;), в котором отображаются существующие категории шаблонов и текстовое поле для ввода имени нового шаблона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Scenario Manager provides “what if” analysis.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T201619Z" creationid="olex" creationdate="20180607T201619Z">
+        <seg>Диспетчер сценариев предоставляет анализ «что, если».</seg>
       </tuv>
     </tu>
     <tu>
@@ -21141,6 +21213,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T183530Z" creationid="olex" creationdate="20180308T183530Z">
         <seg>Вы также можете изменять стили, используя подменю для каждого стиля в списке Задать стиль абзаца на панели инструментов Форматирование (смотрите Рисунок &lt;t0&gt;4&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also open and work with Microsoft Excel workbooks and save them in Excel format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T201841Z" creationid="olex" creationdate="20180607T201841Z">
+        <seg>Вы также можете открывать книги Microsoft Excel, работать с ними и сохранять их в формате Excel.</seg>
       </tuv>
     </tu>
     <tu>
