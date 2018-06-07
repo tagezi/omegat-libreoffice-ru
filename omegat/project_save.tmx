@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f0&gt;If you do not want to use Java, you can still use nearly all of the LibreOffice features.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T190124Z" creationid="olex" creationdate="20180607T190124Z">
+        <seg>&lt;/f0&gt;Если вы не хотите использовать Java, вы все равно сможете использовать почти все функции LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f1&gt;Page break lines are displayed on screen.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T193405Z" creationid="olex" creationdate="20180507T193405Z">
@@ -275,6 +283,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T074238Z" creationid="tagezi" creationdate="20180319T074238Z">
         <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Глава 13 Начало работы с Макросами&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Preface&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T190303Z" creationid="olex" creationdate="20180607T190303Z">
+        <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Предисловие&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +666,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;If you want to use LibreOffice features that require Java, it is important that to install the same 32 bit or 64 bit edition of Java as the installed 32 bit or 64 bit edition of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T190027Z" creationid="olex" creationdate="20180607T190027Z">
+        <seg>&lt;f0&gt;Если вы хотите использовать функции LibreOffice, требующие Java, важно установить ту же 32-битную или 64-разрядную версию Java как установленную 32-разрядную или 64-разрядную версию LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;In addition to the Help menu links above, there are other online community support options available, s&lt;/f0&gt;ee &lt;f1&gt;the t&lt;/f1&gt;able &lt;f2&gt;below.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T185509Z" creationid="olex" creationdate="20180606T185158Z">
@@ -742,6 +766,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T092315Z" creationid="olex" creationdate="20180414T144630Z">
         <seg>&lt;f0&gt;Месяц&lt;/f0&gt; – используйте тип ряда Дата и эту опцию, чтобы сформировать ряд из названий или сокращений месяцев.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;More information and download links to the appropriate edition for your operating system can be found at: &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;https://java.com/en/download/manual.jsp&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T185731Z" creationid="olex" creationdate="20180607T185731Z">
+        <seg>&lt;f0&gt; Дополнительная информация и ссылки для загрузки в соответствующую редакцию для вашей операционной системы можно найти по адресу: &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;https://java.com/en/download/manual.jsp&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1314,6 +1346,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f1&gt;See&lt;/f1&gt; the licenses: &lt;a2&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T185607Z" creationid="olex" creationdate="20180607T185607Z">
+        <seg>&lt;f1&gt;Смотрите&lt;/f1&gt; лицензии: &lt;a2&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: перевел, кроме примечания про возможное удаление</note>
       <tuv lang="EN-US">
         <seg>&lt;l0&gt;DB&lt;/l0&gt;&lt;t1&gt;&lt;f2&gt;PROPOSED DELETION&lt;/f2&gt;&lt;/t1&gt;&lt;t3&gt;&lt;f4&gt;This &lt;/f4&gt;&lt;f5&gt;Preface&lt;/f5&gt;&lt;f6&gt; section is intended to inform the reader about the difference between the book and what they might see.</seg>
@@ -1672,6 +1712,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T195006Z" creationid="tagezi" creationdate="20180310T195006Z">
         <seg>&lt;t0&gt;Что все эти вещи означают?&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;7&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;What’s new in LibreOffice 6.0?&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;9&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T190232Z" creationid="olex" creationdate="20180607T190232Z">
+        <seg>&lt;t0&gt;Что нового в LibreOffice 6.0?&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;9&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8716,6 +8764,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I am &lt;f0&gt;develop&lt;/f0&gt;ing software .</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T185223Z" creationid="olex" creationdate="20180607T185223Z">
+        <seg>Я &lt;f0&gt;разрабатываю&lt;/f0&gt; программное обеспечение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I am writing a software application.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T164725Z" creationid="tagezi" creationdate="20180310T164725Z">
@@ -11327,6 +11383,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>May I use &lt;f1&gt;source &lt;/f1&gt;code from LibreOffice in my &lt;f2&gt;project&lt;/f2&gt;?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T185339Z" creationid="olex" creationdate="20180607T185339Z">
+        <seg>Можно ли использовать &lt;f1&gt;исходный&lt;/f1&gt; код из LibreOffice в моем проекте&lt;f2&gt;&lt;/f2&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>May I use it in my business?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T155911Z" creationid="tagezi" creationdate="20180310T155911Z">
@@ -12359,6 +12423,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T132337Z" creationid="tagezi" creationdate="20180313T132337Z">
         <seg>Откройте &lt;i0/&gt;контейнер библиотек &lt;f1&gt;Мои макросы&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Source Initiative (OSI)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T185024Z" creationid="olex" creationdate="20180607T185024Z">
+        <seg>Инициатива открытого исходного кода (Open Source Initiative - OSI)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15795,8 +15867,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The Java JDK/JRE is only required for some features.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T174612Z" creationid="tagezi" creationdate="20180310T174612Z">
-        <seg>Java JDK/JRE требуется только для некоторых функций.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T185626Z" creationid="tagezi" creationdate="20180310T174612Z">
+        <seg>Java JDK / JRE требуется только для некоторых функций.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15805,6 +15877,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T221531Z" creationid="tagezi" creationdate="20180307T221531Z">
         <seg>Примечания к выпуску LibreOffice 6.0 есть по ссылке: &lt;a0&gt;https://wiki.documentfoundation.org/ReleaseNotes/&lt;/a0&gt;&lt;a1&gt;6.0&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The LibreOffice &lt;f0&gt;6.0&lt;/f0&gt; Release Notes are here: &lt;a1&gt;https://wiki.documentfoundation.org/ReleaseNotes/&lt;/a1&gt;&lt;a2&gt;&lt;f3&gt;6.0&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T190217Z" creationid="olex" creationdate="20180607T190217Z">
+        <seg>Заметки о выпуске LibreOffice &lt;f0&gt;6.0&lt;/f0&gt; приведены здесь: &lt;a1&gt;https://wiki.documentfoundation.org/ReleaseNotes/&lt;/a1&gt;&lt;a2&gt; &lt;f3&gt;6.0&lt;/f3&gt;&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21337,6 +21417,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T120223Z" creationid="olex" creationdate="20180309T193950Z">
         <seg>Возможно вы захотите добавить несколько новых стилей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may, within the license term&lt;f0&gt;s&lt;/f0&gt; in the MPL and/or LGPL.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T185453Z" creationid="olex" creationdate="20180607T185453Z">
+        <seg>Можете &lt;f0&gt;в течение срока действия лицензии&lt;/f0&gt; MPL и / или LGPL.</seg>
       </tuv>
     </tu>
     <tu>
