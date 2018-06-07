@@ -3153,6 +3153,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base provides tools for day-to-day database work within a simple interface.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T203311Z" creationid="olex" creationdate="20180607T203311Z">
+        <seg>Base предоставляет инструменты для повседневной работы базы данных в рамках простого интерфейса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Based on LibreOffice 5.2.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T214505Z" creationid="tagezi" creationdate="20180310T214505Z">
@@ -5518,10 +5526,26 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw can import graphics from many common formats and save them in over 20 formats, including PNG, HTML &lt;f0&gt;and&lt;/f0&gt; PDF.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T203144Z" creationid="olex" creationdate="20180607T203144Z">
+        <seg>Draw может импортировать графику из многих распространенных форматов и сохранять их в более чем 20 форматах, включая PNG, HTML &lt;f0&gt;и&lt;/f0&gt; PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw can only save in the OpenDocument Drawing formats (.odg, .otg, and .fodg), the OpenOffice.org 1.x formats (.sxd and .std) and StarDraw format (.sda, .sdd, and .vor).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181205Z" creationid="tagezi" creationdate="20180304T181117Z">
         <seg>Draw сохраняет только в форматы OpenDocument Drawing (.odg, .otg, и .fodg), OpenOffice.org 1.x (.sxd и .std) и фоматы StarDraw (.sda, .sdd, и .vor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw is a vector drawing tool that can produce everything from simple diagrams or flowcharts to 3D artwork.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T202335Z" creationid="olex" creationdate="20180607T202335Z">
+        <seg>Draw - инструмент для векторных рисунков, который может создавать все, начиная от простых диаграмм или блок-схем до 3D-рисунков.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9629,6 +9653,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impress is compatible with Microsoft PowerPoint file format and can also save your work in numerous graphics formats.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T202247Z" creationid="olex" creationdate="20180607T202247Z">
+        <seg>Impress совместим с форматом файлов Microsoft PowerPoint и также может сохранить вашу работу в многочисленных графических форматах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Impress provides all the common multimedia presentation tools, such as special effects, animation, and drawing tools.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T202019Z" creationid="olex" creationdate="20180607T202019Z">
@@ -10453,6 +10485,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can create and edit forms, reports, queries, tables, views, and relations, so that managing a relational database is much the same as in other popular database applications.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T203424Z" creationid="olex" creationdate="20180607T203424Z">
+        <seg>Он может создавать и редактировать формы, отчеты, запросы, таблицы, представления и связи, так что управление реляционной базой данных будет таким же, как и в других популярных приложениях баз данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It cannot be removed in C2 despite also appearing to be the bottom border for cell C2.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T201040Z" creationid="olex" creationdate="20180424T201040Z">
@@ -10649,6 +10689,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T072715Z" creationid="tagezi" creationdate="20180319T072715Z">
         <seg>Для чтения и записи шагов требуется гораздо больше времени, чем для записи макроса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Its Smart Connectors feature allows you to define your own connection points.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T202932Z" creationid="olex" creationdate="20180607T202402Z">
+        <seg>Функция Smart Connectors позволяет вам определять свои собственные точки соединения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21729,6 +21777,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T180220Z" creationid="olex" creationdate="20180430T180220Z">
         <seg>Вы можете использовать функцию &lt;i0/&gt;&lt;i1/&gt;Стили автоформата...&lt;i2/&gt; для быстрого и легкого форматирования таблицы (диапазона ячеек).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use Draw to create drawings for use in any of the LibreOffice components, and you can create your own clip art and then add it to the Gallery.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180607T203109Z" creationid="olex" creationdate="20180607T203109Z">
+        <seg>Вы можете создавать в Draw рисунки для использования в любом из компонентов LibreOffice, так же вы можете создать свой собственный клип, а затем добавить его в Галерею.</seg>
       </tuv>
     </tu>
     <tu>
