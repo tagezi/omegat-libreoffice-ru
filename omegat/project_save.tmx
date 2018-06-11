@@ -101,6 +101,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>denkin: решил перевести расшифровку названия организации - возможно не стоит?</note>
+      <tuv lang="EN-US">
+        <seg>&lt;/f0&gt;LibreOffice uses OpenDocument, an XML (eXtensible Markup Language) file format developed as an industry standard by OASIS (Organization for the Advancement of Structured Information Standards).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T174631Z" creationid="olex" creationdate="20180611T174631Z">
+        <seg>&lt;/f0&gt; LibreOffice использует OpenDocument, формат XML (eXtensible Markup Language), разработанный в качестве отраслевого стандарта OASIS (Организация по улучшению стандартов структурированной информации).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;/f0&gt;Usually, if you change an option, it affects all components.</seg>
       </tuv>
@@ -592,6 +601,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;File compatibility.&lt;/f0&gt; In addition to its native OpenDocument formats, LibreOffice includes support for opening and saving files in many common formats including Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3, and PDF.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T174529Z" creationid="olex" creationdate="20180611T174529Z">
+        <seg>&lt;f0&gt;Совместимость файлов.&lt;/f0&gt; В дополнение к собственным форматам OpenDocument LibreOffice предлагает поддержку для открытия и сохранения файлов во многих распространенных форматах, включая Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3 и PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;File&lt;/f0&gt; – contains commands that apply to the entire document; for example, &lt;f1&gt;Open&lt;/f1&gt;, &lt;f2&gt;Save&lt;/f2&gt;, &lt;f3&gt;Wizards&lt;/f3&gt;, &lt;f4&gt;Export as PDF&lt;/f4&gt;, &lt;f5&gt;Print&lt;/f5&gt;, &lt;f6&gt;Digital Signatures and Templates., &lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T182721Z" creationid="olex" creationdate="20180328T175939Z">
@@ -652,6 +669,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T172816Z" creationid="olex" creationdate="20180330T174603Z">
         <seg>&lt;f0&gt;Функции&lt;/f0&gt;: эта вкладка содержит одну панель, которая аналогична окну, открываемому при выборе в меню &lt;f1&gt;Вставка &gt; Функция...&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;GNU/Linux&lt;/f0&gt; Kernel version 2.6.18, glibc2 v2.5 or higher, and gtk v2.10.4 or higher</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T175338Z" creationid="olex" creationdate="20180611T175338Z">
+        <seg>&lt;f0&gt;GNU / Linux&lt;/f0&gt; с ядром версии 2.6.18 или выше, glibc2 v2.5 или выше и gtk v2.10.4 или выше</seg>
       </tuv>
     </tu>
     <tu>
@@ -816,10 +841,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Mac OS X&lt;/f0&gt; 10.8 (Mountain Lion) or higher</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T175418Z" creationid="olex" creationdate="20180611T175418Z">
+        <seg>&lt;f0&gt;Mac OS X&lt;/f0&gt; 10.8 (Mountain Lion) или выше</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Merge delimiters&lt;/f0&gt; – combines consecutive delimiters and removes blank data fields.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T192336Z" creationid="olex" creationdate="20180330T192336Z">
         <seg>&lt;f0&gt;Объединять разделители&lt;/f0&gt; - объединяет соседние разделители и удаляет пустые поля данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Microsoft Windows&lt;/f0&gt; Vista, Windows Server 2008, Windows 7, Windows 8/8.1, Windows Server 2012, or Windows 10.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T175234Z" creationid="olex" creationdate="20180611T175234Z">
+        <seg>&lt;f0&gt;Microsoft Windows&lt;/f0&gt; Vista, Windows Server 2008, Windows 7, Windows 8 / 8.1, Windows Server 2012 или Windows 10.</seg>
       </tuv>
     </tu>
     <tu>
@@ -860,6 +901,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T171956Z" creationid="olex" creationdate="20180611T171956Z">
         <seg>&lt;f0&gt;Никаких лицензионных сборов&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;No vendor lock-in.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T174556Z" creationid="olex" creationdate="20180611T174556Z">
+        <seg>&lt;f0&gt;Отсутствие блокировки вендора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1277,6 +1326,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T092325Z" creationid="olex" creationdate="20180414T144720Z">
         <seg>&lt;f0&gt;Год&lt;/f0&gt; – используйте тип ряда Дата и этот параметр, чтобы создать ряд лет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;You have a voice.&lt;/f0&gt; Enhancements, software fixes, and release dates are community-driven.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T174856Z" creationid="olex" creationdate="20180611T174856Z">
+        <seg>&lt;f0&gt;У вас есть право голоса.&lt;/f0&gt; Усовершенствования, исправления программного обеспечения и даты выпуска поддерживаются сообществом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2410,6 +2467,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Administrator rights are needed for the installation process.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T175531Z" creationid="olex" creationdate="20180611T175511Z">
+        <seg>Для установки программы необходимы права администратора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advantages of LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T194749Z" creationid="olex" creationdate="20180607T194749Z">
@@ -2672,6 +2737,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T212951Z" creationid="olex" creationdate="20180407T212951Z">
         <seg>Другой вариант:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although LibreOffice will work without Java support, some features will not be available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T175750Z" creationid="olex" creationdate="20180611T175750Z">
+        <seg>Хотя LibreOffice будет работать и без поддержки Java, некоторые функции при этом будут недоступны.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7176,6 +7249,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a more detailed listing of requirements, see the LibreOffice website, &lt;a0&gt;http://www.libreoffice.org/get-help/system-requirements/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T180146Z" creationid="olex" creationdate="20180611T180146Z">
+        <seg>Более подробный перечень требований смотрите на веб-сайте LibreOffice, &lt;a0&gt;http://www.libreoffice.org/get-help/system-requirements/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a vertical split, drag the new vertical window border across to the right of the column where you want the vertical split positioned.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T172641Z" creationid="olex" creationdate="20180409T172445Z">
@@ -9012,8 +9093,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>However, LibreOffice options can be set at a component level or even at document level.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180611T174105Z" creationid="olex" creationdate="20180611T174105Z">
-        <seg>Однако параметры LibreOffice могут быть установлены на уровне компонентов или даже на уровне документа.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T174155Z" creationid="olex" creationdate="20180611T174105Z">
+        <seg>Однако в LibreOffice параметры могут быть установлены на уровне компонентов или даже на уровне документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10996,6 +11077,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice 6.0 requires one of the following operating systems:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T175156Z" creationid="olex" creationdate="20180611T175156Z">
+        <seg>Для LibreOffice 6.0 требуется одна из следующих операционных систем:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice &gt; Preferences</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T072446Z" creationid="tagezi" creationdate="20180305T072446Z">
@@ -12050,6 +12139,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T181550Z" creationid="tagezi" creationdate="20180310T181550Z">
         <seg>Найти дополнительную информацию и загрузить подходящую версию для вашей операционной системы можно по адресу: &lt;a0&gt;&lt;f1&gt;https://java.com/en/download/manual.jsp&lt;/f1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More information and download links to the appropriate edition for your operating system can be found at: &lt;a0&gt;https://java.com/en/download/manual.jsp&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T175951Z" creationid="olex" creationdate="20180611T175924Z">
+        <seg>Дополнительную информацию и ссылки для загрузки в соответствующую редакцию Java для вашей операционной системы можно найти по адресу: &lt;a0&gt;https://java.com/ru/download/manual.jsp&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15604,6 +15701,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some LibreOffice features (wizards and the HSQLDB database engine) require that the Java Runtime Environment (JRE) is installed on your computer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T175716Z" creationid="olex" creationdate="20180611T175716Z">
+        <seg>Некоторые функции LibreOffice (мастера и механизм базы данных HSQLDB) требуют, чтобы на вашем компьютере была установлена среда выполнения Java (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some Linux distributions include &lt;f0&gt;LibreOffice&lt;/f0&gt; as part of the installation and may not include all the icon sets mentioned above.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T101514Z" creationid="tagezi" creationdate="20180310T101514Z">
@@ -18113,6 +18218,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T183009Z" creationid="olex" creationdate="20180330T170912Z">
         <seg>Это окно блокирует документ для редактирования до тех пор, пока оно не будет закрыто.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These files can easily be unzipped and read by any text editor, and their framework is open and published.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T174801Z" creationid="olex" creationdate="20180611T174702Z">
+        <seg>Эти файлы можно легко распаковать и прочитать в любом текстовом редакторе, их структура открыта и опубликована.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21835,6 +21948,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can join the community and affect the course of the product you use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T175000Z" creationid="olex" creationdate="20180611T175000Z">
+        <seg>Вы можете присоединиться к сообществу и повлиять на развитие продукта, который вы используете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can manually copy new templates into the template folders.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T203247Z" creationid="olex" creationdate="20180312T203247Z">
@@ -21872,6 +21993,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T171332Z" creationid="olex" creationdate="20180308T171332Z">
         <seg>Вы можете открыть этот список и выбрать нужный стиль мышью или использовать клавиши со стрелками вверх и вниз для перемещения по списку, а затем нажать &lt;f0&gt;Enter&lt;/f0&gt;, чтобы применить выбранный стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can read more about LibreOffice and The Document Foundation on their websites at &lt;a0&gt;http://www.libreoffice.org/&lt;/a0&gt; and &lt;a1&gt;http://www.documentfoundation.org/&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T175053Z" creationid="olex" creationdate="20180611T175053Z">
+        <seg>Вы можете узнать больше о LibreOffice и The Document Foundation на сайтах по адресу &lt;a0&gt;http://www.libreoffice.org/&lt;/a0&gt; и &lt;a1&gt;http://www.documentfoundation.org/&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
