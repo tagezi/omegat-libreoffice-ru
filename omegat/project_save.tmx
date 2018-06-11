@@ -1915,6 +1915,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A PowerPoint file (*.ppt or *.pptx) opens in Impress.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T182436Z" creationid="olex" creationdate="20180611T182436Z">
+        <seg>Файлы PowerPoint (*.ppt или *.pptx) откроются в Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Word file (*.doc or *.docx) opens in Writer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T182411Z" creationid="olex" creationdate="20180611T182324Z">
+        <seg>Файлы Word (*.doc или *.docx) откроются в Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Writer document can contain pages in more than one orientation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T193832Z" creationid="olex" creationdate="20180316T193832Z">
@@ -2798,6 +2814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An Excel file (*.xls or *.xlsx) opens in Calc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T182404Z" creationid="olex" creationdate="20180611T182404Z">
+        <seg>Файлы Excel (*.xls или *.xlsx) откроются в Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An active sheet is indicated with a white tab (default Calc setup).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T182438Z" creationid="olex" creationdate="20180330T182403Z">
@@ -3557,6 +3581,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T203926Z" creationid="olex" creationdate="20180316T203926Z">
         <seg>После настройке этих последовательностей вы обычно можете не настраивать стили вручную.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CMIS, like OpenDocument Format, is an OASIS standard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T181946Z" creationid="olex" creationdate="20180611T181946Z">
+        <seg>CMIS, как и OpenDocument Format, является стандартом OASIS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4639,6 +4671,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T184229Z" creationid="olex" creationdate="20180330T174821Z">
         <seg>Нажатие на любую кнопку Боковой панели снова откроет вкладку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clicking on the LibreOffice menu entry, desktop icon, or tile opens the LibreOffice Start Center (Figure &lt;t0&gt;1&lt;/t0&gt;) from where you can select the individual components of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T181611Z" creationid="olex" creationdate="20180611T181458Z">
+        <seg>При нажатии на элемент меню LibreOffice, значок рабочего стола или значок запуска на панели открывается Центр запуска LibreOffice (рисунок &lt;t0&gt;1&lt;/t0&gt;), из которого вы сможете запустить отдельные компоненты LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6522,6 +6562,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T184139Z" creationid="olex" creationdate="20180603T184139Z">
         <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: главное окно LibreOffice Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: LibreOffice Start Center</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T182041Z" creationid="olex" creationdate="20180611T182041Z">
+        <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: Центр запуска LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -9603,10 +9651,26 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you did not associate the file types and Microsoft Office is installed on your computer, then when you double-click on a Microsoft Office file, it opens using the appropriate Microsoft Office component.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T182718Z" creationid="olex" creationdate="20180611T182718Z">
+        <seg>Если вы не ассоциировали файлы Microsoft Office с LibreOffice, и Microsoft Office установлен на вашем компьютере, то при двойном щелчке по этим файлам они откроются с использованием соответствующего компонента Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not enter a name, Calc creates a default name (Sheet 2, Sheet 3, and so on).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T223225Z" creationid="olex" creationdate="20180407T223143Z">
         <seg>Если вы не введете имя, то Calc создает имя по умолчанию (Лист 2, Лист 3 и т.д.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do not have Microsoft Office installed on your computer, or if Microsoft Office is installed but you have associated Microsoft Office file types with LibreOffice, then when you double-click on the following files, they open in LibreOffice:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T182337Z" creationid="olex" creationdate="20180611T182250Z">
+        <seg>Если на вашем компьютере не установлен Microsoft Office или установлен Microsoft Office, но файлы Microsoft Office ассоциированы на открытие с помощью LibreOffice, то при двойном щелчке по таким файлам они откроются в LibreOffice:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12967,6 +13031,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153356Z" creationid="tagezi" creationdate="20180318T153356Z">
         <seg>По завершении переменная dispatcher содержит ссылку на DispatchHelper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On computers operating &lt;f0&gt;m&lt;/f0&gt;acOS, only a menu entry for LibreOffice is added to the Applications menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T181312Z" creationid="olex" creationdate="20180611T181312Z">
+        <seg>На компьютерах, работающих с &lt;f0&gt;mac OS&lt;/f0&gt;, в меню Приложения добавляется только элемент меню для LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16981,6 +17053,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T184309Z" creationid="olex" creationdate="20180430T184309Z">
         <seg>Примененные темы электронных таблиц работают со стилями ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The appropriate component of LibreOffice will start and the document will be loaded.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T181907Z" creationid="olex" creationdate="20180611T181907Z">
+        <seg>Будет запущен соответствующий компонент LibreOffice, и загрузится документ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21112,6 +21192,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When using CMIS servers, the service will ask you for the necessary credentials for file access.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T182013Z" creationid="olex" creationdate="20180611T182013Z">
+        <seg>При использовании серверов CMIS служба запрашивает у вас необходимые учетные данные для доступа к файлам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you close the dialog after use (usually, clicking &lt;f0&gt;OK&lt;/f0&gt; or another button saves your changes and closes the dialog), then you can again work with your document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T153622Z" creationid="tagezi" creationdate="20180310T153622Z">
@@ -21657,6 +21745,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also open files stored in remote servers running Content Management Interoperability Services (CMIS).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T181931Z" creationid="olex" creationdate="20180611T181931Z">
+        <seg>Вы также можете открывать файлы, хранящиеся на удаленных серверах, на которых работают службы совместимости управления контентом (CMIS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also open the Templates dialog from the Start Center.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T192303Z" creationid="olex" creationdate="20180311T192303Z">
@@ -21717,6 +21813,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T194209Z" creationid="olex" creationdate="20180424T194209Z">
         <seg>Вы также можете выбрать кнопку &lt;f1&gt;Дополнительные параметры&lt;/f1&gt; на панели Символы боковой панели, чтобы открыть диалоговое окно Формат ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also select to open an existing file or use a template.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T181601Z" creationid="olex" creationdate="20180611T181601Z">
+        <seg>Вы также можете выбрать открытие существующаго файла или использовать шаблон.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22161,6 +22265,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T173338Z" creationid="olex" creationdate="20180603T173338Z">
         <seg>Вы можете разделять рисунки в Draw на несколько страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can start LibreOffice by double-clicking the filename of an ODF document on the desktop, or in a file manager such as Windows Explorer or the Mac’s Finder.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T181827Z" creationid="olex" creationdate="20180611T181827Z">
+        <seg>Вы можете запустить LibreOffice, дважды щелкнув по имени файла документа ODF на рабочем столе или в файловом менеджере, таком как проводник Windows или Finder Mac.</seg>
       </tuv>
     </tu>
     <tu>
