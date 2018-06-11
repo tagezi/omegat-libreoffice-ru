@@ -448,6 +448,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Cross-platform.&lt;/f0&gt; LibreOffice runs on several hardware architectures and under multiple operating systems, such as Microsoft Windows, Mac OS X and Linux.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T172534Z" creationid="olex" creationdate="20180611T172534Z">
+        <seg>&lt;f0&gt;Кросс-платформенность.&lt;/f0&gt; LibreOffice работает на нескольких аппаратных архитектурах и в нескольких операционных системах, таких как Microsoft Windows, Mac OS X и Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Data&lt;/f0&gt; – contains commands for manipulating data in the spreadsheet; for example, &lt;f1&gt;Define Database Range&lt;/f1&gt;, &lt;f2&gt;Sort&lt;/f2&gt;, Filters, &lt;f3&gt;Statistics, Pivot Tables, Consolidate, Forms, Groups and Outlines.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T184233Z" creationid="olex" creationdate="20180328T184233Z">
@@ -548,6 +556,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T200107Z" creationid="olex" creationdate="20180402T200107Z">
         <seg>&lt;f0&gt;End&lt;/f0&gt; перемещает фокус ячейки в последнюю ячейку справа в строке в самый правый столбец, который содержит данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Extensive language support&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T172551Z" creationid="olex" creationdate="20180611T172551Z">
+        <seg>&lt;f0&gt;Обширная языковая поддержка&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -810,10 +826,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;No licensing fees&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T171956Z" creationid="olex" creationdate="20180611T171956Z">
+        <seg>&lt;f0&gt;Никаких лицензионных сборов&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Number Format:&lt;/f0&gt; Quickly change the format of numbers including decimals, currency, dates, or numeric text.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T165537Z" creationid="olex" creationdate="20180330T165300Z">
         <seg>&lt;f0&gt;Формат чисел:&lt;/f0&gt; Быстрое изменение формата чисел, включая количество десятичных знаков, формат валюты, даты или числовой формат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Open source.&lt;/f0&gt; You can distribute, copy, and modify the software as much as you wish, in accordance with the LibreOffice Open Source licenses.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T172453Z" creationid="olex" creationdate="20180611T172453Z">
+        <seg>&lt;f0&gt;Открытый исходный код.&lt;/f0&gt; Вы можете распространять, копировать и изменять программное обеспечение столько, сколько пожелаете, в соответствии с лицензиями на открытый исходный код LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8700,6 +8732,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here are some of the advantages of LibreOffice over other office suites:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T171941Z" creationid="olex" creationdate="20180611T171941Z">
+        <seg>Вот некоторые из преимуществ LibreOffice перед другими офисными пакетами:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here you can delete the different aspects of the data in the cell or to delete everything in the cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T184617Z" creationid="olex" creationdate="20180416T184617Z">
@@ -10973,6 +11013,15 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: не смог перевести термины описания особенных языков</note>
+      <tuv lang="EN-US">
+        <seg>LibreOffice also provides support for both Complex Text Layout (CTL) and Right to Left (RTL) layout languages (such as Urdu, Hebrew, and Arabic).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T173107Z" creationid="olex" creationdate="20180611T173107Z">
+        <seg>LibreOffice также обеспечивает поддержку языков Complex Text Layout (CTL) и Right to Left (RTL) (например, урду, иврит и арабский язык).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>LibreOffice always creates an empty subroutine named Main when it creates a module.</seg>
       </tuv>
@@ -11155,6 +11204,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100359Z" creationid="lera" creationdate="20180303T202357Z">
         <seg>LibreOffice распространяется под лицензией Mozilla Public License (MPL) 2.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice is free for anyone to use and distribute at no cost.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T172122Z" creationid="olex" creationdate="20180611T172122Z">
+        <seg>LibreOffice бесплатно для всех, в плане использования и распространения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11651,6 +11708,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T191247Z" creationid="tagezi" creationdate="20180320T191247Z">
         <seg>Многие отличные макросы включены в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many features that are available as extra cost add-ins in other office suites (like PDF export) are free with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T172239Z" creationid="olex" creationdate="20180611T172239Z">
+        <seg>Многие функции, доступные за дополнительную плату в других офисных пакетах (например, экспорт в формате PDF), бесплатны в LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16489,6 +16554,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The LibreOffice user interface, including spelling, hyphenation, and thesaurus dictionaries, is available in over 100 languages and dialects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T172632Z" creationid="olex" creationdate="20180611T172632Z">
+        <seg>Пользовательский интерфейс LibreOffice, включая словари, словари и словари тезауруса, доступен на более чем 100 языках и диалектах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The LibreOffice website in various languages&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180308T083055Z" creationid="tagezi" creationdate="20180308T083055Z">
@@ -17858,6 +17931,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T190840Z" creationid="olex" creationdate="20180315T190840Z">
         <seg>Существует много других способов использования стилей; подробнее смотрите руководства для различных модулей LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are no hidden charges now or in the future.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T172327Z" creationid="olex" creationdate="20180611T172327Z">
+        <seg>Нет никаких скрытых платежей в настоящее время или в будущем.</seg>
       </tuv>
     </tu>
     <tu>
