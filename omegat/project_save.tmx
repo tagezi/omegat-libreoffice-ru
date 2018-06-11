@@ -1354,6 +1354,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;mac&lt;/f0&gt;OS users can also get two versions of LibreOffice from the App Store: LibreOffice Vanilla (&lt;f1&gt;small &lt;/f1&gt;fee) and LibreOffice-from-Collabora (an enterprise-ready version; small fee).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T180730Z" creationid="olex" creationdate="20180611T180730Z">
+        <seg>&lt;f0&gt;mac&lt;/f0&gt; Пользователи ОС также могут получить две версии LibreOffice из магазина приложений: LibreOffice Vanilla (&lt;f1&gt;за небольшую плату&lt;/f1&gt;) и LibreOffice-from-Collabora (версия для предприятия, за небольшую плату).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;rem (10) Press &lt;/f0&gt;&lt;f1&gt;End&lt;/f1&gt;&lt;f2&gt; to move the cursor to the end of the line.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082202Z" creationid="tagezi" creationdate="20180319T082202Z">
@@ -6294,6 +6302,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extensions and add-ons are available to enhance LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T180858Z" creationid="olex" creationdate="20180611T180858Z">
+        <seg>Для улучшения LibreOffice доступны расширения и дополнения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extensions can be grouped into types:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T183944Z" creationid="tagezi" creationdate="20180320T183944Z">
@@ -10203,6 +10219,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In general, you start LibreOffice the same way you start any other program on your computer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T181142Z" creationid="olex" creationdate="20180611T181142Z">
+        <seg>В итоге, вы запускаете LibreOffice так же, как вы запускаете любую другую программу на своем компьютере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In most cases the technical terms are not used in this book, but it is useful to know them because the Help and other sources of information often use them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T203218Z" creationid="tagezi" creationdate="20180310T203218Z">
@@ -10511,6 +10535,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T201429Z" creationid="tagezi" creationdate="20180320T201429Z">
         <seg>Информация в следующих книгах в основном применима к LibreOffice; книги доступны для покупки в печатной и электронной форме от их издателей:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Information on installing and setting up LibreOffice on the various supported operating systems is given here: &lt;a0&gt;http://www.libreoffice.org/get-help/install-howto/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T180803Z" creationid="olex" creationdate="20180611T180803Z">
+        <seg>Информация об установке и настройке LibreOffice для различных поддерживаемых операционных систем приведена здесь: &lt;a0&gt;http://www.libreoffice.org/get-help/install-howto/&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11507,6 +11539,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T184413Z" creationid="tagezi" creationdate="20180320T184413Z">
         <seg>Лингвистические компоненты, такие как проверки орфографии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linux users will also find LibreOffice included in many of the latest Linux distributions; Ubuntu is just one example.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T180512Z" creationid="olex" creationdate="20180611T180512Z">
+        <seg>Пользователи Linux также найдут LibreOffice, включенным во многие свежие дистрибутивы Linux; Ubuntu - всего лишь один пример.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12927,6 +12967,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153356Z" creationid="tagezi" creationdate="20180318T153356Z">
         <seg>По завершении переменная dispatcher содержит ссылку на DispatchHelper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On computers with Windows or Linux operating systems, a menu entry for LibreOffice and each LibreOffice component appears in the system menu of your computer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T181227Z" creationid="olex" creationdate="20180611T181227Z">
+        <seg>На компьютерах с операционными системами Windows или Linux в меню программ вашего компьютера появится запись меню для LibreOffice и для каждого компонента LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14452,6 +14500,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See &lt;f1&gt;Chapter 14, Customizing LibreOffice&lt;/f1&gt; for more information on installing extensions and add-ons.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T181112Z" creationid="olex" creationdate="20180611T181112Z">
+        <seg>Смотрите &lt;f1&gt;Глава 14, Настройка LibreOffice&lt;/f1&gt; для получения дополнительной информации об установке расширений и дополнений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See &lt;f2&gt;Chapter 4, Getting Started with Writer&lt;/f2&gt;, for more about replacing styles using Find &amp; Replace.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T195531Z" creationid="olex" creationdate="20180313T195531Z">
@@ -15537,6 +15593,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T190810Z" creationid="olex" creationdate="20180424T184418Z">
         <seg>Некоторые из форматов чисел могут быть применены к ячейкам с помощью кнопок на панели инструментов Форматирование (выделено на Рисунке &lt;t0&gt;29&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Several extensions are installed with the program and you can get others from the official extensions repository, &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T181028Z" creationid="olex" creationdate="20180611T181028Z">
+        <seg>В программе установлено несколько расширений, и вы можете получать другие из официального хранилища расширений: &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20638,6 +20702,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Versions of LibreOffice for Windows, Linux, and Mac OS X can be downloaded free from &lt;a0&gt;http://www.libreoffice.org/download&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T180325Z" creationid="olex" creationdate="20180611T180325Z">
+        <seg>Версии LibreOffice для Windows, Linux и Mac OS X можно скачать бесплатно с &lt;a0&gt;http://www.libreoffice.org/download&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Viewing &lt;i0/&gt;and editing macros</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T065616Z" creationid="tagezi" creationdate="20180315T065616Z">
@@ -21533,6 +21605,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T204356Z" creationid="olex" creationdate="20180404T204326Z">
         <seg>Также вы можете вводить с клавиатуры диапазон ячеек непосредственно в поле Имя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also download the software by using a Peer-to-Peer client, such as BitTorrent, at the same address.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T180414Z" creationid="olex" creationdate="20180611T180414Z">
+        <seg>Вы также можете загрузить программное обеспечение с помощью торрент-клиента, такого как BitTorrent, по тому же адресу.</seg>
       </tuv>
     </tu>
     <tu>
