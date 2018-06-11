@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f0&gt;Usually, if you change an option, it affects all components.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T174039Z" creationid="olex" creationdate="20180611T173930Z">
+        <seg>&lt;/f0&gt;Обычно, если вы меняете настройку, то она затрагивает все компоненты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f1&gt;Page break lines are displayed on screen.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T193405Z" creationid="olex" creationdate="20180507T193405Z">
@@ -440,6 +448,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Consistent user interface.&lt;/f0&gt; All the components have a similar “look and feel,” making them easy to use and master.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T173343Z" creationid="olex" creationdate="20180611T173343Z">
+        <seg>&lt;f0&gt;Согласующийся пользовательский интерфейс.&lt;/f0&gt; Все компоненты имеют похожий внешний вид, что упрощает их использование и освоение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Control+click&lt;/f0&gt; or &lt;f1&gt;right-click&lt;/f1&gt; depending on computer setup</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T174705Z" creationid="olex" creationdate="20180306T174201Z">
@@ -657,6 +673,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>denkin: не могу подобрать подходящее слово</note>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Granularity.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Graphics styles&lt;/f0&gt; in drawings and presentations include line, area, shadowing, transparency, font, connectors, dimensioning, and other attributes.</seg>
       </tuv>
@@ -734,6 +756,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T181845Z" creationid="olex" creationdate="20180328T181845Z">
         <seg>&lt;f0&gt;Вставка&lt;/f0&gt; - содержит команды для вставки элементов в электронную таблицу; например, &lt;f1&gt;Изображение..., Медиа, Объект, Функция..., Текстовое поле, Специальные символы..., Диаграмма, Фигуры, Сводная таблица, Именованный диапазон или выражение, Комментарий, Гиперссылка..., Колонтитулы..., Элементы управления.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Integration.&lt;/f0&gt; The components of LibreOffice are well integrated with one another.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T173415Z" creationid="olex" creationdate="20180611T173415Z">
+        <seg>&lt;f0&gt;Интеграция.&lt;/f0&gt; Компоненты LibreOffice хорошо интегрированы друг с другом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2488,6 +2518,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T090828Z" creationid="tagezi" creationdate="20180315T090828Z">
         <seg>Весь текст после REM в этой строке игнорируется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All the components share a common spelling checker and other tools, which are used consistently across the suite.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T173527Z" creationid="olex" creationdate="20180611T173527Z">
+        <seg>Все компоненты имеют общую проверку орфографии и другие инструменты, которые систематично используются в пакете.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7379,6 +7417,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, the drawing tools available in Writer are also found in Calc, with similar but enhanced versions in Impress and Draw.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T173738Z" creationid="olex" creationdate="20180611T173738Z">
+        <seg>Например, инструменты рисования, доступны в Writer, в Calc и в подобном виде, но расширенными возможностями присутствуют в Impress и Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, the first page of a letterhead typically has a different header, or the first page of a report might have no header or footer, while the other pages do.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T191347Z" creationid="olex" creationdate="20180315T191347Z">
@@ -7463,6 +7509,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T155000Z" creationid="olex" creationdate="20180306T175441Z">
         <seg>Например, можно создать шаблон для бизнес-отчетов, на первой странице которого будет логотип вашей компании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you can open a Draw file from Writer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T173820Z" creationid="olex" creationdate="20180611T173820Z">
+        <seg>Например, вы можете открыть файл Draw прямо из Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8952,6 +9006,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181234Z" creationid="tagezi" creationdate="20180304T181234Z">
         <seg>Однако, Draw также может экспортировать в BMP, EMF, EPS, GIF, JPEG, MET, PBM, PCT, PGM, PNG, PPM, RAS, SVG, SVM, TIFF, WMF, and XPM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, LibreOffice options can be set at a component level or even at document level.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T174105Z" creationid="olex" creationdate="20180611T174105Z">
+        <seg>Однако параметры LibreOffice могут быть установлены на уровне компонентов или даже на уровне документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22058,6 +22120,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T192959Z" creationid="tagezi" creationdate="20180310T192959Z">
         <seg>Вам не нужно запрашивать специальное разрешение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You do not need to know which application was used to create a particular file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180611T173757Z" creationid="olex" creationdate="20180611T173757Z">
+        <seg>Вам не нужно знать, какое приложение использовалось для создания определенного файла.</seg>
       </tuv>
     </tu>
     <tu>
