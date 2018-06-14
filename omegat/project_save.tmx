@@ -2507,6 +2507,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After Quickstarter has been activated, an icon &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt;is installed into the system tray at the bottom of the display.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T185149Z" creationid="olex" creationdate="20180614T185102Z">
+        <seg>После активации Быстрого запуска в системном трее на панели появится значок &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After defining a print range, select an extra range of cells for adding to the print range.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T194306Z" creationid="olex" creationdate="20180507T194306Z">
@@ -4693,8 +4701,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Close and restart LibreOffice to have Quickstarter appear.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180614T184621Z" creationid="olex" creationdate="20180614T184621Z">
-        <seg>Закройте LibreOffice и запустите снова, чтобы появилась Быстрая загрузка.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T184734Z" creationid="olex" creationdate="20180614T184621Z">
+        <seg>Закройте LibreOffice и запустите снова, чтобы появился Быстрый запуск.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6716,6 +6724,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132523Z" creationid="tagezi" creationdate="20180312T132523Z">
         <seg>Рисунок &lt;seq0&gt;2&lt;/seq0&gt;: Диалоговое окно Управление Макросами LibreOffice Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Quickstarter menu in Windows</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T185600Z" creationid="olex" creationdate="20180614T185600Z">
+        <seg>Рисунок &lt;seq0&gt;2&lt;/seq0&gt;: Меню Быстрого запуска в Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -8746,12 +8762,11 @@ LG:DONE</note>
       </tuv>
     </tu>
     <tu>
-      <note>denkin: повторяю - нет такого меню в Убунту 18.04</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Memory&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Load LibreOffice during system start-up (if using Windows) or select Enable systray Quickstarter (if using Linux)&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180614T184532Z" creationid="olex" creationdate="20180614T184532Z">
-        <seg>Пройдите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Память&lt;/f0&gt; и выберите &lt;f1&gt;Загружать LibreOffice во время запуска системы (если используется Windows) или выберите Включить systray Quickstarter (если используется Linux)&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T190513Z" creationid="olex" creationdate="20180614T184532Z">
+        <seg>Пройдите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Память&lt;/f0&gt; и выберите &lt;f1&gt;Загружать LibreOffice во время запуска системы (если используется Windows) или &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Общие&lt;/f0&gt; выберите Использовать быстрый запуск (если используется Linux)&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9264,6 +9279,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180601T182345Z" creationid="olex" creationdate="20180507T192129Z">
         <seg>Однако некоторые детали печати в Calc отличаются, особенно в части подготовки к печати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, when the computer is restarted, Quickstarter will be loaded again.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T185904Z" creationid="olex" creationdate="20180614T185904Z">
+        <seg>Однако, когда компьютер будет перезагружен, Быстрый запуск снова загрузится.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13054,8 +13077,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>On a computer &lt;f0&gt;using&lt;/f0&gt; Linux or Windows operating system&lt;f1&gt;s&lt;/f1&gt;, the default installation of LibreOffice does not set the Quickstarter to load automatically.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180614T184254Z" creationid="olex" creationdate="20180614T184254Z">
-        <seg>На компьютере &lt;f0&gt;с&lt;/f0&gt; операционной системой Linux или Windows &lt;f1&gt;&lt;/f1&gt; при установке по умолчанию LibreOffice не активирует автоматическую загрузку Быстрого запуска.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T190605Z" creationid="olex" creationdate="20180614T184254Z">
+        <seg>На компьютере &lt;f0&gt;под управлением&lt;/f0&gt; операционной системой Linux или Windows &lt;f1&gt;&lt;/f1&gt; при установке по умолчанию LibreOffice не активирует автоматическую загрузку Быстрого запуска.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14068,12 +14091,19 @@ denkin: не понял? чего не видно?</note>
       </tuv>
     </tu>
     <tu>
-      <note>denkin: насколько я понял - быстрый запуск уже убрали - не нашел такого пункта в настройках</note>
       <tuv lang="EN-US">
         <seg>Quickstarter</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T195003Z" creationid="olex" creationdate="20180607T195003Z">
         <seg>Быстрый запуск</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quickstarter is then available at all times, whether LibreOffice is open or not.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T185245Z" creationid="olex" creationdate="20180614T185245Z">
+        <seg>Быстрый запуск доступен теперь всегда, независимо от того, запущен LibreOffice или нет.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14406,6 +14436,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click on the &lt;f0&gt;Quickstarter&lt;/f0&gt; icon and deselect &lt;f1&gt;Load LibreOffice during system start-up&lt;/f1&gt; on the pop-up menu (on Windows) or select &lt;f2&gt;Disable systray Quickstarter&lt;/f2&gt; (on Linux).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T190102Z" creationid="olex" creationdate="20180614T190102Z">
+        <seg>Щелкните правой кнопкой мыши по значку &lt;f0&gt;Быстрого запуска&lt;/f0&gt; и снимите флажок с пункта &lt;f1&gt;Загружать LibreOffice во время запуска системы&lt;/f1&gt; во всплывающем меню (в Windows) или выберите &lt;f2&gt;Отключить systray Quickstarter&lt;/f2&gt; (в Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click on the cell and select &lt;f0&gt;Format Cells&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; on the Menu bar, or press &lt;f2&gt;Ctrl+1&lt;/f2&gt;, to open the Format Cells dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T200153Z" creationid="olex" creationdate="20180418T200153Z">
@@ -14426,6 +14464,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T215920Z" creationid="olex" creationdate="20180407T215631Z">
         <seg>Щелкните правой кнопкой мыши на вкладке листа, рядом с которым хотите вставить новый лист, и выберите &lt;f0&gt;Вставить лист...&lt;/f0&gt; из контекстного меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-click the &lt;f0&gt;Quickstarter&lt;/f0&gt; icon in the system tray to open a pop-up menu (Figure &lt;t1&gt;2&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T185445Z" creationid="olex" creationdate="20180614T185445Z">
+        <seg>Щелкните правой кнопкой мыши по значку &lt;f0&gt;Быстрого запуска&lt;/f0&gt; на панели, чтобы открыть всплывающее меню (смотрите Рисунок &lt;t1&gt;2&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15170,6 +15216,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204553Z" creationid="Роман" creationdate="20180316T204553Z">
         <seg>Выберите греческий символ из списка символов, затем нажмите кнопку &lt;f0&gt;Вставить&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the LibreOffice component you want to open to create a new document, or select &lt;f0&gt;From Template&lt;/f0&gt; to open the Template Manager, or select &lt;f1&gt;Open Document&lt;/f1&gt; to open an existing document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T185532Z" creationid="olex" creationdate="20180614T185532Z">
+        <seg>Выберите компонент LibreOffice, который вы хотите открыть, чтобы создать новый документ или выберите &lt;f0&gt;Из шаблона&lt;/f0&gt;, чтобы открыть диспетчер шаблонов, или выберите &lt;f1&gt;Открыть документ&lt;/f1&gt;, чтобы открыть существующий документ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18911,8 +18965,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To activate it:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180614T184303Z" creationid="olex" creationdate="20180614T184303Z">
-        <seg>Для активации:</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T190612Z" creationid="olex" creationdate="20180614T184303Z">
+        <seg>Для его активации:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19623,6 +19677,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To prevent the Quickstarter from loading during system startup, do one of the following:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T185943Z" creationid="olex" creationdate="20180614T185943Z">
+        <seg>Чтобы отменить загрузку Быстрого запуска при старте системы, выполните одно из следующих действий:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To publish on a Wiki server, export the documents with MediaWiki (.txt) format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T212011Z" creationid="tagezi" creationdate="20180304T212011Z">
@@ -19873,10 +19935,26 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To start a LibreOffice component directly by using Quickstarter:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T185306Z" creationid="olex" creationdate="20180614T185306Z">
+        <seg>Чтобы запустить компонент LibreOffice, используя Quickstarter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To start, check out this webpage: &lt;a0&gt;https://www.libreoffice.org/community/get-involved/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T192251Z" creationid="tagezi" creationdate="20180310T192251Z">
         <seg>Для начала ознакомьтесь с этой страницей: &lt;a0&gt;https://www.libreoffice.org/community/get-involved/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To temporarily close Quickstarter on a computer using a Windows operating system, right-click on the &lt;f0&gt;Quickstarter&lt;/f0&gt; icon in the system tray and select &lt;f1&gt;Exit Quickstarter&lt;/f1&gt; in the pop-up menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T185731Z" creationid="olex" creationdate="20180614T185731Z">
+        <seg>Чтобы временно закрыть Быстрый запуск на компьютере с использованием операционной системы Windows, щелкните правой кнопкой мыши по значку &lt;f0&gt;Быстрого запуска&lt;/f0&gt; на панели и выберите &lt;f1&gt;Exit Quickstarter&lt;/f1&gt; во всплывающем меню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20520,6 +20598,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T094657Z" creationid="tagezi" creationdate="20180305T094657Z">
         <seg>Использование LibreOffice на macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using Quickstarter o&lt;f0&gt;n&lt;/f0&gt; Linux o&lt;f1&gt;r&lt;/f1&gt; Windows</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T184839Z" creationid="olex" creationdate="20180614T184839Z">
+        <seg>Использование Быстрого запуска &lt;f0&gt;на&lt;/f0&gt; Linux &lt;f1&gt;или&lt;/f1&gt; Windows</seg>
       </tuv>
     </tu>
     <tu>
