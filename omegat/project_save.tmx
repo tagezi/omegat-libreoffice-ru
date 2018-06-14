@@ -9661,8 +9661,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If you did not associate the file types and Microsoft Office is installed on your computer, then when you double-click on a Microsoft Office file, it opens using the appropriate Microsoft Office component.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180611T182718Z" creationid="olex" creationdate="20180611T182718Z">
-        <seg>Если вы не ассоциировали файлы Microsoft Office с LibreOffice, и Microsoft Office установлен на вашем компьютере, то при двойном щелчке по этим файлам они откроются с использованием соответствующего компонента Microsoft Office.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T183238Z" creationid="olex" creationdate="20180611T182718Z">
+        <seg>Если вы не ассоциировали файлы Microsoft Office с LibreOffice, и Microsoft Office установлен на вашем компьютере, то при двойном щелчке по этим файлам они откроются в соответствующем компоненте Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20962,6 +20962,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T151730Z" creationid="tagezi" creationdate="20180313T151730Z">
         <seg>Когда LibreOffice создает новый модуль, он автоматически добавляет макрос с именем Main.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When LibreOffice is installed on computers running Windows or Linux, a Quickstarter feature may also be installed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T183401Z" creationid="olex" creationdate="20180614T183401Z">
+        <seg>Если LibreOffice установлен на компьютерах под управлением Windows или Linux, то также можно использовать функцию Быстрого запуска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When Quickstarter is activated, the necessary library files are loaded when the computer system is started, resulting in a shorter startup time for LibreOffice components.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T183831Z" creationid="olex" creationdate="20180614T183831Z">
+        <seg>Когда активирован Быстрый запуск, то при запуске компьютерной системы загружаются необходимые файлы библиотеки, что приводит к более короткому времени запуска для компонентов LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
