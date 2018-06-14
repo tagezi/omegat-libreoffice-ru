@@ -641,6 +641,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Format&lt;/f0&gt; – contains commands for formatting the layout of your document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T193622Z" creationid="olex" creationdate="20180614T193622Z">
+        <seg>&lt;f0&gt;Формат&lt;/f0&gt; – содержит команды для форматирования макета вашего документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Format&lt;/f0&gt; – contains commands for modifying the layout of a spreadsheet; for example, &lt;f1&gt;Cells&lt;/f1&gt;, &lt;f2&gt;Page&lt;/f2&gt;, &lt;f3&gt;Styles&lt;/f3&gt;, &lt;f4&gt;Alignment, Merge Cells, Print Range, Conditional Formatting, Spreadsheet Themes, Image, Chart, Object.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180515T190854Z" creationid="olex" creationdate="20180328T182456Z">
@@ -737,6 +745,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Help&lt;/f0&gt; – contains links to the LibreOffice Help file, What’s This?, and information about the program.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T194144Z" creationid="olex" creationdate="20180614T194144Z">
+        <seg>&lt;f0&gt;Справка&lt;/f0&gt; – содержит ссылки на файл справки LibreOffice, Что это такое? и информацию о программе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Help&lt;/f0&gt; – contains links to the LibreOffice help system and other miscellaneous functions; for example, &lt;f1&gt;Help&lt;/f1&gt;, &lt;f2&gt;License Information&lt;/f2&gt;, User Guides, &lt;f3&gt;Check for Updates, Send Feedback and Donate&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T185805Z" creationid="olex" creationdate="20180328T185805Z">
@@ -797,6 +813,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T181845Z" creationid="olex" creationdate="20180328T181845Z">
         <seg>&lt;f0&gt;Вставка&lt;/f0&gt; - содержит команды для вставки элементов в электронную таблицу; например, &lt;f1&gt;Изображение..., Медиа, Объект, Функция..., Текстовое поле, Специальные символы..., Диаграмма, Фигуры, Сводная таблица, Именованный диапазон или выражение, Комментарий, Гиперссылка..., Колонтитулы..., Элементы управления.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Insert&lt;/f0&gt; – contains commands for inserting elements into your document such as Header, Footer, and Image.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T193557Z" creationid="olex" creationdate="20180614T193557Z">
+        <seg>&lt;f0&gt;Вставка&lt;/f0&gt; – содержит команды для вставки элементов в ваш документ, такие как Колонтитулы и Изображение.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1129,6 +1153,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Styles&lt;/f0&gt; – contains commands for quickly applying common styles; for editing, loading, and creating new styles; and for accessing the Styles and Formatting section of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T193735Z" creationid="olex" creationdate="20180614T193735Z">
+        <seg>&lt;f0&gt;Стили&lt;/f0&gt; – содержит команды для быстрого применения основных стилей; для редактирования, загрузки и создания новых стилей; и для доступа к разделу Стили и форматирование на Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Sum&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;– clicking on the Sum icon totals the numbers in the cells above the selected cell and then places the total in the selected cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T182451Z" creationid="olex" creationdate="20180329T182451Z">
@@ -1153,6 +1185,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Table&lt;/f0&gt; – contains commands to insert and edit a table in a text document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T193806Z" creationid="olex" creationdate="20180614T193806Z">
+        <seg>&lt;f0&gt;Таблица&lt;/f0&gt; – содержит команды для вставки и редактирования таблиц в текстовом документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Text delimiter&lt;/f0&gt; – select a character to delimit text data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T175639Z" creationid="olex" creationdate="20180330T192533Z">
@@ -1173,6 +1213,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100035Z" creationid="lera" creationdate="20180303T153517Z">
         <seg>Выбор меню &lt;f0&gt;Сервис &gt; Параметры...&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Tools&lt;/f0&gt; – contains functions such as Spelling and Grammar, AutoCorrect, Customize, and Options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T194016Z" creationid="olex" creationdate="20180614T194016Z">
+        <seg>&lt;f0&gt;Сервис&lt;/f0&gt; – содержит такие функции, как Проверка орфографии, Автозамена, Настройка и Параметры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1297,6 +1345,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;View&lt;/f0&gt; – contains commands for controlling the display of the document such as Zoom and Web Layout.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T193424Z" creationid="olex" creationdate="20180614T193424Z">
+        <seg>&lt;f0&gt;Вид&lt;/f0&gt; – содержит команды для управления отображением документа, такие как Масштаб и Веб-страница.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;View&lt;/f0&gt; – contains commands for modifying how the Calc user interface looks; for example, &lt;f1&gt;Toolbars, Grids, Column &amp; Row Headers, Full Screen, Zoom.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180515T190742Z" creationid="olex" creationdate="20180328T180844Z">
@@ -1326,6 +1382,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T102301Z" creationid="tagezi" creationdate="20180306T183244Z">
         <seg>&lt;f0&gt;Что это такое?&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;Для быстрых подсказок, когда видна панель инструментов, поместите указатель мыши над любым значком, чтобы увидеть маленькие прямоугольники (“всплывающая подсказка”) с кратким описанием функции значка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Window&lt;/f0&gt; – contains commands for the display window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T194050Z" creationid="olex" creationdate="20180614T194050Z">
+        <seg>&lt;f0&gt;Окно&lt;/f0&gt; – содержит команды для отображения окна.</seg>
       </tuv>
     </tu>
     <tu>
