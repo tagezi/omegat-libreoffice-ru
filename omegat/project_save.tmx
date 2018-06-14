@@ -561,6 +561,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Edit&lt;/f0&gt; – contains commands for editing the document such as Undo, Find &amp; Replace, Cut, Copy, and Paste.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T193319Z" creationid="olex" creationdate="20180614T193319Z">
+        <seg>&lt;f0&gt;Правка&lt;/f0&gt; – содержит команды для редактирования документа, такие как Отменить, Найти и заменить, Вырезать, Копировать и Вставить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Edit&lt;/f0&gt; – contains commands for editing the document; for example, &lt;f1&gt;Undo, Copy, Paste, Track Changes, Find and Replace, Compare and Merge Documents&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T180425Z" creationid="olex" creationdate="20180328T180425Z">
@@ -605,6 +613,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T174529Z" creationid="olex" creationdate="20180611T174529Z">
         <seg>&lt;f0&gt;Совместимость файлов.&lt;/f0&gt; В дополнение к собственным форматам OpenDocument LibreOffice предлагает поддержку для открытия и сохранения файлов во многих распространенных форматах, включая Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3 и PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;File&lt;/f0&gt; – contains commands that apply to the entire document such as Open, Save, and Export as PDF.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T192936Z" creationid="olex" creationdate="20180614T192936Z">
+        <seg>&lt;f0&gt;Файл&lt;/f0&gt; – содержит команды, которые применяются ко всему документу, такие как Открыть, Сохранить и Экспорт в PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1486,6 +1502,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T082114Z" creationid="tagezi" creationdate="20180319T082114Z">
         <seg>&lt;f0&gt;rem (9) Нажмите &lt;/f0&gt;&lt;f1&gt;Ctrl+C&lt;/f1&gt;&lt;f2&gt; для копирования выделенного текста в буфер обмена.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f1&gt;Below is the case for Writer:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T192817Z" creationid="olex" creationdate="20180614T192817Z">
+        <seg>&lt;f1&gt;Ниже приведен пример для Writer:&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4783,6 +4807,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T184402Z" creationid="olex" creationdate="20180506T181756Z">
         <seg>Комментарии это небольшие заметки и текст, которые могут быть напоминанием или пояснением для других пользователей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Common features include the Menu bar, standard toolbar, and formatting toolbar at the top of the window and the status bar at the bottom.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T192606Z" creationid="olex" creationdate="20180614T192606Z">
+        <seg>Общие функции это панель меню, стандартная панель инструментов, панель инструментов форматирования в верхней части окна и строка состояния внизу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8763,10 +8795,18 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Memory&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;Load LibreOffice during system start-up (on Windows) or deselect Enable systray Quickstarter on Linux&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T191906Z" creationid="olex" creationdate="20180614T191715Z">
+        <seg>Выберите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Общие&lt;/f0&gt; и снимите флажок &lt;f1&gt;Загружать LibreOffice во время старта системы (в Windows) или снимите флажок Использовать быстрый запуск в Linux&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Memory&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Load LibreOffice during system start-up (if using Windows) or select Enable systray Quickstarter (if using Linux)&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180614T190513Z" creationid="olex" creationdate="20180614T184532Z">
-        <seg>Пройдите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Память&lt;/f0&gt; и выберите &lt;f1&gt;Загружать LibreOffice во время запуска системы (если используется Windows) или &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Общие&lt;/f0&gt; выберите Использовать быстрый запуск (если используется Linux)&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T191741Z" creationid="olex" creationdate="20180614T184532Z">
+        <seg>Пройдите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt;  Общие&lt;/f0&gt; и выберите &lt;f1&gt;Загружать LibreOffice во время запуска системы (если используется Windows) или выберите Использовать быстрый запуск (если используется Linux)&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9285,8 +9325,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>However, when the computer is restarted, Quickstarter will be loaded again.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180614T185904Z" creationid="olex" creationdate="20180614T185904Z">
-        <seg>Однако, когда компьютер будет перезагружен, Быстрый запуск снова загрузится.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T191535Z" creationid="olex" creationdate="20180614T185904Z">
+        <seg>Однако, когда компьютер будет перезагружен, Быстрый запуск загрузится снова.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9391,6 +9431,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T205356Z" creationid="olex" creationdate="20180309T205356Z">
         <seg>Если в окне Стиль активны стили абзаца, то в список будет добавлен новый стиль абзаца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If Quickstarter has been disabled, you can reactivate it by using the instructions given in “&lt;bf0&gt;Activating Quickstarter&lt;/bf0&gt;” above.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T192034Z" creationid="olex" creationdate="20180614T192034Z">
+        <seg>Если Быстрый запуск отключен, то вы можете активировать его, используя инструкции, приведенные в разделе «&lt;bf0&gt;Активация Быстрого запуска&lt;/bf0&gt;» выше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14438,8 +14486,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Right-click on the &lt;f0&gt;Quickstarter&lt;/f0&gt; icon and deselect &lt;f1&gt;Load LibreOffice during system start-up&lt;/f1&gt; on the pop-up menu (on Windows) or select &lt;f2&gt;Disable systray Quickstarter&lt;/f2&gt; (on Linux).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180614T190102Z" creationid="olex" creationdate="20180614T190102Z">
-        <seg>Щелкните правой кнопкой мыши по значку &lt;f0&gt;Быстрого запуска&lt;/f0&gt; и снимите флажок с пункта &lt;f1&gt;Загружать LibreOffice во время запуска системы&lt;/f1&gt; во всплывающем меню (в Windows) или выберите &lt;f2&gt;Отключить systray Quickstarter&lt;/f2&gt; (в Linux).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T191621Z" creationid="olex" creationdate="20180614T190102Z">
+        <seg>Щелкните правой кнопкой мыши по значку &lt;f0&gt;Быстрого запуска&lt;/f0&gt; и снимите флажок с пункта &lt;f1&gt;Загружать LibreOffice во время старта системы&lt;/f1&gt; во всплывающем меню (в Windows) или выберите &lt;f2&gt;Отключить Быстрый запуск&lt;/f2&gt; (в Linux).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14816,6 +14864,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T182338Z" creationid="olex" creationdate="20180403T182207Z">
         <seg>Смотри следующий раздел.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the relevant chapters in this guide about Writer, Calc, Draw, and Impress for descriptions of those details.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T192443Z" creationid="olex" creationdate="20180614T192443Z">
+        <seg>Смотрите соответствующие главы этого руководства о Writer, Calc, Draw и Impress с описанием этих различий.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16616,6 +16672,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Menu bar&lt;/f0&gt; is located across the top of the LibreOffice window, just below the title bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T192706Z" creationid="olex" creationdate="20180614T192706Z">
+        <seg>&lt;f0&gt;Строка меню&lt;/f0&gt; расположена в верхней части окна LibreOffice, ниже строки заголовка окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;f0&gt;Pages&lt;/f0&gt; pane gives an overview of the pages that you create in your drawing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T181142Z" creationid="olex" creationdate="20180603T181014Z">
@@ -17768,6 +17832,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T180027Z" creationid="olex" creationdate="20180330T180027Z">
         <seg>В основной части рабочей области Calc показаны ячейки &lt;i0/&gt;в виде сетки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The main window is similar for each component of LibreOffice, although some details vary.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T192336Z" creationid="olex" creationdate="20180614T192258Z">
+        <seg>Главные окна каждого из компонентов LibreOffice схожи между собой, хотя между ними есть некоторые различия.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19937,8 +20009,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>To start a LibreOffice component directly by using Quickstarter:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180614T185306Z" creationid="olex" creationdate="20180614T185306Z">
-        <seg>Чтобы запустить компонент LibreOffice, используя Quickstarter:</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T191400Z" creationid="olex" creationdate="20180614T185306Z">
+        <seg>Чтобы запустить компонент LibreOffice, используя Быстрый запуск:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19953,8 +20025,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>To temporarily close Quickstarter on a computer using a Windows operating system, right-click on the &lt;f0&gt;Quickstarter&lt;/f0&gt; icon in the system tray and select &lt;f1&gt;Exit Quickstarter&lt;/f1&gt; in the pop-up menu.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180614T185731Z" creationid="olex" creationdate="20180614T185731Z">
-        <seg>Чтобы временно закрыть Быстрый запуск на компьютере с использованием операционной системы Windows, щелкните правой кнопкой мыши по значку &lt;f0&gt;Быстрого запуска&lt;/f0&gt; на панели и выберите &lt;f1&gt;Exit Quickstarter&lt;/f1&gt; во всплывающем меню.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T191516Z" creationid="olex" creationdate="20180614T185731Z">
+        <seg>Чтобы временно закрыть Быстрый запуск на компьютере с использованием операционной системы Windows, щелкните правой кнопкой мыши по значку &lt;f0&gt;Быстрого запуска&lt;/f0&gt; на панели и выберите &lt;f1&gt;Выйти из Быстрого запуска&lt;/f1&gt; во всплывающем меню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21452,6 +21524,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180515T190043Z" creationid="olex" creationdate="20180328T175303Z">
         <seg>Когда вы выбираете элемент на панели меню&lt;i0/&gt;, "выпадает" подменю, которое отображает команды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you select one of the menus listed below, a sub-menu drops down to show commands.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T192757Z" creationid="olex" creationdate="20180614T192757Z">
+        <seg>Когда вы выбираете одно из перечисленных ниже меню, то выпадает подменю, отображающее команды.</seg>
       </tuv>
     </tu>
     <tu>
