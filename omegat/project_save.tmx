@@ -4795,6 +4795,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Computers with a &lt;f0&gt;macOS&lt;/f0&gt; do not have a Quickstarter.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T184034Z" creationid="olex" creationdate="20180614T184034Z">
+        <seg>На компьютерах с &lt;f0&gt;macOS&lt;/f0&gt; функция Быстрый запуск недоступна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Conditional formatting depends upon the use of styles and the AutoCalculate feature must be enabled.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T182018Z" creationid="olex" creationdate="20180502T181702Z">
@@ -8727,6 +8735,15 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T061257Z" creationid="tagezi" creationdate="20180313T185238Z">
         <seg>Откройте диалоговое окно Выбор макроса (Рисунок &lt;t1&gt;4&lt;/t1&gt;), выбрав в меню &lt;f0&gt;Сервис &gt; Макросы &gt; Выполнить макрос&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>denkin: повторяю - нет такого меню в Убунту 18.04</note>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Memory&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Load LibreOffice during system start-up (if using Windows) or select Enable systray Quickstarter (if using Linux)&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T184532Z" creationid="olex" creationdate="20180614T184532Z">
+        <seg>Пройдите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Память&lt;/f0&gt; и выберите &lt;f1&gt;Загружать LibreOffice во время запуска системы (если используется Windows) или выберите Включить systray Quickstarter (если используется Linux)&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13027,6 +13044,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On a computer &lt;f0&gt;using&lt;/f0&gt; Linux or Windows operating system&lt;f1&gt;s&lt;/f1&gt;, the default installation of LibreOffice does not set the Quickstarter to load automatically.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T184254Z" creationid="olex" creationdate="20180614T184254Z">
+        <seg>На компьютере &lt;f0&gt;с&lt;/f0&gt; операционной системой Linux или Windows &lt;f1&gt;&lt;/f1&gt; при установке по умолчанию LibreOffice не активирует автоматическую загрузку Быстрого запуска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On a computer operating Linux, the LibreOffice specific files are stored in the home directory of a user, in a subdirectory whose name begins with a period (usually .config/).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123833Z" creationid="tagezi" creationdate="20180320T123833Z">
@@ -13167,6 +13192,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T132337Z" creationid="tagezi" creationdate="20180313T132337Z">
         <seg>Откройте &lt;i0/&gt;контейнер библиотек &lt;f1&gt;Мои макросы&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T184311Z" creationid="olex" creationdate="20180614T184311Z">
+        <seg>Откройте LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14027,6 +14060,7 @@ denkin: не понял? чего не видно?</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: насколько я понял - быстрый запуск уже убрали - не нашел такого пункта в настройках</note>
       <tuv lang="EN-US">
         <seg>Quickstarter</seg>
       </tuv>
@@ -18863,6 +18897,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180515T191605Z" creationid="olex" creationdate="20180329T175052Z">
         <seg>Чтобы активировать её выберите &lt;f0&gt;Вид &gt; Панели инструментов &gt; Стандартная (однострочная)&lt;/f0&gt;, а так же отключите &lt;f1&gt;Вид &gt; Панели инструментов &gt; Стандартная&lt;/f1&gt; и &lt;f2&gt;Вид &gt; Панели инструментов &gt; Форматирование&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To activate it:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180614T184303Z" creationid="olex" creationdate="20180614T184303Z">
+        <seg>Для активации:</seg>
       </tuv>
     </tu>
     <tu>
