@@ -3623,6 +3623,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>By default, a toolbar will dock at the top of the workspace.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T182953Z" creationid="olex" creationdate="20180615T182953Z">
+        <seg>По умолчанию панель инструментов будет размещена в верхней части рабочей области.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: есть очевидный косяк с этим утверждением: например числа отформатированные как текст чудесно складываюся и перемножаются, но не суммируются</note>
       <tuv lang="EN-US">
         <seg>By default, any numbers that have been formatted as text in a spreadsheet will be treated as a zero by any formulas used in the spreadsheet.</seg>
@@ -3677,6 +3685,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T100354Z" creationid="tagezi" creationdate="20180313T100354Z">
         <seg>По умолчанию эта функция отключена, когда LibreOffice был установлен на вашем компьютере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, toolbars will dock at the top of the workspace.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T183317Z" creationid="olex" creationdate="20180615T183317Z">
+        <seg>По умолчанию панели инструментов будут прикреплены в верхней части рабочей области.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4201,10 +4217,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Customize Toolbar&lt;/f0&gt; to open the Customize dialog; See &lt;f1&gt;Chapter 14 Customizing LibreOffice&lt;/f1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T182804Z" creationid="olex" creationdate="20180615T182804Z">
+        <seg>Нажмите &lt;f0&gt;Настроить панель инструментов&lt;/f0&gt;, чтобы открыть диалоговое окно Настроить; смотрите &lt;f1&gt;Глава 14 Настройка LibreOffice&lt;/f1&gt; для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Dock All Toolbars&lt;/f0&gt; to dock all floating toolbars.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T183227Z" creationid="olex" creationdate="20180615T183227Z">
+        <seg>Нажмите &lt;f0&gt;Закрепить все панели инструментов&lt;/f0&gt; чтобы прикрепить все плавающие панели инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Dock Toolbar&lt;/f0&gt; to dock the selected floating toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T183248Z" creationid="olex" creationdate="20180615T182926Z">
+        <seg>Нажмите &lt;f0&gt;Закрепить панель инструментов&lt;/f0&gt;, чтобы прикрепить выбранную плавающую панель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Export...&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T192532Z" creationid="olex" creationdate="20180402T192532Z">
         <seg>Нажмите &lt;f0&gt;Сохранить&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Lock Toolbar Position&lt;/f0&gt; to lock a docked toolbar into its docked position.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T183526Z" creationid="olex" creationdate="20180615T183526Z">
+        <seg>Нажмите &lt;f0&gt;Фиксировать позицию панели инструментов&lt;/f0&gt;, чтобы заблокировать закрепленную панель инструментов в ее закрепленном положении.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7089,6 +7137,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Selection of visible toolbar icons</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T182713Z" creationid="olex" creationdate="20180615T182713Z">
+        <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: Выбор видимых значков на панели инструментов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Confirm File Format dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T190116Z" creationid="olex" creationdate="20180402T190116Z">
@@ -7806,6 +7862,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094809Z" creationid="Роман" creationdate="20180316T094809Z">
         <seg>Например, ввод на языке разметки &lt;f1&gt;5 times 4&lt;/f1&gt; в Редакторе формул создаст простую формулу &lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, when the cursor is in a table, a &lt;f0&gt;Table&lt;/f0&gt; toolbar appears, and when the cursor is in a numbered or bullet list, the &lt;f1&gt;Bullets and Numbering&lt;/f1&gt; toolbar appears.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T182206Z" creationid="olex" creationdate="20180615T182206Z">
+        <seg>Например, когда курсор находится в таблице, появляется панель инструментов &lt;f0&gt;Таблица&lt;/f0&gt;, а когда курсор находится в нумерованном или маркированном списке, появляется панель инструментов &lt;f1&gt;Маркеры и нумерация&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15092,6 +15156,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See “&lt;bf1&gt;Moving toolbars&lt;/bf1&gt;” on page &lt;bf2&gt;12&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T183113Z" creationid="olex" creationdate="20180615T183113Z">
+        <seg>Смотрите “&lt;bf1&gt;Перемещение панелей инструментов&lt;/bf1&gt;” на странице &lt;bf2&gt;12&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See “&lt;bf1&gt;Running a macro&lt;/bf1&gt;” on page &lt;bf2&gt;7&lt;/bf2&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134406Z" creationid="tagezi" creationdate="20180320T134406Z">
@@ -15416,6 +15488,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T153418Z" creationid="olex" creationdate="20180307T205008Z">
         <seg>Нажмите одну из кнопок в левом верхнем углу окна Стили, чтобы отобразить список стилей в этой категории.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select or deselect icons to hide or show them on the toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T182653Z" creationid="olex" creationdate="20180615T182653Z">
+        <seg>Установите или снимите флажки на значках, чтобы скрыть или показать их на панели инструментов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19251,6 +19331,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access the customization options for a toolbar, right-click in an empty space between the icons on a toolbar to open a context menu as follows:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T182426Z" creationid="olex" creationdate="20180615T182426Z">
+        <seg>Чтобы получить доступ к параметрам настройки панели инструментов, щелкните правой кнопкой мыши по пустому пространству между значками на панели инструментов, чтобы открыть контекстное меню:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access the pivot table creation dialog, choose &lt;f0&gt;Insert &gt; Pivot Table&lt;/f0&gt; or &lt;f1&gt;Data &gt; Pivot Table &gt; Create&lt;/f1&gt; from the main menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T190149Z" creationid="olex" creationdate="20180507T190048Z">
@@ -20243,6 +20331,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T190749Z" creationid="olex" creationdate="20180502T184846Z">
         <seg>Чтобы отобразить скрытые строки или столбцы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To show or hide icons defined for the selected toolbar, click &lt;f0&gt;Visible Buttons&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T182514Z" creationid="olex" creationdate="20180615T182514Z">
+        <seg>Чтобы отобразить или скрыть значки, определенные для выбранной панели инструментов, нажмите &lt;f0&gt;Показать кнопки&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21302,6 +21398,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Visible icons on a toolbar are indicated by an outline around the icon (Figure &lt;t1&gt;5&lt;/t1&gt;) or by a check mark beside the icon, depending on your operating system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T182612Z" creationid="olex" creationdate="20180615T182612Z">
+        <seg>Видимые значки на панели инструментов обозначаются контуром вокруг значка (Рисунок &lt;t1&gt;5&lt;/t1&gt;) или галочкой рядом с иконкой в зависимости от вашей операционной системы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T195603Z" creationid="tagezi" creationdate="20180310T194313Z">
@@ -22185,6 +22289,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also add icons and create new toolbars, as described in &lt;f0&gt;Chapter 14 Customizing LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T182326Z" creationid="olex" creationdate="20180615T182326Z">
+        <seg>Вы также можете добавлять значки и создавать новые панели инструментов, как, описано в разделе &lt;f0&gt;Глава 14 Настройка LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also adjust the range with the mouse by dragging the colored box or its edges to adjust the range.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T183857Z" creationid="olex" creationdate="20180329T183857Z">
@@ -22532,6 +22644,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can customize toolbars in several ways, including choosing which icons are visible and locking the position of a docked toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T182253Z" creationid="olex" creationdate="20180615T182253Z">
+        <seg>Вы можете настраивать панели инструментов несколькими способами, в том числе выбирать, какие значки отображать и блокировать позицию закрепленной панели инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can define a new AutoFormat so that it becomes available for use in all spreadsheets.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T181217Z" creationid="olex" creationdate="20180430T181217Z">
@@ -22745,6 +22865,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T161313Z" creationid="olex" creationdate="20180409T161313Z">
         <seg>Вы можете переименовать лист одним из следующих способов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can reposition the toolbar to a different docked position.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T183038Z" creationid="olex" creationdate="20180615T183038Z">
+        <seg>Вы можете переместить панель инструментов в другое прикрепленное положение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can reposition the toolbars to different docked positions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T183426Z" creationid="olex" creationdate="20180615T183426Z">
+        <seg>Вы можете перемещать панели инструментов в различные места.</seg>
       </tuv>
     </tu>
     <tu>
