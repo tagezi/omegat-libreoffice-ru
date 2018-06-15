@@ -5675,6 +5675,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Docked toolbars can be moved to different locations or made to float, and floating toolbars can be docked.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T174808Z" creationid="olex" creationdate="20180615T174718Z">
+        <seg>Прикрепленные панели инструментов можно перемещать в разные места или сделать плавающими, а плавающие панели инструментов можно прикрепить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Docked toolbars can be undocked and either moved to different docked position on the workspace, or left as a floating toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T174555Z" creationid="olex" creationdate="20180329T174145Z">
@@ -10289,6 +10297,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a default LibreOffice installation, the top docked toolbar, just under the Menu bar, is called the &lt;f0&gt;Standard&lt;/f0&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T175237Z" creationid="olex" creationdate="20180615T175032Z">
+        <seg>В настройках LibreOffice по умолчанию прикрепленная сверху панель, находящаяся под панелью меню, называется &lt;f0&gt;Стандартная&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In a similar way, you can &lt;i0/&gt;divide a document into chapters.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T192658Z" creationid="olex" creationdate="20180316T192658Z">
@@ -11028,6 +11044,22 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is consistent across the LibreOffice applications.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T175122Z" creationid="olex" creationdate="20180615T175122Z">
+        <seg>Она схожа во всех компонентах LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is context-sensitive; that is, it shows the tools relevant to the current position of the cursor or the object selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T175408Z" creationid="olex" creationdate="20180615T175408Z">
+        <seg>Она контекстно-зависима; то есть он показывает инструменты, относящиеся к текущей позиции курсора или выбранному объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is integrated with the advanced graphics capabilities of LibreOffice Draw and Math components.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T202055Z" creationid="olex" creationdate="20180607T202055Z">
@@ -11546,6 +11578,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T160422Z" creationid="tagezi" creationdate="20180310T160422Z">
         <seg>LibreOffice был переведен (локализован) более чем на 40 языков, поэтому ваш язык, вероятно, поддерживается.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice has two types of toolbars: docked (fixed in place) and floating.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T174737Z" creationid="olex" creationdate="20180615T174704Z">
+        <seg>В LibreOffice есть два типа панелей инструментов: прикрепленные (зафиксированы на месте) и плавающие.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18232,6 +18272,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T165923Z" creationid="olex" creationdate="20180409T165826Z">
         <seg>Окно можно разделить по горизонтали, вертикали или по вертикали и горизонтали, одновременно вы можете просматривать до четырех частей таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second toolbar at the top, in a default LibreOffice installation, is the &lt;f0&gt;Formatting&lt;/f0&gt; bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T175212Z" creationid="olex" creationdate="20180615T175212Z">
+        <seg>Вторая панель инструментов вверху, при настройках LibreOffice по умолчанию, панель &lt;f0&gt;Форматирование&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
