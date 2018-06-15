@@ -2926,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An active toolbar shows a check-mark beside its name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T175937Z" creationid="olex" creationdate="20180615T175912Z">
+        <seg>На активной панели инструментов отображается флажок рядом с ее именем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example is shown in Figure &lt;t0&gt;3&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094359Z" creationid="Роман" creationdate="20180316T094359Z">
@@ -5691,6 +5699,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Docked toolbars can be undocked and moved to a new docked position or left as a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T180911Z" creationid="olex" creationdate="20180615T180911Z">
+        <seg>Прикрепленные панели инструментов можно открепить и переместить в новое закрепленное положение или оставить в виде плавающей панели инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Document elements like the date, subject line (business fax), salutation, and complimentary close</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T184134Z" creationid="olex" creationdate="20180311T184134Z">
@@ -6944,6 +6960,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Example of tearing off a tool palette</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T180815Z" creationid="olex" creationdate="20180615T180815Z">
+        <seg>Рисунок &lt;seq0&gt;3&lt;/seq0&gt;: Пример отрыва инструментальной палитры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Integrated Development Environment dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T134136Z" creationid="tagezi" creationdate="20180312T134128Z">
@@ -7021,6 +7045,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T190215Z" creationid="olex" creationdate="20180330T190215Z">
         <seg>Рисунок &lt;seq0&gt;4&lt;/seq0&gt;: Диалоговое окно Импорт текста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Toolbar handles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T181417Z" creationid="olex" creationdate="20180615T181417Z">
+        <seg>Рисунок &lt;seq0&gt;4&lt;/seq0&gt;: Ручки панели инструментов</seg>
       </tuv>
     </tu>
     <tu>
@@ -7173,6 +7205,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180312T071730Z" creationid="User" creationdate="20180312T071730Z">
         <seg>Рисунок &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;показывает пример документа Writer с выделенной формулой, готовой к вводу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;t0&gt;3&lt;/t0&gt;&lt;s1/&gt;shows an example of a tool palette from the Drawing toolbar made into a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T180832Z" creationid="olex" creationdate="20180615T180611Z">
+        <seg>Рисунок &lt;t0&gt;3&lt;/t0&gt;&lt;s1/&gt; показывает пример палитры инструментов из панели инструментов Рисование, превращенной в плавающую панель инструментов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7766,6 +7806,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094809Z" creationid="Роман" creationdate="20180316T094809Z">
         <seg>Например, ввод на языке разметки &lt;f1&gt;5 times 4&lt;/f1&gt; в Редакторе формул создаст простую формулу &lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, when the cursor is on a graphic, the Formatting bar provides tools for formatting graphics; when the cursor is in text, the tools are for formatting text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T175456Z" creationid="olex" creationdate="20180615T175456Z">
+        <seg>Например, когда курсор находится на графике, то панель Форматирование предоставляет инструменты для форматирования графики; когда курсор находится в тексте, то инструменты предназначенные для форматирования текста.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9219,6 +9267,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold down the left mouse button and drag the toolbar to the new location.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T181131Z" creationid="olex" creationdate="20180615T181131Z">
+        <seg>Удерживая левую кнопку мыши, перетащите панель инструментов в новое место.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How can I contribute to LibreOffice?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T183324Z" creationid="tagezi" creationdate="20180310T183324Z">
@@ -10515,6 +10571,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In some cases it is convenient to reduce the number of toolbars displayed and get more space for the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T175522Z" creationid="olex" creationdate="20180615T175522Z">
+        <seg>В некоторых случаях удобно уменьшить количество отображаемых панелей инструментов и получить больше места для отображения документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the &lt;f0&gt;Cell Protection&lt;/f0&gt; tab of the &lt;f1&gt;Format Cells dialog&lt;/f1&gt; is also the option to Hide all data contained in protected cells.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T193929Z" creationid="olex" creationdate="20180502T193929Z">
@@ -11599,6 +11663,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice includes several additional toolbars, whose default setting appear as floating toolbars in response to the current position of the cursor or selection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T181638Z" creationid="olex" creationdate="20180615T181638Z">
+        <seg>LibreOffice содержит несколько дополнительных панелей инструментов, которые при настройках по умолчанию отображаются как плавающие панели инструментов в ответ на текущую позицию курсора или выделения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice includes the following components.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T200847Z" creationid="olex" creationdate="20180607T200847Z">
@@ -11683,6 +11755,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T100924Z" creationid="tagezi" creationdate="20180311T100924Z">
         <seg>Макросы LibreOffice обычно пишутся на языке называемом &lt;i0/&gt;LibreOffice Basic, иногда сокращенно &lt;is1/&gt;Basic&lt;ie2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice provides a single-toolbar alternative to the default double-toolbar setup.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T175709Z" creationid="olex" creationdate="20180615T175709Z">
+        <seg>LibreOffice предоставляет панель Стандартная однострочная как альтернативу двойной панели инструментов по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12549,6 +12629,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202555Z" creationid="olex" creationdate="20180404T202555Z">
         <seg>Переместите мышь по экрану.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the mouse cursor over the toolbar handle, which is the small vertical bar to the left of a docked toolbar and highlighted in Figure &lt;t0&gt;4&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T181018Z" creationid="olex" creationdate="20180615T181018Z">
+        <seg>Переместите указатель мыши над ручкой панели инструментов, которая представляет собой небольшую вертикальную полосу слева от прикрепленной панели инструментов и выделена на рисунке &lt;t0&gt;4&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14372,6 +14460,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Release the mouse button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T181232Z" creationid="olex" creationdate="20180615T181232Z">
+        <seg>Отпустите кнопку мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reloading a document</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T200230Z" creationid="olex" creationdate="20180607T200230Z">
@@ -15000,6 +15096,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134406Z" creationid="tagezi" creationdate="20180320T134406Z">
         <seg>Смотрите “&lt;bf1&gt;Выполнение макросов&lt;/bf1&gt;” на странице &lt;bf2&gt;7&lt;/bf2&gt;, чтобы получить больше информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See “&lt;bf2&gt;Moving toolbars&lt;/bf2&gt;” and “&lt;bf3&gt;Floating toolbars&lt;/bf3&gt;” below for more information on moving and floating these toolbars created from tool palettes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T180720Z" creationid="olex" creationdate="20180615T180720Z">
+        <seg>См. «&lt;bf2&gt;Перемещение панелей инструментов&lt;/bf2&gt;» и «&lt;bf3&gt;Плавающие панели инструментов&lt;/bf3&gt;» ниже для получения дополнительной информации о перемещении панелей инструментов, созданных из палитр инструментов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16202,6 +16306,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100303Z" creationid="lera" creationdate="20180303T195405Z">
         <seg>В состав наших корпоративных сторонников входят Canonical, GNOME Foundation, Google, Novell и Red Hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some of these additional toolbars are context sensitive and will automatically appear depending on the position of the cursor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T182045Z" creationid="olex" creationdate="20180615T182045Z">
+        <seg>Некоторые из этих дополнительных панелей инструментов чувствительны к контексту и будут автоматически отображаться в зависимости от положения курсора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18454,6 +18566,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The toolbar can be docked in a new position at the top, sides or bottom of the main window, or left as a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T181217Z" creationid="olex" creationdate="20180615T181217Z">
+        <seg>Панель инструментов можно закрепить в новом положении сверху, сбоку или внизу главного окна или оставить как плавающую панель инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The two names can be different but this may later cause confusion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T185700Z" creationid="olex" creationdate="20180311T185617Z">
@@ -19413,6 +19533,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To close a toolbar go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and deselect the toolbar, or right-click in an empty space between the icons on a toolbar and select &lt;f1&gt;Close toolbar&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T180134Z" creationid="olex" creationdate="20180615T180134Z">
+        <seg>Чтобы закрыть панель инструментов, выберите в меню &lt;f0&gt;Вид &gt; Панели инструментов&lt;/f0&gt; и снимите флажок с панели инструментов или щелкните правой кнопкой мыши пустое пространство между значками на панели инструментов и выберите &lt;f1&gt;Закрыть панель инструментов&lt;/f1&gt; в контекстном меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To compile an automatic table of contents, first apply styles to the headings you want to appear in the contents list, then use &lt;f0&gt;Tools &gt; Outline Numbering&lt;/f0&gt; to tell Writer which styles go with which level in the table of contents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T202918Z" creationid="olex" creationdate="20180316T201746Z">
@@ -19521,6 +19649,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T160541Z" creationid="olex" creationdate="20180409T160541Z">
         <seg>Чтобы удалить несколько листов, выберите листы (смотрите «&lt;bf0&gt;Выбор листов&lt;/bf0&gt;» на странице &lt;bf1&gt;22&lt;/bf1&gt;), затем щелкните правой кнопкой мыши на вкладке одного из листов и выберите в контекстном меню &lt;f2&gt;Удалить листы...&lt;/f2&gt; или выберите в меню &lt;f3&gt;Лист &gt; Удалить листы...&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To display or hide toolbars, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar, then click on the name of a toolbar from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T175823Z" creationid="olex" creationdate="20180615T175823Z">
+        <seg>Чтобы отобразить или скрыть панели инструментов, выберите в меню &lt;f0&gt;Вид &gt; Панели инструментов&lt;/f0&gt;, затем щелкните по имени панели инструментов в раскрывающемся списке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19761,6 +19897,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T190843Z" creationid="olex" creationdate="20180313T190843Z">
         <seg>Чтобы сделать эти настройки параметрами по умолчанию для этого типа документов, вам необходимо заменить шаблон по умолчанию на новый.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To move a floating toolbar, click on its title bar and drag it to a new floating location or dock the toolbar at the top or bottom of the main window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T181349Z" creationid="olex" creationdate="20180615T181349Z">
+        <seg>Чтобы переместить плавающую панель инструментов, щелкните ее по строке заголовка и перетащите в новое плавающее местоположение или прикрепите вверху или внизу главного окна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20255,6 +20399,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool palettes can be made into a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T180405Z" creationid="olex" creationdate="20180615T180405Z">
+        <seg>Палитры инструментов могут быть превращены в плавающую панель инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toolbar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135123Z" creationid="tagezi" creationdate="20180320T135123Z">
@@ -20263,10 +20415,26 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toolbar icons with a small triangle to the right will display &lt;f0&gt;sub-menus&lt;/f0&gt;, &lt;f1&gt;tool palettes&lt;/f1&gt;, and alternative methods of selecting items, depending on the icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T180250Z" creationid="olex" creationdate="20180615T180250Z">
+        <seg>Значки на панели инструментов с небольшим треугольником справа отображают &lt;f0&gt;подменю&lt;/f0&gt;, &lt;f1&gt;палитры инструментов&lt;/f1&gt; и альтернативные методы выбора элементов, в зависимости от значка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toolbars</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T174305Z" creationid="olex" creationdate="20180326T174305Z">
         <seg>Панели инструментов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toolbars created from tool palettes are not listed in the View menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T180001Z" creationid="olex" creationdate="20180615T180001Z">
+        <seg>Панели инструментов, созданные из палитр инструментов, не отображаются в меню Вид.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22049,6 +22217,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also dock a floating toolbar by holding down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and double-clicking in the title bar of the toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T181553Z" creationid="olex" creationdate="20180615T181553Z">
+        <seg>Вы также можете прикрепить плавающую панель инструментов, удерживая клавишу &lt;f0&gt;Ctrl&lt;/f0&gt; и дважды щелкнув панель инструментов по строке заголовка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also download the software by using a Peer-to-Peer client, such as BitTorrent, at the same address.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T180414Z" creationid="olex" creationdate="20180611T180414Z">
@@ -22392,6 +22568,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180321T191030Z" creationid="olex" creationdate="20180309T194130Z">
         <seg>Это можно сделать, используя диалоговое окно Стили или инструмент Создать стиль по выделению.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can dock these toolbars to the top or bottom of the main window, or reposition them on your computer display (see “&lt;rf0&gt;Moving toolbars&lt;/rf0&gt;” above).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180615T181804Z" creationid="olex" creationdate="20180615T181804Z">
+        <seg>Вы можете прикрепить эти панели инструментов к верхней или нижней части главного окна или перемещать их на дисплее вашего компьютера (смотрите выше «&lt;rf0&gt;Перемещение панелей инструментов&lt;/rf0&gt;»).</seg>
       </tuv>
     </tu>
     <tu>
