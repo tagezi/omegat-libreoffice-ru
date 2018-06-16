@@ -1779,6 +1779,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;16&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 3 Using Styles and Templates&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T183959Z" creationid="olex" creationdate="20180616T183959Z">
+        <seg>&lt;t0&gt;16&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Глава 3 Использование стилей и шаблонов&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;22&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 3 Using Styles and Templates&lt;/t4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T171454Z" creationid="olex" creationdate="20180306T171454Z">
@@ -1919,6 +1927,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T191746Z" creationid="olex" creationdate="20180607T191746Z">
         <seg>&lt;t0&gt;Закрытие документа&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;23&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Examples of style use&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;23&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T183911Z" creationid="olex" creationdate="20180616T183911Z">
+        <seg>&lt;t0&gt;Примеры использования стиля&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;23&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2319,6 +2335,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T183745Z" creationid="olex" creationdate="20180508T183745Z">
         <seg>Разрыв страницы помогает обеспечить правильную печать ваших данных в соответствии с размером и ориентацией страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A panel is like a combination of a toolbar and a dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T180248Z" creationid="olex" creationdate="20180616T180248Z">
+        <seg>Панель похожа на комбинацию панели инструментов и диалоговых окон.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4721,6 +4745,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the same button to show the Sidebar again.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T180810Z" creationid="olex" creationdate="20180616T180810Z">
+        <seg>Нажмите на ту же кнопку, чтобы снова показать боковую панель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the sheet tab for the first desired sheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T185014Z" creationid="olex" creationdate="20180405T185014Z">
@@ -4757,6 +4789,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T192531Z" creationid="olex" creationdate="20180311T192531Z">
         <seg>Нажмите один раз, чтобы активировать элементы управления файлами (смотрите Рисунок &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click one of the icons to open a new document of that type, or click the &lt;f3&gt;Templates&lt;/f3&gt; icon to start a new document using a template.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T181727Z" creationid="olex" creationdate="20180616T181656Z">
+        <seg>Щелкните один из значков, чтобы открыть новый документ необходимого типа, или щелкните значок &lt;f3&gt;Шаблоны&lt;/f3&gt;, чтобы создать новый документ с помощью шаблона.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7361,6 +7401,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Floating (undocking) or docking the Sidebar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T181139Z" creationid="olex" creationdate="20180616T181054Z">
+        <seg>Рисунок &lt;seq0&gt;9&lt;/seq0&gt;: Плавающая (открепление) или прикрепление Боковой панели</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Menus page in Customize dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T140611Z" creationid="tagezi" creationdate="20180320T140611Z">
@@ -7825,6 +7873,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if Calc is open and active, a new spreadsheet is created.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T182414Z" creationid="olex" creationdate="20180616T182414Z">
+        <seg>Например, если открыт и активен Calc, то создается новая электронная таблица.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, if cell C3 has a top border, that border can only be removed by selecting C3.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T200948Z" creationid="olex" creationdate="20180424T200948Z">
@@ -7938,6 +7994,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, the buttons for making text bold or italic exist in both the Formatting toolbar and the Properties panel.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T180608Z" creationid="olex" creationdate="20180616T180608Z">
+        <seg>Например, кнопки для форматирования текста полужирным или курсивом существуют как на панели Форматирование, так и на панели Свойства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, the drawing tools available in Writer are also found in Calc, with similar but enhanced versions in Impress and Draw.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T173738Z" creationid="olex" creationdate="20180611T173738Z">
@@ -8046,6 +8110,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T155000Z" creationid="olex" creationdate="20180306T175441Z">
         <seg>Например, можно создать шаблон для бизнес-отчетов, на первой странице которого будет логотип вашей компании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you can freely mix working in the main edit window to enter text and use the Properties panel in the sidebar to change text attributes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T180434Z" creationid="olex" creationdate="20180616T180434Z">
+        <seg>Например, вы можете свободно совмещать работу в основном окне редактирования, чтобы вводить текст и использовать панель Свойства на боковой панели для изменения атрибутов текста.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8173,6 +8245,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T200504Z" creationid="olex" creationdate="20180424T200414Z">
         <seg>Большее количество настроек, включая расстояние между границами ячеек и любыми данными в ячейке, используйте вкладку &lt;f0&gt;Обрамление&lt;/f0&gt; диалогового окна Формат ячеек (Рисунок &lt;t1&gt;19&lt;/t1&gt;&lt;s2/&gt; на странице &lt;t3&gt;29&lt;/t3&gt;), там вы также можете определить Стиль тени.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more detail, see the Sidebar explanation in the relevant LibreOffice component’s user guide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T180658Z" creationid="olex" creationdate="20180616T180658Z">
+        <seg>Более подробно смотрите разъяснения по Боковой панели в соответствующем руководстве пользователя LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8717,6 +8797,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T202053Z" creationid="olex" creationdate="20180310T202053Z">
         <seg>Из списка в верхней части диалогового окна выберите категорию шаблона, который вы хотите использовать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the same list you can choose which items to &lt;f3&gt;show&lt;/f3&gt; in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T181002Z" creationid="olex" creationdate="20180616T181002Z">
+        <seg>Из того же списка вы можете выбрать, какие элементы боковой панели &lt;f3&gt;показать&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9787,6 +9875,22 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a document is already open in LibreOffice, click on the small triangle to the right of the &lt;f0&gt;New&lt;/f0&gt; icon on the Standard toolbar and select the type of document from the context menu that opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T183122Z" creationid="olex" creationdate="20180616T183122Z">
+        <seg>Если в LibreOffice уже открыт документ, то нажмите на маленький треугольник справа от значка &lt;f0&gt;Создать&lt;/f0&gt; на панели инструментов Стандартная и выберите тип документа из открывшегося контекстного меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a document is already open in LibreOffice, click the &lt;f0&gt;New&lt;/f0&gt; icon on the Standard toolbar and a new document of the same type is created in a new window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T183134Z" creationid="olex" creationdate="20180616T182723Z">
+        <seg>Если в LibreOffice уже открыт документ, то щелкните значок &lt;f0&gt;Создать&lt;/f0&gt; на панели инструментов Стандартная и в новом окне будет создан новый документ того же типа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a document needs custom styles derived from base styles, consider prefixing the name of the custom styles with a few characters to highlight them among other styles in the list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T201446Z" creationid="olex" creationdate="20180309T201446Z">
@@ -9815,6 +9919,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T181625Z" creationid="olex" creationdate="20180508T181625Z">
         <seg>Если лист печатается на нескольких страницах, вы можете настроить определенные строки или столбцы для повторения на каждой печатаемой странице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If all documents are closed without closing &lt;f0&gt;the last&lt;/f0&gt; LibreOffice &lt;f1&gt;window&lt;/f1&gt;, then the Start Center will be displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T183723Z" creationid="olex" creationdate="20180616T183723Z">
+        <seg>Если закрыть все документы &lt;f0&gt;LibreOffice&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;, то будет отображаться Центр запуска.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13588,6 +13700,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On Windows or Linux, use the Quickstarter feature included with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T183306Z" creationid="olex" creationdate="20180616T183306Z">
+        <seg>В Windows или Linux используйте функцию Быстрого запуска, включенную в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On a computer &lt;f0&gt;using&lt;/f0&gt; Linux or Windows operating system&lt;f1&gt;s&lt;/f1&gt;, the default installation of LibreOffice does not set the Quickstarter to load automatically.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T190605Z" creationid="olex" creationdate="20180614T184254Z">
@@ -15401,6 +15521,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T114847Z" creationid="olex" creationdate="20180309T193617Z">
         <seg>Смотрите «&lt;bf0&gt;Копирование стилей из шаблона или документа&lt;/bf0&gt;» на странице &lt;bf1&gt;12&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See “&lt;bf0&gt;Using Quickstarter on Linux or Windows&lt;/bf0&gt;” on page &lt;bf1&gt;10&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T183403Z" creationid="olex" creationdate="20180616T183403Z">
+        <seg>Смотрите «&lt;bf0&gt;Использование Быстрого запуска в Linux или Windows&lt;/bf0&gt;» на странице &lt;bf1&gt;10&lt;/bf1&gt;&lt;s2/&gt; для получения дополнительной информации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17666,6 +17794,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The New icon changes depending on which component of LibreOffice is open.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T182907Z" creationid="olex" creationdate="20180616T182907Z">
+        <seg>Новый значок изменяется в зависимости от того, какой из компонентов LibreOffice открыт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The OpenOffice.org project began when &lt;is0/&gt;Sun Microsystems&lt;ie1/&gt; released the source code (“blueprints”) for its StarOffice® software to the open source community on October 13, 2000.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T053944Z" creationid="lera" creationdate="20180303T164411Z">
@@ -19007,6 +19143,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The type of document created depends on which LibreOffice component is open and active.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T182224Z" creationid="olex" creationdate="20180616T182224Z">
+        <seg>Тип создаваемого документа зависит от того, какой компонент LibreOffice открыт и активен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The upper left corner of the LibreOffice help system contains a drop-down list that determines which help set is displayed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T191128Z" creationid="tagezi" creationdate="20180320T191128Z">
@@ -20286,6 +20430,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To hide the Sidebar, click on the gray &lt;f0&gt;Hide&lt;/f0&gt; button on the left.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T180734Z" creationid="olex" creationdate="20180616T180734Z">
+        <seg>Чтобы скрыть боковую панель, щелкните по кнопке &lt;f0&gt;Скрыть&lt;/f0&gt; слева.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To hide the Sidebar, or reveal it if already hidden, click on the edge Hide/Show button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T184411Z" creationid="olex" creationdate="20180330T175420Z">
@@ -20808,6 +20960,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To undock the Sidebar and make it floating, and to dock a floating Sidebar, use the &lt;f0&gt;&lt;f1&gt;Sidebar settings&lt;/f1&gt;&lt;/f0&gt; drop-down list at the top of the tab bar (see Figure &lt;t2&gt;9&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T180924Z" creationid="olex" creationdate="20180616T180924Z">
+        <seg>Чтобы открепить боковую панель и сделать ее плавающей, или для закрепления плавающей боковой панели, используйте раскрывающийся список на &lt;f0&gt;&lt;f1&gt;Боковой панели&lt;/f1&gt;&lt;/f0&gt; в верхней части панели вкладок (смотрите Рисунок &lt;t2&gt;9&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To unfreeze rows or columns, either go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Freeze Cells &gt; Freeze Rows and Columns&lt;/f1&gt; or click on the &lt;f2&gt;Freeze Rows and Columns&lt;/f2&gt; icon in the main toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T165245Z" creationid="olex" creationdate="20180409T165245Z">
@@ -20876,6 +21036,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T191219Z" creationid="tagezi" creationdate="20180320T191219Z">
         <seg>Для просмотра Справки для Basic, выберите в выпадающем списке &lt;f1&gt;LibreOffice Basic&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool bars and Sidebar panels share many functions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T180527Z" creationid="olex" creationdate="20180616T180527Z">
+        <seg>Панели инструментов и вкладки Боковой панели совмещают множество функций.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21189,10 +21357,26 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use &lt;f0&gt;File &gt; New&lt;/f0&gt; on the Menu bar and select the type of document from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T181840Z" creationid="olex" creationdate="20180616T181840Z">
+        <seg>Выберите в меню &lt;f0&gt;Файл &gt; Создать&lt;/f0&gt; и выберите тип документа из контекстного меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use &lt;f0&gt;File &gt; Templates &gt; Manage Templates &lt;/f0&gt;to open the Templates dialog, and select the template you want to use.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T200045Z" creationid="olex" creationdate="20180313T200045Z">
         <seg>Выберите пункт меню &lt;f0&gt;Файл &gt; Шаблоны &gt; Управление шаблонами&lt;/f0&gt;, чтобы открыть диалоговое окно Шаблоны и выберите тот шаблон, который вы хотите использовать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;f0&gt;File &gt; Wizards&lt;/f0&gt; on the Menu bar and select the type of document from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T182547Z" creationid="olex" creationdate="20180616T182547Z">
+        <seg>Используйте пункт меню &lt;f0&gt;Файл &gt; Мастер&lt;/f0&gt; и выберите тип документа из контекстного меню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21314,6 +21498,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T194336Z" creationid="olex" creationdate="20180418T194336Z">
         <seg>Используя клавиши со стрелками, переместите курсор в ячейке туда, где вы хотите начать новый ввод данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+N&lt;/f0&gt; to create a new document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T183145Z" creationid="olex" creationdate="20180616T181904Z">
+        <seg>Используйте сочетание клавиш &lt;f0&gt;Ctrl+N&lt;/f0&gt;, чтобы создать новый документ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21963,6 +22155,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T183401Z" creationid="olex" creationdate="20180614T183401Z">
         <seg>Если LibreOffice установлен на компьютерах под управлением Windows или Linux, то также можно использовать функцию Быстрого запуска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When LibreOffice is running but no document is open, the Start Center (Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;9&lt;/t2&gt;) is shown.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T181604Z" creationid="olex" creationdate="20180616T181604Z">
+        <seg>Когда LibreOffice запущен, но не открыто ни одного документа, то отображается Стартовое окно (Рисунок &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt; на странице &lt;t2&gt;9&lt;/t2&gt;)).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22890,6 +23090,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also start a new document in one of the following ways:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T181746Z" creationid="olex" creationdate="20180616T181746Z">
+        <seg>Вы также можете создать новый документ одним из следующих способов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also type a cell reference in the Name Box to jump to the referenced cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T181507Z" creationid="olex" creationdate="20180329T181102Z">
@@ -23370,6 +23578,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T181827Z" creationid="olex" creationdate="20180611T181827Z">
         <seg>Вы можете запустить LibreOffice, дважды щелкнув по имени файла документа ODF на рабочем столе или в файловом менеджере, таком как проводник Windows или Finder Mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can start a new, blank document in LibreOffice in several ways.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T181237Z" creationid="olex" creationdate="20180616T181237Z">
+        <seg>Вы можете запустить новый пустой документ в LibreOffice несколькими способами.</seg>
       </tuv>
     </tu>
     <tu>
