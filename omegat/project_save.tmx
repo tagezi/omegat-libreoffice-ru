@@ -22417,6 +22417,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When opening files stored in a remote server, you may be asked to enter your user name and password to log in the server.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T200126Z" creationid="olex" creationdate="20180616T200126Z">
+        <seg>При открытии файлов, которые хранятся на удаленном сервере, вам может потребоваться ввести ваше имя пользователя и пароль для входа на сервер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When saving in a non default file format, the &lt;f0&gt;Confirm File Format&lt;/f0&gt; dialog opens (Figure &lt;t1&gt;6&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T185830Z" creationid="olex" creationdate="20180402T185446Z">
