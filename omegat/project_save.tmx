@@ -2411,6 +2411,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A tab bar on the right side of the sidebar allows you to switch between different decks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T175239Z" creationid="olex" creationdate="20180616T175239Z">
+        <seg>Панель вкладок с правой стороны боковой панели позволяет переключаться между различными вкладками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A third variable, named &lt;f6&gt;args1&lt;/f6&gt;, is an array of property values.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T082649Z" creationid="tagezi" creationdate="20180315T211159Z">
@@ -2679,6 +2687,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T090709Z" creationid="tagezi" creationdate="20180315T090709Z">
         <seg>Все комментарии в коде макроса начинаются с REM, что означает замечание (remark).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All components contain the Properties, Styles &lt;f0&gt;and Formatting&lt;/f0&gt;, &lt;f1&gt;Pages&lt;/f1&gt; , Gallery, and Navigator decks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T175646Z" creationid="olex" creationdate="20180616T175646Z">
+        <seg>Все компоненты LibreOffice содержат вкладки Свойства, &lt;f0&gt;Страница&lt;/f0&gt;, &lt;f1&gt;Стили&lt;/f1&gt;, Галерея и Навигатор.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7329,6 +7345,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Properties panel of Sidebar in Writer</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T175339Z" creationid="olex" creationdate="20180616T175339Z">
+        <seg>Рисунок &lt;seq0&gt;8&lt;/seq0&gt;: Вкладка Свойств на Боковой панели Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Templates dialog, showing a selected template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T203443Z" creationid="olex" creationdate="20180310T203443Z">
@@ -11269,6 +11293,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It contains one or more panels, based on the current document context.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T175132Z" creationid="olex" creationdate="20180616T175132Z">
+        <seg>Она содержит одну или несколько панелей на основе контекста текущего документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It contains the most-used commands.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T174902Z" creationid="olex" creationdate="20180329T174902Z">
@@ -14180,6 +14212,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Panels are organized into decks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T175215Z" creationid="olex" creationdate="20180616T175215Z">
+        <seg>Панели организованы во вкладки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Paragraph</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193805Z" creationid="olex" creationdate="20180307T193805Z">
@@ -16574,6 +16614,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some components have additional decks, such as Master Pages, Custom Animation, and Slide Transition for Impress; Manage Changes for Writer; and Functions for Calc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T180123Z" creationid="olex" creationdate="20180616T180123Z">
+        <seg>Некоторые компоненты имеют дополнительные вкладки, такие как Смена слайда, Анимация и Мастер-слайды для Impress; Управление изменениями и Дизайн для Writer; Функции для Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some controls, such as superscript, only become active when the text cursor is active in the Input line of the Formula bar or the cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T194956Z" creationid="olex" creationdate="20180329T194956Z">
@@ -17662,6 +17710,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T184854Z" creationid="olex" creationdate="20180315T184854Z">
         <seg>Откроется диалоговое окно Выбор категории.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Sidebar (Figure &lt;t1&gt;8&lt;/t1&gt;) is located on the right side of the edit views of Writer, Calc, Impress, and Draw.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T175100Z" creationid="olex" creationdate="20180616T175100Z">
+        <seg>Боковая панель (Рисунок &lt;t1&gt;8&lt;/t1&gt;) расположена в правой части рабочего пространства Writer, Calc, Impress и Draw.</seg>
       </tuv>
     </tu>
     <tu>
