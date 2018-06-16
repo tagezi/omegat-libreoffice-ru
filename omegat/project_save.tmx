@@ -113,8 +113,8 @@
       <tuv lang="EN-US">
         <seg>&lt;/f0&gt;Usually, if you change an option, it affects all components.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180611T174039Z" creationid="olex" creationdate="20180611T173930Z">
-        <seg>&lt;/f0&gt;Обычно, если вы меняете настройку, то она затрагивает все компоненты.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T191848Z" creationid="olex" creationdate="20180611T173930Z">
+        <seg>&lt;/f0&gt;Обычно, если вы меняете настройку, то она затрагивает все модули.</seg>
       </tuv>
     </tu>
     <tu>
@@ -467,8 +467,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Consistent user interface.&lt;/f0&gt; All the components have a similar “look and feel,” making them easy to use and master.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180611T173343Z" creationid="olex" creationdate="20180611T173343Z">
-        <seg>&lt;f0&gt;Согласующийся пользовательский интерфейс.&lt;/f0&gt; Все компоненты имеют похожий внешний вид, что упрощает их использование и освоение.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T191800Z" creationid="olex" creationdate="20180611T173343Z">
+        <seg>&lt;f0&gt;Согласующийся пользовательский интерфейс.&lt;/f0&gt; Все модули имеют похожий внешний вид, что упрощает их использование и освоение.</seg>
       </tuv>
     </tu>
     <tu>
@@ -835,8 +835,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Integration.&lt;/f0&gt; The components of LibreOffice are well integrated with one another.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180611T173415Z" creationid="olex" creationdate="20180611T173415Z">
-        <seg>&lt;f0&gt;Интеграция.&lt;/f0&gt; Компоненты LibreOffice хорошо интегрированы друг с другом.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T191811Z" creationid="olex" creationdate="20180611T173415Z">
+        <seg>&lt;f0&gt;Интеграция.&lt;/f0&gt; Модули LibreOffice хорошо интегрированы друг с другом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -955,8 +955,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;No vendor lock-in.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180611T174556Z" creationid="olex" creationdate="20180611T174556Z">
-        <seg>&lt;f0&gt;Отсутствие блокировки вендора.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T191913Z" creationid="olex" creationdate="20180611T174556Z">
+        <seg>&lt;f0&gt;Отсутствие блокировки разработчика.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2717,8 +2717,8 @@
       <tuv lang="EN-US">
         <seg>All components contain the Properties, Styles &lt;f0&gt;and Formatting&lt;/f0&gt;, &lt;f1&gt;Pages&lt;/f1&gt; , Gallery, and Navigator decks.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180616T175646Z" creationid="olex" creationdate="20180616T175646Z">
-        <seg>Все компоненты LibreOffice содержат вкладки Свойства, &lt;f0&gt;Страница&lt;/f0&gt;, &lt;f1&gt;Стили&lt;/f1&gt;, Галерея и Навигатор.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T193137Z" creationid="olex" creationdate="20180616T175646Z">
+        <seg>Все модули LibreOffice содержат вкладки Свойства, &lt;f0&gt;Страница&lt;/f0&gt;, &lt;f1&gt;Стили&lt;/f1&gt;, Галерея и Навигатор.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2773,8 +2773,8 @@
       <tuv lang="EN-US">
         <seg>All the components share a common spelling checker and other tools, which are used consistently across the suite.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180611T173527Z" creationid="olex" creationdate="20180611T173527Z">
-        <seg>Все компоненты имеют общую проверку орфографии и другие инструменты, которые систематично используются в пакете.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T191821Z" creationid="olex" creationdate="20180611T173527Z">
+        <seg>Все модули имеют общую проверку орфографии и другие инструменты, которые систематично используются в пакете.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4897,6 +4897,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the small triangle to the right of the &lt;f0&gt;Open&lt;/f0&gt; icon and select from a list of recently opened documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T195058Z" creationid="olex" creationdate="20180616T194854Z">
+        <seg>Нажмите небольшой треугольник справа от значка &lt;f0&gt;Открыть&lt;/f0&gt; и выберите из списка недавно открытых документов или нажмите &lt;f0&gt;Открыть шаблон...&lt;/f0&gt; под списком файлов для &lt;f0&gt;выбора шаблона&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click to choose different selection modes.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T173557Z" creationid="olex" creationdate="20180616T173557Z">
@@ -4933,8 +4941,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Clicking on the LibreOffice menu entry, desktop icon, or tile opens the LibreOffice Start Center (Figure &lt;t0&gt;1&lt;/t0&gt;) from where you can select the individual components of LibreOffice.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180611T181611Z" creationid="olex" creationdate="20180611T181458Z">
-        <seg>При нажатии на элемент меню LibreOffice, значок рабочего стола или значок запуска на панели открывается Центр запуска LibreOffice (рисунок &lt;t0&gt;1&lt;/t0&gt;), из которого вы сможете запустить отдельные компоненты LibreOffice.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T192111Z" creationid="olex" creationdate="20180611T181458Z">
+        <seg>При нажатии на элемент меню LibreOffice, значок рабочего стола или значок запуска на панели открывается Центр запуска LibreOffice (рисунок &lt;t0&gt;1&lt;/t0&gt;), из которого вы сможете запустить отдельные модули LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7904,6 +7912,14 @@ DONE</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For example, if you choose &lt;f0&gt;Text documents&lt;/f0&gt; as the file type, you will only see documents Writer can open (including &lt;f1&gt;.odt&lt;/f1&gt;, &lt;f2&gt;.doc&lt;/f2&gt;, &lt;f3&gt;.txt&lt;/f3&gt;); if you choose &lt;f4&gt;Spreadsheets&lt;/f4&gt;, you will see &lt;f5&gt;.ods&lt;/f5&gt;, &lt;f6&gt;.xls&lt;/f6&gt;, and other files that Calc opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T195858Z" creationid="olex" creationdate="20180616T195858Z">
+        <seg>Например, если вы выберите &lt;f0&gt;Текстовые документы&lt;/f0&gt; в качестве типа файла, то вы увидите только документы, которые может открыть Writer (включая &lt;f1&gt;.odt&lt;/f1&gt;, &lt;f2&gt;.doc&lt;/f2&gt;, &lt;f3&gt;.txt&lt;/f3&gt;); а если вы выберете &lt;f4&gt;Электронные таблицы&lt;/f4&gt;, то увидите &lt;f5&gt;.ods&lt;/f5&gt;, &lt;f6&gt;.xls&lt;/f6&gt; и другие файлы, которые открывает Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: позволил себе полносью переделать предложение, чтобы лучше передать смысл</note>
       <tuv lang="EN-US">
         <seg>For example, if you create an image in Draw, reusing it in a Writer document is as simple as copying and pasting the image.</seg>
@@ -8251,8 +8267,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>For more detail, see the Sidebar explanation in the relevant LibreOffice component’s user guide.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180616T180658Z" creationid="olex" creationdate="20180616T180658Z">
-        <seg>Более подробно смотрите разъяснения по Боковой панели в соответствующем руководстве пользователя LibreOffice.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T193245Z" creationid="olex" creationdate="20180616T180658Z">
+        <seg>Более подробно смотрите разъяснения по Боковой панели в соответствующих руководствах пользователя к модулям LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8986,6 +9002,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;File &gt; Open&lt;/f0&gt; or &lt;f1&gt;File &gt; Open Remote…&lt;/f1&gt; on the Menu bar the reach the Open dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T194059Z" creationid="olex" creationdate="20180616T194039Z">
+        <seg>Выберите в меню &lt;f0&gt;Файл &gt; Открыть...&lt;/f0&gt; или &lt;f1&gt; Файл &gt; Открыть удаленно...&lt;/f1&gt;, чтобы открылось диалоговое окно Открыть или Файлы на сервере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;File &gt; Save As&lt;/f0&gt; to save the new file with the name of the file from which content was taken.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T064024Z" creationid="olex" creationdate="20180313T201329Z">
@@ -9669,8 +9693,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>However, LibreOffice options can be set at a component level or even at document level.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180611T174155Z" creationid="olex" creationdate="20180611T174105Z">
-        <seg>Однако в LibreOffice параметры могут быть установлены на уровне компонентов или даже на уровне документа.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T191858Z" creationid="olex" creationdate="20180611T174105Z">
+        <seg>Однако в LibreOffice параметры могут быть установлены на уровне модулей или даже на уровне документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9891,6 +9915,22 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a document is already open in LibreOffice, the second document opens in a new window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T195553Z" creationid="olex" creationdate="20180616T195553Z">
+        <seg>Если в LibreOffice уже открыт документ, то следующий документ открывается в новом окне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a document is already open, click the &lt;f0&gt;Open&lt;/f0&gt; icon on the Standard toolbar and select from a list of available documents from the Open dialog, &lt;f1&gt;or click&lt;/f1&gt; &lt;f2&gt;Open Template…&lt;/f2&gt; to&lt;f3&gt; select a template.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T194915Z" creationid="olex" creationdate="20180616T194328Z">
+        <seg>Если документ уже открыт, то щелкните значок &lt;f0&gt;Открыть&lt;/f0&gt; на панели инструментов Стандартная и выберите файл из списка доступных документов в диалоговом окне Открыть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a document needs custom styles derived from base styles, consider prefixing the name of the custom styles with a few characters to highlight them among other styles in the list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T201446Z" creationid="olex" creationdate="20180309T201446Z">
@@ -9925,8 +9965,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If all documents are closed without closing &lt;f0&gt;the last&lt;/f0&gt; LibreOffice &lt;f1&gt;window&lt;/f1&gt;, then the Start Center will be displayed.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180616T183723Z" creationid="olex" creationdate="20180616T183723Z">
-        <seg>Если закрыть все документы &lt;f0&gt;LibreOffice&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;, то будет отображаться Центр запуска.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T193534Z" creationid="olex" creationdate="20180616T183723Z">
+        <seg>Если закрыть все документы не закрывая окно &lt;f0&gt;LibreOffice&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;, то будет отображаться Центр запуска.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10213,8 +10253,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If you did not associate the file types and Microsoft Office is installed on your computer, then when you double-click on a Microsoft Office file, it opens using the appropriate Microsoft Office component.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180614T183238Z" creationid="olex" creationdate="20180611T182718Z">
-        <seg>Если вы не ассоциировали файлы Microsoft Office с LibreOffice, и Microsoft Office установлен на вашем компьютере, то при двойном щелчке по этим файлам они откроются в соответствующем компоненте Microsoft Office.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T192201Z" creationid="olex" creationdate="20180611T182718Z">
+        <seg>Если вы не ассоциировали файлы Microsoft Office с LibreOffice, и Microsoft Office установлен на вашем компьютере, то при двойном щелчке по этим файлам они откроются в соответствующем приложении Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10995,6 +11035,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Open dialog, you can reduce the list of files by selecting the type of file you are looking for.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T195637Z" creationid="olex" creationdate="20180616T195604Z">
+        <seg>В диалоговом окне Открыть вы можете сократить список файлов, выбрав тип файла, который вы ищете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Styles window, click the arrow next to the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon, and then select &lt;f1&gt;Load Styles&lt;/f1&gt; (see Figure &lt;t2&gt;3&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T192645Z" creationid="olex" creationdate="20180310T192645Z">
@@ -11535,8 +11583,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>It is similar in Writer, Calc, Impress, and Draw, but each LibreOffice component includes some component-specific items.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180616T172304Z" creationid="olex" creationdate="20180616T172211Z">
-        <seg>Она похожа в Writer, Calc, Impress и Draw, но каждый компонент LibreOffice имеет некоторые особенности, относящиеся к его возможностям.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T192946Z" creationid="olex" creationdate="20180616T172211Z">
+        <seg>Она похожа в Writer, Calc, Impress и Draw, но каждый модуль LibreOffice имеет некоторые особенности, относящиеся к его возможностям.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12019,6 +12067,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T160422Z" creationid="tagezi" creationdate="20180310T160422Z">
         <seg>LibreOffice был переведен (локализован) более чем на 40 языков, поэтому ваш язык, вероятно, поддерживается.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice has to be associated with file types that are not ODF files for the appropriate LibreOffice component to open.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T200040Z" creationid="olex" creationdate="20180616T200040Z">
+        <seg>При этом LibreOffice должен быть ассоциирован с типами файлов, которые не являются файлами ODF для соответствующего модуля LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13742,8 +13798,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>On computers with Windows or Linux operating systems, a menu entry for LibreOffice and each LibreOffice component appears in the system menu of your computer.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180611T181227Z" creationid="olex" creationdate="20180611T181227Z">
-        <seg>На компьютерах с операционными системами Windows или Linux в меню программ вашего компьютера появится запись меню для LibreOffice и для каждого компонента LibreOffice.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T192049Z" creationid="olex" creationdate="20180611T181227Z">
+        <seg>На компьютерах с операционными системами Windows или Linux в меню программ вашего компьютера появится запись меню для LibreOffice и для каждого модуля LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14262,8 +14318,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Other uses of this field depend on the LibreOffice component.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180616T172637Z" creationid="olex" creationdate="20180616T172549Z">
-        <seg>Другие варианты использования этого поля зависят от компонента LibreOffice.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T193001Z" creationid="olex" creationdate="20180616T172549Z">
+        <seg>Другие варианты использования этого поля зависят от модуля LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16744,8 +16800,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Some components have additional decks, such as Master Pages, Custom Animation, and Slide Transition for Impress; Manage Changes for Writer; and Functions for Calc.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180616T180123Z" creationid="olex" creationdate="20180616T180123Z">
-        <seg>Некоторые компоненты имеют дополнительные вкладки, такие как Смена слайда, Анимация и Мастер-слайды для Impress; Управление изменениями и Дизайн для Writer; Функции для Calc.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T193148Z" creationid="olex" creationdate="20180616T180123Z">
+        <seg>Некоторые модули имеют дополнительные вкладки, такие как Смена слайда, Анимация и Мастер-слайды для Impress; Управление изменениями и Дизайн для Writer; Функции для Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17796,8 +17852,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The New icon changes depending on which component of LibreOffice is open.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180616T182907Z" creationid="olex" creationdate="20180616T182907Z">
-        <seg>Новый значок изменяется в зависимости от того, какой из компонентов LibreOffice открыт.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T193400Z" creationid="olex" creationdate="20180616T182907Z">
+        <seg>Новый значок изменяется в зависимости от того, какой из модулей LibreOffice открыт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17980,8 +18036,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The appropriate component of LibreOffice will start and the document will be loaded.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180611T181907Z" creationid="olex" creationdate="20180611T181907Z">
-        <seg>Будет запущен соответствующий компонент LibreOffice, и загрузится документ.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T192125Z" creationid="olex" creationdate="20180611T181907Z">
+        <seg>Будет запущен соответствующий модуль LibreOffice, и загрузится документ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18607,8 +18663,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>The main window is similar for each component of LibreOffice, although some details vary.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180614T192336Z" creationid="olex" creationdate="20180614T192258Z">
-        <seg>Главные окна каждого из компонентов LibreOffice схожи между собой, хотя между ними есть некоторые различия.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T192415Z" creationid="olex" creationdate="20180614T192258Z">
+        <seg>Главные окна каждого из модулей LibreOffice схожи между собой, хотя между ними есть некоторые различия.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19145,8 +19201,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>The type of document created depends on which LibreOffice component is open and active.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180616T182224Z" creationid="olex" creationdate="20180616T182224Z">
-        <seg>Тип создаваемого документа зависит от того, какой компонент LibreOffice открыт и активен.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T193342Z" creationid="olex" creationdate="20180616T182224Z">
+        <seg>Тип создаваемого документа зависит от того, какой модуль LibreOffice открыт и активен.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20264,8 +20320,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To display or hide toolbars, go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar, then click on the name of a toolbar from the drop-down list.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180615T175823Z" creationid="olex" creationdate="20180615T175823Z">
-        <seg>Чтобы отобразить или скрыть панели инструментов, выберите в меню &lt;f0&gt;Вид &gt; Панели инструментов&lt;/f0&gt;, затем щелкните по имени панели инструментов в раскрывающемся списке.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T192552Z" creationid="olex" creationdate="20180615T175823Z">
+        <seg>Чтобы отобразить или скрыть панели инструментов, выберите в меню &lt;f0&gt;Вид &gt; Панели инструментов&lt;/f0&gt;, затем щелкните по имени панели инструментов в выпадающем списке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20898,8 +20954,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>To start a LibreOffice component directly by using Quickstarter:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180614T191400Z" creationid="olex" creationdate="20180614T185306Z">
-        <seg>Чтобы запустить компонент LibreOffice, используя Быстрый запуск:</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T192303Z" creationid="olex" creationdate="20180614T185306Z">
+        <seg>Чтобы запустить модуль LibreOffice, используя Быстрый запуск:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21506,6 +21562,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T183145Z" creationid="olex" creationdate="20180616T181904Z">
         <seg>Используйте сочетание клавиш &lt;f0&gt;Ctrl+N&lt;/f0&gt;, чтобы создать новый документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+O&lt;/f0&gt; to reach the Open dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T194234Z" creationid="olex" creationdate="20180616T194234Z">
+        <seg>Используйте сочетание клавиш &lt;f0&gt;Ctrl+O&lt;/f0&gt;, чтобы открылось диалоговое окно Открыть.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22161,8 +22225,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>When LibreOffice is running but no document is open, the Start Center (Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;9&lt;/t2&gt;) is shown.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180616T181604Z" creationid="olex" creationdate="20180616T181604Z">
-        <seg>Когда LibreOffice запущен, но не открыто ни одного документа, то отображается Стартовое окно (Рисунок &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt; на странице &lt;t2&gt;9&lt;/t2&gt;)).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T193324Z" creationid="olex" creationdate="20180616T181604Z">
+        <seg>Когда LibreOffice запущен, но не открыто ни одного документа, то отображается Центр запуска (Рисунок &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt; на странице &lt;t2&gt;9&lt;/t2&gt;)).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22303,6 +22367,22 @@ denkin: исправил на "включает"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>When no document is open, click &lt;f0&gt;Open File&lt;/f0&gt; or &lt;f1&gt;Remote files&lt;/f1&gt; in the Start Center to reach the Open dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T194054Z" creationid="olex" creationdate="20180616T193823Z">
+        <seg>Когда не открыт ни один документ, нажмите &lt;f0&gt;Открыть файл&lt;/f0&gt; или &lt;f1&gt;Файлы на сервере&lt;/f1&gt; в Центре запуска, чтобы открылось диалоговое окно Открыть или Файлы на сервере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When no document is open, double-click on a thumbnail of recently opened documents displayed in the Start Center.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T195305Z" creationid="olex" creationdate="20180616T195305Z">
+        <seg>Когда не открыто ни одного документа, дважды щелкните по значку недавно открытых документов, отображаемых в Центре запуска.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: похоже ошибка в описании, по крайней мере у меня в ЛО 6.0 на линейках положение курсора мыши не отображается</note>
       <tuv lang="EN-US">
         <seg>When no object is selected, they show the location of the mouse pointer, which helps to position drawing objects more accurately.</seg>
@@ -22421,6 +22501,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T182013Z" creationid="olex" creationdate="20180611T182013Z">
         <seg>При использовании серверов CMIS служба запрашивает у вас необходимые учетные данные для доступа к файлам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When using the Open dialog, navigate to the folder you want and select the file you want, and then click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T195500Z" creationid="olex" creationdate="20180616T195500Z">
+        <seg>При использовании диалогового окна Открыть перейдите в нужную папку и выберите нужный файл, а затем нажмите &lt;f0&gt;Открыть&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22994,6 +23082,22 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also open an existing document in one of the following ways:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T193616Z" creationid="olex" creationdate="20180616T193616Z">
+        <seg>Вы также можете открыть существующий документ одним из следующих способов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also open an existing document that is in a format that LibreOffice recognizes by double-clicking on the file icon on the desktop or in a file manager such as Windows Explorer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T195938Z" creationid="olex" creationdate="20180616T195938Z">
+        <seg>Вы также можете открыть существующий документ в формате, который распознает LibreOffice, дважды щелкнув по значку файла на рабочем столе или в файловом менеджере, таком как Проводник Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also open and work with Microsoft Excel workbooks and save them in Excel format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T201841Z" creationid="olex" creationdate="20180607T201841Z">
@@ -23512,8 +23616,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can reposition the toolbars to different docked positions.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180615T183426Z" creationid="olex" creationdate="20180615T183426Z">
-        <seg>Вы можете перемещать панели инструментов в различные места.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T192819Z" creationid="olex" creationdate="20180615T183426Z">
+        <seg>Вы можете перемещать панели инструментов в различные положения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23522,6 +23626,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T204041Z" creationid="olex" creationdate="20180607T204041Z">
         <seg>Вы можете сохранять формулы в стандартном формате математического разметки (MathML) для включения в веб-страницы и другие документы, не созданные в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can scroll up or down in the Start Center to locate a recently opened document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180616T195422Z" creationid="olex" creationdate="20180616T195422Z">
+        <seg>Вы можете прокручивать список файлов в Центре запуска вверх или вниз, чтобы найти недавно открытый документ.</seg>
       </tuv>
     </tu>
     <tu>
