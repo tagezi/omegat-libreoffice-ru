@@ -785,6 +785,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;I&lt;/f0&gt;f you want to create a new document &lt;f1&gt;file&lt;/f1&gt;, change the filename and/or file format, or save the file in a different location on your computer:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T183927Z" creationid="olex" creationdate="20180617T183927Z">
+        <seg>&lt;f0&gt;Если&lt;/f0&gt; вы хотите создать новый &lt;f1&gt;файл&lt;/f1&gt; документа, изменить имя файла и/или формат файла, или сохранить файл в другом месте на вашем компьютере:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;If you want to use LibreOffice features that require Java, it is important that to install the same 32 bit or 64 bit edition of Java as the installed 32 bit or 64 bit edition of LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T190027Z" creationid="olex" creationdate="20180607T190027Z">
@@ -1073,6 +1081,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Save All&lt;/f0&gt; - use to save all the files open in your current session.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T182621Z" creationid="olex" creationdate="20180617T182621Z">
+        <seg>&lt;f0&gt;Сохранить все&lt;/f0&gt; - используется, чтобы сохранить все файлы, открытые в текущем сеансе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Save As&lt;/f0&gt; – use if you want to create a new document, or change the filename and/or file format, or save the file in a different location on your computer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T182720Z" creationid="olex" creationdate="20180617T182259Z">
+        <seg>&lt;f0&gt;Сохранить как&lt;/f0&gt; – используется, если вы хотите создать новый документ или изменить имя файла и/или формат файла, или сохранить файл в другом месте на вашем компьютере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Save Remote&lt;/f0&gt; - use if your document is already stored in a remote server or will be stored in a remote server.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T182726Z" creationid="olex" creationdate="20180617T182241Z">
+        <seg>&lt;f0&gt;Сохранить удаленно&lt;/f0&gt; - используется, если ваш документ уже сохранен на удаленном сервере или будет сохранен на удаленном сервере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Save a copy&lt;/f0&gt; - use if you want to save a copy of your current document and keep it open for more editing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T182714Z" creationid="olex" creationdate="20180617T182535Z">
+        <seg>&lt;f0&gt;Сохранить копию&lt;/f0&gt; - используется, если вы хотите сохранить копию своего текущего документа и оставить его открытым для дальнейшего редактирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Save&lt;/f0&gt; command – use if you are keeping the document, its current filename and location.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T182539Z" creationid="olex" creationdate="20180617T182130Z">
+        <seg>&lt;f0&gt;Сохранить&lt;/f0&gt;- команда используется, если вы сохраняете документ, с его текущем именем и в то же местоположение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Send Feedback&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Feedback page of the LibreOffice website &lt;a3&gt;https://www.libreoffice.org/get-help/feedback/&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T111237Z" creationid="tagezi" creationdate="20180307T111237Z">
@@ -1261,6 +1309,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T091816Z" creationid="olex" creationdate="20180414T142652Z">
         <seg>&lt;f0&gt;Вверх&lt;/f0&gt; – создает восходящий ряд в диапазоне ячеек столбца с использованием заданного приращения до конечного значения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Use &lt;/f0&gt;the keyboard shortcut &lt;f1&gt;Ctrl+S&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T182905Z" creationid="olex" creationdate="20180617T182905Z">
+        <seg>&lt;f0&gt;Используйте&lt;/f0&gt; сочетание клавиш &lt;f1&gt;Ctrl+S&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4481,6 +4537,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Save&lt;/f0&gt; and the &lt;f1&gt;Set Password&lt;/f1&gt; dialog opens (Figure &lt;t2&gt;11&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T185149Z" creationid="olex" creationdate="20180617T185149Z">
+        <seg>Нажмите &lt;f0&gt;Сохранить&lt;/f0&gt; и откроется диалоговое окно &lt;f1&gt;Задать пароль&lt;/f1&gt; (Рисунок &lt;t2&gt;11&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Save&lt;/f0&gt; to save the macro and close the LibreOffice Basic Macros dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T061052Z" creationid="tagezi" creationdate="20180313T145009Z">
@@ -4861,6 +4925,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T085603Z" creationid="tagezi" creationdate="20180319T085543Z">
         <seg>Нажмите значок &lt;f0&gt;Выполнить&lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; на панели макросов, или нажмите клавишу &lt;f3&gt;F5&lt;/f3&gt; для запуска макроса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Save&lt;/f0&gt; &lt;f1&gt;icon &lt;/f1&gt;on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T183012Z" creationid="olex" creationdate="20180617T183012Z">
+        <seg>Нажмите &lt;f0&gt;значок&lt;/f0&gt; &lt;f1&gt;Сохранить&lt;/f1&gt; на панели инструментов Стандартная.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6754,6 +6826,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T161213Z" creationid="tagezi" creationdate="20180320T161213Z">
         <seg>Рисунок &lt;seq0&gt;10&lt;/seq0&gt;: Вкладка События в диалоговом окне Настройка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Example of LibreOffice Save As dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T183726Z" creationid="olex" creationdate="20180617T183726Z">
+        <seg>Рисунок &lt;seq0&gt;10&lt;/seq0&gt;: Пример диалогового окна LibreOffice Сохранить как</seg>
       </tuv>
     </tu>
     <tu>
@@ -10552,6 +10632,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T202019Z" creationid="olex" creationdate="20180607T202019Z">
         <seg>Impress предоставляет все распространенные мультимедийные средства презентаций, такие как специальные эффекты, анимация и инструменты рисования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In &lt;f0&gt;File Encryption Password&lt;/f0&gt;, enter a password to open the document and then enter the same password as confirmation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T185410Z" creationid="olex" creationdate="20180617T185410Z">
+        <seg>В части &lt;f0&gt;Пароль для шифрования файлов&lt;/f0&gt; введите пароль в поле Введите пароль для открытия, а затем введите тот же пароль в поле Подтвердите пароль.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20760,10 +20848,26 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To restrict who can open and read a document, or open and edit the document, use password protection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T184804Z" creationid="olex" creationdate="20180617T184804Z">
+        <seg>Чтобы ограничить, круг тех кто может открыть и прочитать документ, или открыть и отредактировать документ, используйте защиту паролем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To retain a minimum number of integer characters in a cell when entering numbers in order to retain the number format, for example 1234 and 0012, leading zeros have to be added using one of the following methods.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T181041Z" creationid="olex" creationdate="20180411T181041Z">
         <seg>Чтобы установить минимальное количество отображаемых разрядов целых чисел в ячейке при вводе, когда задается формат числа, например 1234 и 0012, необходимо добавить отображение начальных нулей одним из следующих способов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To save a document if you are keeping the document’s current filename and location, do one of the following:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T182653Z" creationid="olex" creationdate="20180617T182653Z">
+        <seg>Чтобы сохранить документ, не меняя текущее имя и местоположение документа, выполните одно из следующих действий:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21461,6 +21565,46 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use &lt;f0&gt;the menu option&lt;/f0&gt; &lt;f1&gt;File &gt; Save All&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T183056Z" creationid="olex" creationdate="20180617T183056Z">
+        <seg>Используйте &lt;f0&gt;пункт меню&lt;/f0&gt; &lt;f1&gt;Файл &gt; Сохранить все&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;f0&gt;the menu option&lt;/f0&gt; &lt;f1&gt;File &gt; Save As&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T184032Z" creationid="olex" creationdate="20180617T184032Z">
+        <seg>Используйте &lt;f0&gt;пункт меню&lt;/f0&gt; &lt;f1&gt;Файл &gt; Сохранить как...&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;f0&gt;the menu option&lt;/f0&gt; &lt;f1&gt;File &gt; Save Remote&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T183229Z" creationid="olex" creationdate="20180617T183229Z">
+        <seg>Используйте &lt;f0&gt;пункт меню&lt;/f0&gt; &lt;f1&gt;Файл &gt; Сохранить удаленно...&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;f0&gt;the menu option&lt;/f0&gt; &lt;f1&gt;File &gt; Save a Copy&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(Similar to the &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;bf8&gt;Save As command&lt;/bf8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;f10&gt;)&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T183423Z" creationid="olex" creationdate="20180617T183423Z">
+        <seg>Используйте &lt;f0&gt;пункт меню&lt;/f0&gt; &lt;f1&gt;Файл &gt; Сохранить копию...&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(аналогично команда &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;bf8&gt;Сохранить как...&lt;/bf8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;f10&gt;)&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;f0&gt;the menu option&lt;/f0&gt; &lt;f1&gt;File &gt; Save&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T182757Z" creationid="olex" creationdate="20180617T182704Z">
+        <seg>Используйте &lt;f0&gt;пункт меню&lt;/f0&gt; &lt;f1&gt;Файл &gt; Сохранить&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use &lt;i0/&gt;the zoom function to show more or fewer cells in the window when you are working on a spreadsheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T162817Z" creationid="olex" creationdate="20180409T162817Z">
@@ -21570,6 +21714,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T194234Z" creationid="olex" creationdate="20180616T194234Z">
         <seg>Используйте сочетание клавиш &lt;f0&gt;Ctrl+O&lt;/f0&gt;, чтобы открылось диалоговое окно Открыть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T183955Z" creationid="olex" creationdate="20180617T183955Z">
+        <seg>Используйте сочетание клавиш &lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21839,6 +21991,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using the &lt;bf0&gt;Save As command&lt;/bf0&gt;&lt;s1/&gt;command above, select the &lt;f2&gt;Save with password&lt;/f2&gt; option in the Save As dialog or Save dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T185023Z" creationid="olex" creationdate="20180617T185023Z">
+        <seg>Используя команду &lt;bf0&gt; Сохранить как&lt;/bf0&gt;&lt;s1/&gt;, выберите опцию &lt;f2&gt;Сохранить с паролем&lt;/f2&gt; в диалоговом окне Сохранить как или Сохранить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the &lt;f0&gt;Sheet&lt;/f0&gt; menu:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180406T163339Z" creationid="olex" creationdate="20180406T163339Z">
@@ -21891,6 +22051,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T200140Z" creationid="olex" creationdate="20180607T200140Z">
         <seg>Использование Навигатора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the Save command will &lt;f0&gt;immediately&lt;/f0&gt; overwrite the last saved version of the file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T183551Z" creationid="olex" creationdate="20180617T183551Z">
+        <seg>Команда Сохранить &lt;f0&gt;немедленно&lt;/f0&gt; перезапишет последнюю сохраненную версию файла.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22453,6 +22621,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T234242Z" creationid="tagezi" creationdate="20180304T234242Z">
         <seg>При публикации документа, в котором вы не ожидаете модификацию со стороны получателя, предпочтительным вариантом является конвертация документа в PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the &lt;f0&gt;Save As&lt;/f0&gt; dialog (Figure &lt;t1&gt;10&lt;/t1&gt;) or &lt;f2&gt;Save&lt;/f2&gt; dialog opens, enter the file name, change the file type (if applicable), navigate to a new location (if applicable), and click &lt;f3&gt;Save&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T184217Z" creationid="olex" creationdate="20180617T184217Z">
+        <seg>Когда откроется диалоговое окно &lt;f0&gt;Сохранить как&lt;/f0&gt; (Рисунок &lt;t1&gt;10&lt;/t1&gt;) или &lt;f2&gt;Сохранить&lt;/f2&gt;, введите имя файла, измените тип файла (если возможность доступна), перейдите в новое место (если это возможно) и нажмите &lt;f3&gt;Сохранить&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23626,6 +23802,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T192819Z" creationid="olex" creationdate="20180615T183426Z">
         <seg>Вы можете перемещать панели инструментов в различные положения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can save documents as follows:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180617T181903Z" creationid="olex" creationdate="20180617T181903Z">
+        <seg>Вы можете сохранить документы следующим образом:</seg>
       </tuv>
     </tu>
     <tu>
