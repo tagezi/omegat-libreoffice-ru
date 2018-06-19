@@ -4985,6 +4985,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;f1&gt;Open&lt;/f1&gt; or &lt;f2&gt;Save&lt;/f2&gt; button to proceed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T182646Z" creationid="olex" creationdate="20180619T182646Z">
+        <seg>Для продолжения нажмите кнопку &lt;f1&gt;Открыть&lt;/f1&gt; или &lt;f2&gt;Сохранить&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the last column or row in the group.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T183858Z" creationid="olex" creationdate="20180405T183858Z">
@@ -6946,6 +6954,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T212751Z" creationid="olex" creationdate="20180407T212751Z">
         <seg>Рисунок &lt;seq0&gt;13&lt;/seq0&gt;: Диалоговое окно Удалить ячейки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Remote Files dialog when connected to a server</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T182808Z" creationid="olex" creationdate="20180619T182808Z">
+        <seg>Рисунок &lt;seq0&gt;13&lt;/seq0&gt;: Диалоговое окно Файлы на сервере при подключении к серверу</seg>
       </tuv>
     </tu>
     <tu>
@@ -14092,6 +14108,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the left is the folder structure of the user space in the server.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T182449Z" creationid="olex" creationdate="20180619T182449Z">
+        <seg>Слева находится структура папок пользовательского пространства на сервере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the menu bar, go to &lt;f0&gt;File &gt; New &gt; Formula&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T135133Z" creationid="User" creationdate="20180308T135133Z">
@@ -18906,6 +18930,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The line below the list box shows the path to access the folder.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T182455Z" creationid="olex" creationdate="20180619T182428Z">
+        <seg>Поле под списком показывает путь к папке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The list shows the names of existing custom styles of the selected type.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203316Z" creationid="olex" creationdate="20180309T203316Z">
@@ -18969,6 +19001,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T172534Z" creationid="olex" creationdate="20180603T172534Z">
         <seg>Основные компоненты &lt;i0/&gt;главного окна Draw&lt;i1/&gt; показаны на Рисунке &lt;t2&gt;1&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The main pane displays the files in the remote folder.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T182549Z" creationid="olex" creationdate="20180619T182549Z">
+        <seg>На главной панели отображаются файлы в удаленной папке.</seg>
       </tuv>
     </tu>
     <tu>
