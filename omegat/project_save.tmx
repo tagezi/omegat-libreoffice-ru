@@ -3544,6 +3544,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic saving, like manual saving, overwrites the last saved state of the file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T175607Z" creationid="olex" creationdate="20180619T175537Z">
+        <seg>Автоматическое сохранение, как и сохранение вручную, перезаписывает последнее сохраненное состояние файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic wrapping</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T174338Z" creationid="olex" creationdate="20180327T174338Z">
@@ -9379,6 +9387,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T175711Z" creationid="olex" creationdate="20180619T175711Z">
+        <seg>Выберите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; Загрузка/сохранение &gt; Общие&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Protect Sheet&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T194333Z" creationid="olex" creationdate="20180502T194333Z">
@@ -12155,6 +12171,22 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T232601Z" creationid="tagezi" creationdate="20180304T232601Z">
         <seg>В дополнение к форматам OpenDocument, LibreOffice может открывать различные форматы файлов, включая Portable Document Format (PDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice can open and save files stored on remote servers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T180014Z" creationid="olex" creationdate="20180619T180014Z">
+        <seg>LibreOffice может открывать и сохранять файлы, хранящиеся на удаленных серверах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice can save files automatically as part of the &lt;f0&gt;AutoRecovery&lt;/f0&gt; feature.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T175412Z" creationid="olex" creationdate="20180619T175412Z">
+        <seg>LibreOffice может сохранять файлы автоматически, это часть функции &lt;f0&gt;Авто-восстановление&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15921,6 +15953,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T190426Z" creationid="olex" creationdate="20180508T190426Z">
         <seg>Выберите &lt;f0&gt; Одинаковое содержимое слева/справа&lt;/f0&gt;, если вы хотите, чтобы на всех печатаемых страницах отображался один и тот же верхний или нижний колонтитул.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Save AutoRecovery information every&lt;/f0&gt; and set the time interval.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T175820Z" creationid="olex" creationdate="20180619T175820Z">
+        <seg>Выберите &lt;f0&gt;Автосохранение каждые:&lt;/f0&gt; и установите временной интервал.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21084,6 +21124,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T190013Z" creationid="olex" creationdate="20180311T185825Z">
         <seg>Чтобы установить имя файла или изменить каталог, выберите кнопку &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Путь&lt;/f1&gt; (три точки справа от места размещения).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To set up automatic file saving:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T175550Z" creationid="olex" creationdate="20180619T175550Z">
+        <seg>Чтобы настроить автоматическое сохранение файлов:</seg>
       </tuv>
     </tu>
     <tu>
