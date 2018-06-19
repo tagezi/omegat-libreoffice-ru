@@ -4785,6 +4785,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the &lt;f0&gt;Remote Files&lt;/f0&gt; button in the Start Center</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T180933Z" creationid="olex" creationdate="20180619T180933Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Файлы на сервере&lt;/f0&gt; в Центре запуска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the desired sheet and then click OK.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T190559Z" creationid="olex" creationdate="20180405T190559Z">
@@ -8266,6 +8274,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, you can work on a document in the office during the day and edit it at home for last-minute changes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T180135Z" creationid="olex" creationdate="20180619T180135Z">
+        <seg>Например, вы можете работать над документом в офисе в течение дня и редактировать его дома, внося изменения в последнюю минуту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, you could define a &lt;f1&gt;Heading 1&lt;/f1&gt; paragraph to be followed by a &lt;f2&gt;Text Body&lt;/f2&gt; paragraph.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T203710Z" creationid="olex" creationdate="20180316T203440Z">
@@ -11557,6 +11573,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also supports popular services like Google Drive and Microsoft OneNote, as well as commercial and open source servers that implement the OASIS CMIS standard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T180803Z" creationid="olex" creationdate="20180619T180803Z">
+        <seg>Он также поддерживает популярные сервисы, такие как Google Drive и Microsoft OneNote, а также коммерческие серверы с открытым исходным кодом, которые реализуют стандарт OASIS CMIS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can also use dBASE, Microsoft Access, MySQL, or Oracle, or any ODBC compliant or JDBC compliant database.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T203703Z" creationid="olex" creationdate="20180607T203703Z">
@@ -11881,6 +11905,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103954Z" creationid="tagezi" creationdate="20180320T103954Z">
         <seg>Так же, как имеет смысл придать вашим библиотекам значимые имена, разумно использовать значимые имена для ваших модулей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keeping files on remote servers allows you to work with the documents using different computers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T180042Z" creationid="olex" creationdate="20180619T180042Z">
+        <seg>Хранение файлов на удаленных серверах позволяет работать с документами на разных компьютерах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12420,6 +12452,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T111824Z" creationid="tagezi" creationdate="20180320T111824Z">
         <seg>LibreOffice хранит пользовательские данные в подкаталоге домашнего каталога для этого пользователя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice supports many document servers that use well known network protocols such as FTP, WebDav, Windows share, and SSH.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T180716Z" creationid="olex" creationdate="20180619T180716Z">
+        <seg>LibreOffice поддерживает множество типов серверов документов, которые используют известные сетевые протоколы, такие как FTP, WebDav, Windows share и SSH.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15829,6 +15869,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;File &gt; Open Remote&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T181014Z" creationid="olex" creationdate="20180619T181014Z">
+        <seg>Выберите &lt;f0&gt;Файл &gt; Открыть удаленно...&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;File &gt; Save As&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Save As&lt;/f1&gt; dialog (Figure &lt;t2&gt;5&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T181415Z" creationid="olex" creationdate="20180402T181415Z">
@@ -17079,6 +17127,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some servers are also able to check-in and check-out files, thus controlling their usage and access.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T180623Z" creationid="olex" creationdate="20180619T180623Z">
+        <seg>Некоторые серверы также позволяют регистрировать и проверять файлы, контролировать их использование и доступ к ним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some themes even change the Default cell style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T184323Z" creationid="olex" creationdate="20180430T184323Z">
@@ -17283,6 +17339,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T104128Z" creationid="tagezi" creationdate="20180320T104128Z">
         <seg>Сохранение макроса в документе полезно, если документ будет совместно использоваться, и вы хотите, чтобы макрос был включен в документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storing files on a remote server also backs up documents from computer loss or hard disk failure.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T180449Z" creationid="olex" creationdate="20180619T180449Z">
+        <seg>Хранить файлы на удаленном сервере можно также как резервные копии документов на случай потери компьютера или сбоев жесткого диска.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20562,6 +20626,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T172900Z" creationid="olex" creationdate="20180616T172900Z">
         <seg>Чтобы изменить текущий стиль страницы или дизайн слайда, дважды щелкните по этому полю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To enable a remote server connection, use one of these methods:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T180837Z" creationid="olex" creationdate="20180619T180837Z">
+        <seg>Чтобы подключиться к удаленному серверу, используйте один из следующих способов:</seg>
       </tuv>
     </tu>
     <tu>
