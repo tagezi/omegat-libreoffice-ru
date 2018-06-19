@@ -2179,6 +2179,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A dialog asking for the user name and the password may pop up to let you log in the server.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T181748Z" creationid="olex" creationdate="20180619T181714Z">
+        <seg>Затем появится диалоговое окно с запросом имени пользователя и пароля, чтобы вы могли войти на сервер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A dialog is a special type of window.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T105914Z" creationid="tagezi" creationdate="20180310T105754Z">
@@ -5795,6 +5803,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the type of file service you choose in the &lt;f0&gt;Type&lt;/f0&gt; listbox, different parameters are necessary to fully qualify the connection to the remote server.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T181410Z" creationid="olex" creationdate="20180619T181410Z">
+        <seg>В зависимости от типа файловой службы, которую вы выберете в списке &lt;f0&gt;Тип:&lt;/f0&gt;, для полного соответствия соединения с удаленным сервером необходимы разные параметры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on which sheet is open when you insert a new sheet, and the insertion method you use, the new sheet may not be in its correct numerical position.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T192657Z" creationid="olex" creationdate="20180403T172953Z">
@@ -6890,6 +6906,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T190102Z" creationid="olex" creationdate="20180617T190102Z">
         <seg>Рисунок &lt;seq0&gt;11&lt;/seq0&gt;: Диалоговое окно Задать пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Remote server configuration</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T181526Z" creationid="olex" creationdate="20180619T181526Z">
+        <seg>Рисунок &lt;seq0&gt;12&lt;/seq0&gt;: Настройка удаленного сервера</seg>
       </tuv>
     </tu>
     <tu>
@@ -14052,6 +14076,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the Remote Files dialog (Figure &lt;t0&gt;13&lt;/t0&gt;), click on the &lt;f1&gt;Add Service&lt;/f1&gt; button in the upper right to open the File Services dialog (Figure &lt;t2&gt;12&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T181320Z" creationid="olex" creationdate="20180619T181320Z">
+        <seg>В диалоговом окне Файлы на сервере (Рисунок &lt;t0&gt;13&lt;/t0&gt;) нажмите кнопку &lt;f1&gt;Добавить службу&lt;/f1&gt; в правом верхнем углу, чтобы открыть диалоговое окно Файловые службы (Рисунок &lt;t2&gt;12&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the Standard toolbar, click the triangle to the right of the &lt;f0&gt;New&lt;/f0&gt; icon and select &lt;f1&gt;Formula&lt;/f1&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T135520Z" creationid="User" creationdate="20180308T135520Z">
@@ -14064,6 +14096,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T135133Z" creationid="User" creationdate="20180308T135133Z">
         <seg>Выберите пункт меню &lt;f0&gt;Файл &gt; Создать &gt; Формулу&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the connection is defined, click &lt;f0&gt;OK&lt;/f0&gt; to connect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T181600Z" creationid="olex" creationdate="20180619T181550Z">
+        <seg>Как только соединение определено, нажмите &lt;f0&gt;OK&lt;/f0&gt;, чтобы подключиться.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14945,6 +14985,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T212005Z" creationid="olex" creationdate="20180407T212005Z">
         <seg>Повторите действия по вставке столбца или строки по указаниям выше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proceed entering your credentials.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T181742Z" creationid="olex" creationdate="20180619T181742Z">
+        <seg>Введите свои учетные данные.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15881,6 +15929,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T181415Z" creationid="olex" creationdate="20180402T181415Z">
         <seg>Выберите в меню &lt;f0&gt;Файл &gt; Сохранить как...&lt;/f0&gt;, чтобы открыть диалог &lt;f1&gt;Сохранить как&lt;/f1&gt; (Рисунок &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;File &gt; Save Remote&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T181129Z" creationid="olex" creationdate="20180619T181039Z">
+        <seg>Выберите &lt;f0&gt;Файл &gt; Сохранить удаленно...&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18122,6 +18178,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Remote Files dialog (Figure &lt;t0&gt;13&lt;/t0&gt;) which then appears has many parts.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T182017Z" creationid="olex" creationdate="20180619T182017Z">
+        <seg>Диалоговое окно Файлы на сервере (Рисунок &lt;t0&gt;13&lt;/t0&gt;), которое появится затем, содержит несколько частей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Save As window opens.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T190237Z" creationid="olex" creationdate="20180315T190237Z">
@@ -18462,6 +18526,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T174225Z" creationid="olex" creationdate="20180430T174225Z">
         <seg>Стили по умолчанию можно применять, удалять или изменять с помощью вкладки Стили в Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The dialog will dim until the connection is established with the server.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T181650Z" creationid="olex" creationdate="20180619T181650Z">
+        <seg>Диалоговые окна потускнеют, пока не будет установлено соединение с сервером.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19459,6 +19531,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T191128Z" creationid="tagezi" creationdate="20180320T191128Z">
         <seg>В верхнем левом углу справочной системы LibreOffice содержится раскрывающийся список, определяющий, какой набор справок отображается.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The upper list box contains the list of remote servers you have previously defined.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180619T182131Z" creationid="olex" creationdate="20180619T182131Z">
+        <seg>Верхнее поле Служба содержит список удаленных серверов, к которым вы ранее подключались.</seg>
       </tuv>
     </tu>
     <tu>
