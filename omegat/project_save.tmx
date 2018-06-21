@@ -945,6 +945,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Navigator&lt;/f0&gt; also provides the facility to move, promote, demote items within a document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T181116Z" creationid="olex" creationdate="20180621T181116Z">
+        <seg>&lt;f0&gt;Навигатор&lt;/f0&gt; также предоставляет возможность перемещать, поднимать и опускать элементы внутри документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Navigator&lt;/f0&gt;: This deck contains a single panel, which is essentially the same as the Navigator window opened by clicking the &lt;f1&gt;Navigator&lt;/f1&gt; button on the Standard toolbar or selecting &lt;f2&gt;View &gt; Navigator&lt;/f2&gt; (&lt;f3&gt;F5&lt;/f3&gt;) from the Menu bar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T172809Z" creationid="olex" creationdate="20180330T173834Z">
@@ -1261,6 +1269,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T194119Z" creationid="olex" creationdate="20180330T194119Z">
         <seg>&lt;f0&gt;Текст&lt;/f0&gt; - импортированные данные обрабатываются как текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;To repeat the last command applied to your document, use the shortcut &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Ctrl+Shift+Y&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T182139Z" creationid="olex" creationdate="20180621T182139Z">
+        <seg>&lt;f0&gt;Чтобы повторить последнюю команду, примененную к вашему документу, используйте значок &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Ctrl+Shift+Y&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1638,6 +1654,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T192817Z" creationid="olex" creationdate="20180614T192817Z">
         <seg>&lt;f1&gt;Ниже приведен пример для Writer:&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f1&gt;If you have made changes to a file since the last save, a&lt;/f1&gt; confirmation dialog will warn you that &lt;f2&gt;Reloading&lt;/f2&gt; will discard your last changes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T183136Z" creationid="olex" creationdate="20180621T183136Z">
+        <seg>&lt;f1&gt;Если вы внесли изменения в файл с момента последнего сохранения, то диалоговое окно&lt;/f1&gt; предупредит вас, что &lt;f2&gt;Перезагрузка&lt;/f2&gt; отменит ваши последние изменения, запросив подтверждения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2167,6 +2191,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T190913Z" creationid="olex" creationdate="20180604T190913Z">
         <seg>Копия объекта не имеет связи с исходным объектом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A copy of the document that is currently stored in the file system is loaded.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T182834Z" creationid="olex" creationdate="20180621T182834Z">
+        <seg>Загружается та копия документа, которая в настоящее время хранится в файловой системе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2719,6 +2751,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T185149Z" creationid="olex" creationdate="20180614T185102Z">
         <seg>После активации Быстрого запуска в системном трее на панели появится значок &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After changes have been undone, you can redo changes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T181738Z" creationid="olex" creationdate="20180621T181738Z">
+        <seg>После того, как изменения были отменены, вы можете вернуть изменения снова.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3391,6 +3431,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As with Undo, click on the triangle to the right of the arrow to get a list of the changes that can be reapplied.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T182025Z" creationid="olex" creationdate="20180621T181948Z">
+        <seg>Как и в случае отмены, нажмите на треугольник справа от стрелки, чтобы посмотреть список изменений, которые могут быть применены повторно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As with any OLE object, you can change how the object is placed within the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180314T161104Z" creationid="User" creationdate="20180314T161104Z">
@@ -3724,6 +3772,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T193637Z" creationid="olex" creationdate="20180502T193637Z">
         <seg>Запустите диалоговое окно Формат ячеек, нажатием правой кнопкой мыши и выбрав &lt;f0&gt;Формат ячеек&lt;/f0&gt; или выбрав в меню &lt;f1&gt;Формат &gt; Ячейки...&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But undoing each change or remembering where the changes took place can be a difficult task.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T182722Z" creationid="olex" creationdate="20180621T182722Z">
+        <seg>Но отменить каждое действие или вспомнить, где произошли изменения, может быть трудной задачей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4301,6 +4357,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T190123Z" creationid="olex" creationdate="20180330T185134Z">
         <seg>Выберите в меню &lt;f0&gt;Файл &gt; Открыть&lt;/f0&gt; и найдите CSV-файл, который вы хотите открыть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose whether to save or discard your changes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T183754Z" creationid="olex" creationdate="20180621T183754Z">
+        <seg>Выберите, следует сохранять или отменить изменения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5021,6 +5085,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T195058Z" creationid="olex" creationdate="20180616T194854Z">
         <seg>Нажмите небольшой треугольник справа от значка &lt;f0&gt;Открыть&lt;/f0&gt; и выберите из списка недавно открытых документов или нажмите &lt;f0&gt;Открыть шаблон...&lt;/f0&gt; под списком файлов для &lt;f0&gt;выбора шаблона&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the small triangle to the right of the &lt;f3&gt;Undo&lt;/f3&gt; icon to get a list of all the changes that can be undone.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T181957Z" creationid="olex" creationdate="20180621T181525Z">
+        <seg>Нажмите маленький треугольник справа от значка &lt;f3&gt;Отменить&lt;/f3&gt;, чтобы посмотреть список всех действий, которые можно отменить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6365,6 +6437,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each Navigator in the individual LibreOffice components has a different range of functions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T181203Z" creationid="olex" creationdate="20180621T181142Z">
+        <seg>Каждый Навигатор в отдельных компонентах LibreOffice имеет различный набор функций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each Style dialog has several tabs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180536Z" creationid="olex" creationdate="20180308T180536Z">
@@ -6986,6 +7066,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T183117Z" creationid="olex" creationdate="20180315T183117Z">
         <seg>Рисунок &lt;seq0&gt;14&lt;/seq0&gt;: Перемещение шаблонов в другую категорию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Navigator in Writer</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T181303Z" creationid="olex" creationdate="20180621T181303Z">
+        <seg>Рисунок &lt;seq0&gt;14&lt;/seq0&gt;: Навигатор в Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -10187,6 +10275,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If more than one document is open and you want to close one of them, go to &lt;f0&gt;File &gt; Close&lt;/f0&gt; on the Menu bar or click on the X on the title bar of that document’s window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T183607Z" creationid="olex" creationdate="20180621T183607Z">
+        <seg>Если открыто несколько документов, и вы хотите закрыть один из них, то выберите в меню &lt;f0&gt;Файл &gt; Закрыть&lt;/f0&gt; или щелкните по значку X в строке заголовка окна этого документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If necessary, you can prevent a formula in a document from updating automatically.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180318T122108Z" creationid="Роман" creationdate="20180318T122108Z">
@@ -10199,6 +10295,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130309Z" creationid="tagezi" creationdate="20180320T130309Z">
         <seg>Если параметры не выбраны, библиотека будет скопирована в ваш каталог пользователя макросов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If only one document is open and you want to close that document, go to &lt;f0&gt;File &gt; Close&lt;/f0&gt; on the Menu bar or click on the X on the right or left end of the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T183406Z" creationid="olex" creationdate="20180621T183406Z">
+        <seg>Если открыт только один документ, и вы хотите закрыть этот документ, то выберите в меню &lt;f0&gt;Файл &gt; Закрыть&lt;/f0&gt; или щелкните по значку X в правом или левом конце строки меню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10255,6 +10359,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T173953Z" creationid="olex" creationdate="20180616T173953Z">
         <seg>Если документ подписан цифровой подписью, здесь отображается значок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the document has not been saved since the last change, a message box is displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T183735Z" creationid="olex" creationdate="20180621T183735Z">
+        <seg>Если документ не был сохранен после внесения последнего изменения, то отобразится окно сообщения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10423,6 +10535,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100204Z" creationid="lera" creationdate="20180303T163429Z">
         <seg>Если вы только начали использовать LibreOffice, Приложение B предоставит вам информацию о истории пакета, его сообществе и некоторых технических характеристиках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are sure you do not want to keep the changes from the last save operation, you can reload your document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T182802Z" creationid="olex" creationdate="20180621T182802Z">
+        <seg>Если вы уверены, что не хотите сохранять изменения последнего сеанса, вы можете перезагрузить документ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10965,6 +11085,15 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T154230Z" creationid="User" creationdate="20180311T154230Z">
         <seg>В Writer щёлкните мышью в абзаце, где хотите вставить формулу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>denkin: нет возможности проверить (((</note>
+      <tuv lang="EN-US">
+        <seg>In a Mac operating system, go to &lt;f1&gt;LibreOffice &gt; Quit LibreOffice&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T184253Z" creationid="olex" creationdate="20180621T184006Z">
+        <seg>В операционной системе Mac выберите в меню &lt;f1&gt;LibreOffice &gt; Выйти из LibreOffice&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13850,6 +13979,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not saving your document could result in the loss of recently made changes, or worse still, the entire file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T183842Z" creationid="olex" creationdate="20180621T183842Z">
+        <seg>Не сохранение вашего документа может привести к потере последних внесенных изменений или, что еще хуже, всего файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T175003Z" creationid="tagezi" creationdate="20180304T175003Z">
@@ -13988,6 +14125,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Objects are much easier to find if you have given them recognizable names when creating them, instead of keeping the default names such as Sheet1, Table1, or Table2.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T180921Z" creationid="olex" creationdate="20180621T180921Z">
+        <seg>Объекты намного проще найти, если вы указали им узнаваемые имена при их создании вместо имен по умолчанию, таких как Лист1, Таблица1 и Таблица2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Office Open XML Presentation (.pptx, .potm, .ppsx)&lt;br5/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T065648Z" creationid="tagezi" creationdate="20180305T065648Z">
@@ -14028,6 +14173,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On &lt;f1&gt;macOS&lt;/f1&gt;, the document closes and only the Menu bar remains at the top of the screen.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T183519Z" creationid="olex" creationdate="20180621T183519Z">
+        <seg>В &lt;f1&gt;macOS&lt;/f1&gt; документ закрывается, и в верхней части экрана остается только строка меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On January 26, 2010, Oracle Corporation acquired Sun Microsystems.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T054004Z" creationid="lera" creationdate="20180303T164716Z">
@@ -14048,6 +14201,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T074644Z" creationid="lera" creationdate="20180303T164756Z">
         <seg>28 сентября 2010, сообщество добровольцев, которое разрабатывало и продвигало OpenOffice.org, объявило о значительных изменениях в структуре проекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On Windows and Linux, the document closes and the LibreOffice Start Center opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T183430Z" creationid="olex" creationdate="20180621T183430Z">
+        <seg>В Windows и Linux документ закрывается и открывается Центр запуска LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14104,6 +14265,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T202234Z" creationid="olex" creationdate="20180311T202234Z">
         <seg>На других веб-сайтах вы можете найти коллекции шаблонов, которые были упакованы в файлы с расширением (OXT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On reloading your document, the File dialog will not open, because the file is already selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T183210Z" creationid="olex" creationdate="20180621T183210Z">
+        <seg>При перезагрузке вашего документа диалоговое окно Файл не открывается, поскольку файл уже выбран.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18243,6 +18412,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Navigator provides several convenient ways to move around a document and find items in it:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T180646Z" creationid="olex" creationdate="20180621T180646Z">
+        <seg>Навигатор предоставляет несколько удобных способов перемещения по документу и поиска элементов в нем:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The New icon changes depending on which component of LibreOffice is open.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T193400Z" creationid="olex" creationdate="20180616T182907Z">
@@ -18391,6 +18568,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T202015Z" creationid="olex" creationdate="20180310T202015Z">
         <seg>Откроется диалоговое окно Шаблоны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The X may be located on either the right or left end of the title bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T183645Z" creationid="olex" creationdate="20180621T183645Z">
+        <seg>Значок X может быть расположен в правом или в левом конце строки заголовка окна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18595,6 +18780,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default names may not correspond to the actual position of the object in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T181013Z" creationid="olex" creationdate="20180621T181013Z">
+        <seg>Имена по умолчанию могут не соответствовать фактическому положению объекта в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default set of icons (sometimes called buttons) on toolbars provides a wide range of common commands and functions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180516T184656Z" creationid="olex" creationdate="20180329T175412Z">
@@ -18687,6 +18880,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T163259Z" creationid="tagezi" creationdate="20180318T163259Z">
         <seg>DispatchHelper посылает пакет во фрейм документа (хранящуюся в переменной document) командой .uno:InsertText.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The document returns to the state where it was last saved.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T182902Z" creationid="olex" creationdate="20180621T182902Z">
+        <seg>Документ возвратится к состоянию, в котором он был сохранен последний раз.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19840,6 +20041,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These functions are further explained in the user guide for each LibreOffice component.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T181241Z" creationid="olex" creationdate="20180621T181155Z">
+        <seg>Эти функции объясняются в руководстве пользователя далее для каждого модуля LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These placeholders must then be replaced with real numbers.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173839Z" creationid="Роман" creationdate="20180317T173839Z">
@@ -19966,6 +20175,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180516T185915Z" creationid="olex" creationdate="20180329T182249Z">
         <seg>Это окно может быть очень полезно, поскольку оно также показывает, как устроены функции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can save several repetitive menu navigation clicks or keyboard shortcuts, especially when the command is taken from a secondary menu.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T182354Z" creationid="olex" creationdate="20180621T182354Z">
+        <seg>Это может избавить от нескольких лишних щелчков навигации по меню или сочетаний клавиш, особенно если команда взята из подменю.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20639,6 +20856,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To close LibreOffice completely, go to &lt;f0&gt;File &gt; Exit&lt;/f0&gt; on the Menu bar in Windows and Linux operating systems.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T184024Z" creationid="olex" creationdate="20180621T183953Z">
+        <seg>Чтобы полностью закрыть LibreOffice в операционных системах Windows и Linux, выберите в меню &lt;f0&gt;Файл &gt; Выйти из LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To close a toolbar go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and deselect the toolbar, or right-click in an empty space between the icons on a toolbar and select &lt;f1&gt;Close toolbar&lt;/f1&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T180134Z" creationid="olex" creationdate="20180615T180134Z">
@@ -21185,6 +21410,22 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To redo a change use the keyboard shortcut &lt;f0&gt;Ctrl+Y&lt;/f0&gt;, or click the &lt;f1&gt;Redo&lt;/f1&gt; icon, or go to &lt;f2&gt;Edit &gt; Redo&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T181921Z" creationid="olex" creationdate="20180621T181921Z">
+        <seg>Для повторения изменения используйте сочетание клавиш &lt;f0&gt;Ctrl+Y&lt;/f0&gt; или щелкните значок &lt;f1&gt;Вернуть&lt;/f1&gt;, или выберите в меню &lt;f2&gt;Правка &gt; Вернуть&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To reload a document, go to &lt;f0&gt;File &gt; Reload&lt;/f0&gt; on the menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T182946Z" creationid="olex" creationdate="20180621T182946Z">
+        <seg>Чтобы перезагрузить документ, выберите в меню &lt;f0&gt;Файл &gt; Перезагрузить&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To remove a page break:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T184637Z" creationid="olex" creationdate="20180508T184637Z">
@@ -21501,6 +21742,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180516T190941Z" creationid="olex" creationdate="20180329T184912Z">
         <seg>Чтобы сделать строку ввода многострочной областью ввода для очень длинных формул, нажмите кнопку раскрывающегося списка справа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To undo the most recent change in a document, use the keyboard shortcut &lt;f0&gt;Ctrl+Z,&lt;/f0&gt; or click the &lt;f1&gt;Undo&lt;/f1&gt; icon on the Standard toolbar, or go to &lt;f2&gt;Edit &gt; Undo&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T181445Z" creationid="olex" creationdate="20180621T181445Z">
+        <seg>Чтобы отменить последнее изменение в документе, используйте сочетание клавиш &lt;f0&gt;Ctrl+Z&lt;/f0&gt; или щелкните значок &lt;f1&gt;Отменить&lt;/f1&gt; на панели инструментов Стандартная, или выберите в меню &lt;f2&gt;Правка &gt; Отменить&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22788,6 +23037,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T183831Z" creationid="olex" creationdate="20180614T183831Z">
         <seg>Когда активирован Быстрый запуск, то при запуске компьютерной системы загружаются необходимые файлы библиотеки, что приводит к более короткому времени запуска для компонентов LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a category is showing the list of objects in it, double-click on an object to jump directly to that object’s location in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T180813Z" creationid="olex" creationdate="20180621T180813Z">
+        <seg>Когда список объектов в категории открыт, дважды щелкните по объекту, чтобы перейти непосредственно к местоположению этого объекта в документе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24231,6 +24488,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can select multiple changes and undo them at the same time.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T181614Z" creationid="olex" creationdate="20180621T181614Z">
+        <seg>Вы можете выбрать несколько изменений и отменить их одновременно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can select one or multiple sheets in Calc.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T184617Z" creationid="olex" creationdate="20180405T184617Z">
@@ -24563,6 +24828,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T120223Z" creationid="olex" creationdate="20180309T193950Z">
         <seg>Возможно вы захотите добавить несколько новых стилей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may want to discard all the changes made in an editing session after the last document save.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T182610Z" creationid="olex" creationdate="20180621T182610Z">
+        <seg>Вы можете отказаться от всех изменений, внесенных в сеансе редактирования после последнего сохранения документа.</seg>
       </tuv>
     </tu>
     <tu>
