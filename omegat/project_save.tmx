@@ -8090,6 +8090,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, in Writer it shows Headings, Tables, Text frames, Comments, Graphics, Bookmarks, and other items, as shown in Figure &lt;t0&gt;14&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T180052Z" creationid="olex" creationdate="20180621T180044Z">
+        <seg>Например, в Writer отображаются заголовки, таблицы, текстовые фреймы, комментарии, графика, закладки и другие элементы, как показано на Рисунке &lt;t0&gt;14&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, in a table of numbers, you can show all the values above the average in green and all those below the average in red.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T180138Z" creationid="olex" creationdate="20180502T180138Z">
@@ -9987,6 +9995,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, you cannot copy or paste files within the dialogs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T175938Z" creationid="olex" creationdate="20180621T175938Z">
+        <seg>Однако вы не можете копировать или вставлять файлы в диалоговом окне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I am &lt;f0&gt;develop&lt;/f0&gt;ing software .</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T185223Z" creationid="olex" creationdate="20180607T185223Z">
@@ -10804,6 +10820,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Calc it shows Sheets, Range Names, Database Ranges, Graphics, Drawing Objects, and other items.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T180111Z" creationid="olex" creationdate="20180621T180111Z">
+        <seg>В Calc он показывает листы, имена диапазонов, диапазоны базы данных, графику, объекты чертежа и другие элементы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Calc you can hide elements so that they are neither visible on a computer display nor printed when a spreadsheet is printed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T182311Z" creationid="olex" creationdate="20180502T182311Z">
@@ -10869,6 +10893,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180319T201219Z" creationid="olex" creationdate="20180307T210129Z">
         <seg>На Рисунке &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;  в окне показаны &lt;f2&gt;Используемые стили&lt;/f2&gt;, это означает, что в список включены только те стили, которые использованы в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Impress and Draw it shows Slides, Pictures, and other items.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T180141Z" creationid="olex" creationdate="20180621T180141Z">
+        <seg>В Impress и Draw Навигатор показывает слайды, изображения и другие предметы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16197,6 +16229,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select a file and then right click to open a context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T175447Z" creationid="olex" creationdate="20180621T175447Z">
+        <seg>Выберите файл, а затем щелкните правой кнопкой мыши, чтобы открыть контекстное меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select a macro and then click &lt;f0&gt;Run&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T134017Z" creationid="tagezi" creationdate="20180312T134017Z">
@@ -16217,6 +16257,15 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T174218Z" creationid="olex" creationdate="20180616T174218Z">
         <seg>Выберите между просмотром одной страницы, многостраничным просмотром и книжным представлением, чтобы изменить способ отображения документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>denkin: в Xubuntu 18.04 и LibreOffice 6.0.4 работает только если включить "Использовать диалоги LibreOffice"</note>
+      <tuv lang="EN-US">
+        <seg>Select either &lt;f0&gt;Delete&lt;/f0&gt; or &lt;f1&gt;Rename&lt;/f1&gt;, as appropriate.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T175751Z" creationid="olex" creationdate="20180621T175751Z">
+        <seg>Выберите &lt;f0&gt;Удалить&lt;/f0&gt; или &lt;f1&gt;Переименовать&lt;/f1&gt;, если это необходимо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18094,6 +18143,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T102627Z" creationid="tagezi" creationdate="20180320T102627Z">
         <seg>Макросы LibreOffice хранятся с выполняемым кодом приложения, который, если вы не являетесь администратором, может быть недоступен для редактирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The LibreOffice Navigator lists objects contained within a document, collected into categories.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T180013Z" creationid="olex" creationdate="20180621T180013Z">
+        <seg>Навигатор LibreOffice отображает объекты в документе, собранными в категории.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21034,6 +21091,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T185557Z" creationid="olex" creationdate="20180330T184958Z">
         <seg>Чтобы открыть CSV-файл в Calc:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To open the Navigator, click the &lt;f0&gt;Navigator&lt;/f0&gt; icon on the Standard toolbar, or press the &lt;f1&gt;F5&lt;/f1&gt; key, or go to &lt;f2&gt;View &gt; Navigator&lt;/f2&gt; on the Menu bar,, &lt;f3&gt;or click on the Page Number/Count area of the Status Bar,&lt;/f3&gt; or click the Navigator icon in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T180455Z" creationid="olex" creationdate="20180621T180455Z">
+        <seg>Чтобы открыть Навигатор, щелкните значок &lt;f0&gt;Навигатор&lt;/f0&gt; на панели инструментов Стандартная или нажмите клавишу &lt;f1&gt;F5&lt;/f1&gt;, или выберите в меню &lt;f2&gt;Вид &gt; Навигатор&lt;/f2&gt;, &lt;f3&gt;или щелкните по области номер/количество страниц в строке состояния&lt;/f3&gt;, или щелкните значок Навигатор на боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24106,6 +24171,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T161313Z" creationid="olex" creationdate="20180409T161313Z">
         <seg>Вы можете переименовать лист одним из следующих способов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can rename or delete files within the LibreOffice dialogs, just as you can in a file manager.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T175424Z" creationid="olex" creationdate="20180621T175424Z">
+        <seg>Вы можете переименовывать или удалять файлы в диалоговом окне LibreOffice, так же как в диспетчере файлов.</seg>
       </tuv>
     </tu>
     <tu>
