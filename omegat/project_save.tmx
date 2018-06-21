@@ -2115,6 +2115,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Mac operating system does not have this function; instead, you need to use to &lt;f0&gt;LibreOffice &gt; Quit LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T184424Z" creationid="olex" creationdate="20180621T184424Z">
+        <seg>Операционная система Mac не имеет такой функции; для этого вам нужно использовать &lt;f0&gt;LibreOffice &gt; Выйти из LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A PowerPoint file (*.ppt or *.pptx) opens in Impress.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T182436Z" creationid="olex" creationdate="20180611T182436Z">
@@ -10267,6 +10275,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If any documents have not been saved since the last change, a message box is displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T184600Z" creationid="olex" creationdate="20180621T184600Z">
+        <seg>Если какие-либо документы не были сохранены после внесения последнего изменения, то отобразится окно сообщения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it mixes font sizes or font styles, those mixed properties will remain the same as before.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T191248Z" creationid="olex" creationdate="20180308T181504Z">
@@ -10940,6 +10956,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In &lt;f0&gt;macOS&lt;/f0&gt; – &lt;f1&gt;Command ⌘+Q&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T184524Z" creationid="olex" creationdate="20180621T184524Z">
+        <seg>В &lt;f0&gt;macOS&lt;/f0&gt; – &lt;f1&gt;Command ⌘+Q&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In &lt;f1&gt;Default file format&lt;/f1&gt; and &lt;f2&gt;ODF settings &gt; Document type&lt;/f2&gt;, select &lt;f3&gt;Spreadsheet,&lt;/f3&gt; then in &lt;f4&gt;Always save as&lt;/f4&gt;, select your preferred file format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T183729Z" creationid="olex" creationdate="20180402T191404Z">
@@ -11069,6 +11093,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T135542Z" creationid="User" creationdate="20180308T135542Z">
         <seg>В Math используйте сочетание клавиш &lt;f0&gt;Ctrl+N&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Windows and Linux – &lt;f0&gt;Ctrl+Q&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T184500Z" creationid="olex" creationdate="20180621T184500Z">
+        <seg>В Windows и Linux – &lt;f0&gt;Ctrl+Q&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23355,6 +23387,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you close the last document using the X on the title bar of the window, then LibreOffice will close completely.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T184326Z" creationid="olex" creationdate="20180621T184326Z">
+        <seg>Когда вы закрываете последний документ, используя X в строке заголовка окна, LibreOffice закроется полностью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you edit a style, the changes are automatically applied to all of the elements formatted with this image style in your drawing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T190645Z" creationid="olex" creationdate="20180604T190645Z">
@@ -24057,6 +24097,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T183542Z" creationid="olex" creationdate="20180416T181619Z">
         <seg>Вы также можете использовать проверку &lt;i0/&gt; в своей работе, в качестве подсказки при вводе данных, которые сложны либо редко используются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also use a keyboard shortcut as follows:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180621T184516Z" creationid="olex" creationdate="20180621T184440Z">
+        <seg>Вы также можете использовать следующие комбинацию клавиш:</seg>
       </tuv>
     </tu>
     <tu>
