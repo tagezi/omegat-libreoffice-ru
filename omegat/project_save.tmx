@@ -2755,6 +2755,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152724Z" creationid="olex" creationdate="20180623T152724Z">
+        <seg>Расширенные возможности</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advantages of LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T194749Z" creationid="olex" creationdate="20180607T194749Z">
@@ -3318,6 +3326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Application colors</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152700Z" creationid="olex" creationdate="20180623T152700Z">
+        <seg>Внешний вид</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply Style List in the Formatting toolbar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T195750Z" creationid="olex" creationdate="20180307T195750Z">
@@ -3716,6 +3732,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T152810Z" creationid="lera" creationdate="20180303T152810Z">
         <seg>Основано на LibreOffice &lt;tc4/&gt;&lt;ts5/&gt;&lt;f6&gt;6.0&lt;/f6&gt;&lt;te7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic IDE options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152749Z" creationid="olex" creationdate="20180623T152749Z">
+        <seg>Параметры IDE Basic</seg>
       </tuv>
     </tu>
     <tu>
@@ -4185,6 +4209,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change some locale and language settings</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T153259Z" creationid="olex" creationdate="20180623T153259Z">
+        <seg>Изменение некоторых локальных настроек и настроек языка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changes to the original object are also reflected in the link.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T191055Z" creationid="olex" creationdate="20180604T191055Z">
@@ -4433,6 +4465,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choosing language settings</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T153107Z" creationid="olex" creationdate="20180623T153107Z">
+        <seg>Выбор настроек языка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choosing line endings</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T150641Z" creationid="olex" creationdate="20180603T150641Z">
@@ -4445,6 +4485,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T151649Z" creationid="olex" creationdate="20180623T151649Z">
         <seg>Выбор опций для всех LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choosing options for loading and saving documents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152958Z" creationid="olex" creationdate="20180623T152958Z">
+        <seg>Выбор параметров для загрузки и сохранения документов</seg>
       </tuv>
     </tu>
     <tu>
@@ -5237,7 +5285,7 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Color options</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152134Z" creationid="olex" creationdate="20180623T151853Z">
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152554Z" creationid="olex" creationdate="20180623T151853Z">
         <seg>Параметры цветов</seg>
       </tuv>
     </tu>
@@ -7971,7 +8019,7 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Fonts options</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152144Z" creationid="olex" creationdate="20180623T151925Z">
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152557Z" creationid="olex" creationdate="20180623T151925Z">
         <seg>Параметры шрифтов</seg>
       </tuv>
     </tu>
@@ -9233,10 +9281,18 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T153008Z" creationid="olex" creationdate="20180623T153008Z">
+        <seg>Общие</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General options</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180623T151741Z" creationid="olex" creationdate="20180623T151741Z">
-        <seg>Общие настройки</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152540Z" creationid="olex" creationdate="20180623T151741Z">
+        <seg>Общие параметры</seg>
       </tuv>
     </tu>
     <tu>
@@ -9751,6 +9807,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T065624Z" creationid="tagezi" creationdate="20180304T234312Z">
         <seg>Документ HTML (Calc) (.html и .htm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML compatibility</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T153038Z" creationid="olex" creationdate="20180623T153038Z">
+        <seg>Совместимость с HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -11794,6 +11858,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T192406Z" creationid="tagezi" creationdate="20180320T192406Z">
         <seg>Изучите модуль Debug — некоторые хорошие примеры это WritedbgInfo(document) и printdbgInfo(sheet).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install the required dictionaries</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T153147Z" creationid="olex" creationdate="20180623T153147Z">
+        <seg>Установка необходимых словарей</seg>
       </tuv>
     </tu>
     <tu>
@@ -14485,6 +14557,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Online update options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152921Z" creationid="olex" creationdate="20180623T152921Z">
+        <seg>Настройки онлайн-обновления</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only one section at a time can be open.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T183746Z" creationid="olex" creationdate="20180603T183746Z">
@@ -14657,6 +14737,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="mikek" changedate="20180307T122847Z" creationid="mikek" creationdate="20180307T122847Z">
         <seg>Открыть боковую панель стилей и форматирования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenCL options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152828Z" creationid="olex" creationdate="20180623T152828Z">
+        <seg>Параметры OpenCL</seg>
       </tuv>
     </tu>
     <tu>
@@ -15031,7 +15119,7 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Paths options</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180623T151841Z" creationid="olex" creationdate="20180623T151841Z">
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152551Z" creationid="olex" creationdate="20180623T151841Z">
         <seg>Параметры путей</seg>
       </tuv>
     </tu>
@@ -15041,6 +15129,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T075606Z" creationid="lera" creationdate="20180303T211954Z">
         <seg>Люди улучшают его, люди адаптируют его, люди исправляют ошибки в нем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Personalization</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152646Z" creationid="olex" creationdate="20180623T152646Z">
+        <seg>Персонализация</seg>
       </tuv>
     </tu>
     <tu>
@@ -15280,7 +15376,7 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Print options</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180623T151814Z" creationid="olex" creationdate="20180623T151814Z">
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152548Z" creationid="olex" creationdate="20180623T151814Z">
         <seg>Параметры печати</seg>
       </tuv>
     </tu>
@@ -15994,6 +16090,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T174719Z" creationid="tagezi" creationdate="20180304T174719Z">
         <seg>Сохранение текстовых документов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Security options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152600Z" creationid="olex" creationdate="20180623T152317Z">
+        <seg>Параметры безопасности</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Security options and warnings</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152445Z" creationid="olex" creationdate="20180623T152445Z">
+        <seg>Параметры и предупреждения безопасности</seg>
       </tuv>
     </tu>
     <tu>
@@ -22498,8 +22610,8 @@ denkin: это практически официальное название к
       <tuv lang="EN-US">
         <seg>User Data options</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152212Z" creationid="olex" creationdate="20180623T151722Z">
-        <seg>Настройка данных про пользователя</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152524Z" creationid="olex" creationdate="20180623T151722Z">
+        <seg>Параметры данных пользователя</seg>
       </tuv>
     </tu>
     <tu>
@@ -22897,6 +23009,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VBA Properties</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T153014Z" creationid="olex" creationdate="20180623T153014Z">
+        <seg>Свойства VBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Valerii Goncharuk</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T230744Z" creationid="tagezi" creationdate="20180304T230744Z">
@@ -22979,7 +23099,7 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>View options</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152036Z" creationid="olex" creationdate="20180623T151800Z">
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152545Z" creationid="olex" creationdate="20180623T151800Z">
         <seg>Параметры вида</seg>
       </tuv>
     </tu>
