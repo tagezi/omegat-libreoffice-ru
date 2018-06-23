@@ -4433,10 +4433,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose spelling options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T153344Z" creationid="olex" creationdate="20180623T153344Z">
+        <seg>Выбор параметров орфографии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose whether to save or discard your changes.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T183754Z" creationid="olex" creationdate="20180621T183754Z">
         <seg>Выберите, следует сохранять или отменить изменения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choosing &lt;i0/&gt;options for all of LibreOffice</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T153629Z" creationid="olex" creationdate="20180623T153629Z">
+        <seg>Выбор &lt;i0/&gt;параметров для LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choosing Internet options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T153507Z" creationid="olex" creationdate="20180623T153507Z">
+        <seg>Выбор параметров интернет</seg>
       </tuv>
     </tu>
     <tu>
@@ -5495,6 +5519,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T154445Z" creationid="lera" creationdate="20180303T154445Z">
         <seg>Control+click и/или щелчок правой кнопкой мыши в зависимости от настроек ОС</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controlling LibreOffice’s AutoCorrect functions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T153529Z" creationid="olex" creationdate="20180623T153529Z">
+        <seg>Управление параметрами автозамены LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -6745,6 +6777,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T174939Z" creationid="tagezi" creationdate="20180304T174939Z">
         <seg>Поддержка шифрования в фильтре Microsoft Word 97/2000/XP позволяет сохранять документы Microsoft Word защищенные паролем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>English sentence checking</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T153358Z" creationid="olex" creationdate="20180623T153358Z">
+        <seg>Проверка английского языка</seg>
       </tuv>
     </tu>
     <tu>
@@ -9735,6 +9775,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T093803Z" creationid="Роман" creationdate="20180316T093725Z">
         <seg>Выберите пункт меню &lt;f0&gt;Вид &gt; Элементы&lt;/f0&gt;, чтобы отобразилась панель &lt;f1&gt;Элементы&lt;/f1&gt; &lt;i2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grammar checking</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T153410Z" creationid="olex" creationdate="20180623T153410Z">
+        <seg>Проверка грамматики</seg>
       </tuv>
     </tu>
     <tu>
@@ -14981,6 +15029,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other languages sentence checking</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T153445Z" creationid="olex" creationdate="20180623T153445Z">
+        <seg>Проверка других языков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T084655Z" creationid="tagezi" creationdate="20180320T084655Z">
@@ -15001,6 +15057,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T193001Z" creationid="olex" creationdate="20180616T172549Z">
         <seg>Другие варианты использования этого поля зависят от модуля LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Others</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T153421Z" creationid="olex" creationdate="20180623T153421Z">
+        <seg>Другие</seg>
       </tuv>
     </tu>
     <tu>
@@ -15514,6 +15578,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T190433Z" creationid="olex" creationdate="20180607T190433Z">
         <seg>Опубликовано &lt;s0/&gt;February 201&lt;f1&gt;8&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Punctuation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T153416Z" creationid="olex" creationdate="20180623T153416Z">
+        <seg>Пунктуация</seg>
       </tuv>
     </tu>
     <tu>
@@ -22137,6 +22209,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Troubleshooting LibreOffice in Safe Mode</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T153543Z" creationid="olex" creationdate="20180623T153543Z">
+        <seg>Устранение неполадок LibreOffice в безопасном режиме</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: TODO: "descriptive name" = "имя, которое будет иметь смысл не только в момент создания вашего шедевра, и не только для вас"
 осознать и сказать коротко.</note>
       <tuv lang="EN-US">
@@ -26220,6 +26300,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T203143Z" creationid="olex" creationdate="20180316T203143Z">
         <seg>автоматическая последовательность стилей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>setup options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180623T153611Z" creationid="olex" creationdate="20180623T153611Z">
+        <seg>параметры настройки</seg>
       </tuv>
     </tu>
     <tu>
