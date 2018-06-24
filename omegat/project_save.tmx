@@ -3656,6 +3656,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Available only in some operating systems and desktop managers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T163327Z" creationid="olex" creationdate="20180624T163327Z">
+        <seg>Доступно только в некоторых операционных системах и рабочих окружениях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base (database)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T081618Z" creationid="tagezi" creationdate="20180306T081618Z">
@@ -7512,6 +7520,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Setting general options for LibreOffice</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T162713Z" creationid="olex" creationdate="20180624T162713Z">
+        <seg>Рисунок &lt;seq0&gt;2&lt;/seq0&gt;: Настройка общих параметров LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: The Apply Style list on the Formatting toolbar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T171750Z" creationid="olex" creationdate="20180308T171750Z">
@@ -9987,6 +10003,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Help – Extended tips</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T162347Z" creationid="olex" creationdate="20180624T162347Z">
+        <seg>Справка – Подробные всплывающие подсказки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here are some of the advantages of LibreOffice over other office suites:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T171941Z" creationid="olex" creationdate="20180611T171941Z">
@@ -10903,6 +10927,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T183226Z" creationid="tagezi" creationdate="20180310T183226Z">
         <seg>Если вы не хотите использовать Java, вы все равно сможете использовать почти весь функционал LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do not want user data to be part of the document’s properties, clear the box at the bottom.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T162129Z" creationid="olex" creationdate="20180624T162129Z">
+        <seg>Если вы не хотите, чтобы данные пользователя были частью свойств документа, снимите флажок внизу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15510,6 +15542,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Print Dialogs - Use LibreOffice dialogs</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T162730Z" creationid="olex" creationdate="20180624T162730Z">
+        <seg>Диалоги печати - используйте диалоги LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Print options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T152548Z" creationid="olex" creationdate="20180623T151814Z">
@@ -16138,6 +16178,15 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T142437Z" creationid="tagezi" creationdate="20180316T142437Z">
         <seg>Быстрое выполнение макроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>denkin: нет того, что выше, видимо имелосю ввиду использовать диалоги либры при открытии/сохранении, но абзаца нет</note>
+      <tuv lang="EN-US">
+        <seg>Same as above, but for the Print dialogs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T162948Z" creationid="olex" creationdate="20180624T162948Z">
+        <seg>То же, что и выше, но для диалогов Печати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19887,6 +19936,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The options on the &lt;f0&gt;LibreOffice – General&lt;/f0&gt; page (Figure &lt;t1&gt;Error: Reference source not found&lt;/t1&gt;) are described below.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T162240Z" creationid="olex" creationdate="20180624T162240Z">
+        <seg>Параметры на странице &lt;f0&gt;LibreOffice - Общие&lt;/f0&gt; (Рисунок &lt;t1&gt;2&lt;/t1&gt;) описаны ниже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The package begins installing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T211037Z" creationid="olex" creationdate="20180312T211037Z">
@@ -23457,6 +23514,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When &lt;f0&gt;Extended tips&lt;/f0&gt; is active, a brief description of the function of a particular icon or menu command or a field on a dialog appears when you hold the mouse pointer over that item.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T162636Z" creationid="olex" creationdate="20180624T162636Z">
+        <seg>Когда активны &lt;f0&gt;Подробные всплывающие подсказки&lt;/f0&gt;, если удерживать указатель мыши над элементом, то отображается краткое описание функции конкретного значка или команды меню или поля в диалоговом окне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When Calc is started, the &lt;i0/&gt;main window opens (Figure &lt;t1&gt;1&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T174333Z" creationid="olex" creationdate="20180328T174333Z">
@@ -25832,6 +25897,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>extended tips</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T162352Z" creationid="olex" creationdate="20180624T162258Z">
+        <seg>подробные всплывающие подсказки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>extensions</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T174814Z" creationid="tagezi" creationdate="20180320T174814Z">
@@ -25900,6 +25973,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T141412Z" creationid="tagezi" creationdate="20180316T141412Z">
         <seg>функции</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>general options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T162138Z" creationid="olex" creationdate="20180624T162138Z">
+        <seg>общие параметры</seg>
       </tuv>
     </tu>
     <tu>
