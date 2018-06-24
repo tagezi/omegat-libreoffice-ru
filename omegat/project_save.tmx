@@ -5819,6 +5819,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data about usage patterns helps with identifying the most frequently used sequences of commands while performing common tasks; the developers can then design a user interface that is easier to use and more productive.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T164519Z" creationid="olex" creationdate="20180624T164519Z">
+        <seg>Данные о шаблонах использования помогают идентифицировать наиболее часто используемые последовательности команд при выполнении общих задач; затем разработчики смогут разработать пользовательский интерфейс, который будет проще в использовании и более продуктивный.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data and cell formatting can be deleted from a cell at the same time.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T183828Z" creationid="olex" creationdate="20180416T183828Z">
@@ -17505,6 +17513,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send usage data to help The Document Foundation improve usability of the software.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T164401Z" creationid="olex" creationdate="20180624T164401Z">
+        <seg>Отправьте данные об использовании, чтобы помочь Document Foundation улучшить удобство использования программного обеспечения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set the &lt;f0&gt;Leading zeroes&lt;/f0&gt; value box to &lt;f1&gt;4&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T182841Z" creationid="olex" creationdate="20180411T182841Z">
@@ -20374,6 +20390,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T182131Z" creationid="olex" creationdate="20180619T182131Z">
         <seg>Верхнее поле Служба содержит список удаленных серверов, к которым вы ранее подключались.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The usage data is sent anonymously and carries no document contents, only the commands used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T164606Z" creationid="olex" creationdate="20180624T164606Z">
+        <seg>Данные об использовании отправляются анонимно и передают не содержимое документа, а только используемые команды.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26893,6 +26917,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T165317Z" creationid="olex" creationdate="20180603T165317Z">
         <seg>векторная графика</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>view options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T164615Z" creationid="olex" creationdate="20180624T164615Z">
+        <seg>параметры вида</seg>
       </tuv>
     </tu>
     <tu>
