@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(Not shown in illustration.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T163348Z" creationid="olex" creationdate="20180624T163348Z">
+        <seg>(Не показано на Рисунке.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(included in Frame styles)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T194253Z" creationid="olex" creationdate="20180307T194253Z">
@@ -3206,6 +3214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An “earlier” date is interpreted as being in the following century; that is, 1/1/20 is interpreted as 1/1/2020.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T164229Z" creationid="olex" creationdate="20180624T164229Z">
+        <seg>Более «ранняя» дата будет определяться как находящаяся в следующем столетии; то есть 1/1/20 определится как 1/1/2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Analyzing data</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T180028Z" creationid="olex" creationdate="20180327T180028Z">
@@ -6283,6 +6299,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Document status – Printing sets “document modified” status</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T163643Z" creationid="olex" creationdate="20180624T163643Z">
+        <seg>Состояние документа – Печать устанавливает состояние «документ изменен»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Document templates and images</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T184428Z" creationid="tagezi" creationdate="20180320T184428Z">
@@ -8385,6 +8409,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if the two-digit year is set to 1930, and you enter a date of 1/1/30 or later into your document, the date is interpreted as 1/1/1930 or later.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T164146Z" creationid="olex" creationdate="20180624T164146Z">
+        <seg>Например, если для двухзначного года установлено значение 1930 года, и вы вводите дату 1/1/30 или позже в свой документ, то дата будет определяться как 1/1/1930 или более поздняя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, if you choose &lt;f0&gt;Text documents&lt;/f0&gt; as the file type, you will only see documents Writer can open (including &lt;f1&gt;.odt&lt;/f1&gt;, &lt;f2&gt;.doc&lt;/f2&gt;, &lt;f3&gt;.txt&lt;/f3&gt;); if you choose &lt;f4&gt;Spreadsheets&lt;/f4&gt;, you will see &lt;f5&gt;.ods&lt;/f5&gt;, &lt;f6&gt;.xls&lt;/f6&gt;, and other files that Calc opens.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T195858Z" creationid="olex" creationdate="20180616T195858Z">
@@ -9987,6 +10019,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Help Improve LibreOffice – Collect usage data and send it to The Document Foundation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T164320Z" creationid="olex" creationdate="20180624T164320Z">
+        <seg>Помогите улучшить LibreOffice – Собирайте данные об использовании и отправляйте их в The Document Foundation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Help lines</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T154638Z" creationid="olex" creationdate="20180603T154638Z">
@@ -10759,6 +10799,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T172136Z" creationid="olex" creationdate="20180403T172136Z">
         <seg>В таком случае:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this option is selected, then the next time you close the document after printing, the print date is recorded in the document properties as a change and you will be prompted to save the document again, even if you did not make any other changes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T163816Z" creationid="olex" creationdate="20180624T163807Z">
+        <seg>Если выбран этот параметр, то при следующем закрытии документа после печати дата печати отмечается в свойствах документа в качестве изменения, и вам будет предложено снова сохранить документ, даже если вы не вносили никаких других изменений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17946,6 +17994,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specifies &lt;i0/&gt;how two-digit years are interpreted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T164051Z" creationid="olex" creationdate="20180624T164051Z">
+        <seg>Указывает &lt;i0/&gt;, как определяются двузначные годы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specify the AutoCorrect options for quotation marks and for options that are specific to the language of the text.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T195928Z" creationid="olex" creationdate="20180412T195653Z">
@@ -24333,6 +24389,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Year (two digits)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T163957Z" creationid="olex" creationdate="20180624T163847Z">
+        <seg>Год (две цифры)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yes</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T141443Z" creationid="tagezi" creationdate="20180316T141443Z">
@@ -25833,6 +25897,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>document status option</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T163532Z" creationid="olex" creationdate="20180624T163516Z">
+        <seg>параметр состояние документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>downloading</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T132215Z" creationid="tagezi" creationdate="20180320T132215Z">
@@ -26745,6 +26817,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>two-digit years</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T164055Z" creationid="olex" creationdate="20180624T163910Z">
+        <seg>двузначные годы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>types supported</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T132038Z" creationid="olex" creationdate="20180306T183637Z">
@@ -26845,6 +26925,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201446Z" creationid="Роман" creationdate="20180316T201446Z">
         <seg>x cdot y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>year (two digits)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T163938Z" creationid="olex" creationdate="20180624T163830Z">
+        <seg>год (две цифры)</seg>
       </tuv>
     </tu>
     <tu>
