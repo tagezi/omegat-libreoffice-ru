@@ -2323,6 +2323,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A list of pages drops down.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T160637Z" creationid="olex" creationdate="20180624T160604Z">
+        <seg>Внизу откроется выпадающий список страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A loaded library is displayed differently from a library that is not loaded.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T110407Z" creationid="tagezi" creationdate="20180320T110407Z">
@@ -4785,6 +4793,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T160131Z" creationid="olex" creationdate="20180624T160131Z">
+        <seg>Нажмите &lt;f0&gt;Сервис &gt; Параметры...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Update Styles&lt;/f0&gt; to apply the changed styles in the template to the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T193710Z" creationid="olex" creationdate="20180311T193710Z">
@@ -5189,6 +5205,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T183858Z" creationid="olex" creationdate="20180405T183858Z">
         <seg>Нажмите последний столбец или строку в группе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the marker (+ or triangle) by LibreOffice on the left-hand side.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T160532Z" creationid="olex" creationdate="20180624T160532Z">
+        <seg>Нажмите на значок (+ или треугольник) слева от строки LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7334,6 +7358,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: LibreOffice options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T160748Z" creationid="olex" creationdate="20180624T160748Z">
+        <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: Параметры LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: The Help Menu</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T182331Z" creationid="tagezi" creationdate="20180306T150146Z">
@@ -8653,6 +8685,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180308T113536Z" creationid="tagezi" creationdate="20180308T113536Z">
         <seg>Для получения информации о поддержка аттестованных специалистов, смотрите сайт The Document Foundation: &lt;a0&gt;https://www.documentfoundation.org/gethelp/support/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For information on settings not discussed here, see the Help.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T160102Z" creationid="olex" creationdate="20180624T160102Z">
+        <seg>Информацию о настройках, которые не обсуждаются здесь, смотрите в Справке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17248,6 +17288,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selecting an item in the list causes the right-hand side of the dialog to display the relevant page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T160731Z" creationid="olex" creationdate="20180624T160623Z">
+        <seg>Выбрав элемент в списке, вы заставите в правой части диалогового окна отобразить соответствующую страницу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selecting cells</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T181512Z" creationid="olex" creationdate="20180326T181512Z">
@@ -18354,6 +18402,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Reset&lt;/f0&gt; button, located in the lower right of the full Options dialog, has the same effect on all pages of the dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T161011Z" creationid="olex" creationdate="20180624T161011Z">
+        <seg>Кнопка &lt;f0&gt;Восстановить&lt;/f0&gt;, расположенная в правом нижнем углу полного диалогового окна Параметры- LibreOffice, оказывает такое же влияние на всех страницах диалогового окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: неточность в оригинале - написано 4 вкладки, на самом деле есть еще вкладка с фигурами</note>
       <tuv lang="EN-US">
         <seg>The &lt;f0&gt;Sidebar&lt;/f0&gt; has four main sections in Draw.</seg>
@@ -19444,6 +19500,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The illustrations in this chapter show the list as it appears when a Writer document is open.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T160433Z" creationid="olex" creationdate="20180624T160433Z">
+        <seg>Иллюстрации в этой главе показывают список, который выглядит так, когда открыт документ Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The illustrations in this guide were taken from a variety of computers and operating systems.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T081247Z" creationid="tagezi" creationdate="20180310T081247Z">
@@ -19512,6 +19576,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T182455Z" creationid="olex" creationdate="20180619T182428Z">
         <seg>Поле под списком показывает путь к папке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The list in the left-hand box of the Options – LibreOffice dialog varies depending on which component of LibreOffice is open.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T160311Z" creationid="olex" creationdate="20180624T160311Z">
+        <seg>Список в левой части диалогового окна Параметры - LibreOffice изменяется в зависимости от того, какой модуль LibreOffice открыт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20769,6 +20841,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T143611Z" creationid="tagezi" creationdate="20180311T143611Z">
         <seg>В этом разделе предполагается, что у вас есть макрос, который может быть в электронной почте, на веб-странице или даже в книге, и вы хотите его использовать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This section covers some of the settings that apply to all the components of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180624T160032Z" creationid="olex" creationdate="20180624T160032Z">
+        <seg>В этом разделе описаны некоторые параметры, которые применяются ко всем компонентам LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
