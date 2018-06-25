@@ -18701,6 +18701,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Automatic icon size option uses the setting for your operating system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180625T180014Z" creationid="olex" creationdate="20180625T180014Z">
+        <seg>Параметр Автоматический размер значка использует настройку для вашей операционной системы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Calc Fill tool is used to duplicate existing content or create a series in a range of cells in your spreadsheet (Figure &lt;t0&gt;22&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T141142Z" creationid="olex" creationdate="20180414T140002Z">
@@ -20768,6 +20776,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T085935Z" creationid="tagezi" creationdate="20180306T085733Z">
         <seg>Эта книга, другие руководства пользователя LibreOffice, встроенная справочная система и система пользовательской поддержки предполагают, что вы знакомы с вашим компьютером и основными функциями такими, как запуск программы, открытие и сохранение файлов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This box specifies the display size of toolbar icons (Automatic, Small, or Large).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180625T175937Z" creationid="olex" creationdate="20180625T175937Z">
+        <seg>В этом поле указывается размер значков на панели инструментов (автоматический, маленький или большой).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23003,8 +23019,8 @@ denkin: это практически официальное название к
       <tuv lang="EN-US">
         <seg>User Interface – &lt;i0/&gt;Icon size</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180625T175851Z" creationid="olex" creationdate="20180625T175851Z">
-        <seg>Пользовательский интерфейс – &lt;i0/&gt;рзмер значка</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180625T175908Z" creationid="olex" creationdate="20180625T175851Z">
+        <seg>Пользовательский интерфейс – &lt;i0/&gt;размер значка</seg>
       </tuv>
     </tu>
     <tu>
@@ -26203,8 +26219,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>icon size and style (user interface)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180625T175832Z" creationid="olex" creationdate="20180625T175832Z">
-        <seg>размер и стиль значка (пользовательский интерфейс)</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180625T180030Z" creationid="olex" creationdate="20180625T175832Z">
+        <seg>размер и стиль значков (пользовательский интерфейс)</seg>
       </tuv>
     </tu>
     <tu>
