@@ -7656,6 +7656,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Choosing View options for LibreOffice applications</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180625T175254Z" creationid="olex" creationdate="20180625T175206Z">
+        <seg>Рисунок &lt;seq0&gt;3&lt;/seq0&gt;: Выбор параметров Вида для модулей LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Context menu in Formula Editor</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094415Z" creationid="Роман" creationdate="20180316T094415Z">
@@ -10331,6 +10339,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, it does not affect the actual font size of the text in your documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180625T175820Z" creationid="olex" creationdate="20180625T175820Z">
+        <seg>Однако это не влияет на фактический размер шрифта текста в ваших документах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, other users can import the new AutoFormat selecting the table range in the spreadsheet document and defining it as new AutoFormat.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T182110Z" creationid="olex" creationdate="20180430T182110Z">
@@ -10759,6 +10775,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T200835Z" creationid="olex" creationdate="20180310T200835Z">
         <seg>Если стиль не используется, он удаляется немедленно без подтверждения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the text in the help files or on the menus of the LibreOffice user interface is too small or too large, you can change it by specifying a scaling factor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180625T175737Z" creationid="olex" creationdate="20180625T175737Z">
+        <seg>Если текст в файлах справки или в меню пользовательского интерфейса LibreOffice слишком мал или слишком велик, вы можете изменить его, указав коэффициент масштабирования.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17545,6 +17569,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set them to suit your personal preferences.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180625T175159Z" creationid="olex" creationdate="20180625T175159Z">
+        <seg>Установите их в соответствии с вашими личными предпочтениями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Setting &lt;i0/&gt;a default template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T212238Z" creationid="olex" creationdate="20180312T212238Z">
@@ -17938,6 +17970,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some of these options are described below Figure &lt;t1&gt;3&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180625T175213Z" creationid="olex" creationdate="20180625T175143Z">
+        <seg>Некоторые из этих параметров описаны ниже Рисунка &lt;t1&gt;3&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some servers are also able to check-in and check-out files, thus controlling their usage and access.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T180623Z" creationid="olex" creationdate="20180619T180623Z">
@@ -17950,6 +17990,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T184323Z" creationid="olex" creationdate="20180430T184323Z">
         <seg>Некоторые темы даже изменяют стиль ячейки по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes a change here can have unexpected results, depending on the screen fonts available on your system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180625T175805Z" creationid="olex" creationdate="20180625T175805Z">
+        <seg>Иногда изменение может иметь неожиданные результаты в зависимости от экранных шрифтов, доступных в вашей системе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20012,6 +20060,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T162240Z" creationid="olex" creationdate="20180624T162240Z">
         <seg>Параметры на странице &lt;f0&gt;LibreOffice - Общие&lt;/f0&gt; (Рисунок &lt;t1&gt;2&lt;/t1&gt;) описаны ниже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The options on the &lt;f0&gt;LibreOffice – View&lt;/f0&gt; page affect the way the document window looks and behaves.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180625T175110Z" creationid="olex" creationdate="20180625T175110Z">
+        <seg>Параметры на странице &lt;f0&gt;LibreOffice - Вид&lt;/f0&gt; влияют на то, как выглядит и ведет себя окно документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22941,6 +22997,22 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T152524Z" creationid="olex" creationdate="20180623T151722Z">
         <seg>Параметры данных пользователя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User Interface – &lt;i0/&gt;Icon size</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180625T175851Z" creationid="olex" creationdate="20180625T175851Z">
+        <seg>Пользовательский интерфейс – &lt;i0/&gt;рзмер значка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User Interface – &lt;i0/&gt;Scaling</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180625T175423Z" creationid="olex" creationdate="20180625T175423Z">
+        <seg>Пользовательский интерфейс – &lt;i0/&gt;Масштабирование</seg>
       </tuv>
     </tu>
     <tu>
@@ -26129,6 +26201,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>icon size and style (user interface)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180625T175832Z" creationid="olex" creationdate="20180625T175832Z">
+        <seg>размер и стиль значка (пользовательский интерфейс)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>importing files</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T143841Z" creationid="tagezi" creationdate="20180304T143841Z">
@@ -26553,6 +26633,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>scaling factor (user interface)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180625T175407Z" creationid="olex" creationdate="20180625T175407Z">
+        <seg>коэффициент масштабирования (пользовательский интерфейс)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>selecting</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T184650Z" creationid="olex" creationdate="20180404T201919Z">
@@ -26869,6 +26957,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T161444Z" creationid="olex" creationdate="20180624T161444Z">
         <seg>параметры данных пользователя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>user interface options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180625T175354Z" creationid="olex" creationdate="20180625T175354Z">
+        <seg>параметры пользовательского интерфейса</seg>
       </tuv>
     </tu>
     <tu>
