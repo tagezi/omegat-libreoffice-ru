@@ -400,6 +400,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Automatic scrolling&lt;/f0&gt; – dragging while pressing the middle mouse button shifts the view.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T172511Z" creationid="olex" creationdate="20180627T172511Z">
+        <seg>&lt;f0&gt;Автоматическая прокрутка&lt;/f0&gt; - перетаскивание при нажатии средней кнопки мыши сдвигает вид.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Berlin, March 8, 2018 - &lt;/f0&gt;The &lt;f1&gt;Document Foundation will present &lt;/f1&gt;LibreOffice &lt;f2&gt;Certification to Free Software Foundation Members and free software advocates attending LibrePlanet in Boston.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T173409Z" creationid="tagezi" creationdate="20180307T173409Z">
@@ -1045,6 +1053,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T160719Z" creationid="olex" creationdate="20180307T180659Z">
         <seg>&lt;f0&gt;Стили абзаца&lt;/f0&gt; управляют всеми особенностями внешнего вида абзаца, такими как выравнивание текста, табуляция, межстрочный интервал, граница и могут включать форматирование символов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Paste clipboard&lt;/f0&gt; – pressing the middle mouse button inserts the contents of the “&lt;i1/&gt;Selection clipboard” at the cursor position.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T172655Z" creationid="olex" creationdate="20180627T172655Z">
+        <seg>&lt;f0&gt;Вставка из буфера обмена&lt;/f0&gt; – нажатие средней кнопки мыши вставляет содержимое «&lt;i1/&gt;Буфер обмена» под курсором.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5339,6 +5355,22 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clipboard</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T173027Z" creationid="olex" creationdate="20180627T173027Z">
+        <seg>Буфер обмена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clipboard and “Selection clipboard” can contain different contents at the same time.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T173015Z" creationid="olex" creationdate="20180627T173015Z">
+        <seg>Буфер обмена и «Выделенный буфер обмена» могут иметь различное содержимое одновременно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close and restart LibreOffice to have Quickstarter appear.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T184734Z" creationid="olex" creationdate="20180614T184621Z">
@@ -5895,6 +5927,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T212631Z" creationid="tagezi" creationdate="20180315T212631Z">
         <seg>Определяет document как переменную.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defines the function of the &lt;i0/&gt;middle mouse button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T172030Z" creationid="olex" creationdate="20180627T172030Z">
+        <seg>Определяет функцию средней кнопки мыши &lt;i0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9397,6 +9437,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T144820Z" creationid="tagezi" creationdate="20180320T144820Z">
         <seg>Полный охват обработчиков событий выходит за рамки этого документа, но мало знаний может многое сделать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Function</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T173022Z" creationid="olex" creationdate="20180627T173022Z">
+        <seg>Функция</seg>
       </tuv>
     </tu>
     <tu>
@@ -17561,6 +17609,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selection clipboard</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T173038Z" creationid="olex" creationdate="20180627T173038Z">
+        <seg>Выделенный буфер обмена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selection lists are available only for text and are limited to using only text that has already been entered in the same column.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T093419Z" creationid="olex" creationdate="20180415T093419Z">
@@ -18737,6 +18793,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180515T185856Z" creationid="olex" creationdate="20180328T174557Z">
         <seg>Строка заголовка&lt;i0/&gt; окна, расположенная вверху, показывает название текущей электронной таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;i0/&gt;“Selection clipboard” is independent of the normal clipboard that you use by &lt;f1&gt;Edit &gt; Copy/Cut/Paste&lt;/f1&gt; or their respective keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T172926Z" creationid="olex" creationdate="20180627T172746Z">
+        <seg>"Выделенный буфер обмена"&lt;i0/&gt; не зависит от обычного буфера обмена, который вы используете с помощью &lt;f1&gt;Правка &gt; Копировать / Вырезать / Вставить&lt;/f1&gt; или соответствующих сочетаний клавиш.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23088,6 +23152,7 @@ denkin: это практически официальное название к
       </tuv>
     </tu>
     <tu>
+      <note>denkin: не нашел такого пункт в настройках и в оригинале мануала на скрине тоже</note>
       <tuv lang="EN-US">
         <seg>User Interface – &lt;i0/&gt;Scaling</seg>
       </tuv>
@@ -25833,6 +25898,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>clipboard</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T172517Z" creationid="olex" creationdate="20180627T172517Z">
+        <seg>буфер обмена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>columns</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180406T163153Z" creationid="olex" creationdate="20180406T163153Z">
@@ -26457,6 +26530,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>middle mouse button function</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T172013Z" creationid="olex" creationdate="20180627T172013Z">
+        <seg>функция средняя кнопки мыши</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>modifying</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T173953Z" creationid="olex" creationdate="20180308T173934Z">
@@ -26757,6 +26838,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T184650Z" creationid="olex" creationdate="20180404T201919Z">
         <seg>выбор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>selection clipboard</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T172802Z" creationid="olex" creationdate="20180627T172714Z">
+        <seg>выделенный буфер обмена</seg>
       </tuv>
     </tu>
     <tu>
