@@ -593,6 +593,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Edit &gt; Copy&lt;/f0&gt; &lt;f1&gt;Ctrl+C&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T173103Z" creationid="olex" creationdate="20180627T173103Z">
+        <seg>&lt;f0&gt;Правка &gt; Копировать&lt;/f0&gt; &lt;f1&gt;Ctrl+C&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Edit &gt; Paste&lt;/f0&gt; &lt;f1&gt;Ctrl+V&lt;/f1&gt; pastes at the cursor position.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T173250Z" creationid="olex" creationdate="20180627T173250Z">
+        <seg>&lt;f0&gt;Правка &gt; Вставить&lt;/f0&gt; &lt;f1&gt;Ctrl+V&lt;/f1&gt; вставляет под курсором.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Edit&lt;/f0&gt; – contains commands for editing the document such as Undo, Find &amp; Replace, Cut, Copy, and Paste.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T193319Z" creationid="olex" creationdate="20180614T193319Z">
@@ -5355,6 +5371,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clicking the middle mouse button pastes at the mouse pointer position.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T173326Z" creationid="olex" creationdate="20180627T173326Z">
+        <seg>Щелчок средней кнопки мыши вставляет под указателем мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clipboard</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T173027Z" creationid="olex" creationdate="20180627T173027Z">
@@ -5631,6 +5655,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195935Z" creationid="olex" creationdate="20180306T195935Z">
         <seg>Автоматическое управление разрывом страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy content</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T173051Z" creationid="olex" creationdate="20180627T173051Z">
+        <seg>Копировать содержимое</seg>
       </tuv>
     </tu>
     <tu>
@@ -6239,6 +6271,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T152806Z" creationid="olex" creationdate="20180603T152806Z">
         <seg>Непосредственное выделение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directly accesses hardware features of the graphical display adapter to improve the screen display.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T173906Z" creationid="olex" creationdate="20180627T173906Z">
+        <seg>Прямой доступ к аппаратным средствам графического адаптера для улучшения изображения на экране.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6889,6 +6929,22 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180315T194100Z" creationid="Роман" creationdate="20180315T194100Z">
         <seg>Панель Элементы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enables and disables anti-aliasing, which makes the display of most graphical objects look smoother and with fewer artifacts.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T174126Z" creationid="olex" creationdate="20180627T174126Z">
+        <seg>Включает и отключает сглаживание, что позволяет отображать большинство графических объектов более сглаженными и с меньшим количеством артефактов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enables and disables the use of the 3D graphics language OpenGL.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T174530Z" creationid="olex" creationdate="20180627T174530Z">
+        <seg>Включает и отключает использование языка 3D графики OpenGL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9975,6 +10031,30 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193917Z" creationid="olex" creationdate="20180307T193917Z">
         <seg>Графический объект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Graphics output – Use OpenGL for all rendering (on restart)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T174439Z" creationid="olex" creationdate="20180627T174439Z">
+        <seg>Графический вывод - Весь вывод при помощи OpenGL (для всего рендеринга, при перезапуске)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Graphics output – Use anti-aliasing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T174056Z" creationid="olex" creationdate="20180627T174031Z">
+        <seg>Графический вывод - Использовать сглаживание</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Graphics output – Use hardware acceleration</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T173729Z" creationid="olex" creationdate="20180627T173729Z">
+        <seg>Графический вывод - Использовать аппаратное ускорение</seg>
       </tuv>
     </tu>
     <tu>
@@ -14451,6 +14531,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No effect on the clipboard contents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T173523Z" creationid="olex" creationdate="20180627T173523Z">
+        <seg>Не влияет на содержимое буфера обмена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nor can you delete any categories added by the Extension Manager unless you first delete the extension that installed them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T205048Z" creationid="olex" creationdate="20180313T205048Z">
@@ -14479,6 +14567,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T183842Z" creationid="olex" creationdate="20180621T183842Z">
         <seg>Не сохранение вашего документа может привести к потере последних внесенных изменений или, что еще хуже, всего файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not supported on all operating systems and LibreOffice distributions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T173942Z" creationid="olex" creationdate="20180627T173931Z">
+        <seg>Не поддерживается во всех операционных системах и выпусках LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15445,6 +15541,22 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paste content</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T173200Z" creationid="olex" creationdate="20180627T173200Z">
+        <seg>Вставьте содержимое</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pasting into another document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T173445Z" creationid="olex" creationdate="20180627T173445Z">
+        <seg>Вставка в другой документ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pasting the value also pasted an extra space, so press &lt;f0&gt;Backspace&lt;/f0&gt; to remove the extra space.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T212703Z" creationid="tagezi" creationdate="20180318T212703Z">
@@ -15641,6 +15753,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T212842Z" creationid="tagezi" creationdate="20180318T212842Z">
         <seg>Нажмите &lt;f0&gt;Home&lt;/f0&gt; для перехода к началу строки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;Shift+Ctrl+R&lt;/f0&gt; to restore or refresh the view of the current document after changing the anti-aliasing settings, to see the effect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T174230Z" creationid="olex" creationdate="20180627T174230Z">
+        <seg>Нажмите &lt;f0&gt;Shift+Ctrl+R&lt;/f0&gt;, чтобы восстановить или обновить представление текущего документа после изменения параметров сглаживания, чтобы увидеть эффект.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17084,6 +17204,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T205212Z" creationid="olex" creationdate="20180309T205212Z">
         <seg>Выберите текст и перетащите его в окно Стили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select text, table, or object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T173137Z" creationid="olex" creationdate="20180627T173137Z">
+        <seg>Выделите текст, таблицу или объект.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19873,6 +20001,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T163637Z" creationid="tagezi" creationdate="20180318T163637Z">
         <seg>Последняя строка кода завершает подпрограмму.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The last marked selection is the content of the selection clipboard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T173615Z" creationid="olex" creationdate="20180627T173615Z">
+        <seg>Последнее выделение - это содержимое выделенного буфера обмена.</seg>
       </tuv>
     </tu>
     <tu>
