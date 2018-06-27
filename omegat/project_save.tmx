@@ -2275,6 +2275,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A device is blacklisted when it is buggy or may render graphics with poor quality.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T174851Z" creationid="olex" creationdate="20180627T174851Z">
+        <seg>Устройство занесено в черный список, если оно ошибочно, или может отображать графику с низким качеством.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A dialog asking for the user name and the password may pop up to let you log in the server.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T181748Z" creationid="olex" creationdate="20180619T181714Z">
@@ -4213,6 +4221,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T164012Z" creationid="tagezi" creationdate="20180318T164012Z">
         <seg>Может ли задача быть записана как простой набор команд?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Causes icons as well as words to be visible in menus.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T175110Z" creationid="olex" creationdate="20180627T175110Z">
+        <seg>Делает значки в меню видимыми рядом с текстом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Causes the font list to look like Figure &lt;t0&gt;4&lt;/t0&gt;, Left, with the font names shown as an example of the font; with the option deselected, the font list shows only the font names, not their formatting (Figure &lt;t1&gt;4&lt;/t1&gt;, Right).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T175411Z" creationid="olex" creationdate="20180627T175411Z">
+        <seg>Заставляет список шрифтов выглядеть как на Рисунке &lt;t0&gt;4&lt;/t0&gt;, слева, где имена шрифтов, показаны в качестве примера шрифта; если опция отменена, то в списке шрифтов отображаются только имена шрифтов, а не их форматирование (Рисунок &lt;t1&gt;4&lt;/t1&gt;, справа).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8273,10 +8297,26 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Font Lists – Show &lt;i0/&gt;preview of fonts</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T175232Z" creationid="olex" creationdate="20180627T175232Z">
+        <seg>Список шрифтов – Просмотр &lt;i0/&gt;шрифтов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fonts options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T152557Z" creationid="olex" creationdate="20180623T151925Z">
         <seg>Параметры шрифтов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fonts which are tuned for use with a specific script, such as Arabic, Hebrew, Malayalam, and so on, now show an additional preview of some sample text in the target script.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T175526Z" creationid="olex" creationdate="20180627T175526Z">
+        <seg>Шрифты, настроенные для использования с определенным сценарием, такие как арабский, иврит, малаялам и т.д., теперь показывают дополнительный предварительный просмотр некоторого образца текста в целевом скрипте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9133,6 +9173,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180145Z" creationid="tagezi" creationdate="20180304T180145Z">
         <seg>По этой причине необходимо использовать другие форматы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forces the use of OpenGL even if the graphics device is blacklisted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T174826Z" creationid="olex" creationdate="20180627T174826Z">
+        <seg>Заставляет использовать OpenGL, даже если графическое устройство занесено в черный список.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10035,10 +10083,18 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Graphics output – Force OpenGL even if blacklisted (on restart)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T174745Z" creationid="olex" creationdate="20180627T174731Z">
+        <seg>Графический вывод – Игнорировать черный список OpenGL (даже если OpenGL отключен, после перезапуска)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Graphics output – Use OpenGL for all rendering (on restart)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180627T174439Z" creationid="olex" creationdate="20180627T174439Z">
-        <seg>Графический вывод - Весь вывод при помощи OpenGL (для всего рендеринга, при перезапуске)</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T174755Z" creationid="olex" creationdate="20180627T174439Z">
+        <seg>Графический вывод - Весь вывод при помощи OpenGL (для всего рендеринга, после перезапуска)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13821,6 +13877,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T174243Z" creationid="olex" creationdate="20180326T174243Z">
         <seg>Панель меню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Menu – &lt;is0/&gt;icons in menus</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T174942Z" creationid="olex" creationdate="20180627T174942Z">
+        <seg>Меню – &lt;is0/&gt;Значки в меню</seg>
       </tuv>
     </tu>
     <tu>
@@ -19833,6 +19897,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T090631Z" creationid="tagezi" creationdate="20180318T205631Z">
         <seg>Насыщенность шрифта не указана/известна. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The fonts you will see listed are those that are installed on your system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T175438Z" creationid="olex" creationdate="20180627T175438Z">
+        <seg>Шрифты, которые вы увидите в списке, - это те шрифты, которые установлены в вашей системе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26402,6 +26474,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>font</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T175144Z" creationid="olex" creationdate="20180627T175144Z">
+        <seg>шрифт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>formatting, Calc</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T175657Z" creationid="olex" creationdate="20180430T175657Z">
@@ -26830,6 +26910,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180358Z" creationid="tagezi" creationdate="20180304T180358Z">
         <seg>презентации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>preview</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T175139Z" creationid="olex" creationdate="20180627T175139Z">
+        <seg>просмотр</seg>
       </tuv>
     </tu>
     <tu>
