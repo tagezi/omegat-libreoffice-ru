@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(Not available in Windows.) Select this option to smooth the screen appearance of text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T171620Z" creationid="olex" creationdate="20180627T171620Z">
+        <seg>(Недоступно в Windows.) Выберите этот параметр, чтобы сгладить внешний вид экрана.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Not shown in illustration.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T163348Z" creationid="olex" creationdate="20180624T163348Z">
@@ -6948,6 +6956,14 @@ DONE</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the smallest font size to apply anti-aliasing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T171708Z" creationid="olex" creationdate="20180627T171708Z">
+        <seg>Введите минимальный размер шрифта, к которому будет применяться сглаживание.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: счел возможным перевести как упрощение ввода сложную конструкцию автора</note>
       <tuv lang="EN-US">
         <seg>Entering data into a spreadsheet can be very labor-intensive, but Calc provides several tools for removing some of the drudgery from input.</seg>
@@ -10071,6 +10087,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T171941Z" creationid="olex" creationdate="20180611T171941Z">
         <seg>Вот некоторые из преимуществ LibreOffice перед другими офисными пакетами:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here the Automatic option uses an icon set compatible with your operating system and choice of desktop: for example, KDE or Gnome on Linux.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T171412Z" creationid="olex" creationdate="20180627T171412Z">
+        <seg>Параметр Автоматический использует набор значков, совместимый с вашей операционной системой, и выбранным рабочим столом: например, KDE или Gnome в Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13745,6 +13769,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Middle mouse button</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T171943Z" creationid="olex" creationdate="20180627T171943Z">
+        <seg>Средняя клавиша мыши</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimum requirements</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T194802Z" creationid="olex" creationdate="20180607T194802Z">
@@ -13863,6 +13895,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T121110Z" creationid="tagezi" creationdate="20180311T121110Z">
         <seg>Большинство задач в LibreOffice реализовываются путем «выполнения команды» (отправки команды), которая перехватывается и используется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mouse positioning</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T171737Z" creationid="olex" creationdate="20180627T171737Z">
+        <seg>Позиционирование мыши</seg>
       </tuv>
     </tu>
     <tu>
@@ -18066,6 +18106,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specifies if and how the mouse pointer will be positioned in newly opened dialogs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T171854Z" creationid="olex" creationdate="20180627T171854Z">
+        <seg>Указывает, как будет позиционироваться указатель мыши во вновь открытых диалоговых окнах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specify the AutoCorrect options for quotation marks and for options that are specific to the language of the text.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T195928Z" creationid="olex" creationdate="20180412T195653Z">
@@ -20788,6 +20836,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This box specifies the icon style (theme).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T171254Z" creationid="olex" creationdate="20180627T171254Z">
+        <seg>В этом поле указан стиль значков (тема).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This can be the same spreadsheet, another spreadsheet already open, or a new spreadsheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T222817Z" creationid="olex" creationdate="20180407T222817Z">
@@ -23017,10 +23073,18 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User Interface &lt;s0/&gt;- Icon style</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T171223Z" creationid="olex" creationdate="20180627T171223Z">
+        <seg>Размер и стиль значков &lt;s0/&gt;- Стиль значков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User Interface – &lt;i0/&gt;Icon size</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180625T175908Z" creationid="olex" creationdate="20180625T175851Z">
-        <seg>Пользовательский интерфейс – &lt;i0/&gt;размер значка</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T171056Z" creationid="olex" creationdate="20180625T175851Z">
+        <seg>Размер и стиль значков – &lt;i0/&gt;Размер значков</seg>
       </tuv>
     </tu>
     <tu>
@@ -23029,6 +23093,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T170959Z" creationid="olex" creationdate="20180625T175423Z">
         <seg>Размер и стиль значков – &lt;i0/&gt;Масштабирование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User interface – &lt;i0/&gt;&lt;i1/&gt;Screen font anti-aliasing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T171556Z" creationid="olex" creationdate="20180627T171536Z">
+        <seg>Размер и стиль значков – &lt;i0/&gt;&lt;i1/&gt;Сглаживание экранных шрифтов</seg>
       </tuv>
     </tu>
     <tu>
@@ -25713,6 +25785,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>antialiasing screen font</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T171512Z" creationid="olex" creationdate="20180627T171501Z">
+        <seg>сглаживание экранных шрифтов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>arrow keys</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T195620Z" creationid="olex" creationdate="20180402T195429Z">
@@ -26401,6 +26481,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>mouse positioning</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T171730Z" creationid="olex" creationdate="20180627T171730Z">
+        <seg>позиционирование мыши</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>moving from sheet to sheet</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T200319Z" creationid="olex" creationdate="20180402T200319Z">
@@ -26653,6 +26741,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180625T175407Z" creationid="olex" creationdate="20180625T175407Z">
         <seg>коэффициент масштабирования (пользовательский интерфейс)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>screen font antialiasing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180627T171520Z" creationid="olex" creationdate="20180627T171520Z">
+        <seg>сглаживание экранных шрифтов</seg>
       </tuv>
     </tu>
     <tu>
