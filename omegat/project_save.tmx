@@ -1739,6 +1739,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;l0&gt;DB&lt;/l0&gt;&lt;t1&gt;&lt;f2&gt;Reply to Olivier Hallot (26/09/2017, 16:00): "..."&lt;/f2&gt;&lt;/t1&gt;&lt;t3&gt;&lt;f4&gt;Not completely wrong, but needs to be rewritten under the heading of “&lt;/f4&gt;&lt;f5&gt;Application Colors&lt;/f5&gt;&lt;f6&gt;”.&lt;/f6&gt;&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T172656Z" creationid="olex" creationdate="20180628T172656Z">
+        <seg>&lt;l0&gt;DB&lt;/l0&gt;&lt;t1&gt;&lt;f2&gt; Ответил Olivier Hallot (26/09/2017, 16:00): «...»&lt;/f2&gt;&lt;/t1&gt;&lt;t3&gt;&lt;f4&gt;Не полностью неправильный, но его необходимо переписать под заголовком «&lt;/f4&gt;&lt;f5&gt;Цвета применения&lt;/f5&gt;&lt;f6&gt;".&lt;/f6&gt;&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;l0&gt;OH&lt;/l0&gt;&lt;t1&gt;&lt;f2&gt;The color page has been removed and sent to another place...&lt;/f2&gt;&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T172526Z" creationid="olex" creationdate="20180628T172526Z">
+        <seg>&lt;l0&gt;OH&lt;/l0&gt;&lt;t1&gt;&lt;f2&gt;Страница Цвета была удалена и отправлена в другое место ... &lt;/f2&gt;&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0/&gt;A comment is not considered a part of the spreadsheet for calculation or printing purposes, and will only appear when hovering the mouse over the particular cell that has been ‘commented’.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T184421Z" creationid="olex" creationdate="20180506T181953Z">
@@ -8001,6 +8017,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Viewing the paths of files used by LibreOffice</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T172358Z" creationid="olex" creationdate="20180628T172345Z">
+        <seg>Рисунок &lt;seq0&gt;6&lt;/seq0&gt;: Просмотр путей к файлам, используемым LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Copying styles from a template into the open document</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T194335Z" creationid="olex" creationdate="20180310T194335Z">
@@ -11340,6 +11364,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you receive from someone else a document containing fonts that you do not have on your system, LibreOffice will substitute fonts for those it does not find.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T172850Z" creationid="olex" creationdate="20180628T172850Z">
+        <seg>Если вы получаете от кого-то документ, содержащий шрифты, которых нет в вашей системе, LibreOffice заменит шрифты, которые не найдет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you select &lt;f0&gt;Text CSV&lt;/f0&gt; format (&lt;f1&gt;*.csv&lt;/f1&gt;) for your spreadsheet, the &lt;f2&gt;Export Text File&lt;/f2&gt; dialog (Figure &lt;t3&gt;7&lt;/t3&gt;) may open.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T190415Z" creationid="olex" creationdate="20180402T190415Z">
@@ -11742,6 +11774,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T184253Z" creationid="olex" creationdate="20180621T184006Z">
         <seg>В операционной системе Mac выберите в меню &lt;f1&gt;LibreOffice &gt; Выйти из LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a Windows system, for example, you might want to store documents by default somewhere other than My Documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T171823Z" creationid="olex" creationdate="20180628T171823Z">
+        <seg>Например, в системе Windows вы можете хранить документы по умолчанию в месте отличном от Мои документы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14747,6 +14787,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that some items can have at least two paths listed: one to a shared folder (which might be on a network) and one to a user-specific folder (normally on the user’s personal computer).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T172212Z" creationid="olex" creationdate="20180628T172212Z">
+        <seg>Обратите внимание, что некоторые элементы могут содержать как минимум два указанных пути: один - в общую папку (которая может быть сетевой), а другой - в пользовательскую папку (обычно на персональном компьютере пользователя).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090607Z" creationid="tagezi" creationdate="20180305T090607Z">
@@ -14997,6 +15045,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the &lt;f0&gt;LibreOffice – Fonts&lt;/f0&gt; page:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T173032Z" creationid="olex" creationdate="20180628T173032Z">
+        <seg>На странице &lt;f0&gt;LibreOffice - Шрифты&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the &lt;f0&gt;LibreOffice – Paths&lt;/f0&gt; page, you can change the &lt;i1/&gt;location of files associated with, or used by, LibreOffice to suit your working situation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T171736Z" creationid="olex" creationdate="20180628T171736Z">
@@ -15041,6 +15097,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T181320Z" creationid="olex" creationdate="20180619T181320Z">
         <seg>В диалоговом окне Файлы на сервере (Рисунок &lt;t0&gt;13&lt;/t0&gt;) нажмите кнопку &lt;f1&gt;Добавить службу&lt;/f1&gt; в правом верхнем углу, чтобы открыть диалоговое окно Файловые службы (Рисунок &lt;t2&gt;12&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Select Path dialog (not shown; may also be titled Edit Paths), add or delete folders as required, and then click &lt;f3&gt;OK&lt;/f3&gt; to return to the Options dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T172038Z" creationid="olex" creationdate="20180628T172038Z">
+        <seg>В диалоговом окне Изменить пути (не показано, также может быть указано «Редактировать пути»), добавьте или удалите папки по мере необходимости, а затем нажмите &lt;f3&gt;OK&lt;/f3&gt;, чтобы вернуться в диалоговое окно Параметры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21042,6 +21106,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These choices do &lt;f0&gt;not&lt;/f0&gt; affect the default font for your documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T172950Z" creationid="olex" creationdate="20180628T172950Z">
+        <seg>Эти варианты &lt;f0&gt;не&lt;/f0&gt; влияют на шрифт по умолчанию для ваших документов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These choices do not appear unless a custom template has been set as the default, as described in the previous section.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T193905Z" creationid="olex" creationdate="20180313T193905Z">
@@ -22073,6 +22145,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To do that, you need to change the default template for documents, as described in Chapter 3.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T173003Z" creationid="olex" creationdate="20180628T173003Z">
+        <seg>Для этого вам необходимо изменить шаблон по умолчанию для документов, как описано в главе 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To do this, select the &lt;f0&gt;Shrink to fit cell size&lt;/f0&gt; option under &lt;f1&gt;Properties&lt;/f1&gt; in the Format Cells dialog (Figure &lt;t2&gt;27&lt;/t2&gt;) on &lt;t3/&gt;the &lt;f4&gt;Alignment&lt;/f4&gt; page.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T201707Z" creationid="olex" creationdate="20180418T201707Z">
@@ -22309,6 +22389,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T181552Z" creationid="olex" creationdate="20180603T181552Z">
         <seg>Чтобы изменить порядок страниц, просто перетащите одну или несколько страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To make changes, select an item in the list shown in Figure &lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;and click &lt;f2&gt;Edit&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T171924Z" creationid="olex" creationdate="20180628T171924Z">
+        <seg>Чтобы внести изменения, выберите элемент в списке, показанном на рисунке &lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;, и нажмите &lt;f2&gt;Правка...&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25417,6 +25505,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can define replacements for any fonts that might appear in your documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T172744Z" creationid="olex" creationdate="20180628T172744Z">
+        <seg>Вы можете определить замены для любых шрифтов, которые могут отображаться в ваших документах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can do this by using either the Style dialog or the New Style from Selection tool.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180321T191030Z" creationid="olex" creationdate="20180309T194130Z">
@@ -25762,6 +25858,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can use the entries on the &lt;f0&gt;LibreOffice – Paths&lt;/f0&gt; page to compile a list of files, such as those containing AutoText, that you need to back up or copy to another computer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T172325Z" creationid="olex" creationdate="20180628T172325Z">
+        <seg>Вы можете использовать адреса на странице &lt;f0&gt;LibreOffice - Пути&lt;/f0&gt; для компиляции списка файлов, таких как те, которые содержат AutoText, которые необходимо создать или скопировать на другой компьютер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can use the styles as provided, modify them, or create new styles, as described in this chapter.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193307Z" creationid="olex" creationdate="20180307T193307Z">
@@ -26014,6 +26118,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T171652Z" creationid="tagezi" creationdate="20180310T171652Z">
         <seg>Вы можете в пределах условий, установленных в MPL и/или LGPL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You might prefer to specify a different font from the one that the program chooses.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T172910Z" creationid="olex" creationdate="20180628T172910Z">
+        <seg>Возможно, вы захотите указать другой шрифт, отличный от того, который выбирает программа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26962,6 +27074,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T172716Z" creationid="olex" creationdate="20180628T172716Z">
+        <seg>параметры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>organization</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T141748Z" creationid="tagezi" creationdate="20180316T141312Z">
@@ -27102,6 +27222,30 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T160628Z" creationid="olex" creationdate="20180409T160628Z">
         <seg>переименование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>replacement table</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T173054Z" creationid="olex" creationdate="20180628T173048Z">
+        <seg>Таблица замен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>replacement table (font)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T173115Z" creationid="olex" creationdate="20180628T173115Z">
+        <seg>таблица замен (шрифтов)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>replacements</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T172710Z" creationid="olex" creationdate="20180628T172710Z">
+        <seg>замены</seg>
       </tuv>
     </tu>
     <tu>
