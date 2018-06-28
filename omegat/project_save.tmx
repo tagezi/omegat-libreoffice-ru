@@ -2331,6 +2331,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A digital signature requires a personal signing certificate.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T183908Z" creationid="olex" creationdate="20180628T183908Z">
+        <seg>Для цифровой подписи требуется персональный сертификат подписи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A dispatch command is text, for example .uno:InsertObject or .uno:GoToStartOfLine.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T174133Z" creationid="tagezi" creationdate="20180319T174133Z">
@@ -2575,6 +2583,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T200815Z" creationid="olex" creationdate="20180311T195019Z">
         <seg>Хранилище может быть локальным (каталог на вашем компьютере, куда вы загрузили шаблоны) или удаленным (URL-адрес, с которого вы можете загружать шаблоны).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A row of information now appears in the larger box below the input boxes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T181200Z" creationid="olex" creationdate="20180628T181200Z">
+        <seg>Ряд информации теперь появляется в большем поле под полями ввода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3178,6 +3194,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134317Z" creationid="tagezi" creationdate="20180320T134317Z">
         <seg>Хотя вы можете использовать в меню &lt;f0&gt; Сервис &gt; Макросы &gt; Выполнить макрос&lt;/f0&gt; для запуска всех макросов, это неэффективно для часто запускаемых макросов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Always checkbox</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T181936Z" creationid="olex" creationdate="20180628T181936Z">
+        <seg>Флажок Всегда</seg>
       </tuv>
     </tu>
     <tu>
@@ -4329,6 +4353,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Certificate Path</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T183829Z" creationid="olex" creationdate="20180628T183829Z">
+        <seg>Путь сертификата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change a style using the Style dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180320T192854Z" creationid="olex" creationdate="20180308T174607Z">
@@ -5209,6 +5241,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on this check mark.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T181133Z" creationid="olex" creationdate="20180628T181133Z">
+        <seg>Нажмите на эту галочку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click once on it to activate the file handling controls (see Figure &lt;t0&gt;8&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T192531Z" creationid="olex" creationdate="20180311T192531Z">
@@ -5237,6 +5277,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180503T190706Z" creationid="olex" creationdate="20180503T190514Z">
         <seg>Выберите вкладку &lt;f0&gt;Защита ячейки&lt;/f0&gt; (Рисунок &lt;t1&gt;35&lt;/t1&gt;) и отмените выбор параметров скрытия для ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Certificate&lt;/f0&gt; button and select which certificate store to use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T184207Z" creationid="olex" creationdate="20180628T184207Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Сертификат&lt;/f0&gt; и выберите, какую использовать запись сертификата.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5273,10 +5321,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Macro Security&lt;/f0&gt; button to open the &lt;i1/&gt;Macro Security dialog (not shown here), where you can adjust the security level for executing macros and specify trusted sources.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T183802Z" creationid="olex" creationdate="20180628T183802Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Безопасн.макросов...&lt;/f0&gt;, чтобы открыть диалоговое окно &lt;i1/&gt;Безопасность макросов (не показано здесь), где вы сможете настроить уровень безопасности для выполнения макросов и указать надежные источники.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;f0&gt;More Options&lt;/f0&gt; button in the panel title bar to open the &lt;f1&gt;Format Cells&lt;/f1&gt; dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T193143Z" creationid="olex" creationdate="20180412T193143Z">
         <seg>Нажмите кнопку &lt;f0&gt;Дополнительные параметры&lt;/f0&gt; в строке заголовка панели, чтобы открыть диалоговое окно &lt;f1&gt;Формат ячеек&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Options&lt;/f0&gt; button to open a separate dialog with specific choices (Figure &lt;t1&gt;12&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T182932Z" creationid="olex" creationdate="20180628T182932Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Параметры&lt;/f0&gt; , чтобы открыть отдельное диалоговое окно с вариантами выбора (Рисунок &lt;t1&gt;12&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7342,6 +7406,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Choosing security options for opening and saving documents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T183036Z" creationid="olex" creationdate="20180628T183036Z">
+        <seg>Рисунок &lt;seq0&gt;10&lt;/seq0&gt;: Выбор параметров безопасности для открытия и сохранения документов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Creating a template using a wizard</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T190328Z" creationid="olex" creationdate="20180311T190328Z">
@@ -7386,6 +7458,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T202342Z" creationid="olex" creationdate="20180311T202342Z">
         <seg>Рисунок &lt;seq0&gt;11&lt;/seq0&gt;: Получение дополнительных шаблонов для LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Set Master Password dialog for web connections</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T183552Z" creationid="olex" creationdate="20180628T183552Z">
+        <seg>Рисунок &lt;seq0&gt;11&lt;/seq0&gt;: Диалоговое окно Задайте мастер-пароль для веб-подключений</seg>
       </tuv>
     </tu>
     <tu>
@@ -8097,6 +8177,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Defining a font to be substituted for another font</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T181510Z" creationid="olex" creationdate="20180628T181510Z">
+        <seg>Рисунок &lt;seq0&gt;9&lt;/seq0&gt;: Определение шрифта для замены другого шрифта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Floating (undocking) or docking the Sidebar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T181139Z" creationid="olex" creationdate="20180616T181054Z">
@@ -8357,6 +8445,46 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T175232Z" creationid="olex" creationdate="20180627T175232Z">
         <seg>Список шрифтов – Просмотр &lt;i0/&gt;шрифтов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font replacement on screen and when printing, but only if font is not available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T182325Z" creationid="olex" creationdate="20180628T182325Z">
+        <seg>Замена шрифта на экране и при печати, но только если шрифт недоступен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font replacement on screen and when printing, whether the font is installed or not.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T182215Z" creationid="olex" creationdate="20180628T182138Z">
+        <seg>Замена шрифта на экране и при печати, независимо от того, установлен шрифт в системе или нет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font replacement only on screen, but only if font is not available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T182256Z" creationid="olex" creationdate="20180628T182256Z">
+        <seg>Замена шрифта только на экране, но только если шрифт недоступен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font replacement only on screen, whether the font is installed or not.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T182232Z" creationid="olex" creationdate="20180628T182207Z">
+        <seg>Замена шрифта только на экране, независимо от того, установлен шрифт в системе или нет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font substitution replacement actions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T181907Z" creationid="olex" creationdate="20180628T181820Z">
+        <seg>Поведение при настройках по замене шрифтов</seg>
       </tuv>
     </tu>
     <tu>
@@ -10587,6 +10715,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, a personal certificate issued by an outside agency (after verifying an individual’s identity) has a higher degree of trust associated with it than does a self-signed certificate.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T183944Z" creationid="olex" creationdate="20180628T183944Z">
+        <seg>Однако личный сертификат, выданный внешним агентством (после проверки личности), имеет более высокую степень доверия, связанного с ним, чем самоподписанный сертификат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, hidden elements can still be selected for copying if you select the elements around them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T182500Z" creationid="olex" creationdate="20180502T182439Z">
@@ -11380,6 +11516,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you record changes, save multiple versions, or include hidden information or notes in your documents, and you do not want some of the recipients to see that information, you can set warnings to remind you to remove it, or you can have LibreOffice remove some of it automatically.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T182722Z" creationid="olex" creationdate="20180628T182722Z">
+        <seg>Если вы записываете изменения, сохраняете несколько версий, или включаете скрытую информацию или заметки в свои документы, и вы не хотите, чтобы некоторые из получателей видели эту информацию, то вы можете установить предупреждения, чтобы напоминать вам об их удалении, или вы можете задать LibreOffice удалять некоторые из них автоматически.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you select &lt;f0&gt;Text CSV&lt;/f0&gt; format (&lt;f1&gt;*.csv&lt;/f1&gt;) for your spreadsheet, the &lt;f2&gt;Export Text File&lt;/f2&gt; dialog (Figure &lt;t3&gt;7&lt;/t3&gt;) may open.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T190415Z" creationid="olex" creationdate="20180402T190415Z">
@@ -11392,6 +11536,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T175340Z" creationid="olex" creationdate="20180330T192114Z">
         <seg>Если вы выбрали &lt;f1&gt;Другой&lt;/f1&gt;, то укажите символ, используемый для разделения данных на столбцы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you select the &lt;f0&gt;Persistently save passwords for web connections&lt;/f0&gt; option, the Set Master Password dialog opens (Figure &lt;t1&gt;14&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T183343Z" creationid="olex" creationdate="20180628T183217Z">
+        <seg>Если вы выберите параметр &lt;f0&gt;Хранить пароли для веб-подключений&lt;/f0&gt;, то откроется диалоговое окно Задайте мастер-пароль (Рисунок &lt;t1&gt; 14 &lt;/ t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12060,6 +12212,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the &lt;f0&gt;Replace with&lt;/f0&gt; box, select a suitable font from the drop-down list of fonts installed on your computer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T180947Z" creationid="olex" creationdate="20180628T180947Z">
+        <seg>В поле &lt;f0&gt;Заменить на&lt;/f0&gt; выберите подходящий шрифт из раскрывающегося списка шрифтов, установленных на вашем компьютере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the &lt;f1&gt;User Interface &lt;/f1&gt;section, choose from the drop-down lists under &lt;f2&gt;Icon size and style.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T104741Z" creationid="tagezi" creationdate="20180310T101109Z">
@@ -12184,6 +12344,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T183749Z" creationid="olex" creationdate="20180315T183749Z">
         <seg>В диалоговом окне «Шаблоны» выберите категорию с шаблоном, который вы хотите удалить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the bottom section of the page, you can change the typeface and size of the font used to display source code such as HTML and Basic (in macros).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T181440Z" creationid="olex" creationdate="20180628T181440Z">
+        <seg>В нижней части страницы вы можете изменить шрифт и размер шрифта, используемого для отображения исходного кода, такого как HTML и Basic (в макросах).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13192,6 +13360,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice does not provide a secure method of storing these certificates, but it can access certificates that have been saved using other programs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T184001Z" creationid="olex" creationdate="20180628T184001Z">
+        <seg>LibreOffice не обеспечивает безопасный способ хранения этих сертификатов, но может иметь доступ к сертификатам, которые были сохранены с использованием других программ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice has been translated (localized) into over 40 languages, so your language probably is supported.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T160422Z" creationid="tagezi" creationdate="20180310T160422Z">
@@ -13433,6 +13609,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice will securely store all passwords that you use to access files from web servers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T183410Z" creationid="olex" creationdate="20180628T183410Z">
+        <seg>LibreOffice безопасно сохранит все пароли, которые вы используете для доступа к файлам с веб-серверов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOfficeMath is a &lt;is0/&gt;formula editor&lt;ie1/&gt; you can use to create or edit formulas (equations) in a symbolic form within LibreOffice documents or as standalone objects.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T135045Z" creationid="User" creationdate="20180307T204305Z">
@@ -13645,6 +13829,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T171858Z" creationid="tagezi" creationdate="20180319T171050Z">
         <seg>Недостаточность функции Записать макрос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Macro security</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T183607Z" creationid="olex" creationdate="20180628T183607Z">
+        <seg>Безопасность макросов</seg>
       </tuv>
     </tu>
     <tu>
@@ -14183,6 +14375,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T170917Z" creationid="olex" creationdate="20180628T170917Z">
         <seg>Большинство из этих вариантов должны быть понятны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most operating systems can generate a self-signed certificate.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T183922Z" creationid="olex" creationdate="20180628T183922Z">
+        <seg>Большинство операционных систем могут создавать самозаверяющий сертификат.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14783,6 +14983,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T145546Z" creationid="olex" creationdate="20180603T145546Z">
         <seg>Примечание для пользователей MacOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that (unless removed) much of this information is retained in a file whether the file is in LibreOffice’s default OpenDocument format, or has been saved to other formats, including PDF.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T182814Z" creationid="olex" creationdate="20180628T182814Z">
+        <seg>Обратите внимание, что (если это не удалено) большая часть этой информации сохраняется в файле, независимо от того, находится ли файл в формате OpenDocument по умолчанию в LibreOffice или был сохранен в других форматах, включая PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15757,6 +15965,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Passwords for web connections</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T183231Z" creationid="olex" creationdate="20180628T183109Z">
+        <seg>Пароли для веб-подключений</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Paste content</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T173200Z" creationid="olex" creationdate="20180627T173200Z">
@@ -16430,6 +16646,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replacement action</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T182031Z" creationid="olex" creationdate="20180628T182031Z">
+        <seg>Действие при замене</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replacing data</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T173931Z" creationid="olex" creationdate="20180327T173931Z">
@@ -16791,6 +17015,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen only checkbox</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T181958Z" creationid="olex" creationdate="20180628T181958Z">
+        <seg>Флажок Экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Security options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T152600Z" creationid="olex" creationdate="20180623T152317Z">
@@ -17039,6 +17271,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See “&lt;bf2&gt;Security options and warnings&lt;/bf2&gt;” on page &lt;bf3&gt;14&lt;/bf3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T183017Z" creationid="olex" creationdate="20180628T183017Z">
+        <seg>Смотрите “&lt;bf2&gt;Параметры и предупреждения безопасности&lt;/bf2&gt;” н странице &lt;bf3&gt;14&lt;/bf3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See “&lt;rf0&gt;Setting a default template&lt;/rf0&gt;” on page &lt;rf1&gt;18&lt;/rf1&gt;&lt;s2/&gt;for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T180913Z" creationid="olex" creationdate="20180306T180913Z">
@@ -17255,6 +17495,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f2&gt;Screen only&lt;/f2&gt; to replace the screen font only and never replace the font for printing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T181334Z" creationid="olex" creationdate="20180628T181334Z">
+        <seg>Выберите &lt;f2&gt;Экран&lt;/f2&gt;, чтобы заменять только экранный шрифт и никогда не заменять шрифт для печати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Module1, or the new module that you created, and click &lt;f0&gt;Edit&lt;/f0&gt; to open the Integrated Development Environment (IDE) (Figure &lt;t1&gt;3&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T131615Z" creationid="tagezi" creationdate="20180312T131615Z">
@@ -17418,8 +17666,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Select or type the name of the font to be replaced in the &lt;f0&gt;Font&lt;/f0&gt; box.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180628T173517Z" creationid="olex" creationdate="20180628T173517Z">
-        <seg>Выберите или введите имя шрифта, который будет заменен, в поле &lt;f0&gt;Шрифт&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T180957Z" creationid="olex" creationdate="20180628T173517Z">
+        <seg>Выберите или введите имя шрифта, который будет заменен, в поле &lt;f0&gt;Гарнитура&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17901,6 +18149,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T073822Z" creationid="tagezi" creationdate="20180315T073822Z">
         <seg>Выберите ваш новый макрос EnterMyName и нажмите кнопку &lt;f0&gt;Править&lt;/f0&gt;, чтобы открыть макрос в Basic &lt;is1/&gt;&lt;is2/&gt;IDE&lt;ie3/&gt;&lt;ie4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select&lt;f1&gt; Always&lt;/f1&gt; to replace the font, even if the original font is installed on your system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T181251Z" creationid="olex" creationdate="20180628T181251Z">
+        <seg>Выберите &lt;f1&gt;Всегда&lt;/f1&gt;, чтобы заменять шрифт, даже если исходный шрифт установлен в вашей системе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19701,6 +19957,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The check mark to the right of the &lt;f0&gt;Replace with&lt;/f0&gt; box turns green.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T181114Z" creationid="olex" creationdate="20180628T181114Z">
+        <seg>Флажок справа от поля &lt;f0&gt;Заменить на&lt;/f0&gt; станет зеленым.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The code starts by defining the subroutine named Main, which is empty and does nothing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T114013Z" creationid="tagezi" creationdate="20180315T114013Z">
@@ -20676,6 +20940,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T202616Z" creationid="olex" creationdate="20180313T202616Z">
         <seg>Конечный документ будет содержать только измененный текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The results of combining these selections are given in Table &lt;t3&gt;1&lt;/t3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T181405Z" creationid="olex" creationdate="20180628T181405Z">
+        <seg>Результаты объединения этих выборок приведены в Таблице &lt;t3&gt;1&lt;/t3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23424,6 +23696,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use &lt;i0/&gt;the &lt;f1&gt;LibreOffice – Security&lt;/f1&gt; page to choose security options for saving documents and for opening documents that contain macros.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T182455Z" creationid="olex" creationdate="20180628T182455Z">
+        <seg>Используйте &lt;i0/&gt;страницу &lt;f1&gt;LibreOffice - Безопасность&lt;/f1&gt;, чтобы выбрать параметры безопасности для сохранения документов и для открытия документов, содержащих макросы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use &lt;i0/&gt;the zoom function to show more or fewer cells in the window when you are working on a spreadsheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T162817Z" creationid="olex" creationdate="20180409T162817Z">
@@ -23598,6 +23878,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T112240Z" creationid="tagezi" creationdate="20180320T112240Z">
         <seg>Пользовательские макросы хранятся в &lt;f2&gt;LibreOffice\4\user\basic&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Users can digitally sign documents using LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T183854Z" creationid="olex" creationdate="20180628T183854Z">
+        <seg>Пользователи могут подписывать документы с помощью LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25577,6 +25865,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can enter a master password to enable easy access to websites that require a user name and password.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T183149Z" creationid="olex" creationdate="20180628T183149Z">
+        <seg>Вы можете ввести мастер-пароль, чтобы обеспечить легкий доступ к веб-сайтам, для которых требуется имя пользователя и пароль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can enter data (usually numerical) in a spreadsheet and then manipulate this data to produce certain results.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T181343Z" creationid="olex" creationdate="20180327T181343Z">
@@ -25742,6 +26038,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T192819Z" creationid="olex" creationdate="20180615T183426Z">
         <seg>Вы можете перемещать панели инструментов в различные положения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can retrieve the passwords from the list after you enter the master password.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T183441Z" creationid="olex" creationdate="20180628T183441Z">
+        <seg>Вы сможете получать пароли из списка после ввода мастер-пароля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26314,6 +26618,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>blank</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T182057Z" creationid="olex" creationdate="20180628T182057Z">
+        <seg>пусто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>cells</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202251Z" creationid="olex" creationdate="20180328T173550Z">
@@ -26342,6 +26654,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180001Z" creationid="olex" creationdate="20180308T175911Z">
         <seg>изменение с помощью диалогового окна Стиль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>checked</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T182053Z" creationid="olex" creationdate="20180628T182053Z">
+        <seg>отмечено</seg>
       </tuv>
     </tu>
     <tu>
@@ -26714,6 +27034,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>file sharing options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T182402Z" creationid="olex" creationdate="20180628T182402Z">
+        <seg>параметры совместного доступа к файлам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>folders</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T204110Z" creationid="olex" creationdate="20180313T204110Z">
@@ -26950,6 +27278,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T205003Z" creationid="tagezi" creationdate="20180310T205003Z">
         <seg>Эквивалент для macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>macro security options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T183628Z" creationid="olex" creationdate="20180628T183628Z">
+        <seg>параметры безопасности макросов</seg>
       </tuv>
     </tu>
     <tu>
@@ -27358,6 +27694,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T171520Z" creationid="olex" creationdate="20180627T171520Z">
         <seg>сглаживание экранных шрифтов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>security options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T182336Z" creationid="olex" creationdate="20180628T182336Z">
+        <seg>параметры безопасности</seg>
       </tuv>
     </tu>
     <tu>
