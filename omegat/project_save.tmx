@@ -2779,6 +2779,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adding a trusted timestamp to an electronic signature on a PDF provides a digital seal of data integrity and a trusted date and time of when the file was signed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T184656Z" creationid="olex" creationdate="20180628T184656Z">
+        <seg>Добавление надежной метки времени в электронную подпись в формате PDF обеспечивает целостность цифровой печати данных и доверенную дату и время, когда файл был подписан.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding table styles in Writer</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T210752Z" creationid="olex" creationdate="20180309T210752Z">
@@ -3039,6 +3047,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T185018Z" creationid="olex" creationdate="20180506T184941Z">
         <seg>Все, что вам нужно сделать, это ввести аргументы, и расчет будет сделан для вас автоматически.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows you to optionally select a Time Stamping Authority (TSA) URL for PDF documents created by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T184553Z" creationid="olex" creationdate="20180628T184553Z">
+        <seg>Позволяет вам выбрать URL-адреса источников отметок времени (ИОВ) для документов PDF, созданных в LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15205,6 +15221,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On Windows, LibreOffice uses the default Windows location for storing and retrieving certificates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T184335Z" creationid="olex" creationdate="20180628T184335Z">
+        <seg>В Windows LibreOffice использует местоположение по умолчанию Windows для хранения и получения сертификатов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On a computer &lt;f0&gt;using&lt;/f0&gt; Linux or Windows operating system&lt;f1&gt;s&lt;/f1&gt;, the default installation of LibreOffice does not set the Quickstarter to load automatically.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T190605Z" creationid="olex" creationdate="20180614T184254Z">
@@ -16522,6 +16546,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T173554Z" creationid="tagezi" creationdate="20180310T173554Z">
         <seg>Смотри лицензию: &lt;a0&gt;http://www.mozilla.org/MPL/2.0/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipients of PDF documents with a trusted timestamp can verify when the document was digitally or electronically signed, as well as verify that the document was not altered after the date the timestamp vouches for.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T184716Z" creationid="olex" creationdate="20180628T184716Z">
+        <seg>Получатели документов PDF с надежной меткой времени могут проверять, когда документ был подписан в цифровом или электронном виде, а также убедиться, что документ не был изменен после даты, на которую указывает отметка времени.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19076,6 +19108,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TSAs - Time Stamping Authorities</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T184443Z" creationid="olex" creationdate="20180628T184443Z">
+        <seg>ИОВ - Источники Отметок Времени</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tab panel</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T193404Z" creationid="olex" creationdate="20180329T193404Z">
@@ -19457,6 +19497,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T193432Z" creationid="olex" creationdate="20180329T193432Z">
         <seg>Боковая панель Calc (&lt;f0&gt;Вид &gt; Боковая панель&lt;/f0&gt;) расположена в правой части окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Certificate Path option appears only on Linux and Mac systems.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T184302Z" creationid="olex" creationdate="20180628T184302Z">
+        <seg>Параметр Путь сертификата доступен только в системах Linux и Mac.</seg>
       </tuv>
     </tu>
     <tu>
