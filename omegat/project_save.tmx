@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(If you do not have this font on your system, it will not appear in the drop-down list in this box, so you need to type it in.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T180844Z" creationid="olex" creationdate="20180628T180844Z">
+        <seg>(Если у вас нет этого шрифта в вашей системе, то он не появится в раскрывающемся списке в этом поле, поэтому вам нужно будет ввести его.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Not available in Windows.) Select this option to smooth the screen appearance of text.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T171620Z" creationid="olex" creationdate="20180627T171620Z">
@@ -17408,6 +17416,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select or type the name of the font to be replaced in the &lt;f0&gt;Font&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T173517Z" creationid="olex" creationdate="20180628T173517Z">
+        <seg>Выберите или введите имя шрифта, который будет заменен, в поле &lt;f0&gt;Шрифт&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select some text and drag it to the Styles window.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T205212Z" creationid="olex" creationdate="20180309T205212Z">
@@ -17420,6 +17436,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T173137Z" creationid="olex" creationdate="20180627T173137Z">
         <seg>Выделите текст, таблицу или объект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the &lt;f0&gt;Apply &lt;/f0&gt;&lt;i1/&gt;&lt;i2/&gt;&lt;f3&gt;replacement table&lt;/f3&gt; option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180628T173208Z" creationid="olex" creationdate="20180628T173208Z">
+        <seg>Выберите параметр &lt;f0&gt;Применить &lt;/f0&gt;&lt;i1/&gt;&lt;i2/&gt;&lt;f3&gt;таблицу замен&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
