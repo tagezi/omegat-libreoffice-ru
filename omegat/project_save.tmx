@@ -2730,6 +2730,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>denkin: убрал упоминание о подсказках, т.к. этого нет в параметрах - специальные возможности</note>
+      <tuv lang="EN-US">
+        <seg>Accessibility options include whether to allow animated graphics or text, how long help tips remain visible, some options for high contrast display, and a way to change the font for the LibreOffice user interface.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T153604Z" creationid="olex" creationdate="20180630T153604Z">
+        <seg>Специальные возможности включают в себя: разрешить анимацию изображений или текста, некоторые параметры для высоко-контрастного отображения и способ изменить цвета для пользовательского интерфейса LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Acknowledgments</seg>
       </tuv>
@@ -7626,6 +7635,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T223621Z" creationid="olex" creationdate="20180407T223621Z">
         <seg>Рисунок &lt;seq0&gt;15&lt;/seq0&gt;: Диалоговое окно Переместить/скопировать лист</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Showing or hiding text, object, and table boundaries</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T153153Z" creationid="olex" creationdate="20180630T153153Z">
+        <seg>Рисунок &lt;seq0&gt;15&lt;/seq0&gt;: Отображение или скрытие границ текста, объекта и таблицы</seg>
       </tuv>
     </tu>
     <tu>
@@ -15099,6 +15116,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that you can change the list of available colors as described in “&lt;bf1&gt;Color options&lt;/bf1&gt;” on page &lt;bf2&gt;10&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T152917Z" creationid="olex" creationdate="20180630T152917Z">
+        <seg>Обратите внимание, что вы можете изменить список доступных цветов, как описано в разделе «&lt;bf1&gt;Параметры цвета&lt;/bf1&gt;» на странице &lt;bf2&gt;10&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090607Z" creationid="tagezi" creationdate="20180305T090607Z">
@@ -15353,6 +15378,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T183210Z" creationid="olex" creationdate="20180621T183210Z">
         <seg>При перезагрузке вашего документа диалоговое окно Файл не открывается, поскольку файл уже выбран.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the &lt;f0&gt;LibreOffice – Application colors&lt;/f0&gt; page (Figure &lt;t1&gt;15&lt;/t1&gt;), you can specify which items are visible and the colors used to display various items.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T152346Z" creationid="olex" creationdate="20180630T152346Z">
+        <seg>На странице &lt;f0&gt;LibreOffice - Внешний вид&lt;/f0&gt; (Рисунок &lt;t1&gt;15&lt;/t1&gt;) вы можете указать, какие элементы будут видны, а также изменить цвета, используемые для отображения различных элементов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22384,6 +22417,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the default colors for items, click the down-arrow in the &lt;f0&gt;Color Setting&lt;/f0&gt; column by the name of the item and select a color from the list box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T152837Z" creationid="olex" creationdate="20180630T152759Z">
+        <seg>Чтобы изменить цвета по умолчанию для элементов, щелкните стрелку вниз в столбце &lt;f0&gt;Цвет&lt;/f0&gt; справа от имени элемента и выберите цвет из списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change the default name for a sheet (Sheet1, Sheet2, and so on), right-click on a sheet tab and select &lt;f0&gt;Rename Sheet&lt;/f0&gt; from the context menu or double click on the sheet tab to open a dialog to let you type a new name for the sheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T185655Z" creationid="olex" creationdate="20180330T182848Z">
@@ -23139,6 +23180,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To save your color changes as a &lt;i0/&gt;color scheme, click &lt;f1&gt;Save&lt;/f1&gt;, type a name in the &lt;f2&gt;Scheme&lt;/f2&gt; box, and then click &lt;f3&gt;OK&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T153108Z" creationid="olex" creationdate="20180630T153108Z">
+        <seg>Чтобы сохранить изменения цвета в цветовой схеме &lt;i0/&gt;, нажмите &lt;f1&gt;Сохранить&lt;/f1&gt;, введите имя в поле &lt;f2&gt;Имя цветовой схемы&lt;/f2&gt;, а затем нажмите &lt;f3&gt;OK&lt;/f3&gt; ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To select a range of cells by dragging the mouse cursor:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202354Z" creationid="olex" creationdate="20180404T202354Z">
@@ -23303,6 +23352,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T182514Z" creationid="olex" creationdate="20180615T182514Z">
         <seg>Чтобы отобразить или скрыть значки, определенные для выбранной панели инструментов, нажмите &lt;f0&gt;Показать кнопки&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To show or hide items such as &lt;i0/&gt;text boundaries, select or deselect the options next to the names of the items.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T152816Z" creationid="olex" creationdate="20180630T152644Z">
+        <seg>Чтобы отобразить или скрыть элементы, такие как границы текста &lt;i0/&gt;, установите или снимите флажок слева от имени элемента.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26810,6 +26867,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>accessibility options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T153212Z" creationid="olex" creationdate="20180630T153212Z">
+        <seg>специальные возможности</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>adding macros from other sources</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T123016Z" creationid="tagezi" creationdate="20180311T123016Z">
@@ -26894,6 +26959,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T172517Z" creationid="olex" creationdate="20180627T172517Z">
         <seg>буфер обмена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>color scheme</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T152938Z" creationid="olex" creationdate="20180630T152938Z">
+        <seg>цветовая схема</seg>
       </tuv>
     </tu>
     <tu>
@@ -28190,6 +28263,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T132156Z" creationid="olex" creationdate="20180306T175031Z">
         <seg>шаблон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>text boundaries (show/hide)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T152502Z" creationid="olex" creationdate="20180630T152502Z">
+        <seg>границы текста (показать/скрыть)</seg>
       </tuv>
     </tu>
     <tu>
