@@ -5947,6 +5947,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ctrl-click required to follow hyperlinks</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T145911Z" creationid="olex" creationdate="20180630T145911Z">
+        <seg>Ctrl-щелчок необходим для перехода по гиперссылкам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CurrentController is a property referring to a service that controls the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T131801Z" creationid="tagezi" creationdate="20180316T131801Z">
@@ -7506,6 +7514,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T194246Z" creationid="olex" creationdate="20180313T194246Z">
         <seg>Рисунок &lt;seq0&gt;12&lt;/seq0&gt;: Восстановление шаблона по умолчанию для текстовых документов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Security options and warnings dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T145441Z" creationid="olex" creationdate="20180630T145441Z">
+        <seg>Рисунок &lt;seq0&gt;12&lt;/seq0&gt;: Диалоговое окно Параметры и предупреждения безопасности</seg>
       </tuv>
     </tu>
     <tu>
@@ -14065,6 +14081,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many people find creation and editing of documents easier when accidental clicks on links do not activate the links.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T150010Z" creationid="olex" creationdate="20180630T150010Z">
+        <seg>Многие люди находят создание и редактирование документов проще, когда случайные клики по ссылкам не активируют эти ссылки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many people manually format paragraphs, words, tables, page layouts, and other parts of their documents without paying any attention to styles.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T133451Z" creationid="olex" creationdate="20180306T190252Z">
@@ -16606,6 +16630,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove personal information on saving</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T145549Z" creationid="olex" creationdate="20180630T145549Z">
+        <seg>Удалять личную информацию при сохранении</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Removing a print range</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T180529Z" creationid="olex" creationdate="20180327T180529Z">
@@ -18157,6 +18189,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T211352Z" creationid="olex" creationdate="20180309T211352Z">
         <seg>Выберите всю таблицу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select this option to always remove user data from the file properties when saving the file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T145724Z" creationid="olex" creationdate="20180630T145656Z">
+        <seg>Выберите этот параметр, чтобы всегда удалять данные пользователя из свойств файла при сохранении.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20141,6 +20181,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default behavior in LibreOffice is to &lt;f0&gt;Ctrl+click&lt;/f0&gt; on a hyperlink to open the linked document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T145942Z" creationid="olex" creationdate="20180630T145942Z">
+        <seg>Поведение по умолчанию в LibreOffice - это &lt;f0&gt;Ctrl+щелчок&lt;/f0&gt; по гиперссылке для открытия связанного документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default location is your user templates directory, but you can choose a different location.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T185956Z" creationid="olex" creationdate="20180311T185749Z">
@@ -20361,6 +20409,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T215338Z" creationid="olex" creationdate="20180407T215338Z">
         <seg>Открыть диалоговое окно &lt;f6&gt;Вставить лист...&lt;/f6&gt; (Рисунок &lt;t7&gt;14&lt;/t7&gt;), в котором вы сможете позиционировать новый лист, создать несколько листов, называть новый лист или выбрать лист из файла, можно следующими способами:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following options are on the Security options and warnings dialog (Figure &lt;t0&gt;12&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T145449Z" creationid="olex" creationdate="20180630T145301Z">
+        <seg>Следующие параметры находятся в диалоговом окне Параметры и предупреждения безопасности (Рисунок &lt;t0&gt;12&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20892,6 +20948,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180625T175110Z" creationid="olex" creationdate="20180625T175110Z">
         <seg>Параметры на странице &lt;f0&gt;LibreOffice - Вид&lt;/f0&gt; влияют на то, как выглядит и ведет себя окно документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The other options on this dialog should be self-explanatory.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T150150Z" creationid="olex" creationdate="20180630T150150Z">
+        <seg>Другие варианты в этом диалоговом окне должны быть интуитивно понятны.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22753,6 +22817,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To manually remove personal information from specific documents, deselect this option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T145753Z" creationid="olex" creationdate="20180630T145753Z">
+        <seg>Чтобы вручную удалять личную информацию из определенных документов, снимите этот флажок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To move a floating toolbar, click on its title bar and drag it to a new floating location or dock the toolbar at the top or bottom of the main window.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T181349Z" creationid="olex" creationdate="20180615T181349Z">
@@ -23103,6 +23175,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T181028Z" creationid="olex" creationdate="20180508T181028Z">
         <seg>Чтобы выбрать параметры печати, &lt;i0/&gt;порядок страниц, детали и масштаб, которые будут использоваться при печати электронной таблицы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To set LibreOffice to activate hyperlinks using an ordinary click, deselect this option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T150048Z" creationid="olex" creationdate="20180630T150048Z">
+        <seg>Чтобы установить в LibreOffice активацию гиперссылок с помощью обычного щелчка, снимите этот флажок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27614,6 +27694,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T181658Z" creationid="tagezi" creationdate="20180312T181658Z">
         <seg>запись</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>remove personal information on saving</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T145540Z" creationid="olex" creationdate="20180630T145540Z">
+        <seg>удалять личную информацию при сохранении</seg>
       </tuv>
     </tu>
     <tu>
