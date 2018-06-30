@@ -7566,6 +7566,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Personalization dialogs</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T151727Z" creationid="olex" creationdate="20180630T151727Z">
+        <seg>Рисунок &lt;seq0&gt;13&lt;/seq0&gt;: Диалоговое окно Персонализация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Remote Files dialog when connected to a server</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T182808Z" creationid="olex" creationdate="20180619T182808Z">
@@ -7594,6 +7602,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T181303Z" creationid="olex" creationdate="20180621T181303Z">
         <seg>Рисунок &lt;seq0&gt;14&lt;/seq0&gt;: Навигатор в Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Sample personalized theme</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T151753Z" creationid="olex" creationdate="20180630T151753Z">
+        <seg>Рисунок &lt;seq0&gt;14&lt;/seq0&gt;: Пример персональной темы</seg>
       </tuv>
     </tu>
     <tu>
@@ -12152,6 +12168,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T180913Z" creationid="olex" creationdate="20180606T180611Z">
         <seg>Дополнительно, вы можете активировать Подробные всплывающие подсказки, используя &lt;f4&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Общие&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, you might prefer to use colors that are different from LibreOffice’s defaults for such items as comment indicators or field shadings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T152206Z" creationid="olex" creationdate="20180630T152206Z">
+        <seg>Кроме того, вы можете использовать цвета, отличные от значений по умолчанию в LibreOffice, для таких элементов, как индикаторы комментариев или подсветка полей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25518,6 +25542,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Writing, editing, and (especially) page layout are often easier when you can see the page margins (text boundaries), the boundaries of tables and sections (in Writer documents), page breaks in Calc, grid lines in Draw or Writer, and other features.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T152117Z" creationid="olex" creationdate="20180630T152117Z">
+        <seg>Набирать текст, редактировать текст и (особенно) макет страницы часто проще, когда вы видите границы страниц (границы текста), границы таблиц и разделов (в документах Writer), разрывы страниц в Calc, линии сетки в Draw или Writer и другое.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>X</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180319T190427Z" creationid="olex" creationdate="20180319T190427Z">
@@ -26790,6 +26822,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T171512Z" creationid="olex" creationdate="20180627T171501Z">
         <seg>сглаживание экранных шрифтов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>application colors</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T151825Z" creationid="olex" creationdate="20180630T151825Z">
+        <seg>Внешний вид</seg>
       </tuv>
     </tu>
     <tu>
