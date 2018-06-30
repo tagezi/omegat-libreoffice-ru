@@ -2740,6 +2740,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accessibility support relies on the Java Runtime Environment for communication with assistive technology tools.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T153839Z" creationid="olex" creationdate="20180630T153839Z">
+        <seg>Поддержка специальных возможностей зависит от среды выполнения Java Runtime Environment для связи с инструментами вспомогательных технологий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acknowledgments</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T152400Z" creationid="lera" creationdate="20180303T152400Z">
@@ -7643,6 +7651,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T153153Z" creationid="olex" creationdate="20180630T153153Z">
         <seg>Рисунок &lt;seq0&gt;15&lt;/seq0&gt;: Отображение или скрытие границ текста, объекта и таблицы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Choosing accessibility options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T154152Z" creationid="olex" creationdate="20180630T154152Z">
+        <seg>Рисунок &lt;seq0&gt;16&lt;/seq0&gt;: Выбор специальных возможностей</seg>
       </tuv>
     </tu>
     <tu>
@@ -17216,6 +17232,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See &lt;f1&gt;Assistive Tools in LibreOffice&lt;/f1&gt; in the Help for other requirements and information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T154052Z" creationid="olex" creationdate="20180630T154014Z">
+        <seg>Смотрите &lt;f1&gt;Вспомогательные инструменты в LibreOffice&lt;/f1&gt; в справке для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See &lt;f1&gt;Chapter 14, Customizing LibreOffice&lt;/f1&gt; for more information on installing extensions and add-ons.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T181112Z" creationid="olex" creationdate="20180611T181112Z">
@@ -17813,6 +17837,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T182653Z" creationid="olex" creationdate="20180615T182653Z">
         <seg>Установите или снимите флажки на значках, чтобы скрыть или показать их на панели инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select or deselect the options as required.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T154107Z" creationid="olex" creationdate="20180630T154107Z">
+        <seg>Выберите или отмените выбор параметров по мере необходимости.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19522,6 +19554,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T183510Z" creationid="olex" creationdate="20180603T183144Z">
         <seg>&lt;f0&gt;Боковая панель&lt;/f0&gt; в Draw содержит 5 вкладок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Support assistive technology tools&lt;/f0&gt; option is not shown on all LibreOffice installations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T153952Z" creationid="olex" creationdate="20180630T153952Z">
+        <seg>Опция &lt;f0&gt;Поддержка вспомогательной технологии&lt;/f0&gt; отображается не во всех установках LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
