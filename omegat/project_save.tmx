@@ -2891,6 +2891,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After a brief pause the appearance of LibreOffice will refresh and reflect the selected theme.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T150822Z" creationid="olex" creationdate="20180630T150822Z">
+        <seg>После короткой паузы внешний вид LibreOffice обновится в соответствии с выбранной темой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After changes have been undone, you can redo changes.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T181738Z" creationid="olex" creationdate="20180621T181738Z">
@@ -3258,6 +3266,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094359Z" creationid="Роман" creationdate="20180316T094359Z">
         <seg>Пример показан на Рисунке &lt;t0&gt;3&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An example is shown in Figure &lt;t5&gt;14&lt;/t5&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T150923Z" creationid="olex" creationdate="20180630T150923Z">
+        <seg>Пример показан на рисунке &lt;t5&gt;14&lt;/t5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9117,6 +9133,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134916Z" creationid="tagezi" creationdate="20180320T134916Z">
         <seg>Например, вы, вероятно, не добавите редко используемый макрос на панель инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For full details about themes, visit the Mozilla website: &lt;a6&gt;http&lt;/a6&gt;&lt;a7&gt;s&lt;/a7&gt;&lt;a8&gt;://www.&lt;/a8&gt;&lt;a9&gt;https://addons.mozilla.org/en-US/firefox/themes/&lt;/a9&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T151633Z" creationid="olex" creationdate="20180630T151633Z">
+        <seg>Подробную информацию о темах можно найти на веб-сайте Mozilla:&lt;a6&gt;http&lt;/a6&gt;&lt;a7&gt;s&lt;/a7&gt;&lt;a8&gt;://www.&lt;/a8&gt;&lt;a9&gt;https://addons.mozilla.org/en-US/firefox/themes/&lt;/a9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15325,6 +15349,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the &lt;f0&gt;LibreOffice – Personalization&lt;/f0&gt; page, select &lt;f1&gt;Own Theme&lt;/f1&gt; and then click &lt;f2&gt;Select Theme.&lt;/f2&gt; Another dialog opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T150442Z" creationid="olex" creationdate="20180630T150442Z">
+        <seg>На странице &lt;f0&gt;LibreOffice - Персонализация&lt;/f0&gt; выберите &lt;f1&gt;Другая тема&lt;/f1&gt;, а затем нажмите &lt;f2&gt;Выбрать тему&lt;/f2&gt;. Откроется новое диалоговое окно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the &lt;f0&gt;LibreOffice – Print&lt;/f0&gt; page, set the print options to suit your default printer and your most common printing method.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T170857Z" creationid="olex" creationdate="20180628T170857Z">
@@ -17700,6 +17732,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T210108Z" creationid="olex" creationdate="20180313T205636Z">
         <seg>Выделите ее, нажмите кнопку &lt;f0&gt;Настройки &gt; Удалить категорию&lt;/f0&gt;. В появившемся окне Удалить категорию выберите вашу категорию и нажмите &lt;f0&gt;ОК&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select one and click &lt;f4&gt;OK&lt;/f4&gt; to apply the theme.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T150648Z" creationid="olex" creationdate="20180630T150648Z">
+        <seg>Выберите одну из них и нажмите &lt;f4&gt;OK&lt;/f4&gt;, чтобы применить тему.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23509,6 +23549,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type a search term, click &lt;f3&gt;Search&lt;/f3&gt;, and wait while theme thumbnails load.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T150608Z" creationid="olex" creationdate="20180630T150608Z">
+        <seg>Введите поисковый запрос, нажмите &lt;f3&gt;Поиск&lt;/f3&gt; и подождите, пока загрузятся миниатюры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type an apostrophe (') before the number, for example '01481.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T183207Z" creationid="olex" creationdate="20180411T183207Z">
@@ -25901,6 +25949,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T201254Z" creationid="olex" creationdate="20180404T201254Z">
         <seg>Вы можете настроить направление, в котором клавиша &lt;f0&gt;Enter&lt;/f0&gt; перемещает фокус ячейки, в меню &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Calc &gt; Общие&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can customize the overall appearance of LibreOffice with themes designed for Mozilla Firefox.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180630T150236Z" creationid="olex" creationdate="20180630T150236Z">
+        <seg>Вы можете настроить общий вид LibreOffice с помощью тем, разработанных для Mozilla Firefox.</seg>
       </tuv>
     </tu>
     <tu>
