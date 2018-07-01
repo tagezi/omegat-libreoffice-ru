@@ -7679,6 +7679,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Choosing a Java runtime environment</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T171219Z" creationid="olex" creationdate="20180701T171219Z">
+        <seg>Рисунок &lt;seq0&gt;17&lt;/seq0&gt;: Выбор среды выполнения Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Some table styles in LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T205017Z" creationid="olex" creationdate="20180316T205017Z">
@@ -11020,6 +11028,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If LibreOffice finds one or more JREs, it will display them there.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T171634Z" creationid="olex" creationdate="20180701T171634Z">
+        <seg>Если LibreOffice найдет одну или несколько JRE, то они отобразятся в окне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If Paragraph Styles are active, the paragraph style will be added to the list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T205356Z" creationid="olex" creationdate="20180309T205356Z">
@@ -11396,6 +11412,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are a system administrator, programmer, or other person who customizes JRE installations, you can use the Parameters and Class Path pages (reached from the Java page) to specify this information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T171423Z" creationid="olex" creationdate="20180701T171423Z">
+        <seg>Если вы являетесь системным администратором, программистом или другим человеком, который настраивает установки JRE, то вы можете настроить параметры и пути класса (доступные на странице Java), чтобы указать эту информацию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are experienced in using markup language, it can be the quickest way to enter a formula.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201054Z" creationid="Роман" creationdate="20180316T094814Z">
@@ -11516,6 +11540,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do not see anything listed in the middle of the page, wait a few minutes while LibreOffice searches for JREs on the hard disk.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T171540Z" creationid="olex" creationdate="20180701T171540Z">
+        <seg>Если вы не видите ничего из показанного на Рисунке 17, то подождите несколько минут, пока LibreOffice ищет JRE на жестком диске.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not specify a template when you start a new document, then the document is based on the default template for that type of document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180317T145947Z" creationid="olex" creationdate="20180306T180600Z">
@@ -11585,6 +11617,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T171411Z" creationid="tagezi" creationdate="20180312T182813Z">
         <seg>Если вам нужно повторно вводить одну и ту же информацию, после ее ввода в свой документ в первый раз, вы можете скопировать эту информацию, а затем вставлять информацию в свой документ каждый раз, когда хотите ее использовать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you install or update a Java Runtime Environment (JRE) after you install LibreOffice, or if you have more than one JRE installed on your computer, you can use the &lt;f0&gt;LibreOffice – Advanced options&lt;/f0&gt; page to choose the JRE for LibreOffice to use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T171025Z" creationid="olex" creationdate="20180701T171025Z">
+        <seg>Если вы устанавливаете или обновляете среду выполнения Java (JRE) после установки LibreOffice, или если на вашем компьютере установлено несколько JRE, то вы можете использовать страницу &lt;f0&gt;LibreOffice - Расширенные возможности&lt;/f0&gt;, чтобы выбрать версию JRE для использования в LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13095,6 +13135,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JRE (Java Runtime Environment)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T171605Z" creationid="olex" creationdate="20180701T171605Z">
+        <seg>JRE (Java Runtime Environment - среда выполнения Java)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Java is available at no cost.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T175210Z" creationid="tagezi" creationdate="20180310T175210Z">
@@ -13107,6 +13155,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T174458Z" creationid="tagezi" creationdate="20180310T174458Z">
         <seg>Java один из нескольких языков, которые могут использоваться для расширения программного обеспечения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T170910Z" creationid="olex" creationdate="20180701T170910Z">
+        <seg>Параметры Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -13606,6 +13662,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T100924Z" creationid="tagezi" creationdate="20180311T100924Z">
         <seg>Макросы LibreOffice обычно пишутся на языке называемом &lt;i0/&gt;LibreOffice Basic, иногда сокращенно &lt;is1/&gt;Basic&lt;ie2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice needs Java to run several wizards (such as &lt;f0&gt;File &gt; Wizards &gt; Letter&lt;/f0&gt;) and to run databases with the internal HSQLDB engine.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T171200Z" creationid="olex" creationdate="20180701T171200Z">
+        <seg>LibreOffice нуждается в Java для запуска некоторых Мастеров (таких как &lt;f0&gt;Файл &gt; Мастер &gt; Письмо...&lt;/f0&gt;) и для запуска баз данных с внутренним движком HSQLDB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26463,6 +26527,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T170417Z" creationid="olex" creationdate="20180409T170227Z">
         <seg>Затем вы можете изменять число в ячейке и смотреть, как это влияет на каждую из формул.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can then select the &lt;f0&gt;Use a &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Java runtime environment&lt;/f2&gt; option and (if necessary) choose one of the JREs listed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T171821Z" creationid="olex" creationdate="20180701T171712Z">
+        <seg>Затем вы сможете выбрать опцию &lt;f0&gt;Использовать&lt;/f0&gt;&lt;i1/&gt; &lt;f2&gt;виртуальную машину Java&lt;/f2&gt; и (при необходимости) выбрать один из перечисленных JRE.</seg>
       </tuv>
     </tu>
     <tu>
