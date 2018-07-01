@@ -5362,6 +5362,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Expert Configuration&lt;/f0&gt; button to open a new window in which you can fine-tune the LibreOffice installation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T173306Z" creationid="olex" creationdate="20180701T173306Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Открыть экспертные настройки&lt;/f0&gt;, чтобы открыть новое окно, в котором вы можете тонко настроить LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;f0&gt;Export&lt;/f0&gt; button in the bottom right of the dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T190100Z" creationid="olex" creationdate="20180315T190100Z">
@@ -6636,6 +6644,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double-click on a listed preference to enter a value to configure the preference.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T173536Z" creationid="olex" creationdate="20180701T173536Z">
+        <seg>Дважды щелкните по выбранному параметру, чтобы ввести значение для его настройки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double-click on a sheet tab to open the &lt;f0&gt;Rename Sheet&lt;/f0&gt; dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T162028Z" creationid="olex" creationdate="20180409T162028Z">
@@ -7387,6 +7403,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T191728Z" creationid="tagezi" creationdate="20180320T191728Z">
         <seg>Раскройте библиотеку Tools в контейнере библиотек LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expert Configuration</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T173120Z" creationid="olex" creationdate="20180701T173120Z">
+        <seg>Открыть экспертные настройки</seg>
       </tuv>
     </tu>
     <tu>
@@ -9246,6 +9270,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T160102Z" creationid="olex" creationdate="20180624T160102Z">
         <seg>Информацию о настройках, которые не обсуждаются здесь, смотрите в Справке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more about macro recording, see Chapter 13, Getting Started with Macros.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T173050Z" creationid="olex" creationdate="20180701T173050Z">
+        <seg>Подробнее о записи макросов смотрите в Главе 13 Начало работы с макросами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14612,6 +14644,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most users will have no need to use this.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T173156Z" creationid="olex" creationdate="20180701T173156Z">
+        <seg>У большинства пользователей нет необходимости использовать это.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mouse positioning</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T171737Z" creationid="olex" creationdate="20180627T171737Z">
@@ -15642,6 +15682,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T152921Z" creationid="olex" creationdate="20180623T152921Z">
         <seg>Настройки онлайн-обновления</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only actions relating to document contents are recordable, so changes in Options or customizing menus are not supported.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T173011Z" creationid="olex" creationdate="20180701T173011Z">
+        <seg>Можно записывать только действия, относящиеся к содержимому документа, а изменения в настройках или настройках меню не поддерживаются.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19774,6 +19822,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Basic IDE Options are available after &lt;f0&gt;Enable experimental features&lt;/f0&gt; has been selected on the Advanced page of the Options dialog and the options have been saved.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T173918Z" creationid="olex" creationdate="20180701T173918Z">
+        <seg>Основные параметры IDE доступны после &lt;f0&gt; Включить экспериментальные функции &lt;/ f0&gt; на странице «Дополнительно» диалогового окна «Параметры», и параметры были сохранены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Calc Fill tool is used to duplicate existing content or create a series in a range of cells in your spreadsheet (Figure &lt;t0&gt;22&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T141142Z" creationid="olex" creationdate="20180414T140002Z">
@@ -19874,6 +19930,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T175718Z" creationid="tagezi" creationdate="20180320T175718Z">
         <seg>На вкладке События показано, что событию был назначен макрос.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Expert Configuration dialog lets you access, edit, and save configuration preferences that can turn the user profile of LibreOffice unstable, inconsistent, or even unusable.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T173813Z" creationid="olex" creationdate="20180701T173813Z">
+        <seg>Диалоговое окно Экспертные настройки позволяет вам получать доступ, редактировать и сохранять настройки конфигурации, которые могут привести к нестабильной работе  LibreOffice или полной неработоспособности программы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21237,6 +21301,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T192824Z" creationid="olex" creationdate="20180604T192824Z">
         <seg>На линейках также показаны поля страницы в области рисования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The page offers detailed configuration options for many aspects of LibreOffice’s appearance and performance.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T173422Z" creationid="olex" creationdate="20180701T173422Z">
+        <seg>В окне представлены подробные параметры конфигурации для многих аспектов внешнего вида и производительности LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
