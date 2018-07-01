@@ -7751,6 +7751,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Basic IDE Options dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T174549Z" creationid="olex" creationdate="20180701T174549Z">
+        <seg>Рисунок &lt;seq0&gt;18&lt;/seq0&gt;: Диалоговое окно Параметры IDE Basic </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Split screen window borders</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T172723Z" creationid="olex" creationdate="20180409T172723Z">
@@ -15541,6 +15549,15 @@ denkin: не понял? чего не видно?</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: нет такой страницы в Параметрах</note>
+      <tuv lang="EN-US">
+        <seg>On the &lt;f0&gt;LibreOffice – Online Update&lt;/f0&gt; page (Figure &lt;t1&gt;19&lt;/t1&gt;), you can choose whether and how often to have the program check the LibreOffice website for program updates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T175013Z" creationid="olex" creationdate="20180701T174806Z">
+        <seg>На странице &lt;f0&gt;LibreOffice - Обновление по сети&lt;/ f0&gt; (Рисунок &lt;t1&gt;19&lt;/t1&gt;) вы можете выбрать, когда и как часто проверять веб-сайт LibreOffice на наличие обновлений программы.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>On the &lt;f0&gt;LibreOffice – Paths&lt;/f0&gt; page, you can change the &lt;i1/&gt;location of files associated with, or used by, LibreOffice to suit your working situation.</seg>
       </tuv>
@@ -15677,11 +15694,12 @@ denkin: не понял? чего не видно?</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: нет такой страницы в Параметрах</note>
       <tuv lang="EN-US">
         <seg>Online update options</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180623T152921Z" creationid="olex" creationdate="20180623T152921Z">
-        <seg>Настройки онлайн-обновления</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T174844Z" creationid="olex" creationdate="20180623T152921Z">
+        <seg>Настройки обновления по сети</seg>
       </tuv>
     </tu>
     <tu>
@@ -19824,8 +19842,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The Basic IDE Options are available after &lt;f0&gt;Enable experimental features&lt;/f0&gt; has been selected on the Advanced page of the Options dialog and the options have been saved.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180701T173918Z" creationid="olex" creationdate="20180701T173918Z">
-        <seg>Основные параметры IDE доступны после &lt;f0&gt; Включить экспериментальные функции &lt;/ f0&gt; на странице «Дополнительно» диалогового окна «Параметры», и параметры были сохранены.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T174419Z" creationid="olex" creationdate="20180701T173918Z">
+        <seg>Основные параметры IDE станут доступны после &lt;f0&gt;Включения экспериментальных возможностей&lt;/f0&gt; на странице Расширенные возможности диалогового окна Параметры, и после сохранения этой настройки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21887,6 +21905,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T181241Z" creationid="olex" creationdate="20180621T181155Z">
         <seg>Эти функции объясняются в руководстве пользователя далее для каждого модуля LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These options are for macro programmers and are not discussed here.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T174505Z" creationid="olex" creationdate="20180701T174505Z">
+        <seg>Эти параметры предназначены для написания макросов и здесь не обсуждаются.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27191,6 +27217,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180001Z" creationid="olex" creationdate="20180308T175911Z">
         <seg>изменение с помощью диалогового окна Стиль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>check for updates automatically</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T174659Z" creationid="olex" creationdate="20180701T174659Z">
+        <seg>проверять наличие обновлений автоматически</seg>
       </tuv>
     </tu>
     <tu>
