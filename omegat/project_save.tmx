@@ -2884,6 +2884,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T172347Z" creationid="olex" creationdate="20180701T172217Z">
+        <seg>Продвинутые</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T152724Z" creationid="olex" creationdate="20180623T152724Z">
@@ -7110,6 +7118,22 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable &lt;i0/&gt;experimental features</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T172421Z" creationid="olex" creationdate="20180701T172421Z">
+        <seg>Включить экспериментальные возможности (нестабильны)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable macro recording (limited)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T172743Z" creationid="olex" creationdate="20180701T172743Z">
+        <seg>Включить запись макросов (ограничено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enables and disables anti-aliasing, which makes the display of most graphical objects look smoother and with fewer artifacts.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T174126Z" creationid="olex" creationdate="20180627T174126Z">
@@ -7681,8 +7705,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Choosing a Java runtime environment</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180701T171219Z" creationid="olex" creationdate="20180701T171219Z">
-        <seg>Рисунок &lt;seq0&gt;17&lt;/seq0&gt;: Выбор среды выполнения Java</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T171929Z" creationid="olex" creationdate="20180701T171219Z">
+        <seg>Рисунок &lt;seq0&gt;17&lt;/seq0&gt;: Выбор виртуальной машины Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -11623,8 +11647,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If you install or update a Java Runtime Environment (JRE) after you install LibreOffice, or if you have more than one JRE installed on your computer, you can use the &lt;f0&gt;LibreOffice – Advanced options&lt;/f0&gt; page to choose the JRE for LibreOffice to use.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180701T171025Z" creationid="olex" creationdate="20180701T171025Z">
-        <seg>Если вы устанавливаете или обновляете среду выполнения Java (JRE) после установки LibreOffice, или если на вашем компьютере установлено несколько JRE, то вы можете использовать страницу &lt;f0&gt;LibreOffice - Расширенные возможности&lt;/f0&gt;, чтобы выбрать версию JRE для использования в LibreOffice.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T171909Z" creationid="olex" creationdate="20180701T171025Z">
+        <seg>Если вы устанавливаете или обновляете виртуальную машину Java (JRE) после установки LibreOffice, или если на вашем компьютере установлено несколько JRE, то вы можете использовать страницу &lt;f0&gt;LibreOffice - Расширенные возможности&lt;/f0&gt;, чтобы выбрать версию JRE для использования в LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13137,8 +13161,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>JRE (Java Runtime Environment)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180701T171605Z" creationid="olex" creationdate="20180701T171605Z">
-        <seg>JRE (Java Runtime Environment - среда выполнения Java)</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T171956Z" creationid="olex" creationdate="20180701T171605Z">
+        <seg>JRE (Java Runtime Environment - виртуальная машина Java)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15894,6 +15918,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Opening a window, switching between windows, and recording in a different window to that in which the recording began, are not supported.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T172911Z" creationid="olex" creationdate="20180701T172911Z">
+        <seg>Открытие окна, переключение между окнами и запись в другом окне, не в том в котором началась запись, не поддерживаются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Opening an existing document before starting LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T194942Z" creationid="olex" creationdate="20180607T194942Z">
@@ -15986,6 +16018,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T191208Z" creationid="olex" creationdate="20180604T191208Z">
         <seg>Открывает навигатор рисунка, в котором вы можете быстро перемещаться между страницами в файле или выбирать объект на рисунке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optional (unstable) options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T172307Z" creationid="olex" creationdate="20180701T172054Z">
+        <seg>Дополнительные возможности</seg>
       </tuv>
     </tu>
     <tu>
@@ -18482,6 +18522,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selecting this option enables features that are not yet complete or contain known bugs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T172615Z" creationid="olex" creationdate="20180701T172615Z">
+        <seg>Выбор этого параметра включает функции, которые еще не закончены или содержат известные ошибки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selecting&lt;i0/&gt; columns and rows</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T205345Z" creationid="olex" creationdate="20180404T205345Z">
@@ -20862,6 +20910,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The list of these features is different version by version.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T172633Z" creationid="olex" creationdate="20180701T172633Z">
+        <seg>Список этих функций отличается от версии к версии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The list shows the names of existing custom styles of the selected type.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203316Z" creationid="olex" creationdate="20180309T203316Z">
@@ -22171,6 +22227,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T190603Z" creationid="olex" creationdate="20180617T190603Z">
         <seg>Откроется диалоговое окно Задать пароль, в котором вы можете ввести новый пароль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This option enables macro recording, with some limitations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T172813Z" creationid="olex" creationdate="20180701T172813Z">
+        <seg>Эта опция позволяет выполнять запись макросов с некоторыми ограничениями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26533,8 +26597,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can then select the &lt;f0&gt;Use a &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Java runtime environment&lt;/f2&gt; option and (if necessary) choose one of the JREs listed.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180701T171821Z" creationid="olex" creationdate="20180701T171712Z">
-        <seg>Затем вы сможете выбрать опцию &lt;f0&gt;Использовать&lt;/f0&gt;&lt;i1/&gt; &lt;f2&gt;виртуальную машину Java&lt;/f2&gt; и (при необходимости) выбрать один из перечисленных JRE.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T172013Z" creationid="olex" creationdate="20180701T171712Z">
+        <seg>Затем вы сможете выбрать опцию &lt;f0&gt;Использовать&lt;/f0&gt;&lt;i1/&gt; &lt;f2&gt;виртуальную машину Java&lt;/f2&gt; и (при необходимости) выбрать одну из перечисленных JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27403,6 +27467,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>experimental features</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T172151Z" creationid="olex" creationdate="20180701T172151Z">
+        <seg>экспериментальные возможности</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>exporting</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T185820Z" creationid="olex" creationdate="20180315T185820Z">
@@ -27687,6 +27759,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T205003Z" creationid="tagezi" creationdate="20180310T205003Z">
         <seg>Эквивалент для macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>macro recording</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T172717Z" creationid="olex" creationdate="20180701T172717Z">
+        <seg>запись макросов</seg>
       </tuv>
     </tu>
     <tu>
