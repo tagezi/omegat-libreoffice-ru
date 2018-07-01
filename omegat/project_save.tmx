@@ -3084,6 +3084,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow use of OpenCL</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T180334Z" creationid="olex" creationdate="20180701T180334Z">
+        <seg>Разрешить OpenCL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allows you to optionally select a Time Stamping Authority (TSA) URL for PDF documents created by LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T184553Z" creationid="olex" creationdate="20180628T184553Z">
@@ -5362,6 +5370,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Edit&lt;/f0&gt;, &lt;f1&gt;Add...&lt;/f1&gt; and &lt;f2&gt;Delete&lt;/f2&gt; buttons to modify the lists entries.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T180720Z" creationid="olex" creationdate="20180701T180720Z">
+        <seg>Нажмите кнопки &lt;f0&gt;Изменить&lt;/f0&gt;, &lt;f1&gt;Добавить...&lt;/f1&gt; и &lt;f2&gt;Удалить&lt;/f2&gt;, чтобы редактировать списки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;f0&gt;Expert Configuration&lt;/f0&gt; button to open a new window in which you can fine-tune the LibreOffice installation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T173306Z" creationid="olex" creationdate="20180701T173306Z">
@@ -5494,6 +5510,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T181957Z" creationid="olex" creationdate="20180621T181525Z">
         <seg>Нажмите маленький треугольник справа от значка &lt;f3&gt;Отменить&lt;/f3&gt;, чтобы посмотреть список всех действий, которые можно отменить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click this icon to open a dialog where you can choose to download the update.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T175146Z" creationid="olex" creationdate="20180701T175146Z">
+        <seg>Нажмите этот значок, чтобы открыть диалоговое окно, в котором вы сможете загрузить обновление.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7775,6 +7799,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Online update options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T175547Z" creationid="olex" creationdate="20180701T175547Z">
+        <seg>Рисунок &lt;seq0&gt;19&lt;/seq0&gt;: Настройки обновления по сети</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: An empty formula document in Math</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T205538Z" creationid="User" creationdate="20180307T205538Z">
@@ -7837,6 +7869,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180319T210844Z" creationid="olex" creationdate="20180307T210919Z">
         <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: Окно Стили в Writer, показаны стили абзаца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: OpenCL options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T180734Z" creationid="olex" creationdate="20180701T180734Z">
+        <seg>Рисунок &lt;seq0&gt;20&lt;/seq0&gt;: Параметры OpenCL</seg>
       </tuv>
     </tu>
     <tu>
@@ -11260,6 +11300,30 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the &lt;f0&gt;Send OS version &amp; simple hardware info&lt;/f0&gt; option is selected, the information of the computer architecture and operating system will be sent to the server for statistics collection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T175520Z" creationid="olex" creationdate="20180701T175520Z">
+        <seg>Если выбрана опция &lt;f0&gt;Отправить версию ОС и упрощенную информацию про оборудование&lt;/f0&gt;, то информация о компьютерной архитектуре и операционной системе будет отправлена на сервер для сбора статистики.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the &lt;i0/&gt;&lt;f1&gt;Download updates automatically&lt;/f1&gt; option is selected, the download starts when you click the icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T175311Z" creationid="olex" creationdate="20180701T175311Z">
+        <seg>Если выбрана опция &lt;i0/&gt;&lt;f1&gt;Загружать обновления автоматически&lt;/f1&gt;, то загрузка обновлений начнется, когда вы нажимаете значок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the &lt;i2/&gt;&lt;f3&gt;Check for updates automatically&lt;/f3&gt; option is selected, an icon appears at the right-hand end of the menu bar when an update is available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T175126Z" creationid="olex" creationdate="20180701T175126Z">
+        <seg>Если выбрана опция &lt;i2/&gt;&lt;f3&gt;Проверить наличие обновлений&lt;/f3&gt;, то в правом конце строки меню появляется значок, если доступно обновление.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the AutoUpdate option is selected on the Organizer page of the Paragraph Style or Frame Style dialog, applying direct formatting to a paragraph or frame using this style in your document automatically updates the style itself.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T192659Z" creationid="olex" creationdate="20180309T192517Z">
@@ -13336,6 +13400,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Let LibreOffice use the video card GPU to perform numerical calculation with great speed gain.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T180417Z" creationid="olex" creationdate="20180701T180417Z">
+        <seg>Пусть LibreOffice использует процессор видеокарты для выполнения численного расчета с большим коэффициентом усиления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice (for all components)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135031Z" creationid="tagezi" creationdate="20180320T135031Z">
@@ -14318,6 +14390,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T192316Z" creationid="olex" creationdate="20180402T192316Z">
         <seg>Отметьте флажок &lt;f0&gt;Выделение&lt;/f0&gt; в диалоговом окне &lt;f1&gt;Экспорт&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mark this box to emulate OpenCL if your computer video card driver does not support OpenCL.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T180252Z" creationid="olex" creationdate="20180701T180252Z">
+        <seg>Отметьте этот флажок, чтобы эмулировать OpenCL, если драйвер видеокарты вашего компьютера не поддерживает OpenCL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15553,8 +15633,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>On the &lt;f0&gt;LibreOffice – Online Update&lt;/f0&gt; page (Figure &lt;t1&gt;19&lt;/t1&gt;), you can choose whether and how often to have the program check the LibreOffice website for program updates.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180701T175013Z" creationid="olex" creationdate="20180701T174806Z">
-        <seg>На странице &lt;f0&gt;LibreOffice - Обновление по сети&lt;/ f0&gt; (Рисунок &lt;t1&gt;19&lt;/t1&gt;) вы можете выбрать, когда и как часто проверять веб-сайт LibreOffice на наличие обновлений программы.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T175648Z" creationid="olex" creationdate="20180701T174806Z">
+        <seg>На странице &lt;f0&gt;LibreOffice - Обновление по сети&lt;/f0&gt; (Рисунок &lt;t1&gt;19&lt;/t1&gt;) вы можете выбрать, когда и как часто проверять веб-сайт LibreOffice на наличие обновлений программы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15884,6 +15964,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="mikek" changedate="20180307T122847Z" creationid="mikek" creationdate="20180307T122847Z">
         <seg>Открыть боковую панель стилей и форматирования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenCL (Open Computing Language) is a software architecture used to write programs that run in different processors of the computer, such as the CPU and GPU (graphics processing unit) of the video card.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T175900Z" creationid="olex" creationdate="20180701T175900Z">
+        <seg>OpenCL (Open Computing Language) - это программная архитектура, используемая для записи программ, работающих на разных процессорах компьютера, таких как центральный процессор (CPU) и графический процессор видеокарты (GPU).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenCL Options - Allow use of Software Interpreter (even when OpenCL is not available)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T180206Z" creationid="olex" creationdate="20180701T180206Z">
+        <seg>Параметры OpenCL - Разрешить интерпретатор (даже когда OpenCL недоступен)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20424,6 +20520,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The computer video card driver must have support for OpenCL to use this feature.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T180307Z" creationid="olex" creationdate="20180701T180110Z">
+        <seg>Для использования этой функции драйвер видеокарты вашего компьютера должен иметь поддержку OpenCL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The connection between the template and the document remains until the template is modified and, the next time that the document is opened, you choose not to update it to match the template.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T203558Z" creationid="olex" creationdate="20180310T203321Z">
@@ -21660,6 +21764,15 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
     </tu>
     <tu>
+      <note>denkin: у меня не включется OpenCL и не показывает никаких списков - переводил буквально - что написано, без проверки</note>
+      <tuv lang="EN-US">
+        <seg>The two boxes below list the OpenCL drivers whitelist and blacklist.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T180629Z" creationid="olex" creationdate="20180701T180542Z">
+        <seg>Два приведенных ниже списка показывают белый список драйверов OpenCL и черный список.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>The two names can be different but this may later cause confusion.</seg>
       </tuv>
@@ -22695,6 +22808,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T185655Z" creationid="olex" creationdate="20180330T182848Z">
         <seg>Чтобы изменить имя листа (по умолчанию это Лист1, Лист2 и т. д.), щелкните правой кнопкой мыши на вкладке и выберите в контекстном меню &lt;f0&gt;Переименовать лист&lt;/f0&gt; или дважды щелкните по вкладке, чтобы открыть диалоговое окно и ввести новое имя для листа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the download destination, click the &lt;f2&gt;Change&lt;/f2&gt; button and select the required folder in the file browser window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T175406Z" creationid="olex" creationdate="20180701T175406Z">
+        <seg>Чтобы изменить место назначения загрузки, нажмите кнопку &lt;f2&gt;Изменить&lt;/f2&gt; и выберите нужную папку в окне менеджера файлов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25672,6 +25793,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With OpenCL enabled, LibreOffice can benefit from the very fast numerical calculations performed in the GPU, which is especially useful in very large spreadsheets with extensive calculations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T180024Z" creationid="olex" creationdate="20180701T180024Z">
+        <seg>С включенным OpenCL LibreOffice может производить очень быстрые численные вычисления, выполненные в графическом процессоре, что особенно полезно в очень больших электронных таблицах с обширными вычислениями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With its open source software license, LibreOffice is key in the drive to provide an office suite that is available to anyone, anywhere, for commercial or personal use.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T200558Z" creationid="lera" creationdate="20180303T200501Z">
@@ -27513,6 +27642,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T163532Z" creationid="olex" creationdate="20180624T163516Z">
         <seg>параметр состояние документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>download updates automatically</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180701T175218Z" creationid="olex" creationdate="20180701T175218Z">
+        <seg>загружать обновления автоматически</seg>
       </tuv>
     </tu>
     <tu>
