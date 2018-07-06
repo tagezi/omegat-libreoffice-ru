@@ -5466,6 +5466,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the expansion symbol (+ or triangle) to the left of &lt;f1&gt;Load/Save&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180706T175027Z" creationid="olex" creationdate="20180706T175027Z">
+        <seg>Нажмите символ раскрытия (+ или треугольник) слева от &lt;f1&gt;Загрузка/сохранение&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the last column or row in the group.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T183858Z" creationid="olex" creationdate="20180405T183858Z">
@@ -7893,6 +7901,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T200121Z" creationid="olex" creationdate="20180412T200121Z">
         <seg>Рисунок &lt;seq0&gt;21&lt;/seq0&gt;: Диалоговое окно Автозамена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Choosing Load and Save options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180706T175353Z" creationid="olex" creationdate="20180706T175353Z">
+        <seg>Рисунок &lt;seq0&gt;21&lt;/seq0&gt;: Выбор параметров загрузки и сохранения</seg>
       </tuv>
     </tu>
     <tu>
@@ -11340,6 +11356,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Options dialog is not already open, click &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180706T174913Z" creationid="olex" creationdate="20180706T174913Z">
+        <seg>Если диалоговое окно Параметры еще не открыто, то нажмите &lt;f0&gt;Сервис &gt; Параметры&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Pages pane is not visible, go to &lt;f1&gt;View&lt;/f1&gt; on the Menu bar and select &lt;f2&gt;Page Pane&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T181348Z" creationid="olex" creationdate="20180603T181348Z">
@@ -13402,8 +13426,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Let LibreOffice use the video card GPU to perform numerical calculation with great speed gain.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180701T180417Z" creationid="olex" creationdate="20180701T180417Z">
-        <seg>Пусть LibreOffice использует процессор видеокарты для выполнения численного расчета с большим коэффициентом усиления.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180706T174650Z" creationid="olex" creationdate="20180701T180417Z">
+        <seg>Пусть LibreOffice использует процессор видеокарты для выполнения числового расчета с большим коэффициентом усиления.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14680,6 +14704,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T190357Z" creationid="olex" creationdate="20180312T220411Z">
         <seg>Большинство настроек по умолчанию, таких как размер страницы и поля страницы, можно изменить в &lt;f0&gt;Стили &gt; Управление стилями&lt;/f0&gt;, но эти изменения относятся только к документу, над которым вы работаете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most of the choices on the &lt;f0&gt;Load/Save – General&lt;/f0&gt; page are familiar to users of other office suites.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180706T175201Z" creationid="olex" creationdate="20180706T175201Z">
+        <seg>Большинство вариантов на странице &lt;f0&gt;Загрузка/сохранение - Общие&lt;/f0&gt; знакомы пользователям других офисных наборов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19088,6 +19120,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T154134Z" creationid="tagezi" creationdate="20180310T154134Z">
         <seg>Некоторые диалоговые окна могут быть оставлены открытыми во время работы с документом, так что вы можете переключаться между ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some items of interest are described below.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180706T175321Z" creationid="olex" creationdate="20180706T175321Z">
+        <seg>Ниже представлены некоторые важные элементы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25795,8 +25835,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>With OpenCL enabled, LibreOffice can benefit from the very fast numerical calculations performed in the GPU, which is especially useful in very large spreadsheets with extensive calculations.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180701T180024Z" creationid="olex" creationdate="20180701T180024Z">
-        <seg>С включенным OpenCL LibreOffice может производить очень быстрые численные вычисления, выполненные в графическом процессоре, что особенно полезно в очень больших электронных таблицах с обширными вычислениями.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180706T174631Z" creationid="olex" creationdate="20180701T180024Z">
+        <seg>С включенным OpenCL LibreOffice может производить очень быстрые числовые вычисления, выполненные в графическом процессоре, что особенно полезно в очень больших электронных таблицах с обширными вычислениями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26770,6 +26810,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T191053Z" creationid="olex" creationdate="20180313T191053Z">
         <seg>Любой шаблон, который видите в диалоговом окне Шаблоны, вы можете установить шаблоном по умолчанию для этого типа документов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can set the options for loading and saving documents to suit the way you work.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180706T174814Z" creationid="olex" creationdate="20180706T174814Z">
+        <seg>Вы можете установить параметры для загрузки и сохранения документов в соответствии с тем, как вы работаете.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28794,6 +28842,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T204844Z" creationid="tagezi" creationdate="20180310T204844Z">
         <seg>пользовательский интерфейс, части</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>user-specific settings</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180706T175431Z" creationid="olex" creationdate="20180706T175431Z">
+        <seg>пользовательские настройки</seg>
       </tuv>
     </tu>
     <tu>
