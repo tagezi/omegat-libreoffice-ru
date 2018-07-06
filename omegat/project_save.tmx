@@ -2195,6 +2195,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A LibreOffice document contains certain settings that are read from the user’s system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180706T175747Z" creationid="olex" creationdate="20180706T175708Z">
+        <seg>Документ LibreOffice содержит определенные параметры, которые считываются из пользовательских настроек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Mac operating system does not have this function; instead, you need to use to &lt;f0&gt;LibreOffice &gt; Quit LibreOffice&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T184424Z" creationid="olex" creationdate="20180621T184424Z">
@@ -7339,6 +7347,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T183128Z" creationid="tagezi" creationdate="20180320T183128Z">
         <seg>Даже двойное нажатие на графическом элементе открывает диалоговое окно со вкладкой Макросы, позволяющий назначать макрос событию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even if you do not select this option, some settings are taken from your LibreOffice installation:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180706T180104Z" creationid="olex" creationdate="20180706T180104Z">
+        <seg>Даже если вы не выберите этот параметр, некоторые настройки берутся из настроек вашего LibreOffice:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14066,6 +14082,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Load user-specific settings with the document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180706T175506Z" creationid="olex" creationdate="20180706T175506Z">
+        <seg>Загружать с документом пользовательские настройки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Localized options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T195619Z" creationid="olex" creationdate="20180326T192530Z">
@@ -18620,6 +18644,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select this option so that when a document loads, it ignores the stored settings in favor of the settings on your computer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180706T175930Z" creationid="olex" creationdate="20180706T175930Z">
+        <seg>Выберите этот параметр, чтобы при загрузке документа игнорировались эти сохраненные настройки в пользу настроек на вашем компьютере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select this option to always remove user data from the file properties when saving the file.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T145724Z" creationid="olex" creationdate="20180630T145656Z">
@@ -18840,6 +18872,15 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T151238Z" creationid="olex" creationdate="20180623T151238Z">
         <seg>Настройка LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>denkin: пока точно не выяснил - какой именно пункт в окне печать имеется ввиду</note>
+      <tuv lang="EN-US">
+        <seg>Settings available in &lt;f0&gt;File &gt; Print &gt; Options&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180706T180529Z" creationid="olex" creationdate="20180706T180154Z">
+        <seg>Настройки доступные в &lt;f0&gt;Файл &gt; Печать... &gt; Параметры&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25645,6 +25686,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T223542Z" creationid="olex" creationdate="20180407T223542Z">
         <seg>При перемещении или копировании листа в другую электронную таблицу или новую таблицу могут возникнуть проблемы с формулами, ссылающимися на другие листы в предыдущем файле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you save a document, these settings are saved with it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180706T175735Z" creationid="olex" creationdate="20180706T175735Z">
+        <seg>Когда вы сохраняете документ, то эти настройки сохраняются вместе с ним.</seg>
       </tuv>
     </tu>
     <tu>
