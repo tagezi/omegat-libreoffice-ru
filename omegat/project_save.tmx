@@ -2587,6 +2587,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A relative address always starts from the directory in which the current document is located.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T175821Z" creationid="olex" creationdate="20180707T175641Z">
+        <seg>Относительная ссылка всегда начинается с каталога, в котором находится текущий документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A repository can be local (a directory on your computer to which you have downloaded templates) or remote (a URL from which you can download templates).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T200815Z" creationid="olex" creationdate="20180311T195019Z">
@@ -6220,6 +6228,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default file format and ODF settings</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T181107Z" creationid="olex" creationdate="20180707T181107Z">
+        <seg>Формат файла по умолчанию и настройки ODF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Defines dispatcher as an object variable.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T041237Z" creationid="tagezi" creationdate="20180316T041237Z">
@@ -7487,6 +7503,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examples</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T175932Z" creationid="olex" creationdate="20180707T175932Z">
+        <seg>Примеры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples of style use</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195616Z" creationid="olex" creationdate="20180306T195616Z">
@@ -8590,6 +8614,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153248Z" creationid="User" creationdate="20180311T153248Z">
         <seg>Форматы файлов для формул</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File system</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T175939Z" creationid="olex" creationdate="20180707T175939Z">
+        <seg>Файловая система</seg>
       </tuv>
     </tu>
     <tu>
@@ -11740,6 +11772,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you choose to save relatively, the references to embedded graphics or other objects in your document will be saved relative to the location in the file system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T180349Z" creationid="olex" creationdate="20180707T180349Z">
+        <seg>Если вы решите сохранять относительно, то ссылки на встроенную графику или другие объекты в вашем документе будут сохранены относительно местоположения в файловой системе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you create a document by choosing &lt;f0&gt;File &gt; New &gt; Text Document&lt;/f0&gt; (or &lt;f1&gt;Spreadsheet&lt;/f1&gt;, &lt;f2&gt;Presentation&lt;/f2&gt;, or &lt;f3&gt;Drawing&lt;/f3&gt;) from the Menu bar, LibreOffice creates the document from the default template for that type of document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T212639Z" creationid="olex" creationdate="20180312T212639Z">
@@ -11921,6 +11961,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T182940Z" creationid="olex" creationdate="20180402T181033Z">
         <seg>Если вам нужно обмениваться файлами с пользователями, которые не могут открывать файлы электронных таблиц в Open Document Format (ODF) (&lt;f0&gt;*.ods&lt;/f0&gt;), который Calc использует как формат по умолчанию, то вы можете сохранить электронную таблицу в другом формате ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you prefer absolute saving, all references to other files will also be defined as absolute, based on the respective drive, volume or root directory.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T180910Z" creationid="olex" creationdate="20180707T180910Z">
+        <seg>Если вы предпочитаете абсолютные пути, то все ссылки на другие файлы также будут определены как абсолютные, на основе соответствующего диска, тома или корневого каталога.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12533,6 +12581,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In contrast, absolute addressing always starts from a root directory.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T175805Z" creationid="olex" creationdate="20180707T175711Z">
+        <seg>Напротив, абсолютная ссылка всегда начинается с корневого каталога.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In contrast, style formatting is a modern way to let computers format documents much more efficiently and reduce the time spent in direct formatting.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T183604Z" creationid="olex" creationdate="20180306T183604Z">
@@ -12845,6 +12901,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case, it does not matter where the referenced directory structure is recorded.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T180407Z" creationid="olex" creationdate="20180707T180407Z">
+        <seg>В этом случае не имеет значения, где записывается ссылка на структуру каталогов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this example, there is only one value, and it is numbered zero.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T082734Z" creationid="tagezi" creationdate="20180315T212006Z">
@@ -13047,6 +13111,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Internet</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T175943Z" creationid="olex" creationdate="20180707T175943Z">
+        <seg>Интернет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introducing LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T192034Z" creationid="olex" creationdate="20180607T192034Z">
@@ -13203,6 +13275,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T193508Z" creationid="olex" creationdate="20180329T193508Z">
         <seg>Это смесь панели инструментов и диалоговых окон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is also recommended to save relatively if you want to create a directory structure on an Internet server.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T180838Z" creationid="olex" creationdate="20180707T180838Z">
+        <seg>Рекомендуется также использовать относительные пути, если вы хотите создать структуру каталогов на интернет-сервере.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15638,6 +15718,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ODF format version, saving</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T181251Z" creationid="olex" creationdate="20180707T181251Z">
+        <seg>Версия формата ODF, сохранение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Object information</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T174032Z" creationid="olex" creationdate="20180616T174032Z">
@@ -17187,8 +17275,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Relative addressing is only possible if the source document and the referenced document are both on the same drive.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180707T175621Z" creationid="olex" creationdate="20180707T175621Z">
-        <seg>Относительные адреса возможны только в том случае, если исходный документ и документ к которому ведет ссылка находятся на одном диске.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T175842Z" creationid="olex" creationdate="20180707T175621Z">
+        <seg>Относительные ссылки возможны только в том случае, если исходный документ и документ к которому ведет ссылка находятся на одном диске.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20681,6 +20769,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The advantage is that the document containing the references can be moved to other directories or folders, and the references remain valid.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T180949Z" creationid="olex" creationdate="20180707T180949Z">
+        <seg>Преимущество будет в том, что документ, содержащий ссылки, может быть перемещен в другие каталоги или папки, и ссылки остаются в силе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The answers will determine where to store the macro and how to make it available.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134847Z" creationid="tagezi" creationdate="20180320T134847Z">
@@ -21073,6 +21169,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The files will be found regardless of location, as long as the reference remains on the same drive or volume.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T180723Z" creationid="olex" creationdate="20180707T180723Z">
+        <seg>Файлы будут найдены независимо от их местоположения, если документ остается на том же диске или томе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first column in the table should contain a numeric value, the second column the name, and the third column the description.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T203124Z" creationid="tagezi" creationdate="20180318T203124Z">
@@ -21149,6 +21253,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T173533Z" creationid="olex" creationdate="20180707T165336Z">
         <seg>Следующая настройка &lt;f0&gt;всегда&lt;/f0&gt;, загружается с документом, независимо от того, отмечена эта опция или нет:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following table demonstrates the difference in syntax between relative and absolute referencing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T175754Z" creationid="olex" creationdate="20180707T175754Z">
+        <seg>Следующая таблица показывает разницу в синтаксисе между относительной и абсолютной ссылкой.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22638,6 +22750,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T052203Z" creationid="tagezi" creationdate="20180321T052203Z">
         <seg>Это чрезвычайно важно для роста экосистемы LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is important if you want to make the document available to other computers that may have a completely different directory structure, drive or volume names.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T180806Z" creationid="olex" creationdate="20180707T180806Z">
+        <seg>Это важно, если вы хотите сделать документ доступным для других компьютеров, которые могут иметь совершенно другую структуру каталогов, имена дисков или томов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27591,6 +27711,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>absolute</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T180040Z" creationid="olex" creationdate="20180707T180040Z">
+        <seg>абсолютная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>accessibility options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T153212Z" creationid="olex" creationdate="20180630T153212Z">
@@ -27883,6 +28011,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T180141Z" creationid="olex" creationdate="20180329T193709Z">
         <seg>вкладки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>default file format</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T181028Z" creationid="olex" creationdate="20180707T181028Z">
+        <seg>формат файла по умолчанию</seg>
       </tuv>
     </tu>
     <tu>
@@ -28635,6 +28771,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T181658Z" creationid="tagezi" creationdate="20180312T181658Z">
         <seg>запись</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>relative</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T180001Z" creationid="olex" creationdate="20180707T180001Z">
+        <seg>относительная</seg>
       </tuv>
     </tu>
     <tu>
