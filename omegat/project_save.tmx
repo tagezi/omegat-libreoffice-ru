@@ -11764,6 +11764,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are importing a Microsoft Word or Excel file containing VBA code, you can select the option &lt;f0&gt;Executable code&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T184444Z" creationid="olex" creationdate="20180707T184444Z">
+        <seg>Если вы импортируете файл Microsoft Word или Excel, содержащий код VBA, то вы можете выбрать опцию &lt;f0&gt;Исполняемый код&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are in the habit of manually overriding styles in your document, be sure that AutoUpdate is &lt;f0&gt;not &lt;/f0&gt;enabled.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T193230Z" creationid="olex" creationdate="20180309T193230Z">
@@ -11816,6 +11824,22 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T194217Z" creationid="olex" creationdate="20180311T194217Z">
         <seg>Если вы выберете &lt;f0&gt;Сохранить старые стили&lt;/f0&gt;, документ больше не будет связан с шаблоном, хотя шаблон все еще будет указан в свойствах файла &lt;f1&gt;Файл &gt; Свойства &gt; Общие.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you choose &lt;i0/&gt;&lt;f1&gt;Load Basic code&lt;/f1&gt;, you can edit the macros in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T184107Z" creationid="olex" creationdate="20180707T184107Z">
+        <seg>Если вы выбрали &lt;i0/&gt;&lt;f1&gt;загрузить код Basic&lt;/f1&gt;, то вы можете редактировать макросы LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you choose &lt;i0/&gt;&lt;f1&gt;Save original Basic code&lt;/f1&gt;, the macros will not work in LibreOffice but are retained unchanged if you save the file into Microsoft Office format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T184325Z" creationid="olex" creationdate="20180707T184236Z">
+        <seg>Если вы выберете &lt;i0/&gt;&lt;f1&gt;Сохранять исходный код Basic&lt;/f1&gt;, то макросы не будут работать в LibreOffice, но сохраняются без изменений, если вы сохраните файл в формате Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20921,6 +20945,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The changed code is saved in an ODF document but is not retained if you save into a Microsoft Office format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T184146Z" creationid="olex" creationdate="20180707T184146Z">
+        <seg>Измененный код сохраняется в документе ODF, но не сохраняется при сохранении в формате Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The check mark to the right of the &lt;f0&gt;Replace with&lt;/f0&gt; box turns green.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T181114Z" creationid="olex" creationdate="20180628T181114Z">
@@ -26218,6 +26250,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whereas normally the code is preserved but rendered inactive (if you inspect it with the StarBasic IDE you will notice that it is all commented), with this option the code is ready to be executed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T184627Z" creationid="olex" creationdate="20180707T184627Z">
+        <seg>Обычно код сохраняется, но оказывается неактивным (если вы проверите его с помощью StarBasic IDE, вы заметите, что все это прокомментировано), то с этой опцией код готов к выполнению.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While It is not possible to add new themes in Calc, you can modify the theme styles once the theme is applied to the spreadsheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T182437Z" creationid="olex" creationdate="20180430T182437Z">
@@ -28575,6 +28615,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>load Basic code to edit</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T183951Z" creationid="olex" creationdate="20180707T183951Z">
+        <seg>загрузить код Basic для редактирования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>macOS equivalent</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T205003Z" creationid="tagezi" creationdate="20180310T205003Z">
@@ -28995,6 +29043,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T170818Z" creationid="olex" creationdate="20180707T170818Z">
         <seg>информация про Автосохранение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>save original Basic code</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T184215Z" creationid="olex" creationdate="20180707T184215Z">
+        <seg>сохранять исходный код Basic</seg>
       </tuv>
     </tu>
     <tu>
