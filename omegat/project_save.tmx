@@ -17185,6 +17185,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Relative addressing is only possible if the source document and the referenced document are both on the same drive.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T175621Z" creationid="olex" creationdate="20180707T175621Z">
+        <seg>Относительные адреса возможны только в том случае, если исходный документ и документ к которому ведет ссылка находятся на одном диске.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Release the mouse button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T181232Z" creationid="olex" creationdate="20180615T181232Z">
@@ -24754,6 +24762,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T183955Z" creationid="olex" creationdate="20180617T183955Z">
         <seg>Используйте сочетание клавиш &lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use this option to select the default for relative addressing of URLs in the file system and on the Internet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T175515Z" creationid="olex" creationdate="20180707T175515Z">
+        <seg>Используйте эту настройку, чтобы назначить по умолчанию сохранение относительных URL-адресов в файловой системе и в Интернете.</seg>
       </tuv>
     </tu>
     <tu>
