@@ -3760,6 +3760,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authors whose work may be very lengthy should always consider using this option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T173423Z" creationid="olex" creationdate="20180707T173423Z">
+        <seg>Авторы, очень объемных работ, всегда должны использовать эту опцию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AutoCAD Interchange Format (*.dxf)&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064435Z" creationid="tagezi" creationdate="20180305T064435Z">
@@ -7435,6 +7443,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103528Z" creationid="tagezi" creationdate="20180320T103528Z">
         <seg>Каждый контейнер библиотек содержит библиотеку с именем &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every time LibreOffice creates a backup copy, the previous backup copy is replaced.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T173136Z" creationid="olex" creationdate="20180707T173136Z">
+        <seg>Каждый раз, когда LibreOffice создает резервную копию, заменяется предыдущая резервная копия.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17554,6 +17570,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save URLs relative to file system / internet</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T174849Z" creationid="olex" creationdate="20180707T174849Z">
+        <seg>Относительные пути к файлам и интернет-адреса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save command</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T195709Z" creationid="olex" creationdate="20180607T195638Z">
@@ -20689,6 +20713,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The backup copy gets the extension BAK.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T173158Z" creationid="olex" creationdate="20180707T173158Z">
+        <seg>Резервная копия имеет расширение BAK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The basic idea behind open source is very simple: When programmers can read, redistribute, and modify the source code for a piece of software, the software evolves.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T211930Z" creationid="lera" creationdate="20180303T211930Z">
@@ -21107,8 +21139,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The following setting is &lt;f0&gt;always&lt;/f0&gt; loaded with a document, whether or not this option is marked:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180707T165336Z" creationid="olex" creationdate="20180707T165336Z">
-        <seg>Следующая настройка &lt;f0&gt;всегда&lt;/ f0&gt;, загружается с документом, независимо от того, отмечена эта опция или нет:</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T173533Z" creationid="olex" creationdate="20180707T165336Z">
+        <seg>Следующая настройка &lt;f0&gt;всегда&lt;/f0&gt;, загружается с документом, независимо от того, отмечена эта опция или нет:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28691,6 +28723,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T170818Z" creationid="olex" creationdate="20180707T170818Z">
         <seg>информация про Автосохранение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>save relative URLs</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T173828Z" creationid="olex" creationdate="20180707T173828Z">
+        <seg>сохранять относительные пути</seg>
       </tuv>
     </tu>
     <tu>
