@@ -3799,6 +3799,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>AutoRecovery in &lt;i0/&gt;LibreOffice saves the information needed to restore all open documents in case of a crash.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T171118Z" creationid="olex" creationdate="20180707T171118Z">
+        <seg>Автосохранение в &lt;i0/&gt;LibreOffice сохраняет информацию, необходимую для восстановления всех открытых документов в случае сбоя.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: Словари не полные. Там много чего нет.  https://ru.wiktionary.org не плохой словарь, там часто есть толкование и склонение слова</note>
       <tuv lang="EN-US">
         <seg>AutoUpdate</seg>
@@ -7114,6 +7122,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T090609Z" creationid="tagezi" creationdate="20180310T090609Z">
         <seg>Каждый пользователь может выбрать &lt;bk0/&gt;предпочтительный вариант.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit document properties before saving</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T171325Z" creationid="olex" creationdate="20180707T171325Z">
+        <seg>Правка свойств документа перед сохранением</seg>
       </tuv>
     </tu>
     <tu>
@@ -11837,6 +11853,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have this option set, recovering your document after a system crash will be easier.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T171234Z" creationid="olex" creationdate="20180707T171234Z">
+        <seg>Если эта настройка включена, то будет проще восстановить документ после сбоя системы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have to repeatedly enter the same information, you can copy this information after it has been entered into your document for the first time, then paste the information into your document each time you want to use it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T171411Z" creationid="tagezi" creationdate="20180312T182813Z">
@@ -11913,6 +11937,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T184916Z" creationid="olex" creationdate="20180628T183217Z">
         <seg>Если вы выберите параметр &lt;f0&gt;Хранить пароли для веб-подключений&lt;/f0&gt;, то откроется диалоговое окно Задайте мастер-пароль (Рисунок &lt;t1&gt;14&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you select this option, the Document Properties dialog pops up to prompt you to enter relevant information the first time you save a new document (or whenever you use &lt;f0&gt;Save As&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T172535Z" creationid="olex" creationdate="20180707T172535Z">
+        <seg>Если вы выберете эту настройку, то появится диалоговое окно «Свойства документа», чтобы предложить вам ввести соответствующую информацию при первом сохранении нового документа (или всякий раз, когда вы используете &lt;f0&gt; Сохранить как &lt;/ f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27891,6 +27923,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T063827Z" creationid="tagezi" creationdate="20180305T063827Z">
         <seg>Palm Media (.pdb)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>edit document properties before saving</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T171310Z" creationid="olex" creationdate="20180707T171310Z">
+        <seg>правка свойств документа перед сохранением</seg>
       </tuv>
     </tu>
     <tu>
