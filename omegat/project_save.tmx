@@ -1209,6 +1209,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Save original Basic code&lt;/f0&gt; takes precedence over &lt;f1&gt;Load Basic code&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T184832Z" creationid="olex" creationdate="20180707T184832Z">
+        <seg>&lt;f0&gt;Сохранять исходный код Basic&lt;/f0&gt; имеет приоритет над &lt;f1&gt;Загрузить код Basic&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Save&lt;/f0&gt; command – use if you are keeping the document, its current filename and location.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T182539Z" creationid="olex" creationdate="20180617T182130Z">
@@ -11436,6 +11444,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If both options are selected and you edit the disabled code in LibreOffice, the original Microsoft Basic code will be saved when saving in a Microsoft Office format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T184903Z" creationid="olex" creationdate="20180707T184903Z">
+        <seg>Если выбраны оба параметра, и вы редактируете отключенный код в LibreOffice, то исходный код Microsoft Basic будет сохранен при сохранении в формате Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If disabled, your standard printer will be used to print this document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T170702Z" creationid="olex" creationdate="20180707T170535Z">
@@ -14906,6 +14922,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Microsoft Office file conversion</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T185318Z" creationid="olex" creationdate="20180707T185318Z">
+        <seg>Преобразование файлов Microsoft Office</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Microsoft Office uses &lt;f0&gt;Visual Basic for applications&lt;/f0&gt; (VBA) code, and LibreOffice uses &lt;f1&gt;Basic&lt;/f1&gt; code based on the LibreOffice API.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T185107Z" creationid="olex" creationdate="20180327T184942Z">
@@ -16035,6 +16059,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T170857Z" creationid="olex" creationdate="20180628T170857Z">
         <seg>На странице &lt;f0&gt;LibreOffice - Печать&lt;/f0&gt; задайте параметры печати в соответствии с вашим принтером по умолчанию и наиболее распространенным методом печати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the &lt;f0&gt;Load/Save – Microsoft Office&lt;/f0&gt; page (Figure &lt;t1&gt;23&lt;/t1&gt;), you can choose what to do when importing and exporting Microsoft Office OLE objects (linked or embedded objects or documents such as spreadsheets or equations).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T185611Z" creationid="olex" creationdate="20180707T185611Z">
+        <seg>На странице &lt;f0&gt;Microsoft Office&lt;/f0&gt; (Рисунок &lt;t1&gt;23&lt;/t1&gt;) вы можете выбрать, что делать при импорте и экспорте объектов OLE Microsoft Office (связанных или внедренных объектов или документов, таких как как электронные таблицы или уравнения).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18652,6 +18684,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the [L] options to convert Microsoft OLE objects into the corresponding LibreOffice OLE objects when a Microsoft document is loaded into LibreOffice (mnemonic: “L” for “load”).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T190608Z" creationid="olex" creationdate="20180707T190608Z">
+        <seg>Выберите опции [З], чтобы преобразовывать объекты Microsoft OLE в соответствующие объекты OLE LibreOffice, когда документ Microsoft загружается в LibreOffice (мнемоника: «З» - «загрузить»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the category &lt;f0&gt;Relations&lt;/f0&gt; and symbol &lt;f1&gt;Is Similar Or Equal&lt;/f1&gt; using one of the following methods:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T145015Z" creationid="Роман" creationdate="20180320T144728Z">
@@ -21229,6 +21269,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T182902Z" creationid="olex" creationdate="20180621T182902Z">
         <seg>Документ возвратится к состоянию, в котором он был сохранен последний раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The document will be saved without the Microsoft Basic code.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T185033Z" creationid="olex" creationdate="20180707T185033Z">
+        <seg>Документ будет сохранен без кода Microsoft Basic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24036,6 +24084,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T175906Z" creationid="olex" creationdate="20180508T175906Z">
         <seg>Чтобы удалить все определенные диапазоны печати, выберите в меню &lt;f0&gt;Формат &gt; Диапазоны печати &gt; Удалить&lt;/f0&gt;. &lt;f1&gt;&lt;/f1&gt;После того, как диапазоны печати будут удалены, на экране появятся строки разрыва страницы по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To remove any possible macro viruses from the Microsoft Office document, deselect &lt;f0&gt;Save original Basic code&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T184947Z" creationid="olex" creationdate="20180707T184947Z">
+        <seg>Чтобы удалить все возможные макро-вирусы из документа Microsoft Office, снимите флажок &lt;f0&gt;Сохранить исходный код Basic&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
