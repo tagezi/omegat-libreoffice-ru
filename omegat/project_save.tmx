@@ -3271,6 +3271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Always create backup copy</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T172918Z" creationid="olex" creationdate="20180707T172918Z">
+        <seg>Всегда создавать резервную копию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An &lt;i0/&gt;extension is a package that can be installed into LibreOffice to add new functionality.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T183855Z" creationid="tagezi" creationdate="20180320T183855Z">
@@ -11943,8 +11951,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If you select this option, the Document Properties dialog pops up to prompt you to enter relevant information the first time you save a new document (or whenever you use &lt;f0&gt;Save As&lt;/f0&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180707T172535Z" creationid="olex" creationdate="20180707T172535Z">
-        <seg>Если вы выберете эту настройку, то появится диалоговое окно «Свойства документа», чтобы предложить вам ввести соответствующую информацию при первом сохранении нового документа (или всякий раз, когда вы используете &lt;f0&gt; Сохранить как &lt;/ f0&gt;).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T172841Z" creationid="olex" creationdate="20180707T172535Z">
+        <seg>Если вы выберете эту настройку, то будет появляться диалоговое окно Свойства документа, чтобы дать вам ввести соответствующую информацию при первом сохранении каждого нового документа (или всякий раз, когда вы используете &lt;f0&gt;Сохранить как&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17558,6 +17566,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T181209Z" creationid="olex" creationdate="20180402T181209Z">
         <seg>Сохраните файл в формате электронной таблицы Calc (&lt;f0&gt;*.ods&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saves the previous version of a document as a backup copy whenever you save a document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T173030Z" creationid="olex" creationdate="20180707T173030Z">
+        <seg>При сохранении документа сохраняет предыдущую версию документа, как резервную копию.</seg>
       </tuv>
     </tu>
     <tu>
