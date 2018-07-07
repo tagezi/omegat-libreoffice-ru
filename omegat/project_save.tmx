@@ -6140,6 +6140,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data source linked to the document and its view.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T165439Z" creationid="olex" creationdate="20180707T165439Z">
+        <seg>Источник данных, связанный с документом и его видом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Database functions, to arrange, store, and filter data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T182628Z" creationid="olex" creationdate="20180327T182628Z">
@@ -9322,6 +9330,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, your choice (in the options for LibreOffice Writer) of how to update links is affected by the Load user-specific settings option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T165635Z" creationid="olex" creationdate="20180707T165635Z">
+        <seg>Например, ваш выбор того, как обновлять ссылки (в настройках для LibreOffice Writer), зависит от параметра Загружать с документом пользовательские настройки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For full details about themes, visit the Mozilla website: &lt;a6&gt;http&lt;/a6&gt;&lt;a7&gt;s&lt;/a7&gt;&lt;a8&gt;://www.&lt;/a8&gt;&lt;a9&gt;https://addons.mozilla.org/en-US/firefox/themes/&lt;/a9&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T151633Z" creationid="olex" creationdate="20180630T151633Z">
@@ -11284,6 +11300,22 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If disabled, your standard printer will be used to print this document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T170535Z" creationid="olex" creationdate="20180707T170535Z">
+        <seg>Если этот параметр отключен, то для печати этого документа будет использоваться ваш стандартный принтер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If enabled, the printer settings will be loaded with the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T165757Z" creationid="olex" creationdate="20180707T165757Z">
+        <seg>Если включить, то настройки принтера будут загружаться вместе с документом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it mixes font sizes or font styles, those mixed properties will remain the same as before.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T191248Z" creationid="olex" creationdate="20180308T181504Z">
@@ -11664,6 +11696,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T201102Z" creationid="olex" creationdate="20180310T201102Z">
         <seg>Если вы удалите используемый стиль,то все объекты этого стиля вернутся к стилю по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you deselect this option, the user’s personal settings do not overrule the settings in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T165502Z" creationid="olex" creationdate="20180707T165502Z">
+        <seg>Если вы выберете этот параметр, пользовательские настройки пользователя не переопределяют параметры документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12807,8 +12847,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Information about working with Asian character formats.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180706T181136Z" creationid="olex" creationdate="20180706T181136Z">
-        <seg>Информация о работе с азиатскими форматами символов.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T165230Z" creationid="olex" creationdate="20180706T181136Z">
+        <seg>Информация о работе с форматами восточно-азиатских символов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14094,6 +14134,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T175524Z" creationid="olex" creationdate="20180308T175321Z">
         <seg>Загрузить или копировать стили из другого документа или шаблона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load printer settings with the document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T165713Z" creationid="olex" creationdate="20180707T165713Z">
+        <seg>Загружать с документом настройки принтера</seg>
       </tuv>
     </tu>
     <tu>
@@ -20977,6 +21025,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following setting is &lt;f0&gt;always&lt;/f0&gt; loaded with a document, whether or not this option is marked:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T165336Z" creationid="olex" creationdate="20180707T165336Z">
+        <seg>Следующая настройка &lt;f0&gt;всегда&lt;/ f0&gt;, загружается с документом, независимо от того, отмечена эта опция или нет:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The font size of the data in a cell can automatically adjust to fit inside cell borders.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T201508Z" creationid="olex" creationdate="20180418T201508Z">
@@ -22285,6 +22341,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180516T185915Z" creationid="olex" creationdate="20180329T182249Z">
         <seg>Это окно может быть очень полезно, поскольку оно также показывает, как устроены функции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can cause a document to be printed on a distant printer (perhaps in an office setting), if you do not change the printer manually in the Print dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T165835Z" creationid="olex" creationdate="20180707T165835Z">
+        <seg>Это может привести к тому, что документ будет напечатан на удаленном принтере (возможно, в офисе), если вы не измените принтер вручную в диалоговом окне Печать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28403,6 +28467,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T192141Z" creationid="olex" creationdate="20180507T192141Z">
         <seg>диапазоны печати, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>printer settings</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T165645Z" creationid="olex" creationdate="20180707T165645Z">
+        <seg>настройки принтера</seg>
       </tuv>
     </tu>
     <tu>
