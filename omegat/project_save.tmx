@@ -3791,6 +3791,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>AutoRecovery</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T170916Z" creationid="olex" creationdate="20180707T170916Z">
+        <seg>Автосохранение</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: Словари не полные. Там много чего нет.  https://ru.wiktionary.org не плохой словарь, там часто есть толкование и склонение слова</note>
       <tuv lang="EN-US">
         <seg>AutoUpdate</seg>
@@ -4670,6 +4678,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T153344Z" creationid="olex" creationdate="20180623T153344Z">
         <seg>Выбор параметров орфографии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose whether to enable AutoRecovery and how often to save the information used by the AutoRecovery process.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T170958Z" creationid="olex" creationdate="20180707T170958Z">
+        <seg>Выберите, следует ли включать автоматическое сохранение и как часто сохранять информацию, используемую процессом Автосохранения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11302,8 +11318,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If disabled, your standard printer will be used to print this document.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180707T170535Z" creationid="olex" creationdate="20180707T170535Z">
-        <seg>Если этот параметр отключен, то для печати этого документа будет использоваться ваш стандартный принтер.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T170702Z" creationid="olex" creationdate="20180707T170535Z">
+        <seg>Если эта настройка отключена, то для печати этого документа будет использоваться ваш стандартный принтер.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17490,6 +17506,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save AutoRecovery information every __ Minutes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T170905Z" creationid="olex" creationdate="20180707T170905Z">
+        <seg>Автосохранение каждые __ мин.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save command</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T195709Z" creationid="olex" creationdate="20180607T195638Z">
@@ -20733,6 +20757,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153641Z" creationid="tagezi" creationdate="20180318T153641Z">
         <seg>У созданного массива одно свойство с нулевым индексом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current printer settings will be stored with the document whether or not this option is selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T170650Z" creationid="olex" creationdate="20180707T170650Z">
+        <seg>Текущие параметры принтера будут сохранены вместе с документом независимо от того, включена ли эта настройка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28595,6 +28627,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T151802Z" creationid="tagezi" creationdate="20180313T151802Z">
         <seg>выполнить</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>save AutoRecovery information</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T170818Z" creationid="olex" creationdate="20180707T170818Z">
+        <seg>информация про Автосохранение</seg>
       </tuv>
     </tu>
     <tu>
