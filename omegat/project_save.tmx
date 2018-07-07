@@ -125,6 +125,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/f0&gt;If you routinely share documents with users of Microsoft Office, you might want to change the &lt;i1/&gt;&lt;f2&gt;Always save as&lt;/f2&gt; attribute for documents to the Microsoft Office formats.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T182150Z" creationid="olex" creationdate="20180707T182150Z">
+        <seg>&lt;/f0&gt;Если вы регулярно обмениваетесь документами с пользователями Microsoft Office, то вам может потребоваться изменить атрибут &lt;i1/&gt;&lt;f2&gt;Всегда сохранять как&lt;/f2&gt; для документов в форматы Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: решил перевести расшифровку названия организации - возможно не стоит?</note>
       <tuv lang="EN-US">
         <seg>&lt;/f0&gt;LibreOffice uses OpenDocument, an XML (eXtensible Markup Language) file format developed as an industry standard by OASIS (Organization for the Advancement of Structured Information Standards).</seg>
@@ -557,6 +565,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T142458Z" creationid="olex" creationdate="20180414T142458Z">
         <seg>&lt;f0&gt;Направление&lt;/f0&gt; – определяет направление создания ряда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Document type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T182032Z" creationid="olex" creationdate="20180707T182032Z">
+        <seg>&lt;f0&gt;Тип документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1029,6 +1045,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T165537Z" creationid="olex" creationdate="20180330T165300Z">
         <seg>&lt;f0&gt;Формат чисел:&lt;/f0&gt; Быстрое изменение формата чисел, включая количество десятичных знаков, формат валюты, даты или числовой формат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;ODF format version.&lt;/f0&gt; LibreOffice by default saves documents &lt;i1/&gt;in OpenDocument Format (ODF) version 1.2 Extended.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T181437Z" creationid="olex" creationdate="20180707T181437Z">
+        <seg>&lt;f0&gt;Версия формата ODF.&lt;/f0&gt; LibreOffice по умолчанию сохраняет документы &lt;i1/&gt;в OpenDocument Format (ODF) версии 1.2 расширенный.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3283,6 +3307,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T172918Z" creationid="olex" creationdate="20180707T172918Z">
         <seg>Всегда создавать резервную копию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Always save as</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T181835Z" creationid="olex" creationdate="20180707T181835Z">
+        <seg>Всегда сохранять как</seg>
       </tuv>
     </tu>
     <tu>
@@ -6092,6 +6124,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current versions of Microsoft Word can open ODT files, so this may no longer be needed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T182311Z" creationid="olex" creationdate="20180707T182219Z">
+        <seg>Текущие версии Microsoft Word могут открывать файлы ODT, потому это может не понадобится.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CurrentController is a property referring to a service that controls the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T131801Z" creationid="tagezi" creationdate="20180316T131801Z">
@@ -8013,6 +8053,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180706T175353Z" creationid="olex" creationdate="20180706T175353Z">
         <seg>Рисунок &lt;seq0&gt;21&lt;/seq0&gt;: Выбор параметров загрузки и сохранения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Choosing Load/Save VBA Properties</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T182453Z" creationid="olex" creationdate="20180707T182453Z">
+        <seg>Рисунок &lt;seq0&gt;22&lt;/seq0&gt;: Выбор загрузки/сохранения свойств VBA</seg>
       </tuv>
     </tu>
     <tu>
@@ -11965,6 +12013,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you plan to share documents with people who use editors that use older versions of ODF, you may wish to save the document using ODF version 1.0/1.1.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T181713Z" creationid="olex" creationdate="20180707T181713Z">
+        <seg>Если вы планируете обмениваться документами с людьми, использующими редакторы, которые используют более старые версии ODF, то вы можете сохранить документ в формате ODF версии 1.0/1.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you prefer absolute saving, all references to other files will also be defined as absolute, based on the respective drive, volume or root directory.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T180910Z" creationid="olex" creationdate="20180707T180910Z">
@@ -14306,6 +14362,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Load/Save</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T182014Z" creationid="olex" creationdate="20180707T181901Z">
+        <seg>Загрузка/Сохранение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Localized options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T195619Z" creationid="olex" creationdate="20180326T192530Z">
@@ -15951,6 +16015,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the &lt;f0&gt;VBA Properties&lt;/f0&gt; page, you can choose whether to keep any macros in Microsoft Office documents that are opened in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T182412Z" creationid="olex" creationdate="20180707T182412Z">
+        <seg>На странице &lt;f0&gt;Свойства VBA&lt;/f0&gt; вы можете выбрать, сохранять ли макросы в документах Microsoft Office, открытых в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the Export dialog, specify a file name for the exported document, then select the desired format in the &lt;f1&gt;File format&lt;/f1&gt; list and click the &lt;f2&gt;Export&lt;/f2&gt; button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T213105Z" creationid="tagezi" creationdate="20180304T213034Z">
@@ -16284,6 +16356,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T213607Z" creationid="lera" creationdate="20180303T213607Z">
         <seg>OpenDocument (ODF) - это формат файлов для офисных документов (текстовых, электронных таблиц, рисунков, презентаций и т.д.) на основе XML , разработанный в OASIS  (&lt;a0&gt;http://www.oasis-open.org/who/&lt;/a0&gt;), независимой международной группой стандартизации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenDocument Format</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T181326Z" creationid="olex" creationdate="20180707T181326Z">
+        <seg>OpenDocument Format (Открытый формат документа)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24407,6 +24487,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Two notable examples are cross-references to headings and the formatting of numbered lists.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T181625Z" creationid="olex" creationdate="20180707T181625Z">
+        <seg>Два примечательных примера - перекрестные ссылки на заголовки и форматирование нумерованных списков.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: TODO: "descriptive name" = "имя, которое будет иметь смысл не только в момент создания вашего шедевра, и не только для вас"
 осознать и сказать коротко.</note>
       <tuv lang="EN-US">
@@ -25352,6 +25440,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VBA properties load/save options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T182002Z" creationid="olex" creationdate="20180707T182002Z">
+        <seg>Параметры загрузки/сохранения VBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Valerii Goncharuk</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T230744Z" creationid="tagezi" creationdate="20180304T230744Z">
@@ -25676,6 +25772,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T190220Z" creationid="olex" creationdate="20180617T190220Z">
         <seg>Если документ защищен паролем, то вы можете изменить пароль, пока документ открыт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a file saved in ODF 1.2 Extended is opened in an editor that uses earlier versions of ODF (1.0/1.1), some of the advanced features may be lost.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T181552Z" creationid="olex" creationdate="20180707T181552Z">
+        <seg>Когда файл, сохраненный в ODF 1.2 расширенный, открывают в редакторе, который использует более ранние версии ODF (1.0 / 1.1), то некоторые из расширенных функций могут быть потеряны.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26158,6 +26262,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T204008Z" creationid="olex" creationdate="20180607T204008Z">
         <seg>Хотя Math чаще всего используется &lt;t0/&gt;для создания формул в других документах, таких как файлы Writer и Impress, он также может работать как автономный инструмент.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While this allows for improved functionality, there may be backwards compatibility issues.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T181500Z" creationid="olex" creationdate="20180707T181500Z">
+        <seg>Хотя это позволяет улучшить функциональность, могут возникнуть проблемы с обратной совместимостью.</seg>
       </tuv>
     </tu>
     <tu>
