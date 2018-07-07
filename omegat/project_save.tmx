@@ -8081,6 +8081,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Choosing Load/Save Microsoft Office options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T190818Z" creationid="olex" creationdate="20180707T190818Z">
+        <seg>Рисунок &lt;seq0&gt;23&lt;/seq0&gt;: Выбор параметров Загрузки/Сохранения Microsoft Office</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Fill Series dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T142356Z" creationid="olex" creationdate="20180414T142356Z">
@@ -18688,6 +18696,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T190608Z" creationid="olex" creationdate="20180707T190608Z">
         <seg>Выберите опции [З], чтобы преобразовывать объекты Microsoft OLE в соответствующие объекты OLE LibreOffice, когда документ Microsoft загружается в LibreOffice (мнемоника: «З» - «загрузить»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the [S] options to convert LibreOffice OLE objects into the corresponding Microsoft OLE objects when a document is saved in a Microsoft format (mnemonic: “S” for “save”).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180707T190721Z" creationid="olex" creationdate="20180707T190721Z">
+        <seg>Выберите опции [С], чтобы преобразовывать объекты OLE LibreOffice в соответствующие объекты Microsoft OLE, когда документ сохраняется в формате Microsoft (мнемоника: «С» - «сохранить»).</seg>
       </tuv>
     </tu>
     <tu>
