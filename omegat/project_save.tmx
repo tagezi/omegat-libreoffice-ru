@@ -4738,6 +4738,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choices made on the &lt;f0&gt;Load/Save – HTML Compatibility&lt;/f0&gt; page (Figure &lt;t1&gt;24&lt;/t1&gt;) affect HTML pages imported into LibreOffice and those exported from LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T190721Z" creationid="olex" creationdate="20180711T190721Z">
+        <seg>Выбор, сделанный на странице &lt;f0&gt;Загрузка/сохрнение - Совместимость с HTML&lt;/f0&gt; (Рисунок &lt;t1&gt;24&lt;/t1&gt;), влияет на HTML-страницы, импортированные в LibreOffice и экспортированные из LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose &lt;f0&gt;File &gt; Open&lt;/f0&gt; on the Menu bar and locate the CSV file that you want to open.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T190123Z" creationid="olex" creationdate="20180330T185134Z">
@@ -8097,6 +8105,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Choosing HTML compatibility options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T191039Z" creationid="olex" creationdate="20180711T191039Z">
+        <seg>Рисунок &lt;seq0&gt;24&lt;/seq0&gt;: Выбор параметров совместимости HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Sort Lists dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T145542Z" creationid="olex" creationdate="20180414T145353Z">
@@ -8870,6 +8886,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T182232Z" creationid="olex" creationdate="20180628T182207Z">
         <seg>Замена шрифта только на экране, независимо от того, установлен шрифт в системе или нет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font sizes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T191106Z" creationid="olex" creationdate="20180711T191106Z">
+        <seg>Размер шрифта</seg>
       </tuv>
     </tu>
     <tu>
@@ -17986,6 +18010,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See &lt;f2&gt;HTML documents; importing/exporting&lt;/f2&gt; in the Help for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T190856Z" creationid="olex" creationdate="20180711T190856Z">
+        <seg>Смотрите &lt;f2&gt;Импорт и экспорт HTML&lt;/f2&gt; в Справке для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Appendix A, Commands Reference, in the &lt;f0&gt;Math Guide&lt;/f0&gt; for a list of Greek characters that can be entered using markup language.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T202525Z" creationid="Роман" creationdate="20180316T202525Z">
@@ -25078,6 +25110,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use these fields to define the respective &lt;i0/&gt;font sizes for the HTML &lt;font size=1&gt; to &lt;font size=7&gt; tags, if they are used in the HTML pages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T191251Z" creationid="olex" creationdate="20180711T191251Z">
+        <seg>Используйте эти поля для определения соответствующих размеров &lt;i0/&gt;шрифтов для тегов HTML &lt;font size=1&gt; to &lt;font size=7&gt;, если они используются на страницах HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use this option to select the default for relative addressing of URLs in the file system and on the Internet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T175515Z" creationid="olex" creationdate="20180707T175515Z">
@@ -29267,6 +29307,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T184549Z" creationid="olex" creationdate="20180405T184549Z">
         <seg>листов, в Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sizes for HTML</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T191132Z" creationid="olex" creationdate="20180711T191132Z">
+        <seg>размеры для HTML</seg>
       </tuv>
     </tu>
     <tu>
