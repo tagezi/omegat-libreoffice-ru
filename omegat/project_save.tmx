@@ -4530,6 +4530,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change some &lt;i0/&gt;locale and language settings</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T195141Z" creationid="olex" creationdate="20180711T195141Z">
+        <seg>Измените некоторые &lt;i0/&gt;локальные и языковые настройки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change some locale and language settings</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T153259Z" creationid="olex" creationdate="20180623T153259Z">
@@ -8177,6 +8185,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: LibreOffice language options, without and with Asian and CTL options enabled</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T200155Z" creationid="olex" creationdate="20180711T200155Z">
+        <seg>Рисунок &lt;seq0&gt;25&lt;/seq0&gt;: Языковые настройки LibreOffice, без и с включенными азиатскими и CTL настройками</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Select Sheets dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T174747Z" creationid="olex" creationdate="20180416T174747Z">
@@ -8894,6 +8910,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T184803Z" creationid="olex" creationdate="20180311T184803Z">
         <seg>Следуйте инструкциям в диалоговом окне мастера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Follow the prompts to select and install the ones you want.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T195050Z" creationid="olex" creationdate="20180711T195050Z">
+        <seg>Следуйте инструкциям, чтобы выбрать и установить те словари, которые вам необходимы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13045,6 +13069,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Options dialog, click the expansion symbol (+ sign or triangle) by &lt;f0&gt;Language Settings &gt; Languages&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T195503Z" creationid="olex" creationdate="20180711T195503Z">
+        <seg>В диалоговом окне Параметры щелкните символ расширения (знак + или треугольник) справа от строки &lt;f0&gt;Настройки языка&lt;/f0&gt; и выберите Языки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Styles window, click the arrow next to the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon, and then select &lt;f1&gt;Load Styles&lt;/f1&gt; (see Figure &lt;t2&gt;3&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T192645Z" creationid="olex" creationdate="20180310T192645Z">
@@ -14462,6 +14494,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T194804Z" creationid="olex" creationdate="20180507T194804Z">
         <seg>LibreOffice отобразит каждый диапазон печати как отдельную страницу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice will open your default web browser to a page containing links to additional dictionaries that you can install.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T194921Z" creationid="olex" creationdate="20180711T194921Z">
+        <seg>LibreOffice откроет ваш веб-браузер по умолчанию на странице, содержащей ссылки на дополнительные словари, которые вы можете установить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21609,6 +21649,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The exact list shown depends on the &lt;f1&gt;Enhanced language support&lt;/f1&gt; settings (see Figure &lt;t2&gt;26&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T200015Z" creationid="olex" creationdate="20180711T200015Z">
+        <seg>Точный вид отображаемого списка зависит от настроек &lt;f1&gt;Расширенная языковая поддержка&lt;/f1&gt; (смотрите Рисунок &lt;t2&gt;26&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The example given below uses keystrokes that assume the cursor is at the start of the line with the text THIN.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T210922Z" creationid="tagezi" creationdate="20180318T210922Z">
@@ -23529,6 +23577,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T185753Z" creationid="olex" creationdate="20180330T184048Z">
         <seg>Чтобы добавить новые цвета в эту цветовую палитру, смотрите &lt;f3&gt;Главу 14 Настройка LibreOffice&lt;/f3&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To add other dictionaries, be sure you are connected to the Internet, and then choose &lt;f0&gt;Tools &gt; Language &gt; More Dictionaries Online&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T194846Z" creationid="olex" creationdate="20180711T194846Z">
+        <seg>Чтобы добавить другие словари, убедитесь, что вы подключены к Интернету, а затем выберите &lt;f0&gt;Сервис &gt; Язык &gt; Словари в интернете&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27325,6 +27381,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can change some details of the locale and language settings that LibreOffice uses for all documents, or for specific documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T195303Z" creationid="olex" creationdate="20180711T195303Z">
+        <seg>Вы можете изменить настройки локали и языковые настройки, которые используются LibreOffice для всех документов или для определенных документов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can change the margins directly on the rulers by dragging them with the mouse.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T192915Z" creationid="olex" creationdate="20180604T192915Z">
@@ -29091,6 +29155,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T183951Z" creationid="olex" creationdate="20180707T183951Z">
         <seg>загрузить код Basic для редактирования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>locale settings</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T195105Z" creationid="olex" creationdate="20180711T195105Z">
+        <seg>настройки локали</seg>
       </tuv>
     </tu>
     <tu>
