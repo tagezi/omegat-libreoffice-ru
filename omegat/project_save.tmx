@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Many pages no longer use these tags.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T191342Z" creationid="olex" creationdate="20180711T191342Z">
+        <seg>(Многие страницы больше не используют эти теги.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Not available in Windows.) Select this option to smooth the screen appearance of text.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T171620Z" creationid="olex" creationdate="20180627T171620Z">
@@ -8892,8 +8900,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Font sizes</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180711T191106Z" creationid="olex" creationdate="20180711T191106Z">
-        <seg>Размер шрифта</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T191325Z" creationid="olex" creationdate="20180711T191106Z">
+        <seg>Размер шрифта (кегль)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9046,6 +9054,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T203257Z" creationid="Роман" creationdate="20180316T203257Z">
         <seg>Для греческого символа в ВЕРХНЕМ регистре введите знак процента (%), а затем английское имя символа в ВЕРХНЕМ регистре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For an opening tag, an HTML_ON field will be created with the value of the tag name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T192319Z" creationid="olex" creationdate="20180711T192319Z">
+        <seg>Для открывающего тега будет создано поле HTML_ON со значением имени тега.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11756,6 +11772,22 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this option is &lt;f0&gt;not&lt;/f0&gt; selected, numbers will be interpreted according to the &lt;f1&gt;Locale setting&lt;/f1&gt; in &lt;f2&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f2&gt; (see page &lt;bf3&gt;26&lt;/bf3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T191925Z" creationid="olex" creationdate="20180711T191925Z">
+        <seg>Если эта опция &lt;f0&gt;не&lt;/f0&gt; выбрана, то числа будут интерпретироваться в соответствии с параметром &lt;f1&gt;Локальные настройки&lt;/f1&gt; в &lt;f2&gt;Сервис &gt; Параметры &gt; Настройки языка &gt; Языки&lt;/f2&gt; (смотрите страницу &lt;bf3&gt;26&lt;/bf3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this option is selected, numbers will be interpreted as for the English (USA) locale.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T191949Z" creationid="olex" creationdate="20180711T191949Z">
+        <seg>Если этот параметр выбран, то числа будут интерпретироваться как для английского языка (США).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this option is selected, then the next time you close the document after printing, the print date is recorded in the document properties as a change and you will be prompted to save the document again, even if you did not make any other changes.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T163816Z" creationid="olex" creationdate="20180624T163807Z">
@@ -12257,6 +12289,22 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T202929Z" creationid="olex" creationdate="20180312T202929Z">
         <seg>Импортируйте шаблон в папку шаблона, выполнив инструкции в &lt;bf0&gt;Импорт шаблона&lt;/bf0&gt; на странице &lt;bf1&gt;21&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import – Import unknown HTML tags as fields</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T192045Z" creationid="olex" creationdate="20180711T192045Z">
+        <seg>Импорт - Импортировать неизвестные теги HTML как поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import – Use 'English (USA)' locale for numbers</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T191505Z" creationid="olex" creationdate="20180711T191505Z">
+        <seg>Импорт - Числа в формате «Английский (США)»</seg>
       </tuv>
     </tu>
     <tu>
@@ -19100,6 +19148,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select this option if you want tags that are not recognized by LibreOffice to be imported as fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T192105Z" creationid="olex" creationdate="20180711T192105Z">
+        <seg>Выберите этот параметр, если вы хотите, чтобы теги, которые не были распознаны LibreOffice, были импортированы как поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select this option so that when a document loads, it ignores the stored settings in favor of the settings on your computer.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180706T175930Z" creationid="olex" creationdate="20180706T175930Z">
@@ -21045,6 +21101,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T181114Z" creationid="olex" creationdate="20180628T181114Z">
         <seg>Флажок справа от поля &lt;f0&gt;Заменить на&lt;/f0&gt; станет зеленым.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The clipboard, however, contains no information about the locale.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T191644Z" creationid="olex" creationdate="20180711T191644Z">
+        <seg>Однако буфер обмена не содержит информации о локали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26041,6 +26105,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When importing numbers from an HTML page, the decimal and thousands separator characters differ according to the locale of the HTML page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T191657Z" creationid="olex" creationdate="20180711T191628Z">
+        <seg>При импорте чисел с HTML-страницы десятичные и разделительные символы разделителей различаются в зависимости от локального стандарта HTML-страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When no document is open, click &lt;f0&gt;Open File&lt;/f0&gt; or &lt;f1&gt;Remote files&lt;/f1&gt; in the Start Center to reach the Open dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T194054Z" creationid="olex" creationdate="20180616T193823Z">
@@ -28635,6 +28707,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T143841Z" creationid="tagezi" creationdate="20180304T143841Z">
         <seg>импортируемые файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>importing numbers from an HTML page</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T191548Z" creationid="olex" creationdate="20180711T191548Z">
+        <seg>импорт чисел с HTML-страницы</seg>
       </tuv>
     </tu>
     <tu>
