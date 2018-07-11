@@ -7631,10 +7631,42 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export – Character set</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T194446Z" creationid="olex" creationdate="20180711T194446Z">
+        <seg>Экспорт – Кодировка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export – Copy local graphics to Internet</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T194356Z" creationid="olex" creationdate="20180711T194356Z">
+        <seg>Экспорт – Копировать локальные изображения в Интернет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export – Display warning</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T193817Z" creationid="olex" creationdate="20180711T193817Z">
+        <seg>Экспорт – Показать предупреждение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export – LibreOffice Basic</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T193041Z" creationid="olex" creationdate="20180711T193041Z">
         <seg>Экспорт – LibreOffice Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export – Print layout</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T194152Z" creationid="olex" creationdate="20180711T194152Z">
+        <seg>Экспорт – Разметка печати</seg>
       </tuv>
     </tu>
     <tu>
@@ -11612,6 +11644,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the &lt;f3&gt;Display warning&lt;/f3&gt; option is selected, then when exporting to HTML a warning is shown that LibreOffice Basic macros will be lost.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T194132Z" creationid="olex" creationdate="20180711T194132Z">
+        <seg>Если выбрана опция &lt;f3&gt;Показать предупреждение&lt;/f3&gt;, то при экспорте в HTML будет показано предупреждение о том, что макросы LibreOffice Basic будут потеряны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the &lt;i0/&gt;&lt;f1&gt;Download updates automatically&lt;/f1&gt; option is selected, the download starts when you click the icon.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T175311Z" creationid="olex" creationdate="20180701T175311Z">
@@ -13311,6 +13351,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Install the required &lt;i0/&gt;dictionaries</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T194646Z" creationid="olex" creationdate="20180711T194646Z">
+        <seg>Установите необходимые &lt;i0/&gt;словари</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Install the required dictionaries</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T153147Z" creationid="olex" creationdate="20180623T153147Z">
@@ -14037,6 +14085,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T114225Z" creationid="tagezi" creationdate="20180315T114225Z">
         <seg>LibreOffice всегда создает пустую подпрограмму с именем Main при создании модуля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice automatically installs many dictionaries with the program.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T194735Z" creationid="olex" creationdate="20180711T194735Z">
+        <seg>При установке LibreOffice автоматически устанавливается множество словарей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18868,6 +18924,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the appropriate character set for the export.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T194519Z" creationid="olex" creationdate="20180711T194519Z">
+        <seg>Выберите соответствующую кодировку символов для экспорта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the category &lt;f0&gt;Relations&lt;/f0&gt; and symbol &lt;f1&gt;Is Similar Or Equal&lt;/f1&gt; using one of the following methods:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T145015Z" creationid="Роман" creationdate="20180320T144728Z">
@@ -19252,10 +19316,26 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select this option to automatically upload the embedded pictures to the Internet server when uploading using FTP.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T194426Z" creationid="olex" creationdate="20180711T194426Z">
+        <seg>Выберите этот параметр, чтобы автоматически загружать встроенные изображения на Интернет-сервер при загрузке с использованием FTP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select this option to change the internal print job format from a Postscript document description to a PDF description.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T171110Z" creationid="olex" creationdate="20180628T171110Z">
         <seg>Выберите этот параметр, чтобы изменить формат внутреннего задания на печать из описания документа Postscript в описание PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select this option to export the print layout of the current document as well.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T194214Z" creationid="olex" creationdate="20180711T194214Z">
+        <seg>Выберите этот вариант, чтобы экспортировать макет печати текущего документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20789,6 +20869,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T180002Z" creationid="olex" creationdate="20180327T180002Z">
         <seg>Мастер функций и поиск функций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The HTML filter supports CSS2 (Cascading Style Sheets Level 2) for printing documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T194255Z" creationid="olex" creationdate="20180711T194255Z">
+        <seg>Фильтр HTML поддерживает CSS2 (каскадные таблицы стилей 2 уровня) для печати документов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22743,6 +22831,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These capabilities are only effective if print layout export is activated.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T194313Z" creationid="olex" creationdate="20180711T194313Z">
+        <seg>Эти возможности эффективны только при активации экспорта макета печати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These changes do not modify the theme; they only change the appearance of the style in the specific spreadsheet you are creating.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T183945Z" creationid="olex" creationdate="20180430T183945Z">
@@ -23762,6 +23858,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T184428Z" creationid="olex" creationdate="20180311T184428Z">
         <seg>Чтобы создать шаблона с помощью мастера:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To customize the language settings in LibreOffice, you can do any of the following:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T194556Z" creationid="olex" creationdate="20180711T194556Z">
+        <seg>Чтобы настроить языковые настройки в LibreOffice, вы можете выполнить одно из следующих действий:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26322,6 +26426,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the &lt;f0&gt;LibreOffice Basic&lt;/f0&gt; option (see above) is &lt;f1&gt;not&lt;/f1&gt; selected, the &lt;f2&gt;Display warning&lt;/f2&gt; option becomes available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T194016Z" creationid="olex" creationdate="20180711T194016Z">
+        <seg>Когда &lt;f1&gt;не&lt;/f1&gt; выбрана опция &lt;f0&gt;LibreOffice Basic&lt;/f0&gt; (смотрите выше), то появляется опция &lt;f2&gt;Показать предупреждение&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the &lt;f0&gt;Save As&lt;/f0&gt; dialog (Figure &lt;t1&gt;10&lt;/t1&gt;) or &lt;f2&gt;Save&lt;/f2&gt; dialog opens, enter the file name, change the file type (if applicable), navigate to a new location (if applicable), and click &lt;f3&gt;Save&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T184217Z" creationid="olex" creationdate="20180617T184217Z">
@@ -28519,6 +28631,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dictionaries, installing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T194616Z" creationid="olex" creationdate="20180711T194616Z">
+        <seg>словари, установка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>different first page</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T190927Z" creationid="olex" creationdate="20180315T190927Z">
@@ -28923,6 +29043,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T193755Z" creationid="olex" creationdate="20180316T193755Z">
         <seg>альбомные страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>language settings</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T194535Z" creationid="olex" creationdate="20180711T194535Z">
+        <seg>языковые настройки</seg>
       </tuv>
     </tu>
     <tu>
