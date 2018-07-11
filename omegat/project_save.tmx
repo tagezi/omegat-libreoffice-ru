@@ -7623,6 +7623,22 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T192639Z" creationid="olex" creationdate="20180711T192639Z">
+        <seg>Экспорт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export – LibreOffice Basic</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T193041Z" creationid="olex" creationdate="20180711T193041Z">
+        <seg>Экспорт – LibreOffice Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exporting a template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195602Z" creationid="olex" creationdate="20180306T195602Z">
@@ -8934,6 +8950,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204516Z" creationid="Роман" creationdate="20180316T204516Z">
         <seg>Для &lt;f2&gt;курсивных&lt;/f2&gt; символов выберите из выпадающего списка &lt;f3&gt;iГреческий&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a closing tag, an HTML_OFF will be created.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T192401Z" creationid="olex" creationdate="20180711T192334Z">
+        <seg>Для закрывающего тега будет создано поле HTML_OFF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10844,6 +10868,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HTML export</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T192653Z" creationid="olex" creationdate="20180711T192653Z">
+        <seg>Экспорт в HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HTML, XML, and ODF are examples of open standards for documents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T212449Z" creationid="lera" creationdate="20180303T212449Z">
@@ -11368,6 +11400,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T191856Z" creationid="olex" creationdate="20180330T190859Z">
         <seg>Если в этом поле задан определенный язык, то при импорте чисел будут использоваться настройки для этого языка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If LibreOffice Writer is selected, specific LibreOffice Writer instructions are exported.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T193011Z" creationid="olex" creationdate="20180711T193011Z">
+        <seg>Если выбран LibreOffice Writer, то экспортируются определенные инструкции LibreOffice Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12197,6 +12237,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want the macro to run automatically when the HTML document is opened, choose &lt;f0&gt;Tools &gt; Customize &gt; Events&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T193702Z" creationid="olex" creationdate="20180711T193702Z">
+        <seg>Если вы хотите, чтобы макрос запускался автоматически при открытии документа HTML, то выберите &lt;f0&gt;Сервис &gt; Настройка... &gt; События&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to send a fragment of your spreadsheet to a colleague, business partner or publish it in the internet, Calc can export a range selection or a selected group of shapes (images) to a PNG or JPG graphics format:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T191736Z" creationid="olex" creationdate="20180402T191736Z">
@@ -12289,6 +12337,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T202929Z" creationid="olex" creationdate="20180312T202929Z">
         <seg>Импортируйте шаблон в папку шаблона, выполнив инструкции в &lt;bf0&gt;Импорт шаблона&lt;/bf0&gt; на странице &lt;bf1&gt;21&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import – Ignore font settings</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T192502Z" creationid="olex" creationdate="20180711T192502Z">
+        <seg>Импортировать - Игнорировать настройки шрифта</seg>
       </tuv>
     </tu>
     <tu>
@@ -13900,6 +13956,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T092111Z" creationid="tagezi" creationdate="20180315T092111Z">
         <seg>LibreOffice Basic не чувствителен регистру ключевых слов, поэтому комментарий может начинаться с REM, Rem или rem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice Basic macros must be located in the header of the HTML document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T193326Z" creationid="olex" creationdate="20180711T193326Z">
+        <seg>Макросы LibreOffice Basic должны быть расположены в заголовке HTML-документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16239,6 +16303,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you have created the macro in the LibreOffice Basic IDE, it appears in the source text of the HTML document in the header.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T193505Z" creationid="olex" creationdate="20180711T193505Z">
+        <seg>Созданный в среде LibreOffice Basic  макрос появится в заголовке исходного текста HTML-документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One document</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135107Z" creationid="tagezi" creationdate="20180320T135107Z">
@@ -18082,6 +18154,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Chapter 13, Getting Started with Macros, for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T193742Z" creationid="olex" creationdate="20180711T193742Z">
+        <seg>Смотрите Главу 13, Начало работы с макросами, для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Chapter 14, Customizing LibreOffice, for more about the Extension Manager.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T211837Z" creationid="olex" creationdate="20180312T211837Z">
@@ -19176,6 +19256,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T171110Z" creationid="olex" creationdate="20180628T171110Z">
         <seg>Выберите этот параметр, чтобы изменить формат внутреннего задания на печать из описания документа Postscript в описание PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select this option to have LibreOffice &lt;i0/&gt;&lt;i1/&gt;ignore all font settings when importing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T192615Z" creationid="olex" creationdate="20180711T192615Z">
+        <seg>Выберите этот параметр, чтобы LibreOffice &lt;i0/&gt;&lt;i1/&gt; игнорировал все настройки шрифта при импорте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select this option to include LibreOffice Basic macros (scripts) when exporting to HTML format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T193118Z" creationid="olex" creationdate="20180711T193118Z">
+        <seg>Выберите этот вариант, чтобы при экспорте в формат HTML включить макросы LibreOffice Basic (скрипты).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21553,6 +21649,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The fonts that were defined in the HTML Page Style will be used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T192630Z" creationid="olex" creationdate="20180711T192630Z">
+        <seg>Будут использоваться шрифты, которые были определены в стиле страницы HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fonts you will see listed are those that are installed on your system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T175438Z" creationid="olex" creationdate="20180627T175438Z">
@@ -22675,6 +22779,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T183009Z" creationid="olex" creationdate="20180330T170912Z">
         <seg>Это окно блокирует документ для редактирования до тех пор, пока оно не будет закрыто.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These fields will be converted to tags in the HTML export.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T192427Z" creationid="olex" creationdate="20180711T192427Z">
+        <seg>Эти поля будут преобразованы в теги при экспорте в HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24098,6 +24210,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T141136Z" creationid="tagezi" creationdate="20180320T141136Z">
         <seg>Чтобы открыть это диалоговое окно, выберите в меню &lt;f0&gt;Сервис &gt; Настройка&lt;/f0&gt;, или нажмите правой кнопкой мыши в пустом пространстве на панели инструментов и выберите в контекстном меню &lt;f1&gt;Настройка панели инструментов&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To optimize the &lt;i0/&gt;HTML&lt;i1/&gt; export, select a browser or HTML standard from the &lt;f2&gt;Export&lt;/f2&gt; box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T192952Z" creationid="olex" creationdate="20180711T192952Z">
+        <seg>Чтобы оптимизировать экспорт &lt;i0/&gt;HTML&lt;i1/&gt;, выберите браузер или стандарт HTML в окне &lt;f2&gt;Экспорт&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27919,6 +28039,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must activate this option &lt;f0&gt;before&lt;/f0&gt; you create the LibreOffice Basic macro; otherwise the script will not be inserted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T193227Z" creationid="olex" creationdate="20180711T193227Z">
+        <seg>Вы должны активировать эту опцию, &lt;f0&gt;до того&lt;/f0&gt; как создали макрос LibreOffice Basic, иначе скрипт не будет вставлен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must create a library and module to contain your macro; see “&lt;bf2&gt;Macro organization&lt;/bf2&gt;” on page &lt;bf3&gt;14&lt;/bf3&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T104024Z" creationid="tagezi" creationdate="20180312T104024Z">
@@ -28519,6 +28647,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>export HTML</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T192707Z" creationid="olex" creationdate="20180711T192707Z">
+        <seg>экспорт в HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>exporting</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T185820Z" creationid="olex" creationdate="20180315T185820Z">
@@ -28699,6 +28835,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180625T180030Z" creationid="olex" creationdate="20180625T175832Z">
         <seg>размер и стиль значков (пользовательский интерфейс)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ignore font settings when importing HTML</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T192542Z" creationid="olex" creationdate="20180711T192542Z">
+        <seg>игнорировать настройки шрифта при импорте HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ignore settings when importing HTML</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180711T192516Z" creationid="olex" creationdate="20180711T192516Z">
+        <seg>игнорировать настройки при импорте HTML</seg>
       </tuv>
     </tu>
     <tu>
