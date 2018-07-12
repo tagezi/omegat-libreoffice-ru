@@ -3768,6 +3768,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Asian language support</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T175613Z" creationid="olex" creationdate="20180712T175554Z">
+        <seg>Поддержка азиатских языков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Associating a document with a different template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195345Z" creationid="olex" creationdate="20180306T195345Z">
@@ -6276,6 +6284,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Data entered into a Calc spreadsheet or a Writer table must be entered in a format defined by &lt;f0&gt;Locale&lt;/f0&gt; in order to be recognized as dates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T175234Z" creationid="olex" creationdate="20180712T175234Z">
+        <seg>Чтобы данные, вводимые в электронную таблицу Calc или таблицу Writer, определялись как даты их надо вводить в формате, определенном &lt;f0&gt;Локальными настройками&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data source linked to the document and its view.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T165439Z" creationid="olex" creationdate="20180707T165439Z">
@@ -6344,6 +6360,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T181107Z" creationid="olex" creationdate="20180707T181107Z">
         <seg>Формат файла по умолчанию и настройки ODF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default languages for documents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T175255Z" creationid="olex" creationdate="20180712T175255Z">
+        <seg>Языки документов по умолчанию</seg>
       </tuv>
     </tu>
     <tu>
@@ -11928,6 +11952,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T183016Z" creationid="olex" creationdate="20180329T183016Z">
         <seg>Если выше выбранной ячейки нет чисел, то складываться будут числа из ячеек левее выбранной.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If these options are only for the current document, select &lt;f0&gt;For the current document only.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T175446Z" creationid="olex" creationdate="20180712T175446Z">
+        <seg>Если эти параметры предназначены только для текущего документа, то выберите &lt;f0&gt;Только для текущего документа&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19272,6 +19304,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T175314Z" creationid="olex" creationdate="20180416T175102Z">
         <seg>Выделите листы на которых вы хотите ввести одинаковую информацию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the languages used for the spelling checker, thesaurus, and hyphenation features of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T175355Z" creationid="olex" creationdate="20180712T175355Z">
+        <seg>Выберите языки, используемые для проверки орфографии, тезауруса и переносов в LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28683,6 +28723,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T184218Z" creationid="olex" creationdate="20180330T184218Z">
         <seg>значения, разделенные запятыми (comma separated values - CSV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>complex text layout (CTL)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T175728Z" creationid="olex" creationdate="20180712T175728Z">
+        <seg>сложные системы письменности (complex text layout - CTL)</seg>
       </tuv>
     </tu>
     <tu>
