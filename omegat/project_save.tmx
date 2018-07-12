@@ -2451,6 +2451,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A keyboard layout is normally based on the language used by the operating system but can be changed by the user.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T180703Z" creationid="olex" creationdate="20180712T180703Z">
+        <seg>Раскладка клавиатуры обычно основана на языке, используемом операционной системой, но может быть изменена пользователем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A layer is a workspace where you insert your drawings elements and objects.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T181646Z" creationid="olex" creationdate="20180603T181646Z">
@@ -6364,6 +6372,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default language settings depend on the &lt;f0&gt;Locale&lt;/f0&gt; setting.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T180627Z" creationid="olex" creationdate="20180712T180627Z">
+        <seg>Настройки языка по умолчанию зависят от параметра &lt;f0&gt;Локальные настройки&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default languages for documents</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T175255Z" creationid="olex" creationdate="20180712T175255Z">
@@ -7434,6 +7450,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T153358Z" creationid="olex" creationdate="20180623T153358Z">
         <seg>Проверка английского языка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enhanced language support – Ignore system input language</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T180556Z" creationid="olex" creationdate="20180712T180556Z">
+        <seg>Расширенная языковая поддержка - Игнорировать язык ввода ОС</seg>
       </tuv>
     </tu>
     <tu>
@@ -11716,6 +11740,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If necessary, select the options to enable support for &lt;i0/&gt;Asian languages (Chinese, Japanese, Korean) and support for &lt;i1/&gt;CTL (complex text layout) languages such as Urdu, Thai, Hebrew, and Arabic.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T180021Z" creationid="olex" creationdate="20180712T180021Z">
+        <seg>При необходимости выберите параметры для поддержки поддержки &lt;i0/&gt;азиатских языков (китайский, японский, корейский) и поддержки языков &lt;i1/&gt; CTL (complex text layout - сложные системы письменности), таких как урду, тайский, иврит и арабский.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If necessary, you can prevent a formula in a document from updating automatically.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180318T122108Z" creationid="Роман" creationdate="20180318T122108Z">
@@ -12004,6 +12036,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this option is not selected, and there is a change in keyboard layout, input from the keyboard will be different from what is expected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T180751Z" creationid="olex" creationdate="20180712T180751Z">
+        <seg>Если эта опция не выбрана, то при изменение раскладки клавиатуры, ввод с клавиатуры будет отличаться от ожидаемого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this option is not selected, the keyboard driver defines the character used.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T173718Z" creationid="olex" creationdate="20180712T173718Z">
@@ -12152,6 +12192,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T184325Z" creationid="olex" creationdate="20180707T184236Z">
         <seg>Если вы выберете &lt;i0/&gt;&lt;f1&gt;Сохранять исходный код Basic&lt;/f1&gt;, то макросы не будут работать в LibreOffice, но сохраняются без изменений, если вы сохраните файл в формате Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you choose either of these options, the next time you open this dialog, you will see some extra choices under Language Settings, as shown in Figure &lt;t2&gt;25&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T180209Z" creationid="olex" creationdate="20180712T180209Z">
+        <seg>Если вы выберете любой из этих параметров, то при следующем открытии диалогового окна Параметры вы увидите некоторые дополнительные варианты в разделе Настройки языка, как показано на рисунке &lt;t2&gt;25&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21673,6 +21721,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default locale is based on that of the computer’s operating system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T180649Z" creationid="olex" creationdate="20180712T180649Z">
+        <seg>Языковой стандарт по умолчанию основан на настройках операционной системы компьютера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default location is your user templates directory, but you can choose a different location.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T185956Z" creationid="olex" creationdate="20180311T185749Z">
@@ -23091,6 +23147,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T183945Z" creationid="olex" creationdate="20180430T183945Z">
         <seg>Эти изменения не изменяют тему; они только изменяют стиль внешнего вида в конкретной электронной таблице, которую вы создаете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These choices (&lt;f3&gt;Searching in Japanese&lt;/f3&gt;, &lt;f4&gt;Asian Layout&lt;/f4&gt;, and &lt;f5&gt;Complex Text Layout&lt;/f5&gt;) are not discussed here.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T180517Z" creationid="olex" creationdate="20180712T180517Z">
+        <seg>Эти варианты (&lt;f3&gt;Поиск в японском языке&lt;/f3&gt;, &lt;f4&gt;Разметка восточноазиатского текста&lt;/f4&gt; и &lt;f5&gt;Сложные системы письменности&lt;/f5&gt;) здесь не обсуждаются.</seg>
       </tuv>
     </tu>
     <tu>
