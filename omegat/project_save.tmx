@@ -545,6 +545,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Date acceptance patterns&lt;/f0&gt; define how LibreOffice recognizes input as dates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T174626Z" creationid="olex" creationdate="20180712T174626Z">
+        <seg>&lt;f0&gt;Шаблоны рспознавания дат&lt;/f0&gt; определяеть, как LibreOffice будет распознавать ввод даты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Date&lt;/f0&gt; – creates a date series using the defined increment and end date.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T091730Z" creationid="olex" creationdate="20180414T143112Z">
@@ -1766,6 +1774,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T183136Z" creationid="olex" creationdate="20180621T183136Z">
         <seg>&lt;f1&gt;Если вы внесли изменения в файл с момента последнего сохранения, то диалоговое окно&lt;/f1&gt; предупредит вас, что &lt;f2&gt;Перезагрузка&lt;/f2&gt; отменит ваши последние изменения, запросив подтверждения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f1&gt;Locale&lt;/f1&gt; also defines the default expression of dates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T174731Z" creationid="olex" creationdate="20180712T174731Z">
+        <seg>&lt;f1&gt;Локальые настройки&lt;/f1&gt; также определяет отображение дат по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6276,6 +6292,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Date acceptance patterns</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T174545Z" creationid="olex" creationdate="20180712T174545Z">
+        <seg>Шаблоны рспознавания дат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Date and time</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T191901Z" creationid="olex" creationdate="20180326T191901Z">
@@ -6292,10 +6316,26 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decimal separator key</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T173449Z" creationid="olex" creationdate="20180712T173449Z">
+        <seg>Десятичный разделитель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Declares an array of properties.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153418Z" creationid="tagezi" creationdate="20180318T153418Z">
         <seg>Объявляет массив свойств.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default currency</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T173754Z" creationid="olex" creationdate="20180712T173754Z">
+        <seg>Валюта по умолчанию</seg>
       </tuv>
     </tu>
     <tu>
@@ -6784,6 +6824,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T171755Z" creationid="olex" creationdate="20180326T171755Z">
         <seg>Документация для LibreOffice доступна на &lt;a0&gt;&lt;f1&gt;http://&lt;/f1&gt;&lt;/a0&gt;&lt;a2&gt;&lt;f3&gt;documentation&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;.libreoffice.org/&lt;/f5&gt;&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Documents that were saved with one currency as the default will open using the new currency defaults.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T174443Z" creationid="olex" creationdate="20180712T174443Z">
+        <seg>Документы, сохраненные с одной валютой по умолчанию, будут открываться с использованием новых значений по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11676,10 +11724,26 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the &lt;f0&gt;Decimal separator key&lt;/f0&gt; option is selected, LibreOffice uses the character defined by the default locale.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T173631Z" creationid="olex" creationdate="20180712T173631Z">
+        <seg>Если выбран параметр &lt;f0&gt;Десятичный разделитель&lt;/f0&gt;, то LibreOffice использует символ, определенный по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the &lt;f0&gt;Send OS version &amp; simple hardware info&lt;/f0&gt; option is selected, the information of the computer architecture and operating system will be sent to the server for statistics collection.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T175520Z" creationid="olex" creationdate="20180701T175520Z">
         <seg>Если выбрана опция &lt;f0&gt;Отправить версию ОС и упрощенную информацию про оборудование&lt;/f0&gt;, то информация о компьютерной архитектуре и операционной системе будет отправлена на сервер для сбора статистики.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the &lt;f2&gt;default currency&lt;/f2&gt; is changed, all dialogs involving currency and all currency icons will be changed in all open documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T174419Z" creationid="olex" creationdate="20180712T174419Z">
+        <seg>Если изменена &lt;f2&gt;Валюта по умолчанию&lt;/f2&gt;, то все диалоговые окна с валютой и значками валют будут изменены во всех открытых документах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11784,6 +11848,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T181710Z" creationid="olex" creationdate="20180330T181710Z">
         <seg>Если в электронной таблице не видны заголовки, то выберите в меню &lt;f1&gt;Вид &gt; Заголовки столбцов / строк&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the locale setting is changed, the default currency changes automatically.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T174205Z" creationid="olex" creationdate="20180712T174205Z">
+        <seg>Если изменить страну в Локальных настройках, то автоматически изменяется Валюта по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11896,6 +11968,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T191925Z" creationid="olex" creationdate="20180711T191925Z">
         <seg>Если эта опция &lt;f0&gt;не&lt;/f0&gt; выбрана, то числа будут интерпретироваться в соответствии с параметром &lt;f1&gt;Локальные настройки&lt;/f1&gt; в &lt;f2&gt;Сервис &gt; Параметры &gt; Настройки языка &gt; Языки&lt;/f2&gt; (смотрите страницу &lt;bf3&gt;26&lt;/bf3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this option is not selected, the keyboard driver defines the character used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T173718Z" creationid="olex" creationdate="20180712T173718Z">
+        <seg>Если этот параметр не выбран, то используемый символ определяет драйвер клавиатуры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14502,6 +14582,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T190145Z" creationid="olex" creationdate="20180617T190145Z">
         <seg>LibreOffice использует очень сильный механизм шифрования, который практически не позволяет восстановить содержимое документа, если вы потеряли или забыли пароль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice will always correctly interpret dates entered in ISO 8601 format as Y-M-D and YYYY-MM-DD.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T174943Z" creationid="olex" creationdate="20180712T174943Z">
+        <seg>LibreOffice всегда правильно интерпретирует даты, введенные в формате ISO 8601, например Y-M-D и YYYY-MM-DD.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20632,6 +20720,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Default currency&lt;/f0&gt; is that used in the country entered as &lt;f1&gt;Locale&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T173906Z" creationid="olex" creationdate="20180712T173906Z">
+        <seg>&lt;f0&gt;Валюта по умолчанию&lt;/f0&gt; используется для страны, введенной в &lt;f1&gt;Локальные настройки&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;f0&gt;Format&lt;/f0&gt; menu also contains a quick access to direct text formatting in cells (Figure &lt;t1&gt;31&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T193037Z" creationid="olex" creationdate="20180424T193037Z">
@@ -21525,6 +21621,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T145942Z" creationid="olex" creationdate="20180630T145942Z">
         <seg>Поведение по умолчанию в LibreOffice - это &lt;f0&gt;Ctrl+щелчок&lt;/f0&gt; по гиперссылке для открытия связанного документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default currency determines the proper formatting of fields formatted as currency.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T174050Z" creationid="olex" creationdate="20180712T174025Z">
+        <seg>Валюта по умолчанию определяет правильное оформление полей в формате валюты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27602,6 +27706,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T091650Z" creationid="olex" creationdate="20180415T091650Z">
         <seg>Вы можете определить диапазон текстовых значений в качестве рядов заполнения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can define additional date patterns, separated by semicolons, using Y, M, &amp; D for Year, Month, and Day.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180712T174857Z" creationid="olex" creationdate="20180712T174857Z">
+        <seg>Вы можете определить дополнительные шаблоны дат, разделенные точкой с запятой, используя Y, M и D для Года, Месяца и Дня.</seg>
       </tuv>
     </tu>
     <tu>
