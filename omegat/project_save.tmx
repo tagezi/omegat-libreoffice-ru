@@ -3036,6 +3036,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After selecting the additional grammar checks, you must restart LibreOffice, or reload the document, for them to take effect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T073510Z" creationid="olex" creationdate="20180714T073510Z">
+        <seg>После выбора дополнительных проверок грамматики вы должны перезапустить LibreOffice или перезагрузить документ, чтобы они вступили в силу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After ten years’ successful growth with Sun Microsystems as founding and principle sponsor, the project launched an independent foundation called The Document Foundation, to fulfill the promise of independence written in the original charter.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T170520Z" creationid="lera" creationdate="20180303T165353Z">
@@ -4474,6 +4482,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Capitalization</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T073807Z" creationid="olex" creationdate="20180714T073807Z">
+        <seg>Капитализация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Causes icons as well as words to be visible in menus.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T175110Z" creationid="olex" creationdate="20180627T175110Z">
@@ -4790,6 +4806,54 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T150152Z" creationid="tagezi" creationdate="20180310T145940Z">
         <seg>Флажок (одновременно можно выбрать более одного варианта).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks for a single space between sentences, indicating when one or two extra spaces are found.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074337Z" creationid="olex" creationdate="20180714T074337Z">
+        <seg>Проверяет наличие пробелов между предложениями, указывая, когда найден один или два лишних пробела.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks for all word duplication, rather than just the default words ‘and’, ‘or’, ‘for’, and ‘the’.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T073944Z" creationid="olex" creationdate="20180714T073944Z">
+        <seg>Проверяет дублирование всех слов, а не только слова по умолчанию 'and', 'or', 'for' и 'the'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks for pairs of parentheses and quotation marks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074017Z" creationid="olex" creationdate="20180714T074017Z">
+        <seg>Проверяет парность круглых скобок и кавычек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks for the capitalization of sentences.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T073818Z" creationid="olex" creationdate="20180714T073818Z">
+        <seg>Проверяет капитализацию предложений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks for things such as; &lt;f0&gt;with it’s&lt;/f0&gt;, &lt;f1&gt;he don’t&lt;/f1&gt;, &lt;f2&gt;this things&lt;/f2&gt; and so on.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T073742Z" creationid="olex" creationdate="20180714T073742Z">
+        <seg>Проверяет такие вещи, как; &lt;f0&gt;with it’s&lt;/f0&gt;, &lt;f1&gt;he don’t&lt;/f1&gt;, &lt;f2&gt;this things&lt;/f2&gt; и т.п.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks word and sentence spacing for more than two extra spaces.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074437Z" creationid="olex" creationdate="20180714T074437Z">
+        <seg>Проверяет расстояние между словами и предложениями на наличие более чем двух дополнительных пробелов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7422,6 +7486,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Em dash; En dash</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074529Z" creationid="olex" creationdate="20180714T074529Z">
+        <seg>Тире; дефис</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable &lt;i0/&gt;experimental features</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T172421Z" creationid="olex" creationdate="20180701T172421Z">
@@ -8341,6 +8413,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T200448Z" creationid="olex" creationdate="20180418T200448Z">
         <seg>Рисунок &lt;seq0&gt;27&lt;/seq0&gt;: Диалоговое окно Формат ячеек - вкладка Выравнивание</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Choosing options for checking sentences in English</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T073532Z" creationid="olex" creationdate="20180714T073532Z">
+        <seg>Рисунок &lt;seq0&gt;28&lt;/seq0&gt;: Выбор вариантов проверки предложений на английском языке</seg>
       </tuv>
     </tu>
     <tu>
@@ -13799,6 +13879,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It checks for single spaces between words, indicating instances of double or triple spaces, but not of more spaces than that.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074230Z" creationid="olex" creationdate="20180714T074230Z">
+        <seg>Он проверяет количество пробелов между словами, указывая экземпляры двойных или тройных пробелов, но не больше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It contains one or more panels, based on the current document context.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T175132Z" creationid="olex" creationdate="20180616T175132Z">
@@ -15534,6 +15622,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T175951Z" creationid="olex" creationdate="20180611T175924Z">
         <seg>Дополнительную информацию и ссылки для загрузки в соответствующую редакцию Java для вашей операционной системы можно найти по адресу: &lt;a0&gt;https://java.com/ru/download/manual.jsp&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More spaces</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074347Z" creationid="olex" creationdate="20180714T074347Z">
+        <seg>Больше пробелов</seg>
       </tuv>
     </tu>
     <tu>
@@ -17313,6 +17409,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Parentheses</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T073956Z" creationid="olex" creationdate="20180714T073956Z">
+        <seg>Круглые скобки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Participation is free but must be booked in advance by sending an email to &lt;a0&gt;certification@libreoffice.org&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T212101Z" creationid="tagezi" creationdate="20180307T192058Z">
@@ -17453,6 +17557,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T154449Z" creationid="olex" creationdate="20180603T154449Z">
         <seg>Расположение объектов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possible mistakes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T073639Z" creationid="olex" creationdate="20180714T073639Z">
+        <seg>Возможные ошибки</seg>
       </tuv>
     </tu>
     <tu>
@@ -18939,6 +19051,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f1&gt;Tools &gt; Extension Manager&lt;/f1&gt;, select the English spelling dictionaries and click the &lt;f2&gt;Options&lt;/f2&gt; button to reveal the menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T073438Z" creationid="olex" creationdate="20180714T073438Z">
+        <seg>Выберите &lt;f1&gt;Сервис &gt; Управление расширениями&lt;/f1&gt;, выберите англоязычные словари и нажмите кнопку &lt;f2&gt;Параметры&lt;/f2&gt;, чтобы открыть меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f2&gt;Screen only&lt;/f2&gt; to replace the screen font only and never replace the font for printing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T181334Z" creationid="olex" creationdate="20180628T181334Z">
@@ -19685,6 +19805,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select which of the optional features you wish to check.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T073452Z" creationid="olex" creationdate="20180714T073452Z">
+        <seg>Выберите, какие из дополнительных функций вы хотите проверить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select your macro and click &lt;f0&gt;Edit&lt;/f0&gt; to open the macro in the IDE.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T085412Z" creationid="tagezi" creationdate="20180319T085412Z">
@@ -19817,6 +19945,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T164401Z" creationid="olex" creationdate="20180624T164401Z">
         <seg>Отправьте данные об использовании, чтобы помочь Document Foundation улучшить удобство использования программного обеспечения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sentence spacing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074244Z" creationid="olex" creationdate="20180714T074244Z">
+        <seg>Интервал между предложениями</seg>
       </tuv>
     </tu>
     <tu>
@@ -22862,6 +22998,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sentence boundary detection depends on abbreviations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T073836Z" creationid="olex" creationdate="20180714T073836Z">
+        <seg>Определение границы предложения зависит от сокращений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The simple formula &lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt;&lt;s4/&gt;can be created using LibreOffice Math as follows:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204826Z" creationid="Роман" creationdate="20180316T204826Z">
@@ -23744,6 +23888,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T172813Z" creationid="olex" creationdate="20180701T172813Z">
         <seg>Эта опция позволяет выполнять запись макросов с некоторыми ограничениями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This option is selected by default.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074106Z" creationid="olex" creationdate="20180714T074106Z">
+        <seg>Этот параметр выбран по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27288,6 +27440,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T195933Z" creationid="tagezi" creationdate="20180318T195933Z">
         <seg>С учетом двух приведенных выше вопросов ознакомьтесь с текстом, чтобы узнать, можно ли записать макрос для форматирования текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Word duplication</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T073848Z" creationid="olex" creationdate="20180714T073848Z">
+        <seg>Дублирование слов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Word spacing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074031Z" creationid="olex" creationdate="20180714T074031Z">
+        <seg>Интервал между словами</seg>
       </tuv>
     </tu>
     <tu>
