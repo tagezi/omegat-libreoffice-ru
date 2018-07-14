@@ -12292,6 +12292,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do not want spelling checked while you type, deselect &lt;f0&gt;Check spelling as you type&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;This option can also be deselected using the &lt;f2&gt;Automatic Spell Checking&lt;/f2&gt; button on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T071237Z" creationid="olex" creationdate="20180714T071237Z">
+        <seg>Если вы не хотите, чтобы орфография проверялась во время ввода, то отмените выбор &lt;f0&gt;Автоматически проверять орфографию&lt;/f0&gt;. &lt;f1&gt;&lt;/f1&gt;Эту опцию также можно отменить, нажав кнопку &lt;f2&gt;Автопроверка орфографии&lt;/f2&gt; на панели инструментов Стандартная.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not want to use Java, you can still use nearly all of the LibreOffice features.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T183226Z" creationid="tagezi" creationdate="20180310T183226Z">
@@ -13177,6 +13185,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T180947Z" creationid="olex" creationdate="20180628T180947Z">
         <seg>В поле &lt;f0&gt;Заменить на&lt;/f0&gt; выберите подходящий шрифт из раскрывающегося списка шрифтов, установленных на вашем компьютере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the &lt;f1&gt;Options&lt;/f1&gt; section of the page (Figure &lt;t2&gt;27&lt;/t2&gt;), choose the settings that are useful for you.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T070635Z" creationid="olex" creationdate="20180714T070635Z">
+        <seg>В разделе &lt;f1&gt;Параметры&lt;/f1&gt; страницы (Рисунок &lt;t2&gt;27&lt;/t2&gt;) выберите нужные вам параметры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20093,6 +20109,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some considerations:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T070823Z" creationid="olex" creationdate="20180714T070823Z">
+        <seg>Некоторые пояснения:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some controls, such as superscript, only become active when the text cursor is active in the Input line of the Formula bar or the cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T194956Z" creationid="olex" creationdate="20180329T194956Z">
@@ -24106,6 +24130,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T190917Z" creationid="olex" creationdate="20180507T190917Z">
         <seg>Чтобы выбрать новую информацию для отображения или изменить макет существующей информации, щелкните правой кнопкой мыши в любом месте существующей сводной таблицы, чтобы открыть контекстное меню, и выберите &lt;f0&gt;Редактировать макет&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To choose the options for checking spelling, click &lt;f0&gt;Language Settings &gt; Writing Aids&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T070341Z" creationid="olex" creationdate="20180714T070341Z">
+        <seg>Чтобы выбрать параметры проверки орфографии, нажмите &lt;f0&gt;Настройки языка &gt; Лингвистика&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
