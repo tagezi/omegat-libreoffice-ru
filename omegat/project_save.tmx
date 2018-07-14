@@ -505,6 +505,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Check special regions&lt;/f0&gt; includes headers, footers, frames, and tables when checking spelling.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T072140Z" creationid="olex" creationdate="20180714T071943Z">
+        <seg>&lt;f0&gt;Проверять специальные области&lt;/f0&gt; добавляет заголовки, нижние колонтитулы, фреймы и таблицы в проверку орфографии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Column type&lt;/f0&gt; – select a column in the preview window and select the data type to be applied the imported data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T181303Z" creationid="olex" creationdate="20180330T194022Z">
@@ -12477,10 +12485,26 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you use &lt;i0/&gt;a custom dictionary that includes words in all uppercase and words with numbers (for example, AS/400), select &lt;f1&gt;Check uppercase words&lt;/f1&gt; and &lt;f2&gt;Check words with numbers&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T071930Z" creationid="olex" creationdate="20180714T071930Z">
+        <seg>Если вы используете &lt;i0/&gt;пользовательский словарь, который включает слова из прописных букв и слова с цифрами (например, АС/400), то выберите &lt;f1&gt;Проверить слова, написанные прописными буквами&lt;/f1&gt; и &lt;f2&gt;Проверить слова с цифрами&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you use symbolic constants defined by the Application Programming Interface (API), it is safer to assume that the names are case-sensitive.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T092702Z" creationid="tagezi" creationdate="20180315T092702Z">
         <seg>Если вы используете символические константы, определенные интерфейсом прикладного программирования (API), безопаснее предположить, что имена будут чувствительны к регистру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want grammar to be checked as you type, you must have &lt;f0&gt;Check spelling as you type&lt;/f0&gt; enabled too.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T071537Z" creationid="olex" creationdate="20180714T071537Z">
+        <seg>Если вы хотите, чтобы по мере ввода проверялась грамматика, то так же необходимо включить &lt;f0&gt;Автоматически проверять орфографию&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28939,6 +28963,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180321T190955Z" creationid="olex" creationdate="20180309T193744Z">
         <seg>пользовательских</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>custom dictionary</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T071606Z" creationid="olex" creationdate="20180714T071606Z">
+        <seg>пользовательский словарь</seg>
       </tuv>
     </tu>
     <tu>
