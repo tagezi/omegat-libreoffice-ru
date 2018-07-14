@@ -3607,6 +3607,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apostrophe</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074940Z" creationid="olex" creationdate="20180714T074940Z">
+        <seg>Апостроф</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appendix B &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T150923Z" creationid="lera" creationdate="20180303T150923Z">
@@ -4822,6 +4830,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180714T073944Z" creationid="olex" creationdate="20180714T073944Z">
         <seg>Проверяет дублирование всех слов, а не только слова по умолчанию 'and', 'or', 'for' и 'the'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checks for correct typographical double quotation marks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074845Z" creationid="olex" creationdate="20180714T074845Z">
+        <seg>Проверяет правильные типографские двойные кавычки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7488,8 +7504,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Em dash; En dash</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074529Z" creationid="olex" creationdate="20180714T074529Z">
-        <seg>Тире; дефис</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074608Z" creationid="olex" creationdate="20180714T074529Z">
+        <seg>Тире; Дефис</seg>
       </tuv>
     </tu>
     <tu>
@@ -14119,6 +14135,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It replaces an ‘x’ used as a multiplication symbol with the correct typographical symbol.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074921Z" creationid="olex" creationdate="20180714T074921Z">
+        <seg>Заменяет «x», используемый как символ умножения, правильным типографским символом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It resets the options to the values that were in place when you opened the dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T161320Z" creationid="olex" creationdate="20180624T161320Z">
@@ -15578,6 +15602,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minus sign</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T075221Z" creationid="olex" creationdate="20180714T075221Z">
+        <seg>Знак минус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mirror copies</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T155334Z" creationid="olex" creationdate="20180603T155334Z">
@@ -16120,6 +16152,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T182951Z" creationid="olex" creationdate="20180326T182951Z">
         <seg>Несколько не смежных листов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiplication sign</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074856Z" creationid="olex" creationdate="20180714T074856Z">
+        <seg>Знак умножения</seg>
       </tuv>
     </tu>
     <tu>
@@ -17930,6 +17970,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quotation marks</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074816Z" creationid="olex" creationdate="20180714T074816Z">
+        <seg>Кавычки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REM Get the view cursor from the current controller.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190504Z" creationid="tagezi" creationdate="20180320T190426Z">
@@ -18158,6 +18206,30 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T182031Z" creationid="olex" creationdate="20180628T182031Z">
         <seg>Действие при замене</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replaces a hyphen with the correct minus typographical character.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T075254Z" creationid="olex" creationdate="20180714T075254Z">
+        <seg>Заменяет дефис правильным типографского символом минус.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replaces an apostrophe with the correct typographical character.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074954Z" creationid="olex" creationdate="20180714T074954Z">
+        <seg>Заменяет апостроф на правильный типографский символ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replaces three consecutive periods (full stops) with the correct typographical symbol.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T075155Z" creationid="olex" creationdate="20180714T075155Z">
+        <seg>Заменяет троеточие на правильный типографский символ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23444,6 +23516,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T174505Z" creationid="olex" creationdate="20180701T174505Z">
         <seg>Эти параметры предназначены для написания макросов и здесь не обсуждаются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These options force a non-spaced em dash to replace a spaced en dash, or force a spaced en dash to replace a non-spaced em dash.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T074805Z" creationid="olex" creationdate="20180714T074805Z">
+        <seg>Эти параметры заменяет тире без пробелов на дефис или заменяет дефис с пробелами на тире.</seg>
       </tuv>
     </tu>
     <tu>
