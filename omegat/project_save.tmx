@@ -6668,6 +6668,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dictionaries installed by the system cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T072358Z" creationid="olex" creationdate="20180714T072358Z">
+        <seg>Словари, установленные системой, не могут быть удалены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Different from the command &lt;f0&gt;Save as&lt;/f0&gt;, LibreOffice uses the term “export” to create a new file with another format without leaving the current content and file format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T205532Z" creationid="tagezi" creationdate="20180304T205532Z">
@@ -8317,6 +8325,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T184644Z" creationid="olex" creationdate="20180416T184644Z">
         <seg>Рисунок &lt;seq0&gt;26&lt;/seq0&gt;: Диалоговое окно Удалить содержимое</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Choosing languages, dictionaries, and options for checking spelling</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T072445Z" creationid="olex" creationdate="20180714T072445Z">
+        <seg>Рисунок &lt;seq0&gt;27&lt;/seq0&gt;: Выбор языков, словарей и параметров для проверки орфографии</seg>
       </tuv>
     </tu>
     <tu>
@@ -11136,6 +11152,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T171412Z" creationid="olex" creationdate="20180627T171412Z">
         <seg>Параметр Автоматический использует набор значков, совместимый с вашей операционной системой, и выбранным рабочим столом: например, KDE или Gnome в Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you can also select which user-defined (custom) dictionaries are active by default, and add or remove user-installed dictionaries, by clicking the &lt;f0&gt;New&lt;/f0&gt; or &lt;f1&gt;Delete&lt;/f1&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T072334Z" creationid="olex" creationdate="20180714T072334Z">
+        <seg>Здесь вы также можете выбрать, какие пользовательские словари будут активны по умолчанию, а также добавить или удалить словари, установленные пользователем, нажав кнопки &lt;f0&gt;Создать&lt;/f0&gt; или &lt;f1&gt;Удалить&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16490,6 +16514,15 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T183210Z" creationid="olex" creationdate="20180621T183210Z">
         <seg>При перезагрузке вашего документа диалоговое окно Файл не открывается, поскольку файл уже выбран.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>denkin: в русской установке такой пункт настроек отсутствует</note>
+      <tuv lang="EN-US">
+        <seg>On the &lt;f0&gt;Language Settings &gt; English sentence checking&lt;/f0&gt; page, you can choose which items are checked for, reported to you, or converted automatically.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T073110Z" creationid="olex" creationdate="20180714T073110Z">
+        <seg>На странице &lt;f0&gt;Настройки языка &gt; Английское предложение, проверяющее&lt;/f0&gt;, вы можете выбрать, какие элементы проверяются, сообщаются вам или преобразуются автоматически.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23655,6 +23688,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T183605Z" creationid="tagezi" creationdate="20180312T183306Z">
         <seg>Это означает, что вы должны снова копировать свою информацию для повторения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This menu is also found in the English dictionaries extension installed by default by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180714T073153Z" creationid="olex" creationdate="20180714T073153Z">
+        <seg>Это меню также находится в расширении английских словарей, установленном по умолчанию LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
