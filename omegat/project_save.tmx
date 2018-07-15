@@ -424,6 +424,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Apply Changes and Restart &lt;/f0&gt;- &lt;f1&gt;Choose this option to apply any of the above changes and restart LibreOffice.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T114154Z" creationid="olex" creationdate="20180715T114154Z">
+        <seg>&lt;f0&gt;Применить и перезапустить&lt;/f0&gt; - &lt;f1&gt;Выберите этот параметр, чтобы применить любое из перечисленных выше изменений и перезапустить LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;AutoFill&lt;/f0&gt; – forms a series directly in the sheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T143154Z" creationid="olex" creationdate="20180414T143154Z">
@@ -541,6 +549,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T191800Z" creationid="olex" creationdate="20180611T173343Z">
         <seg>&lt;f0&gt;Согласующийся пользовательский интерфейс.&lt;/f0&gt; Все модули имеют похожий внешний вид, что упрощает их использование и освоение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Continue in Safe Mode&lt;/f0&gt; - &lt;f1&gt;Continuing in Safe Mode will allow you to work in LibreOffice as you are used to, but using &lt;/f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;temporary profile &lt;/f4&gt;&lt;f5&gt;that was created on start up.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T114448Z" creationid="olex" creationdate="20180715T114400Z">
+        <seg>&lt;f0&gt;Продолжить в безопасном режиме&lt;/f0&gt; - &lt;f1&gt;Продолжение в безопасном режиме позволит вам работать в LibreOffice, как вы привыкли, но используя&lt;/f1&gt; &lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;временный профиль&lt;/f4&gt;&lt;f5&gt;, который будет создан при запуске&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1209,10 +1225,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Reset Entire User Profile – &lt;/f0&gt;&lt;f1&gt;this &lt;/f1&gt;&lt;f2&gt;will erase all customized options and return your user profile to the factory default state.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T114050Z" creationid="olex" creationdate="20180715T113956Z">
+        <seg>&lt;f0&gt;Сброс профиля пользователя&lt;/f0&gt; - &lt;f1&gt;эта настройка&lt;/f1&gt; &lt;f2&gt; удалит все настроенные параметры и вернет ваш профиль пользователя в состояние по умолчанию. &lt;/ f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Reset Settings and User Interface Modifications&lt;/f0&gt;&lt;f1&gt; – &lt;/f1&gt;&lt;f2&gt;this &lt;/f2&gt;&lt;f3&gt;will reset your User Interface and configuration changes, but keep things like your personal dictionary, templates, etc... &lt;s4/&gt;&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180715T113849Z" creationid="olex" creationdate="20180715T113849Z">
-        <seg>&lt;f0&gt;Сброс настроек и изменений интерфейса&lt;/f0&gt;&lt;f1&gt; - &lt;/f1&gt;&lt;f2&gt;этот параметр&lt;/f2&gt; &lt;f3&gt;сбрасывает ваш пользовательский интерфейс и изменения настроек, но сохраняет такие вещи, как ваш личный словарь, шаблоны , и т. п.&lt;s4/&gt;&lt;/f3&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T114030Z" creationid="olex" creationdate="20180715T113849Z">
+        <seg>&lt;f0&gt;Сброс настроек и изменений интерфейса&lt;/f0&gt;&lt;f1&gt; - &lt;/f1&gt;&lt;f2&gt;эта настройка&lt;/f2&gt; &lt;f3&gt;сбрасывает ваш пользовательский интерфейс и изменения настроек, но сохраняет такие вещи, как ваш личный словарь, шаблоны , и т. п.&lt;s4/&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
