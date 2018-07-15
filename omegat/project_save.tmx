@@ -1313,6 +1313,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Start LibreOffice from the &lt;/f0&gt;&lt;f1&gt;command line &lt;/f1&gt;&lt;f2&gt;with the --&lt;/f2&gt;&lt;f3&gt;safe-mode &lt;/f3&gt;&lt;f4&gt;option&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T111336Z" creationid="olex" creationdate="20180715T111336Z">
+        <seg>&lt;f0&gt;Запустите LibreOffice из&lt;/f0&gt; &lt;f1&gt; командной строки&lt;/f1&gt; &lt;f2&gt;с опцией&lt;/f2&gt; &lt;f3&gt;--safe mode&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Start Value&lt;/f0&gt; – determines the start value for the series.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T144900Z" creationid="olex" creationdate="20180414T144900Z">
