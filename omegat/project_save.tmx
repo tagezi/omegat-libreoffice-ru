@@ -4922,6 +4922,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose &lt;f0&gt;Help &gt; Restart in Safe &lt;/f0&gt;&lt;f1&gt;Mode… &lt;/f1&gt;&lt;f2&gt;from the menu bar&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T111158Z" creationid="olex" creationdate="20180715T111158Z">
+        <seg>Выберите &lt;f0&gt;Справка &gt; Перезапуск в безопасном режиме&lt;/f0&gt;&lt;f1&gt;...&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose spelling options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T153344Z" creationid="olex" creationdate="20180623T153344Z">
@@ -13357,6 +13365,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In other components of LibreOffice, the dialog has only four tabs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T105644Z" creationid="olex" creationdate="20180715T105607Z">
+        <seg>В других модулях LibreOffice диалоговое окно имеет только четыре вкладки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In other words, it is a name/value pair.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153555Z" creationid="tagezi" creationdate="20180318T153555Z">
@@ -15766,6 +15782,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T085756Z" creationid="tagezi" creationdate="20180320T085756Z">
         <seg>Модули обычно разделяют функциональные возможности, такие как взаимодействие с пользователем и вычисления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More details are given in the component guides.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T105631Z" creationid="olex" creationdate="20180715T105631Z">
+        <seg>Более подробная информация приведена в руководствах по модулям.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18614,6 +18638,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T142437Z" creationid="tagezi" creationdate="20180316T142437Z">
         <seg>Быстрое выполнение макроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safe Mode &lt;f0&gt;offers various options to &lt;/f0&gt;help restore an instance of LibreOffice that has become corrupted and stopped working &lt;f1&gt;or fails to launch &lt;/f1&gt;for &lt;f2&gt;a variety of &lt;/f2&gt;reasons.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T110239Z" creationid="olex" creationdate="20180715T110239Z">
+        <seg>Безопасный режим &lt;f0&gt;предлагает различные варианты&lt;/f0&gt; восстановления установки LibreOffice, которая оказалась поврежденной, не работает &lt;f1&gt;или не запускается&lt;/f1&gt; &lt;f2&gt;по разным причинам&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24269,6 +24301,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access Safe Mode:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T110311Z" creationid="olex" creationdate="20180715T110311Z">
+        <seg>Для доступа в Безопасный режим:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access the customization options for a toolbar, right-click in an empty space between the icons on a toolbar to open a context menu as follows:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T182426Z" creationid="olex" creationdate="20180615T182426Z">
@@ -25733,6 +25773,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T142708Z" creationid="tagezi" creationdate="20180316T142708Z">
         <seg>Панели инструментов, элементы меню и сочетания клавиш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Troubleshooting LibreOffice &lt;f0&gt;in&lt;/f0&gt; Safe Mode</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T105717Z" creationid="olex" creationdate="20180715T105717Z">
+        <seg>Устранение неполадок LibreOffice &lt;f0&gt;в&lt;/f0&gt; Безопасном режиме</seg>
       </tuv>
     </tu>
     <tu>
