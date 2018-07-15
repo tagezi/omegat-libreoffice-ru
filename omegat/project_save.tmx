@@ -1730,6 +1730,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Y&lt;/f0&gt;ou can create templates for Master Documents as well as for ordinary documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T151527Z" creationid="olex" creationdate="20180715T151527Z">
+        <seg>&lt;f0&gt;Вы&lt;/f0&gt; можете создавать шаблоны для основных документов так же, как для обычных документов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Year&lt;/f0&gt; – use the Date series type and this option to create a series of years.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T092325Z" creationid="olex" creationdate="20180414T144720Z">
@@ -4261,6 +4269,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T151614Z" creationid="olex" creationdate="20180623T151614Z">
         <seg>Основано на LibreOffice &lt;/f4&gt;&lt;f5&gt;6.0&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Based on LibreOffice &lt;f1&gt;6.0&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T145348Z" creationid="olex" creationdate="20180715T145348Z">
+        <seg>Основано на LibreOffice &lt;f1&gt;6.0&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18250,6 +18266,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Published 15 February 201&lt;f0&gt;8&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T145335Z" creationid="olex" creationdate="20180715T145335Z">
+        <seg>Опубликовано 15 февраля 201&lt;f0&gt;8&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Published 16 February 2017.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T214446Z" creationid="tagezi" creationdate="20180310T214446Z">
@@ -19279,6 +19303,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T180913Z" creationid="olex" creationdate="20180306T180913Z">
         <seg>Смотрите “&lt;rf0&gt;Настройка шаблона по умолчанию&lt;/rf0&gt;” на странице &lt;rf1&gt;18&lt;/rf1&gt;&lt;s2/&gt;для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See “&lt;rf0&gt;Setting a default template&lt;/rf0&gt;” on page &lt;rf1&gt;19&lt;/rf1&gt;&lt;s2/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T145844Z" creationid="olex" creationdate="20180715T145844Z">
+        <seg>Смотрите “&lt;rf0&gt;Установка шаблона по умолчанию&lt;/rf0&gt;” на странице &lt;rf1&gt;19&lt;/rf1&gt;&lt;s2/&gt;для получения дополнительной информации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26917,6 +26949,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T183551Z" creationid="olex" creationdate="20180617T183551Z">
         <seg>Команда Сохранить &lt;f0&gt;немедленно&lt;/f0&gt; перезапишет последнюю сохраненную версию файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the Set Paragraph Style list in Writer</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T145648Z" creationid="olex" creationdate="20180715T145648Z">
+        <seg>Использование списка стилей абзаца в Writer</seg>
       </tuv>
     </tu>
     <tu>
