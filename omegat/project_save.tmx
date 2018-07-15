@@ -278,6 +278,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;2&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Copyright&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T123220Z" creationid="olex" creationdate="20180715T123220Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;2&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Авторские права&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>проверка примечаний</note>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;4&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Where to get more help&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
@@ -364,6 +372,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T190303Z" creationid="olex" creationdate="20180607T190303Z">
         <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Предисловие&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1&gt;34&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 2 Setting Up LibreOffice&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T123357Z" creationid="olex" creationdate="20180715T123357Z">
+        <seg>&lt;f0&gt;&lt;t1&gt;34&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Глава 2 Настройка LibreOffice&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -643,8 +659,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://www.libreoffice.org/get-help/documentation&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T174128Z" creationid="tagezi" creationdate="20180306T174128Z">
-        <seg>&lt;f0&gt;Документация на LibreOffice доступна на &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T123336Z" creationid="tagezi" creationdate="20180306T174128Z">
+        <seg>&lt;f0&gt;Документация на LibreOffice доступна на странице &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -909,6 +925,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T195922Z" creationid="olex" creationdate="20180402T195922Z">
         <seg>&lt;f0&gt;Home&lt;/f0&gt; перемещает фокус ячейки в начало строки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;However, be aware that your uploaded user profile &lt;/f0&gt;&lt;f1&gt;may&lt;/f1&gt;&lt;f2&gt; contain sensitive information such as installed extensions, personal dictionaries and settings.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T123116Z" creationid="olex" creationdate="20180715T123116Z">
+        <seg>&lt;f0&gt;Однако помните, что ваш загруженный профиль пользователя&lt;/f0&gt; &lt;f1&gt;может&lt;/f1&gt; &lt;f2&gt;содержать конфиденциальную информацию, такую как установленные расширения, личные словари и настройки&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2187,6 +2211,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;32&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Troubleshooting LibreOffice in Safe Mode&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T123242Z" creationid="olex" creationdate="20180715T123242Z">
+        <seg>&lt;t0&gt;32&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Устранение неполадок LibreOffice в безопасном режиме&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;52&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 5 Getting started with Calc&lt;/t4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T171637Z" creationid="olex" creationdate="20180326T171637Z">
@@ -2247,6 +2279,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T074244Z" creationid="tagezi" creationdate="20180319T074244Z">
         <seg>&lt;t0&gt;Глава 13 Начало работы с Макросами&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Chapter 2 Setting Up LibreOffice&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;33&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T123307Z" creationid="olex" creationdate="20180715T123307Z">
+        <seg>&lt;t0&gt;Глава 2 Настройка LibreOffice&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;33&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2359,6 +2399,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T171609Z" creationid="olex" creationdate="20180326T171609Z">
         <seg>&lt;t0&gt;Печать&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;51&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Troubleshooting LibreOffice in Safe Mode&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;33&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T123202Z" creationid="olex" creationdate="20180715T123202Z">
+        <seg>&lt;t0&gt;Устранение неполадок LibreOffice в безопасном режиме&lt;/t0&gt; &lt;f1&gt;|&lt;/f1&gt;&lt;t2&gt;33&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
