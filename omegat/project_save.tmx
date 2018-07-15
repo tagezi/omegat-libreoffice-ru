@@ -2275,6 +2275,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A MediaWiki publisher is included on Windows and Linux.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T103135Z" creationid="olex" creationdate="20180715T103135Z">
+        <seg>Публикация MediaWiki включена в Windows и Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A PowerPoint file (*.ppt or *.pptx) opens in Impress.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T182436Z" creationid="olex" creationdate="20180611T182436Z">
@@ -3884,6 +3892,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064435Z" creationid="tagezi" creationdate="20180305T064435Z">
         <seg>Формат обмена данными AutoCAD (*.dxf)&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AutoCorrect</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T103832Z" creationid="olex" creationdate="20180715T103832Z">
+        <seg>Автозамена</seg>
       </tuv>
     </tu>
     <tu>
@@ -6088,6 +6104,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T154445Z" creationid="lera" creationdate="20180303T154445Z">
         <seg>Control+click и/или щелчок правой кнопкой мыши в зависимости от настроек ОС</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controlling &lt;i0/&gt;LibreOffice’s AutoCorrect functions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T103912Z" creationid="olex" creationdate="20180715T103912Z">
+        <seg>Управление &lt;i0/&gt;функциями Автозамены в LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -8557,6 +8581,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T191352Z" creationid="olex" creationdate="20180424T191352Z">
         <seg>Рисунок &lt;seq0&gt;30&lt;/seq0&gt;: Имя и размер шрифта на панели инструментов Форматирования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Specifying a MediaWiki server account</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T103819Z" creationid="olex" creationdate="20180715T103819Z">
+        <seg>Рисунок &lt;seq0&gt;30&lt;/seq0&gt;: Указание учетной записи сервера MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -11340,6 +11372,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here you can specify the address (URL) and log-in information for a wiki.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T103504Z" creationid="olex" creationdate="20180715T103417Z">
+        <seg>Здесь вы можете указать адрес (URL) и данные входа для Wiki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hiding and Showing sheets:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183238Z" creationid="olex" creationdate="20180326T183238Z">
@@ -12318,8 +12358,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If you are using a Unix- or Linux-based operating system (including Mac OS X), an additional page &lt;i0/&gt;of E-mail options is available, where you can specify the e-mail program to use when you send the current document as e-mail.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180715T102754Z" creationid="olex" creationdate="20180715T102754Z">
-        <seg>Если вы используете операционную систему на базе Linux или Unix (включая Mac OS X), то будет доступна дополнительная страница &lt;i0/&gt;параметров электронной почты, где вы можете указать почтовую программу, которая будет использоваться при отправке текущего документ в виде электронной почты.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T103341Z" creationid="olex" creationdate="20180715T102754Z">
+        <seg>Если вы используете операционную систему на базе Linux или Unix (включая Mac OS X), то будет доступна дополнительная страница &lt;i0/&gt;параметров электронной почты, где вы можете указать почтовый клиент, который будет использоваться при отправке текущего документ в виде электронной почты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20551,6 +20591,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some people find some or all of the items in LibreOffice’s AutoCorrect function annoying because they change what you type when you do not want it changed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T104120Z" creationid="olex" creationdate="20180715T104120Z">
+        <seg>Некоторые люди находят все или некоторые части функции Автозамена в LibreOffice раздражающими, потому что они меняют текст в процессе набора, когда вы этого не хотите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some servers are also able to check-in and check-out files, thus controlling their usage and access.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T180623Z" creationid="olex" creationdate="20180619T180623Z">
@@ -24743,6 +24791,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To enable it, select MediaWiki in the Internet options, then click the &lt;f0&gt;Add&lt;/f0&gt; button to open the dialog shown in Figure &lt;t1&gt;30&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T103315Z" creationid="olex" creationdate="20180715T103315Z">
+        <seg>Чтобы включить ее, выберите MediaWiki в настройках Интернета, затем нажмите кнопку &lt;f0&gt;Добавить&lt;/f0&gt;, чтобы открыть диалоговое окно, показанное на Рисунке &lt;t1&gt;30&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To enter a negative number, either type a minus (–) sign in front of the number or enclose the number in parentheses (), for example (1234).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T180108Z" creationid="olex" creationdate="20180411T180108Z">
@@ -25789,8 +25845,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>Under Windows the operating system’s default e-mail program is always used.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180715T102944Z" creationid="olex" creationdate="20180715T102944Z">
-        <seg>В Windows всегда используется программа электронной почты по умолчанию для операционной системы.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T103354Z" creationid="olex" creationdate="20180715T102944Z">
+        <seg>В Windows всегда используется почтовый клиент по умолчанию для операционной системы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27832,6 +27888,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T155916Z" creationid="tagezi" creationdate="20180310T155916Z">
         <seg>Да.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can add several wikis to the list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T103509Z" creationid="olex" creationdate="20180715T103450Z">
+        <seg>Вы можете добавить к списку несколько Wiki.</seg>
       </tuv>
     </tu>
     <tu>
