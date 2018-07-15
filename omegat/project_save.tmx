@@ -6108,6 +6108,30 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Convert to metric; Convert to non-metric</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T102007Z" creationid="olex" creationdate="20180715T101230Z">
+        <seg>Преобразовать в метрическую; Преобразовать в неметрическую</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converts a number with five or more significant digits to a common format, that is one which uses the comma as a thousands separator, or to the ISO format which uses a narrow space as a separator, depending on the locale setting for the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T101640Z" creationid="olex" creationdate="20180715T101640Z">
+        <seg>Преобразует число с пятью или более значащими цифрами в общий формат, который использует запятую как разделитель тысяч или формат ISO, который использует узкий пробел в качестве разделителя, в зависимости от языковой настройки для документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converts quantities in a given type of unit to quantities in the other type of unit: metric to imperial or imperial to metric.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T101407Z" creationid="olex" creationdate="20180715T101407Z">
+        <seg>Преобразует величины в единицах данного типа в величины другого типа: из метрической в имперскую или из имперской в метрическую.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy content</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T173051Z" creationid="olex" creationdate="20180627T173051Z">
@@ -7302,6 +7326,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E-mail options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T102510Z" creationid="olex" creationdate="20180715T102510Z">
+        <seg>Параметры электронной почты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each Navigator in the individual LibreOffice components has a different range of functions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T181203Z" creationid="olex" creationdate="20180621T181142Z">
@@ -8445,6 +8477,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T200827Z" creationid="olex" creationdate="20180418T200827Z">
         <seg>Рисунок &lt;seq0&gt;28&lt;/seq0&gt;: Настройка переноса текста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Internet options, showing E-mail page available to Linux users</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T102447Z" creationid="olex" creationdate="20180715T102447Z">
+        <seg>Рисунок &lt;seq0&gt;29&lt;/seq0&gt;: Параметры Интернет, показана страница Эл.адрес доступная для пользователей Линукс</seg>
       </tuv>
     </tu>
     <tu>
@@ -12276,6 +12316,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are using a Unix- or Linux-based operating system (including Mac OS X), an additional page &lt;i0/&gt;of E-mail options is available, where you can specify the e-mail program to use when you send the current document as e-mail.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T102754Z" creationid="olex" creationdate="20180715T102754Z">
+        <seg>Если вы используете операционную систему на базе Linux или Unix (включая Mac OS X), то будет доступна дополнительная страница &lt;i0/&gt;параметров электронной почты, где вы можете указать почтовую программу, которая будет использоваться при отправке текущего документ в виде электронной почты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are using a version of LibreOffice other than US English, some field labels may be different from those shown in the illustrations.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T161427Z" creationid="olex" creationdate="20180624T161427Z">
@@ -13775,6 +13823,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Internet options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T102144Z" creationid="olex" creationdate="20180715T102130Z">
+        <seg>Настройки интернета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introducing LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T192034Z" creationid="olex" creationdate="20180607T192034Z">
@@ -14485,6 +14541,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T194735Z" creationid="olex" creationdate="20180711T194735Z">
         <seg>При установке LibreOffice автоматически устанавливается множество словарей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice can also check sentences in other languages, notably Hungarian, Russian, and Brazilian Portuguese.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T101657Z" creationid="olex" creationdate="20180715T101657Z">
+        <seg>LibreOffice также может проверять предложения на других языках, в частности, на венгерском, русском и бразильском языках.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21450,6 +21514,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Internet options available depend on your operating system.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T102224Z" creationid="olex" creationdate="20180715T102224Z">
+        <seg>Доступные параметры Интернета зависят от вашей операционной системы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Java JDK/JRE is only required for some features.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T185626Z" creationid="tagezi" creationdate="20180310T174612Z">
@@ -23078,6 +23150,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The set of rules available for these sentence checkers depends on the language.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T102042Z" creationid="olex" creationdate="20180715T102042Z">
+        <seg>Набор правил, доступных для этих проверок предложений, зависит от языка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The simple formula &lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt;&lt;s4/&gt;can be created using LibreOffice Math as follows:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204826Z" creationid="Роман" creationdate="20180316T204826Z">
@@ -23444,6 +23524,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T183945Z" creationid="olex" creationdate="20180430T183945Z">
         <seg>Эти изменения не изменяют тему; они только изменяют стиль внешнего вида в конкретной электронной таблице, которую вы создаете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These checkers are enabled by default if the language is the computer’s default language.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T101920Z" creationid="olex" creationdate="20180715T101920Z">
+        <seg>Эти проверки включены по умолчанию, если язык является языком по умолчанию для компьютера.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24033,6 +24121,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T041308Z" creationid="tagezi" creationdate="20180316T041308Z">
         <seg>ThisComponent ссылается на текущий документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thousands separation of large numbers</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T101523Z" creationid="olex" creationdate="20180715T101523Z">
+        <seg>Разделитель тысяч для больших чисел</seg>
       </tuv>
     </tu>
     <tu>
@@ -25691,6 +25787,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Under Windows the operating system’s default e-mail program is always used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T102944Z" creationid="olex" creationdate="20180715T102944Z">
+        <seg>В Windows всегда используется программа электронной почты по умолчанию для операционной системы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Undoing and redoing changes</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T200211Z" creationid="olex" creationdate="20180607T200211Z">
@@ -26003,6 +26107,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201640Z" creationid="Роман" creationdate="20180316T201640Z">
         <seg>Используйте английские имена греческих символов в языке разметки для ввода греческих символов в формулу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the Proxy page (if available) to save proxy settings for use with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T102315Z" creationid="olex" creationdate="20180715T102315Z">
+        <seg>Используйте страницу Прокси (если она доступна), чтобы сохранить настройки прокси для использования в LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
