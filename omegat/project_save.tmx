@@ -529,6 +529,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Configure&lt;/f0&gt; - &lt;f1&gt;This option allows you to disable all user extensions, hardware acceleration, or both.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T112513Z" creationid="olex" creationdate="20180715T112513Z">
+        <seg>&lt;f0&gt;Настроить&lt;/f0&gt; - &lt;f1&gt; Эта опция позволяет отключить все пользовательские расширения, аппаратное ускорение или и то, и другое.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Consistent user interface.&lt;/f0&gt; All the components have a similar “look and feel,” making them easy to use and master.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T191800Z" creationid="olex" creationdate="20180611T173343Z">
@@ -897,6 +905,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In &lt;/f0&gt;&lt;f1&gt;Windows Only, &lt;/f1&gt;&lt;f2&gt;choose &lt;/f2&gt;&lt;f3&gt;LibreOffice (Safe Mode)&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;from the &lt;/f5&gt;&lt;f6&gt;Start Menu&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T111734Z" creationid="olex" creationdate="20180715T111734Z">
+        <seg>&lt;f0&gt;В&lt;/f0&gt; &lt;f1&gt;Windows&lt;/f1&gt; &lt;f2&gt;выберите&lt;/f2&gt; &lt;f3&gt;LibreOffice (безопасный режим)&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt; &lt;f5&gt;из&lt;/f5&gt; &lt;f6&gt;Меню «Пуск»&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;In addition to the Help menu links above, there are other online community support options available, s&lt;/f0&gt;ee &lt;f1&gt;the t&lt;/f1&gt;able &lt;f2&gt;below.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T185509Z" creationid="olex" creationdate="20180606T185158Z">
@@ -1201,6 +1217,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Restore from Backup&lt;/f0&gt; - &lt;f1&gt;LibreOffice keeps backups of previous configurations and activated extensions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T112124Z" creationid="olex" creationdate="20180715T112124Z">
+        <seg>&lt;f0&gt;Восстановление из резервной копии&lt;/f0&gt; - &lt;f1&gt;LibreOffice сохраняет резервные копии предыдущих конфигураций и активированных расширений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Right&lt;/f0&gt; – creates a series running from left to right within the selected cell range using the defined increment to the end value.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T091803Z" creationid="olex" creationdate="20180414T142623Z">
@@ -1315,8 +1339,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Start LibreOffice from the &lt;/f0&gt;&lt;f1&gt;command line &lt;/f1&gt;&lt;f2&gt;with the --&lt;/f2&gt;&lt;f3&gt;safe-mode &lt;/f3&gt;&lt;f4&gt;option&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180715T111336Z" creationid="olex" creationdate="20180715T111336Z">
-        <seg>&lt;f0&gt;Запустите LibreOffice из&lt;/f0&gt; &lt;f1&gt; командной строки&lt;/f1&gt; &lt;f2&gt;с опцией&lt;/f2&gt; &lt;f3&gt;--safe mode&lt;/f3&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T111601Z" creationid="olex" creationdate="20180715T111336Z">
+        <seg>&lt;f0&gt;Запустите LibreOffice из&lt;/f0&gt; &lt;f1&gt; командной строки&lt;/f1&gt; &lt;f2&gt;с опцией&lt;/f2&gt; &lt;f3&gt;--safe-mode&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1939,6 +1963,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;The&lt;f2&gt; following options get more extreme from the top down, so it is recommended that you try them successively.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T112048Z" creationid="olex" creationdate="20180715T112048Z">
+        <seg>&lt;s1/&gt;&lt;f2&gt;Параметры восстановления становятся все более экстремальными сверху вниз, поэтому рекомендуется пробовать их последовательно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s1/&gt;To toggle the visibility of comments, select &lt;f2&gt;View &gt; Comments &lt;/f2&gt;from the &lt;f3&gt;Main Menu.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T184739Z" creationid="olex" creationdate="20180506T183525Z">
@@ -1983,6 +2015,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T190515Z" creationid="olex" creationdate="20180507T190515Z">
         <seg>&lt;s2/&gt;В диалоговом окне &lt;f3&gt;Разметка сводной таблицы&lt;/f3&gt; будут разумно угадываться заголовки столбцов из предоставленных исходных данных и вставляться в поле выбора &lt;f4&gt;Доступные поля&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s2/&gt;Use this option to restore the user configuration, installed extensions or both, to a previous known working state if &lt;/f1&gt;&lt;f3&gt;you suspect &lt;/f3&gt;&lt;f4&gt;that your problems were caused by recent changes to either.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T112350Z" creationid="olex" creationdate="20180715T112350Z">
+        <seg>&lt;s2/&gt;Используйте этот параметр, чтобы восстановить настройки пользователя, установленные расширения или и то, и другое из предыдущего работоспособного состоянии, если&lt;/f1&gt; &lt;f3&gt;вы подозреваете&lt;/f3&gt;&lt;f4&gt;, что ваши проблемы были вызваны недавними изменениями одного из них&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8633,6 +8673,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: LibreOffice Safe Mode</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T111813Z" creationid="olex" creationdate="20180715T111813Z">
+        <seg>Рисунок &lt;seq0&gt;31&lt;/seq0&gt;: Безопасный режим LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: AutoFormat dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T181056Z" creationid="olex" creationdate="20180430T181056Z">
@@ -13118,6 +13166,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T135542Z" creationid="User" creationdate="20180308T135542Z">
         <seg>В Math используйте сочетание клавиш &lt;f0&gt;Ctrl+N&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Safe Mode, &lt;f0&gt;you can find options for &lt;/f0&gt;repairing or restoring your copy of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T111909Z" creationid="olex" creationdate="20180715T111909Z">
+        <seg>В безопасном режиме &lt;f0&gt;вы можете найти варианты для&lt;/f0&gt; исправления или восстановления вашей копии LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
