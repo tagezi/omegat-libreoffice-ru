@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You need to have a document open for this menu item to appear.) In Writer, this dialog has five tabs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T105246Z" creationid="olex" creationdate="20180715T105246Z">
+        <seg>(Для отображения этого пункта меню должен быть открыт документ.) В Writer это диалоговое окно содержит пять вкладок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(included in Frame styles)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T194253Z" creationid="olex" creationdate="20180307T194253Z">
@@ -4189,6 +4197,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T193637Z" creationid="olex" creationdate="20180502T193637Z">
         <seg>Запустите диалоговое окно Формат ячеек, нажатием правой кнопкой мыши и выбрав &lt;f0&gt;Формат ячеек&lt;/f0&gt; или выбрав в меню &lt;f1&gt;Формат &gt; Ячейки...&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But if you find unexplained changes appearing in your document, this is a good place to look to find the cause.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T104411Z" creationid="olex" creationdate="20180715T104302Z">
+        <seg>Но если вы обнаружите необъяснимые изменения, появляющиеся в вашем документе, то параметры автозамены - место, где следует искать причину.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15458,6 +15474,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many people find some of the AutoCorrect functions quite helpful; if you do, then select the relevant options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T104418Z" creationid="olex" creationdate="20180715T104220Z">
+        <seg>Многие люди считают некоторые функции Автозамены весьма полезными; если вы среди них, то выберите соответствующие параметры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many people manually format paragraphs, words, tables, page layouts, and other parts of their documents without paying any attention to styles.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T133451Z" creationid="olex" creationdate="20180306T190252Z">
@@ -20593,8 +20617,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Some people find some or all of the items in LibreOffice’s AutoCorrect function annoying because they change what you type when you do not want it changed.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180715T104120Z" creationid="olex" creationdate="20180715T104120Z">
-        <seg>Некоторые люди находят все или некоторые части функции Автозамена в LibreOffice раздражающими, потому что они меняют текст в процессе набора, когда вы этого не хотите.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T104228Z" creationid="olex" creationdate="20180715T104120Z">
+        <seg>Некоторые люди находят все или некоторые функции Автозамена в LibreOffice раздражающими, потому что они меняют текст в процессе набора, когда вы этого не хотите.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25091,6 +25115,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T185557Z" creationid="olex" creationdate="20180330T184958Z">
         <seg>Чтобы открыть CSV-файл в Calc:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To open the AutoCorrect dialog, click &lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T104736Z" creationid="olex" creationdate="20180715T104736Z">
+        <seg>Чтобы открыть диалог автозамены, нажмите &lt;f0&gt;Сервис &gt; Автозамена &gt; Параметры автозамены...&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
