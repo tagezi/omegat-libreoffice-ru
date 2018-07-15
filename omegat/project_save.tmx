@@ -945,6 +945,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In th&lt;/f0&gt;&lt;f1&gt;e&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;advanced &lt;/f3&gt;&lt;f4&gt;tab you also have the option to create a &lt;/f4&gt;&lt;f5&gt;zip file&lt;/f5&gt;&lt;f6&gt; of your corrupted user &lt;/f6&gt;&lt;f7&gt;pro&lt;/f7&gt;&lt;f8&gt;file &lt;/f8&gt;&lt;f9&gt;which &lt;/f9&gt;&lt;f10&gt;can then be uploaded to the bug tracking system where it can be further investigated by the developers.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T123031Z" creationid="olex" creationdate="20180715T123031Z">
+        <seg>&lt;f0&gt;Во вкладке&lt;/f0&gt; &lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; &lt;f3&gt;Дополнительно&lt;/f3&gt; &lt;f4&gt;вы также можете создать&lt;/f4&gt; &lt;f5&gt;zip-файл&lt;/f5&gt; &lt;f6&gt;с архивом вашего поврежденного профиля пользователя&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;, который&lt;/f9&gt; &lt;f10&gt;можно будет загрузить в системе отслеживания ошибок, где разработчики могут дополнительно исследовать его&lt;/f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Increment&lt;/f0&gt; – determines the value by which the series of the selected type increases by each step.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T145130Z" creationid="olex" creationdate="20180414T145118Z">
@@ -1245,6 +1253,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T113345Z" creationid="olex" creationdate="20180715T113158Z">
         <seg>&lt;f0&gt;Возврат к настройкам установки&lt;/f0&gt; - &lt;f1&gt;Если все вышеописанное не сработает, то вы можете сбросить настройки и изменения своего пользовательского интерфейса, или весь свой профиль обратно на настройки по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Restart in Normal Mode&lt;/f0&gt; - &lt;f1&gt;If you arrived in Safe Mode accidentally, this option will discard any changes, terminate Safe Mode and restart LibreOffice normally.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T122506Z" creationid="olex" creationdate="20180715T122506Z">
+        <seg>&lt;f0&gt;Перезагрузка в нормальном режиме&lt;/f0&gt; - &lt;f1&gt;Если вы случайно вошли в безопасный режим, то эта опция отменит любые изменения, прекратит безопасный режим и перезапустит LibreOffice в обычном режиме.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2119,6 +2135,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T190804Z" creationid="olex" creationdate="20180507T190804Z">
         <seg>&lt;s5/&gt;Оттуда вы можете перетащить нужную информацию в поля &lt;f6&gt;столбцов, строк или страниц&lt;/f6&gt;, чтобы упорядочить данные, и нажать &lt;f7&gt;ОК&lt;/f7&gt;, чтобы просмотреть результаты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s6/&gt;Any extensions or configuration options you had set up previously will have to be reconfigured in order to be used, bearing in mind that any changes made to the temporary user profile will be lost after &lt;/f5&gt;&lt;f7&gt;any &lt;/f7&gt;&lt;f8&gt;restart.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T122248Z" creationid="olex" creationdate="20180715T122248Z">
+        <seg>&lt;s6/&gt;Любые расширения или параметры настроек, которые вы установили ранее, должны быть перенастроены для использования, учитывая, что любые изменения, внесенные во временный профиль пользователя, будут потеряны после &lt;/f5&gt;&lt;f7&gt;перезапуска программы&lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12496,6 +12520,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T182802Z" creationid="olex" creationdate="20180621T182802Z">
         <seg>Если вы уверены, что не хотите сохранять изменения последнего сеанса, вы можете перезагрузить документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are unable to solve your problem using Safe Mode, the &lt;f0&gt;advanced &lt;/f0&gt;&lt;f1&gt;tab will provide instructions on receiving further aid.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180715T122628Z" creationid="olex" creationdate="20180715T122628Z">
+        <seg>Если вы не можете решить свою проблему с помощью безопасного режима, то вкладка &lt;f0&gt;Дополнительно&lt;/f0&gt; &lt;f1&gt;предоставит инструкции по получению дополнительной помощи&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
