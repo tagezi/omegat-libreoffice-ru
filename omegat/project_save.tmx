@@ -1409,6 +1409,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Set Paragraph&lt;/f0&gt;&lt;te1/&gt; Style &lt;ts2/&gt;&lt;f3&gt;l&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;ist &lt;f6&gt;in the Formatting toolbar&lt;/f6&gt;&lt;ts7/&gt;&lt;f8&gt; in Writer&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180717T175728Z" creationid="olex" creationdate="20180717T175728Z">
+        <seg>&lt;f0&gt;Задание&lt;/f0&gt;&lt;te1/&gt; Стиля абзаца &lt;ts2/&gt;&lt;f3&gt;из списка&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt; &lt;f6&gt;на панели инструментов Форматирование&lt;/f6&gt;&lt;ts7/&gt; &lt;f8&gt;в Writer&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Sheet&lt;/f0&gt; – &lt;s1/&gt;contains the most often used commands for handling sheets, such as &lt;f2&gt;Insert&lt;/f2&gt; and &lt;f3&gt;Delete Cells, Columns, Rows and Sheets, Sheets from File, Cell Reference Type, Link to External Data, &lt;/f3&gt;as well as&lt;f4&gt; Comments &lt;/f4&gt;and&lt;f5&gt; Fill cells.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T183829Z" creationid="olex" creationdate="20180328T183829Z">
@@ -1489,6 +1497,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Table &lt;/f0&gt;&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt;&lt;f6&gt;tyles&lt;/f6&gt; appl&lt;tc7/&gt;&lt;ts8/&gt;&lt;f9&gt;y&lt;/f9&gt;&lt;te10/&gt; predefined formats to tables and table&lt;tc11/&gt; elements in a text document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180717T175034Z" creationid="olex" creationdate="20180717T174950Z">
+        <seg>&lt;f0&gt;Стили&lt;/f0&gt; &lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt;&lt;f6&gt;таблиц&lt;/f6&gt; &lt;tc7/&gt;&lt;ts8/&gt;&lt;f9&gt;применяют&lt;/f9&gt;&lt;te10/&gt; предопределенные форматы к таблицам и элементам таблицы&lt;tc11/&gt;  в текстовом документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Table Styles&lt;/f0&gt; applies predefined formats to tables and tables elements in a text document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T183154Z" creationid="olex" creationdate="20180307T183154Z">
@@ -1517,6 +1533,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T194119Z" creationid="olex" creationdate="20180330T194119Z">
         <seg>&lt;f0&gt;Текст&lt;/f0&gt; - импортированные данные обрабатываются как текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;Styles window (floating, or in Sidebar)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180717T175215Z" creationid="olex" creationdate="20180717T175215Z">
+        <seg>&lt;f0&gt;Окно&lt;/f0&gt;Стили (плавающее, или на Боковой панели)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2439,6 +2463,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T074311Z" creationid="tagezi" creationdate="20180319T074311Z">
         <seg>&lt;t0&gt;Ваш первый макрос&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;7&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;M&lt;/f2&gt;&lt;te3/&gt;anual formatting or direct formatting &lt;tc4/&gt;&lt;tc5/&gt;&lt;tc6/&gt;&lt;tc7/&gt;is &lt;f8&gt;a repetitive activity where, for example, you apply bold characters to several words, set individual margins for each paragraph, or change&lt;/f8&gt;&lt;ts9/&gt;&lt;f10&gt; the&lt;/f10&gt;&lt;te11/&gt;&lt;f12&gt; font size of &lt;/f12&gt;&lt;tc13/&gt;&lt;ts14/&gt;&lt;f15&gt;individual&lt;/f15&gt;&lt;te16/&gt;&lt;f17&gt; heading&lt;/f17&gt;&lt;ts18/&gt;&lt;f19&gt;s&lt;/f19&gt;&lt;te20/&gt;&lt;f21&gt;.&lt;/f21&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180717T174103Z" creationid="olex" creationdate="20180717T174011Z">
+        <seg>&lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;Ручное&lt;/f2&gt;&lt;te3/&gt; форматирование или прямое форматирование &lt;tc4/&gt;&lt;tc5/&gt;&lt;tc6/&gt;&lt;tc7/&gt;требует &lt;f8&gt; повторяющихся действий, например, когда вы применяете жирный шрифт к нескольким словам, устанавливаете индивидуальные поля для каждого абзаца или изменяете&lt;/f8&gt;&lt;ts9/&gt; &lt;f10&gt;размер шрифта&lt;/f10&gt;&lt;te11/&gt;&lt;f12&gt;&lt;/f12&gt;&lt;tc13/&gt;&lt;ts14/&gt; &lt;f15&gt;отдельного&lt;/f15&gt;&lt;te16/&gt; &lt;f17&gt;заголовка&lt;/f17&gt;&lt;ts18/&gt;&lt;f19&gt;&lt;/f19&gt;&lt;te20/&gt;&lt;f21&gt;.&lt;/f21&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10108,6 +10140,14 @@ denkin: по смыслу как то не могу вписать "озадач
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you might specify the font family, font size, and any formatting such as bold or italic, &lt;f1&gt;like a typewriter described above.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180717T174548Z" creationid="olex" creationdate="20180717T174548Z">
+        <seg>Например, вы можете указать семейство шрифтов, размер шрифта и любое форматирование, например полужирное или курсивное, &lt;f1&gt;как пишущая машинка, описанная выше&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: TODO: Подумать над might. При прямом перводе получается какойто NLP, а не объяснение. Но менять на настоящее время теряеться смысл. Возможно, хорошим варианто м будет "можно было бы". Не уверен.
 any formatting = любое форматирование
 Форматирование описывается до и после such as, возможно нужно упрощать английский вариант.
@@ -10452,8 +10492,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Formatting a document can be manual or automated.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180306T182627Z" creationid="olex" creationdate="20180306T182627Z">
-        <seg>Форматирование документа может быть ручным или автоматизированным.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180717T173326Z" creationid="olex" creationdate="20180306T182627Z">
+        <seg>Форматирование документа может быть ручным или автоматическим.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13545,6 +13585,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T175805Z" creationid="olex" creationdate="20180707T175711Z">
         <seg>Напротив, абсолютная ссылка всегда начинается с корневого каталога.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In contrast, style formatting &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;uses&lt;/f2&gt;&lt;te3/&gt; computers &lt;ts4/&gt;&lt;f5&gt;to &lt;/f5&gt;&lt;te6/&gt;format documents much more efficiently and reduce the time spent in direct formatting.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180717T174424Z" creationid="olex" creationdate="20180717T174424Z">
+        <seg>Напротив, форматирование стилями&lt;tc0/&gt;&lt;ts1/&gt; &lt;f2&gt;использует&lt;/f2&gt;&lt;te3/&gt; компьютер&lt;ts4/&gt; &lt;f5&gt;для&lt;/f5&gt;&lt;te6/&gt;  более эффективного форматирования документов и сокращения времени, затрачиваемого на прямое форматирование.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20758,6 +20806,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some common examples of style use are given in “&lt;f0&gt;&lt;rf1&gt;Examples of style use&lt;/rf1&gt;&lt;/f0&gt;” on page &lt;f2&gt;&lt;rf3&gt;23&lt;/rf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180717T174654Z" creationid="olex" creationdate="20180717T174654Z">
+        <seg>Некоторые общие примеры использования стилей приведены в «&lt;f0&gt;&lt;rf1&gt;Примеры использования стилей&lt;/rf1&gt;&lt;/f0&gt;" на странице &lt;f2&gt;&lt;rf3&gt;23&lt;/rf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some common examples of style use are given in “&lt;rf0&gt;Examples of style use&lt;/rf0&gt;” on page &lt;rf1&gt;22&lt;/rf1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T141031Z" creationid="olex" creationdate="20180306T202437Z">
@@ -21566,6 +21622,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T183510Z" creationid="olex" creationdate="20180603T183144Z">
         <seg>&lt;f0&gt;Боковая панель&lt;/f0&gt; в Draw содержит 5 вкладок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Styles &lt;/f0&gt;menu has the most important paragraph, character, &lt;f1&gt;and list &lt;/f1&gt;styles for &lt;tc2/&gt;most &lt;tc3/&gt;text document&lt;ts4/&gt;&lt;f5&gt;s&lt;/f5&gt;&lt;te6/&gt;, &lt;f7&gt;with &lt;/f7&gt;&lt;tc8/&gt;&lt;f9&gt;entr&lt;/f9&gt;&lt;ts10/&gt;&lt;f11&gt;ies&lt;/f11&gt;&lt;te12/&gt;&lt;tc13/&gt;&lt;f14&gt; for custom style management options &lt;/f14&gt;&lt;tc15/&gt;&lt;ts16/&gt;&lt;f17&gt;at&lt;/f17&gt;&lt;te18/&gt;&lt;f19&gt; the bottom of the menu.&lt;/f19&gt; The Styles menu does not have styles for frames, &lt;f20&gt;pages, or tables.&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180717T180701Z" creationid="olex" creationdate="20180717T180701Z">
+        <seg>&lt;f0&gt;Меню Стили&lt;/f0&gt; содержит самые важные стили абзацев, символов &lt;f1&gt;и список &lt;/f1&gt;стилей &lt;tc2/&gt;подходящих для большинства &lt;tc3/&gt;текстовых документов&lt;ts4/&gt;&lt;f5&gt;&lt;/f5&gt;&lt;te6/&gt;, &lt;f7&gt; &lt;/f7&gt;&lt;tc8/&gt;&lt;f9&gt;а также инструменты для&lt;/f9&gt;&lt;ts10/&gt;&lt;f11&gt;&lt;/f11&gt;&lt;te12/&gt;&lt;tc13/&gt;&lt;f14&gt; для управления стилями &lt;/f14&gt;&lt;tc15/&gt;&lt;ts16/&gt;&lt;f17&gt;в&lt;/f17&gt;&lt;te18/&gt;&lt;f19&gt; в нижней части меню.&lt;/f19&gt; В меню Стили нет стилей для врезок, &lt;f20&gt;страниц или таблиц&lt;/f20&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24658,6 +24722,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T164210Z" creationid="olex" creationdate="20180308T164210Z">
         <seg>Чтобы применить стиль символа, удерживайте нажатой кнопку мыши при выборе символов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To apply a paragraph style, position the &lt;f0&gt;cursor&lt;/f0&gt; in the paragraph, and then select one of the paragraph styles in the &lt;f1&gt;Style&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/f2&gt; menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180717T180855Z" creationid="olex" creationdate="20180717T180855Z">
+        <seg>Чтобы применить стиль абзаца, поместите &lt;f0&gt;курсор&lt;/f0&gt; в абзаце, а затем выберите один из стилей абзаца в меню &lt;f1&gt;Стили&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
