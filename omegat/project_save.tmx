@@ -3300,6 +3300,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After you have used a paragraph style at least once in a &lt;ts0/&gt;&lt;f1&gt;Writer &lt;/f1&gt;&lt;te2/&gt;document, the style name appears on the &lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;Set Paragraph&lt;/f5&gt;&lt;te6/&gt; Style list near the left-hand end of the Formatting toolbar&lt;ts7/&gt; &lt;f8&gt;(Figure &lt;/f8&gt;&lt;f9&gt;&lt;t10&gt;2&lt;/t10&gt;&lt;/f9&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;te12/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180717T182935Z" creationid="olex" creationdate="20180717T182935Z">
+        <seg>После того, как вы использовали стиль абзаца в документе &lt;ts0/&gt;&lt;f1&gt;Writer&lt;/f1&gt;&lt;te2/&gt;  хотя бы один раз, имя стиля появляется в списке &lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;Задать стиль абзаца&lt;/f5&gt; &lt;te6/&gt;слева на панель инструментов Форматирование&lt;ts7/&gt; &lt;f8&gt;(Рисунок &lt;/f8&gt;&lt;f9&gt;&lt;t10&gt;2&lt;/t10&gt;&lt;/f9&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;te12/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After you have used a paragraph style at least once in a document, the style name appears on the Apply Style list near the left-hand end of the Formatting toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T091250Z" creationid="olex" creationdate="20180308T170132Z">
@@ -19563,6 +19571,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;View &gt; Styles&lt;/f0&gt; or &lt;f1&gt;Styles &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Manage &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Styles&lt;/f4&gt; from the Menu bar, or press &lt;f5&gt;F11&lt;/f5&gt; (&lt;f6&gt;⌘+T &lt;/f6&gt;on a Mac), or click the Styles tab in the Sidebar (&lt;f7&gt;View &gt; Sidebar&lt;/f7&gt; to open it).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180717T181800Z" creationid="olex" creationdate="20180717T181800Z">
+        <seg>Выберите в меню &lt;f0&gt;Вид &gt; Стили&lt;/f0&gt; или &lt;f1&gt;Стили &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Управление&lt;/f3&gt;&lt;/f2&gt; &lt;f4&gt;стилями&lt;/f4&gt; , или нажмите клавишу &lt;f5&gt;F11&lt;/f5&gt; (&lt;f6&gt;⌘+T&lt;/f6&gt; в Mac OS), или нажмите вкладку Стили на Боковой панели (&lt;f7&gt;Вид &gt; Боковая панель&lt;/f7&gt; чтобы открыть ее).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;View &gt; Styles&lt;/f0&gt; or &lt;f1&gt;Styles &gt; Manage Styles&lt;/f1&gt; from the Menu bar, or press &lt;f2&gt;F11&lt;/f2&gt; (&lt;f3&gt;⌘+T &lt;/f3&gt;on a Mac), or click the Styles tab in the Sidebar (&lt;f4&gt;View &gt; Sidebar&lt;/f4&gt; to open it).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180319T190857Z" creationid="olex" creationdate="20180307T204101Z">
@@ -19800,6 +19816,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T155642Z" creationid="olex" creationdate="20180308T155642Z">
         <seg>Нажмите кнопку &lt;f0&gt;Стилевая заливка&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the &lt;f0&gt;Fill Format Mode&lt;/f0&gt; button.&lt;ts1/&gt; The cursor changes into an ink bottle.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180717T182138Z" creationid="olex" creationdate="20180717T182138Z">
+        <seg>Используйте кнопку &lt;f0&gt;Стилевая заливка&lt;/f0&gt;.&lt;ts1/&gt; Курсор при этом изменится на бутылочку с чернилами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22190,6 +22214,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T152819Z" creationid="olex" creationdate="20180307T195052Z">
         <seg>Окно Стили (плавающее, или на боковой панели)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Styles window &lt;ts0/&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;te2/&gt;&lt;ts3/&gt;&lt;f4&gt;called Styles&lt;/f4&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt; and Formatting in some installations)&lt;/f7&gt;&lt;f8&gt;&lt;o9/&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;&lt;te11/&gt;includes the most complete set of tools for styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180717T181358Z" creationid="olex" creationdate="20180717T181358Z">
+        <seg>Окно Стили &lt;ts0/&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;te2/&gt;&lt;ts3/&gt;&lt;f4&gt;называется Стили&lt;/f4&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt; и форматирование в некоторых вариантах установки)&lt;/f7&gt;&lt;f8&gt;&lt;o9/&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;&lt;te11/&gt;включает в себя наиболее полный набор инструментов для стилей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24718,6 +24750,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To apply a character style to several characters or more than one word, select the characters first and apply the character style from&lt;f4&gt; the menu.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180717T181013Z" creationid="olex" creationdate="20180717T181013Z">
+        <seg>Чтобы применить стиль символа к нескольким символам или более чем одному слову, сначала выберите символы, а затем примените стиль символа из &lt;f4&gt;меню&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To apply a character style, hold down the mouse button while selecting the characters.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T164210Z" creationid="olex" creationdate="20180308T164210Z">
@@ -26716,6 +26756,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T173804Z" creationid="tagezi" creationdate="20180319T173804Z">
         <seg>Использование в главном меню &lt;f2&gt;Файл &gt; Сохранить&lt;/f2&gt;, сочетание клавиш &lt;f3&gt;Ctrl+S&lt;/f3&gt;, или нажатие на значок &lt;f4&gt;Сохранить&lt;/f4&gt; — это все команды, которые переводятся в одну «команду отправки»..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using &lt;i0/&gt;&lt;i1/&gt;the &lt;tc2/&gt;&lt;ts3/&gt;&lt;f4&gt;Set Paragraph&lt;/f4&gt;&lt;te5/&gt; Style list&lt;ts6/&gt; &lt;f7&gt;in Writer&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180717T182529Z" creationid="olex" creationdate="20180717T182529Z">
+        <seg>Использование &lt;i0/&gt;&lt;i1/&gt;&lt;tc2/&gt;&lt;ts3/&gt;&lt;f4&gt;списка стилей&lt;/f4&gt;&lt;te5/&gt; абзаца&lt;ts6/&gt; &lt;f7&gt;в Writer&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
