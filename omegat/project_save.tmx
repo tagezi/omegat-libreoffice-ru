@@ -3492,6 +3492,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All the templates contained in that folder are listed on the page (as shown in Figure &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T190632Z" creationid="olex" creationdate="20180718T190632Z">
+        <seg>Все шаблоны, содержащиеся в этой папке, перечислены на странице (как показано на Рисунке &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T015551Z" creationid="lera" creationdate="20180303T151856Z">
@@ -8415,6 +8423,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Save as Template dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T191410Z" creationid="olex" creationdate="20180718T191410Z">
+        <seg>Рисунок &lt;seq0&gt;10&lt;/seq0&gt;: Диалоговое окно Сохранить как шаблон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Customizing the Enter key</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T201906Z" creationid="olex" creationdate="20180404T201906Z">
@@ -9330,6 +9346,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Copying styles from a template into the open document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T190100Z" creationid="olex" creationdate="20180718T190100Z">
+        <seg>Рисунок &lt;seq0&gt;8&lt;/seq0&gt;: Копирование стилей из шаблона в открытый документ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Navigator in Calc</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T194644Z" creationid="olex" creationdate="20180402T194644Z">
@@ -9390,6 +9414,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T182741Z" creationid="olex" creationdate="20180311T182741Z">
         <seg>Рисунок &lt;seq0&gt;9&lt;/seq0&gt;: Диалоговое окно Сохранить как шаблон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Templates dialog, showing a selected template</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T190725Z" creationid="olex" creationdate="20180718T190725Z">
+        <seg>Рисунок &lt;seq0&gt;9&lt;/seq0&gt;: Диалоговое окно Шаблоны, показывающее выбранный шаблон</seg>
       </tuv>
     </tu>
     <tu>
@@ -10199,6 +10231,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T175733Z" creationid="olex" creationdate="20180311T175733Z">
         <seg>Например, вы можете сохранить настройки принтера и общие настройки поведения в меню &lt;f0&gt;Сервис &gt; Параметры&lt;/f0&gt;, такие как &lt;f1&gt;Контуры&lt;/f1&gt; и &lt;f2&gt;Цвета&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you can also save printer settings, and general behaviors set from &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;, such as Paths&lt;tc1/&gt;&lt;ts2/&gt;&lt;o3/&gt;&lt;te4/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T191127Z" creationid="olex" creationdate="20180718T191127Z">
+        <seg>Например, вы также можете сохранить настройки принтера, а общее поведение согласно &lt;f0&gt;Сервис &gt; Параметры&lt;/f0&gt;, например, пути&lt;tc1/&gt;&lt;ts2/&gt;&lt;o3/&gt;&lt;te4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17336,6 +17376,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the Load Styles dialog (Figure &lt;t0&gt;8&lt;/t0&gt;), find either a template or an ordinary document from which to copy styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T190038Z" creationid="olex" creationdate="20180718T190038Z">
+        <seg>В диалоговом окне Загрузить стили (Рисунок &lt;t0&gt;8&lt;/t0&gt;) найдите либо шаблон, либо обычный документ, из которого необходимо скопировать стили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the Page Style dialog, select &lt;f0&gt;Header&lt;/f0&gt; or &lt;f1&gt;Footer&lt;/f1&gt; tab.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T190019Z" creationid="olex" creationdate="20180508T190019Z">
@@ -21625,6 +21673,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table styles, including custom table styles&lt;/f9&gt;&lt;ts10/&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;te12/&gt;&lt;f13&gt; are stored in your computer and are available to all Writer documents.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T190408Z" creationid="olex" creationdate="20180718T190408Z">
+        <seg>Стили таблиц, включая пользовательские,&lt;/f9&gt;&lt;ts10/&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;te12/&gt;&lt;f13&gt; хранятся на вашем компьютере и доступны для всех документов Writer.&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tables in a Writer document can have a predefined set of formatting attributes applied, including cell background, font, emphasis, and number formatting (Figure &lt;t0&gt;17&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T204016Z" creationid="olex" creationdate="20180316T204016Z">
@@ -21846,6 +21902,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T204607Z" creationid="olex" creationdate="20180310T204607Z">
         <seg>Параметр &lt;f1&gt;Управление шаблонами&lt;/f1&gt; в этом списке открывает диалоговое окно Шаблоны (Рисунок &lt;t2&gt;8&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;f1&gt;Manage Templates&lt;/f1&gt; option on the list opens the Template dialog (Figure &lt;t2&gt;9&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T190956Z" creationid="olex" creationdate="20180718T190956Z">
+        <seg>Команда &lt;f1&gt;Управление шаблонами&lt;/f1&gt; в списке откроет диалоговое окно Шаблоны (Рисунок &lt;t2&gt;9&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22294,6 +22358,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T190237Z" creationid="olex" creationdate="20180315T190237Z">
         <seg>Откроется окно сохранения файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Save as Template dialog (Figure &lt;t1&gt;10&lt;/t1&gt;) opens, displaying the existing categories and a textbox to enter a name for the new template.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T191322Z" creationid="olex" creationdate="20180718T191322Z">
+        <seg>Откроется диалоговое окно Сохранить как шаблон (Рисунок &lt;t1&gt;10&lt;/t1&gt;), в котором отображаются существующие категории и текстовое поле для ввода имени нового шаблона.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29460,6 +29532,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T213009Z" creationid="olex" creationdate="20180312T212834Z">
         <seg>При этом, вы можете изменить шаблон по умолчанию, когда захотите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot &lt;f0&gt;copy &lt;/f0&gt;&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;table&lt;/f3&gt;&lt;te4/&gt;&lt;f5&gt; style&lt;/f5&gt;&lt;ts6/&gt;&lt;f7&gt;s&lt;/f7&gt;&lt;te8/&gt;&lt;f9&gt; into a document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T190150Z" creationid="olex" creationdate="20180718T190150Z">
+        <seg>Вы не можете &lt;f0&gt;копировать &lt;/f0&gt;&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;стили таблиц&lt;/f3&gt;&lt;te4/&gt;&lt;f5&gt; &lt;/f5&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;/f7&gt;&lt;te8/&gt;&lt;f9&gt; в документ.</seg>
       </tuv>
     </tu>
     <tu>
