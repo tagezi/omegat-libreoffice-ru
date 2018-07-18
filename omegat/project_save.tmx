@@ -432,6 +432,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Adding&lt;/f0&gt; table styles in Writer</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T184316Z" creationid="olex" creationdate="20180718T184316Z">
+        <seg>&lt;f0&gt;Добавление&lt;/f0&gt; стилей таблиц в Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Alignment&lt;/f0&gt;: Controls to align the text in various ways, including horizontal and vertical alignment, wrapping, indenting, merging, text orientation, and vertical stacking.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T182854Z" creationid="olex" creationdate="20180330T170525Z">
@@ -633,6 +641,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Direct formatting (also called &lt;/f0&gt;&lt;f1&gt;manual formatting&lt;/f1&gt;&lt;f2&gt;)&lt;/f2&gt; overrides styles, and you cannot get rid of the &lt;f3&gt;direct&lt;/f3&gt; formatting by applying a style to it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T183235Z" creationid="olex" creationdate="20180718T183235Z">
+        <seg>&lt;f0&gt;Прямое форматирование (так же называемое &lt;/f0&gt;&lt;f1&gt;ручным форматированием&lt;/f1&gt;&lt;f2&gt;)&lt;/f2&gt; перезаписывает стили и вы не можете избавиться от &lt;f3&gt;прямого&lt;/f3&gt; форматирования, применив к нему стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Direction&lt;/f0&gt; – determines the direction of series creation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T142458Z" creationid="olex" creationdate="20180414T142458Z">
@@ -803,8 +819,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;For more information, refer to the &lt;/f0&gt;&lt;f1&gt;LibreOffice Writer &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;G&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;uide, Chapter &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;13&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;: Tables &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;of Data&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180718T182921Z" creationid="olex" creationdate="20180718T182921Z">
-        <seg>&lt;f0&gt;Для получения дополнительной информации смотрите &lt;/f0&gt;&lt;f1&gt;Руководство по LibreOffice Writer &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;, Глава &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;13&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;: Таблиц &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;of Data&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt; . Руководство по созданию LibreOffice Writer, глава 13: Таблицы данных.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T183004Z" creationid="olex" creationdate="20180718T182921Z">
+        <seg>&lt;f0&gt;Для получения дополнительной информации смотрите &lt;/f0&gt;&lt;f1&gt;Руководство по LibreOffice Writer &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;, Глава &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;13&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;: Таблицы &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;данных&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1381,6 +1397,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T182539Z" creationid="olex" creationdate="20180617T182130Z">
         <seg>&lt;f0&gt;Сохранить&lt;/f0&gt;- команда используется, если вы сохраняете документ, с его текущем именем и в то же местоположение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Select&lt;/f0&gt;&lt;te1/&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Table &gt; AutoFormat Styles&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;ts6/&gt;&lt;f7&gt;from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T184501Z" creationid="olex" creationdate="20180718T184501Z">
+        <seg>&lt;f0&gt;Выберите в меню&lt;/f0&gt;&lt;te1/&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Таблица &gt; Стили автоформата...&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;ts6/&gt;&lt;f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5626,6 +5650,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f6&gt;OK&lt;/f6&gt; to save the new style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T184120Z" creationid="olex" creationdate="20180718T184120Z">
+        <seg>Нажмите &lt;f6&gt;ОК&lt;/f6&gt;, чтобы сохранить новый стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click and drag in the direction you want the cells to be filled.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T141643Z" creationid="olex" creationdate="20180414T141643Z">
@@ -9106,6 +9138,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Updating a style from a selection</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T183343Z" creationid="olex" creationdate="20180718T183343Z">
+        <seg>Рисунок &lt;seq0&gt;4&lt;/seq0&gt;: Обновление стиля из выделенного</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Choosing general printing options to apply to all LibreOffice components</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T171558Z" creationid="olex" creationdate="20180628T171558Z">
@@ -9126,6 +9166,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T210033Z" creationid="tagezi" creationdate="20180318T210033Z">
         <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: Пример скопированных данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Modifying a style from the Apply Style list</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T183636Z" creationid="olex" creationdate="20180718T183636Z">
+        <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: Изменение стиля из списка Задать стиль абзаца</seg>
       </tuv>
     </tu>
     <tu>
@@ -9174,6 +9222,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103305Z" creationid="tagezi" creationdate="20180320T103305Z">
         <seg>Рисунок &lt;seq0&gt;6&lt;/seq0&gt;: Иерархия библиотек макросов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Naming a new style created from a selection</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T184205Z" creationid="olex" creationdate="20180718T184205Z">
+        <seg>Рисунок &lt;seq0&gt;6&lt;/seq0&gt;: Именование нового стиля, созданного на основе выделенного</seg>
       </tuv>
     </tu>
     <tu>
@@ -13805,6 +13861,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Create Style dialog&lt;ts0/&gt; &lt;f1&gt;(Figure &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;6&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;&lt;te5/&gt;, type a name for the new style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T184051Z" creationid="olex" creationdate="20180718T184051Z">
+        <seg>В диалоговом окне Создать стиль&lt;ts0/&gt; &lt;f1&gt;(Рисунок &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;6&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;&lt;te5/&gt;, напишите имя для нового стиля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Elements window, select &lt;f0&gt;Relations&lt;/f0&gt; from the drop-down list and then select the &lt;f1&gt;Is Similar Or Equal&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T145025Z" creationid="Роман" creationdate="20180320T144816Z">
@@ -13849,6 +13913,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T195503Z" creationid="olex" creationdate="20180711T195503Z">
         <seg>В диалоговом окне Параметры щелкните символ расширения (знак + или треугольник) справа от строки &lt;f0&gt;Настройки языка&lt;/f0&gt; и выберите Языки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Styles window, &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;click&lt;/f2&gt;&lt;te3/&gt; on the &lt;f4&gt;New Style from Selection&lt;/f4&gt; icon&lt;ts5/&gt;, &lt;f6&gt;then select New Style from the list&lt;/f6&gt;&lt;te7/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T183941Z" creationid="olex" creationdate="20180718T183941Z">
+        <seg>В окне Стили, &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;нажмите&lt;/f2&gt;&lt;te3/&gt; на кнопку &lt;f4&gt;Создать стиль по выделению&lt;/f4&gt;&lt;ts5/&gt;, &lt;f6&gt;затем выберите Создать стиль из списка&lt;/f6&gt;&lt;te7/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19351,6 +19423,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T114847Z" creationid="olex" creationdate="20180309T193617Z">
         <seg>Смотрите «&lt;bf0&gt;Копирование стилей из шаблона или документа&lt;/bf0&gt;» на странице &lt;bf1&gt;12&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See “&lt;bf0&gt;Copying styles from a template or document&lt;/bf0&gt;” on page &lt;bf1&gt;13&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T183755Z" creationid="olex" creationdate="20180718T183755Z">
+        <seg>Смотрите “&lt;bf0&gt;Копирование стилей из шаблона или документа&lt;/bf0&gt;” на странице &lt;bf1&gt;13&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24910,6 +24990,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change styles in more than one document, you need to change the template or copy the styles into the other documents as described on page &lt;bf0&gt;11&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T183316Z" creationid="olex" creationdate="20180718T183316Z">
+        <seg>Чтобы изменить стили в нескольких документах, вам необходимо изменить шаблон или скопировать стили в другие документы, как описано на странице &lt;bf0&gt;11&lt;/bf0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change the appearance of the header or footer, click on &lt;f0&gt;More&lt;/f0&gt; to open the borders and background dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T191356Z" creationid="olex" creationdate="20180508T191356Z">
@@ -28496,6 +28584,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T183530Z" creationid="olex" creationdate="20180308T183530Z">
         <seg>Вы также можете изменять стили, используя подменю для каждого стиля в списке Задать стиль абзаца на панели инструментов Форматирование (смотрите Рисунок &lt;t0&gt;4&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also modify styles using the submenu on each style in the Apply Style list on the Formatting toolbar (see Figure &lt;t0&gt;5&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T183722Z" creationid="olex" creationdate="20180718T183532Z">
+        <seg>Также вы можете изменять стили, используя подменю для каждого стиля в списке Задать стиль абзаца на панели Форматирование (смотрите Рисунок &lt;t0&gt;5&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
