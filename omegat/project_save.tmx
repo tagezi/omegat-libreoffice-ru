@@ -753,6 +753,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;F&lt;/f0&gt;ormatting a &lt;f1&gt;t&lt;/f1&gt;able in Writer</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T181850Z" creationid="olex" creationdate="20180718T181850Z">
+        <seg>&lt;f0&gt;Форматирование&lt;/f0&gt; &lt;f1&gt;таблицы&lt;/f1&gt; в Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Fields&lt;/f0&gt; – shows how the data will look when it is separated into columns.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T181244Z" creationid="olex" creationdate="20180330T193908Z">
@@ -1485,6 +1493,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T182451Z" creationid="olex" creationdate="20180329T182451Z">
         <seg>&lt;f0&gt;Сумма&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;- нажатие значка суммы складывает числа в ячейках выше выбранной, а затем помещает итог в выбранной ячейке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;ables in a Writer document can have a pre&lt;f1&gt;defined &lt;/f1&gt;set of formatting &lt;f2&gt;attributes &lt;/f2&gt;applied, &lt;f3&gt;including cell background, font, emphasis, and number formatting (Figure &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;3&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T182350Z" creationid="olex" creationdate="20180718T182350Z">
+        <seg>&lt;f0&gt;Таблицы&lt;/f0&gt;в документе Writer могут иметь &lt;f1&gt;предопределенный&lt;/f1&gt; набор применяемых &lt;f2&gt;атрибутов&lt;/f2&gt; форматирования, &lt;f3&gt;включая фон ячейки, шрифт, подчеркивание и числовой формат (Рисунок &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;3&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8981,6 +8997,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T134136Z" creationid="tagezi" creationdate="20180312T134128Z">
         <seg>Рисунок &lt;seq0&gt;3&lt;/seq0&gt;: Окно Интегрированной Среды Разработки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Some table styles in LibreOffice</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T182719Z" creationid="olex" creationdate="20180718T182719Z">
+        <seg>Рисунок &lt;seq0&gt;3&lt;/seq0&gt;: Некоторые стили таблицы в LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -24794,6 +24818,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180320T184348Z" creationid="olex" creationdate="20180308T160417Z">
         <seg>Чтобы применить стиль абзаца, страницы или врезки, наведите указатель мыши на абзац, страницу или врезку и нажмите левую кнопку мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To apply a table style, position the cursor in the table to be formatted and double-click on a style listed in the &lt;/f6&gt;&lt;f7&gt;Table Styles&lt;/f7&gt;&lt;f8&gt; tab of the &lt;/f8&gt;sidebar&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180718T182646Z" creationid="olex" creationdate="20180718T182646Z">
+        <seg>Чтобы применить стиль таблицы, поместите курсор в таблицу для форматирования и дважды щелкните по стилю, указанному на вкладке &lt;/f6&gt;&lt;f7&gt;Стили таблиц&lt;/f7&gt;&lt;f8&gt; на &lt;/f8&gt;Боковой панели&lt;f9&gt;.&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
