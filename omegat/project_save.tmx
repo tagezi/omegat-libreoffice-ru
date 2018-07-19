@@ -191,6 +191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f1&gt;You can still import styles manually from the template, but to reconnect it to the template, you will have to copy it into an empty document based on the template&lt;ts2/&gt;, &lt;f3&gt;as described in “&lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Associating a document with a different template&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;” on page &lt;/f6&gt;&lt;f7&gt;&lt;bf8&gt;20&lt;/bf8&gt;&lt;/f7&gt;&lt;te9/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T190728Z" creationid="olex" creationdate="20180719T190728Z">
+        <seg>&lt;/f1&gt;Вы можете импортировать стили вручную из шаблона, но для повторного подключения к шаблону вам придется скопировать его в пустой документ на основе шаблона,&lt;ts2/&gt;, &lt;f3&gt;как описано в разделе “&lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Связывание документа с другим шаблоном на&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;” на странице &lt;/f6&gt;&lt;f7&gt;&lt;bf8&gt;20&lt;/bf8&gt;&lt;/f7&gt;&lt;te9/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt;On the AutoFormat dialog, &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;&lt;f13&gt;click the &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;Add&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; button (Figure &lt;/f16&gt;&lt;f17&gt;&lt;t18&gt;7&lt;/t18&gt;&lt;/f17&gt;&lt;f19&gt;).&lt;/f19&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T184812Z" creationid="olex" creationdate="20180718T184812Z">
@@ -283,6 +291,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180317T174032Z" creationid="Роман" creationdate="20180317T174032Z">
         <seg>&lt;df12&gt;&lt;d13/&gt;&lt;di14/&gt;&lt;s15&gt;formula&lt;/s15&gt;&lt;/df12&gt;appears in the document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;(For advanced users) &lt;/f0&gt;&lt;te1/&gt;You can manually copy new templates into the template folders.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T191605Z" creationid="olex" creationdate="20180719T191605Z">
+        <seg>&lt;f0&gt;(Для продвинутых пользователей) &lt;/f0&gt;&lt;te1/&gt;Вы можете вручную скопировать новые шаблоны в папки для шаблонов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8479,6 +8495,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Getting more templates for LibreOffice</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T191407Z" creationid="olex" creationdate="20180719T191407Z">
+        <seg>Рисунок &lt;seq0&gt;12&lt;/seq0&gt;: Получение дополнительных шаблонов для LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Remote server configuration</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T181526Z" creationid="olex" creationdate="20180619T181526Z">
@@ -13309,6 +13333,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import the template into a template folder by following the instructions in “&lt;bf0&gt;Importing a template&lt;/bf0&gt;” on page &lt;bf1&gt;22&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T191534Z" creationid="olex" creationdate="20180719T191534Z">
+        <seg>Импортируйте шаблон в папку для шаблона, следуя инструкциям в разделе  “&lt;bf0&gt;Импорт шаблона&lt;/bf0&gt;” на странице &lt;bf1&gt;22&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import – Ignore font settings</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T192502Z" creationid="olex" creationdate="20180711T192502Z">
@@ -14073,6 +14105,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T184735Z" creationid="olex" creationdate="20180315T184735Z">
         <seg>В диалоговом окне Шаблоны нажмите кнопку &lt;f0&gt;Импорт&lt;/f0&gt; в правом нижнем углу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Templates dialog, click the &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;&lt;f3&gt;Settings&lt;/f3&gt;&lt;/f2&gt;&lt;te4/&gt; icon on the bottom left (Figure &lt;t5&gt;13&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T192222Z" creationid="olex" creationdate="20180719T192222Z">
+        <seg>В диалоговом окне Шаблоны, нажмите кнопку &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;&lt;f3&gt;Настройки&lt;/f3&gt;&lt;/f2&gt;&lt;te4/&gt; в левом нижнем углу (Рисунок &lt;t5&gt;13&lt;/t5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19074,6 +19114,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click on the selected template and click &lt;tc0/&gt;&lt;f1&gt;Set as default&lt;/f1&gt; &lt;tc2/&gt;&lt;ts3/&gt;&lt;f4&gt;from the context menu &lt;/f4&gt;&lt;te5/&gt;(see Figure &lt;t6&gt;9&lt;/t6&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T192102Z" creationid="olex" creationdate="20180719T192102Z">
+        <seg>Щелкните правой кнопкой мыши на выбранном шаблоне и выберите &lt;tc0/&gt;&lt;f1&gt;Установить по умолчанию&lt;/f1&gt; &lt;tc2/&gt;&lt;ts3/&gt;&lt;f4&gt; из контекстного меню &lt;/f4&gt;&lt;te5/&gt;(смотрите Рисунок &lt;t6&gt;9&lt;/t6&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click on the selected template and click the &lt;f0&gt;Set as default&lt;/f0&gt; button (see Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T191947Z" creationid="olex" creationdate="20180313T191947Z">
@@ -24023,6 +24071,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The templates are available for use through &lt;f4&gt;File &gt; Templates &gt; Manage Templates&lt;/f4&gt; and &lt;f5&gt;File &gt; New &gt; Templates&lt;/f5&gt; and the extension is listed in the Extension Manager.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T191932Z" creationid="olex" creationdate="20180719T191932Z">
+        <seg>Шаблоны будут доступны для использования в &lt;f4&gt;Файл &gt; Шаблоны &gt; Управление шаблонами&lt;/f4&gt; и &lt;f5&gt; Файл &gt; Создать &gt; Шаблоны...&lt;/f5&gt;, а расширение будет указано в Управление расширениями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The terms used in LibreOffice for most parts of the &lt;i0/&gt;user interface (the parts of the program you see and use, in contrast to the behind-the-scenes code that actually make it work) are the same as for most other programs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T191706Z" creationid="olex" creationdate="20180606T191706Z">
@@ -25723,6 +25779,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T203900Z" creationid="olex" creationdate="20180312T203900Z">
         <seg>Чтобы узнать, где хранятся папки шаблонов на вашем компьютере, выберите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Пути&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To learn where the template folders are stored on your computer, go to &lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T191711Z" creationid="olex" creationdate="20180719T191711Z">
+        <seg>Чтобы узнать, где хранятся папки шаблонов на вашем компьютере, перейдите в &lt;f2&gt; Сервис &gt; Параметры &gt; LibreOffice &gt; Пути&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28075,6 +28139,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the package installation is complete&lt;o0/&gt;, restart LibreOffice&lt;ts1/&gt;&lt;o2/&gt;&lt;te3/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T191743Z" creationid="olex" creationdate="20180719T191743Z">
+        <seg>Когда установка пакета завершена&lt;o0/&gt;, перезапустите LibreOffice&lt;ts1/&gt;&lt;o2/&gt;&lt;te3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When this mode is active, a right-click anywhere in the document undoes the last Fill Format action.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T165829Z" creationid="olex" creationdate="20180308T165020Z">
@@ -29227,6 +29299,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T201336Z" creationid="olex" creationdate="20180311T200747Z">
         <seg>Вы можете попасть в официальное хранилище шаблонов, используя кнопку &lt;f0&gt;Обзор шаблонов онлайн&lt;/f0&gt; в правом нижнем углу диалогового окна Шаблоны, как показано на рисунке &lt;t1&gt;11&lt;/t1&gt;, или набрав &lt;a2&gt;https://extensions.libreoffice.org/templates&lt;/a2&gt; в адресной строке браузера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can get to the official template repository by using the &lt;tc0/&gt;&lt;f1&gt;&lt;s2/&gt;&lt;/f1&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;f5&gt;Browse online &lt;/f5&gt;&lt;/f4&gt;&lt;te6/&gt;&lt;f7&gt;templates&lt;/f7&gt;&lt;tc8/&gt;&lt;f9&gt; &lt;/f9&gt;button &lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;in&lt;/f12&gt;&lt;te13/&gt; the &lt;ts14/&gt;&lt;f15&gt;lower left&lt;/f15&gt;&lt;te16/&gt;&lt;tc17/&gt; of the Templates dialog, as shown in Figure &lt;t18&gt;12&lt;/t18&gt;, or by typing&lt;ts19/&gt; &lt;a20&gt;&lt;f21&gt;https://extensions.libreoffice.org/templates&lt;/f21&gt;&lt;/a20&gt;&lt;te22/&gt;&lt;tc23/&gt; in your browser’s address bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T191349Z" creationid="olex" creationdate="20180719T191212Z">
+        <seg>Вы можете попасть в официальный репозиторий шаблонов, используя кнопку &lt;tc0/&gt;&lt;f1&gt;&lt;s2/&gt;&lt;/f1&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;f5&gt;Обзор шаблонов онлайн&lt;/f5&gt;&lt;/f4&gt;&lt;te6/&gt; &lt;f7&gt;&lt;/f7&gt;&lt;tc8/&gt;&lt;f9&gt;&lt;/f9&gt;&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;в&lt;/f12&gt;&lt;te13/&gt; &lt;ts14/&gt;&lt;f15&gt;левом нижнем углу&lt;/f15&gt;&lt;te16/&gt;&lt;tc17/&gt; диалогового окна Шаблоны, как показано на Рисунке &lt;t18&gt;12&lt;/t18&gt;, или набрав &lt;ts19/&gt; &lt;a20&gt;&lt;f21&gt;https://extensions.libreoffice.org/templates&lt;/f21&gt;&lt;/a20&gt;&lt;te22/&gt;&lt;tc23/&gt; в адресной строке вашего браузера.</seg>
       </tuv>
     </tu>
     <tu>
