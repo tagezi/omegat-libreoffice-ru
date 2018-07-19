@@ -1658,6 +1658,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;To&lt;/f0&gt;&lt;te1/&gt; delete&lt;ts2/&gt; &lt;f3&gt;a&lt;/f3&gt;&lt;te4/&gt; template&lt;tc5/&gt;:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T194713Z" creationid="olex" creationdate="20180719T194713Z">
+        <seg>&lt;f0&gt;Чтобы&lt;/f0&gt;&lt;te1/&gt; удалить&lt;ts2/&gt; &lt;f3&gt;&lt;/f3&gt;&lt;te4/&gt; шаблон&lt;tc5/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; menu selection</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100035Z" creationid="lera" creationdate="20180303T153517Z">
@@ -4237,6 +4245,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T193331Z" creationid="olex" creationdate="20180316T193331Z">
         <seg>В конце главы вставьте разрыв страницы вручную: выбрать в меню: Вставка &gt; Разрыв,- и укажите для следующей страницы стиль &lt;f3&gt;Первая страница&lt;/f3&gt;, чтобы начать следующую главу, как показано на рисунке &lt;t4&gt;16&lt;/t4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of the chapter, insert a manual page break and specify the next page to have the &lt;f3&gt;First Page&lt;/f3&gt; style to start the next chapter, as shown in Figure &lt;t4&gt;17&lt;/t4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T195811Z" creationid="olex" creationdate="20180719T195811Z">
+        <seg>В конце главы вставьте разрыв страницы вручную и укажите следующую страницу со стилем &lt;f3&gt;Первая страница&lt;/f3&gt;, как показано на рисунке &lt;t4&gt;17&lt;/t4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7229,6 +7245,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Details are in &lt;tc5/&gt;&lt;tc6/&gt;&lt;tc7/&gt;the &lt;f8&gt;Writer Guide&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T195640Z" creationid="olex" creationdate="20180719T195640Z">
+        <seg>Подробнее в &lt;tc5/&gt;&lt;tc6/&gt;&lt;tc7/&gt; &lt;f8&gt;руководстве по Writer&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Details are in Chapter 4, Formatting Pages, in the &lt;f5&gt;Writer Guide&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T192329Z" creationid="olex" creationdate="20180315T192329Z">
@@ -8688,6 +8712,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Moving templates to another category</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T194629Z" creationid="olex" creationdate="20180719T194629Z">
+        <seg>Рисунок &lt;seq0&gt;15&lt;/seq0&gt;: Перемещение шаблона в другую категорию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Showing or hiding text, object, and table boundaries</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T153153Z" creationid="olex" creationdate="20180630T153153Z">
@@ -8712,6 +8744,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Flow of page styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T195704Z" creationid="olex" creationdate="20180719T195704Z">
+        <seg>Рисунок &lt;seq0&gt;16&lt;/seq0&gt;: Поток стилей страниц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Frozen rows and columns</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T164225Z" creationid="olex" creationdate="20180409T164225Z">
@@ -8724,6 +8764,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T171929Z" creationid="olex" creationdate="20180701T171219Z">
         <seg>Рисунок &lt;seq0&gt;17&lt;/seq0&gt;: Выбор виртуальной машины Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Dividing a document into chapters using page styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T195829Z" creationid="olex" creationdate="20180719T195829Z">
+        <seg>Рисунок &lt;seq0&gt;17&lt;/seq0&gt;: Разделение документа на главы с использованием стилей страниц</seg>
       </tuv>
     </tu>
     <tu>
@@ -9583,6 +9631,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T192231Z" creationid="olex" creationdate="20180315T192231Z">
         <seg>Рисунок &lt;t2&gt;15&lt;/t2&gt; &lt;s3/&gt; показывает, что мы хотим: за первой страницей должна следовать базовая и все последующие страницы должны быть в стиле &lt;f4&gt;Базовый&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;t2&gt;16&lt;/t2&gt;&lt;s3/&gt;shows what we want to happen: the first page is to be followed by the default page, and all the following pages are to be in the &lt;f4&gt;Default&lt;/f4&gt; page style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T195202Z" creationid="olex" creationdate="20180719T195202Z">
+        <seg>Рисунок &lt;t2&gt;16&lt;/t2&gt;&lt;s3/&gt; показывает, что мы хотим: за первой страницей должна следовать страница по умолчанию, а все следующие страницы должны быть в стиле страницы &lt;f4&gt;по умолчанию&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19239,6 +19295,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T184035Z" creationid="olex" creationdate="20180315T184035Z">
         <seg>Щелкните правой кнопкой мыши на шаблоне, чтобы открыть контекстное меню и нажмите &lt;f0&gt;Удалить&lt;/f0&gt; (Рисунок &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-click to open the context menu of the template and click &lt;f0&gt;Delete&lt;/f0&gt; (Figure &lt;t1&gt;9&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T194811Z" creationid="olex" creationdate="20180719T194811Z">
+        <seg>Щелкните правой кнопкой мыши, чтобы открыть контекстное меню шаблона и нажмите &lt;f0&gt;Удалить&lt;/f0&gt; (Рисунок &lt;t1&gt;9&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
