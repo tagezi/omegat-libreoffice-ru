@@ -1705,6 +1705,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Use&lt;/f0&gt;&lt;te1/&gt; &lt;f2&gt;Edit &gt; Copy&lt;/f2&gt;, or press &lt;f3&gt;Ctrl+C&lt;/f3&gt;, to copy the contents of the document to the clipboard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T193139Z" creationid="olex" creationdate="20180719T193003Z">
+        <seg>&lt;f0&gt;Используйте&lt;/f0&gt;&lt;te1/&gt; &lt;f2&gt;Правка &gt; Копировать&lt;/f2&gt; или нажмите &lt;f3&gt;Ctrl+C&lt;/f3&gt;, чтобы скопировать содержимое документа в буфер обмена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Use&lt;/f0&gt;&lt;te1/&gt; &lt;f2&gt;Edit &gt; Select All&lt;/f2&gt; or press &lt;f3&gt;Ctrl+A&lt;/f3&gt;.&lt;ts4/&gt;, to select everything in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T192915Z" creationid="olex" creationdate="20180719T192915Z">
+        <seg>&lt;f0&gt;Используйте&lt;/f0&gt;&lt;te1/&gt; &lt;f2&gt;Правка &gt; Выделить все&lt;/f2&gt; или нажмите &lt;f3&gt;Ctrl+A&lt;/f3&gt;.&lt;ts4/&gt;, чтобы выбрать все в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;User Guides &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Documentation page of the LibreOffice website &lt;a3&gt;https://documentation.libreoffice.org/en/english-documentation/&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T103533Z" creationid="tagezi" creationdate="20180307T103533Z">
@@ -2567,6 +2583,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180717T174103Z" creationid="olex" creationdate="20180717T174011Z">
         <seg>&lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;Ручное&lt;/f2&gt;&lt;te3/&gt; форматирование или прямое форматирование &lt;tc4/&gt;&lt;tc5/&gt;&lt;tc6/&gt;&lt;tc7/&gt;требует &lt;f8&gt; повторяющихся действий, например, когда вы применяете жирный шрифт к нескольким словам, устанавливаете индивидуальные поля для каждого абзаца или изменяете&lt;/f8&gt;&lt;ts9/&gt; &lt;f10&gt;размер шрифта&lt;/f10&gt;&lt;te11/&gt;&lt;f12&gt;&lt;/f12&gt;&lt;tc13/&gt;&lt;ts14/&gt; &lt;f15&gt;отдельного&lt;/f15&gt;&lt;te16/&gt; &lt;f17&gt;заголовка&lt;/f17&gt;&lt;ts18/&gt;&lt;f19&gt;&lt;/f19&gt;&lt;te20/&gt;&lt;f21&gt;.&lt;/f21&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;U&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;se&lt;/f5&gt;&lt;te6/&gt; &lt;f7&gt;Edit &gt; Paste&lt;/f7&gt;, or press &lt;f8&gt;Ctrl+V&lt;/f8&gt;, to paste the contents from the old document into the new one.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T193134Z" creationid="olex" creationdate="20180719T193134Z">
+        <seg>&lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;Используйте&lt;/f5&gt;&lt;te6/&gt; &lt;f7&gt;Edit &gt; Paste&lt;/f7&gt; или нажмите &lt;f8&gt;Ctrl+V&lt;/f8&gt;, чтобы вставить содержимое из старого документа в новый.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;ts0/&gt;(It opens in a new window.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T192804Z" creationid="olex" creationdate="20180719T192804Z">
+        <seg>&lt;ts0/&gt;(Он открывается в новом окне.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6106,6 +6138,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;&lt;f3&gt;Settings&lt;/f3&gt;&lt;/f2&gt;&lt;te4/&gt; button of the Templates dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T193310Z" creationid="olex" creationdate="20180719T193310Z">
+        <seg>Нажмите кнопку &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;&lt;f3&gt;Настройки&lt;/f3&gt;&lt;/f2&gt;&lt;te4/&gt; в диалоговом окне Шаблоны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the expansion symbol (+ or triangle) to the left of &lt;f1&gt;Load/Save&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180706T175027Z" creationid="olex" creationdate="20180706T175027Z">
@@ -8563,6 +8603,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T182808Z" creationid="olex" creationdate="20180619T182808Z">
         <seg>Рисунок &lt;seq0&gt;13&lt;/seq0&gt;: Диалоговое окно Файлы на сервере при подключении к серверу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Resetting the default template for text documents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T192453Z" creationid="olex" creationdate="20180719T192453Z">
+        <seg>Рисунок &lt;seq0&gt;13&lt;/seq0&gt;: Сброс шаблона по умолчанию для текстовых документов</seg>
       </tuv>
     </tu>
     <tu>
@@ -21873,6 +21921,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Th&lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;is&lt;/f2&gt;&lt;te3/&gt; choice&lt;tc4/&gt; do&lt;ts5/&gt;&lt;f6&gt;es&lt;/f6&gt;&lt;te7/&gt; not appear unless a custom template has been set as the default, as described in the previous section.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T192438Z" creationid="olex" creationdate="20180719T192438Z">
+        <seg>&lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;Этот&lt;/f2&gt;&lt;te3/&gt; выбор&lt;tc4/&gt; &lt;ts5/&gt;&lt;f6&gt;не&lt;/f6&gt;&lt;te7/&gt; появляется, если пользовательский шаблон не был установлен по умолчанию, как описано в предыдущем разделе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That must be left to the relevant chapter of the guide.&lt;/f6&gt;&lt;/t3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T190447Z" creationid="olex" creationdate="20180606T190447Z">
@@ -26818,6 +26874,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194652Z" creationid="olex" creationdate="20180306T194652Z">
         <seg>Обновление стилей из документа или шаблона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;f0&gt;File &gt; &lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt;&lt;f3&gt;New &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;te4/&gt;&lt;f5&gt;Templates&lt;/f5&gt;&lt;tc6/&gt;&lt;f7&gt; &lt;/f7&gt;to open the Templates dialog, and &lt;tc8/&gt;&lt;ts9/&gt;&lt;f10&gt;double-click&lt;/f10&gt;&lt;te11/&gt; the template you want to use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T192745Z" creationid="olex" creationdate="20180719T192745Z">
+        <seg>Используйте &lt;f0&gt;Файл &gt; &lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt;&lt;f3&gt;Создать &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;te4/&gt;&lt;f5&gt;Шаблоны...&lt;/f5&gt;&lt;tc6/&gt;&lt;f7&gt; &lt;/f7&gt;, чтобы открыть диалоговое окно Шаблоны, и &lt;tc8/&gt;&lt;ts9/&gt;&lt;f10&gt;дважды щелкните&lt;/f10&gt;&lt;te11/&gt; шаблон, который вы хотите использовать.</seg>
       </tuv>
     </tu>
     <tu>
