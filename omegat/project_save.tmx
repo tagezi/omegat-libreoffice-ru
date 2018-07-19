@@ -5938,6 +5938,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click once on it to activate the file handling controls (see Figure &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T190232Z" creationid="olex" creationdate="20180719T190232Z">
+        <seg>Нажмите на него один раз, чтобы активировать элемент управления файлом (смотрите Рисунок &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click one of the icons to open a new document of that type, or click the &lt;f3&gt;Templates&lt;/f3&gt; icon to start a new document using a template.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T181727Z" creationid="olex" creationdate="20180616T181656Z">
@@ -8427,6 +8435,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T191410Z" creationid="olex" creationdate="20180718T191410Z">
         <seg>Рисунок &lt;seq0&gt;10&lt;/seq0&gt;: Диалоговое окно Сохранить как шаблон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Creating a template using a wizard</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T185555Z" creationid="olex" creationdate="20180719T185555Z">
+        <seg>Рисунок &lt;seq0&gt;11&lt;/seq0&gt;: Создание шаблона с помощью мастера</seg>
       </tuv>
     </tu>
     <tu>
@@ -10982,6 +10998,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T184612Z" creationid="olex" creationdate="20180311T184612Z">
         <seg>Выберите в меню &lt;f0&gt;Файл &gt; Мастер &gt; [необходимый тип шаблона]&lt;/f0&gt; (смотрите Рисунок &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Wizards &gt; [type of template required]&lt;/f0&gt; (see Figure &lt;t1&gt;11&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T185516Z" creationid="olex" creationdate="20180719T185516Z">
+        <seg>Выберите в меню &lt;f0&gt;Файл &gt; Мастер &gt; [требуемый тип шаблона]&lt;/f0&gt; (смотрите Рисунок &lt;t1&gt;11&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15906,6 +15930,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make your selections and click &lt;f2&gt;Save&lt;/f2&gt; to close the dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T185915Z" creationid="olex" creationdate="20180719T185915Z">
+        <seg>Сделайте ваш выбор и нажмите &lt;f2&gt;Сохранить&lt;/f2&gt;, чтобы закрыть диалоговое окно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make your selections and click &lt;f3&gt;Save&lt;/f3&gt; to close the dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T190248Z" creationid="olex" creationdate="20180311T190248Z">
@@ -19086,6 +19118,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T184035Z" creationid="olex" creationdate="20180315T184035Z">
         <seg>Щелкните правой кнопкой мыши на шаблоне, чтобы открыть контекстное меню и нажмите &lt;f0&gt;Удалить&lt;/f0&gt; (Рисунок &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-click to open the context menu&lt;ts1/&gt; &lt;f2&gt;and&lt;/f2&gt;&lt;te3/&gt; click &lt;f4&gt;Edit&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T190401Z" creationid="olex" creationdate="20180719T190401Z">
+        <seg>Щёлкните правой кнопкой мыши, чтобы открыть контекстное меню&lt;ts1/&gt; &lt;f2&gt;и&lt;/f2&gt;&lt;te3/&gt; выберите &lt;f4&gt;Изменить&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22354,6 +22394,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Save As dialog opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T185719Z" creationid="olex" creationdate="20180719T185719Z">
+        <seg>Откроется диалоговое окно Сохранить как.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Save As window opens.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T190237Z" creationid="olex" creationdate="20180315T190237Z">
@@ -24768,6 +24816,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180404T214459Z" creationid="tagezi" creationdate="20180404T214459Z">
         <seg>В этом документе описывается, как генерировать случайные числа для нескольких наиболее распространенных функций распределения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This process is slightly different for each type of template, but the format is &lt;tc0/&gt;similar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180719T185656Z" creationid="olex" creationdate="20180719T185656Z">
+        <seg>Этот процесс несколько отличается для каждого типа шаблона, но формат &lt;tc0/&gt;аналогичен.</seg>
       </tuv>
     </tu>
     <tu>
