@@ -3261,6 +3261,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adding a custom watermark to the page background</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T153537Z" creationid="olex" creationdate="20180721T153537Z">
+        <seg>Добавление водяного знака к фону страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding a layer</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T150329Z" creationid="olex" creationdate="20180603T150329Z">
@@ -3281,6 +3289,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T184656Z" creationid="olex" creationdate="20180628T184656Z">
         <seg>Добавление надежной метки времени в электронную подпись в формате PDF обеспечивает целостность цифровой печати данных и доверенную дату и время, когда файл был подписан.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding comments to a document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T153624Z" creationid="olex" creationdate="20180721T153624Z">
+        <seg>Добавление комментариев к документу</seg>
       </tuv>
     </tu>
     <tu>
@@ -5155,6 +5171,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing page margins</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T153456Z" creationid="olex" creationdate="20180721T153456Z">
+        <seg>Изменение полей страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changing page orientation within a document</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195835Z" creationid="olex" creationdate="20180306T195741Z">
@@ -6805,6 +6829,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a table of contents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T153803Z" creationid="olex" creationdate="20180721T153803Z">
+        <seg>Создание оглавления</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194950Z" creationid="olex" creationdate="20180306T194950Z">
@@ -6857,6 +6889,22 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180314T182732Z" creationid="User" creationdate="20180314T182732Z">
         <seg>Создание формул</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating headers and footers</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T153006Z" creationid="olex" creationdate="20180721T153006Z">
+        <seg>Создание верхних и нижних колонтитулов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating indexes and bibliographies</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T153837Z" creationid="olex" creationdate="20180721T153837Z">
+        <seg>Создание указателей и библиографии</seg>
       </tuv>
     </tu>
     <tu>
@@ -7405,6 +7453,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Determining header and footer appearance</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T153153Z" creationid="olex" creationdate="20180721T153100Z">
+        <seg>Определение внешнего вида верхнего и нижнего колонтитула</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dictionaries installed by the system cannot be deleted.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180714T072358Z" creationid="olex" creationdate="20180714T072358Z">
@@ -7537,6 +7593,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T195419Z" creationid="olex" creationdate="20180607T195419Z">
         <seg>Отображение или скрытие панелей инструментов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displaying the page number</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T153239Z" creationid="olex" creationdate="20180721T153239Z">
+        <seg>Отображение номера страницы</seg>
       </tuv>
     </tu>
     <tu>
@@ -11051,6 +11115,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Formatting comments</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T153637Z" creationid="olex" creationdate="20180721T153637Z">
+        <seg>Форматирование комментариев</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Formatting data</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T174147Z" creationid="olex" creationdate="20180327T174147Z">
@@ -11103,6 +11175,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T184839Z" creationid="olex" creationdate="20180327T174541Z">
         <seg>Форматы чисел</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formatting pages</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T152931Z" creationid="olex" creationdate="20180721T152931Z">
+        <seg>Форматирование страниц</seg>
       </tuv>
     </tu>
     <tu>
@@ -14590,6 +14670,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Including the total number of pages</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T153308Z" creationid="olex" creationdate="20180721T153308Z">
+        <seg>Включая общее количество страниц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indicates the magnification level of the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T174453Z" creationid="olex" creationdate="20180616T174453Z">
@@ -14695,6 +14783,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inserting a header or footer</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T153114Z" creationid="olex" creationdate="20180721T153035Z">
+        <seg>Вставка верхнего или нижнего колонтитула</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inserting and editing pictures</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T161746Z" creationid="olex" creationdate="20180603T161746Z">
@@ -14723,6 +14819,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T105233Z" creationid="olex" creationdate="20180721T105233Z">
         <seg>Вставка тире, неразрывных пробелов и дефисов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserting document title in headers and footers</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T153214Z" creationid="olex" creationdate="20180721T153214Z">
+        <seg>Вставка заголовка документа в верхние и нижние колонтитулы</seg>
       </tuv>
     </tu>
     <tu>
@@ -17341,6 +17445,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Navigating through comments</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T153654Z" creationid="olex" creationdate="20180721T153654Z">
+        <seg>Навигация по комментариям</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Navigating within spreadsheets</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T195216Z" creationid="olex" creationdate="20180326T180409Z">
@@ -17562,6 +17674,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193833Z" creationid="olex" creationdate="20180307T193833Z">
         <seg>Нумерация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Numbering pages</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T153223Z" creationid="olex" creationdate="20180721T153223Z">
+        <seg>Нумерация страниц</seg>
       </tuv>
     </tu>
     <tu>
@@ -19019,6 +19139,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Printing comments</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T153704Z" creationid="olex" creationdate="20180721T153704Z">
+        <seg>Печать комментариев</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Printing from Calc is much the same &lt;i0/&gt;as printing&lt;i1/&gt; from other LibreOffice components (see &lt;f2&gt;Chapter 10 Printing, Exporting, and Emailing&lt;/f2&gt; in this guide).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T191951Z" creationid="olex" creationdate="20180507T191951Z">
@@ -19487,6 +19615,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195314Z" creationid="olex" creationdate="20180306T195314Z">
         <seg>Сброс шаблона по умолчанию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restarting page numbering</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T153443Z" creationid="olex" creationdate="20180721T153443Z">
+        <seg>Изменение нумерации страниц</seg>
       </tuv>
     </tu>
     <tu>
@@ -29337,6 +29473,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T103426Z" creationid="olex" creationdate="20180721T103426Z">
         <seg>Работа с документами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working with graphics</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T153907Z" creationid="olex" creationdate="20180721T153907Z">
+        <seg>Работа с графическими объектами</seg>
       </tuv>
     </tu>
     <tu>
