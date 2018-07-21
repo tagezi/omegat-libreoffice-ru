@@ -9186,6 +9186,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: The main Writer workspace</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T160745Z" creationid="olex" creationdate="20180721T160745Z">
+        <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: Основное рабочее пространство Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: OpenCL options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T180734Z" creationid="olex" creationdate="20180701T180734Z">
@@ -9370,6 +9378,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Left end of Status Bar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T160838Z" creationid="olex" creationdate="20180721T160838Z">
+        <seg>Рисунок &lt;seq0&gt;2&lt;/seq0&gt;: Левая часть строки состояния</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: LibreOffice Basic Macro Organizer dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132523Z" creationid="tagezi" creationdate="20180312T132523Z">
@@ -9542,6 +9558,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T134136Z" creationid="tagezi" creationdate="20180312T134128Z">
         <seg>Рисунок &lt;seq0&gt;3&lt;/seq0&gt;: Окно Интегрированной Среды Разработки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Right end of Status Bar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T160853Z" creationid="olex" creationdate="20180721T160853Z">
+        <seg>Рисунок &lt;seq0&gt;3&lt;/seq0&gt;: Правая часть строки состояния</seg>
       </tuv>
     </tu>
     <tu>
@@ -10504,6 +10528,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T171024Z" creationid="olex" creationdate="20180603T171024Z">
         <seg>Например, вы можете создать изображение в Draw и затем просто скопировать и вставить его в документ Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, if you restarted page numbering at 1 on the third page, its page number is 1 and its sequence number is 3.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T161227Z" creationid="olex" creationdate="20180721T161227Z">
+        <seg>Например, если вы изменили номер третьей страницы на 1, то ее номер будет 1, а ее порядковый номер: 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12921,6 +12953,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T180124Z" creationid="tagezi" creationdate="20180319T180124Z">
         <seg>Если объект вставлен из файла — не указать, какой файл вставить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If any bookmarks have been defined in the document, a right-click on this field pops up a list of bookmarks; click on &lt;tc0/&gt;&lt;tc1/&gt;&lt;tc2/&gt;&lt;tc3/&gt;one&lt;ts4/&gt; &lt;f5&gt;to go to that location&lt;/f5&gt;&lt;te6/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T161513Z" creationid="olex" creationdate="20180721T161513Z">
+        <seg>Если в документе были определены какие-либо закладки, то щелкните правой кнопкой мыши на этом поле, появится список закладок; нажмите &lt;tc0/&gt;&lt;tc1/&gt;&lt;tc2/&gt;&lt;tc3/&gt;необходимую вам&lt;ts4/&gt;&lt;f5&gt;, чтобы перейти в это место&lt;/f5&gt;&lt;te6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18810,6 +18850,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page number</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T160930Z" creationid="olex" creationdate="20180721T160930Z">
+        <seg>Номер страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page style or slide design</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T172748Z" creationid="olex" creationdate="20180616T172748Z">
@@ -21791,6 +21839,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shows the current page number, the sequence number of the current page (if different), and the total number of pages in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T161056Z" creationid="olex" creationdate="20180721T161056Z">
+        <seg>Показывает номер текущей страницы, порядковый номер текущей страницы (если они отличается) и общее количество страниц в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shows the current page style or slide design.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T172813Z" creationid="olex" creationdate="20180616T172813Z">
@@ -22076,6 +22132,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180625T175213Z" creationid="olex" creationdate="20180625T175143Z">
         <seg>Некоторые из этих параметров описаны ниже Рисунка &lt;t1&gt;3&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some other features of the Writer interface are covered in this chapter.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T160705Z" creationid="olex" creationdate="20180721T160705Z">
+        <seg>Некоторые другие функции интерфейса Writer описаны в этой главе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23427,6 +23491,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Writer &lt;i0/&gt;Status Bar provides information about the document and convenient ways to change some document features quickly.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T160816Z" creationid="olex" creationdate="20180721T160816Z">
+        <seg>Строка состояния Writer &lt;i0/&gt;предоставляет информацию о документе и удобные способы быстрого изменения некоторых функций документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Writer interface</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T101820Z" creationid="olex" creationdate="20180721T101820Z">
@@ -24334,6 +24406,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The main Writer workspace is shown in Figure &lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T160534Z" creationid="olex" creationdate="20180721T160534Z">
+        <seg>Основное рабочее пространство Writer показано на Рисунке &lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The main components of &lt;i0/&gt;the&lt;i1/&gt; Draw main window are shown in Figure &lt;t2&gt;1&lt;/t2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T172534Z" creationid="olex" creationdate="20180603T172534Z">
@@ -24378,6 +24458,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T193019Z" creationid="olex" creationdate="20180604T193019Z">
         <seg>Область полей обозначается на линейках областью серого цвета, как показано на Рисунке &lt;t0&gt;2&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The menus and toolbars are described in Chapter 1, Introducing LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T160618Z" creationid="olex" creationdate="20180721T160618Z">
+        <seg>Меню и панели инструментов описаны в Главе 1 Введение в LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26652,6 +26740,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T202622Z" creationid="olex" creationdate="20180312T202622Z">
         <seg>Чтобы установить отдельные шаблоны:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To jump to a specific page in the document, double-click on this field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T161547Z" creationid="olex" creationdate="20180721T161547Z">
+        <seg>Чтобы перейти к определенной странице в документе, дважды щелкните по этому полю.</seg>
       </tuv>
     </tu>
     <tu>
