@@ -5307,6 +5307,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Checking spelling automatically</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T105800Z" creationid="olex" creationdate="20180721T105800Z">
+        <seg>Автоматическая проверка орфографии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checks for a single space between sentences, indicating when one or two extra spaces are found.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180714T074337Z" creationid="olex" creationdate="20180714T074337Z">
@@ -11015,6 +11023,30 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T184839Z" creationid="olex" creationdate="20180327T174541Z">
         <seg>Форматы чисел</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formatting paragraphs directly</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T110704Z" creationid="olex" creationdate="20180721T110704Z">
+        <seg>Прямое форматирование абзацев</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formatting paragraphs using styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T110624Z" creationid="olex" creationdate="20180721T110624Z">
+        <seg>Форматирование абзацев с использованием стилей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formatting text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T110402Z" creationid="olex" creationdate="20180721T110402Z">
+        <seg>Форматирование текста</seg>
       </tuv>
     </tu>
     <tu>
@@ -27662,10 +27694,26 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using AutoCorrect</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T110304Z" creationid="olex" creationdate="20180721T105957Z">
+        <seg>Использование Автозаменавтозамены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using AutoFormat</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T175257Z" creationid="olex" creationdate="20180327T175250Z">
         <seg>Использование Автоформата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using AutoText</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T110352Z" creationid="olex" creationdate="20180721T110352Z">
+        <seg>Использование Автотекста</seg>
       </tuv>
     </tu>
     <tu>
@@ -27746,6 +27794,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T172245Z" creationid="olex" creationdate="20180306T172245Z">
         <seg>Использование стилей и шаблонов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using Word Completion</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T110318Z" creationid="olex" creationdate="20180721T110036Z">
+        <seg>Использование Завершения слов</seg>
       </tuv>
     </tu>
     <tu>
@@ -27863,6 +27919,14 @@ DONE</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Using styles is highly recommended</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T110523Z" creationid="olex" creationdate="20180721T110523Z">
+        <seg>Настоятельно рекомендуется использование стилей</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: TODO: "to have those". Расмотреть варианты сиснонимов "включает", "сожержит". Возможно просто придираюсь. 
 denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
@@ -27870,6 +27934,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180319T185843Z" creationid="olex" creationdate="20180306T192729Z">
         <seg>Использование стилей означает, что вы перестаете говорить «размер шрифта 14pt, Times New Roman, жирный, центрированный», и вы начинаете говорить «Заголовок», потому что вы определили стиль «Заголовок», которому присвоены такие характеристики.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using synonyms and the thesaurus</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T105914Z" creationid="olex" creationdate="20180721T105914Z">
+        <seg>Использование синонимов и тезауруса</seg>
       </tuv>
     </tu>
     <tu>
