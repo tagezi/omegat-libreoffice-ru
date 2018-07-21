@@ -5299,6 +5299,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Checking spelling and grammar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T105706Z" creationid="olex" creationdate="20180721T105706Z">
+        <seg>Проверка орфографии и грамматики</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checks for a single space between sentences, indicating when one or two extra spaces are found.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180714T074337Z" creationid="olex" creationdate="20180714T074337Z">
@@ -6889,6 +6897,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T182456Z" creationid="olex" creationdate="20180403T182456Z">
         <seg>Настройка&lt;i0/&gt; клавиши Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cutting, copying, and moving text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T104856Z" creationid="olex" creationdate="20180721T104856Z">
+        <seg>Вырезать, копировать и переместить текст</seg>
       </tuv>
     </tu>
     <tu>
@@ -9831,6 +9847,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060721Z" creationid="tagezi" creationdate="20180313T123636Z">
         <seg>Найдите в нём библиотеку с названием &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finding and replacing text and formatting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T104939Z" creationid="olex" creationdate="20180721T104939Z">
+        <seg>Найти и заменить текст и форматирование</seg>
       </tuv>
     </tu>
     <tu>
@@ -14567,10 +14591,50 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inserting dashes and non-breaking spaces and hyphens</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T105233Z" creationid="olex" creationdate="20180721T105233Z">
+        <seg>Вставка тире, неразрывных пробелов и дефисов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserting en and em dashes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T105628Z" creationid="olex" creationdate="20180721T105628Z">
+        <seg>Вставка длинных и коротких тире</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inserting new sheets</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183633Z" creationid="olex" creationdate="20180326T183633Z">
         <seg>Вставка новых листов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserting non-breaking hyphens</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T105430Z" creationid="olex" creationdate="20180721T105430Z">
+        <seg>Вставка неразрывных дефисов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserting non-breaking spaces</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T105255Z" creationid="olex" creationdate="20180721T105255Z">
+        <seg>Вставка неразрывных пробелов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserting special characters</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T105201Z" creationid="olex" creationdate="20180721T105201Z">
+        <seg>Вставка специальных символов</seg>
       </tuv>
     </tu>
     <tu>
@@ -18470,6 +18534,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T173445Z" creationid="olex" creationdate="20180627T173445Z">
         <seg>Вставка в другой документ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pasting text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T104905Z" creationid="olex" creationdate="20180721T104905Z">
+        <seg>Вставить текст</seg>
       </tuv>
     </tu>
     <tu>
@@ -27838,6 +27910,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T192939Z" creationid="olex" creationdate="20180326T192939Z">
         <seg>Использование инструмента Заполнить</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the Find &amp; Replace dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T105055Z" creationid="olex" creationdate="20180721T105055Z">
+        <seg>Использование диалогового окна Найти и заменить</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the Find toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T105022Z" creationid="olex" creationdate="20180721T105022Z">
+        <seg>Использование панель инструментов Найти</seg>
       </tuv>
     </tu>
     <tu>
