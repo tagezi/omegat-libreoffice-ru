@@ -4386,6 +4386,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Autocorrecting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T110952Z" creationid="olex" creationdate="20180721T110952Z">
+        <seg>Автозамена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Autocorrection options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T191952Z" creationid="olex" creationdate="20180326T191952Z">
@@ -5135,6 +5143,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195835Z" creationid="olex" creationdate="20180306T195741Z">
         <seg>Изменение ориентации страниц внутри документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changing the default tab stop interval</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T111651Z" creationid="olex" creationdate="20180721T111651Z">
+        <seg>Изменение интервала табуляции по умолчанию</seg>
       </tuv>
     </tu>
     <tu>
@@ -6813,10 +6829,42 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating bulleted and numbered lists</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T111256Z" creationid="olex" creationdate="20180721T111256Z">
+        <seg>Создание маркированных и нумерованных списков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating formulas</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180314T182732Z" creationid="User" creationdate="20180314T182732Z">
         <seg>Создание формул</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating lists with direct formatting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T111439Z" creationid="olex" creationdate="20180721T111439Z">
+        <seg>Создание списков, используя прямое форматирование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating lists with styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T111134Z" creationid="olex" creationdate="20180721T111134Z">
+        <seg>Создание списков, используя стили</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating nested lists</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T111401Z" creationid="olex" creationdate="20180721T111401Z">
+        <seg>Создание структурированных списков</seg>
       </tuv>
     </tu>
     <tu>
@@ -10971,6 +11019,22 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Formatting characters directly</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T110821Z" creationid="olex" creationdate="20180721T110821Z">
+        <seg>Прямое форматирование символов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formatting characters using styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T111201Z" creationid="olex" creationdate="20180721T110807Z">
+        <seg>Форматирование символов, используя стили</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Formatting data</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T174147Z" creationid="olex" creationdate="20180327T174147Z">
@@ -11037,8 +11101,16 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Formatting paragraphs using styles</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180721T110624Z" creationid="olex" creationdate="20180721T110624Z">
-        <seg>Форматирование абзацев с использованием стилей</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T111153Z" creationid="olex" creationdate="20180721T110624Z">
+        <seg>Форматирование абзацев, используя стили</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formatting tables</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T110836Z" creationid="olex" creationdate="20180721T110836Z">
+        <seg>Форматирование таблиц</seg>
       </tuv>
     </tu>
     <tu>
@@ -19243,6 +19315,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Removing direct formatting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T110721Z" creationid="olex" creationdate="20180721T110721Z">
+        <seg>Удаление прямого форматирования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Removing split views</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T190719Z" creationid="olex" creationdate="20180326T185626Z">
@@ -21282,6 +21362,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195307Z" creationid="olex" creationdate="20180306T195307Z">
         <seg>Установка шаблоном по умолчанию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting tab stops and indents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T111610Z" creationid="olex" creationdate="20180721T111610Z">
+        <seg>Настройка табуляции и отступов</seg>
       </tuv>
     </tu>
     <tu>
