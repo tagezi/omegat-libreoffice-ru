@@ -4402,6 +4402,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic hyphenation using styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T112155Z" creationid="olex" creationdate="20180721T112155Z">
+        <seg>Автоматическая расстановка переносов, используя стили</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic saving, like manual saving, overwrites the last saved state of the file.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T175607Z" creationid="olex" creationdate="20180619T175537Z">
@@ -5135,6 +5143,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T194241Z" creationid="olex" creationdate="20180424T194241Z">
         <seg>Изменение языка в ячейке позволяет использовать разные языки в одном документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changing measurement units for tab stops and rulers</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T111717Z" creationid="olex" creationdate="20180721T111717Z">
+        <seg>Изменение единиц измерения для табуляции и линейки</seg>
       </tuv>
     </tu>
     <tu>
@@ -12541,6 +12557,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hyphenating words</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T112200Z" creationid="olex" creationdate="20180721T111939Z">
+        <seg>Расстановка переносов слов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I am &lt;f0&gt;develop&lt;/f0&gt;ing software .</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T185223Z" creationid="olex" creationdate="20180607T185223Z">
@@ -16359,6 +16383,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T102235Z" creationid="olex" creationdate="20180721T102235Z">
         <seg>Вкладка Управление изменениями</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manual hyphenation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T112312Z" creationid="olex" creationdate="20180721T112312Z">
+        <seg>Расстановка переносов вручную</seg>
       </tuv>
     </tu>
     <tu>
@@ -21338,6 +21370,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T212238Z" creationid="olex" creationdate="20180312T212238Z">
         <seg>Настройка &lt;i0/&gt; шаблона по умолчанию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting Hyphenation with Writing Aids</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T112256Z" creationid="olex" creationdate="20180721T112256Z">
+        <seg>Настройка расстановки переносов дополнительными способами</seg>
       </tuv>
     </tu>
     <tu>
