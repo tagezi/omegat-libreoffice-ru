@@ -3928,6 +3928,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And many more</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T160335Z" creationid="olex" creationdate="20180721T160335Z">
+        <seg>И многое другое</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Announcement of LibreOffice 5.4.6</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T054647Z" creationid="tagezi" creationdate="20180321T054647Z">
@@ -4418,6 +4426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automated tables of contents and indexes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T155529Z" creationid="olex" creationdate="20180721T155529Z">
+        <seg>Автоматизированные оглавления и индексы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic hyphenation using styles</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T112155Z" creationid="olex" creationdate="20180721T112155Z">
@@ -4646,6 +4662,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T193637Z" creationid="olex" creationdate="20180502T193637Z">
         <seg>Запустите диалоговое окно Формат ячеек, нажатием правой кнопкой мыши и выбрав &lt;f0&gt;Формат ячеек&lt;/f0&gt; или выбрав в меню &lt;f1&gt;Формат &gt; Ячейки...&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Built-in drawing tools</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T155807Z" creationid="olex" creationdate="20180721T155807Z">
+        <seg>Встроенные инструменты рисования</seg>
       </tuv>
     </tu>
     <tu>
@@ -5095,6 +5119,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T153259Z" creationid="olex" creationdate="20180623T153259Z">
         <seg>Изменение некоторых локальных настроек и настроек языка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change tracking during revisions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T155937Z" creationid="olex" creationdate="20180721T155937Z">
+        <seg>Отслеживание изменений во время проверок</seg>
       </tuv>
     </tu>
     <tu>
@@ -5551,6 +5583,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T062641Z" creationid="tagezi" creationdate="20180305T062641Z">
         <seg>Документ ClarisWorks/AppleWorks (.cwk)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Classifying document contents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T154933Z" creationid="olex" creationdate="20180721T154933Z">
+        <seg>Классификация содержимого документа</seg>
       </tuv>
     </tu>
     <tu>
@@ -6877,10 +6917,26 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating and using cross-references</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T154726Z" creationid="olex" creationdate="20180721T154726Z">
+        <seg>Создание и использование перекрестных ссылок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating bulleted and numbered lists</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T111256Z" creationid="olex" creationdate="20180721T111256Z">
         <seg>Создание маркированных и нумерованных списков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating fill-in forms</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T155024Z" creationid="olex" creationdate="20180721T155024Z">
+        <seg>Создание форм для заполнения</seg>
       </tuv>
     </tu>
     <tu>
@@ -7089,6 +7145,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T182628Z" creationid="olex" creationdate="20180327T182628Z">
         <seg>Функции базы данных, по упорядочению, сохранению и фильтрованию данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Database integration, including a bibliography database</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T160004Z" creationid="olex" creationdate="20180721T160004Z">
+        <seg>Интеграция с базами данных, включая базу данных библиографии</seg>
       </tuv>
     </tu>
     <tu>
@@ -7649,6 +7713,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T180911Z" creationid="olex" creationdate="20180615T180911Z">
         <seg>Прикрепленные панели инструментов можно открепить и переместить в новое закрепленное положение или оставить в виде плавающей панели инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Document digital signature</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T160250Z" creationid="olex" creationdate="20180721T160250Z">
+        <seg>Цифровая подпись документа</seg>
       </tuv>
     </tu>
     <tu>
@@ -8239,6 +8311,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Embedding or linking of graphics, spreadsheets, and other objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T155749Z" creationid="olex" creationdate="20180721T155749Z">
+        <seg>Встраивание или ссылки на графические объекты, электронные таблицы и другие объекты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable &lt;i0/&gt;experimental features</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T172421Z" creationid="olex" creationdate="20180701T172421Z">
@@ -8564,6 +8644,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T192639Z" creationid="olex" creationdate="20180711T192639Z">
         <seg>Экспорт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export to PDF, including bookmarks (see Chapter 10)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T160155Z" creationid="olex" creationdate="20180721T160155Z">
+        <seg>Экспорт в PDF, включая закладки (смотрите Главу 10)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11047,6 +11135,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T174826Z" creationid="olex" creationdate="20180627T174826Z">
         <seg>Заставляет использовать OpenGL, даже если графическое устройство занесено в черный список.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Form design and filling</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T160325Z" creationid="olex" creationdate="20180721T160325Z">
+        <seg>Разработка формы для заполнения</seg>
       </tuv>
     </tu>
     <tu>
@@ -14205,6 +14301,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to the usual features of a word processor (spelling check, thesaurus, hyphenation, autocorrect, find and replace, automatic generation of tables of contents and indexes, mail merge and others), Writer provides these &lt;i0/&gt;important features&lt;i1/&gt;&lt;i2/&gt;:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T155329Z" creationid="olex" creationdate="20180721T155329Z">
+        <seg>В дополнение к обычным функциям текстового процессора (проверка орфографии, тезаурус, перенос, автокоррекция, поиск и замена, автоматическая генерация оглавления и индексов, слияние и другие), Writer предоставляет следующие&lt;i0/&gt; важные функции&lt;i1/&gt;&lt;i2/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, Draw and Impress can export to Adobe Flash (.swf) and a range of image formats.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T212115Z" creationid="tagezi" creationdate="20180304T212115Z">
@@ -16099,6 +16203,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Linking and cross-referencing within a document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T154604Z" creationid="olex" creationdate="20180721T154451Z">
+        <seg>Ссылки и перекрестные ссылки в документе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Linux users will also find LibreOffice included in many of the latest Linux distributions; Ubuntu is just one example.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T180512Z" creationid="olex" creationdate="20180611T180512Z">
@@ -16607,6 +16719,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094656Z" creationid="Роман" creationdate="20180316T094656Z">
         <seg>Язык разметки&lt;ie0/&gt; вводится прямо в Редакторе формул.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Master documents—to group a collection of documents into a single document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T155901Z" creationid="olex" creationdate="20180721T155901Z">
+        <seg>Составные документы — группа документов в виде единого документа</seg>
       </tuv>
     </tu>
     <tu>
@@ -18678,6 +18798,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T180704Z" creationid="olex" creationdate="20180327T180704Z">
         <seg>Разрыв страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page layout methods, including frames, columns, and tables</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T155508Z" creationid="olex" creationdate="20180721T155508Z">
+        <seg>Методы макетирования страницы, включая врезки, столбцы и таблицы</seg>
       </tuv>
     </tu>
     <tu>
@@ -22482,6 +22610,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Templates and styles (see Chapter 3)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T155402Z" creationid="olex" creationdate="20180721T155402Z">
+        <seg>Шаблоны и стили (смотрите Главу 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Templates can also contain predefined text, saving you from having to type it every time you create a new document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T175950Z" creationid="olex" creationdate="20180311T175950Z">
@@ -25097,6 +25233,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These features are covered in detail in the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T160505Z" creationid="olex" creationdate="20180721T160505Z">
+        <seg>Эти функции подробно описаны в &lt;f0&gt;Руководстве по Writer&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These fields will be converted to tags in the HTML export.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T192427Z" creationid="olex" creationdate="20180711T192427Z">
@@ -27266,6 +27410,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tracking changes to a document</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T154042Z" creationid="olex" creationdate="20180721T154042Z">
+        <seg>Отслеживание изменений в документе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Troubleshooting LibreOffice &lt;f0&gt;in&lt;/f0&gt; Safe Mode</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T105717Z" creationid="olex" creationdate="20180715T105717Z">
@@ -28110,6 +28262,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using bookmarks</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T154749Z" creationid="olex" creationdate="20180721T154749Z">
+        <seg>Использование закладок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using built-in language tools</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T103518Z" creationid="olex" creationdate="20180721T103518Z">
@@ -28134,10 +28294,26 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using fields</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T154053Z" creationid="olex" creationdate="20180721T154053Z">
+        <seg>Использование полей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using formulas and functions</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T175849Z" creationid="olex" creationdate="20180327T175849Z">
         <seg>Использование формул и функций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using hyperlinks</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T154624Z" creationid="olex" creationdate="20180721T154624Z">
+        <seg>Использование гиперссылок</seg>
       </tuv>
     </tu>
     <tu>
@@ -28148,6 +28324,12 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T104053Z" creationid="olex" creationdate="20180306T194440Z">
         <seg>Использование сочетаний клавиш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>не смог перевести, посмотрю в контектсе</note>
+      <tuv lang="EN-US">
+        <seg>Using mail merge</seg>
       </tuv>
     </tu>
     <tu>
@@ -28164,6 +28346,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173954Z" creationid="Роман" creationdate="20180317T173954Z">
         <seg>Использование языка разметки в Редакторе формул помещает формулу &lt;f5&gt;&lt;df6&gt;&lt;d7/&gt;&lt;di8/&gt;&lt;s9&gt;formula&lt;/s9&gt;&lt;/df6&gt;&lt;/f5&gt;&lt;s10/&gt;прямо в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using master documents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T154849Z" creationid="olex" creationdate="20180721T154849Z">
+        <seg>Использование составных документов</seg>
       </tuv>
     </tu>
     <tu>
@@ -29561,6 +29751,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T200907Z" creationid="olex" creationdate="20180607T200907Z">
         <seg>Writer - многофункциональный инструмент для создания писем, книг, отчетов, информационных бюллетеней, брошюр и других документов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writer is the word processor component of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T155113Z" creationid="olex" creationdate="20180721T155113Z">
+        <seg>Writer, это модуль текстового процессора в LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
