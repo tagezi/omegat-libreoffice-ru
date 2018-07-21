@@ -2620,6 +2620,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;tc4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;When &lt;/f7&gt;&lt;te8/&gt;text &lt;ts9/&gt;&lt;f10&gt;is &lt;/f10&gt;&lt;te11/&gt;selected&lt;ts12/&gt;, &lt;f13&gt;the word and character counts for the selection will appear here.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T162153Z" creationid="olex" creationdate="20180721T162153Z">
+        <seg>&lt;tc4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;Когда &lt;/f7&gt;&lt;te8/&gt;выделена часть текста &lt;ts9/&gt;&lt;f10&gt; &lt;/f10&gt;&lt;te11/&gt;&lt;ts12/&gt;, &lt;f13&gt;здесь будет отображатся количество слов и символов для выбранной части текста.&lt;/f13&gt;  , .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;ts0/&gt;(It opens in a new window.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T192804Z" creationid="olex" creationdate="20180719T192804Z">
@@ -5959,6 +5967,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202511Z" creationid="olex" creationdate="20180404T202440Z">
         <seg>Щелкните по ячейке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click in the Page Number field and type the &lt;f0&gt;sequence&lt;/f0&gt; number of the required page and press &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T161725Z" creationid="olex" creationdate="20180721T161725Z">
+        <seg>Щелкните в поле Номер страницы, введите &lt;f0&gt;порядковый номер&lt;/f0&gt; нужной вам страницы и нажмите &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23307,6 +23323,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Navigator opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T161604Z" creationid="olex" creationdate="20180721T161604Z">
+        <seg>Откроется Навигатор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Navigator provides several convenient ways to move around a document and find items in it:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T180646Z" creationid="olex" creationdate="20180621T180646Z">
@@ -25121,6 +25145,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The word and character count of the document is shown in the Status Bar, and is kept up to date as you &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;work&lt;/f2&gt;&lt;te3/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T161840Z" creationid="olex" creationdate="20180721T161840Z">
+        <seg>Количество слов и символов в документе отображается в строке состояния и обновляется, пока вы &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;работаете&lt;/f2&gt;&lt;te3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The workshop will offer a thorough overview of the skills requested and a summary of TDF's migration and training protocols.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T191512Z" creationid="tagezi" creationdate="20180307T191512Z">
@@ -26484,6 +26516,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T160541Z" creationid="olex" creationdate="20180409T160541Z">
         <seg>Чтобы удалить несколько листов, выберите листы (смотрите «&lt;bf0&gt;Выбор листов&lt;/bf0&gt;» на странице &lt;bf1&gt;22&lt;/bf1&gt;), затем щелкните правой кнопкой мыши на вкладке одного из листов и выберите в контекстном меню &lt;f2&gt;Удалить листы...&lt;/f2&gt; или выберите в меню &lt;f3&gt;Лист &gt; Удалить листы...&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To display extended statistics such as character counts &lt;ts0/&gt;&lt;f1&gt;that &lt;/f1&gt;&lt;te2/&gt;exclud&lt;ts3/&gt;&lt;f4&gt;e&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt; &lt;/f8&gt;&lt;te9/&gt;spaces, double-click the word count in the Status Bar, or choose &lt;f10&gt;Tools &gt; Word Count&lt;/f10&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T162726Z" creationid="olex" creationdate="20180721T162726Z">
+        <seg>Чтобы отобразить расширенную статистику, &lt;ts0/&gt;&lt;f1&gt;такую как количество символов, которое исключает пробелы,&lt;/f1&gt;&lt;te2/&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt; &lt;/f8&gt;&lt;te9/&gt; дважды щелкните количество слов в Строке состояния или выберите &lt;f10&gt;Сервис &gt; Количество слов...&lt;/f10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29687,6 +29727,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T100656Z" creationid="olex" creationdate="20180721T100656Z">
         <seg>Обработка текстов с помощью LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Word and character count</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T161746Z" creationid="olex" creationdate="20180721T161746Z">
+        <seg>Количество слов и символов</seg>
       </tuv>
     </tu>
     <tu>
