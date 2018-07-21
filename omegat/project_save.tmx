@@ -2892,6 +2892,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A list of page styles pops up; choose a different style by clicking on it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T163207Z" creationid="olex" creationdate="20180721T163207Z">
+        <seg>Появится список стилей страниц; выберите другой стиль, щелкнув по нему.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A list of pages drops down.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T160637Z" creationid="olex" creationdate="20180624T160604Z">
@@ -16539,6 +16547,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mail merge</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T162744Z" creationid="olex" creationdate="20180721T162744Z">
+        <seg>Рассылка электронной почтой</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mailing lists</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T091127Z" creationid="tagezi" creationdate="20180305T091127Z">
@@ -18870,6 +18886,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T160930Z" creationid="olex" creationdate="20180721T160930Z">
         <seg>Номер страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page style</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T163043Z" creationid="olex" creationdate="20180721T163043Z">
+        <seg>Стиль страницы</seg>
       </tuv>
     </tu>
     <tu>
@@ -21879,6 +21903,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shows the style of the current page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T163104Z" creationid="olex" creationdate="20180721T163104Z">
+        <seg>Показывает стиль текущей страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shows the total number of words and characters in the document or in the selection.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T172724Z" creationid="olex" creationdate="20180616T172724Z">
@@ -23351,6 +23383,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T053944Z" creationid="lera" creationdate="20180303T164411Z">
         <seg>Проект OpenOffice.org начался 13 октября 2000 года, когда &lt;is0/&gt;Sun Microsystems&lt;ie1/&gt; опубликовала исходный код своего программного продукта StarOffice® для сообщества разработчиков приложений с открытым кодом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Page Style dialog opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T163314Z" creationid="olex" creationdate="20180721T163314Z">
+        <seg>Откроется диалоговое окно Стиль страницы</seg>
       </tuv>
     </tu>
     <tu>
@@ -26327,6 +26367,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the page style, right-click on this field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T163141Z" creationid="olex" creationdate="20180721T163141Z">
+        <seg>Чтобы изменить стиль страницы, щелкните по этому полю правой кнопкой мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change the vertical alignment of the text in the cell, go to menu &lt;f0&gt;Format – Cells – Alignment&lt;/f0&gt; and select one of the options in the Vertical drop down list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T192631Z" creationid="olex" creationdate="20180424T192548Z">
@@ -26588,6 +26636,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T172900Z" creationid="olex" creationdate="20180616T172900Z">
         <seg>Чтобы изменить текущий стиль страницы или дизайн слайда, дважды щелкните по этому полю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To edit the current page style, double-click on this field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T163251Z" creationid="olex" creationdate="20180721T163251Z">
+        <seg>Чтобы редактировать стиль текущей страницы, дважды щелкните по этому полю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30143,6 +30199,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T180517Z" creationid="olex" creationdate="20180311T180321Z">
         <seg>Вы так же можете сохранять настройки меню и панели инструментов в шаблонах; смотрите &lt;f0&gt;главу 14, Настройка LibreOfficelt&lt;/f0&gt;, для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also see the number of words and characters (and other information including the number of pages, tables, and graphics) in the entire document in &lt;f0&gt;File &gt; Properties &gt; Statistics&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T163029Z" creationid="olex" creationdate="20180721T163029Z">
+        <seg>Вы также можете увидеть количество слов и символов (и другую информацию, включая количество страниц, таблиц и графики) во всем документе в &lt;f0&gt;Файл &gt; Свойства &gt; Статистика&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
