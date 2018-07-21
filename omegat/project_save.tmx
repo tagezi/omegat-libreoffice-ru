@@ -18234,6 +18234,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Options for applying languages</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T103610Z" creationid="olex" creationdate="20180721T103610Z">
+        <seg>Варианты применения языков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Options for sender and recipient information (business fax)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T184324Z" creationid="olex" creationdate="20180311T184324Z">
@@ -19552,6 +19560,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T173030Z" creationid="olex" creationdate="20180707T173030Z">
         <seg>При сохранении документа сохраняет предыдущую версию документа, как резервную копию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving as a Microsoft Word file</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T103503Z" creationid="olex" creationdate="20180721T103503Z">
+        <seg>Сохранение как файла Microsoft Word</seg>
       </tuv>
     </tu>
     <tu>
@@ -27582,6 +27598,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using Go to Page Option</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T103413Z" creationid="olex" creationdate="20180721T103413Z">
+        <seg>Использование опции Перейти к странице</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using LibreOffice on a macOS</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T094657Z" creationid="tagezi" creationdate="20180305T094657Z">
@@ -27662,10 +27686,26 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using built-in language tools</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T103518Z" creationid="olex" creationdate="20180721T103518Z">
+        <seg>Использование встроенных языковых инструментов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using conditional formatting</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T175408Z" creationid="olex" creationdate="20180327T175408Z">
         <seg>Использование условного форматирования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using direct formatting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T103631Z" creationid="olex" creationdate="20180721T103631Z">
+        <seg>Использование прямого форматирования</seg>
       </tuv>
     </tu>
     <tu>
@@ -28969,6 +29009,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183316Z" creationid="olex" creationdate="20180326T183316Z">
         <seg>Работа со столбцами и строками</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working with documents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180721T103426Z" creationid="olex" creationdate="20180721T103426Z">
+        <seg>Работа с документами</seg>
       </tuv>
     </tu>
     <tu>
