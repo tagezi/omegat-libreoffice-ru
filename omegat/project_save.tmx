@@ -4024,6 +4024,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any directly formatted language settings can be reset to the default language from this menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T152508Z" creationid="olex" creationdate="20180722T152508Z">
+        <seg>С помощью этого меню можно сбросить на исходные настройки языка текста с прямым форматированием.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any number less than four characters will have leading zeros added, for example 12 becomes 0012.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T181823Z" creationid="olex" creationdate="20180411T181823Z">
@@ -6431,6 +6439,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T173557Z" creationid="olex" creationdate="20180616T173557Z">
         <seg>Нажмите, чтобы выбрать различные режимы выбора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to open a menu where you can choose another language for the selected text or for the paragraph where the cursor is located.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T152035Z" creationid="olex" creationdate="20180722T152035Z">
+        <seg>Нажмите здесь, чтобы открыть меню, в котором вы можете выбрать другой язык для выбранного текста или для того абзаца, где находится курсор.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21903,6 +21919,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shows the language at the cursor position, or for the selected text, that is used for checking spelling and &lt;ts0/&gt;&lt;f1&gt;grammar as well as &lt;/f1&gt;&lt;te2/&gt;for hyphenation and thesaurus&lt;ts3/&gt; &lt;f4&gt;dictionaries&lt;/f4&gt;&lt;te5/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T151946Z" creationid="olex" creationdate="20180722T151946Z">
+        <seg>Показывает язык текста, который используется для проверки орфографии и &lt;ts0/&gt;&lt;f1&gt;грамматики, а также для словарей &lt;/f1&gt;&lt;te2/&gt;переноса и словарей тезауруса&lt;ts3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt;, в позиции курсора или для выбранного текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shows the style of the current page.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T163104Z" creationid="olex" creationdate="20180721T163104Z">
@@ -30055,6 +30079,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T183857Z" creationid="olex" creationdate="20180329T183857Z">
         <seg>Вы можете также настроить диапазон с помощью мыши, перетащив цветную рамку или её края, чтобы установить диапазон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also choose &lt;f0&gt;None (Do not check spelling)&lt;/f0&gt; to exclude the text from a spelling check or choose &lt;f1&gt;More&lt;/f1&gt; to open the Character dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T152345Z" creationid="olex" creationdate="20180722T152345Z">
+        <seg>Вы также можете выбрать &lt;f0&gt;Нет (не проверять орфографию)&lt;/f0&gt;, чтобы исключить текст из проверки орфографии или выбрать &lt;f1&gt;Еще...&lt;/f1&gt;, чтобы открыть диалоговое окно Символ.</seg>
       </tuv>
     </tu>
     <tu>
