@@ -6019,6 +6019,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click an icon to change between single page, side-by-side, and book layout views.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T160751Z" creationid="olex" creationdate="20180722T160711Z">
+        <seg>Нажимайте значок, чтобы изменять отображение вида на одну страницу, две рядом или макет книги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click and drag in the direction you want the cells to be filled.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T141643Z" creationid="olex" creationdate="20180414T141643Z">
@@ -6255,6 +6263,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T093929Z" creationid="olex" creationdate="20180415T093929Z">
         <seg>Выберите необходимую текстовую запись и она заполнит выбранную ячейку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on the unsaved changes icon to save the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T155801Z" creationid="olex" creationdate="20180722T155801Z">
+        <seg>Нажмите на значок несохраненных изменений, чтобы сохранить документ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7837,6 +7853,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Document changes status</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T155442Z" creationid="olex" creationdate="20180722T155442Z">
+        <seg>Статус изменений документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Document digital signature</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T160250Z" creationid="olex" creationdate="20180721T160250Z">
@@ -7953,6 +7977,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T172523Z" creationid="olex" creationdate="20180616T172523Z">
         <seg>Дважды щелкните это поле, чтобы открыть навигатор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-clicking in this area opens a relevant dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T160354Z" creationid="olex" creationdate="20180722T160354Z">
+        <seg>Двойной щелчок в этой области открывает соответствующий диалог.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10519,6 +10551,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T112456Z" creationid="tagezi" creationdate="20180320T112456Z">
         <seg>Для повседневного использования нет необходимости понимать, где хранятся макросы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For details, consult the Help or the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T160444Z" creationid="olex" creationdate="20180722T160444Z">
+        <seg>Подробнее смотрите в справке или в &lt;f0&gt;Руководстве по Writer&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13289,6 +13329,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T173953Z" creationid="olex" creationdate="20180616T173953Z">
         <seg>Если документ подписан цифровой подписью, здесь отображается значок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the document has been digitally signed, this icon (&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;) is displayed here; otherwise, it is blank.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T160034Z" creationid="olex" creationdate="20180722T160034Z">
+        <seg>Если документ подписан цифровой подписью, то здесь отображается такой значок (&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;); в противном случае поле будет пустым.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18166,6 +18214,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On Windows systems, you can hold down the &lt;f0&gt;Alt&lt;/f0&gt; key while dragging to select a block of text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T155323Z" creationid="olex" creationdate="20180722T155323Z">
+        <seg>В системе Windows вы можете удерживать клавишу &lt;f0&gt;Alt&lt;/f0&gt; при выделении, чтобы выбрать блок текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On Windows, LibreOffice uses the default Windows location for storing and retrieving certificates.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T184335Z" creationid="olex" creationdate="20180628T184335Z">
@@ -20351,6 +20407,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T181958Z" creationid="olex" creationdate="20180628T181958Z">
         <seg>Флажок Экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section or object information</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T160210Z" creationid="olex" creationdate="20180722T160210Z">
+        <seg>Информация о разделе или объекте</seg>
       </tuv>
     </tu>
     <tu>
@@ -24130,6 +24194,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The effect varies with the combination of window width and zoom factor in use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T160822Z" creationid="olex" creationdate="20180722T160822Z">
+        <seg>Эффект зависит от комбинации ширины окна и коэффициента масштабирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The element to drag depends upon the LibreOffice application.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T204231Z" creationid="olex" creationdate="20180309T204231Z">
@@ -24382,6 +24454,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T173804Z" creationid="olex" creationdate="20180616T173804Z">
         <seg>Значок, показанный здесь, меняется, если изменения в документе не были сохранены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The icon that is displayed here changes from this one (&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;) if the document has no unsaved changes, to this one (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) if it has been edited and the changes have not been saved.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T155939Z" creationid="olex" creationdate="20180722T155741Z">
+        <seg>Значок, видимый в этом поле, изменяется в зависимости от того, (&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;) нет в документе несохраненных изменений (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) или все изменения были сохранены.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27529,6 +27609,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To sign the document, or to view the certificate, click the icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T160116Z" creationid="olex" creationdate="20180722T160116Z">
+        <seg>Чтобы подписать документ или просмотреть сертификат, щелкните значок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To sort cells in a spreadsheet:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T180055Z" creationid="olex" creationdate="20180506T180055Z">
@@ -29513,6 +29601,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the cursor is on a section, heading, or list item, or when an object (such as a picture or table) is selected, information about that item appears in this field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T160324Z" creationid="olex" creationdate="20180722T160314Z">
+        <seg>Когда курсор находится в разделе, заголовке или элементе списка или когда выбран объект (например, изображение или таблица), то в этом поле отображается информация о таком элементе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the macro recorder is not able to solve a specific problem, the usual solution is to write code using the LibreOffice objects.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T084756Z" creationid="tagezi" creationdate="20180320T084756Z">
@@ -31218,6 +31314,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T192959Z" creationid="tagezi" creationdate="20180310T192959Z">
         <seg>Вам не нужно запрашивать специальное разрешение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You do not need to enter the block selection mode.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T155353Z" creationid="olex" creationdate="20180722T155353Z">
+        <seg>Вам не нужно входить в режим блочного выделения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33162,6 +33266,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T132038Z" creationid="olex" creationdate="20180306T183637Z">
         <seg>поддерживаемые типы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unsaved changes flag</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T155421Z" creationid="olex" creationdate="20180722T155421Z">
+        <seg>значок несохраненных изменений</seg>
       </tuv>
     </tu>
     <tu>
