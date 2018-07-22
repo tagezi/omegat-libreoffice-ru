@@ -2604,6 +2604,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;A&lt;/f2&gt; context menu displays the available options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T153721Z" creationid="olex" creationdate="20180722T153721Z">
+        <seg>&lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;В&lt;/f2&gt; контекстном меню отобразятся доступные параметры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;M&lt;/f2&gt;&lt;te3/&gt;anual formatting or direct formatting &lt;tc4/&gt;&lt;tc5/&gt;&lt;tc6/&gt;&lt;tc7/&gt;is &lt;f8&gt;a repetitive activity where, for example, you apply bold characters to several words, set individual margins for each paragraph, or change&lt;/f8&gt;&lt;ts9/&gt;&lt;f10&gt; the&lt;/f10&gt;&lt;te11/&gt;&lt;f12&gt; font size of &lt;/f12&gt;&lt;tc13/&gt;&lt;ts14/&gt;&lt;f15&gt;individual&lt;/f15&gt;&lt;te16/&gt;&lt;f17&gt; heading&lt;/f17&gt;&lt;ts18/&gt;&lt;f19&gt;s&lt;/f19&gt;&lt;te20/&gt;&lt;f21&gt;.&lt;/f21&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180717T174103Z" creationid="olex" creationdate="20180717T174011Z">
@@ -2624,6 +2632,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T162153Z" creationid="olex" creationdate="20180721T162153Z">
         <seg>&lt;tc4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;Когда &lt;/f7&gt;&lt;te8/&gt;выделена часть текста &lt;ts9/&gt;&lt;f10&gt; &lt;/f10&gt;&lt;te11/&gt;&lt;ts12/&gt;, &lt;f13&gt;здесь будет отображатся количество слов и символов для выбранной части текста.&lt;/f13&gt;  , .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;te3/&gt;&lt;tc4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;Howevering&lt;/f7&gt;&lt;te8/&gt; the mouse pointer over this field,&lt;ts9/&gt; &lt;f10&gt;also displays &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;a tooltip &lt;ts13/&gt;&lt;f14&gt;that shows&lt;/f14&gt;&lt;te15/&gt;&lt;tc16/&gt;&lt;ts17/&gt;&lt;f18&gt; &lt;/f18&gt;&lt;te19/&gt;which mode is active.&lt;ts20/&gt; &lt;f21&gt;Note that t&lt;/f21&gt;he icon does not change.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T154119Z" creationid="olex" creationdate="20180722T154119Z">
+        <seg>&lt;te3/&gt;&lt;tc4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;Помимо&lt;/f7&gt;&lt;te8/&gt;  указателя мыши над этим полем&lt;ts9/&gt; &lt;f10&gt;также отображается  &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;всплывающая подсказка &lt;ts13/&gt;&lt;f14&gt;, показывающая, &lt;/f14&gt;&lt;te15/&gt;&lt;tc16/&gt;&lt;ts17/&gt;&lt;f18&gt; &lt;/f18&gt;&lt;te19/&gt;какой режим активен.&lt;ts20/&gt; &lt;f21&gt;Обратите внимание, &lt;/f21&gt;что значок не изменяется.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6431,6 +6447,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T175146Z" creationid="olex" creationdate="20180701T175146Z">
         <seg>Нажмите этот значок, чтобы открыть диалоговое окно, в котором вы сможете загрузить обновление.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to change to &lt;f0&gt;Overwrite&lt;/f0&gt; mode; click again to return to Insert mode.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T153538Z" creationid="olex" creationdate="20180722T153058Z">
+        <seg>Нажмите, чтобы перейти в режим &lt;f0&gt;Замена&lt;/f0&gt;; нажмите снова, чтобы вернуться в Режим вставки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14179,6 +14203,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Insert mode, any text after the cursor position moves forward to make room for the text you type; in Overwrite mode, text after the cursor position is replaced by the text you type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T153446Z" creationid="olex" creationdate="20180722T153145Z">
+        <seg>В Режиме вставки любой текст после курсора перемещается вперед, чтобы освободить место для вводимого текста; в режиме перезаписи текст после курсора заменяется введенным вами текстом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In LibreOffice Draw, the maximum size of a drawing is 300 cm by 300 cm.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T173309Z" creationid="olex" creationdate="20180603T173309Z">
@@ -14941,7 +14973,6 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
-      <note>denkin: не нашел такого поля в writer</note>
       <tuv lang="EN-US">
         <seg>Insert mode</seg>
       </tuv>
@@ -21921,8 +21952,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Shows the language at the cursor position, or for the selected text, that is used for checking spelling and &lt;ts0/&gt;&lt;f1&gt;grammar as well as &lt;/f1&gt;&lt;te2/&gt;for hyphenation and thesaurus&lt;ts3/&gt; &lt;f4&gt;dictionaries&lt;/f4&gt;&lt;te5/&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180722T151946Z" creationid="olex" creationdate="20180722T151946Z">
-        <seg>Показывает язык текста, который используется для проверки орфографии и &lt;ts0/&gt;&lt;f1&gt;грамматики, а также для словарей &lt;/f1&gt;&lt;te2/&gt;переноса и словарей тезауруса&lt;ts3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt;, в позиции курсора или для выбранного текста.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T153216Z" creationid="olex" creationdate="20180722T151946Z">
+        <seg>Показывает язык текста, который используется для проверки орфографии и &lt;ts0/&gt;&lt;f1&gt;грамматики, а также для словарей &lt;/f1&gt;&lt;te2/&gt;переноса и словарей тезауруса&lt;ts3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt;, в положении курсора или для выбранного текста.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25539,6 +25570,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This area is blank when in Insert mode.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T152934Z" creationid="olex" creationdate="20180722T152525Z">
+        <seg>Эта область пуста, когда активен Режиме вставки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This area is only active if the Date option has been chosen in the Series type area.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T143848Z" creationid="olex" creationdate="20180414T143848Z">
@@ -25752,6 +25791,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T173018Z" creationid="olex" creationdate="20180306T173018Z">
         <seg>Этот документ является адаптацией и обновлением предыдущих выпусков этой главы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This feature is disabled when in &lt;f1&gt;Record Changes&lt;/f1&gt; mode.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T153625Z" creationid="olex" creationdate="20180722T153625Z">
+        <seg>Эта функция отключается, если включена &lt;f1&gt;Запись изменений&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
