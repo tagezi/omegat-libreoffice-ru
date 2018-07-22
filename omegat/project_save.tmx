@@ -2090,6 +2090,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;l0&gt;C&lt;/l0&gt;&lt;t1&gt;&lt;f2&gt;Labels on the Sidebar Tabs would be helpful.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T161621Z" creationid="olex" creationdate="20180722T161621Z">
+        <seg>&lt;l0&gt;&lt;/l0&gt;&lt;t1&gt;&lt;f2&gt;Ярлыки вкладок на Боковой панели очень полезны.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: перевел, кроме примечания про возможное удаление</note>
       <tuv lang="EN-US">
         <seg>&lt;l0&gt;DB&lt;/l0&gt;&lt;t1&gt;&lt;f2&gt;PROPOSED DELETION&lt;/f2&gt;&lt;/t1&gt;&lt;t3&gt;&lt;f4&gt;This &lt;/f4&gt;&lt;f5&gt;Preface&lt;/f5&gt;&lt;f6&gt; section is intended to inform the reader about the difference between the book and what they might see.</seg>
@@ -9835,6 +9843,22 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: View layouts: single, side-by-side, book.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T161242Z" creationid="olex" creationdate="20180722T161242Z">
+        <seg>Рисунок &lt;seq0&gt;4&lt;/seq0&gt;: Вид макетов: одна страница, две рядом или книга.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: &lt;f1&gt;Default &lt;/f1&gt;Properties panel o&lt;o2/&gt;f Sidebar&lt;ts3/&gt;&lt;o4/&gt;&lt;te5/&gt; in Writer</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T161908Z" creationid="olex" creationdate="20180722T161908Z">
+        <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: &lt;f1&gt;&lt;/f1&gt;Вкладка Свойства&lt;o2/&gt;на Боковой панели&lt;ts3/&gt;&lt;o4/&gt;&lt;te5/&gt; Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Choosing general printing options to apply to all LibreOffice components</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T171558Z" creationid="olex" creationdate="20180628T171558Z">
@@ -13189,6 +13213,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If necessary, select &lt;f1&gt;View &gt; Sidebar&lt;/f1&gt; from the Menu bar to display it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T161358Z" creationid="olex" creationdate="20180722T161358Z">
+        <seg>Если необходимо, то выберите в меню &lt;f1&gt;Вид &gt; Боковая панель&lt;/f1&gt;, чтобы отобразить ее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If necessary, select the options to enable support for &lt;i0/&gt;Asian languages (Chinese, Japanese, Korean) and support for &lt;i1/&gt;CTL (complex text layout) languages such as Urdu, Thai, Hebrew, and Arabic.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T180021Z" creationid="olex" creationdate="20180712T180021Z">
@@ -15491,6 +15523,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T190358Z" creationid="olex" creationdate="20180606T190026Z">
         <seg>Она не предназначена для указания того, как внести эти изменения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is not obvious which tab goes with what.&lt;/f2&gt;&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T161722Z" creationid="olex" creationdate="20180722T161722Z">
+        <seg>Без них не очевидно, для чего каждая вкладка.&lt;/f2&gt;&lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20539,6 +20579,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Figure &lt;t0&gt;4&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T160849Z" creationid="olex" creationdate="20180722T160849Z">
+        <seg>Смотрите Рисунок &lt;t0&gt;4&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the &lt;f0&gt;Calc Guide Chapter 4 Using Styles and Templates in Calc&lt;/f0&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T195250Z" creationid="olex" creationdate="20180418T195250Z">
@@ -23658,10 +23706,26 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Sidebar (Figure &lt;t0&gt;5&lt;/t0&gt;) is normally open by default on the right side of the Writer window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T161311Z" creationid="olex" creationdate="20180722T161311Z">
+        <seg>Боковая панель (Рисунок &lt;t0&gt;5&lt;/t0&gt;) обычно открывается по умолчанию в правой части окна Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Sidebar (Figure &lt;t1&gt;8&lt;/t1&gt;) is located on the right side of the edit views of Writer, Calc, Impress, and Draw.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T175100Z" creationid="olex" creationdate="20180616T175100Z">
         <seg>Боковая панель (Рисунок &lt;t1&gt;8&lt;/t1&gt;) расположена в правой части рабочего пространства Writer, Calc, Impress и Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Sidebar also has a Hide/Show button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T161439Z" creationid="olex" creationdate="20180722T161439Z">
+        <seg>На боковой панели также есть кнопка Скрыть/Показать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26618,6 +26682,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T192631Z" creationid="olex" creationdate="20180424T192548Z">
         <seg>Чтобы изменить вертикальное выравнивание текста в ячейке, перейдите в меню &lt;f0&gt;Формат &gt; Ячейки... &gt; Выравнивание&lt;/f0&gt; и выберите один из вариантов в раскрывающемся списке По вертикали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the view magnification, drag the Zoom slider, or click on the + and – signs, or right-click on the zoom level percent to pop up a list of magnification values from which to choose.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T161043Z" creationid="olex" creationdate="20180722T161043Z">
+        <seg>Чтобы изменить увеличение отображения, перетаскивайте ползунок Масштаб или нажимайте на значки + и -, или щелкните правой кнопкой мыши по проценту уровня масштабирования, чтобы отобразить список значений масштаба, из которых можно выбрать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30821,6 +30893,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can edit the document in any view.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T160841Z" creationid="olex" creationdate="20180722T160841Z">
+        <seg>Вы можете редактировать документ в любом представлении.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can either use dialogs from your computer’s operating system or from LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T082522Z" creationid="tagezi" creationdate="20180310T082522Z">
@@ -31554,6 +31634,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T122937Z" creationid="tagezi" creationdate="20180311T122937Z">
         <seg>Ваш первый &lt;i0/&gt;макрос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T160859Z" creationid="olex" creationdate="20180722T160859Z">
+        <seg>Масштаб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom interacts with the selected view layout to determine how many pages are visible in the document window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T161132Z" creationid="olex" creationdate="20180722T161132Z">
+        <seg>Масштаб взаимодействует с выбранным макетом представления, чтобы определять, сколько страниц будет видно в окне документа.</seg>
       </tuv>
     </tu>
     <tu>
