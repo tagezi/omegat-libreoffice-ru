@@ -8303,6 +8303,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each deck has a corresponding icon on the &lt;i33/&gt;Tab bar &lt;ts34/&gt;&lt;f35&gt;on&lt;/f35&gt;&lt;te36/&gt;&lt;tc37/&gt; the right of the sidebar, allowing you to switch between them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T163046Z" creationid="olex" creationdate="20180722T163046Z">
+        <seg>Каждая вкладка имеет соответствующий значок на &lt;i33/&gt;Панели вкладок &lt;ts34/&gt;&lt;f35&gt;&lt;/f35&gt;&lt;te36/&gt;&lt;tc37/&gt; справа от Боковой панели, позволяя переключаться между ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each function, when selected, will display a brief explanation of it’s use and acceptable syntax.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180530T172939Z" creationid="olex" creationdate="20180506T190533Z">
@@ -9853,8 +9861,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: &lt;f1&gt;Default &lt;/f1&gt;Properties panel o&lt;o2/&gt;f Sidebar&lt;ts3/&gt;&lt;o4/&gt;&lt;te5/&gt; in Writer</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180722T161908Z" creationid="olex" creationdate="20180722T161908Z">
-        <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: &lt;f1&gt;&lt;/f1&gt;Вкладка Свойства&lt;o2/&gt;на Боковой панели&lt;ts3/&gt;&lt;o4/&gt;&lt;te5/&gt; Writer</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T162033Z" creationid="olex" creationdate="20180722T161908Z">
+        <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: &lt;f1&gt;&lt;/f1&gt;Вкладка Свойства &lt;o2/&gt;на Боковой панели&lt;ts3/&gt;&lt;o4/&gt;&lt;te5/&gt; Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -13850,6 +13858,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T123509Z" creationid="olex" creationdate="20180306T180733Z">
         <seg>Если вы не задавали шаблон по умолчанию, то LibreOffice использует для этого типа документа шаблон, который устанавливался с LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have selected &lt;ts17/&gt;&lt;f18&gt;&lt;f19&gt;Enable experimental features&lt;/f19&gt;&lt;/f18&gt;&lt;te20/&gt; in &lt;f21&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f21&gt;, a &lt;ts22/&gt;&lt;f23&gt;sixth&lt;/f23&gt;&lt;te24/&gt;&lt;tc25/&gt; deck (&lt;f26&gt;Manage Changes&lt;/f26&gt;) will appear, and a &lt;ts27/&gt;&lt;f28&gt;seventh&lt;/f28&gt;&lt;te29/&gt;&lt;tc30/&gt; (&lt;f31&gt;Design&lt;/f31&gt;) can be selected in &lt;f32&gt;Sidebar Settings &gt; Customization&lt;/f32&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T162832Z" creationid="olex" creationdate="20180722T162832Z">
+        <seg>Если вы выбирали &lt;ts17/&gt;&lt;f18&gt;&lt;f19&gt;Включить экспериментальные возможности&lt;/f19&gt;&lt;/f18&gt;&lt;te20/&gt; в &lt;f21&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Расширенные возможности&lt;/f21&gt;, то появится &lt;ts22/&gt;&lt;f23&gt;шестая&lt;/f23&gt;&lt;te24/&gt;&lt;tc25/&gt; вкладка (&lt;f26&gt;Управление изменениями&lt;/f26&gt;), и &lt;ts27/&gt;&lt;f28&gt;седьмая&lt;/f28&gt;&lt;te29/&gt;&lt;tc30/&gt; (&lt;f31&gt;Дизайн&lt;/f31&gt;) может быть выбрана в &lt;f32&gt;Настройки Боковой панели &gt; Настройка&lt;/f32&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23822,6 +23838,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T160816Z" creationid="olex" creationdate="20180721T160816Z">
         <seg>Строка состояния Writer &lt;i0/&gt;предоставляет информацию о документе и удобные способы быстрого изменения некоторых функций документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Writer Sidebar contains &lt;ts0/&gt;&lt;f1&gt;five&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt; decks by default: &lt;ts4/&gt;&lt;f5&gt;Properties,&lt;/f5&gt;&lt;te6/&gt;&lt;ts7/&gt;&lt;f8&gt; Page,&lt;/f8&gt;&lt;te9/&gt;&lt;ts10/&gt;&lt;f11&gt; Styles&lt;/f11&gt;&lt;te12/&gt;&lt;tc13/&gt;&lt;ts14/&gt;&lt;f15&gt;, Gallery, and Navigator&lt;/f15&gt;&lt;te16/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T162436Z" creationid="olex" creationdate="20180722T162436Z">
+        <seg>Боковая панель Writer содержит &lt;ts0/&gt;&lt;f1&gt;пять&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt; вкладок по умолчанию: &lt;ts4/&gt;&lt;f5&gt;Свойства,&lt;/f5&gt;&lt;te6/&gt;&lt;ts7/&gt;&lt;f8&gt; Страница,&lt;/f8&gt;&lt;te9/&gt;&lt;ts10/&gt;&lt;f11&gt; Стили&lt;/f11&gt;&lt;te12/&gt;&lt;tc13/&gt;&lt;ts14/&gt;&lt;f15&gt;, Галерея и Навигатор&lt;/f15&gt;&lt;te16/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
