@@ -3036,6 +3036,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A new&lt;ts0/&gt;, &lt;f1&gt;separate&lt;/f1&gt;&lt;te2/&gt; selection is added to an existing selection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T154925Z" creationid="olex" creationdate="20180722T154925Z">
+        <seg>Новое&lt;ts0/&gt;, &lt;f1&gt;отдельное&lt;/f1&gt;&lt;te2/&gt; выделение добавляется к существующему выбору.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A number format is not applied.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T194341Z" creationid="olex" creationdate="20180330T194341Z">
@@ -3204,6 +3212,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A&lt;ts0/&gt; &lt;f1&gt;v&lt;/f1&gt;&lt;te2/&gt;&lt;ts3/&gt;&lt;f4&gt;ertical&lt;/f4&gt;&lt;te5/&gt; block of text can be selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T155150Z" creationid="olex" creationdate="20180722T155150Z">
+        <seg>&lt;ts0/&gt;&lt;f1&gt;&lt;/f1&gt;&lt;te2/&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt;Можно выбрать вертикальный блок текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ability to open, edit, and save Microsoft Excel spreadsheets.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T182752Z" creationid="olex" creationdate="20180327T182752Z">
@@ -3329,6 +3345,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T153624Z" creationid="olex" creationdate="20180721T153624Z">
         <seg>Добавление комментариев к документу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding selection &lt;f0&gt;(Shift+F8)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T154614Z" creationid="olex" creationdate="20180722T154614Z">
+        <seg>Добавляемое выделение &lt;f0&gt;(Shift+F8)&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4056,6 +4080,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any other selection is deselected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T154310Z" creationid="olex" creationdate="20180722T154310Z">
+        <seg>Любое другое выделение, при этом, сбросится.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any work done inside the dialog is not usually recorded.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T180643Z" creationid="tagezi" creationdate="20180319T180643Z">
@@ -4694,6 +4726,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T152203Z" creationid="olex" creationdate="20180603T152203Z">
         <seg>Стрелки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block selection &lt;f0&gt;(Ctrl+Shift+F8)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T155046Z" creationid="olex" creationdate="20180722T155046Z">
+        <seg>Блочное выделение &lt;f0&gt;(Ctrl+Shift+F8)&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6067,6 +6107,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click in the text where you want to position the cursor; click in a cell to make it the active cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T154220Z" creationid="olex" creationdate="20180722T154220Z">
+        <seg>Нажмите в тексте, там где вы хотите поместить курсор; щелкните в ячейке, чтобы сделать ее активной.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click inside the blank document created in step 1.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T200745Z" creationid="olex" creationdate="20180313T200745Z">
@@ -6481,6 +6529,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180320T185003Z" creationid="olex" creationdate="20180308T164344Z">
         <seg>При нажатии на слово применяется стиль символа для этого слова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clicking in the text extends or crops the current selection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T154516Z" creationid="olex" creationdate="20180722T154516Z">
+        <seg>Щелчок в тексте расширяет или сокращает текущий выбор.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8788,6 +8844,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181950Z" creationid="tagezi" creationdate="20180304T181950Z">
         <seg>Экспорт в другие форматы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extending selection (&lt;f0&gt;F8&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T154413Z" creationid="olex" creationdate="20180722T154413Z">
+        <seg>Расширяемое выделение (&lt;f0&gt;F8&lt;/f0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17066,6 +17130,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mode</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T154126Z" creationid="olex" creationdate="20180722T154126Z">
+        <seg>Режим</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modify Main so that it reads as shown in Listing &lt;t0&gt;5&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T085830Z" creationid="tagezi" creationdate="20180319T085830Z">
@@ -22431,6 +22503,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Standard selection</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T154343Z" creationid="olex" creationdate="20180722T154141Z">
+        <seg>Обычное выделение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>StarCalc formats (.sdc and .vor)&lt;br9/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T071419Z" creationid="tagezi" creationdate="20180304T153736Z">
@@ -24881,6 +24961,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T180238Z" creationid="olex" creationdate="20180411T180238Z">
         <seg>Результат будет одинаковым, для обоих методов ввода: -1234.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result is a multiple selection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180722T155028Z" creationid="olex" creationdate="20180722T155028Z">
+        <seg>Результатом будет множественное выделение.</seg>
       </tuv>
     </tu>
     <tu>
