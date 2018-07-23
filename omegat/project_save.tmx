@@ -360,6 +360,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Wrap&lt;/f1&gt;&lt;/f0&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;f4&gt;:&lt;/f4&gt; &lt;ts5/&gt;&lt;s6/&gt;&lt;te7/&gt;&lt;ts8/&gt;&lt;f9&gt;Modify &lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt;&lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;wrap and spacing&lt;/f14&gt;&lt;te15/&gt;&lt;ts16/&gt;&lt;f17&gt;.&lt;/f17&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T173643Z" creationid="olex" creationdate="20180723T173643Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Обтекание&lt;/f1&gt;&lt;/f0&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;f4&gt;:&lt;/f4&gt; &lt;ts5/&gt;&lt;s6/&gt;&lt;te7/&gt;&lt;ts8/&gt;&lt;f9&gt;Измените &lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt;&lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;обтекание и интервал&lt;/f14&gt;&lt;te15/&gt;&lt;ts16/&gt;&lt;f17&gt;.&lt;/f17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;s1/&gt;MsgBox &lt;/f0&gt;&lt;f2&gt;"This macro only works with a text document"&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190358Z" creationid="tagezi" creationdate="20180320T190358Z">
@@ -484,6 +492,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T114154Z" creationid="olex" creationdate="20180715T114154Z">
         <seg>&lt;f0&gt;Применить и перезапустить&lt;/f0&gt; - &lt;f1&gt;Выберите этот параметр, чтобы применить любое из перечисленных выше изменений и перезапустить LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Area:&lt;/f0&gt; &lt;ts1/&gt;&lt;f2&gt;Modify f&lt;/f2&gt;&lt;te3/&gt;&lt;tc4/&gt;ill and transparency&lt;tc5/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T173453Z" creationid="olex" creationdate="20180723T173453Z">
+        <seg>&lt;f0&gt;Область:&lt;/f0&gt; &lt;ts1/&gt;&lt;f2&gt;Измените &lt;/f2&gt;&lt;te3/&gt;&lt;tc4/&gt;заливку и прозрачность&lt;tc5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1329,6 +1345,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Position and Size:&lt;/f0&gt; E&lt;tc1/&gt;dit&lt;tc2/&gt; width, height, rotation, and flip attributes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T173854Z" creationid="olex" creationdate="20180723T173708Z">
+        <seg>&lt;f0&gt;Положение и размер:&lt;/f0&gt; &lt;tc1/&gt;Измените&lt;tc2/&gt; ширину, высоту, поворот и отразите объект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Position&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;and Si&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;f8&gt;ze&lt;/f8&gt;&lt;/f7&gt;&lt;te9/&gt;&lt;f10&gt;:&lt;/f10&gt; Modif&lt;tc11/&gt;&lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;y&lt;/f14&gt;&lt;te15/&gt; &lt;tc16/&gt;width and height.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T173715Z" creationid="olex" creationdate="20180723T172848Z">
+        <seg>&lt;f0&gt;Положение&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;и &lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;f8&gt;размер&lt;/f8&gt;&lt;/f7&gt;&lt;te9/&gt;&lt;f10&gt;:&lt;/f10&gt; Измените&lt;tc11/&gt;&lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;&lt;/f14&gt;&lt;te15/&gt; &lt;tc16/&gt;ширину и высоту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Presentation styles&lt;/f0&gt; include attributes for font, indents, spacing, alignment, and tabs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T191925Z" creationid="olex" creationdate="20180307T191925Z">
@@ -1941,8 +1973,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Wrap:&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Modify &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;wrap &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;and spacing &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;w&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;here these are available.&lt;/f12&gt;&lt;/f11&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180723T172810Z" creationid="olex" creationdate="20180723T172810Z">
-        <seg>&lt;f0&gt;Обтекание:&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Изменяйте &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;обтекание &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;и интервал &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;если эти опции доступны.&lt;/f12&gt;&lt;/f11&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T172855Z" creationid="olex" creationdate="20180723T172810Z">
+        <seg>&lt;f0&gt;Обтекание:&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Измените &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;обтекание &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;и интервал &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;если эти опции доступны.&lt;/f12&gt;&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13177,6 +13209,22 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T192034Z" creationid="olex" creationdate="20180614T192034Z">
         <seg>Если Быстрый запуск отключен, то вы можете активировать его, используя инструкции, приведенные в разделе «&lt;bf0&gt;Активация Быстрого запуска&lt;/bf0&gt;» выше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a &lt;ts0/&gt;&lt;f1&gt;drawing object&lt;/f1&gt;&lt;te2/&gt; is selected, then the following panels are available:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T173333Z" creationid="olex" creationdate="20180723T173113Z">
+        <seg>Если выбран &lt;ts0/&gt;&lt;f1&gt;объект рисования&lt;/f1&gt;&lt;te2/&gt;, то будут доступны следующие панели:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a &lt;ts0/&gt;&lt;f1&gt;frame&lt;/f1&gt;&lt;te2/&gt; is selected, then the wrap panel opens but may be grayed-out if frame wrap is not available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T174231Z" creationid="olex" creationdate="20180723T174231Z">
+        <seg>Если выбрана &lt;ts0/&gt;&lt;f1&gt;врезка&lt;/f1&gt;&lt;te2/&gt;, то открывается панель Обтекание, но она может быть неактивна, если недоступно обтекание врезок.</seg>
       </tuv>
     </tu>
     <tu>
