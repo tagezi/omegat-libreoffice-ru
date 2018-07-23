@@ -673,6 +673,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Contains &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;images and diagrams included in the Gallery themes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T182804Z" creationid="olex" creationdate="20180723T182804Z">
+        <seg>&lt;f0&gt;Содержит &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt; изображения и диаграммы, включенные в темы галереи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Continue in Safe Mode&lt;/f0&gt; - &lt;f1&gt;Continuing in Safe Mode will allow you to work in LibreOffice as you are used to, but using &lt;/f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;temporary profile &lt;/f4&gt;&lt;f5&gt;that was created on start up.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T114753Z" creationid="olex" creationdate="20180715T114400Z">
@@ -1006,6 +1014,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T172802Z" creationid="olex" creationdate="20180330T171936Z">
         <seg>&lt;f0&gt;Галерея&lt;/f0&gt;: эта вкладка содержит одну панель, которая аналогична открывающейся, при нажатии кнопки &lt;f1&gt;Галерея&lt;/f1&gt; на стандартной панели инструментов или выборе в меню &lt;f2&gt;Вид &gt; Галерея&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Gallery&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; &lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;&lt;f6&gt;D&lt;/f6&gt;&lt;/f5&gt;&lt;te7/&gt;&lt;ts8/&gt;&lt;f9&gt;&lt;f10&gt;eck&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T182732Z" creationid="olex" creationdate="20180723T182732Z">
+        <seg>&lt;f0&gt;Вкладка&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; &lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;&lt;f6&gt;Галерея&lt;/f6&gt;&lt;/f5&gt;&lt;te7/&gt;&lt;ts8/&gt;&lt;f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2800,6 +2816,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T162153Z" creationid="olex" creationdate="20180721T162153Z">
         <seg>&lt;tc4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;Когда &lt;/f7&gt;&lt;te8/&gt;выделена часть текста &lt;ts9/&gt;&lt;f10&gt; &lt;/f10&gt;&lt;te11/&gt;&lt;ts12/&gt;, &lt;f13&gt;здесь будет отображатся количество слов и символов для выбранной части текста.&lt;/f13&gt;  , .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;te20/&gt;&lt;ts21/&gt;&lt;f22&gt;You can preview the changes by checking &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;Show Previews&lt;/f24&gt;&lt;/f23&gt;&lt;te25/&gt;&lt;ts26/&gt; at the bottom&lt;te27/&gt;&lt;ts28/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T182704Z" creationid="olex" creationdate="20180723T182704Z">
+        <seg>&lt;te20/&gt;&lt;ts21/&gt;&lt;f22&gt;Вы можете просматривать изменения, включив &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;Просмотр стилей&lt;/f24&gt;&lt;/f23&gt;&lt;te25/&gt;&lt;ts26/&gt; внизу&lt;te27/&gt;&lt;ts28/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21524,6 +21548,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the &lt;f19&gt;New Theme&lt;/f19&gt; button to create new categories.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T183315Z" creationid="olex" creationdate="20180723T183315Z">
+        <seg>Выберите кнопку &lt;f19&gt;Создать тему...&lt;/f19&gt;, чтобы создать новую категорию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the Greek character from the symbol list, then click &lt;f0&gt;Insert&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204553Z" creationid="Роман" creationdate="20180316T204553Z">
@@ -23710,6 +23742,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T180002Z" creationid="olex" creationdate="20180327T180002Z">
         <seg>Мастер функций и поиск функций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Gallery &lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;has&lt;/f5&gt;&lt;te6/&gt; &lt;tc7/&gt;two &lt;tc8/&gt;&lt;ts9/&gt;&lt;f10&gt;sections&lt;/f10&gt;&lt;te11/&gt;&lt;ts12/&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;te14/&gt; &lt;ts15/&gt;&lt;f16&gt;T&lt;/f16&gt;&lt;te17/&gt;&lt;tc18/&gt;he first lists the themes by name (Arrows, Background, Diagrams, etc.) and the second displays the images in the selected category.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T183220Z" creationid="olex" creationdate="20180723T183147Z">
+        <seg>Галерея &lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;состоит&lt;/f5&gt;&lt;te6/&gt; &lt;tc7/&gt;из двух &lt;tc8/&gt;&lt;ts9/&gt;&lt;f10&gt;частей&lt;/f10&gt;&lt;te11/&gt;&lt;ts12/&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;te14/&gt; &lt;ts15/&gt;&lt;f16&gt;&lt;/f16&gt;&lt;te17/&gt;&lt;tc18/&gt;В первой перечислены темы по имени (стрелки, фон, диаграммы и т. д.), а вторая показывает изображения в выбранной категории.</seg>
       </tuv>
     </tu>
     <tu>
