@@ -344,6 +344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Image&lt;/f1&gt;&lt;/f0&gt;&lt;te2/&gt;&lt;f3&gt;:&lt;/f3&gt; Modify the graphic’s brightness, contrast, color mode and transparency.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T172514Z" creationid="olex" creationdate="20180723T172514Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Изображение&lt;/f1&gt;&lt;/f0&gt;&lt;te2/&gt;&lt;f3&gt;:&lt;/f3&gt; Измените яркость, контраст, цветной режим и прозрачность.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;User Guides &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;‡&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Opens your default browser at the Documentation page of the LibreOffice website &lt;/f5&gt;&lt;a6&gt;&lt;f7&gt;https://documentation.libreoffice.org/en/english-documentation/&lt;/f7&gt;&lt;/a6&gt;&lt;f8&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T181300Z" creationid="olex" creationdate="20180606T181300Z">
@@ -480,6 +488,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Area:&lt;/f0&gt; Modify the graphic background area fill mode and transparency.&lt;ts1/&gt;&lt;f2&gt; Further colors, gradients, hatching, patterns, and bitmap selection and importing are available in &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;More Options&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T172259Z" creationid="olex" creationdate="20180723T172259Z">
+        <seg>&lt;f0&gt;Область:&lt;/f0&gt; Измените режим заполнения графической области и прозрачность.&lt;ts1/&gt;&lt;f2&gt; Дополнительные цвета, градиенты, штриховка, шаблоны и выбор и импорт растровых изображений доступны в разделе &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Дополнительные параметры&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;AutoFill&lt;/f0&gt; – forms a series directly in the sheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T143154Z" creationid="olex" creationdate="20180414T143154Z">
@@ -554,8 +570,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Character&lt;/f0&gt;: Modify text by the font type, size, color, weight, style and spacing.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180723T171502Z" creationid="olex" creationdate="20180723T171502Z">
-        <seg>&lt;f0&gt;Символы&lt;/f0&gt;: Измените в тексте гарнитуру, кегль, цвет, вес, стиль и интервал символов.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T171738Z" creationid="olex" creationdate="20180723T171502Z">
+        <seg>&lt;f0&gt;Символы&lt;/f0&gt;: Изменяйте для текста гарнитуру, кегль, цвет, вес, стиль и интервал.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1299,8 +1315,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Paragraph&lt;/f0&gt;: Style the paragraph by alignment, lists or bullets, background color, indent, and spacing&lt;tc1/&gt;&lt;tc2/&gt;&lt;tc3/&gt;&lt;tc4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180723T171549Z" creationid="olex" creationdate="20180723T171549Z">
-        <seg>&lt;f0&gt;Абзац&lt;/f0&gt;: Настройте абзац выравниванием, списками или марками, цветом фона, отступом и интервалом&lt;tc1/&gt;&lt;tc2/&gt;&lt;tc3/&gt;&lt;tc4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T171753Z" creationid="olex" creationdate="20180723T171549Z">
+        <seg>&lt;f0&gt;Абзац&lt;/f0&gt;: Настраивайте для абзацев выравнивание, списки или маркированные списки, цвет фона, отступы и интервалы&lt;tc1/&gt;&lt;tc2/&gt;&lt;tc3/&gt;&lt;tc4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1571,8 +1587,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Styles: &lt;/f0&gt;Apply a paragraph style at the cursor position.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180723T171229Z" creationid="olex" creationdate="20180723T171229Z">
-        <seg>&lt;f0&gt;Стиль: &lt;/f0&gt;Применяет стиль абзаца в месте расположения курсора.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T171718Z" creationid="olex" creationdate="20180723T171229Z">
+        <seg>&lt;f0&gt;Стиль: &lt;/f0&gt;Применяйте стиль абзаца в месте расположения курсора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1919,6 +1935,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T185405Z" creationid="olex" creationdate="20180328T185405Z">
         <seg>&lt;f0&gt;Окно&lt;/f0&gt; - содержит команды для открытия нового окна &lt;f1&gt;Новое окно&lt;/f1&gt; или закрытия текущего окна &lt;f2&gt;Закрыть окно&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Wrap:&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Modify &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;wrap &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;and spacing &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;w&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;here these are available.&lt;/f12&gt;&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T172810Z" creationid="olex" creationdate="20180723T172810Z">
+        <seg>&lt;f0&gt;Обтекание:&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Изменяйте &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;обтекание &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;и интервал &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;если эти опции доступны.&lt;/f12&gt;&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3264,6 +3288,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T173207Z" creationid="tagezi" creationdate="20180315T173207Z">
         <seg>Переменная, как лист бумаги, содержит информацию, которую можно изменить и прочитать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A&lt;te0/&gt;&lt;ts1/&gt;dditional panels appear when specific types of items are selected:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T171826Z" creationid="olex" creationdate="20180723T171826Z">
+        <seg>&lt;te0/&gt;&lt;ts1/&gt;При выборе определенных типов элементов появляются дополнительные панели::</seg>
       </tuv>
     </tu>
     <tu>
@@ -13145,6 +13177,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T192034Z" creationid="olex" creationdate="20180614T192034Z">
         <seg>Если Быстрый запуск отключен, то вы можете активировать его, используя инструкции, приведенные в разделе «&lt;bf0&gt;Активация Быстрого запуска&lt;/bf0&gt;» выше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a &lt;ts0/&gt;&lt;f1&gt;graphic&lt;/f1&gt;&lt;te2/&gt;&lt;ts3/&gt;&lt;f4&gt; &lt;/f4&gt;&lt;te5/&gt;is selected, then the following panels open:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T171956Z" creationid="olex" creationdate="20180723T171956Z">
+        <seg>Если выбран &lt;ts0/&gt;&lt;f1&gt;графический объект&lt;/f1&gt;&lt;te2/&gt;&lt;ts3/&gt;&lt;f4&gt; &lt;/f4&gt;&lt;te5/&gt;, то откроются следующие панели:</seg>
       </tuv>
     </tu>
     <tu>
