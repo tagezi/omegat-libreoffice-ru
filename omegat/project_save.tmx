@@ -1697,6 +1697,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Styles&lt;/f0&gt;&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Deck&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T181912Z" creationid="olex" creationdate="20180723T181912Z">
+        <seg>&lt;f0&gt;Вкладка&lt;/f0&gt;&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Стили&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Sum&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;– clicking on the Sum icon totals the numbers in the cells above the selected cell and then places the total in the selected cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T182451Z" creationid="olex" creationdate="20180329T182451Z">
@@ -2231,6 +2239,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T185607Z" creationid="olex" creationdate="20180607T185607Z">
         <seg>&lt;f1&gt;Смотрите&lt;/f1&gt; лицензии: &lt;a2&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f4&gt;This includes&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt; appl&lt;ts7/&gt;&lt;f8&gt;ying &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;existing styles, &lt;ts11/&gt;&lt;f12&gt;modifying them, or &lt;/f12&gt;&lt;te13/&gt;creat&lt;ts14/&gt;&lt;f15&gt;ing&lt;/f15&gt;&lt;te16/&gt;&lt;tc17/&gt; new ones&lt;tc18/&gt;&lt;ts19/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T182529Z" creationid="olex" creationdate="20180723T182529Z">
+        <seg>&lt;f4&gt;Управление включает&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt; применение&lt;ts7/&gt;&lt;f8&gt; &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;существующих стилей, &lt;ts11/&gt;&lt;f12&gt;изменение их или &lt;/f12&gt;&lt;te13/&gt;создание&lt;ts14/&gt;&lt;f15&gt;&lt;/f15&gt;&lt;te16/&gt;&lt;tc17/&gt; новых&lt;tc18/&gt;&lt;ts19/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4822,6 +4838,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T152001Z" creationid="olex" creationdate="20180603T152001Z">
         <seg>Основные фигуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Be aware that by changing the options on the Page &lt;ts0/&gt;&lt;f1&gt;deck&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;tc4/&gt;&lt;ts5/&gt;&lt;f6&gt;, &lt;/f6&gt;&lt;te7/&gt;you will change the page style in use, modifying not only the current page but all pages &lt;ts8/&gt;&lt;f9&gt;in the document &lt;/f9&gt;&lt;te10/&gt;using the same page style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T181839Z" creationid="olex" creationdate="20180723T181839Z">
+        <seg>Имейте в виду, что, изменив параметры на вкладке &lt;ts0/&gt;&lt;f1&gt;Страница&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;tc4/&gt;&lt;ts5/&gt;&lt;f6&gt;, &lt;/f6&gt;&lt;te7/&gt;вы измените используемый стиль страницы, изменив не только текущую страницу, но и все страницы &lt;ts8/&gt;&lt;f9&gt;в документе &lt;/f9&gt;&lt;te10/&gt;, использующие тот же стиль страницы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17102,6 +17126,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T102235Z" creationid="olex" creationdate="20180721T102235Z">
         <seg>Вкладка Управление изменениями</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage&lt;ts0/&gt;&lt;f1&gt;s&lt;/f1&gt;&lt;te2/&gt; the styles used in the document&lt;ts3/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180723T182019Z" creationid="olex" creationdate="20180723T182019Z">
+        <seg>Управляет&lt;ts0/&gt;&lt;f1&gt;&lt;/f1&gt;&lt;te2/&gt; стилями, используемыми в документе&lt;ts3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
