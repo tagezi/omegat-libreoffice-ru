@@ -737,6 +737,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Design&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Deck&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180724T193509Z" creationid="olex" creationdate="20180724T193509Z">
+        <seg>&lt;f0&gt;Вкладка&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Дизайн&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Detect special numbers&lt;/f0&gt; – when this option is enabled, Calc will automatically detect all number formats, including special number formats such as dates, time, and scientific notation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T180203Z" creationid="olex" creationdate="20180330T193010Z">
@@ -1381,6 +1389,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T175343Z" creationid="olex" creationdate="20180723T175343Z">
         <seg>&lt;f0&gt;Положение&lt;/f0&gt;&lt;f1&gt; и &lt;/f1&gt;&lt;f2&gt;размер&lt;/f2&gt;&lt;f3&gt;: &lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;te6/&gt;&lt;ts7/&gt;&lt;f8&gt;Измените&lt;/f8&gt;&lt;te9/&gt;&lt;ts10/&gt;&lt;f11&gt; ширину и высоту.&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;P&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;reviously called Print Layout&lt;ts3/&gt;, &lt;f4&gt;N&lt;/f4&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;ormal&lt;/f7&gt;&lt;te8/&gt;&lt;tc9/&gt; is the default view in Writer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180724T194454Z" creationid="olex" creationdate="20180724T194454Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;Ранее называемый Макет печати&lt;ts3/&gt;, &lt;f4&gt;Обычный&lt;/f4&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt; вид&lt;/f7&gt;&lt;te8/&gt;&lt;tc9/&gt; является стандартным представлением в Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18268,6 +18284,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Normal&lt;ts0/&gt; &lt;f1&gt;view&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180724T194245Z" creationid="olex" creationdate="20180724T194245Z">
+        <seg>Обычный&lt;ts0/&gt; &lt;f1&gt;вид&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not all buttons are visible in a standard installation, but you can customize the toolbar to include those you use regularly.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T100238Z" creationid="olex" creationdate="20180721T100238Z">
@@ -19950,6 +19974,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T102000Z" creationid="olex" creationdate="20180721T102000Z">
         <seg>Вкладка Свойства</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provides quick access to themes (fonts and colors) and style presets.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180724T193619Z" creationid="olex" creationdate="20180724T193619Z">
+        <seg>Обеспечивает быстрый доступ к темам (шрифтам и цветам) и настройкам стиля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26330,6 +26362,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This deck is available only when Experimental Features is enabled in&lt;f0&gt; Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f0&gt; and when the deck is selected in &lt;f1&gt;Sidebar Settings &gt; Customization&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180724T193901Z" creationid="olex" creationdate="20180724T193713Z">
+        <seg>Эта вкладка доступна только тогда, когда в &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Расширенные возможности&lt;/f0&gt; включена опция Включить экспериментальные возможности и когда вкладка выбрана в &lt;f1&gt;Настройки боковой панели &gt; Настройка&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This deck is similar to the floating toolbar that can be opened from &lt;f16&gt;View &gt; Navigator&lt;/f16&gt; on the Menu bar or the &lt;f17&gt;Navigator&lt;/f17&gt; button on the Standard Toolbar&lt;ts18/&gt;, &lt;f19&gt;or by pressing &lt;/f19&gt;&lt;te20/&gt;&lt;ts21/&gt;&lt;f22&gt;&lt;f23&gt;F5&lt;/f23&gt;&lt;/f22&gt;&lt;te24/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180724T191900Z" creationid="olex" creationdate="20180724T191900Z">
@@ -26632,6 +26672,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180325T122844Z" creationid="olex" creationdate="20180316T194405Z">
         <seg>This setup can also be created with page breaks and page styles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This tab is available only when &lt;f10&gt;Enable experimental features&lt;/f10&gt; has been selected in &lt;f11&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f11&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180724T193737Z" creationid="olex" creationdate="20180724T193357Z">
+        <seg>Эта вкладка доступна только в том случае, если в меню &lt;f10&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Расширенные возможности&lt;/f10&gt; включена опция &lt;f11&gt;Включить экспериментальные возможности&lt;/f11&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27066,6 +27114,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T161043Z" creationid="olex" creationdate="20180722T161043Z">
         <seg>Чтобы изменить увеличение отображения, перетаскивайте ползунок Масштаб или нажимайте на значки + и -, или щелкните правой кнопкой мыши по проценту уровня масштабирования, чтобы отобразить список значений масштаба, из которых можно выбрать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the view, go to the &lt;f0&gt;View&lt;/f0&gt; menu and click on the &lt;ts1/&gt;&lt;f2&gt;des&lt;/f2&gt;&lt;te3/&gt;&lt;tc4/&gt;&lt;f5&gt;i&lt;/f5&gt;red view.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180724T194232Z" creationid="olex" creationdate="20180724T194232Z">
+        <seg>Чтобы изменить режим просмотра, перейдите в меню &lt;f0&gt;Вид&lt;/f0&gt; и выберите необходимый вариант.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30666,6 +30722,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Writer has three ways to view a document: Normal, Web, and Full Screen.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180724T194118Z" creationid="olex" creationdate="20180724T194118Z">
+        <seg>В Writer есть три режима просмотра документа: Обычный, Веб-страница и Во весь экран.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Writer is a feature-rich tool for creating letters, books, reports, newsletters, brochures, and other documents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T200907Z" creationid="olex" creationdate="20180607T200907Z">
@@ -32514,6 +32578,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T163532Z" creationid="olex" creationdate="20180624T163516Z">
         <seg>параметр состояние документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>document views</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180724T193926Z" creationid="olex" creationdate="20180724T193926Z">
+        <seg>просмотр документов</seg>
       </tuv>
     </tu>
     <tu>
