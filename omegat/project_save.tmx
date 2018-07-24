@@ -1241,6 +1241,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Makes it easy to navigate to specific types of content&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt; &lt;ts3/&gt;&lt;f4&gt;and to &lt;/f4&gt;&lt;te5/&gt;reorganize &lt;tc6/&gt;content&lt;ts7/&gt;&lt;f8&gt;s&lt;/f8&gt;&lt;te9/&gt; &lt;ts10/&gt;&lt;f11&gt;based on &lt;/f11&gt;&lt;te12/&gt;&lt;tc13/&gt;&lt;tc14/&gt;&lt;s15/&gt;categories, such as headings, tables, frames, graphics, etc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180724T191452Z" creationid="olex" creationdate="20180724T191452Z">
+        <seg>&lt;f0&gt;Позволяет легко перемещается по определенным типам контента&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt; &lt;ts3/&gt;&lt;f4&gt;и &lt;/f4&gt;&lt;te5/&gt;реогранизует &lt;tc6/&gt;содержимое&lt;ts7/&gt;&lt;f8&gt;&lt;/f8&gt;&lt;te9/&gt; &lt;ts10/&gt;&lt;f11&gt;в &lt;/f11&gt;&lt;te12/&gt;&lt;tc13/&gt;&lt;tc14/&gt;&lt;s15/&gt;категории, такие как заголовки, таблицы, врезки, графические элементы и т. д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Media &lt;/f0&gt;&lt;f1&gt;Playb&lt;/f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;f3&gt;ck&lt;/f3&gt;&lt;f4&gt;: Control for&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;p&lt;/f6&gt;&lt;f7&gt;lay, pause, stop, seek, loop, and &lt;/f7&gt;&lt;f8&gt;volume&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T175210Z" creationid="olex" creationdate="20180723T175210Z">
@@ -1301,6 +1309,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T172809Z" creationid="olex" creationdate="20180330T173834Z">
         <seg>&lt;f0&gt;Навигатор&lt;/f0&gt;: эта вкладка содержит одну панель, которая по сути такая же, как и окно Навигатор, которое открывается нажатием кнопки &lt;f1&gt;Навигатор&lt;/f1&gt; на стандартной панели инструментов или выбором в меню &lt;f2&gt;Вид &gt; Навигатор&lt;/f2&gt; (клавиша &lt;f3&gt;F5&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Navigator&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Deck&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180724T191035Z" creationid="olex" creationdate="20180724T191035Z">
+        <seg>&lt;f0&gt;Вкладка&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Навигатор&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26282,6 +26298,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This deck is similar to the floating toolbar that can be opened from &lt;f16&gt;View &gt; Navigator&lt;/f16&gt; on the Menu bar or the &lt;f17&gt;Navigator&lt;/f17&gt; button on the Standard Toolbar&lt;ts18/&gt;, &lt;f19&gt;or by pressing &lt;/f19&gt;&lt;te20/&gt;&lt;ts21/&gt;&lt;f22&gt;&lt;f23&gt;F5&lt;/f23&gt;&lt;/f22&gt;&lt;te24/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180724T191900Z" creationid="olex" creationdate="20180724T191900Z">
+        <seg>Эта вкладка похожа на плавающую панель инструментов, которую можно открыть из меню &lt;f16&gt;Вид &gt; Навигатор&lt;/f16&gt; или нажав кнопку &lt;f17&gt;Навигатор&lt;/f17&gt; на панели инструментов Стандарная&lt;ts18/&gt;, &lt;f19&gt;или нажав клавишу &lt;/f19&gt;&lt;te20/&gt;&lt;ts21/&gt;&lt;f22&gt;&lt;f23&gt;F5&lt;/f23&gt;&lt;/f22&gt;&lt;te24/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This dialog is also available by clicking the &lt;f5&gt;More Options&lt;/f5&gt; button in the &lt;f6&gt;Character&lt;/f6&gt; title bar of the &lt;f7&gt;Properties&lt;/f7&gt; deck on the opened Sidebar, with text in the cell selected.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T202319Z" creationid="olex" creationdate="20180418T202319Z">
@@ -27459,6 +27483,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T190754Z" creationid="olex" creationdate="20180508T184014Z">
         <seg>Чтобы вставить разрыв страницы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To insert an image into a file, or add a new image to the new category, drag and drop the selected image.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180724T191014Z" creationid="olex" creationdate="20180724T191014Z">
+        <seg>Чтобы вставить изображение в файл или добавить новое изображение в новую категорию, перетащите выбранное изображение.</seg>
       </tuv>
     </tu>
     <tu>
