@@ -1249,6 +1249,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Manage Change&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Deck&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180724T192259Z" creationid="olex" creationdate="20180724T192259Z">
+        <seg>&lt;f0&gt;Вкладка&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt;&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Управление изменениями&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Media &lt;/f0&gt;&lt;f1&gt;Playb&lt;/f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;f3&gt;ck&lt;/f3&gt;&lt;f4&gt;: Control for&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;p&lt;/f6&gt;&lt;f7&gt;lay, pause, stop, seek, loop, and &lt;/f7&gt;&lt;f8&gt;volume&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T175210Z" creationid="olex" creationdate="20180723T175210Z">
@@ -13173,6 +13181,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the Sidebar Navigator does not contain a &lt;f25&gt;List Box On/Off&lt;/f25&gt; button&lt;ts26/&gt; &lt;f27&gt;that reduces the size of the window&lt;/f27&gt;&lt;te28/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180724T192223Z" creationid="olex" creationdate="20180724T192223Z">
+        <seg>Однако Навигатор на Боковой панели не содержит кнопку &lt;f25&gt;Окно списка вкл./выкл.&lt;/f25&gt;, &lt;ts26/&gt;&lt;f27&gt;которая уменьшает размер окна.&lt;/f27&gt;&lt;te28/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, when the computer is restarted, Quickstarter will be loaded again.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T191535Z" creationid="olex" creationdate="20180614T185904Z">
@@ -16830,6 +16846,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132356Z" creationid="tagezi" creationdate="20180312T132356Z">
         <seg>Листинг &lt;t0&gt;2&lt;/t0&gt; показывает, что новый макрос был добавлен до Sub Main.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lists&lt;te0/&gt; all changes &lt;ts1/&gt;&lt;f2&gt;made to&lt;/f2&gt;&lt;te3/&gt;&lt;tc4/&gt; the document since the Track Changes mode was activated.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180724T192448Z" creationid="olex" creationdate="20180724T192448Z">
+        <seg>Список&lt;te0/&gt; всех изменений &lt;ts1/&gt;&lt;f2&gt;внесенных в&lt;/f2&gt;&lt;te3/&gt;&lt;tc4/&gt; документ после того как была активирована функция Отслеживать изменения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26294,6 +26318,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T175408Z" creationid="olex" creationdate="20180330T192144Z">
         <seg>Этот пользовательский разделитель должен содержаться в файле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This deck is an alternat&lt;ts5/&gt;&lt;f6&gt;ive&lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt; view of the Manage Changes dialog that can be opened from &lt;f9&gt;Edit &gt; Track Changes &gt; Manage Changes&lt;/f9&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180724T192934Z" creationid="olex" creationdate="20180724T192934Z">
+        <seg>Эта вкладка представляет собой альтернативный &lt;ts5/&gt;&lt;f6&gt;&lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;вид диалогового окна Управление изменениями, которое можно открыть из меню &lt;f9&gt;Правка &gt; Отслеживать изменения &gt; Управление...&lt;/f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
