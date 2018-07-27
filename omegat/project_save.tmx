@@ -207,6 +207,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f3&gt;&lt;te4/&gt;From this point on, &lt;f5&gt;all changes you make to the document will occur only in the new document&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T175650Z" creationid="olex" creationdate="20180727T175650Z">
+        <seg>&lt;/f3&gt;&lt;te4/&gt;С этого момента &lt;f5&gt;все изменения, внесенные вами в документ, будут относится только к новому документу&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt;On the AutoFormat dialog, &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;&lt;f13&gt;click the &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;Add&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; button (Figure &lt;/f16&gt;&lt;f17&gt;&lt;t18&gt;7&lt;/t18&gt;&lt;/f17&gt;&lt;f19&gt;).&lt;/f19&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T184812Z" creationid="olex" creationdate="20180718T184812Z">
@@ -2107,6 +2115,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;When s&lt;/f0&gt;aving &lt;f1&gt;documents &lt;/f1&gt;as &lt;f2&gt;files types &lt;/f2&gt;other than &lt;f3&gt;ODF, try to keep them as simple as possible.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T180440Z" creationid="olex" creationdate="20180727T180440Z">
+        <seg>&lt;f0&gt;При &lt;/f0&gt;сохранении &lt;f1&gt;файлов документов &lt;/f1&gt;в &lt;f2&gt;форматах &lt;/f2&gt;отличных от &lt;f3&gt;ODF, старайтесь составлять их как можно проще.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;When the bu&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;tton &lt;ts3/&gt;&lt;f4&gt;is selected for a specific &lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;f7&gt;o&lt;/f7&gt;bject type&lt;ts8/&gt;, &lt;te9/&gt;&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;clicking &lt;/f12&gt;&lt;te13/&gt;the &lt;f14&gt;Previous&lt;/f14&gt; and &lt;f15&gt;Next&lt;/f15&gt; buttons &lt;tc16/&gt;will jump to the previous or next &lt;ts17/&gt;&lt;f18&gt;occurrence &lt;/f18&gt;&lt;te19/&gt;&lt;tc20/&gt;of the &lt;ts21/&gt;&lt;f22&gt;object&lt;/f22&gt;&lt;te23/&gt;&lt;tc24/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T172855Z" creationid="olex" creationdate="20180727T172153Z">
@@ -2928,6 +2944,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T162153Z" creationid="olex" creationdate="20180721T162153Z">
         <seg>&lt;tc4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;Когда &lt;/f7&gt;&lt;te8/&gt;выделена часть текста &lt;ts9/&gt;&lt;f10&gt; &lt;/f10&gt;&lt;te11/&gt;&lt;ts12/&gt;, &lt;f13&gt;здесь будет отображатся количество слов и символов для выбранной части текста.&lt;/f13&gt;  , .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;tc6/&gt;&lt;s7/&gt;If you want to go back to working with the ODT version of your document, you must open it again.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T175732Z" creationid="olex" creationdate="20180727T175732Z">
+        <seg>&lt;tc6/&gt;&lt;s7/&gt;Если вы хотите вернуться к работе с версией документа в формате ODT, то вы должны снова открыть его.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7097,6 +7121,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T141220Z" creationid="tagezi" creationdate="20180320T141220Z">
         <seg>Полный охват диалогового окна «Настройка» выходит за рамки этой главы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complex formatting, images, and other objects increase the possibility of errors.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T180459Z" creationid="olex" creationdate="20180727T180459Z">
+        <seg>Сложное форматирование, изображения и другие объекты увеличивают вероятность ошибок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15506,6 +15538,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T183035Z" creationid="olex" creationdate="20180315T183035Z">
         <seg>В открывшемся диалоговом окне выберите нужную категорию и нажмите &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the section named &lt;f5&gt;Default file format and ODF settings&lt;/f5&gt;, under &lt;f6&gt;Document type&lt;/f6&gt;, select &lt;f7&gt;Text document,&lt;/f7&gt; then under &lt;f8&gt;Always save as&lt;/f8&gt;, select your preferred file format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T180242Z" creationid="olex" creationdate="20180727T180242Z">
+        <seg>В секции &lt;f5&gt;Формат файла по умолчанию и настройки ODF&lt;/f5&gt;, в списке &lt;f6&gt;Тип документа&lt;/f6&gt;, выберите &lt;f7&gt;Текстовый документ,&lt;/f7&gt; затем ниже &lt;f8&gt;Всегда сохранять как&lt;/f8&gt;, выберите предпочтительный формат файла.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27747,6 +27787,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T191043Z" creationid="olex" creationdate="20180402T191043Z">
         <seg>Чтобы сохранять по умолчанию документы в формате, отличном от формата ODF, перейдите в &lt;f0&gt;Сервис &gt; Параметры &gt; Загрузка/Сохранение &gt; Общие&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To have Writer save documents by default in &lt;ts0/&gt;&lt;f1&gt;a&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt; Microsoft Word file format, go to &lt;f4&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T175954Z" creationid="olex" creationdate="20180727T175954Z">
+        <seg>Чтобы Writer сохранял документы по умолчанию в &lt;ts0/&gt;&lt;f1&gt;&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt; формате Microsoft Word, выберите в меню &lt;f4&gt;Сервис &gt; Параметры &gt; Загрузка/сохранение &gt; Общие&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
