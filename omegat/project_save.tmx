@@ -5098,6 +5098,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, LibreOffice &lt;ts0/&gt;&lt;f1&gt;creates&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt; and saves files in the OpenDocument file format (ODF), a standardized file format (ISO-IEC 26300) used by many software applications.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T174336Z" creationid="olex" creationdate="20180727T174336Z">
+        <seg>По умолчанию LibreOffice &lt;ts0/&gt;&lt;f1&gt;создает&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt; и сохраняет файлы в формате Open Document Format (ODF), стандартизованный формат файла (ISO-IEC 26300), используемый многими программами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, LibreOffice Calc will use the it’s own formula syntax, referred to as &lt;f0&gt;Calc R1&lt;/f0&gt; rather than the &lt;f1&gt;Excel R1&lt;/f1&gt; syntax that is used by Microsoft Excel.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180515T173837Z" creationid="olex" creationdate="20180327T183641Z">
@@ -5643,6 +5651,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chapter 1, Introducing LibreOffice, includes instructions on &lt;ts0/&gt;&lt;f1&gt;creating&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt; new documents, opening existing documents, saving documents, accessing remote servers, and password-protecting documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T174121Z" creationid="olex" creationdate="20180727T174121Z">
+        <seg>Глава 1, Введение в LibreOffice, включает инструкции по &lt;ts0/&gt;&lt;f1&gt;созданию&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt; новых документов, открытию существующих документов, сохранению документов, доступу к удаленным серверам и защищенным паролем документам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chapter 13 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T213839Z" creationid="tagezi" creationdate="20180310T213839Z">
@@ -5687,6 +5703,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T170043Z" creationid="Олександр" creationdate="20180305T190813Z">
         <seg>Глава 3 Использование стилей и шаблонов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chapter 3, Using Styles and Templates, covers how to create a document from a template.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T174200Z" creationid="olex" creationdate="20180727T174200Z">
+        <seg>Глава 3, Использование стилей и шаблонов, описывает, как создать документ из шаблона.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10327,6 +10351,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T190700Z" creationid="olex" creationdate="20180402T190700Z">
         <seg>Рисунок &lt;seq0&gt;7&lt;/seq0&gt;: Диалоговое окно Экспорт в текстовый файл для CSV файлов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Go to Page dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T173956Z" creationid="olex" creationdate="20180727T173956Z">
+        <seg>Рисунок &lt;seq0&gt;7&lt;/seq0&gt;: Диалоговое окно Перейти</seg>
       </tuv>
     </tu>
     <tu>
@@ -15899,6 +15931,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T201556Z" creationid="olex" creationdate="20180607T201556Z">
         <seg>Он включает более 300 функций для финансовых, статистических, математических и других операций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It initially&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt; show&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt;s&lt;/f18&gt;&lt;te19/&gt;&lt;tc20/&gt;&lt;ts21/&gt;&lt;f22&gt; the number of the current page and the number of pages in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T173804Z" creationid="olex" creationdate="20180727T173514Z">
+        <seg>Сначала в нем &lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt;показан&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt;&lt;/f18&gt;&lt;te19/&gt;&lt;tc20/&gt;&lt;ts21/&gt;&lt;f22&gt; номер текущей страницы и затем количество страниц в документе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26016,6 +26056,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then type the number of the required destination page into the text box and click the &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;OK&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt; button.&lt;/f25&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T173941Z" creationid="olex" creationdate="20180727T173941Z">
+        <seg>Введите номер необходимой страницы в поле для ввода и нажмите кнопку &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;OK&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;.&lt;/f25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, go to &lt;f0&gt;Insert &gt; Object &gt; Formula&lt;/f0&gt; on the menu bar to open the Formula Editor.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T064155Z" creationid="User" creationdate="20180311T154515Z">
@@ -29967,6 +30015,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whe&lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;n&lt;/f2&gt;&lt;te3/&gt;ever &lt;ts4/&gt;&lt;f5&gt;po&lt;/f5&gt;&lt;te6/&gt;&lt;ts7/&gt;&lt;f8&gt;ssible to choose &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;the document file format&lt;ts11/&gt;, &lt;te12/&gt;&lt;tc13/&gt;choose the default ODF format&lt;ts14/&gt;.&lt;te15/&gt; &lt;tc16/&gt;&lt;ts17/&gt;&lt;f18&gt;This reduces the possibility of errors.&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T174654Z" creationid="olex" creationdate="20180727T174654Z">
+        <seg>&lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;&lt;/f2&gt;&lt;te3/&gt;Если это  &lt;ts4/&gt;&lt;f5&gt;возможно&lt;/f5&gt;&lt;te6/&gt;&lt;ts7/&gt;&lt;f8&gt;, то выбирайте &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;формат файла документа&lt;ts11/&gt; &lt;te12/&gt;&lt;tc13/&gt;ODF, как формат по умолчанию.&lt;ts14/&gt;.&lt;te15/&gt; &lt;tc16/&gt;&lt;ts17/&gt;&lt;f18&gt;Это уменьшает вероятность ошибок.&lt;/f18&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When &lt;f0&gt;Extended tips&lt;/f0&gt; is active, a brief description of the function of a particular icon or menu command or a field on a dialog appears when you hold the mouse pointer over that item.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T162636Z" creationid="olex" creationdate="20180624T162636Z">
@@ -30894,6 +30950,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T201056Z" creationid="olex" creationdate="20180607T201056Z">
         <seg>Writer может экспортировать файлы в форматы HTML, XHTML, XML, Adobe Portable Document Format (PDF) и в различные версии файлов Microsoft Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writer documents have the extension .ODT.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T174401Z" creationid="olex" creationdate="20180727T174401Z">
+        <seg>Документы Writer имеют расширение .ODT.</seg>
       </tuv>
     </tu>
     <tu>
