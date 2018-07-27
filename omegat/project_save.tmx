@@ -2299,10 +2299,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f3&gt;When activated, a&lt;/f3&gt; &lt;t4/&gt;checkmark appear&lt;f5&gt;s&lt;/f5&gt; next to the option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T164516Z" creationid="olex" creationdate="20180727T164516Z">
+        <seg>&lt;f3&gt;При активации&lt;/f3&gt; &lt;t4/&gt;рядом с опцией&lt;f5&gt;&lt;/f5&gt; появляется галочка.￼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f4&gt;This includes&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt; appl&lt;ts7/&gt;&lt;f8&gt;ying &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;existing styles, &lt;ts11/&gt;&lt;f12&gt;modifying them, or &lt;/f12&gt;&lt;te13/&gt;creat&lt;ts14/&gt;&lt;f15&gt;ing&lt;/f15&gt;&lt;te16/&gt;&lt;tc17/&gt; new ones&lt;tc18/&gt;&lt;ts19/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T182529Z" creationid="olex" creationdate="20180723T182529Z">
         <seg>&lt;f4&gt;Управление включает&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt; применение&lt;ts7/&gt;&lt;f8&gt; &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;существующих стилей, &lt;ts11/&gt;&lt;f12&gt;изменение их или &lt;/f12&gt;&lt;te13/&gt;создание&lt;ts14/&gt;&lt;f15&gt;&lt;/f15&gt;&lt;te16/&gt;&lt;tc17/&gt; новых&lt;tc18/&gt;&lt;ts19/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f6&gt;This also hides headers, footers, and w&lt;/f6&gt;hite space &lt;f7&gt;in &lt;/f7&gt;Full Screen view.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T164759Z" creationid="olex" creationdate="20180727T164759Z">
+        <seg>&lt;f6&gt;При этом также скроются верхние и нижние колонтитулы, и &lt;/f6&gt;пустое пространство &lt;f7&gt;в &lt;/f7&gt;полноэкранном режиме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f8&gt;Note that this only works when single-page view is activated in the Status Bar.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T164847Z" creationid="olex" creationdate="20180727T164847Z">
+        <seg>&lt;f8&gt;Обратите внимание, что это работает, только когда в строке состояния активируется одностраничное представление.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14727,6 +14751,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T111909Z" creationid="olex" creationdate="20180715T111909Z">
         <seg>В безопасном режиме &lt;f0&gt;вы можете найти варианты для&lt;/f0&gt; исправления или восстановления вашей копии LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Web Layout view, you can use only the Zoom slider; the &lt;ts0/&gt;View Layout &lt;te1/&gt;buttons on the Status bar are disabled, and most of the choices on the Zoom &amp; View Layout dialog are not available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T165438Z" creationid="olex" creationdate="20180727T165438Z">
+        <seg>В представлении Веб страницы вы можете использовать только слайдер «Масштаб»; кнопки &lt;ts0/&gt;Мультистраничного вида&lt;te1/&gt; в панели состояния будут отключены,  и большинство вариантов в диалоговом окне Масщтаб и режимы просмотра будут недоступны..</seg>
       </tuv>
     </tu>
     <tu>
@@ -29683,6 +29715,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T061600Z" creationid="tagezi" creationdate="20180305T061600Z">
         <seg>Мы будем защищать прошлые инвестиции, основываясь на прочных достижениях нашего первого десятилетия, поощрять широкое участие в Сообществе и координировать деятельность в рамках Сообщества”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Web Layout &lt;f0&gt;v&lt;/f0&gt;iew</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T165003Z" creationid="olex" creationdate="20180727T165003Z">
+        <seg>Вид &lt;f0&gt;Веб страницы&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
