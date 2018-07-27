@@ -1137,6 +1137,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In Full Screen view, the document is displayed using the zoom and layout settings previously selected&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;in the other views&lt;/f4&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T165950Z" creationid="olex" creationdate="20180727T165950Z">
+        <seg>&lt;f0&gt;В полноэкранном режиме документ отображается с использованием настроек масштабирования и компоновки, ранее настроенных&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;в других режимах&lt;/f4&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;In addition to the Help menu links above, there are other online community support options available, s&lt;/f0&gt;ee &lt;f1&gt;the t&lt;/f1&gt;able &lt;f2&gt;below.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T185509Z" creationid="olex" creationdate="20180606T185158Z">
@@ -12107,6 +12115,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Full Screen &lt;f0&gt;v&lt;/f0&gt;iew</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T165800Z" creationid="olex" creationdate="20180727T165800Z">
+        <seg>Вид &lt;f0&gt;Во весь экран&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Full coverage of event handlers is well beyond the scope of this document, but a little knowledge can accomplish much.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T144820Z" creationid="tagezi" creationdate="20180320T144820Z">
@@ -14757,8 +14773,16 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>In Web Layout view, you can use only the Zoom slider; the &lt;ts0/&gt;View Layout &lt;te1/&gt;buttons on the Status bar are disabled, and most of the choices on the Zoom &amp; View Layout dialog are not available.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180727T165438Z" creationid="olex" creationdate="20180727T165438Z">
-        <seg>В представлении Веб страницы вы можете использовать только слайдер «Масштаб»; кнопки &lt;ts0/&gt;Мультистраничного вида&lt;te1/&gt; в панели состояния будут отключены,  и большинство вариантов в диалоговом окне Масщтаб и режимы просмотра будут недоступны..</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T165552Z" creationid="olex" creationdate="20180727T165438Z">
+        <seg>В представлении Веб страницы вы можете использовать только слайдер «Масштаб»; кнопки &lt;ts0/&gt;Мультистраничного вида&lt;te1/&gt; в панели состояния и большинство вариантов в диалоговом окне Масщтаб и режимы просмотра будут недоступны..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Web layout there is no visual indication of page boundaries.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T165728Z" creationid="olex" creationdate="20180727T165728Z">
+        <seg>В режиме Веб страницы отсутствует визуальная индикация границ страницы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15384,8 +15408,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>In this view, you can use the &lt;ts10/&gt;View Layout icons &lt;f11&gt;and the &lt;/f11&gt;&lt;te12/&gt;Zoom slider &lt;tc13/&gt;&lt;tc14/&gt;&lt;tc15/&gt;on the Status bar to change the magnification.&lt;ts16/&gt; &lt;f17&gt;Y&lt;/f17&gt;ou can set the&lt;f18&gt;se&lt;/f18&gt; same options &lt;f19&gt;by &lt;/f19&gt;choos&lt;f20&gt;ing&lt;/f20&gt; &lt;f21&gt;View &gt; Zoom &gt; Zoom&lt;/f21&gt; from the menu bar to display the &lt;te22/&gt;&lt;i23/&gt;&lt;i24/&gt;&lt;ts25/&gt;Zoom &amp; View Layout dialog.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180727T163536Z" creationid="olex" creationdate="20180727T163536Z">
-        <seg>В этом представлении вы можете использовать значки в &lt;ts10/&gt;Просмотр макета&lt;f11&gt; и ползунок &lt;/f11&gt;&lt;te12/&gt;Масштаб&lt;tc13/&gt;&lt;tc14/&gt;&lt;tc15/&gt;  на панели состояния чтобы изменить увеличение.&lt;ts16/&gt; &lt;f17&gt;Вы&lt;/f17&gt; можете установить эти параметры &lt;f18&gt;&lt;/f18&gt;&lt;f19&gt;, &lt;/f19&gt;выбрав в меню &lt;f20&gt;&lt;/f20&gt;&lt;f21&gt;Вид &gt; Масштаб &gt; Масштаб...&lt;/f21&gt; для отображения диалогового окна &lt;te22/&gt;&lt;i23/&gt;&lt;i24/&gt;&lt;ts25/&gt;Масщтаб и режимы просмотра.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T165454Z" creationid="olex" creationdate="20180727T163536Z">
+        <seg>В этом представлении вы можете использовать значки в &lt;ts10/&gt;Мультистраничный вид&lt;f11&gt; и ползунок &lt;/f11&gt;&lt;te12/&gt;Масштаб&lt;tc13/&gt;&lt;tc14/&gt;&lt;tc15/&gt;  на панели состояния чтобы изменить увеличение.&lt;ts16/&gt; &lt;f17&gt;Вы&lt;/f17&gt; можете установить эти параметры &lt;f18&gt;&lt;/f18&gt;&lt;f19&gt;, &lt;/f19&gt;выбрав в меню &lt;f20&gt;&lt;/f20&gt;&lt;f21&gt;Вид &gt; Масштаб &gt; Масштаб...&lt;/f21&gt; для отображения диалогового окна &lt;te22/&gt;&lt;i23/&gt;&lt;i24/&gt;&lt;ts25/&gt;Масщтаб и режимы просмотра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27467,6 +27491,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T180108Z" creationid="olex" creationdate="20180411T180108Z">
         <seg>Чтобы ввести отрицательное число, введите знак минуса (-) перед числом или укажите число в круглых скобках (), например (1234).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To exit Full Screen view and return to &lt;/f7&gt;&lt;te8/&gt;&lt;tc9/&gt;&lt;ts10/&gt;&lt;f11&gt;Normal &lt;/f11&gt;&lt;te12/&gt;&lt;tc13/&gt;&lt;ts14/&gt;&lt;f15&gt;view, press the &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Esc&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; key or toggle the Full Screen button on the floating toolbar in the t&lt;/f18&gt;&lt;bs19/&gt;&lt;f20&gt;op left-hand corner.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T170333Z" creationid="olex" creationdate="20180727T170333Z">
+        <seg>Чтобы выйти из полноэкранного режима и вернуться к &lt;/f7&gt;&lt;te8/&gt;&lt;tc9/&gt;&lt;ts10/&gt;&lt;f11&gt;Обычному  &lt;/f11&gt;&lt;te12/&gt;&lt;tc13/&gt;&lt;ts14/&gt;&lt;f15&gt;виду, нажмите клавишу &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Esc&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; или нажмите кнопку Во весь экран на плавающей панели инструментов &lt;/f18&gt;&lt;bs19/&gt;&lt;f20&gt;в верхнем левом углу.</seg>
       </tuv>
     </tu>
     <tu>
