@@ -1858,6 +1858,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;To move to a page in the document use the menu: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Go to Page&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or the keyboard shortcut &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;CTRL + G&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; to open the Go To Page dialog (Figure &lt;/f6&gt;&lt;f7&gt;&lt;t8&gt;7&lt;/t8&gt;&lt;/f7&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T173458Z" creationid="olex" creationdate="20180727T173458Z">
+        <seg>&lt;f0&gt;Чтобы перейти на страницу в документе, выберите в меню: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Правка &gt; Перейти к странице&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; или сочетание клавиш &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;CTRL + G&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, чтобы открыть диалоговое окно Перейти (Рисунок &lt;/f6&gt;&lt;f7&gt;&lt;t8&gt;7&lt;/t8&gt;&lt;/f7&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;To repeat the last command applied to your document, use the shortcut &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Ctrl+Shift+Y&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T182139Z" creationid="olex" creationdate="20180621T182139Z">
@@ -1950,6 +1958,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T103533Z" creationid="tagezi" creationdate="20180307T103533Z">
         <seg>&lt;f0&gt;Руководство пользователя &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Открывает ваш браузер по умолчанию на странице документации сайта LibreOffice &lt;a3&gt;https://documentation.libreoffice.org/en/english-documentation/&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Using &lt;/f0&gt;Go to Page Option</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T173208Z" creationid="olex" creationdate="20180727T173208Z">
+        <seg>&lt;f0&gt;Использование функции &lt;/f0&gt;Перейти к странице</seg>
       </tuv>
     </tu>
     <tu>
@@ -2077,8 +2093,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;When the bu&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;tton &lt;ts3/&gt;&lt;f4&gt;is selected for a specific &lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;f7&gt;o&lt;/f7&gt;bject type&lt;ts8/&gt;, &lt;te9/&gt;&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;clicking &lt;/f12&gt;&lt;te13/&gt;the &lt;f14&gt;Previous&lt;/f14&gt; and &lt;f15&gt;Next&lt;/f15&gt; buttons &lt;tc16/&gt;will jump to the previous or next &lt;ts17/&gt;&lt;f18&gt;occurrence &lt;/f18&gt;&lt;te19/&gt;&lt;tc20/&gt;of the &lt;ts21/&gt;&lt;f22&gt;object&lt;/f22&gt;&lt;te23/&gt;&lt;tc24/&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180727T172153Z" creationid="olex" creationdate="20180727T172153Z">
-        <seg>&lt;f0&gt;Когда нажата кнопка&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt; &lt;ts3/&gt;&lt;f4&gt;для определенного типа &lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;f7&gt;&lt;/f7&gt;объектов&lt;ts8/&gt;, &lt;te9/&gt;&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;нажатие &lt;/f12&gt;&lt;te13/&gt;кнопок &lt;f14&gt;Продолжить поиск назад и вперед&lt;/f14&gt; &lt;f15&gt;&lt;/f15&gt; &lt;tc16/&gt;будет перемещать к предыдущему или следующему &lt;ts17/&gt;&lt;f18&gt;объекту &lt;/f18&gt;&lt;te19/&gt;&lt;tc20/&gt;&lt;ts21/&gt;&lt;f22&gt; этого типа&lt;/f22&gt;&lt;te23/&gt;&lt;tc24/&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T172855Z" creationid="olex" creationdate="20180727T172153Z">
+        <seg>&lt;f0&gt;Когда нажата кнопка&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt; &lt;ts3/&gt;&lt;f4&gt;для определенного типа &lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;f7&gt;&lt;/f7&gt;объектов&lt;ts8/&gt;, &lt;te9/&gt;&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;нажатие &lt;/f12&gt;&lt;te13/&gt;кнопок &lt;f14&gt;Предыдущий и Следующий&lt;/f14&gt; &lt;f15&gt;&lt;/f15&gt; &lt;tc16/&gt;будет перемещать к предыдущему или следующему &lt;ts17/&gt;&lt;f18&gt;объекту &lt;/f18&gt;&lt;te19/&gt;&lt;tc20/&gt;&lt;ts21/&gt;&lt;f22&gt; этого типа&lt;/f22&gt;&lt;te23/&gt;&lt;tc24/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11639,6 +11655,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T192559Z" creationid="olex" creationdate="20180424T192445Z">
         <seg>Для получения дополнительных параметров пройдите в меню &lt;f2&gt;Формат &gt; Ячейки... &gt; Выравнивание&lt;/f2&gt; и выберите один из вариантов в раскрывающемся списке По горизонтали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more uses of the Navigator in Writer, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T172959Z" creationid="olex" creationdate="20180727T172959Z">
+        <seg>Дополнительные сведения о Навигаторе в Writer смотрите в &lt;f0&gt;Руководстве по Writer&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
