@@ -1129,6 +1129,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Important&lt;/f0&gt;—First save your document in the file format used by LibreOffice Writer (.ODT).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T174859Z" creationid="olex" creationdate="20180727T174859Z">
+        <seg>&lt;f0&gt;Важно&lt;/f0&gt;— Сначала сохраните свой файл документа в формате, используемом LibreOffice Writer (.ODT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;In &lt;/f0&gt;&lt;f1&gt;Windows Only, &lt;/f1&gt;&lt;f2&gt;choose &lt;/f2&gt;&lt;f3&gt;LibreOffice (Safe Mode)&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;from the &lt;/f5&gt;&lt;f6&gt;Start Menu&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T111734Z" creationid="olex" creationdate="20180715T111734Z">
@@ -1854,6 +1862,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T185416Z" creationid="olex" creationdate="20180718T185416Z">
         <seg>&lt;f0&gt;Новый стиль таблицы появится в списке слева в диалоговом окне&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; и появится в списке стилей таблицы в окне Стили&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;&lt;/f5&gt;&lt;te6/&gt;&lt;f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;This creates a sepa&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;rate document with a different file extension (such as .DOCX).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T175534Z" creationid="olex" creationdate="20180727T175534Z">
+        <seg>&lt;f0&gt;Это создает отдельный&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt; &lt;f3&gt; документ с другим расширением файла (например, .DOCX).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6239,6 +6255,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T122534Z" creationid="tagezi" creationdate="20180312T104854Z">
         <seg>Нажмите кнопку &lt;f0&gt;Управление&lt;/f0&gt;, для открытия окна Управление макросами LibreOffice Basic (Рисунок &lt;t1&gt;2&lt;/t1&gt;), и выберите вкладку &lt;f2&gt;Библиотеки&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Save.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T175424Z" creationid="olex" creationdate="20180727T175424Z">
+        <seg>Нажмите &lt;f0&gt;Сохранить.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14253,6 +14277,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do not, any changes you made since the last time you saved will appear only in the Microsoft Word version of the document.&lt;ts1/&gt; &lt;f2&gt;Also, s&lt;/f2&gt;aving in ODF format &lt;f3&gt;enables you &lt;/f3&gt;to &lt;f4&gt;re-save or modify &lt;/f4&gt;the document if the recipient of your document experiences trouble with the Microsoft format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T175056Z" creationid="olex" creationdate="20180727T175056Z">
+        <seg>Если вы этого не сделаете, то любые изменения, внесенные вами с момента последнего сохранения, будут отображаться только в версии документа Microsoft Word. &lt;ts1/&gt;&lt;f2&gt;Кроме того,&lt;/f2&gt; сохранение в формате ODF &lt;f3&gt;позволяет вам&lt;/f3&gt; &lt;f4&gt;повторно сохранить или изменить &lt;/f4&gt;документ, если получатель вашего документа испытывает проблемы с форматом Microsoft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you followed all of the above steps, the Standard library now contains a module named Recorded and this module contains the EnterMyName macro.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T151650Z" creationid="tagezi" creationdate="20180313T151650Z">
@@ -14338,6 +14370,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T193251Z" creationid="olex" creationdate="20180311T193251Z">
         <seg>Если вы внесете какие-либо изменения в шаблон и его стили, то при следующем открытии документа, который был создан из этого шаблона до изменения, появится сообщение с подтверждением.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you need to exchange documents with users of Microsoft Word who are unwilling or unable to receive .ODT files, you can open, edit, and save documents in Microsoft Word formats.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T174738Z" creationid="olex" creationdate="20180727T174738Z">
+        <seg>Если вам необходимо обмениваться документами с пользователями Microsoft Word, которые не хотят или не могут открывать файлы .ODT, то вы можете открывать, редактировать и сохранять документы в форматах Microsoft Word.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18948,6 +18988,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T181320Z" creationid="olex" creationdate="20180619T181320Z">
         <seg>В диалоговом окне Файлы на сервере (Рисунок &lt;t0&gt;13&lt;/t0&gt;) нажмите кнопку &lt;f1&gt;Добавить службу&lt;/f1&gt; в правом верхнем углу, чтобы открыть диалоговое окно Файловые службы (Рисунок &lt;t2&gt;12&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Save As dialog, in the &lt;f0&gt;File type&lt;/f0&gt; (or &lt;f1&gt;Save as type&lt;/f1&gt;) drop-down menu, select the type of Word format you need.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T175400Z" creationid="olex" creationdate="20180727T175400Z">
+        <seg>В диалоговом окне Сохранить как, в выпадающем списке &lt;f0&gt;Типы файлов&lt;/f0&gt; (или &lt;f1&gt;Выбрать отображаемые типы файлов&lt;/f1&gt;), выберите тип формата Word, который вам необходим.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26056,6 +26104,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then choose &lt;f0&gt;File &gt; Save As&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T175133Z" creationid="olex" creationdate="20180727T175133Z">
+        <seg>Затем выберите в меню &lt;f0&gt;Файл &gt; Сохранить как...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then type the number of the required destination page into the text box and click the &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;OK&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt; button.&lt;/f25&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T173941Z" creationid="olex" creationdate="20180727T173941Z">
@@ -31098,6 +31154,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also create and edit .ODT files and then save them as .DOC or .DOCX files.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T174757Z" creationid="olex" creationdate="20180727T174757Z">
+        <seg>Вы также можете создавать и редактировать файлы .ODT, а затем сохранять их как файлы .DOC или .DOCX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also customize the Menu bar; see &lt;f1&gt;Chapter 14 Customizing LibreOffice&lt;/f1&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180515T190653Z" creationid="olex" creationdate="20180328T175352Z">
@@ -32122,6 +32186,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T145005Z" creationid="Роман" creationdate="20180318T122925Z">
         <seg>Вы знаете имя греческого символа (pi),но не знаете разметку, связанную с символом &lt;f4&gt;Подобно или равно&lt;/f4&gt; &lt;f5&gt;&lt;df6&gt;&lt;d7/&gt;&lt;di8/&gt;&lt;s9&gt;formula&lt;/s9&gt;&lt;/df6&gt;&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may also choose to change the file name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T175413Z" creationid="olex" creationdate="20180727T175413Z">
+        <seg>Вы также можете изменить имя файла.</seg>
       </tuv>
     </tu>
     <tu>
