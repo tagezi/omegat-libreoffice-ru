@@ -14941,6 +14941,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to the navigation features of the Status Bar (described above), you can use the Navigator window and the Navigation toolbar, &lt;ts0/&gt;&lt;f1&gt;from &lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;e&lt;/f5&gt;&lt;te6/&gt;ither &lt;tc7/&gt;the Standard toolbar or from the Sidebar, as described in Chapter 1, Introducing LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T171105Z" creationid="olex" creationdate="20180727T171105Z">
+        <seg>В дополнение к функциям навигации в строке состояния (описанным выше) вы можете использовать окно Навигатор и панель инструментов Навигация &lt;ts0/&gt;&lt;f1&gt;на &lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;&lt;/f5&gt;&lt;te6/&gt;панели инструментов &lt;tc7/&gt;Стандартная или на Боковой панели, как описано в Главе 1 Знакомство с LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to the usual features of a word processor (spelling check, thesaurus, hyphenation, autocorrect, find and replace, automatic generation of tables of contents and indexes, mail merge and others), Writer provides these &lt;i0/&gt;important features&lt;i1/&gt;&lt;i2/&gt;:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T155329Z" creationid="olex" creationdate="20180721T155329Z">
@@ -24058,6 +24066,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Navigation toolbar&lt;ts0/&gt; (Figure &lt;t1&gt;6&lt;/t1&gt;)&lt;te2/&gt;&lt;ts3/&gt;, &lt;f4&gt;created from the down &lt;/f4&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;arrow of the Navigator window&lt;/f7&gt;&lt;te8/&gt;&lt;tc9/&gt;&lt;tc10/&gt;&lt;ts11/&gt;, &lt;te12/&gt;&lt;tc13/&gt;shows buttons for all the object types shown in the Navigator, plus some extras (for example, the &lt;o14/&gt;&lt;f15&gt;Find&lt;/f15&gt; command&lt;ts16/&gt;&lt;o17/&gt;&lt;te18/&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T171703Z" creationid="olex" creationdate="20180727T171703Z">
+        <seg>Панель инструментов Навигация&lt;ts0/&gt; (Рисунок &lt;t1&gt;6&lt;/t1&gt;)&lt;te2/&gt;&lt;ts3/&gt;, &lt;f4&gt;выпадающее после нажатия  &lt;/f4&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;стрелки в диалоговом окне Навигатор&lt;/f7&gt;&lt;te8/&gt;&lt;tc9/&gt;&lt;tc10/&gt;&lt;ts11/&gt;, &lt;te12/&gt;&lt;tc13/&gt;отображает кнопки для всех типов объектов, отображаемых в Навигатор, а также некоторые дополнительные функции (например команда &lt;o14/&gt;&lt;f15&gt;Найти&lt;/f15&gt;&lt;ts16/&gt;&lt;o17/&gt;&lt;te18/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Navigator opens.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T161604Z" creationid="olex" creationdate="20180721T161604Z">
@@ -29157,6 +29173,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using &lt;te0/&gt;&lt;ts1/&gt;&lt;f2&gt;the &lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;Navigator</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T170814Z" creationid="olex" creationdate="20180727T170814Z">
+        <seg>Использование &lt;te0/&gt;&lt;ts1/&gt;&lt;f2&gt;&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;Навигатора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using AutoCorrect</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T110304Z" creationid="olex" creationdate="20180721T105957Z">
@@ -31167,6 +31191,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T194225Z" creationid="olex" creationdate="20180412T194225Z">
         <seg>Вы также можете отменить изменения автокоррекции с помощью сочетания клавиш &lt;f0&gt;Ctrl+Z&lt;/f0&gt; или вручную, вернувшись к измененному месту и заменив результат автокоррекции тем, что вам необходимо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also use &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;Ctrl+Shift+J&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; to &lt;/f23&gt;&lt;te24/&gt;&lt;ts25/&gt;&lt;f26&gt;toggle between &lt;/f26&gt;&lt;te27/&gt;&lt;tc28/&gt;&lt;ts29/&gt;&lt;f30&gt;Full Screen &lt;/f30&gt;&lt;te31/&gt;&lt;ts32/&gt;&lt;f33&gt;and Normal &lt;/f33&gt;&lt;te34/&gt;&lt;ts35/&gt;&lt;f36&gt;view&lt;/f36&gt;&lt;te37/&gt;&lt;ts38/&gt;&lt;f39&gt;s&lt;/f39&gt;&lt;te40/&gt;&lt;ts41/&gt;&lt;f42&gt;.&lt;/f42&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180727T170725Z" creationid="olex" creationdate="20180727T170725Z">
+        <seg>Вы также можете использовать &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;Ctrl+Shift+J&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; для &lt;/f23&gt;&lt;te24/&gt;&lt;ts25/&gt;&lt;f26&gt;переключения между режимами&lt;/f26&gt;&lt;te27/&gt;&lt;tc28/&gt;&lt;ts29/&gt;&lt;f30&gt;Во весь экран &lt;/f30&gt;&lt;te31/&gt;&lt;ts32/&gt;&lt;f33&gt;и Обычный &lt;/f33&gt;&lt;te34/&gt;&lt;ts35/&gt;&lt;f36&gt;&lt;/f36&gt;&lt;te37/&gt;&lt;ts38/&gt;&lt;f39&gt;&lt;/f39&gt;&lt;te40/&gt;&lt;ts41/&gt;&lt;f42&gt;.&lt;/f42&gt;</seg>
       </tuv>
     </tu>
     <tu>
