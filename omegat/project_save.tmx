@@ -488,6 +488,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;A&lt;/f0&gt;&lt;f1&gt;lso, note that languages set with direct formatting will override languages set using styles.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T171307Z" creationid="olex" creationdate="20180730T171226Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Так же имейте ввиду, что настройка языков прямым форматированием переопределит языки, заданные с помощью стилей.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;About LibreOffice&lt;/f0&gt; &lt;f1&gt;Opens a dialog window &lt;/f1&gt;and displays information about the version of LibreOffice and the operating system you are using.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T184819Z" creationid="olex" creationdate="20180606T184819Z">
@@ -1609,6 +1617,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;et the language for the whole document, for individual paragraphs, or even for individual words and characters, from &lt;f3&gt;Tools &gt; Language&lt;/f3&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T172349Z" creationid="olex" creationdate="20180730T172349Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;Задавайте язык для всего документа, для отдельных абзацев или даже для отдельных слов и символов, в меню &lt;f3&gt;Сервис &gt; Язык&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Save All&lt;/f0&gt; - use to save all the files open in your current session.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T182621Z" creationid="olex" creationdate="20180617T182621Z">
@@ -1822,6 +1838,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T175959Z" creationid="olex" creationdate="20180606T175959Z">
         <seg>&lt;f0&gt;С&lt;/f0&gt;ледующие опции, &lt;f1&gt;показанные здесь с префиксом&lt;/f1&gt; &lt;f2&gt;‡&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;, &lt;f4&gt;доступны только в том случае, если &lt;/f4&gt; ваш компьютер &lt;f5&gt;подключен к Интернету&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he language of a whole document &lt;f1&gt;can be set by u&lt;/f1&gt;s&lt;f2&gt;ing&lt;/f2&gt; &lt;f3&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T171803Z" creationid="olex" creationdate="20180730T171803Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;Язык всего документа &lt;f1&gt;можно установить с помощью&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; &lt;f3&gt;Сервис &gt; Параметры &gt; Настройки языка &gt; Языки&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15334,6 +15358,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the &lt;f4&gt;Default languages for documents&lt;/f4&gt; section, you can choose &lt;f5&gt;the &lt;/f5&gt;language for all the text that is not explicitly marked as a different language.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T172023Z" creationid="olex" creationdate="20180730T172023Z">
+        <seg>В разделе &lt;f4&gt;Языки документов по умолчанию&lt;/f4&gt; вы можете выбрать &lt;f5&gt;язык&lt;/f5&gt; для всего текста, который не помечен явно как другой язык.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Create Style dialog, type a name for the new style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203233Z" creationid="olex" creationdate="20180309T203233Z">
@@ -16217,8 +16249,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>It may be useful to include the language in the name of &lt;/f2&gt;&lt;f3&gt;the style.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180730T171036Z" creationid="olex" creationdate="20180730T171036Z">
-        <seg>Так же может быть полезно включить язык в название &lt;/f2&gt;&lt;f3&gt;стиля.&lt;/f3&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T171047Z" creationid="olex" creationdate="20180730T171036Z">
+        <seg>Может быть полезно включить язык в название &lt;/f2&gt;&lt;f3&gt;стиля.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
