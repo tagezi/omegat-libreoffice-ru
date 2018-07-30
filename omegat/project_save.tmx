@@ -1425,6 +1425,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Obtaining resources &lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;for additional languages</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T173620Z" creationid="olex" creationdate="20180730T173620Z">
+        <seg>&lt;f0&gt;Получение ресурсов &lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;для дополнительных языков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Open source.&lt;/f0&gt; You can distribute, copy, and modify the software as much as you wish, in accordance with the LibreOffice Open Source licenses.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T172453Z" creationid="olex" creationdate="20180611T172453Z">
@@ -1637,6 +1645,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T172349Z" creationid="olex" creationdate="20180730T172349Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;Задавайте язык для всего документа, для отдельных абзацев или даже для отдельных слов и символов, в меню &lt;f3&gt;Сервис &gt; Язык&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;&lt;te1/&gt;electing, copying, pasting,&lt;ts2/&gt; &lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;or &lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt;moving&lt;ts8/&gt; &lt;f9&gt;text&lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt; in Writer is similar to working with text in &lt;tc12/&gt;other program&lt;ts13/&gt;&lt;f14&gt;s&lt;/f14&gt;&lt;te15/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T175108Z" creationid="olex" creationdate="20180730T175108Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;Выбор, копирование, вставка &lt;ts2/&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;или &lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt;перемещение&lt;ts8/&gt; &lt;f9&gt;текста&lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt; в Writer аналогичен работе с текстом в &lt;tc12/&gt;других программах&lt;ts13/&gt;&lt;f14&gt;&lt;/f14&gt;&lt;te15/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14333,6 +14349,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do not see the symbol next to your preferred language, you can install the additional dictionary using &lt;f19&gt;Tools &gt; Language &gt; More Dictionaries Online&lt;/f19&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T174255Z" creationid="olex" creationdate="20180730T174255Z">
+        <seg>Если вы не видите символ рядом с необходимым языком, то вы можете установить дополнительный словарь, используя &lt;f19&gt;Сервис &gt; Язык &gt; Словари в интернете&lt;/f19&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not specify a template when you start a new document, then the document is based on the default template for that type of document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180317T145947Z" creationid="olex" creationdate="20180306T180600Z">
@@ -16644,6 +16668,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103826Z" creationid="tagezi" creationdate="20180320T103826Z">
         <seg>LibreOffice позволяет импортировать библиотеки в контейнер библиотек, но не позволит перезаписывать библиотеку с именем Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice also has some convenient ways to select items that are not next to each other, select a vertical block of text, and paste unformatted text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T175210Z" creationid="olex" creationdate="20180730T175210Z">
+        <seg>LibreOffice также имеет несколько удобных способов выбора элементов, которые не находятся рядом друг с другом: выбор вертикального блока текста и вставка неформатированного текста.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22549,6 +22581,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selecting items that are not &lt;be0/&gt;consecutive</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T175412Z" creationid="olex" creationdate="20180730T175412Z">
+        <seg>Произвольный выбор элементов&lt;be0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selecting items that are not consecutive</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T104516Z" creationid="olex" creationdate="20180721T104516Z">
@@ -26022,6 +26062,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The spelling checker works only for those languages in the &lt;ts0/&gt;&lt;f1&gt;Spelling dialog &lt;/f1&gt;&lt;te2/&gt;list &lt;ts3/&gt;&lt;f4&gt;(described on Page &lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;bf9&gt;21&lt;/bf9&gt;&lt;/f8&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;)&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt; t&lt;/f15&gt;&lt;te16/&gt;hat have the symbol (&lt;df17&gt;&lt;di18/&gt;&lt;/df17&gt;) next to them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T174147Z" creationid="olex" creationdate="20180730T174147Z">
+        <seg>Проверка орфографии работает только для языков в списке диалогового окна &lt;ts0/&gt;&lt;f1&gt;Правописание &lt;/f1&gt;&lt;te2/&gt; &lt;ts3/&gt;&lt;f4&gt;(описано на странице &lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;bf9&gt;21&lt;/bf9&gt;&lt;/f8&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;)&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt; &lt;/f15&gt;&lt;te16/&gt;рядом с которыми есть символ (&lt;df17&gt;&lt;di18/&gt;&lt;/df17&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The status bar has a quick way to do some math operations on selected cells in the spreadsheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T191331Z" creationid="olex" creationdate="20180329T191331Z">
@@ -27008,6 +27056,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T172813Z" creationid="olex" creationdate="20180701T172813Z">
         <seg>Эта опция позволяет выполнять запись макросов с некоторыми ограничениями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This option is especially useful &lt;f2&gt;for &lt;/f2&gt;text such as web addresses or programming language snippets that you do not want to check for spelling.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T173534Z" creationid="olex" creationdate="20180730T173534Z">
+        <seg>Этот параметр особенно полезен &lt;f2&gt;для&lt;/f2&gt; текста, такого как веб-адрес или фрагменты языка программирования, для которых вы не хотите проверять правописание.</seg>
       </tuv>
     </tu>
     <tu>
