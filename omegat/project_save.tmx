@@ -13205,6 +13205,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and use the mouse to select the next piece of text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T175939Z" creationid="olex" creationdate="20180730T175939Z">
+        <seg>Нажмите и удерживайте клавишу &lt;f0&gt;Ctrl&lt;/f0&gt; и используя мышь, выберите следующий фрагмент текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T184018Z" creationid="olex" creationdate="20180405T184018Z">
@@ -20169,6 +20177,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;Shift+F8&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T180209Z" creationid="olex" creationdate="20180730T180209Z">
+        <seg>Нажмите &lt;f0&gt;Shift+F8&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press &lt;f0&gt;Tab&lt;/f0&gt; to add the tab without the space after the constant name.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T211450Z" creationid="tagezi" creationdate="20180318T211450Z">
@@ -20678,6 +20694,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T205009Z" creationid="olex" creationdate="20180404T205009Z">
         <seg>При необходимости повторите действия.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repeat as often as needed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T180128Z" creationid="olex" creationdate="20180730T180128Z">
+        <seg>Повторяйте столько раз, сколько необходимо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22197,6 +22221,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the first piece of text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T175843Z" creationid="olex" creationdate="20180730T175843Z">
+        <seg>Выберите первый фрагмент текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the first placeholder &lt;f0&gt;&lt;?&gt;&lt;/f0&gt; before the word &lt;f1&gt;times&lt;/f1&gt; in the Formula Editor and replace it with the character &lt;f2&gt;5&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173402Z" creationid="Роман" creationdate="20180317T173311Z">
@@ -22583,8 +22615,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Selecting items that are not &lt;be0/&gt;consecutive</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180730T175412Z" creationid="olex" creationdate="20180730T175412Z">
-        <seg>Произвольный выбор элементов&lt;be0/&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T175506Z" creationid="olex" creationdate="20180730T175412Z">
+        <seg>Выбор несвязанных элементов&lt;be0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27100,6 +27132,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This puts Writer in “Adding selection” mode.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T180330Z" creationid="olex" creationdate="20180730T180330Z">
+        <seg>Это установит Writer в режим "Добавляемое выделение".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This section assumes that you have a macro that you want to use, which may be in an email, on a web page, or even in a book.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T143611Z" creationid="tagezi" creationdate="20180311T143611Z">
@@ -27201,6 +27241,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T221327Z" creationid="olex" creationdate="20180407T220843Z">
         <seg>Чтобы &lt;f0&gt;скопировать&lt;/f0&gt; лист в пределах одной электронной таблицы, нажмите клавишу &lt;f1&gt;Ctrl&lt;/f1&gt; (&lt;f2&gt;Option&lt;/f2&gt; на Mac), а затем нажмите на вкладку листа и перетащите ее новое место, не отпуская правую кнопку мыши и клавишу &lt;f1&gt;Ctrl&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To &lt;i0/&gt;select &lt;i1/&gt;nonconsecutive items (as shown in Figure &lt;t2&gt;8&lt;/t2&gt;) using the mouse:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T175829Z" creationid="olex" creationdate="20180730T175829Z">
+        <seg>&lt;i0/&gt;Чтобы выбрать &lt;i1/&gt;несвязанные элементы (как показано на Рисунке &lt;t2&gt;8&lt;/t2&gt;) с помощью мыши:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28501,6 +28549,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T185454Z" creationid="olex" creationdate="20180405T185454Z">
         <seg>Чтобы выбрать несколько несмежных листов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To select nonconsecutive items using the keyboard:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T180200Z" creationid="olex" creationdate="20180730T180200Z">
+        <seg>Для выбора несвязанных элементов с помощью клавиатуры:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33690,6 +33746,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T195126Z" creationid="olex" creationdate="20180402T195126Z">
         <seg>перемещение по листам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>nonconsecutive items</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T175514Z" creationid="olex" creationdate="20180730T175450Z">
+        <seg>несвязанные элементы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>nonconsecutive items, selecting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T175646Z" creationid="olex" creationdate="20180730T175646Z">
+        <seg>несвязанные элементы, выбор</seg>
       </tuv>
     </tu>
     <tu>
