@@ -522,8 +522,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Al&lt;/f0&gt;though these methods are a type of direct formatting, they cannot be cleared by using “Clear Direct Formatting” &lt;s1/&gt;on the Format menu or by using Ctrl+M.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180730T173031Z" creationid="olex" creationdate="20180730T173031Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;Хотя эти методы являются прямым форматированием, их нельзя очистить, используя «Очистить форматирование» &lt;s1/&gt;в меню Формат или с помощью сочетания клавиш Ctrl + M.&lt;f0&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T184816Z" creationid="olex" creationdate="20180730T173031Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;Хотя эти методы являются прямым форматированием, их нельзя очистить, используя «Очистить форматирование» &lt;s1/&gt;в меню Формат или с помощью сочетания клавиш Ctrl + M.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9488,6 +9488,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Selecting a vertical block of text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T185142Z" creationid="olex" creationdate="20180730T185142Z">
+        <seg>Рисунок &lt;seq0&gt;10&lt;/seq0&gt;: Выбор вертикального блока текста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Creating a template using a wizard</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T185555Z" creationid="olex" creationdate="20180719T185555Z">
@@ -10591,6 +10599,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T182741Z" creationid="olex" creationdate="20180311T182741Z">
         <seg>Рисунок &lt;seq0&gt;9&lt;/seq0&gt;: Диалоговое окно Сохранить как шаблон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Selection icon</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T184346Z" creationid="olex" creationdate="20180730T184346Z">
+        <seg>Рисунок &lt;seq0&gt;9&lt;/seq0&gt;: Значок Выбор</seg>
       </tuv>
     </tu>
     <tu>
@@ -18805,6 +18821,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now highlight the selection, using mouse or keyboard, as shown below.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T185156Z" creationid="olex" creationdate="20180730T185117Z">
+        <seg>Теперь осуществите выделение, используя мышь или клавиатуру, как показано ниже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now you can work with the selected text (copy it, delete it, change the style, and so on).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T180726Z" creationid="olex" creationdate="20180730T180726Z">
@@ -22615,7 +22639,7 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Selecting &lt;i0/&gt;a &lt;i1/&gt;vertical block of text</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180730T182805Z" creationid="olex" creationdate="20180730T182805Z">
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T184501Z" creationid="olex" creationdate="20180730T182805Z">
         <seg>Выбор &lt;i0/&gt;&lt;i1/&gt;вертикального блока текста</seg>
       </tuv>
     </tu>
@@ -27674,6 +27698,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180724T194634Z" creationid="olex" creationdate="20180724T194232Z">
         <seg>Чтобы изменить режим просмотра, перейдите в меню &lt;f0&gt;Вид&lt;/f0&gt; и выберите &lt;ts1/&gt;&lt;f2&gt;необходимый&lt;/f2&gt;&lt;te3/&gt;&lt;tc4/&gt;&lt;f5&gt;&lt;/f5&gt; вариант.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change to block selection mode, use &lt;f0&gt;Edit &gt; Selection Mode &gt; Block Area&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+F8&lt;/f1&gt;, or click on the &lt;f2&gt;Selection&lt;/f2&gt; icon in the Status Bar and select &lt;f3&gt;Block selection&lt;/f3&gt; from the list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T184253Z" creationid="olex" creationdate="20180730T183726Z">
+        <seg>Чтобы перейти в режим выбора блока, выберите &lt;f0&gt;Правка &gt; Режим выбора &gt; Блочная область&lt;/f0&gt; или нажмите &lt;f1&gt;Ctrl+F8&lt;/f1&gt;, или щелкните значок &lt;f2&gt;Выбор&lt;/f2&gt; в строке состояния и выберите из списка &lt;f3&gt;Блочное выделение&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
