@@ -520,10 +520,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Al&lt;/f0&gt;though these methods are a type of direct formatting, they cannot be cleared by using “Clear Direct Formatting” &lt;s1/&gt;on the Format menu or by using Ctrl+M.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T173031Z" creationid="olex" creationdate="20180730T173031Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;Хотя эти методы являются прямым форматированием, их нельзя очистить, используя «Очистить форматирование» &lt;s1/&gt;в меню Формат или с помощью сочетания клавиш Ctrl + M.&lt;f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Alignment&lt;/f0&gt;: Controls to align the text in various ways, including horizontal and vertical alignment, wrapping, indenting, merging, text orientation, and vertical stacking.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T182854Z" creationid="olex" creationdate="20180330T170525Z">
         <seg>&lt;f0&gt;Выравнивание&lt;/f0&gt;: Элементы управления для выравнивания текста различными способами, включая горизонтальное и вертикальное выравнивание, поворот, перенос, слияние, ориентацию текста и его вертикальное расположение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Alternatively, y&lt;/f0&gt;ou can set &lt;f1&gt;the language for individual p&lt;/f1&gt;aragraphs &lt;f2&gt;and characters &lt;/f2&gt;by &lt;f3&gt;selecting text or&lt;/f3&gt; putting the cursor in &lt;f4&gt;a&lt;/f4&gt; paragraph and changing the language on the Status Bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T172645Z" creationid="olex" creationdate="20180730T172645Z">
+        <seg>&lt;f0&gt;Кроме того, &lt;/f0&gt;вы можете установить &lt;f1&gt;язык для отдельных &lt;/f1&gt;абзацев &lt;f2&gt;и символов &lt;/f2&gt;by &lt;f3&gt;выбрав текст или&lt;/f3&gt; поместив курсор в &lt;f4&gt;&lt;/f4&gt; абзац и изменив язык в Строке состояния.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20186,6 +20202,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preventing &lt;te0/&gt;&lt;ts1/&gt;&lt;f2&gt;text&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt; from being checked &lt;f5&gt;for spelling&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T173232Z" creationid="olex" creationdate="20180730T173232Z">
+        <seg>Предотвращение проверки &lt;te0/&gt;&lt;ts1/&gt;&lt;f2&gt;текста&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt; при написании&lt;f5&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preventing text from being checked for spelling</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T103752Z" creationid="olex" creationdate="20180721T103752Z">
@@ -32058,6 +32082,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T191053Z" creationid="olex" creationdate="20180313T191053Z">
         <seg>Любой шаблон, который видите в диалоговом окне Шаблоны, вы можете установить шаблоном по умолчанию для этого типа документов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can set the language for a paragraph or a group of characters as &lt;f0&gt;None (Do not check spelling) &lt;/f0&gt;&lt;f1&gt;using any of the methods described above&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T173346Z" creationid="olex" creationdate="20180730T173346Z">
+        <seg>Вы можете установить язык для абзаца или группы символов как &lt;f0&gt;Нет (не проверять орфографию)&lt;/f0&gt;&lt;f1&gt;, используя любой из описанных выше методов&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
