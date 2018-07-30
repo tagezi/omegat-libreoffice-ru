@@ -560,6 +560,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Be careful when changing a&lt;/f0&gt; language in character &lt;f1&gt;or&lt;/f1&gt; paragraph styles, &lt;f2&gt;as this will change the language for all characters or paragraphs using that style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T170922Z" creationid="olex" creationdate="20180730T170922Z">
+        <seg>&lt;f0&gt;Будьте осторожны при изменении языка&lt;/f0&gt; в символах &lt;f1&gt;или&lt;/f1&gt; стилях абзаца, &lt;f2&gt;так как это изменит язык для всех символов или абзацев, используя этот стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Berlin, March 8, 2018 - &lt;/f0&gt;The &lt;f1&gt;Document Foundation will present &lt;/f1&gt;LibreOffice &lt;f2&gt;Certification to Free Software Foundation Members and free software advocates attending LibrePlanet in Boston.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T173409Z" creationid="tagezi" creationdate="20180307T173409Z">
@@ -1854,6 +1862,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T194119Z" creationid="olex" creationdate="20180330T194119Z">
         <seg>&lt;f0&gt;Текст&lt;/f0&gt; - импортированные данные обрабатываются как текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Th&lt;/f0&gt;e language used &lt;f1&gt;at the location of the cursor &lt;/f1&gt;is shown in the Status Bar, next to the page style in use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T170322Z" creationid="olex" creationdate="20180730T170322Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;Язык, используемый &lt;f1&gt;в месте расположения курсора &lt;/f1&gt;отображается в Строке состояния рядом с используемым стилем страницы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16199,6 +16215,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It may be useful to include the language in the name of &lt;/f2&gt;&lt;f3&gt;the style.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T171036Z" creationid="olex" creationdate="20180730T171036Z">
+        <seg>Так же может быть полезно включить язык в название &lt;/f2&gt;&lt;f3&gt;стиля.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It may become necessary to remove a defined print range, for example, if the whole sheet needs to be printed later.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180601T183533Z" creationid="olex" creationdate="20180508T175704Z">
@@ -16372,6 +16396,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T173054Z" creationid="olex" creationdate="20180616T173054Z">
         <seg>Язык текста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Languages can be set on the Font tab of the Paragraph Styles dialog or of the Character Styles dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T170617Z" creationid="olex" creationdate="20180730T170617Z">
+        <seg>Языки можно установить на вкладке Шрифт в диалоговом окне Стили абзаца или в диалоговом окне Стили символов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21111,6 +21143,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T074930Z" creationid="tagezi" creationdate="20180319T074930Z">
         <seg>Смотрите &lt;a2&gt;http://www.packtpub.com/openoffice-ooobasic-calc-automation/book&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See &lt;f0&gt;the&lt;/f0&gt; &lt;f1&gt;Writer Guide&lt;/f1&gt; for information on how to manage the language settings of a style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T170656Z" creationid="olex" creationdate="20180730T170656Z">
+        <seg>Смотрите &lt;f0&gt;&lt;/f0&gt; &lt;f1&gt;Руководство по Writer&lt;/f1&gt; для получения информации о том, как управлять языковыми настройками стиля.</seg>
       </tuv>
     </tu>
     <tu>
