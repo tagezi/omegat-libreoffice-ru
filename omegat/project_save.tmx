@@ -10539,6 +10539,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Selecting items that are not next to each other</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T180911Z" creationid="olex" creationdate="20180730T180911Z">
+        <seg>Рисунок &lt;seq0&gt;8&lt;/seq0&gt;: Выбор несвязанных элементов, которые не находятся рядом друг с другом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Templates dialog, showing a selected template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T203443Z" creationid="olex" creationdate="20180310T203443Z">
@@ -11655,6 +11663,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T083231Z" creationid="tagezi" creationdate="20180306T083231Z">
         <seg>Для более подробной информации обратитесь к руководствам по отдельным модулям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information about keyboard selection of text, see the topic “Navigating and selecting with the keyboard” in LibreOffice Help (&lt;f0&gt;F1&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T181945Z" creationid="olex" creationdate="20180730T181022Z">
+        <seg>Дополнительные сведения о выборе текста с применением клавиатуры смотрите в разделе «Навигация и выбор с помощью клавиатуры» в Справке по LibreOffice (&lt;f0&gt;F1&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13233,6 +13249,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T203005Z" creationid="olex" creationdate="20180404T203005Z">
         <seg>Удерживая нажатой клавишу &lt;f0&gt;Shift&lt;/f0&gt; кликните мышью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and select the next piece of text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T180601Z" creationid="olex" creationdate="20180730T180601Z">
+        <seg>Нажмите и удерживайте клавишу &lt;f0&gt;Shift&lt;/f0&gt; и выберите следующий фрагмент текста.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18781,6 +18805,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now you can work with the selected text (copy it, delete it, change the style, and so on).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T180726Z" creationid="olex" creationdate="20180730T180726Z">
+        <seg>Теперь вы можете работать с выделенным текстом (скопировать его, удалить, изменить стиль и т. д.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now, you can run CopyNumToCol1 by repeatedly clicking the &lt;f0&gt;Run Basic&lt;/f0&gt; icon in the toolbar of the IDE.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T150725Z" creationid="tagezi" creationdate="20180319T150725Z">
@@ -20153,6 +20185,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;Esc&lt;/f0&gt; to exit from this mode.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T180752Z" creationid="olex" creationdate="20180730T180752Z">
+        <seg>Нажмите клавишу &lt;f0&gt;Esc&lt;/f0&gt; чтобы выйти из этого режима.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press &lt;f0&gt;Home&lt;/f0&gt; to move the cursor to the start of the line.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T212228Z" creationid="tagezi" creationdate="20180318T212228Z">
@@ -20702,6 +20742,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T180128Z" creationid="olex" creationdate="20180730T180128Z">
         <seg>Повторяйте столько раз, сколько необходимо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repeat as often as required.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T180656Z" creationid="olex" creationdate="20180730T180656Z">
+        <seg>Повторяйте столько раз, сколько потребуется.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22561,6 +22609,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T181251Z" creationid="olex" creationdate="20180628T181251Z">
         <seg>Выберите &lt;f1&gt;Всегда&lt;/f1&gt;, чтобы заменять шрифт, даже если исходный шрифт установлен в вашей системе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selecting &lt;i0/&gt;a &lt;i1/&gt;vertical block of text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T182805Z" creationid="olex" creationdate="20180730T182805Z">
+        <seg>Выбор &lt;i0/&gt;&lt;i1/&gt;вертикального блока текста</seg>
       </tuv>
     </tu>
     <tu>
@@ -29391,6 +29447,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the arrow keys to move to the start of the next piece of text to be selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T180503Z" creationid="olex" creationdate="20180730T180503Z">
+        <seg>Используйте клавиши со стрелками, чтобы перейти к началу следующего фрагмента текста, который нужно выбрать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the first two options under &lt;f3&gt;Input settings&lt;/f3&gt; in Figure &lt;t4&gt;11&lt;/t4&gt;&lt;s5/&gt;to change the &lt;f6&gt;Enter&lt;/f6&gt; key settings.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T201827Z" creationid="olex" creationdate="20180404T201736Z">
@@ -34530,6 +34594,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T165317Z" creationid="olex" creationdate="20180603T165317Z">
         <seg>векторная графика</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>vertical block of text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T181052Z" creationid="olex" creationdate="20180730T181052Z">
+        <seg>вертикальный блок текста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>vertical block of text, select</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180730T181105Z" creationid="olex" creationdate="20180730T181105Z">
+        <seg>вертикальный блок текста, выбор</seg>
       </tuv>
     </tu>
     <tu>
