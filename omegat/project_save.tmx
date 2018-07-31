@@ -5299,6 +5299,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, the Find toolbar is shown docked at the bottom of the LibreOffice window (just above the Status Bar) &lt;ts0/&gt;&lt;f1&gt;as shown &lt;/f1&gt;&lt;te2/&gt;in Figure &lt;t3&gt;12&lt;/t3&gt;, but you can float it or dock it in another location.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T181216Z" creationid="olex" creationdate="20180731T181216Z">
+        <seg>По умолчанию панель поиска отображается в нижней части окна LibreOffice (чуть выше строки состояния) &lt;ts0/&gt;&lt;f1&gt;как показано &lt;/f1&gt;&lt;te2/&gt;на Рисунке &lt;t3&gt;12&lt;/t3&gt;, но вы можете поплавать или закрепить ее в другом месте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, the name for each new sheet added is &lt;f0&gt;Sheet&lt;/f0&gt;X, where &lt;f1&gt;X&lt;/f1&gt; is the number of the next sheet to be added.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T161134Z" creationid="olex" creationdate="20180409T161036Z">
@@ -9592,6 +9600,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Docked position of Find toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T181605Z" creationid="olex" creationdate="20180731T181605Z">
+        <seg>Рисунок &lt;seq0&gt;12&lt;/seq0&gt;: Панель Найти в закрепленном положении</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Getting more templates for LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T191407Z" creationid="olex" creationdate="20180719T191407Z">
@@ -10827,6 +10843,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find and replace paragraph styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T180840Z" creationid="olex" creationdate="20180731T180840Z">
+        <seg>Найти и заменить стиль абзаца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find and replace specific attributes or formatting</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T180805Z" creationid="olex" creationdate="20180731T180805Z">
@@ -11815,6 +11839,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T182952Z" creationid="olex" creationdate="20180508T182952Z">
         <seg>Дополнительные сведения о редактировании диапазонов печати смотрите в &lt;f0&gt;Руководство по Calc&lt;/f0&gt;, Глава 6 Печать, экспорт и отправка по электронной почте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on floating and docking toolbars, see Chapter 1, Introducing LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T181522Z" creationid="olex" creationdate="20180731T181522Z">
+        <seg>Дополнительную информацию о плавающих и закрепленных панелях инструментов смотрите в Главе 1 Введение в LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13993,6 +14025,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T192659Z" creationid="olex" creationdate="20180309T192517Z">
         <seg>Если на вкладке Управление окна Стиль абзаца или Стиль врезки выбран параметр Авто-обновление, то применение прямого форматирования к абзацу или врезке с использованием этого стиля в документе автоматически обновляет сам стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Find toolbar is not visible, you can display it by choosing &lt;f4&gt;View &gt; Toolbars &gt; Find&lt;/f4&gt; from the Menu bar or by pressing &lt;f5&gt;Ctrl+F&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T181343Z" creationid="olex" creationdate="20180731T181343Z">
+        <seg>Если панель поиска не отображается, вы можете отобразить ее, выбрав в меню &lt;f4&gt;Вид &gt; Панели инструментов &gt; Найти&lt;/f4&gt; или нажав &lt;f5&gt;Ctrl+F&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29057,6 +29097,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To use the Find toolbar, click in the box and type your search text, then press &lt;f0&gt;Enter&lt;/f0&gt; to find the next occurrence of that term&lt;tc1/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T181946Z" creationid="olex" creationdate="20180731T181946Z">
+        <seg>Чтобы использовать панель Найти, щелкните по ней и введите текст для поиска, затем нажмите &lt;f0&gt;Enter&lt;/f0&gt;, чтобы найти следующее вхождение этого термина&lt;tc1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To validate new data entered by a user, select a cell and go to &lt;f0&gt;Data &gt; Validity&lt;/f0&gt; on the Menu bar to define the type of contents that can be entered in that cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T182346Z" creationid="olex" creationdate="20180416T182346Z">
@@ -30217,8 +30265,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>Using the Find toolbar</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180721T105022Z" creationid="olex" creationdate="20180721T105022Z">
-        <seg>Использование панель инструментов Найти</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T180858Z" creationid="olex" creationdate="20180721T105022Z">
+        <seg>Использование панели инструментов Найти</seg>
       </tuv>
     </tu>
     <tu>
