@@ -6851,6 +6851,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Find All&lt;/f0&gt; button to select all instances of the search term within the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T182148Z" creationid="olex" creationdate="20180731T182148Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Найти все&lt;/f0&gt; для выбора всех экземпляров поискового запроса в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;f0&gt;Help&lt;/f0&gt; button to access the help pages included with LibreOffice or see &lt;f1&gt;Chapter 14 Customizing LibreOffice&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T141428Z" creationid="tagezi" creationdate="20180320T141428Z">
@@ -6927,6 +6935,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T182646Z" creationid="olex" creationdate="20180619T182646Z">
         <seg>Для продолжения нажмите кнопку &lt;f1&gt;Открыть&lt;/f1&gt; или &lt;f2&gt;Сохранить&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f2&gt;Find Next&lt;/f2&gt; or &lt;f3&gt;Find Previous&lt;/f3&gt; buttons as needed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T182049Z" creationid="olex" creationdate="20180731T182049Z">
+        <seg>Нажмите кнопку &lt;f2&gt;Следующее&lt;/f2&gt; или &lt;f3&gt;Предыдущее&lt;/f3&gt; если необходимо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21967,6 +21983,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180319T190857Z" creationid="olex" creationdate="20180307T204101Z">
         <seg>Выберите &lt;f0&gt;Вид &gt; Стили&lt;/f0&gt; или &lt;f1&gt;Стили &gt; Управление стилями&lt;/f1&gt; на панели меню, или нажмите &lt;f2&gt;F11&lt;/f2&gt; (&lt;f3&gt;⌘+T &lt;/f3&gt;для Mac), или нажмите значок Стили на боковой панели (&lt;f4&gt;Вид &gt; Боковая панель&lt;/f4&gt; чтобы открыть ее).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f1&gt;Match Case&lt;/f1&gt; to find only the instances that &lt;ts2/&gt;&lt;f3&gt;also&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt; match the &lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;case&lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T182721Z" creationid="olex" creationdate="20180731T182721Z">
+        <seg>Выберите &lt;f1&gt;Учитывать регистр&lt;/f1&gt;, чтобы найти только те экземпляры, &lt;ts2/&gt;&lt;f3&gt;которые соответствуют этому случаю&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
