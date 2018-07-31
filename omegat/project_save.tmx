@@ -4174,6 +4174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, use the buttons on the &lt;f3&gt;Standard&lt;/f3&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T173951Z" creationid="olex" creationdate="20180731T173951Z">
+        <seg>Кроме того, можно использовать кнопки на панели инструментов &lt;f3&gt;Стандартная&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, you can choose to protect the entire spreadsheet rather than individual cells on individual sheets by selecting &lt;f0&gt;Tools &gt; Protect Spreadsheet&lt;/f0&gt; from the &lt;f1&gt;Main Menu&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180503T191600Z" creationid="olex" creationdate="20180503T191600Z">
@@ -5995,6 +6003,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose &lt;f0&gt;Edit &gt; Paste Special&lt;/f0&gt;, or</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T174829Z" creationid="olex" creationdate="20180731T174829Z">
+        <seg>Выберите &lt;f0&gt;Правка &gt; Вставить как...&lt;/f0&gt;, or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose &lt;f0&gt;File &gt; Open&lt;/f0&gt; on the Menu bar and locate the CSV file that you want to open.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T190123Z" creationid="olex" creationdate="20180330T185134Z">
@@ -6903,6 +6919,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T193310Z" creationid="olex" creationdate="20180719T193310Z">
         <seg>Нажмите кнопку &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;&lt;f3&gt;Настройки&lt;/f3&gt;&lt;/f2&gt;&lt;te4/&gt; в диалоговом окне Шаблоны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the arrow button of the combination &lt;f0&gt;Paste&lt;/f0&gt; button, or</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T175123Z" creationid="olex" creationdate="20180731T175123Z">
+        <seg>Нажмите стрелку рядом с кнопкой &lt;f0&gt;Вставить&lt;/f0&gt; или</seg>
       </tuv>
     </tu>
     <tu>
@@ -14341,6 +14365,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you click on the &lt;f1&gt;Paste&lt;/f1&gt; button&lt;ts2/&gt; &lt;f3&gt;on the Standard toolbar or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Ctrl+V&lt;/f5&gt;&lt;/f4&gt;&lt;te6/&gt;, any formatting the text has (such as bold or italics) is retained.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T174546Z" creationid="olex" creationdate="20180731T174546Z">
+        <seg>Если вы нажмете кнопку &lt;f1&gt;Вставить&lt;/f1&gt;&lt;ts2/&gt;&lt;f3&gt; на панели инструментов Стандартная или &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Ctrl+V&lt;/f5&gt;&lt;/f4&gt;&lt;te6/&gt;, любое форматирование текста (например, жирный или курсив) сохраняется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you create a document by choosing &lt;f0&gt;File &gt; New &gt; Text Document&lt;/f0&gt; (or &lt;f1&gt;Spreadsheet&lt;/f1&gt;, &lt;f2&gt;Presentation&lt;/f2&gt;, or &lt;f3&gt;Drawing&lt;/f3&gt;) from the Menu bar, LibreOffice creates the document from the default template for that type of document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T212639Z" creationid="olex" creationdate="20180312T212639Z">
@@ -14401,6 +14433,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T200853Z" creationid="olex" creationdate="20180316T200853Z">
         <seg>Если вам не нравятся настройки по умолчанию, то вы можете их изменить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do not like the results, click the &lt;f7&gt;Undo&lt;/f7&gt; button or press &lt;f8&gt;Ctrl+Z&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T174657Z" creationid="olex" creationdate="20180731T174657Z">
+        <seg>Если вам не нравятся результаты вставки, то нажмите кнопку &lt;f7&gt;Отменить&lt;/f7&gt; или нажмите &lt;f8&gt;Ctrl+Z&lt;/f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23953,6 +23993,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Text pasted from Web sites and other sources may also be placed into frames or tables.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T174617Z" creationid="olex" creationdate="20180731T174617Z">
+        <seg>Текст, вставленный с веб-сайтов и других источников, также может быть помещен в рамки или таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Text to include in the footer (business fax)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T184348Z" creationid="olex" creationdate="20180311T184348Z">
@@ -28295,6 +28343,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To make the pasted text inherit the paragraph style at the insertion point:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T174733Z" creationid="olex" creationdate="20180731T174733Z">
+        <seg>Чтобы вложенный текст наследовал стиль абзаца в точке вставки:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To make those changes the default settings for that document type, you need to replace the default template with a new one.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T190843Z" creationid="olex" creationdate="20180313T190843Z">
@@ -30885,6 +30941,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T195500Z" creationid="olex" creationdate="20180616T195500Z">
         <seg>При использовании диалогового окна Открыть перейдите в нужную папку и выберите нужный файл, а затем нажмите &lt;f0&gt;Открыть&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you &lt;i0/&gt;paste text, the result depends on the source of the text and how you paste it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T174155Z" creationid="olex" creationdate="20180731T174155Z">
+        <seg>Когда вы &lt;i0/&gt;вставляете текст, результат зависит от источника текста и того, как вы его вставляете.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34034,6 +34098,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T180738Z" creationid="olex" creationdate="20180508T180738Z">
         <seg>порядок страниц, детали, масштаб, в Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>paste text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T174128Z" creationid="olex" creationdate="20180731T174128Z">
+        <seg>вставить текст</seg>
       </tuv>
     </tu>
     <tu>
