@@ -6875,6 +6875,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Paste&lt;/f0&gt; button without releasing the left mouse button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T175223Z" creationid="olex" creationdate="20180731T175223Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Вставить&lt;/f0&gt;, удерживая левую кнопку мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;f0&gt;Run BASIC&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Macro toolbar, or press the &lt;f3&gt;F5&lt;/f3&gt; key, to run the macro.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T085603Z" creationid="tagezi" creationdate="20180319T085543Z">
@@ -9560,6 +9568,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Paste Special menu</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T175739Z" creationid="olex" creationdate="20180731T175739Z">
+        <seg>Рисунок &lt;seq0&gt;11&lt;/seq0&gt;: Меню Вставить как</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Set Master Password dialog for web connections</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T183552Z" creationid="olex" creationdate="20180628T183552Z">
@@ -10807,6 +10823,22 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180324T170245Z" creationid="olex" creationdate="20180311T190641Z">
         <seg>Теперь, вы можете выбрать: нужно ли сразу создавать новый документ из этого шаблона или вручную изменить шаблон, затем нажмите &lt;f0&gt;Готово&lt;/f0&gt;, чтобы сохранить шаблон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find and replace specific attributes or formatting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T180805Z" creationid="olex" creationdate="20180731T180805Z">
+        <seg>Поиск и замена определенных атрибутов или форматирования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find and replace words and phrases</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T180335Z" creationid="olex" creationdate="20180731T180335Z">
+        <seg>Найти и заменить слова и фразы</seg>
       </tuv>
     </tu>
     <tu>
@@ -15674,6 +15706,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T222304Z" creationid="olex" creationdate="20180407T222304Z">
         <seg>В текущем документе щелкните правой кнопкой мыши на вкладке листа, который вы хотите переместить или скопировать, и выберите в контекстном меню &lt;f0&gt;Переместить/скопировать лист...&lt;/f0&gt; или выберите в меню &lt;f1&gt;Лист &gt; Переместить/скопировать лист...&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the dialog, you can:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T180311Z" creationid="olex" creationdate="20180731T180311Z">
+        <seg>В диалоговом окне вы можете:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21475,6 +21515,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Figure &lt;t0&gt;11&lt;/t0&gt;&lt;s1/&gt;for an example w&lt;ts2/&gt;&lt;f3&gt;hen &lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;text &lt;ts6/&gt;&lt;f7&gt;is &lt;/f7&gt;&lt;te8/&gt;on the clipboard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T175713Z" creationid="olex" creationdate="20180731T175713Z">
+        <seg>Смотрите Рисунок &lt;t0&gt;11&lt;/t0&gt;&lt;s1/&gt;для примера, &lt;ts2/&gt;&lt;f3&gt;когда &lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;текст &lt;ts6/&gt;&lt;f7&gt;находится &lt;/f7&gt;&lt;te8/&gt;в буфере обмена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Figure &lt;t0&gt;4&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T160849Z" creationid="olex" creationdate="20180722T160849Z">
@@ -26061,6 +26109,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The range of choices on the Paste Special menu varies depending on the origin and formatting of the text (or other object) to be pasted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T175533Z" creationid="olex" creationdate="20180731T175533Z">
+        <seg>Диапазон выбора в меню Вставить как варьируется в зависимости от источника и форматирования текста (или другого объекта), который нужно вставить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The recorder is relatively simple tool to use and the same commands that are issued are recorded for later use.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T175747Z" creationid="tagezi" creationdate="20180319T175747Z">
@@ -26484,6 +26540,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T175133Z" creationid="olex" creationdate="20180727T175133Z">
         <seg>Затем выберите в меню &lt;f0&gt;Файл &gt; Сохранить как...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then select &lt;f0&gt;Unformatted text&lt;/f0&gt; from the resulting menu.&lt;ts1/&gt; &lt;f2&gt;Unformatted text can also be pasted with &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Shift+Ct&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;f8&gt;rl+Alt+V.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T175504Z" creationid="olex" creationdate="20180731T175504Z">
+        <seg>Затем выберите &lt;f0&gt;Только текст&lt;/f0&gt; из выпадающего меню.&lt;ts1/&gt; &lt;f2&gt;Текст без форматирования также может быть вставлен с помощью &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Shift+Ct&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;f8&gt;rl+Alt+V.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29655,6 +29719,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use wildcards &lt;i0/&gt;and regular expressions to fine-tune a search</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T180735Z" creationid="olex" creationdate="20180731T180735Z">
+        <seg>Используйте подстановочные знаки &lt;i0/&gt;и регулярные выражения для тонкой настройки поиска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Used with other keys</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T155222Z" creationid="lera" creationdate="20180303T155222Z">
@@ -31494,6 +31566,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180724T194118Z" creationid="olex" creationdate="20180724T194118Z">
         <seg>В Writer есть три режима просмотра документа: Обычный, Веб-страница и Во весь экран.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writer has two ways to find text &lt;ts0/&gt;&lt;f1&gt;and formatting &lt;/f1&gt;&lt;te2/&gt;within a document: the Find toolbar for fast searching and the Find &amp; Replace dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T180252Z" creationid="olex" creationdate="20180731T180220Z">
+        <seg>У Writer есть два способа найти текст &lt;ts0/&gt;&lt;f1&gt;и форматирование&lt;/f1&gt;&lt;te2/&gt; в документе: панель инструментов Поиск для быстрого поиска и диалоговое окно Найти и заменить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34190,6 +34270,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>regular expressions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T180615Z" creationid="olex" creationdate="20180731T180615Z">
+        <seg>регулярные выражения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>relative</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T180001Z" creationid="olex" creationdate="20180707T180001Z">
@@ -34818,6 +34906,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T065538Z" creationid="tagezi" creationdate="20180315T065538Z">
         <seg>просмотр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>wildcards</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T180629Z" creationid="olex" creationdate="20180731T180629Z">
+        <seg>подстановочные знаки</seg>
       </tuv>
     </tu>
     <tu>
