@@ -7693,6 +7693,22 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cutting and &lt;i0/&gt;copying text in Writer is similar to cutting and copying text in other applications.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T173048Z" creationid="olex" creationdate="20180731T173048Z">
+        <seg>Вырезание и &lt;i0/&gt;копирование текста в Writer аналогично вырезанию и копированию текста в других приложениях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cutting, copying, and &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;moving&lt;/f2&gt;&lt;te3/&gt; text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T172949Z" creationid="olex" creationdate="20180731T172949Z">
+        <seg>Вырезание, копирование и &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;перемещение&lt;/f2&gt;&lt;te3/&gt; текста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cutting, copying, and moving text</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T104856Z" creationid="olex" creationdate="20180721T104856Z">
@@ -26311,6 +26327,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The text retains the formatting it had before dragging.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T173604Z" creationid="olex" creationdate="20180731T173604Z">
+        <seg>Форматирование текста сохраняется при перетаскивании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The time format automatically changes to the selected format used by Calc.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T191359Z" creationid="olex" creationdate="20180412T191359Z">
@@ -27321,6 +27345,30 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T221327Z" creationid="olex" creationdate="20180407T220843Z">
         <seg>Чтобы &lt;f0&gt;скопировать&lt;/f0&gt; лист в пределах одной электронной таблицы, нажмите клавишу &lt;f1&gt;Ctrl&lt;/f1&gt; (&lt;f2&gt;Option&lt;/f2&gt; на Mac), а затем нажмите на вкладку листа и перетащите ее новое место, не отпуская правую кнопку мыши и клавишу &lt;f1&gt;Ctrl&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To &lt;f0&gt;move&lt;/f0&gt; (cut and paste) selected text, use &lt;f1&gt;Ctrl+X&lt;/f1&gt; to cut the text, insert the cursor at the paste-in point and use &lt;f2&gt;Ctrl+V&lt;/f2&gt; to paste.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T173703Z" creationid="olex" creationdate="20180731T173703Z">
+        <seg>Чтобы &lt;f0&gt;переместить&lt;/f0&gt; (вырезать и вставить) выделенный текст, используйте &lt;f1&gt;Ctrl+X&lt;/f1&gt;, чтобы вырезать текст, вставьте курсор в место вставки и используйте &lt;f2&gt;Ctrl+V&lt;/f2&gt; для вставки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To &lt;f0&gt;move&lt;/f0&gt; (drag and drop) selected text using the mouse, drag it to the new location and release it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T173359Z" creationid="olex" creationdate="20180731T173359Z">
+        <seg>Чтобы &lt;f0&gt;переместить&lt;/f0&gt; (перетащить) выделенный текст с помощью мыши, перетащите его в новое место и отпустите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To &lt;f1&gt;copy&lt;/f1&gt; selected text, hold down the &lt;f2&gt;Ctrl&lt;/f2&gt; key while dragging.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T173506Z" creationid="olex" creationdate="20180731T173453Z">
+        <seg>Чтобы &lt;f1&gt;скопировать&lt;/f1&gt; выделенный текст, удерживайте нажатой клавишу &lt;f2&gt;Ctrl&lt;/f2&gt; во время перетаскивания.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31522,6 +31570,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also copy text from other sources such as Web pages and paste it into a Writer document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T173243Z" creationid="olex" creationdate="20180731T173243Z">
+        <seg>Вы также можете скопировать текст из других источников, таких как веб-страницы, и вставить его в документ Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also create and edit .ODT files and then save them as .DOC or .DOCX files.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T174757Z" creationid="olex" creationdate="20180727T174757Z">
@@ -31857,6 +31913,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T174019Z" creationid="olex" creationdate="20180616T174019Z">
         <seg>Вы можете щелкнуть по значку, чтобы подписать документ, или просмотреть существующий сертификат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can copy or move text within a document, or between documents, by dragging or by using menu selections, toolbar buttons, or keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T173221Z" creationid="olex" creationdate="20180731T173221Z">
+        <seg>Вы можете копировать или перемещать текст внутри документа или между документами, перетаскивая или используя меню, кнопки панели инструментов или сочетания клавиш.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32410,6 +32474,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T172325Z" creationid="olex" creationdate="20180628T172325Z">
         <seg>Вы можете использовать адреса на странице &lt;f0&gt;LibreOffice - Пути&lt;/f0&gt; для компиляции списка файлов, таких как те, которые содержат AutoText, которые необходимо создать или скопировать на другой компьютер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use the mouse or the keyboard for these operations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T173101Z" creationid="olex" creationdate="20180731T173101Z">
+        <seg>Для этих операций вы можете использовать мышь или клавиатуру.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33042,6 +33114,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T175551Z" creationid="olex" creationdate="20180502T175551Z">
         <seg>условное форматирование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>copy and paste</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180731T173003Z" creationid="olex" creationdate="20180731T173003Z">
+        <seg>скопировать и вставить</seg>
       </tuv>
     </tu>
     <tu>
