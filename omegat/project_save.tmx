@@ -2418,6 +2418,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>написано неверно, Ctrl+F только включает панель Найти, но не выключает ее</note>
+      <tuv lang="EN-US">
+        <seg>&lt;f1&gt;Ctrl+F&lt;/f1&gt; toggles the Find toolbar off and on.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T172509Z" creationid="olex" creationdate="20180802T172304Z">
+        <seg>&lt;f1&gt;Ctrl+F&lt;/f1&gt; включает панель Найти.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;f1&gt;If you have made changes to a file since the last save, a&lt;/f1&gt; confirmation dialog will warn you that &lt;f2&gt;Reloading&lt;/f2&gt; will discard your last changes.</seg>
       </tuv>
@@ -9722,8 +9731,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Selective Search List.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180802T172111Z" creationid="olex" creationdate="20180802T172111Z">
-        <seg>Рисунок &lt;seq0&gt;13&lt;/seq0&gt;: Выпадающий список для поиска.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T172133Z" creationid="olex" creationdate="20180802T172111Z">
+        <seg>Рисунок &lt;seq0&gt;13&lt;/seq0&gt;: Список выбора для поиска.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11512,6 +11521,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T191347Z" creationid="olex" creationdate="20180315T191347Z">
         <seg>Например, первая страница письма обычно имеет другой заголовок, или первая страница отчета может быть без верхнего или нижнего колонтитула, в отличии от остальных страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, they can find all instances where any number is followed by specific letters.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T172627Z" creationid="olex" creationdate="20180802T172627Z">
+        <seg>Например, они могут найти все экземпляры, где за любым числом следуют определенные буквы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13645,6 +13662,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, they can be challenging to understand.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T172703Z" creationid="olex" creationdate="20180802T172703Z">
+        <seg>Однако это может быть сложно для понимания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, when the computer is restarted, Quickstarter will be loaded again.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T191535Z" creationid="olex" creationdate="20180614T185904Z">
@@ -14081,6 +14106,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T181343Z" creationid="olex" creationdate="20180731T181343Z">
         <seg>Если панель поиска не отображается, вы можете отобразить ее, выбрав в меню &lt;f4&gt;Вид &gt; Панели инструментов &gt; Найти&lt;/f4&gt; или нажав &lt;f5&gt;Ctrl+F&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Find toolbar is open, click the Find &amp; Replace button (&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;) &lt;ts5/&gt;&lt;f6&gt;to the right of it&lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T173205Z" creationid="olex" creationdate="20180802T173205Z">
+        <seg>Если панель Найти открыта, то нажмите кнопку Найти и заменить (&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;) &lt;ts5/&gt;&lt;f6&gt;справа от нее&lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20838,6 +20871,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T134402Z" creationid="tagezi" creationdate="20180312T134402Z">
         <seg>Запись &lt;i0/&gt;макроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to the Help files for guidance.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T172815Z" creationid="olex" creationdate="20180802T172815Z">
+        <seg>Для получения помощи обратитесь к файлам Справки.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28031,6 +28072,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To close the Find toolbar, click the X button on the left, or press &lt;f0&gt;Esc&lt;/f0&gt; on the keyboard when the cursor is in the search box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T172313Z" creationid="olex" creationdate="20180802T172226Z">
+        <seg>Чтобы закрыть панель Найти, нажмите кнопку X слева или нажмите &lt;f0&gt;Esc&lt;/f0&gt; на клавиатуре, когда курсор находится в окне поиска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To compile an automatic table of contents, first apply styles to the headings you want to appear in the contents list, then use &lt;f0&gt;Tools &gt; Outline Numbering&lt;/f0&gt; to tell Writer which styles go with which level in the table of contents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T202918Z" creationid="olex" creationdate="20180316T201746Z">
@@ -28163,6 +28212,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T192552Z" creationid="olex" creationdate="20180615T175823Z">
         <seg>Чтобы отобразить или скрыть панели инструментов, выберите в меню &lt;f0&gt;Вид &gt; Панели инструментов&lt;/f0&gt;, затем щелкните по имени панели инструментов в выпадающем списке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To display the Find &amp; Replace dialog, use the keyboard shortcut &lt;f0&gt;Ctrl+H&lt;/f0&gt; or choose &lt;f1&gt;Edit &gt; Find &amp; Replace&lt;/f1&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T172933Z" creationid="olex" creationdate="20180802T172933Z">
+        <seg>Чтобы отобразить диалоговое окно Найти и заменить, используйте сочетание клавиш &lt;f0&gt;Ctrl+H&lt;/f0&gt; или выберите в меню &lt;f1&gt;Правка &gt; Найти и заменить...&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35058,6 +35115,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T162600Z" creationid="olex" creationdate="20180409T162600Z">
         <seg>масштаб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>‘Regular expressions’ &lt;f0&gt;offer powerful ways to search and replace text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T172536Z" creationid="olex" creationdate="20180802T172536Z">
+        <seg>«Регулярные выражения» &lt;f0&gt; предлагают мощные способы поиска и замены текста.</seg>
       </tuv>
     </tu>
     <tu>
