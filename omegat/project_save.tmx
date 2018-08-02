@@ -3029,6 +3029,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;C&lt;/f3&gt;&lt;te4/&gt;haracters &lt;ts5/&gt;&lt;f6&gt;previously &lt;/f6&gt;&lt;te7/&gt;selected for insertion are shown in the lower left of the dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T180019Z" creationid="olex" creationdate="20180802T180019Z">
+        <seg>&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;/f3&gt;&lt;te4/&gt;Символы &lt;ts5/&gt;&lt;f6&gt;&lt;/f6&gt;&lt;te7/&gt;выбранные для вставки отображаются в левом нижнем углу диалогового окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;tc4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;When &lt;/f7&gt;&lt;te8/&gt;text &lt;ts9/&gt;&lt;f10&gt;is &lt;/f10&gt;&lt;te11/&gt;selected&lt;ts12/&gt;, &lt;f13&gt;the word and character counts for the selection will appear here.&lt;/f13&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T162153Z" creationid="olex" creationdate="20180721T162153Z">
@@ -3081,6 +3089,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T163922Z" creationid="olex" creationdate="20180722T163922Z">
         <seg>&lt;ts9/&gt;&lt;f10&gt;Когда открыто &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;диалоговое окно&lt;ts13/&gt;&lt;f14&gt;&lt;/f14&gt;&lt;te15/&gt;&lt;tc16/&gt;&lt;ts17/&gt;, то &lt;te18/&gt;&lt;tc19/&gt;документ будет &lt;ts20/&gt;&lt;f21&gt;&lt;/f21&gt;&lt;te22/&gt;&lt;ts23/&gt;&lt;f24&gt;заблокирован &lt;/f24&gt;&lt;te25/&gt;для редактирования, пока не будет закрыто диалоговое окно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A &lt;f0&gt;special character&lt;/f0&gt; is one not found on a standard user’s keyboard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T175402Z" creationid="olex" creationdate="20180802T175402Z">
+        <seg>&lt;f0&gt;Специальный символ&lt;/f0&gt;, это тот, который не найден на стандартной пользовательской клавиатуре..</seg>
       </tuv>
     </tu>
     <tu>
@@ -3385,6 +3401,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T184158Z" creationid="olex" creationdate="20180315T184158Z">
         <seg>Появится окно с с запросом на подтверждение удаления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A mistake with &lt;f1&gt;Replace All&lt;/f1&gt; might require a manual, word-by-word, search to fix.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T175101Z" creationid="olex" creationdate="20180802T175101Z">
+        <seg>Ошибки с &lt;f1&gt;Заменить все&lt;/f1&gt; могут потребовать исправления вручную, слово за словом, используя поиск.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4754,6 +4778,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you select a character, it is shown on the right, along with its numerical code.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T180131Z" creationid="olex" creationdate="20180802T180131Z">
+        <seg>Когда вы выбираете символ, он отображается справа, вместе с его числовым кодом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Asian language support</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T175613Z" creationid="olex" creationdate="20180712T175554Z">
@@ -6056,6 +6088,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T111158Z" creationid="olex" creationdate="20180715T111158Z">
         <seg>Выберите &lt;f0&gt;Справка &gt; Перезапуск в безопасном режиме&lt;/f0&gt;&lt;f1&gt;...&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose &lt;f0&gt;Insert &gt; Special Character&lt;/f0&gt; &lt;tc1/&gt;&lt;s2/&gt;to open the Special Characters dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T175649Z" creationid="olex" creationdate="20180802T175649Z">
+        <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Специальные символы...&lt;/f0&gt; &lt;tc1/&gt;&lt;s2/&gt;чтобы открыть диалоговое окно Выбор символа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11764,6 +11804,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, © ¾ æ ç ñ ö ø ¢ are &lt;i1/&gt;all special characters not available on an English keyboard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T175446Z" creationid="olex" creationdate="20180802T175446Z">
+        <seg>Например, © ¾ æ ç ñ ö ø ¢ are &lt;i1/&gt;все специальные символы недоступны на английской клавиатуре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example&lt;/f37&gt;&lt;te38/&gt;&lt;ts39/&gt;&lt;f40&gt;, to search for&lt;/f40&gt;&lt;te41/&gt;&lt;ts42/&gt;&lt;f43&gt; something inside the document headings, select the&lt;/f43&gt;&lt;te44/&gt;&lt;ts45/&gt;&lt;f46&gt; &lt;/f46&gt;&lt;f47&gt;Headings&lt;/f47&gt;&lt;f48&gt; entry in the menu&lt;/f48&gt;&lt;te49/&gt;&lt;ts50/&gt;&lt;f51&gt;.&lt;/f51&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T172016Z" creationid="olex" creationdate="20180802T172016Z">
@@ -12008,6 +12056,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T185423Z" creationid="olex" creationdate="20180508T185423Z">
         <seg>Дополнительные сведения о настройке и определении верхних и нижних колонтитулов смотрите в разделе &lt;f0&gt;Руководство по Calc Глава 6 Печать, экспорт и отправка по электронной почте&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on using Find &amp; Replace, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T174857Z" creationid="olex" creationdate="20180802T174857Z">
+        <seg>Для получения дополнительной информации об использовании Найти и заменить смотрите &lt;f0&gt;Руководство по Writer&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14530,6 +14586,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T180349Z" creationid="olex" creationdate="20180707T180349Z">
         <seg>Если вы решите сохранять относительно, то ссылки на встроенную графику или другие объекты в вашем документе будут сохранены относительно местоположения в файловой системе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you click &lt;f0&gt;Find All&lt;/f0&gt;, LibreOffice selects all instances of the search text in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T174643Z" creationid="olex" creationdate="20180802T174643Z">
+        <seg>Если вы нажмете &lt;f0&gt;Найти все&lt;/f0&gt;, то LibreOffice выберет все экземпляры искомого текста в документе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20314,6 +20378,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the cursor where you want the character to appear.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T175533Z" creationid="olex" creationdate="20180802T175533Z">
+        <seg>Поместите курсор, там где вы хотите отобразить символ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: &lt;a0&gt;documentation@global.libreoffice.org&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T230716Z" creationid="lera" creationdate="20180303T152036Z">
@@ -22502,6 +22574,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the characters (from any font or mixture of fonts) you wish to insert, in order, then click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T175750Z" creationid="olex" creationdate="20180802T175750Z">
+        <seg>Выберите символы (из любого шрифта или из смеси шрифтов), которые вы хотите вставить, в необходимом порядке и затем нажмите&lt;f0&gt;ОК&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the columns or rows, see “&lt;bf0&gt;Multiple columns or rows&lt;/bf0&gt;” on page &lt;bf1&gt;21&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T213939Z" creationid="olex" creationdate="20180407T213939Z">
@@ -23315,6 +23395,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T153738Z" creationid="olex" creationdate="20180603T153738Z">
         <seg>Боковая панель Свойства</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Similarly, if you click &lt;f1&gt;Replace All&lt;/f1&gt;, LibreOffice replaces all matches, without stopping for you to accept each instance.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T174807Z" creationid="olex" creationdate="20180802T174807Z">
+        <seg>Аналогично, если вы нажмете &lt;f1&gt;Заменить все&lt;/f1&gt;, LibreOffice заменит все совпадения, не останавливаясь на то, чтобы дать вам принять решение в каждом случае.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28521,6 +28609,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To insert a special character:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T175501Z" creationid="olex" creationdate="20180802T175501Z">
+        <seg>Чтобы вставить специальный символ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To insert an image into a file, or add a new image to the new category, drag and drop the selected image.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180724T191014Z" creationid="olex" creationdate="20180724T191014Z">
@@ -28839,6 +28935,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180320T191642Z" creationid="olex" creationdate="20180308T173901Z">
         <seg>Чтобы удалить ручное форматирование, выберите текст, щелкните правой кнопкой мыши и выберите &lt;f0&gt;Стили &gt; Очистить форматирование&lt;/f0&gt; в контекстном меню или нажмите &lt;f1&gt;Ctrl + M&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To replace the found text, click &lt;f1&gt;Replace.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T174544Z" creationid="olex" creationdate="20180802T174544Z">
+        <seg>Чтобы заменить найденный текст, нажмите &lt;f1&gt;Заменить.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29708,6 +29812,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190935Z" creationid="tagezi" creationdate="20180320T190935Z">
         <seg>Используйте &lt;f0&gt;Справка &gt; Справка по LibreOffice&lt;/f0&gt;, чтобы открыть страницы справки LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;f0&gt;Replace All&lt;/f0&gt; with caution; otherwise, you may end up with some highly embarrassing (and often hilarious) mistakes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T175000Z" creationid="olex" creationdate="20180802T175000Z">
+        <seg>Используйте &lt;f0&gt;Заменить все&lt;/f0&gt; с осторожностью, иначе случае вы можете столкнуться с некоторыми весьма смущающими (и часто смешными) ошибками.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31295,6 +31407,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T194445Z" creationid="olex" creationdate="20180418T194445Z">
         <seg>Когда вы закончите, нажмите клавишу &lt;f0&gt;Enter&lt;/f0&gt;, и ваши изменения будут сохранены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you have set up your search, click &lt;f0&gt;Find Next&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T174513Z" creationid="olex" creationdate="20180802T174513Z">
+        <seg>Когда вы настроили свой поиск, нажмите &lt;f0&gt;Следующее&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34788,6 +34908,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180503T191910Z" creationid="olex" creationdate="20180503T191910Z">
         <seg>сортировка записей, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>special characters</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T175226Z" creationid="olex" creationdate="20180802T175226Z">
+        <seg>специальные символы</seg>
       </tuv>
     </tu>
     <tu>
