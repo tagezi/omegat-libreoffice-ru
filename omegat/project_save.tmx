@@ -8294,6 +8294,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Different fonts &lt;ts0/&gt;&lt;f1&gt;have their own &lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;distinct&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt; special characters.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T180804Z" creationid="olex" creationdate="20180802T180804Z">
+        <seg>Различные шрифты &lt;ts0/&gt;&lt;f1&gt;имеют свои &lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;собственные&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt;  специальные символы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Different from the command &lt;f0&gt;Save as&lt;/f0&gt;, LibreOffice uses the term “export” to create a new file with another format without leaving the current content and file format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T205532Z" creationid="tagezi" creationdate="20180304T205532Z">
@@ -9861,6 +9869,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T153153Z" creationid="olex" creationdate="20180630T153153Z">
         <seg>Рисунок &lt;seq0&gt;15&lt;/seq0&gt;: Отображение или скрытие границ текста, объекта и таблицы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: The Special Characters insert dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T180957Z" creationid="olex" creationdate="20180802T180957Z">
+        <seg>Рисунок &lt;seq0&gt;15&lt;/seq0&gt;: Диалоговое окно Выбор символа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14646,6 +14662,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do not find a particular special character, try changing the &lt;f8&gt;Font&lt;/f8&gt; selection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T180912Z" creationid="olex" creationdate="20180802T180912Z">
+        <seg>Если вы не найдете необходимый специальный символ, то попробуйте выбрать другой &lt;f8&gt;Шрифт&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not have Microsoft Office installed on your computer, or if Microsoft Office is installed but you have associated Microsoft Office file types with LibreOffice, then when you double-click on the following files, they open in LibreOffice:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T182337Z" creationid="olex" creationdate="20180611T182250Z">
@@ -16155,6 +16179,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T161926Z" creationid="olex" creationdate="20180603T161926Z">
         <seg>Добавление комментариев в рисунок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserting dashes and &lt;i0/&gt;non-breaking spaces and hyphens</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T181134Z" creationid="olex" creationdate="20180802T181134Z">
+        <seg>Вставка тире, &lt;i0/&gt;неразрывных пробелов и дефисов</seg>
       </tuv>
     </tu>
     <tu>
@@ -24907,6 +24939,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The S&lt;te0/&gt;&lt;ts1/&gt;pecial Characters dialog includes areas &lt;te2/&gt;&lt;ts3/&gt;to select &lt;f4&gt;Recent&lt;/f4&gt; and &lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;Favorite Characters&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T180413Z" creationid="olex" creationdate="20180802T180413Z">
+        <seg>&lt;te0/&gt;&lt;ts1/&gt;Диалоговое окно «Специальные символы» включает области &lt;te2/&gt;&lt;ts3/&gt;для &lt;f4&gt;Недавних символов&lt;/f4&gt; и для &lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;Избранных символов&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Save As dialog opens.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T185719Z" creationid="olex" creationdate="20180719T185719Z">
@@ -27811,6 +27851,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T140441Z" creationid="tagezi" creationdate="20180320T140345Z">
         <seg>Для добавления &lt;i0/&gt;пункта меню, &lt;i1/&gt;сочетания клавиш или &lt;i2/&gt;значка на панель инструментов, которые будут вызывать макрос, используйте &lt;i3/&gt;диалоговое окно Настройка (Рисунок &lt;t4&gt;9&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To add a new character to the &lt;te8/&gt;&lt;ts9/&gt;Favorite Characters, click on a character and &lt;te10/&gt;&lt;ts11/&gt;click the &lt;f12&gt;Add to Favorites&lt;/f12&gt; &lt;te13/&gt;&lt;ts14/&gt;button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T180632Z" creationid="olex" creationdate="20180802T180632Z">
+        <seg>Чтобы добавить новый символ в &lt;te8/&gt;&lt;ts9/&gt;Избранные символы, нажмите на символ и &lt;te10/&gt;&lt;ts11/&gt;нажмите кнопку &lt;f12&gt;Добавить в избранное&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
