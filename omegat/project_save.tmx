@@ -16223,6 +16223,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inserting non-&lt;te0/&gt;&lt;ts1/&gt;breaking spaces</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T181304Z" creationid="olex" creationdate="20180802T181304Z">
+        <seg>Вставка неразрывных&lt;te0/&gt;&lt;ts1/&gt; пробелов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inserting non-breaking hyphens</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T105430Z" creationid="olex" creationdate="20180721T105430Z">
@@ -34468,6 +34476,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T195126Z" creationid="olex" creationdate="20180402T195126Z">
         <seg>перемещение по листам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>non-breaking spaces</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T181217Z" creationid="olex" creationdate="20180802T181217Z">
+        <seg>неразрывные пробелы</seg>
       </tuv>
     </tu>
     <tu>
