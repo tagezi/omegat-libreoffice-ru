@@ -6988,6 +6988,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the button again to reduce the dialog options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T173342Z" creationid="olex" creationdate="20180802T173342Z">
+        <seg>Нажмите кнопку еще раз, чтобы скрыть дополнительные параметры диалогового окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the expansion symbol (+ or triangle) to the left of &lt;f1&gt;Load/Save&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180706T175027Z" creationid="olex" creationdate="20180706T175027Z">
@@ -9741,6 +9749,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T193436Z" creationid="olex" creationdate="20180719T193436Z">
         <seg>Рисунок &lt;seq0&gt;14&lt;/seq0&gt;: Создание новой категории</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Expanded Find &amp; Replace dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T173417Z" creationid="olex" creationdate="20180802T173417Z">
+        <seg>Рисунок &lt;seq0&gt;14&lt;/seq0&gt;: Развернутое диалоговое окно Найти и заменить</seg>
       </tuv>
     </tu>
     <tu>
@@ -26165,6 +26181,15 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
     </tu>
     <tu>
+      <note>поиск похожих слов упоминается в предыдущем предложении</note>
+      <tuv lang="EN-US">
+        <seg>The other options include searching only in selected text, searching from the current cursor position backwards toward the beginning of the file, searching for similar words, and searching in comments.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T174429Z" creationid="olex" creationdate="20180802T174429Z">
+        <seg>Другие параметры включают поиск только в текущем выделенном тексте, поиск от текущей позиции курсора в обратном порядке (в начало файла) и поиск в комментариях.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>The other options on this dialog should be self-explanatory.</seg>
       </tuv>
@@ -28818,6 +28843,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To replace the text with different text, type the new text in the &lt;f0&gt;Replace&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T173703Z" creationid="olex" creationdate="20180802T173703Z">
+        <seg>Введите новый текст для замены в поле &lt;f0&gt;Заменить&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To restrict who can edit the document, click &lt;f0&gt;Options&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T185605Z" creationid="olex" creationdate="20180617T185529Z">
@@ -29210,6 +29243,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To use the Find &amp; Replace dialog:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T173521Z" creationid="olex" creationdate="20180802T173521Z">
+        <seg>Чтобы использовать диалоговое окно Найти и заменить:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To use the Find toolbar, click in the box and type your search text, then press &lt;f0&gt;Enter&lt;/f0&gt; to find the next occurrence of that term&lt;tc1/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T181946Z" creationid="olex" creationdate="20180731T181946Z">
@@ -29448,6 +29489,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T091224Z" creationid="olex" creationdate="20180415T091224Z">
         <seg>Введите ряд для нового списка в поле &lt;f0&gt;Элементы&lt;/f0&gt; (по одному элементу в строке).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type the text you want to find in the &lt;f0&gt;Find&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T173615Z" creationid="olex" creationdate="20180802T173615Z">
+        <seg>Введите текст, который вы хотите найти в поле &lt;f0&gt;Найти&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31114,6 +31163,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the dialog is open, optionally click &lt;f9&gt;Other Options&lt;/f9&gt; to expand it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T173258Z" creationid="olex" creationdate="20180802T173258Z">
+        <seg>Когда диалоговое окно откроется, выберите &lt;f9&gt;Другие параметры&lt;/f9&gt;, чтобы развернуть его.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the macro recorder is not able to solve a specific problem, the usual solution is to write code using the LibreOffice objects.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T084756Z" creationid="tagezi" creationdate="20180320T084756Z">
@@ -32651,6 +32708,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T184617Z" creationid="olex" creationdate="20180405T184617Z">
         <seg>Вы можете выбрать один или несколько листов в Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can select various options such as matching the case, matching whole words only, or doing a search for similar words.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180802T174113Z" creationid="olex" creationdate="20180802T174113Z">
+        <seg>Вы можете выбрать различные параметры, например, учитывать регистр, только слово целиком или поиск подобных слов.</seg>
       </tuv>
     </tu>
     <tu>
