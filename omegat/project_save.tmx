@@ -9409,6 +9409,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exception: if the characters are numbers, as in a date or time range, the two hyphens are replaced by an en-dash.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T165517Z" creationid="olex" creationdate="20180804T165517Z">
+        <seg>Исключение: если символы являются числами, как в дате или интервале времени, то два дефиса заменяются чертой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exceptions</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T192034Z" creationid="olex" creationdate="20180326T192034Z">
@@ -15593,8 +15601,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>In cases where you do not want the hyphen to appear at the end of a line, for example in a number such as 123‑4567, you can press &lt;f0&gt;Shift+Ctrl+minus sign&lt;/f0&gt; to insert &lt;i1/&gt;a non-breaking hyphen.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180804T163228Z" creationid="olex" creationdate="20180804T163228Z">
-        <seg>В тех случаях, когда вы не хотите, чтобы в конце строки отображался дефис, например, в числе, таком как 123-4567, вы можете нажать &lt;f0&gt;Shift+Ctrl+знак минус&lt;/f0&gt;, чтобы вставить &lt;i1/&gt;неразрывный дефис.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T165018Z" creationid="olex" creationdate="20180804T163228Z">
+        <seg>В тех случаях, когда вы не хотите, чтобы в результате переноса в конце строки отображался дефис, например, в числе, таком как 123-4567, вы можете нажать &lt;f0&gt;Shift+Ctrl+знак минус&lt;/f0&gt;, чтобы вставить &lt;i1/&gt;неразрывный дефис.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16041,8 +16049,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>In&lt;te0/&gt;&lt;ts1/&gt;serting en and em dashes</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180804T164100Z" creationid="olex" creationdate="20180804T163427Z">
-        <seg>&lt;te0/&gt;&lt;ts1/&gt;Вставка черточек и тире</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T164924Z" creationid="olex" creationdate="20180804T163427Z">
+        <seg>&lt;te0/&gt;&lt;ts1/&gt;Вставка черты и тире</seg>
       </tuv>
     </tu>
     <tu>
@@ -26302,6 +26310,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The one or two hyphens will be replaced by an en-dash.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T165120Z" creationid="olex" creationdate="20180804T164907Z">
+        <seg>Один или два дефиса будут заменены на черту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The option &lt;f0&gt;PDF as Standard Print Job Format&lt;/f0&gt; is not available on Windows.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T171026Z" creationid="olex" creationdate="20180628T171026Z">
@@ -26774,6 +26790,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T180629Z" creationid="olex" creationdate="20180701T180542Z">
         <seg>Два приведенных ниже списка показывают белый список драйверов OpenCL и черный список.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The two hyphens will be replaced by an em-dash.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T165313Z" creationid="olex" creationdate="20180804T165313Z">
+        <seg>Два дефиса будут заменены на тире.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28523,8 +28547,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To enter en and &lt;i0/&gt;em dashes, you can use the &lt;f1&gt;Replace dashes&lt;/f1&gt; option on the Options tab under &lt;f2&gt;Tools &gt; &lt;/f2&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;f5&gt;AutoCorrect &gt;&lt;/f5&gt;&lt;/f4&gt;&lt;te6/&gt;&lt;f7&gt;AutoCorrect Options&lt;/f7&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180804T164039Z" creationid="olex" creationdate="20180804T164039Z">
-        <seg>Чтобы ввести черточки и &lt;i0/&gt;тире, вы можете использовать опцию &lt;f1&gt;Заменять дефисы на тире&lt;/f1&gt; во вкладке Параметры в &lt;f2&gt;Сервис &gt; &lt;/f2&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;f5&gt;Автозамена &gt;&lt;/f5&gt;&lt;/f4&gt;&lt;te6/&gt;&lt;f7&gt;Параметры автозамены...&lt;/f7&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T165045Z" creationid="olex" creationdate="20180804T164039Z">
+        <seg>Чтобы ввести черту или &lt;i0/&gt;тире, вы можете использовать опцию &lt;f1&gt;Заменять дефисы на тире&lt;/f1&gt; во вкладке Параметры в &lt;f2&gt;Сервис &gt; &lt;/f2&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;f5&gt;Автозамена &gt;&lt;/f5&gt;&lt;/f4&gt;&lt;te6/&gt;&lt;f7&gt;Параметры автозамены...&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29639,8 +29663,16 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>Type at least one character, a space, one or two hyphens, another space, and at least one more letter.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180804T164700Z" creationid="olex" creationdate="20180804T164700Z">
-        <seg>Введите по крайней мере один символ, пробел, один или два дефиса, другое пространство и, хотя бы, еще одну букву.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T165348Z" creationid="olex" creationdate="20180804T164700Z">
+        <seg>Введите по крайней мере один символ, пробел, один или два дефиса, другой пробел и, хотя бы, еще одну букву.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type at least one character, two hyphens, and at least one more character.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T165238Z" creationid="olex" creationdate="20180804T165238Z">
+        <seg>Введите хотя бы один символ, два дефиса и, по крайней мере, еще один символ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34042,8 +34074,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>en-dash and em-dash</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180804T164300Z" creationid="olex" creationdate="20180804T164300Z">
-        <seg>черточка и тире</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T165057Z" creationid="olex" creationdate="20180804T164300Z">
+        <seg>черта и тире</seg>
       </tuv>
     </tu>
     <tu>
@@ -34322,8 +34354,16 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>is an &lt;i0/&gt;en-dash; that is, a dash the width of the letter “n” in the font you are using.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180804T164441Z" creationid="olex" creationdate="20180804T164441Z">
-        <seg>это &lt;i0/&gt; черточка; т. е. тире шириной как буква «n» в используемом шрифте.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T165211Z" creationid="olex" creationdate="20180804T164441Z">
+        <seg>это &lt;i0/&gt; черта; то есть тире шириной как буква «n» в используемом шрифте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is an em-dash; that is, a dash the width of the letter “m” in the font you are using.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T165224Z" creationid="olex" creationdate="20180804T165201Z">
+        <seg>это тире; то есть тире шириной как буква «m» в используемом шрифте.</seg>
       </tuv>
     </tu>
     <tu>
