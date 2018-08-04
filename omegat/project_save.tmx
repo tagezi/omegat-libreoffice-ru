@@ -512,6 +512,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;A&lt;/f0&gt;&lt;te1/&gt;dd a word to the dictionary&lt;ts2/&gt; &lt;f3&gt;by &lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;c&lt;/f7&gt;&lt;te8/&gt;lick&lt;ts9/&gt;&lt;f10&gt;ing&lt;/f10&gt;&lt;te11/&gt; &lt;f12&gt;Add to Dictionary&lt;/f12&gt; in the Spelling &lt;tc13/&gt;dialog or in the context menu.&lt;ts14/&gt; &lt;f15&gt;The word will be adde&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt;d to the Standard dictionary, unless you have created another &lt;/f18&gt;&lt;te19/&gt;&lt;ts20/&gt;&lt;f21&gt;dictionary in the same language.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T183034Z" creationid="olex" creationdate="20180804T183034Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;Добавить слово в словарь&lt;ts2/&gt; &lt;f3&gt; &lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;/f7&gt;&lt;te8/&gt;нажав&lt;ts9/&gt;&lt;f10&gt;&lt;/f10&gt;&lt;te11/&gt; &lt;f12&gt;Добавить в словарь&lt;/f12&gt; диалоговом окне Проверка орфографии &lt;tc13/&gt;или в контекстном меню.&lt;ts14/&gt; &lt;f15&gt;Слово будет добавлено&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt; в стандартный словарь, если только вы не создали другой &lt;/f18&gt;&lt;te19/&gt;&lt;ts20/&gt;&lt;f21&gt;словарь для этого языка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;About LibreOffice&lt;/f0&gt; &lt;f1&gt;Opens a dialog window &lt;/f1&gt;and displays information about the version of LibreOffice and the operating system you are using.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T184819Z" creationid="olex" creationdate="20180606T184819Z">
@@ -620,6 +628,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T171333Z" creationid="olex" creationdate="20180616T171333Z">
         <seg>&lt;f0&gt;По умолчанию в контекстных меню будет отображаться соответствующая команде комбинация клавиш, если она была установлена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;&lt;te1/&gt;hange &lt;i2/&gt;the dictionary language (for example, Spanish, French or German) &lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;in the S&lt;/f5&gt;&lt;te6/&gt;pelling&lt;tc7/&gt; dialog&lt;ts8/&gt; &lt;f9&gt;by selecting the appropriate language in the Text language drop&lt;/f9&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;-&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt;down&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt; list&lt;/f18&gt;&lt;te19/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T182602Z" creationid="olex" creationdate="20180804T182458Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;Изменить &lt;i2/&gt;язык словаря (например, на испанский, французский или немецкий) &lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;в диалоговом окне&lt;/f5&gt;&lt;te6/&gt;Проверка орфографии&lt;tc7/&gt;&lt;ts8/&gt; &lt;f9&gt;выбрав соответствующий язык в раскрывающемся списке Язык текста&lt;/f9&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt;&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt;&lt;/f18&gt;&lt;te19/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3814,6 +3830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add&lt;te0/&gt;&lt;ts1/&gt; a word to the dictionary</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T182545Z" creationid="olex" creationdate="20180804T182545Z">
+        <seg>Добавить&lt;te0/&gt;&lt;ts1/&gt; слово в словарь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding a custom watermark to the page background</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T153537Z" creationid="olex" creationdate="20180721T153537Z">
@@ -5736,6 +5760,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180320T192854Z" creationid="olex" creationdate="20180308T174607Z">
         <seg>Изменить стиль с помощью диалогового окна Стили</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change dictionary language</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T182118Z" creationid="olex" creationdate="20180804T182118Z">
+        <seg>Изменить язык словаря</seg>
       </tuv>
     </tu>
     <tu>
@@ -14858,6 +14890,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180314T182641Z" creationid="User" creationdate="20180314T182641Z">
         <seg>Если нужно часто вставлять формулы в документы, можно добавить значко Формула на Стандартную панель инструментов или создать сочетание клавиш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have created a new dictionary, you will be given a choice of dictionaries to add the word to.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T183107Z" creationid="olex" creationdate="20180804T183107Z">
+        <seg>Если вы создавали новый словарь, то вам будет предоставлен выбор словарей для добавления слова.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34076,6 +34116,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T194616Z" creationid="olex" creationdate="20180711T194616Z">
         <seg>словари, установка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dictionary</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T182122Z" creationid="olex" creationdate="20180804T182122Z">
+        <seg>словарь</seg>
       </tuv>
     </tu>
     <tu>
