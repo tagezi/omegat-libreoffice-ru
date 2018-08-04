@@ -16041,8 +16041,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>In&lt;te0/&gt;&lt;ts1/&gt;serting en and em dashes</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180804T163451Z" creationid="olex" creationdate="20180804T163427Z">
-        <seg>&lt;te0/&gt;&lt;ts1/&gt;Вставка дефисов и тире</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T164100Z" creationid="olex" creationdate="20180804T163427Z">
+        <seg>&lt;te0/&gt;&lt;ts1/&gt;Вставка черточек и тире</seg>
       </tuv>
     </tu>
     <tu>
@@ -27646,6 +27646,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This option replaces two hyphens, under certain conditions, with the corresponding dash.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T164150Z" creationid="olex" creationdate="20180804T164150Z">
+        <seg>Эта опция при определенных условиях заменяет два дефиса на соответствующее тире.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This paper  describes how to generate random numbers for several of the most common distribution functions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180404T214459Z" creationid="tagezi" creationdate="20180404T214459Z">
@@ -28509,6 +28517,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T180108Z" creationid="olex" creationdate="20180411T180108Z">
         <seg>Чтобы ввести отрицательное число, введите знак минуса (-) перед числом или укажите число в круглых скобках (), например (1234).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To enter en and &lt;i0/&gt;em dashes, you can use the &lt;f1&gt;Replace dashes&lt;/f1&gt; option on the Options tab under &lt;f2&gt;Tools &gt; &lt;/f2&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;f5&gt;AutoCorrect &gt;&lt;/f5&gt;&lt;/f4&gt;&lt;te6/&gt;&lt;f7&gt;AutoCorrect Options&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T164039Z" creationid="olex" creationdate="20180804T164039Z">
+        <seg>Чтобы ввести черточки и &lt;i0/&gt;тире, вы можете использовать опцию &lt;f1&gt;Заменять дефисы на тире&lt;/f1&gt; во вкладке Параметры в &lt;f2&gt;Сервис &gt; &lt;/f2&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;f5&gt;Автозамена &gt;&lt;/f5&gt;&lt;/f4&gt;&lt;te6/&gt;&lt;f7&gt;Параметры автозамены...&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29617,6 +29633,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T183207Z" creationid="olex" creationdate="20180411T183207Z">
         <seg>Вводите апостроф (') перед числом, например '01481.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type at least one character, a space, one or two hyphens, another space, and at least one more letter.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T164700Z" creationid="olex" creationdate="20180804T164700Z">
+        <seg>Введите по крайней мере один символ, пробел, один или два дефиса, другое пространство и, хотя бы, еще одну букву.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33818,8 +33842,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>dashes</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180804T163456Z" creationid="olex" creationdate="20180804T163445Z">
-        <seg>дефисы</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T164045Z" creationid="olex" creationdate="20180804T163445Z">
+        <seg>тире</seg>
       </tuv>
     </tu>
     <tu>
@@ -34012,6 +34036,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T183120Z" creationid="olex" creationdate="20180416T183120Z">
         <seg>редактирование данных, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en-dash and em-dash</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T164300Z" creationid="olex" creationdate="20180804T164300Z">
+        <seg>черточка и тире</seg>
       </tuv>
     </tu>
     <tu>
@@ -34284,6 +34316,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201440Z" creationid="Роман" creationdate="20180316T201440Z">
         <seg>int f(x) dx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is an &lt;i0/&gt;en-dash; that is, a dash the width of the letter “n” in the font you are using.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T164441Z" creationid="olex" creationdate="20180804T164441Z">
+        <seg>это &lt;i0/&gt; черточка; т. е. тире шириной как буква «n» в используемом шрифте.</seg>
       </tuv>
     </tu>
     <tu>
