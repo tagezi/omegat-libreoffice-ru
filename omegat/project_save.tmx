@@ -15591,6 +15591,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In cases where you do not want the hyphen to appear at the end of a line, for example in a number such as 123‑4567, you can press &lt;f0&gt;Shift+Ctrl+minus sign&lt;/f0&gt; to insert &lt;i1/&gt;a non-breaking hyphen.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T163228Z" creationid="olex" creationdate="20180804T163228Z">
+        <seg>В тех случаях, когда вы не хотите, чтобы в конце строки отображался дефис, например, в числе, таком как 123-4567, вы можете нажать &lt;f0&gt;Shift+Ctrl+знак минус&lt;/f0&gt;, чтобы вставить &lt;i1/&gt;неразрывный дефис.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In contrast, absolute addressing always starts from a root directory.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T175805Z" creationid="olex" creationdate="20180707T175711Z">
@@ -16027,6 +16035,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T165454Z" creationid="olex" creationdate="20180727T163536Z">
         <seg>В этом представлении вы можете использовать значки в &lt;ts10/&gt;Мультистраничный вид&lt;f11&gt; и ползунок &lt;/f11&gt;&lt;te12/&gt;Масштаб&lt;tc13/&gt;&lt;tc14/&gt;&lt;tc15/&gt;  на панели состояния чтобы изменить увеличение.&lt;ts16/&gt; &lt;f17&gt;Вы&lt;/f17&gt; можете установить эти параметры &lt;f18&gt;&lt;/f18&gt;&lt;f19&gt;, &lt;/f19&gt;выбрав в меню &lt;f20&gt;&lt;/f20&gt;&lt;f21&gt;Вид &gt; Масштаб &gt; Масштаб...&lt;/f21&gt; для отображения диалогового окна &lt;te22/&gt;&lt;i23/&gt;&lt;i24/&gt;&lt;ts25/&gt;Масщтаб и режимы просмотра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In&lt;te0/&gt;&lt;ts1/&gt;serting en and em dashes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T163451Z" creationid="olex" creationdate="20180804T163427Z">
+        <seg>&lt;te0/&gt;&lt;ts1/&gt;Вставка дефисов и тире</seg>
       </tuv>
     </tu>
     <tu>
@@ -27469,6 +27485,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This inserts a non-breaking space.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T162834Z" creationid="olex" creationdate="20180804T162834Z">
+        <seg>Так делают неразрывный пробел.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is extremely important for the growth of the LibreOffice ecosystem.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T052203Z" creationid="tagezi" creationdate="20180321T052203Z">
@@ -28901,6 +28925,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T185943Z" creationid="olex" creationdate="20180614T185943Z">
         <seg>Чтобы отменить загрузку Быстрого запуска при старте системы, выполните одно из следующих действий:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To prevent two words from being separated at the end of a line, press &lt;f0&gt;Ctrl+Shift&lt;/f0&gt; when you type the space between the two words.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T162854Z" creationid="olex" creationdate="20180804T162754Z">
+        <seg>Чтобы не разделять два слова в конце строки, нажмите &lt;f0&gt;Ctrl+Shift&lt;/f0&gt;, а затем введите пробел между двумя словами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33784,6 +33816,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dashes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T163456Z" creationid="olex" creationdate="20180804T163445Z">
+        <seg>дефисы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>data editing, Calc</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T183159Z" creationid="olex" creationdate="20180416T183159Z">
@@ -34476,6 +34516,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T195126Z" creationid="olex" creationdate="20180402T195126Z">
         <seg>перемещение по листам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>non-breaking hyphen</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T162954Z" creationid="olex" creationdate="20180804T162954Z">
+        <seg>неразрывный дефис</seg>
       </tuv>
     </tu>
     <tu>
