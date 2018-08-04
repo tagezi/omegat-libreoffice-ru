@@ -207,6 +207,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f25&gt;&lt;te26/&gt;&lt;tc27/&gt;&lt;ts28/&gt;&lt;f29&gt;.&lt;/f29&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T182042Z" creationid="olex" creationdate="20180804T182042Z">
+        <seg>&lt;/f25&gt;&lt;te26/&gt;&lt;tc27/&gt;&lt;ts28/&gt;&lt;f29&gt;&lt;/f29&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f3&gt;&lt;te4/&gt;From this point on, &lt;f5&gt;all changes you make to the document will occur only in the new document&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T175650Z" creationid="olex" creationdate="20180727T175650Z">
@@ -394,8 +402,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;When highlighted, t&lt;/f1&gt;&lt;/f0&gt;&lt;te2/&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;f5&gt;he &lt;/f5&gt;&lt;/f4&gt;&lt;te6/&gt;&lt;f7&gt;Automatic Spell Checking&lt;/f7&gt; &lt;ts8/&gt;&lt;f9&gt;option &lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt;&lt;ts12/&gt;&lt;f13&gt;on&lt;/f13&gt;&lt;te14/&gt; the Tools menu&lt;tc15/&gt; checks each word as it is typed and displays a wavy red line under any unrecognized words.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180804T180553Z" creationid="olex" creationdate="20180804T180553Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Когда активирована функция &lt;/f1&gt;&lt;/f0&gt;&lt;te2/&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;te6/&gt;&lt;f7&gt;Автопроверка орфографии&lt;/f7&gt; &lt;ts8/&gt;&lt;f9&gt; &lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt;&lt;ts12/&gt;&lt;f13&gt;в&lt;/f13&gt;&lt;te14/&gt; меню Сервис&lt;tc15/&gt; каждое слово проверяется при наборе текста и под любым неизвестным словом отображается красная волнистая линия.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T180728Z" creationid="olex" creationdate="20180804T180553Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Когда активирована функция &lt;/f1&gt;&lt;/f0&gt;&lt;te2/&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;te6/&gt;&lt;f7&gt;Автопроверка орфографии&lt;/f7&gt; &lt;ts8/&gt;&lt;f9&gt; &lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt;&lt;ts12/&gt;&lt;f13&gt;в&lt;/f13&gt;&lt;te14/&gt; меню Сервис&lt;tc15/&gt; каждое слово проверяется при наборе текста и под любым нераспознанным словом отображается красная волнистая линия.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3105,6 +3113,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T180044Z" creationid="olex" creationdate="20180804T180044Z">
         <seg>&lt;ts11/&gt;&lt;f12&gt;&lt;/f12&gt;&lt;te13/&gt;&lt;tc14/&gt;&lt;s15/&gt;Проверка грамматики&lt;ts16/&gt; &lt;te17/&gt;&lt;tc18/&gt;&lt;tc19/&gt;&lt;ts20/&gt;&lt;o21/&gt;&lt;te22/&gt;&lt;s23/&gt;в сочетании с проверкой орфографии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;ts18/&gt;&lt;f19&gt;To also &lt;/f19&gt;&lt;te20/&gt;&lt;ts21/&gt;&lt;f22&gt;identify potential grammar problems, check the &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;Check grammar&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt; box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T182028Z" creationid="olex" creationdate="20180804T182028Z">
+        <seg>&lt;ts18/&gt;&lt;f19&gt;Чтобы одновременно &lt;/f19&gt;&lt;te20/&gt;&lt;ts21/&gt;&lt;f22&gt;определять потенциальные проблемы с грамматикой, установите флажок &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;Проверить грамматику&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13430,6 +13446,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here are some more features of the spelling checker:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T182054Z" creationid="olex" creationdate="20180804T182054Z">
+        <seg>Вот еще несколько функций проверки орфографии:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here are some of the advantages of LibreOffice over other office suites:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T171941Z" creationid="olex" creationdate="20180611T171941Z">
@@ -14338,6 +14362,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T181710Z" creationid="olex" creationdate="20180330T181710Z">
         <seg>Если в электронной таблице не видны заголовки, то выберите в меню &lt;f1&gt;Вид &gt; Заголовки столбцов / строк&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the list does not contain the word you want, click &lt;f16&gt;Spelling &lt;/f16&gt;&lt;tc17/&gt;to open a dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T181015Z" creationid="olex" creationdate="20180804T181015Z">
+        <seg>Если список не содержит требуемого слова, то нажмите Проверка орфографии..., чтобы открыть диалоговое окно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21407,6 +21439,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T161936Z" creationid="olex" creationdate="20180409T161936Z">
         <seg>Щелкните правой кнопкой мыши на вкладке листа и выберите в контекстном меню &lt;f0&gt;Переименовать лист...&lt;/f0&gt;, чтобы изменить имя листа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-click on an unrecognized word to open a context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T180717Z" creationid="olex" creationdate="20180804T180717Z">
+        <seg>Щелкните правой кнопкой мыши по нераспознанному слову, чтобы открыть контекстное меню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29009,6 +29049,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To perform a combined spelling and grammar check on the document (or a text selection), click the &lt;ts0/&gt;&lt;f1&gt;Check &lt;/f1&gt;&lt;te2/&gt;&lt;f3&gt;Spelling&lt;/f3&gt;&lt;tc4/&gt;&lt;tc5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;f9&gt; bu&lt;/f9&gt;&lt;/f8&gt;&lt;te10/&gt;tton on the Standard toolbar, or choose &lt;f11&gt;Tools &gt; Spelling&lt;/f11&gt;&lt;tc12/&gt;&lt;tc13/&gt;&lt;ts14/&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;te16/&gt; This checks the document or selection and opens the Spelling &lt;tc17/&gt;dialog if any unrecognized words are found.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T181813Z" creationid="olex" creationdate="20180804T181813Z">
+        <seg>Чтобы выполнить комбинированную проверку орфографии и грамматики документа (или выбранного текста), нажмите кнопку &lt;ts0/&gt;&lt;f1&gt;Проверить &lt;/f1&gt;&lt;te2/&gt;&lt;f3&gt;орфографию&lt;/f3&gt;&lt;tc4/&gt;&lt;tc5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;te10/&gt; на панели инструментов Стандартная, или выберите &lt;f11&gt;Сервис &gt; Проверка орфографии...&lt;/f11&gt;&lt;tc12/&gt;&lt;tc13/&gt;&lt;ts14/&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;te16/&gt; При этом запустится проверка документа или выбранного текста и, если будут найдены нераспознанные слова, то откроется диалоговое окно Проверка орфографии&lt;tc17/&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To preserve leading zeros in a number:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T183114Z" creationid="olex" creationdate="20180411T183114Z">
@@ -31507,6 +31555,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the word is corrected, the line disappears.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T181034Z" creationid="olex" creationdate="20180804T181034Z">
+        <seg>Когда слово исправлено, то линия исчезает.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When this mode is active, a right-click anywhere in the document undoes the last Fill Format action.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T165829Z" creationid="olex" creationdate="20180308T165020Z">
@@ -32587,6 +32643,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180319T201705Z" creationid="olex" creationdate="20180307T210424Z">
         <seg>Вы можете выбрать Все стили или другие группы стилей, например только Стили пользователя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can click on one of the suggested words to replace the underlined word with the one selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T180854Z" creationid="olex" creationdate="20180804T180854Z">
+        <seg>Вы можете выбрать одно из предложенных слов, чтобы заменить подчеркнутое слово на выбранное.</seg>
       </tuv>
     </tu>
     <tu>
