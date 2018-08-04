@@ -392,6 +392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;When highlighted, t&lt;/f1&gt;&lt;/f0&gt;&lt;te2/&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;f5&gt;he &lt;/f5&gt;&lt;/f4&gt;&lt;te6/&gt;&lt;f7&gt;Automatic Spell Checking&lt;/f7&gt; &lt;ts8/&gt;&lt;f9&gt;option &lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt;&lt;ts12/&gt;&lt;f13&gt;on&lt;/f13&gt;&lt;te14/&gt; the Tools menu&lt;tc15/&gt; checks each word as it is typed and displays a wavy red line under any unrecognized words.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T180553Z" creationid="olex" creationdate="20180804T180553Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Когда активирована функция &lt;/f1&gt;&lt;/f0&gt;&lt;te2/&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;te6/&gt;&lt;f7&gt;Автопроверка орфографии&lt;/f7&gt; &lt;ts8/&gt;&lt;f9&gt; &lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt;&lt;ts12/&gt;&lt;f13&gt;в&lt;/f13&gt;&lt;te14/&gt; меню Сервис&lt;tc15/&gt; каждое слово проверяется при наборе текста и под любым неизвестным словом отображается красная волнистая линия.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Wrap&lt;/f1&gt;&lt;/f0&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;f4&gt;:&lt;/f4&gt; &lt;ts5/&gt;&lt;s6/&gt;&lt;te7/&gt;&lt;ts8/&gt;&lt;f9&gt;Modify &lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt;&lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;wrap and spacing&lt;/f14&gt;&lt;te15/&gt;&lt;ts16/&gt;&lt;f17&gt;.&lt;/f17&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T173643Z" creationid="olex" creationdate="20180723T173643Z">
@@ -2637,6 +2645,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s2/&gt;&lt;f3&gt;The &lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;spelling checker&lt;tc6/&gt; &lt;ts7/&gt;&lt;f8&gt;determines &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;if each word in the document is in the installed dictionary.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T175946Z" creationid="olex" creationdate="20180804T175946Z">
+        <seg>&lt;s2/&gt;&lt;f3&gt;&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;Проверка орфографии&lt;tc6/&gt; &lt;ts7/&gt;&lt;f8&gt;определяет &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;находится ли каждое слово в документе в установленном словаре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s2/&gt;Although the programming languages are the same, the objects and methods are different and therefore not entirely compatible.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180515T174603Z" creationid="olex" creationdate="20180327T185152Z">
@@ -3081,6 +3097,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T171442Z" creationid="olex" creationdate="20180802T171442Z">
         <seg>&lt;ts11/&gt;&lt;f12&gt;&lt;/f12&gt;Чтобы открыть диалоговое окно Найти и заменить, &lt;te13/&gt;&lt;tc14/&gt;&lt;ts15/&gt;&lt;f16&gt;&lt;/f16&gt;&lt;te17/&gt;выберите кнопку&lt;ts18/&gt; (&lt;df19&gt;&lt;di20/&gt;&lt;/df19&gt;) &lt;te21/&gt;&lt;s22/&gt;справа от Учитывать регистр&lt;tc23/&gt;&lt;tc24/&gt;&lt;tc25/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;ts11/&gt;&lt;f12&gt;The &lt;/f12&gt;&lt;te13/&gt;&lt;tc14/&gt;&lt;s15/&gt;grammar checker&lt;ts16/&gt; &lt;te17/&gt;&lt;tc18/&gt;&lt;tc19/&gt;&lt;ts20/&gt;&lt;o21/&gt;&lt;te22/&gt;&lt;s23/&gt;in combination with the spelling checker.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T180044Z" creationid="olex" creationdate="20180804T180044Z">
+        <seg>&lt;ts11/&gt;&lt;f12&gt;&lt;/f12&gt;&lt;te13/&gt;&lt;tc14/&gt;&lt;s15/&gt;Проверка грамматики&lt;ts16/&gt; &lt;te17/&gt;&lt;tc18/&gt;&lt;tc19/&gt;&lt;ts20/&gt;&lt;o21/&gt;&lt;te22/&gt;&lt;s23/&gt;в сочетании с проверкой орфографии.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5332,6 +5356,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, four dictionaries are installed &lt;f0&gt;for each language&lt;/f0&gt;: a spelling checker, a grammar checker, a hyphenation dictionary, and a thesaurus &lt;f1&gt;(assuming it is available for that language)&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T175804Z" creationid="olex" creationdate="20180804T175804Z">
+        <seg>По умолчанию &lt;f0&gt;для каждого языка&lt;/f0&gt; установлено четыре словаря: проверка орфографии, средство проверки грамматики, словарь переносов и тезаурус &lt;f1&gt;(при условии, что он доступен для этого языка)&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, numbers are right aligned in a cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180524T182739Z" creationid="olex" creationdate="20180409T174053Z">
@@ -6000,6 +6032,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T105800Z" creationid="olex" creationdate="20180721T105800Z">
         <seg>Автоматическая проверка орфографии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checking spelling&lt;te0/&gt;&lt;ts1/&gt; &lt;f2&gt;automatically&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180804T180121Z" creationid="olex" creationdate="20180804T180121Z">
+        <seg>Проверка орфографии&lt;te0/&gt;&lt;ts1/&gt; &lt;f2&gt;автоматически&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
