@@ -2018,6 +2018,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;The t&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;hesaurus and synonyms are writing aids provided by language communities.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T184615Z" creationid="olex" creationdate="20180805T184615Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;Тезаурус и синонимы - это справочные материалы, предоставляемые языковыми сообществами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;This creates a sepa&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;rate document with a different file extension (such as .DOCX).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T175534Z" creationid="olex" creationdate="20180727T175534Z">
@@ -2673,6 +2681,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180530T172750Z" creationid="olex" creationdate="20180506T185557Z">
         <seg>&lt;s0/&gt;Вы можете запустить Мастер функций, нажав значок Мастер функций справа от поля &lt;f1&gt;Область листа&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;A submenu of alternative words and phrases is displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T184253Z" creationid="olex" creationdate="20180805T184253Z">
+        <seg>&lt;s1/&gt;Отобразится подменю альтернативных слов и фраз.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6856,6 +6872,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T164409Z" creationid="olex" creationdate="20180409T164409Z">
         <seg>Выделите ячейку, которая находится под строками, которые вы хотите зафиксировать, и справа от столбцов, которые вы хотите зафиксировать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on a word or phrase in the submenu to have it replace the highlighted word or phrase in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T184320Z" creationid="olex" creationdate="20180805T184320Z">
+        <seg>Нажмите на слово или фразу в подменю, чтобы заменить выделенное слово или фразу в документе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12004,6 +12028,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, “hte” will be changed to “the”.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T185110Z" creationid="olex" creationdate="20180805T185110Z">
+        <seg>Например, «hte» будет изменено на «the».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example&lt;/f37&gt;&lt;te38/&gt;&lt;ts39/&gt;&lt;f40&gt;, to search for&lt;/f40&gt;&lt;te41/&gt;&lt;ts42/&gt;&lt;f43&gt; something inside the document headings, select the&lt;/f43&gt;&lt;te44/&gt;&lt;ts45/&gt;&lt;f46&gt; &lt;/f46&gt;&lt;f47&gt;Headings&lt;/f47&gt;&lt;f48&gt; entry in the menu&lt;/f48&gt;&lt;te49/&gt;&lt;ts50/&gt;&lt;f51&gt;.&lt;/f51&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T172016Z" creationid="olex" creationdate="20180802T172016Z">
@@ -14430,6 +14462,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the current language does not have a thesaurus installed, this feature is disabled.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T184506Z" creationid="olex" creationdate="20180805T184506Z">
+        <seg>Если в текущем языке не установлен тезаурус, то эта функция будет отключена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the cursor is not in a subroutine or function, a dialog will open; select the macro to run.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T133341Z" creationid="tagezi" creationdate="20180312T133341Z">
@@ -14562,6 +14602,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T183016Z" creationid="olex" creationdate="20180329T183016Z">
         <seg>Если выше выбранной ячейки нет чисел, то складываться будут числа из ячеек левее выбранной.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If these aids are not available for your language, consider joining the LibreOffice project to help your language community &lt;ts3/&gt;&lt;f4&gt;develop them&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T184723Z" creationid="olex" creationdate="20180805T184723Z">
+        <seg>Если эти средства недоступны для вашего языка, подумайте о присоединении к проекту LibreOffice, чтобы помочь вашему языковому сообществу &lt;ts3/&gt;&lt;f4&gt;их развивать&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16195,6 +16243,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T185636Z" creationid="olex" creationdate="20180311T185300Z">
         <seg>В последнем разделе мастера можно указать имя шаблона, которое будет отображаться в диалоговом окне Шаблоны, а также имя и место расположения для сохранения шаблона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the motorcycle example, the word could be cyclist.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T183755Z" creationid="olex" creationdate="20180805T183755Z">
+        <seg>В примере со словом мотоцикл это может быть слово мотоциклист.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21972,6 +22028,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See &lt;tc0/&gt;the &lt;f1&gt;Writer Guide&lt;/f1&gt; for &lt;ts2/&gt;&lt;f3&gt;more information about &lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;the spelling and grammar checking &lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;options.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T183912Z" creationid="olex" creationdate="20180805T183912Z">
+        <seg>Смотрите &lt;tc0/&gt;&lt;f1&gt;Руководство по Writer&lt;/f1&gt; для &lt;ts2/&gt;&lt;f3&gt;получения дополнительной информации про &lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;параметры проверки орфографии и грамматики&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Appendix A, Commands Reference, in the &lt;f0&gt;Math Guide&lt;/f0&gt; for a list of Greek characters that can be entered using markup language.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T202525Z" creationid="Роман" creationdate="20180316T202525Z">
@@ -27025,6 +27089,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The thesaurus gives a more extensive list of alternative words and phrases.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T184353Z" creationid="olex" creationdate="20180805T184353Z">
+        <seg>Тезаурус дает более обширный список альтернативных слов и фраз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The time format automatically changes to the selected format used by Calc.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T191359Z" creationid="olex" creationdate="20180412T191359Z">
@@ -28132,6 +28204,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T110311Z" creationid="olex" creationdate="20180715T110311Z">
         <seg>Для доступа в Безопасный режим:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access a short list of synonyms, right-click on a word and point to &lt;f0&gt;Synonyms&lt;/f0&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T184109Z" creationid="olex" creationdate="20180805T184109Z">
+        <seg>Чтобы получить доступ к краткому списку синонимов, щелкните правой кнопкой мыши по слову и выберите в контекстном меню &lt;f0&gt;Синонимы&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29760,6 +29840,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T181946Z" creationid="olex" creationdate="20180731T181946Z">
         <seg>Чтобы использовать панель Найти, щелкните по ней и введите текст для поиска, затем нажмите &lt;f0&gt;Enter&lt;/f0&gt;, чтобы найти следующее вхождение этого термина&lt;tc1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To use the thesaurus, click on &lt;f0&gt;Thesaurus&lt;/f0&gt; from the Synonyms submenu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T184438Z" creationid="olex" creationdate="20180805T184438Z">
+        <seg>Чтобы использовать тезаурус, выберите &lt;f0&gt;Тезаурус&lt;/f0&gt; в подменю Синонимы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32369,6 +32457,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181831Z" creationid="tagezi" creationdate="20180304T181831Z">
         <seg>Writer/Web может сохранять в следующие форматы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writer’s AutoCorrect function has a long list of common misspellings and typing errors, which it corrects automatically.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T184914Z" creationid="olex" creationdate="20180805T184914Z">
+        <seg>Функция автозамены Writer имеет длинный список распространенных ошибок правописания и ошибок ввода, которые она исправляет автоматически.</seg>
       </tuv>
     </tu>
     <tu>
