@@ -5042,6 +5042,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AutoCorrect is turned on &lt;ts0/&gt;&lt;f1&gt;by default&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T185156Z" creationid="olex" creationdate="20180805T185156Z">
+        <seg>Автозамена включена &lt;ts0/&gt;&lt;f1&gt;по умолчанию&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AutoFill tries to complete a value series by using a defined pattern.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T143451Z" creationid="olex" creationdate="20180414T143451Z">
@@ -6272,6 +6280,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T175649Z" creationid="olex" creationdate="20180802T175649Z">
         <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Специальные символы...&lt;/f0&gt; &lt;tc1/&gt;&lt;s2/&gt;чтобы открыть диалоговое окно Выбор символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose &lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f0&gt; to open the AutoCorrect dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T185526Z" creationid="olex" creationdate="20180805T185526Z">
+        <seg>Выберите &lt;f0&gt;Сервис &gt; Автозамена &gt; Параметры автозамены...&lt;/f0&gt; чтобы открыть диалоговое окно Автозамена.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15903,6 +15919,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In most cases, the defaults are fine.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T185643Z" creationid="olex" creationdate="20180805T185643Z">
+        <seg>В большинстве случаев значения по умолчанию хороши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In most cases, you can interact only with the dialog (not the document itself) as long as the dialog remains open.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T153005Z" creationid="tagezi" creationdate="20180310T153005Z">
@@ -16668,6 +16692,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T082828Z" creationid="tagezi" creationdate="20180306T082828Z">
         <seg>Она также касается некоторого общего функционала для всех модулей, включая установку и настройку, стили и шаблоны, запись макросов и печать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also includes codes for inserting special characters, emoji, and other symbols.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T185131Z" creationid="olex" creationdate="20180805T185131Z">
+        <seg>Он также содержит коды для вставки специальных символов, смайлов и других символов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19845,6 +19877,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T181320Z" creationid="olex" creationdate="20180619T181320Z">
         <seg>В диалоговом окне Файлы на сервере (Рисунок &lt;t0&gt;13&lt;/t0&gt;) нажмите кнопку &lt;f1&gt;Добавить службу&lt;/f1&gt; в правом верхнем углу, чтобы открыть диалоговое окно Файловые службы (Рисунок &lt;t2&gt;12&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Replace tab, you can define which strings of text are corrected and how.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T185610Z" creationid="olex" creationdate="20180805T185610Z">
+        <seg>Во вкладке Заменить вы можете определить, какие строки текста будут исправлены и как.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29716,6 +29756,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To stop Writer replacing a specific spelling, go to the&lt;f0&gt; Replace&lt;/f0&gt; tab, highlight the word pair, and click &lt;f1&gt;Delete&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T185946Z" creationid="olex" creationdate="20180805T185946Z">
+        <seg>Чтобы остановить в Writer замену определенного написания, перейдите на вкладку &lt;f0&gt;Заменить&lt;/f0&gt;, подсветите необходимую пару слов и нажмите &lt;f1&gt;Удалить&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To temporarily close Quickstarter on a computer using a Windows operating system, right-click on the &lt;f0&gt;Quickstarter&lt;/f0&gt; icon in the system tray and select &lt;f1&gt;Exit Quickstarter&lt;/f1&gt; in the pop-up menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T191516Z" creationid="olex" creationdate="20180614T185731Z">
@@ -32533,6 +32581,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can add your own corrections or special characters or change those supplied with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T185330Z" creationid="olex" creationdate="20180805T185330Z">
+        <seg>Вы можете добавить свои собственные исправления или специальные символы, или изменить те, которые поставляются с LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can add your own special characters.AutoCorrect can be used as a quick way to &lt;i4164/&gt;insert special characters.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T095953Z" creationid="olex" creationdate="20180721T095953Z">
@@ -33773,6 +33829,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T182610Z" creationid="olex" creationdate="20180621T182610Z">
         <seg>Вы можете отказаться от всех изменений, внесенных в сеансе редактирования после последнего сохранения документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may wish to disable some of its features, modify others, or turn it off completely.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T185231Z" creationid="olex" creationdate="20180805T185231Z">
+        <seg>Вы можете отключить некоторые из ее функций, изменить другие или полностью отключить ее.</seg>
       </tuv>
     </tu>
     <tu>
