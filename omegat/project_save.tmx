@@ -632,6 +632,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;hoose whether to check uppercase words &lt;f3&gt;or &lt;/f3&gt;words &lt;f4&gt;that contain&lt;/f4&gt; numbers,&lt;te5/&gt;&lt;ts6/&gt; &lt;f7&gt;by&lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt; &lt;te10/&gt;&lt;tc11/&gt;&lt;ts12/&gt;&lt;f13&gt;c&lt;/f13&gt;&lt;te14/&gt;lick&lt;ts15/&gt;&lt;f16&gt;ing&lt;/f16&gt;&lt;te17/&gt; the &lt;f18&gt;Options&lt;/f18&gt; button on the Spelling and Grammar dialog to open a&lt;ts19/&gt; &lt;f20&gt;Writing Aids &lt;/f20&gt;&lt;te21/&gt;&lt;s22/&gt;dialog similar to the one in &lt;f23&gt;Tools &gt; Options &gt; Language Settings &gt; Writing Aids&lt;/f23&gt;&lt;tc24/&gt;&lt;ts25/&gt;,&lt;te26/&gt;&lt;ts27/&gt; &lt;te28/&gt;described in Chapter 2.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T175617Z" creationid="olex" creationdate="20180805T175617Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;Выберите, следует ли проверять слова в верхнем регистре &lt;f3&gt;или &lt;/f3&gt;слова&lt;f4&gt;, содержащие&lt;/f4&gt;  цифры,&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt; &lt;te10/&gt;&lt;tc11/&gt;&lt;ts12/&gt;&lt;f13&gt;&lt;/f13&gt;&lt;te14/&gt;нажав&lt;ts15/&gt;&lt;f16&gt;&lt;/f16&gt;&lt;te17/&gt; кнопку &lt;f18&gt;Параметры&lt;/f18&gt; в диалоговом окне «Правописание и грамматика», чтобы открыть диалоговое окно&lt;ts19/&gt; &lt;f20&gt;Лингвистика &lt;/f20&gt;&lt;te21/&gt;&lt;s22/&gt; аналогичное диалоговому окну &lt;f23&gt;Сервис &gt; Параметры &gt; Настройки языка &gt; Лингвистика&lt;/f23&gt;&lt;tc24/&gt;&lt;ts25/&gt;,&lt;te26/&gt;&lt;ts27/&gt; &lt;te28/&gt;, описанному в Главе 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;C&lt;/f0&gt;&lt;te1/&gt;hange &lt;i2/&gt;the dictionary language (for example, Spanish, French or German) &lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;in the S&lt;/f5&gt;&lt;te6/&gt;pelling&lt;tc7/&gt; dialog&lt;ts8/&gt; &lt;f9&gt;by selecting the appropriate language in the Text language drop&lt;/f9&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;-&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt;down&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt; list&lt;/f18&gt;&lt;te19/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T182602Z" creationid="olex" creationdate="20180804T182458Z">
@@ -6192,6 +6200,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T153344Z" creationid="olex" creationdate="20180623T153344Z">
         <seg>Выбор параметров орфографии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose text for spell checking</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T174513Z" creationid="olex" creationdate="20180805T174513Z">
+        <seg>Выбрать текст для проверки орфографии</seg>
       </tuv>
     </tu>
     <tu>
