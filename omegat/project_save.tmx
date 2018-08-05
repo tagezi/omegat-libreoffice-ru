@@ -640,6 +640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;reate, edit, or delete dictionaries an&lt;te3/&gt;&lt;ts4/&gt;d edit words in the dictionary in the same &lt;f5&gt;Writing Aids &lt;/f5&gt;dialog&lt;te6/&gt;&lt;ts7/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T175906Z" creationid="olex" creationdate="20180805T175704Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;Создавайте, редактируйте или удаляйте словари и&lt;te3/&gt;&lt;ts4/&gt;редактируйте слова в словаре в том же диалоговом окне &lt;f5&gt;Лингвистика&lt;/f5&gt;&lt;te6/&gt;&lt;ts7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;C&lt;/f0&gt;&lt;te1/&gt;hange &lt;i2/&gt;the dictionary language (for example, Spanish, French or German) &lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;in the S&lt;/f5&gt;&lt;te6/&gt;pelling&lt;tc7/&gt; dialog&lt;ts8/&gt; &lt;f9&gt;by selecting the appropriate language in the Text language drop&lt;/f9&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;-&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt;down&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt; list&lt;/f18&gt;&lt;te19/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T182602Z" creationid="olex" creationdate="20180804T182458Z">
@@ -1337,6 +1345,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;M&lt;/f0&gt;anage custom dictionaries</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T175712Z" creationid="olex" creationdate="20180805T175651Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;Управлять пользовательскими словарями</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Mac OS X&lt;/f0&gt; 10.8 (Mountain Lion) or higher</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T175418Z" creationid="olex" creationdate="20180611T175418Z">
@@ -1681,6 +1697,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;elect additional grammar checking rules through &lt;f3&gt;Tools &gt; Options &gt; Language Settings &gt; English sentence checking&lt;/f3&gt;, or through &lt;f4&gt;Tools &gt; Extension Manager &gt; English spelling dictionaries &gt; Options&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T181949Z" creationid="olex" creationdate="20180805T181949Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;Выберите дополнительные правила проверки грамматики с помощью &lt;f3&gt;Сервис &gt; Параметры &gt; Настройки языка &gt; Английское предложение, проверяющее&lt;/f3&gt;, или в &lt;f4&gt;Сервис &gt; Управление расширениями &gt; Английские словари &gt; Параметры&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;S&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;et the language for the whole document, for individual paragraphs, or even for individual words and characters, from &lt;f3&gt;Tools &gt; Language&lt;/f3&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T172349Z" creationid="olex" creationdate="20180730T172349Z">
@@ -1693,6 +1717,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T175108Z" creationid="olex" creationdate="20180730T175108Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;Выбор, копирование, вставка &lt;ts2/&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;или &lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt;перемещение&lt;ts8/&gt; &lt;f9&gt;текста&lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt; в Writer аналогичен работе с текстом в &lt;tc12/&gt;других программах&lt;ts13/&gt;&lt;f14&gt;&lt;/f14&gt;&lt;te15/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;&lt;te1/&gt;et paragraphs to be checked in a &lt;tc2/&gt;language (different from the rest of the document) using several methods&lt;tc3/&gt;&lt;ts4/&gt;—&lt;te5/&gt;for example&lt;ts6/&gt;,&lt;te7/&gt; by clicking on the Text Language field on the Status Bar&lt;ts8/&gt; &lt;f9&gt;or by creating &lt;/f9&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;paragraph styles for specific languages&lt;/f12&gt;&lt;te13/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T180326Z" creationid="olex" creationdate="20180805T180326Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;Установите абзацы, которые будут проверяться на &lt;tc2/&gt;языке (отличном от остальной части документа), используя несколько методов &lt;tc3/&gt;&lt;ts4/&gt;—&lt;te5/&gt; например,&lt;ts6/&gt;,&lt;te7/&gt; щелкнув поле Язык текста в строке состояния&lt;ts8/&gt; &lt;f9&gt;или создав &lt;/f9&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;стили абзаца для определенных языков&lt;/f12&gt;&lt;te13/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22148,6 +22180,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See&lt;ts14/&gt; “&lt;f15&gt;Using built-in language tools&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt;” on Page &lt;/f18&gt;&lt;te19/&gt;&lt;ts20/&gt;&lt;f21&gt;&lt;bf22&gt;14&lt;/bf22&gt;&lt;/f21&gt;&lt;te23/&gt;&lt;s24/&gt;&lt;tc25/&gt;&lt;ts26/&gt;&lt;f27&gt;or &lt;/f27&gt;&lt;te28/&gt;&lt;ts29/&gt;&lt;f30&gt;refer to &lt;/f30&gt;&lt;te31/&gt;the &lt;f32&gt;Writer Guide&lt;/f32&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T180602Z" creationid="olex" creationdate="20180805T180602Z">
+        <seg>Смотрите &lt;ts14/&gt; “&lt;f15&gt;Использование встроенных языковых инструментов&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt;” на странице &lt;/f18&gt;&lt;te19/&gt;&lt;ts20/&gt;&lt;f21&gt;&lt;bf22&gt;14&lt;/bf22&gt;&lt;/f21&gt;&lt;te23/&gt;&lt;s24/&gt;&lt;tc25/&gt;&lt;ts26/&gt;&lt;f27&gt;или &lt;/f27&gt;&lt;te28/&gt;&lt;ts29/&gt;&lt;f30&gt;обратитесь к &lt;/f30&gt;&lt;te31/&gt;&lt;f32&gt;Руководству по Writer&lt;/f32&gt; для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Column Break&lt;/f0&gt; to create a page break to the left of the selected cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T184617Z" creationid="olex" creationdate="20180508T184617Z">
@@ -23342,6 +23382,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set additional grammar checking rules</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T180638Z" creationid="olex" creationdate="20180805T180638Z">
+        <seg>Установить дополнительные правила проверки грамматики</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set the &lt;f0&gt;Leading zeroes&lt;/f0&gt; value box to &lt;f1&gt;4&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T182841Z" creationid="olex" creationdate="20180411T182841Z">
@@ -23980,6 +24028,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T171854Z" creationid="olex" creationdate="20180627T171854Z">
         <seg>Указывает, как будет позиционироваться указатель мыши во вновь открытых диалоговых окнах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify language for specific paragraphs</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T175924Z" creationid="olex" creationdate="20180805T175924Z">
+        <seg>Указать язык для определенных абзацев</seg>
       </tuv>
     </tu>
     <tu>
