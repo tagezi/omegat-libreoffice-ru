@@ -2050,6 +2050,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;To use the Grammar by feature, first create a new dictionary in the Options window of the Spelling dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T183009Z" creationid="olex" creationdate="20180805T183009Z">
+        <seg>&lt;f0&gt; Чтобы использовать функцию Грамматика, сначала создайте новый словарь в диалоговом окне Параметры диалогового окна Проверка орфографии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;To&lt;/f0&gt;&lt;te1/&gt; delete&lt;ts2/&gt; &lt;f3&gt;a&lt;/f3&gt;&lt;te4/&gt; template&lt;tc5/&gt;:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T194713Z" creationid="olex" creationdate="20180719T194713Z">
@@ -2673,6 +2681,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T171818Z" creationid="olex" creationdate="20180616T171818Z">
         <seg>&lt;s1/&gt;Если вы хотите, то можете включить или отключить эту видимость в &lt;/f0&gt;&lt;f2&gt; Сервис &gt; Параметры &gt; Вид &gt; Меню&lt;/f2&gt; &lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;Select the dictionary and click &lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Edit&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T183109Z" creationid="olex" creationdate="20180805T183109Z">
+        <seg>&lt;s1/&gt;Выберите словарь и нажмите &lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Правка&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3577,6 +3593,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T200142Z" creationid="olex" creationdate="20180313T200142Z">
         <seg>Откроется новый документ, содержащий текст или графику, которые были в шаблоне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A new feature in LibreOffice 6.0 is &lt;te0/&gt;&lt;ts1/&gt;“&lt;f2&gt;Grammar by”&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt; &lt;/f5&gt;&lt;te6/&gt;&lt;ts7/&gt;&lt;f8&gt;spelling checking.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T182249Z" creationid="olex" creationdate="20180805T182249Z">
+        <seg>Новая функция в LibreOffice 6.0 - &lt;te0/&gt;&lt;ts1/&gt;&lt;f2&gt;Проверка грамматики с орфографией&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt; &lt;/f5&gt;&lt;te6/&gt;&lt;ts7/&gt;&lt;f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4814,6 +4838,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T115657Z" creationid="tagezi" creationdate="20180313T115657Z">
         <seg>Например, введите свое имя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As an example, variations of the word “motorcycle”&lt;/f8&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;—&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt;motorcycles, motorcycled, motorcycling, motorc&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt;yclist, etc.— &lt;/f18&gt;&lt;te19/&gt;&lt;ts20/&gt;&lt;f21&gt;would all be accepted, without having to enter each of them individually.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T182908Z" creationid="olex" creationdate="20180805T182413Z">
+        <seg>Например, вариации слова «мотоцикл» &lt;/f8&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;—&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt; мотоциклы, мотоциклов, мотоциклист&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt;и т.д. — &lt;/f18&gt;&lt;te19/&gt;&lt;ts20/&gt;&lt;f21&gt;будут приняты, без необходимости вводить каждое из них по отдельности..</seg>
       </tuv>
     </tu>
     <tu>
@@ -16680,6 +16712,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It enables the dictionary to recognize different forms of the same word.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T182259Z" creationid="olex" creationdate="20180805T182259Z">
+        <seg>Это позволяет словарю распознавать разные формы одного и того же слова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It includes over 300 functions for financial, statistical, and mathematical operations, among others.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T201556Z" creationid="olex" creationdate="20180607T201556Z">
@@ -16780,6 +16820,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T074619Z" creationid="lera" creationdate="20180303T163230Z">
         <seg>Это программное обеспечение с открытым исходным кодом и, следовательно, свободно загружаться, использоваться и распространятся.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is particularly helpful for new words or specialized &lt;s9/&gt;words that are unlikely to have all variations in the dictionary.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T182407Z" creationid="olex" creationdate="20180805T182407Z">
+        <seg>Это особенно полезно для новых слов или для специализированных слов &lt;s9/&gt;, которые вряд ли будут иметь все вариации в словаре.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27089,6 +27137,15 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
     </tu>
     <tu>
+      <note>совсем не уверен в правильности перевода и даже в том - правильно ли я понял смысл</note>
+      <tuv lang="EN-US">
+        <seg>Then enter the base word in the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Word&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; field and enter a word in the &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Grammar by&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; field that that has the same variations as the base word.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T183651Z" creationid="olex" creationdate="20180805T183651Z">
+        <seg>Затем введите базовое слово в поле &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Слово&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; и введите слово в поле  &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Грамматика&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; которое является вариантом написания базового слова.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Then select &lt;f0&gt;Unformatted text&lt;/f0&gt; from the resulting menu.&lt;ts1/&gt; &lt;f2&gt;Unformatted text can also be pasted with &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Shift+Ct&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;f8&gt;rl+Alt+V.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
@@ -35756,6 +35813,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T061944Z" creationid="tagezi" creationdate="20180305T054200Z">
         <seg>"...облегчить эволюцию сообщества OpenOffice.org в новую открытую, независимую и меритократическую организационную структуру в течение ближайших нескольких месяцев.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Grammar by” spell checking</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T182100Z" creationid="olex" creationdate="20180805T182100Z">
+        <seg>Проверять грамматика с орфографией</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
