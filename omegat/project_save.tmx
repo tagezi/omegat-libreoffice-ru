@@ -11845,6 +11845,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, type &lt;f0&gt;:smiling:&lt;/f0&gt; and AutoCorrect will replace it &lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;with&lt;/f3&gt;&lt;te4/&gt; ☺.&lt;ts5/&gt; &lt;f6&gt;Or&lt;/f6&gt;, (c) will be changed to ©.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T190726Z" creationid="olex" creationdate="20180805T190726Z">
+        <seg>Например, введите &lt;f0&gt;:smiling:&lt;/f0&gt; и Автозамена поменяет его &lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;на&lt;/f3&gt;&lt;te4/&gt; ☺.&lt;ts5/&gt; &lt;f6&gt;Или&lt;/f6&gt;, (c) будет заменено на ©.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, typing %LAMBDA creates the Greek character Λ.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T203320Z" creationid="Роман" creationdate="20180316T203320Z">
@@ -17546,6 +17554,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice has an extensive list of special characters accessible with AutoCorrect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T190538Z" creationid="olex" creationdate="20180805T190538Z">
+        <seg>LibreOffice имеет обширный список специальных символов, доступных с помощью Автозамены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice has been translated (localized) into over 40 languages, so your language probably is supported.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T160422Z" creationid="tagezi" creationdate="20180310T160422Z">
@@ -22232,6 +22248,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180632Z" creationid="olex" creationdate="20180308T180632Z">
         <seg>Смотрите главы про стили в руководстве пользователя для детальной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the different tabs of the dialog for the wide variety of other options available to fine-tune AutoCorrect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T190407Z" creationid="olex" creationdate="20180805T190407Z">
+        <seg>Просмотрите другие вкладки диалогового окна для изучения широкого спектра других параметров, доступных для точной настройки Автозамены.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28311,6 +28335,14 @@ LG:DONE</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To add a new spelling to the list, type it into the &lt;f2&gt;Replace&lt;/f2&gt; and &lt;f3&gt;With&lt;/f3&gt; boxes on the Replace tab, and click &lt;f4&gt;New&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T190314Z" creationid="olex" creationdate="20180805T190044Z">
+        <seg>Чтобы добавить новую запись в список, введите ее в поля &lt;f2&gt;Заменять&lt;/f2&gt; и &lt;f3&gt;На&lt;/f3&gt; на вкладке Заменить, и нажмите &lt;f4&gt;Создать&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: не нашел что имелрсь ввиду Формат &gt; Стили нет такого в меню</note>
       <tuv lang="EN-US">
         <seg>To add default styles for a cell or a group of cells, click Format &gt; Styles.</seg>
@@ -29758,8 +29790,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>To stop Writer replacing a specific spelling, go to the&lt;f0&gt; Replace&lt;/f0&gt; tab, highlight the word pair, and click &lt;f1&gt;Delete&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180805T185946Z" creationid="olex" creationdate="20180805T185946Z">
-        <seg>Чтобы остановить в Writer замену определенного написания, перейдите на вкладку &lt;f0&gt;Заменить&lt;/f0&gt;, подсветите необходимую пару слов и нажмите &lt;f1&gt;Удалить&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T190108Z" creationid="olex" creationdate="20180805T185946Z">
+        <seg>Чтобы прекратить в Writer автозамену определенного написания, перейдите на вкладку &lt;f0&gt;Заменить&lt;/f0&gt;, подсветите необходимую пару слов и нажмите &lt;f1&gt;Удалить&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29792,6 +29824,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T194442Z" creationid="olex" creationdate="20180502T194013Z">
         <seg>Чтобы выключить состояние скрытия защищенных ячеек:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To turn AutoCorrect off, uncheck &lt;f0&gt;Tools &gt; AutoCorrect &gt; While Typing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T190516Z" creationid="olex" creationdate="20180805T190516Z">
+        <seg>Чтобы отключить Автозамену, снимите флажок в меню &lt;f0&gt;Сервис &gt; Автозамена &gt; При вводе&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32585,6 +32625,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T185330Z" creationid="olex" creationdate="20180805T185330Z">
         <seg>Вы можете добавить свои собственные исправления или специальные символы, или изменить те, которые поставляются с LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can add your own special characters.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180805T190737Z" creationid="olex" creationdate="20180805T190737Z">
+        <seg>Вы можете добавить свои собственные специальные символы.</seg>
       </tuv>
     </tu>
     <tu>
