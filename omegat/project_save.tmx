@@ -594,8 +594,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;As you add &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;words when working on &lt;tc3/&gt;document&lt;ts4/&gt;&lt;f5&gt;s&lt;/f5&gt;&lt;te6/&gt;, &lt;ts7/&gt;&lt;f8&gt;you can&lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt; either save them for later use in other documents or select the option to remove them from the list when closing &lt;tc11/&gt;document&lt;ts12/&gt;&lt;f13&gt;s&lt;/f13&gt;&lt;te14/&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180808T174113Z" creationid="olex" creationdate="20180808T174113Z">
-        <seg>&lt;f0&gt;Когда вы добавляете &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;слова при работе с &lt;tc3/&gt;документами,&lt;ts4/&gt;&lt;f5&gt;&lt;/f5&gt;&lt;te6/&gt; &lt;ts7/&gt;&lt;f8&gt;вы можете&lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt; сохранить их для последующего использования в других документах или выбрать вариант для их удаления из списка при закрытии &lt;tc11/&gt;документа&lt;ts12/&gt;&lt;f13&gt;&lt;/f13&gt;&lt;te14/&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T174526Z" creationid="olex" creationdate="20180808T174113Z">
+        <seg>&lt;f0&gt;Когда вы добавляете &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;слова при работе с &lt;tc3/&gt;документами,&lt;ts4/&gt;&lt;f5&gt;&lt;/f5&gt;&lt;te6/&gt; &lt;ts7/&gt;&lt;f8&gt;вы можете&lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt; сохранить их для последующего использования в других документах или при закрытии &lt;tc11/&gt;документа&lt;ts12/&gt;&lt;f13&gt;&lt;/f13&gt;&lt;te14/&gt; убирать его слова из списка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5187,6 +5187,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic word completion only occurs after you type a word for the second time in a document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T175142Z" creationid="olex" creationdate="20180808T175142Z">
+        <seg>Автоматическое завершение слова происходит только после ввода слова в документе во второй раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic wrapping</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T174338Z" creationid="olex" creationdate="20180327T174338Z">
@@ -5904,6 +5912,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T153259Z" creationid="olex" creationdate="20180623T153259Z">
         <seg>Изменение некоторых локальных настроек и настроек языка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change the key that accepts a suggested entry—the options are &lt;f0&gt;right arrow&lt;/f0&gt;, &lt;f1&gt;End&lt;/f1&gt; key, &lt;f2&gt;Return&lt;/f2&gt; (&lt;f3&gt;Enter&lt;/f3&gt;), &lt;f4&gt;Space bar&lt;/f4&gt;, and &lt;f5&gt;Tab.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T175109Z" creationid="olex" creationdate="20180808T175013Z">
+        <seg>Измените клавишу, которая подтверждает предложенную запись, это &lt;f0&gt;стрелка Вправо&lt;/f0&gt;, клавиши &lt;f1&gt;End&lt;/f1&gt; , &lt;f2&gt;Return&lt;/f2&gt; (&lt;f3&gt;Enter&lt;/f3&gt;), &lt;f4&gt;Пробел&lt;/f4&gt; и &lt;f5&gt;Tab.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change the maximum number of words remembered for word completion and the length of the smallest words to be remembered.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T174648Z" creationid="olex" creationdate="20180808T174233Z">
+        <seg>Измените максимальное количество слов, запоминаемых для завершения слова (записей), и минимальную длину слов, которые нужно запомнить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8346,6 +8370,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T200227Z" creationid="olex" creationdate="20180313T200227Z">
         <seg>Удалите любой ненужный текст или графику из этого нового документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete specific entries from the word completion list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T174723Z" creationid="olex" creationdate="20180808T174723Z">
+        <seg>Удалите определенные записи из списка завершение слов.</seg>
       </tuv>
     </tu>
     <tu>
