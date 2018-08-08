@@ -6340,6 +6340,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose &lt;f0&gt;Tools &gt; AutoText&lt;/f0&gt; (or press &lt;f1&gt;Ctrl&lt;/f1&gt;+&lt;f2&gt;F3&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T180529Z" creationid="olex" creationdate="20180808T180529Z">
+        <seg>Выберите &lt;f0&gt;Сервис &gt; Автотекст...&lt;/f0&gt; (или нажмите &lt;f1&gt;Ctrl&lt;/f1&gt;+&lt;f2&gt;F3&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose spelling options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T153344Z" creationid="olex" creationdate="20180623T153344Z">
@@ -6352,6 +6360,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T174513Z" creationid="olex" creationdate="20180805T174513Z">
         <seg>Выбрать текст для проверки орфографии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose the category for the AutoText entry, for example &lt;f0&gt;My AutoText&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T180737Z" creationid="olex" creationdate="20180808T180737Z">
+        <seg>Выберите категорию для записи Автотекста, например &lt;f0&gt;Мой автотекст&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7112,6 +7128,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T204320Z" creationid="olex" creationdate="20180313T204320Z">
         <seg>Нажмите кнопку &lt;f0&gt;Настройки&lt;/f0&gt; внизу слева в диалоговом окне Шаблоны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;AutoText&lt;/f0&gt; button at the bottom of the dialog and select from the menu either &lt;f1&gt;New&lt;/f1&gt;&lt;ts2/&gt;&lt;f3&gt;,&lt;/f3&gt;&lt;te4/&gt; &lt;tc5/&gt;to have the AutoText retain specific formatting, no matter where it is inserted&lt;tc6/&gt;&lt;ts7/&gt;,&lt;te8/&gt; or &lt;f9&gt;New (text only)&lt;/f9&gt;&lt;ts10/&gt;&lt;f11&gt;&lt;f12&gt;,&lt;/f12&gt;&lt;/f11&gt;&lt;te13/&gt; &lt;tc14/&gt;to have the AutoText take on the existing formatting around the insertion point&lt;tc15/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T181219Z" creationid="olex" creationdate="20180808T181219Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Автотекст&lt;/f0&gt; в нижней части диалогового окна и выберите в выпадающем меню &lt;f1&gt;Создать&lt;/f1&gt;&lt;ts2/&gt;&lt;f3&gt;,&lt;/f3&gt;&lt;te4/&gt; &lt;tc5/&gt;чтобы Автотекст сохранял свое форматирование, независимо от того, где он вставлен&lt;tc6/&gt;&lt;ts7/&gt;,&lt;te8/&gt; или &lt;f9&gt;Создать (только текст)&lt;/f9&gt;&lt;ts10/&gt;&lt;f11&gt;&lt;f12&gt;,&lt;/f12&gt;&lt;/f11&gt;&lt;te13/&gt; &lt;tc14/&gt;чтобы Автотекст использовал существующее форматирование точки вставки.&lt;tc15/&gt;.  , , , </seg>
       </tuv>
     </tu>
     <tu>
@@ -16135,6 +16159,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the AutoText dialog, type a name for the AutoText in the &lt;f0&gt;Name&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T180612Z" creationid="olex" creationdate="20180808T180612Z">
+        <seg>В диалоговом окне Автотекст введите название для автотекста в поле &lt;f0&gt;Имя&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Create Style dialog, type a name for the new style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T203233Z" creationid="olex" creationdate="20180309T203233Z">
@@ -23358,6 +23390,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T180439Z" creationid="olex" creationdate="20180808T180439Z">
+        <seg>Выберите текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the theme that you want to apply.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T183636Z" creationid="olex" creationdate="20180430T183636Z">
@@ -29892,6 +29932,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To store some text as AutoText:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T180355Z" creationid="olex" creationdate="20180808T180355Z">
+        <seg>Чтобы записать какой либе текст, как Автотекст:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To temporarily close Quickstarter on a computer using a Windows operating system, right-click on the &lt;f0&gt;Quickstarter&lt;/f0&gt; icon in the system tray and select &lt;f1&gt;Exit Quickstarter&lt;/f1&gt; in the pop-up menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T191516Z" creationid="olex" creationdate="20180614T185731Z">
@@ -30290,6 +30338,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T091224Z" creationid="olex" creationdate="20180415T091224Z">
         <seg>Введите ряд для нового списка в поле &lt;f0&gt;Элементы&lt;/f0&gt; (по одному элементу в строке).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type the text into your document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T180429Z" creationid="olex" creationdate="20180808T180429Z">
+        <seg>Напечатайте текст в вашем документе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32649,6 +32705,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T165748Z" creationid="olex" creationdate="20180730T165748Z">
         <seg>Writer предоставляет несколько инструментов, &lt;tc0/&gt;облегчающих работу, если вы &lt;ts1/&gt;&lt;f2&gt;используете &lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;более одного&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt; языка&lt;tc8/&gt; &lt;tc9/&gt; в одном документе или пишете документы на разных языках.&lt;ts10/&gt; &lt;te11/&gt;&lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;&lt;/f14&gt;&lt;te15/&gt;Изменение языка для &lt;ts16/&gt;&lt;f17&gt;конкретного &lt;/f17&gt;&lt;te18/&gt;&lt;tc19/&gt;текста &lt;tc20/&gt;&lt;tc21/&gt;&lt;ts22/&gt;&lt;f23&gt;позволяет &lt;/f23&gt;&lt;te24/&gt;&lt;tc25/&gt;вам &lt;ts26/&gt;&lt;f27&gt;&lt;/f27&gt;&lt;te28/&gt;&lt;tc29/&gt;&lt;tc30/&gt; использовать правильные словари &lt;ts31/&gt;&lt;f32&gt;и правила для &lt;/f32&gt;&lt;te33/&gt;проверки орфографии,&lt;ts34/&gt;, &lt;f35&gt;грамматики и переносов&lt;/f35&gt;&lt;te36/&gt;&lt;ts37/&gt;&lt;f38&gt;.  грамматики и переносов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writer will suggest a one-letter shortcut, which you can change.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T180706Z" creationid="olex" creationdate="20180808T180706Z">
+        <seg>Writer предложит однобуквенное сокращение, которое вы можете изменить.</seg>
       </tuv>
     </tu>
     <tu>
