@@ -592,6 +592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;As you add &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;words when working on &lt;tc3/&gt;document&lt;ts4/&gt;&lt;f5&gt;s&lt;/f5&gt;&lt;te6/&gt;, &lt;ts7/&gt;&lt;f8&gt;you can&lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt; either save them for later use in other documents or select the option to remove them from the list when closing &lt;tc11/&gt;document&lt;ts12/&gt;&lt;f13&gt;s&lt;/f13&gt;&lt;te14/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T174113Z" creationid="olex" creationdate="20180808T174113Z">
+        <seg>&lt;f0&gt;Когда вы добавляете &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;слова при работе с &lt;tc3/&gt;документами,&lt;ts4/&gt;&lt;f5&gt;&lt;/f5&gt;&lt;te6/&gt; &lt;ts7/&gt;&lt;f8&gt;вы можете&lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt; сохранить их для последующего использования в других документах или выбрать вариант для их удаления из списка при закрытии &lt;tc11/&gt;документа&lt;ts12/&gt;&lt;f13&gt;&lt;/f13&gt;&lt;te14/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;AutoFill&lt;/f0&gt; – forms a series directly in the sheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T143154Z" creationid="olex" creationdate="20180414T143154Z">
@@ -23771,6 +23779,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134642Z" creationid="tagezi" creationdate="20180320T134642Z">
         <seg>Должен ли макрос быть доступен только для одного документа или для всех?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show the suggested word as a tip (hovering over the word) rather than completing the text as you type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T173751Z" creationid="olex" creationdate="20180808T173751Z">
+        <seg>Показывать как подсказку (зависающую над словом) предлагаемое слово , а не заполнять текст по мере ввода.</seg>
       </tuv>
     </tu>
     <tu>
