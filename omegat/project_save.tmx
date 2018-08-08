@@ -11805,6 +11805,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, rather than typing “Senior Management” every time you use that phrase, you can set up an AutoText entry to insert those words when you type “sm” and press &lt;f0&gt;F3&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T180327Z" creationid="olex" creationdate="20180808T180327Z">
+        <seg>Например, вместо того, чтобы набирать «Высшее управление» каждый раз, когда вы используете эту фразу, вы можете настроить запись Автотекст для вставки этих слов при вводе «sm» и нажатии &lt;f0&gt;F3&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, select your newly created macro EnterMyName and click &lt;f0&gt;Run&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T185346Z" creationid="tagezi" creationdate="20180313T185346Z">
@@ -30581,6 +30589,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T162817Z" creationid="olex" creationdate="20180409T162817Z">
         <seg>Используйте &lt;i0/&gt;функцию масштаб, чтобы показывать больше или меньше ячеек в окне, во время работы с электронной таблицей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use AutoText to store text, tables, fields, and other items for reuse and assign them to a key combination for easy retrieval.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T175615Z" creationid="olex" creationdate="20180808T175615Z">
+        <seg>Используйте Автотекст для хранения текста, таблиц, полей и других элементов для повторного использования и назначайте под них комбинации клавиш для удобного поиска.</seg>
       </tuv>
     </tu>
     <tu>
