@@ -512,6 +512,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;A&lt;/f0&gt;&lt;f1&gt;pplies formatting directly to specific paragraphs, characters, pages, frames, lists, or tables.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T181926Z" creationid="olex" creationdate="20180808T181926Z">
+        <seg>&lt;f0&gt;Применяет&lt;/f0&gt;&lt;f1&gt; форматирование непосредственно к конкретным абзацам, символам, страницам, фреймам, спискам или таблицам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;A&lt;/f0&gt;&lt;te1/&gt;dd a word to the dictionary&lt;ts2/&gt; &lt;f3&gt;by &lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;c&lt;/f7&gt;&lt;te8/&gt;lick&lt;ts9/&gt;&lt;f10&gt;ing&lt;/f10&gt;&lt;te11/&gt; &lt;f12&gt;Add to Dictionary&lt;/f12&gt; in the Spelling &lt;tc13/&gt;dialog or in the context menu.&lt;ts14/&gt; &lt;f15&gt;The word will be adde&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt;d to the Standard dictionary, unless you have created another &lt;/f18&gt;&lt;te19/&gt;&lt;ts20/&gt;&lt;f21&gt;dictionary in the same language.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T183034Z" creationid="olex" creationdate="20180804T183034Z">
@@ -612,6 +620,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T172511Z" creationid="olex" creationdate="20180627T172511Z">
         <seg>&lt;f0&gt;Автоматическая прокрутка&lt;/f0&gt; - перетаскивание при нажатии средней кнопки мыши сдвигает вид.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;B&lt;/f0&gt;&lt;f1&gt;undle&lt;/f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;f3&gt; formatting options under one name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T182224Z" creationid="olex" creationdate="20180808T182224Z">
+        <seg>&lt;f0&gt;Набор&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt; параметров форматирования, под одним именем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -845,6 +861,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T180203Z" creationid="olex" creationdate="20180330T193010Z">
         <seg>&lt;f0&gt;Распознавать особые числа&lt;/f0&gt; - когда включена эта опция, то Calc будет определять автоматически все форматы чисел, включая специальные форматы чисел, такие как дата, время и научная система счисления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Direct (or &lt;/f0&gt;&lt;f1&gt;Manual&lt;/f1&gt;&lt;f2&gt;)&lt;/f2&gt;&lt;f3&gt; formatting&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T181847Z" creationid="olex" creationdate="20180808T181847Z">
+        <seg>&lt;f0&gt;Прямое (или &lt;/f0&gt;&lt;f1&gt;Ручное&lt;/f1&gt;&lt;f2&gt;)&lt;/f2&gt;&lt;f3&gt; форматирование&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3181,6 +3205,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;te0/&gt;&lt;tc1/&gt;&lt;tc2/&gt;&lt;tc3/&gt;&lt;ts4/&gt;See &lt;f5&gt;the &lt;/f5&gt;&lt;f6&gt;Writer Guide&lt;/f6&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T181731Z" creationid="olex" creationdate="20180808T181731Z">
+        <seg>&lt;te0/&gt;&lt;tc1/&gt;&lt;tc2/&gt;&lt;tc3/&gt;&lt;ts4/&gt;Смотрите &lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;Руководство по Writer&lt;/f6&gt; для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;te20/&gt;&lt;ts21/&gt;&lt;f22&gt;You can preview the changes by checking &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;Show Previews&lt;/f24&gt;&lt;/f23&gt;&lt;te25/&gt;&lt;ts26/&gt; at the bottom&lt;te27/&gt;&lt;ts28/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T182704Z" creationid="olex" creationdate="20180723T182704Z">
@@ -5121,6 +5153,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>AutoText is especially powerful when assigned to fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T181706Z" creationid="olex" creationdate="20180808T181706Z">
+        <seg>AutoText особенно эффективен при назначении полей.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: Словари не полные. Там много чего нет.  https://ru.wiktionary.org не плохой словарь, там часто есть толкование и склонение слова</note>
       <tuv lang="EN-US">
         <seg>AutoUpdate</seg>
@@ -6496,6 +6536,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T183616Z" creationid="olex" creationdate="20180615T183616Z">
         <seg>Нажмите &lt;f0&gt;Закрыть панель инструментов&lt;/f0&gt;, чтобы закрыть выбранную панель инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Close&lt;/f0&gt; to return to your document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T181250Z" creationid="olex" creationdate="20180808T181250Z">
+        <seg>Нажмите &lt;f0&gt;Закрыть&lt;/f0&gt;, чтобы вернуться к документу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11660,6 +11708,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, a paragraph style &lt;/f3&gt;&lt;f4&gt;defines nu&lt;/f4&gt;&lt;f5&gt;merous &lt;/f5&gt;&lt;f6&gt;settings &lt;/f6&gt;&lt;f7&gt;for options such as&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;font type and size, whether paragraphs should be indented, the space between lines, how paragraphs should be aligned on the page, and many &lt;/f9&gt;&lt;f10&gt;other&lt;/f10&gt;&lt;f11&gt;s&lt;/f11&gt;&lt;f12&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T182609Z" creationid="olex" creationdate="20180808T182609Z">
+        <seg>Например, стиль абзаца &lt;/f3&gt;&lt;f4&gt;определяет &lt;/f4&gt;&lt;f5&gt;множество &lt;/f5&gt;&lt;f6&gt;настроек &lt;/f6&gt;&lt;f7&gt;для таких параметров, как &lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;как тип шрифта и размер, отступы абзаца, интервалы между строками, выравнивание абзаца на странице и многие &lt;/f9&gt;&lt;f10&gt;другие&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, after saving a new document, the list of recent files is updated.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T174052Z" creationid="tagezi" creationdate="20180319T174052Z">
@@ -12049,6 +12105,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T201124Z" creationid="olex" creationdate="20180316T201124Z">
         <seg>Например, вам может потребоваться, чтобы абзац начинался на новой странице или столбце и определял стиль новой страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you can select a word, then click on a button on the Formatting toolbar to format the text as bold or italics.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T182033Z" creationid="olex" creationdate="20180808T182033Z">
+        <seg>Например, вы можете выделить слово, а затем нажать кнопку на панели инструментов Форматирование, чтобы форматировать текст полужирным шрифтом или курсивом.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14650,6 +14714,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T174205Z" creationid="olex" creationdate="20180712T174205Z">
         <seg>Если изменить страну в Локальных настройках, то автоматически изменяется Валюта по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the only option under the &lt;f0&gt;AutoText&lt;/f0&gt; button is &lt;f1&gt;Import&lt;/f1&gt;, either you have not entered a name for your AutoText or there is no text selected in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T181649Z" creationid="olex" creationdate="20180808T181649Z">
+        <seg>Если единственным вариантом при нажатии кнопки &lt;f0&gt;Автотекст&lt;/f0&gt; является &lt;f1&gt;Импорт&lt;/f1&gt;, то либо вы не указали имя для вашего Автотекста, либо не выбрали текст в документе..</seg>
       </tuv>
     </tu>
     <tu>
@@ -24528,6 +24600,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T182039Z" creationid="olex" creationdate="20180808T182039Z">
+        <seg>Стили</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Styles Deck</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T102036Z" creationid="olex" creationdate="20180721T102036Z">
@@ -27443,6 +27523,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are &lt;f0&gt;two basic ways to format text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T181748Z" creationid="olex" creationdate="20180808T181748Z">
+        <seg>Существуют &lt;f0&gt;два основных способа форматирования текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are advanced topics that are beyond the scope of this user guide, but knowing about them might be of interest:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T114537Z" creationid="tagezi" creationdate="20180315T114537Z">
@@ -29250,6 +29338,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To insert AutoText, type the shortcut and press &lt;f0&gt;F3&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T181328Z" creationid="olex" creationdate="20180808T181328Z">
+        <seg>Чтобы вставить Автотекст, введите сокращение и нажмите &lt;f0&gt;F3&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To insert a formula into a LibreOffice document, open the document in Writer, Calc, Draw, or Impress.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T154029Z" creationid="User" creationdate="20180311T154029Z">
@@ -30378,6 +30474,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T103354Z" creationid="olex" creationdate="20180715T102944Z">
         <seg>В Windows всегда используется почтовый клиент по умолчанию для операционной системы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Understanding these two alternatives is essential for unlocking the power of LibreOffice:&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T181823Z" creationid="olex" creationdate="20180808T181823Z">
+        <seg>Понимание этих двух вариантов необходимо для того, чтобы раскрыть силу LibreOffice:&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
