@@ -640,6 +640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Because &lt;/f0&gt;style&lt;f1&gt;s&lt;/f1&gt; appl&lt;f2&gt;y &lt;/f2&gt;whole group&lt;f3&gt;s&lt;/f3&gt; of formats at the same time, &lt;f4&gt;they&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt; enable you to easily format &lt;ts7/&gt;&lt;f8&gt;a&lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt; document consistently&lt;tc11/&gt; and to change the format&lt;ts12/&gt;&lt;f13&gt;ting&lt;/f13&gt;&lt;te14/&gt; &lt;ts15/&gt;&lt;f16&gt;of an entire document &lt;/f16&gt;&lt;te17/&gt;with minimal effort.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T183250Z" creationid="olex" creationdate="20180808T183250Z">
+        <seg>&lt;f0&gt;Поскольку &lt;/f0&gt;стили&lt;f1&gt;&lt;/f1&gt; применяют&lt;f2&gt; &lt;/f2&gt;одновременно все группы&lt;f3&gt;&lt;/f3&gt; форматов, то &lt;f4&gt;они&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt; позволяют вам легко форматировать &lt;ts7/&gt;&lt;f8&gt;&lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt; документ &lt;tc11/&gt; и изменять форматирование&lt;ts12/&gt;&lt;f13&gt;&lt;/f13&gt;&lt;te14/&gt; &lt;ts15/&gt;&lt;f16&gt;всего документа &lt;/f16&gt;&lt;te17/&gt;с минимальными усилиями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Berlin, March 8, 2018 - &lt;/f0&gt;The &lt;f1&gt;Document Foundation will present &lt;/f1&gt;LibreOffice &lt;f2&gt;Certification to Free Software Foundation Members and free software advocates attending LibrePlanet in Boston.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T173409Z" creationid="tagezi" creationdate="20180307T173409Z">
@@ -3185,6 +3193,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T180019Z" creationid="olex" creationdate="20180802T180019Z">
         <seg>&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;/f3&gt;&lt;te4/&gt;Символы &lt;ts5/&gt;&lt;f6&gt;&lt;/f6&gt;&lt;te7/&gt;выбранные для вставки отображаются в левом нижнем углу диалогового окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;tc18/&gt;&lt;tc19/&gt;&lt;tc20/&gt;&lt;tc21/&gt;In addition, styles are used by LibreOffice for many processes, even if you are not aware of them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T183329Z" creationid="olex" creationdate="20180808T183329Z">
+        <seg>&lt;tc18/&gt;&lt;tc19/&gt;&lt;tc20/&gt;&lt;tc21/&gt;Кроме того, стили используются в LibreOffice для многих процессов, даже если вы не знаете о них.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11678,8 +11694,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>For example, Writer relies on heading styles (or other styles you specify) when it compiles a table of contents.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T140949Z" creationid="olex" creationdate="20180306T202113Z">
-        <seg>Например, Writer опирается на стили заголовков (или другие стили, которые вы укажете), когда создает содержание документа.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T183351Z" creationid="olex" creationdate="20180306T202113Z">
+        <seg>Например, Writer использует стили заголовков (или другие стили, которые вы укажете), когда создает содержание документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17236,6 +17252,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180714T074921Z" creationid="olex" creationdate="20180714T074921Z">
         <seg>Заменяет «x», используемый как символ умножения, правильным типографским символом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It requires some planning but the time spent in planning can save time and frustration over the longer term.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T182934Z" creationid="olex" creationdate="20180808T182934Z">
+        <seg>Это требует некоторого планирования, но время, затраченное на планирование, может сэкономить вам время и нервы в будущем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28207,6 +28231,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means that it may work somewhat differently from other word processing programs you are familiar with.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T182840Z" creationid="olex" creationdate="20180808T182840Z">
+        <seg>Это означает, что он может работать несколько иначе, чем другие программы обработки текстов, с которыми вы знакомы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This means that you have to re-copy your repeated information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T183605Z" creationid="tagezi" creationdate="20180312T183306Z">
@@ -31328,6 +31360,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using styles is &lt;ts0/&gt;&lt;f1&gt;highly &lt;/f1&gt;&lt;te2/&gt;recommended</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T182711Z" creationid="olex" creationdate="20180808T182711Z">
+        <seg>&lt;ts0/&gt;&lt;f1&gt;Настоятельно &lt;/f1&gt;&lt;te2/&gt;рекомендуется использовать стили</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using styles is highly recommended</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T110523Z" creationid="olex" creationdate="20180721T110523Z">
@@ -32793,6 +32833,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T200907Z" creationid="olex" creationdate="20180607T200907Z">
         <seg>Writer - многофункциональный инструмент для создания писем, книг, отчетов, информационных бюллетеней, брошюр и других документов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writer is designed to be a style-based program.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T182744Z" creationid="olex" creationdate="20180808T182744Z">
+        <seg>Writer разработан для использования стилей.</seg>
       </tuv>
     </tu>
     <tu>
