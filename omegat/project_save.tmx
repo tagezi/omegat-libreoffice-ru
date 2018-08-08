@@ -1497,6 +1497,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Options for &lt;/f0&gt;&lt;te1/&gt;customiz&lt;ts2/&gt;&lt;f3&gt;ing&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt; word completion from the &lt;f6&gt;Word Completion&lt;/f6&gt; page of the AutoCorrect dialog&lt;ts7/&gt; &lt;f8&gt;include&lt;/f8&gt;&lt;te9/&gt;:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T173615Z" creationid="olex" creationdate="20180808T173557Z">
+        <seg>&lt;f0&gt;Параметры &lt;/f0&gt;&lt;te1/&gt;настройки&lt;ts2/&gt;&lt;f3&gt;&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt; завершения слова на странице &lt;f6&gt;Завершение слов&lt;/f6&gt; дилогового окна Автозамена &lt;ts7/&gt; &lt;f8&gt;включают в себя&lt;/f8&gt;&lt;te9/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Other f&lt;/f0&gt;ree online support</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T185008Z" creationid="olex" creationdate="20180606T185008Z">
@@ -3890,6 +3898,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T195022Z" creationid="olex" creationdate="20180607T195022Z">
         <seg>Активация Быстрого запуска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add (append) a space automatically after an accepted word.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T173656Z" creationid="olex" creationdate="20180808T173656Z">
+        <seg>Добавлять пробел автоматически после принятого слова.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14158,6 +14174,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If Word Completion is enabled, Writer tries to guess which word you are typing and offers to complete the word for you.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T172931Z" creationid="olex" creationdate="20180808T172931Z">
+        <seg>Если включено Завершение слов, то Writer пытается угадать, какое слово вы печатаете, и предлагает завершить слово за вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a &lt;ts0/&gt;&lt;f1&gt;drawing object&lt;/f1&gt;&lt;te2/&gt; is selected, then the following panels are available:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T173333Z" creationid="olex" creationdate="20180723T173113Z">
@@ -20526,6 +20550,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T153421Z" creationid="olex" creationdate="20180623T153421Z">
         <seg>Другие</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise, continue typing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T173057Z" creationid="olex" creationdate="20180808T173046Z">
+        <seg>В противном случае продолжайте набор.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28264,6 +28296,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To accept the suggestion, press &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T173033Z" creationid="olex" creationdate="20180808T173033Z">
+        <seg>Чтобы принять предложение, нажмите &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access Safe Mode:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T110311Z" creationid="olex" creationdate="20180715T110311Z">
@@ -29832,6 +29872,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T190516Z" creationid="olex" creationdate="20180805T190516Z">
         <seg>Чтобы отключить Автозамену, снимите флажок в меню &lt;f0&gt;Сервис &gt; Автозамена &gt; При вводе&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To turn off Word Completion, select &lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options &gt; Word Completion &lt;/f0&gt;and deselect &lt;f1&gt;Enable word completion&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180808T173256Z" creationid="olex" creationdate="20180808T173256Z">
+        <seg>Чтобы отключить Завершение слов, выберите в меню &lt;f0&gt;Сервис &gt; Автозамена &gt; Параметры автозамены... &gt; Завершение слов&lt;/f0&gt; и снимите флажок с &lt;f1&gt;Завершать слова&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
