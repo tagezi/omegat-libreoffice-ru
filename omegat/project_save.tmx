@@ -2010,6 +2010,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;ables in a &lt;f1&gt;Writer document share the same sets of &lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;s&lt;/f5&gt;&lt;te6/&gt;&lt;ts7/&gt;&lt;f8&gt;tyles as the &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;spreadsheets in LibreOffice Calc.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T182942Z" creationid="olex" creationdate="20180809T182942Z">
+        <seg>&lt;f0&gt;Таблицы&lt;/f0&gt; в документе &lt;f1&gt;Writer используют тот же набор &lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;&lt;/f5&gt;&lt;te6/&gt;&lt;ts7/&gt;&lt;f8&gt;стилей, что и &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;электронные таблицы в LibreOffice Calc.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;T&lt;/f0&gt;ables in a Writer document can have a pre&lt;f1&gt;defined &lt;/f1&gt;set of formatting &lt;f2&gt;attributes &lt;/f2&gt;applied, &lt;f3&gt;including cell background, font, emphasis, and number formatting (Figure &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;3&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T182350Z" creationid="olex" creationdate="20180718T182350Z">
@@ -2126,6 +2134,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T180950Z" creationid="olex" creationdate="20180809T180950Z">
         <seg>&lt;f0&gt;Чтобы применить стиль символа, выделите символы или слова и примените выбранный стиль символов в меню &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Стили&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;f5&gt;на вкладке &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Стили символов&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; палитры Стили на Боковой панели &lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;s11/&gt;, или в контекстном меню по нажатию правой кнопки мыши &lt;/f10&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;To apply table styles, place your cursor in the table to be formatted and choose &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Table &gt; Autoformat Styles&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in the main menu and select a style from the dialog that appears.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T183215Z" creationid="olex" creationdate="20180809T183215Z">
+        <seg>&lt;f0&gt;Чтобы применить стили таблиц, поместите курсор в таблицу для форматирования, выберите в меню &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Таблица &gt; Стили автоформата...&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; и выберите стиль в появившемся диалоговом окне.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2845,6 +2861,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s13/&gt;For more information refer to the &lt;/f12&gt;&lt;f14&gt;LibreOffice Writer &lt;/f14&gt;&lt;te15/&gt;&lt;ts16/&gt;&lt;f17&gt;&lt;f18&gt;G&lt;/f18&gt;&lt;/f17&gt;&lt;te19/&gt;&lt;tc20/&gt;&lt;ts21/&gt;&lt;f22&gt;uide&lt;/f22&gt;&lt;te23/&gt;&lt;tc24/&gt;&lt;tc25/&gt;&lt;ts26/&gt;&lt;f27&gt;.&lt;/f27&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T183528Z" creationid="olex" creationdate="20180809T183528Z">
+        <seg>&lt;s13/&gt;Для получения дополнительной информации смотрите &lt;/f12&gt;&lt;f14&gt;Руководство по LibreOffice Writer &lt;/f14&gt;&lt;te15/&gt;&lt;ts16/&gt;&lt;f17&gt;&lt;f18&gt;&lt;/f18&gt;&lt;/f17&gt;&lt;te19/&gt;&lt;tc20/&gt;&lt;ts21/&gt;&lt;f22&gt;&lt;/f22&gt;&lt;te23/&gt;&lt;tc24/&gt;&lt;tc25/&gt;&lt;ts26/&gt;&lt;f27&gt;.&lt;/f27&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s2/&gt;&lt;f3&gt;The &lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;spelling checker&lt;tc6/&gt; &lt;ts7/&gt;&lt;f8&gt;determines &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;if each word in the document is in the installed dictionary.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T175946Z" creationid="olex" creationdate="20180804T175946Z">
@@ -2929,6 +2953,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T184523Z" creationid="olex" creationdate="20180506T182601Z">
         <seg>&lt;s4/&gt;&lt;/f3&gt;По другому комментарий можно вставить&lt;f5&gt; &lt;/f5&gt;, выбрав в меню &lt;f6&gt;Вставка &gt; Комментарий&lt;/f6&gt;&lt;f7&gt;, &lt;/f7&gt;или нажав сочетание клавиш &lt;f8&gt;(Ctrl+Alt+C), &lt;/f8&gt;или нажав кнопку на панели инструментов &lt;f9&gt;Стандартная&lt;/f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s4/&gt;Or, alternatively, place your cursor in the table to be formatted and double click on a style listed in the &lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Table Styles&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; tab of the sidebar &lt;/f7&gt;&lt;f8&gt;Styles &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;deck.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T183444Z" creationid="olex" creationdate="20180809T183444Z">
+        <seg>&lt;s4/&gt;Или по другому: поместите курсор в таблицу для форматирования и дважды щелкните по стилю, указанному на вкладке &lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Стили таблиц&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; в палитре &lt;/f7&gt;&lt;f8&gt;Стили &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;на Боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5166,6 +5198,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T173423Z" creationid="olex" creationdate="20180707T173423Z">
         <seg>Авторы, очень объемных работ, всегда должны использовать эту опцию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto&lt;te0/&gt;&lt;tc1/&gt;&lt;tc2/&gt;&lt;ts3/&gt;&lt;f4&gt;correcting&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T183633Z" creationid="olex" creationdate="20180809T183633Z">
+        <seg>&lt;te0/&gt;&lt;tc1/&gt;&lt;tc2/&gt;&lt;ts3/&gt;&lt;f4&gt;Автозамена&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12721,6 +12761,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T181315Z" creationid="olex" creationdate="20180430T181315Z">
         <seg>Настройте для диапазона ячеек: тип данных, шрифт, размер шрифта, границы ячеек, фон ячейки и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formatting &lt;te0/&gt;&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;t&lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;ables</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T182634Z" creationid="olex" creationdate="20180809T182634Z">
+        <seg>Форматирование &lt;te0/&gt;&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;таблиц&lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
