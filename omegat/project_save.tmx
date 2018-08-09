@@ -12724,6 +12724,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Formatting paragraphs &lt;f0&gt;using styles&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T171138Z" creationid="olex" creationdate="20180809T171138Z">
+        <seg>Форматирование абзацев с &lt;f0&gt;использованием стилей&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Formatting paragraphs directly</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T110704Z" creationid="olex" creationdate="20180721T110704Z">
@@ -22340,6 +22348,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Chapter 3, Using Styles and Templates, in this book and &lt;f3&gt;also refer to &lt;/f3&gt;the &lt;f4&gt;Writer Guide&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T171116Z" creationid="olex" creationdate="20180809T171116Z">
+        <seg>Смотрите Главу 3, Использование стилей и шаблонов, в этой книге &lt;f3&gt;так же обратитесь к &lt;/f3&gt;&lt;f4&gt;Руководству по Writer&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Chapter 4 for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T203107Z" creationid="olex" creationdate="20180316T203107Z">
@@ -24670,6 +24686,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193446Z" creationid="olex" creationdate="20180307T193446Z">
         <seg>Стили, доступные в приложениях LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles can be applied to paragraphs using the Styles drop-down selection list at the left end of the Forma toolbar and by using the &lt;f0&gt;Styles&lt;/f0&gt; deck &lt;f1&gt;of the Sidebar&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T171543Z" creationid="olex" creationdate="20180809T171543Z">
+        <seg>Стили можно применять к абзацам, используя выпадающий список Стили слева на панель инструментов Форматирование и используя вкладку &lt;f0&gt;Стили&lt;/f0&gt; &lt;f1&gt;на Боковой панели&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32801,6 +32825,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T201056Z" creationid="olex" creationdate="20180607T201056Z">
         <seg>Writer может экспортировать файлы в форматы HTML, XHTML, XML, Adobe Portable Document Format (PDF) и в различные версии файлов Microsoft Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writer defines &lt;f0&gt;six&lt;/f0&gt; types of styles: &lt;s1/&gt;paragraph, character, page, frame, list, &lt;f2&gt;and table&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T171013Z" creationid="olex" creationdate="20180809T171013Z">
+        <seg>Writer определяет &lt;f0&gt;шесть&lt;/f0&gt; типов стилей: &lt;s1/&gt;абзацев, символов, врезок, страниц, списков &lt;f2&gt;и таблиц&lt;/f2&gt;..</seg>
       </tuv>
     </tu>
     <tu>
