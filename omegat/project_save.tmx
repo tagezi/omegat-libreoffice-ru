@@ -1345,6 +1345,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;It is recommended that you use &lt;/f0&gt;&lt;f1&gt;styles &lt;/f1&gt;&lt;f2&gt;to format characters as much as possible rather than formatting characters directly, as described in this section.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T181251Z" creationid="olex" creationdate="20180809T181251Z">
+        <seg>&lt;f0&gt;Настоятельно рекомендуем вам по возможности использовать &lt;/f0&gt;&lt;f1&gt;стили &lt;/f1&gt;&lt;f2&gt;для форматирования символов вместо прямого форматирования, которое описано в этом разделе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Language&lt;/f0&gt; – determines how the number strings are imported.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T190539Z" creationid="olex" creationdate="20180330T190539Z">
@@ -2102,6 +2110,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T171822Z" creationid="olex" creationdate="20180802T171822Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;Чтобы искать&lt;te3/&gt;&lt;ts4/&gt; &lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt;только в  &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;определенных &lt;/f14&gt;&lt;te15/&gt;&lt;ts16/&gt;&lt;f17&gt;типах содержимого&lt;/f17&gt;&lt;te18/&gt;&lt;tc19/&gt;&lt;tc20/&gt;&lt;tc21/&gt;&lt;ts22/&gt;&lt;f23&gt;,&lt;/f23&gt;&lt;te24/&gt;&lt;ts25/&gt; нажмите кнопку &lt;f26&gt;Страница&lt;/f26&gt; &lt;te27/&gt;&lt;ts28/&gt;на панели Найти &lt;te29/&gt;&lt;ts30/&gt;&lt;f31&gt;и &lt;/f31&gt;&lt;te32/&gt;&lt;ts33/&gt;&lt;f34&gt;выберите &lt;/f34&gt;&lt;te35/&gt;&lt;ts36/&gt;&lt;f37&gt;тип во всплывающем меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;To apply a character style, highlight the characters or words and apply the selected character style from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Styles&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; menu on the &lt;/f3&gt;&lt;f4&gt;Main Menu bar, &lt;/f4&gt;&lt;f5&gt;from the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Character Styles&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; tab of the Sidebar &lt;/f8&gt;&lt;f9&gt;Styles &lt;/f9&gt;&lt;f10&gt;&lt;s11/&gt;deck, or from the right-click &lt;/f10&gt;&lt;f12&gt;context menu&lt;/f12&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T180950Z" creationid="olex" creationdate="20180809T180950Z">
+        <seg>&lt;f0&gt;Чтобы применить стиль символа, выделите символы или слова и примените выбранный стиль символов в меню &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Стили&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;f5&gt;на вкладке &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Стили символов&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; палитры Стили на Боковой панели &lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;s11/&gt;, или в контекстном меню по нажатию правой кнопки мыши &lt;/f10&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12721,6 +12737,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T111201Z" creationid="olex" creationdate="20180721T110807Z">
         <seg>Форматирование символов, используя стили</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formatting characters&lt;ts0/&gt; &lt;te1/&gt;&lt;tc2/&gt;&lt;ts3/&gt;&lt;f4&gt;direct&lt;/f4&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;ly&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T181019Z" creationid="olex" creationdate="20180809T181019Z">
+        <seg>Прямое форматирование символов&lt;ts0/&gt; &lt;te1/&gt;&lt;tc2/&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;ly&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34174,6 +34198,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T213009Z" creationid="olex" creationdate="20180312T212834Z">
         <seg>При этом, вы можете изменить шаблон по умолчанию, когда захотите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can&lt;ts0/&gt; &lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;directly&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt; apply many&lt;ts6/&gt; &lt;te7/&gt;&lt;tc8/&gt;formats to characters using the buttons on the Format&lt;tc9/&gt;&lt;ts10/&gt;&lt;f11&gt;ting&lt;/f11&gt;&lt;te12/&gt; toolbar and by using the Character panel of the Sidebar’s Properties deck.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T181646Z" creationid="olex" creationdate="20180809T181646Z">
+        <seg>Вы можете&lt;ts0/&gt; &lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;напрямую&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt; применять многое&lt;ts6/&gt; &lt;te7/&gt;&lt;tc8/&gt;оформление к символам, используя кнопки на панели инструментов Форматирование &lt;tc9/&gt;&lt;ts10/&gt;&lt;f11&gt;&lt;/f11&gt;&lt;te12/&gt;и с помощью панели Символы на вкладке Свойства боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
