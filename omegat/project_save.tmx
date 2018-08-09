@@ -4230,6 +4230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Align Left, Center Horizontally, Align Right, or Justified</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T174323Z" creationid="olex" creationdate="20180809T174323Z">
+        <seg>Выровнять влево, Центрировать по горизонтали, Выровнять вправо или По ширине</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All available library containers are shown in the &lt;f3&gt;Macro from&lt;/f3&gt; list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T090757Z" creationid="tagezi" creationdate="20180320T090757Z">
@@ -5502,8 +5510,8 @@
       <tuv lang="EN-US">
         <seg>Bullets On/Off (with a palette of bullet styles)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180809T173749Z" creationid="olex" creationdate="20180809T173749Z">
-        <seg>Маркированный список Вкл./Выкл. (на панели Маркеры и нумерация)</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T174052Z" creationid="olex" creationdate="20180809T173749Z">
+        <seg>Маркированный список Вкл./Выкл. (с палитрой Маркированный список)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19779,6 +19787,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193833Z" creationid="olex" creationdate="20180307T193833Z">
         <seg>Нумерация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Numbering On/Off (with a palette of numbering styles)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T174131Z" creationid="olex" creationdate="20180809T173756Z">
+        <seg>Нумерованный список Вкл./Выкл. (с палитрой Нумерованный список)</seg>
       </tuv>
     </tu>
     <tu>
