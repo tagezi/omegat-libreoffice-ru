@@ -1873,6 +1873,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Set Paragraph &lt;/f0&gt;Style</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T172953Z" creationid="olex" creationdate="20180809T172953Z">
+        <seg>&lt;f0&gt;Установить стиль абзаца&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Set Paragraph&lt;/f0&gt;&lt;te1/&gt; Style &lt;ts2/&gt;&lt;f3&gt;l&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;ist &lt;f6&gt;in the Formatting toolbar&lt;/f6&gt;&lt;ts7/&gt;&lt;f8&gt; in Writer&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180717T175728Z" creationid="olex" creationdate="20180717T175728Z">
@@ -5487,6 +5495,15 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T155807Z" creationid="olex" creationdate="20180721T155807Z">
         <seg>Встроенные инструменты рисования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>практически сочинил перевод этого абзаца</note>
+      <tuv lang="EN-US">
+        <seg>Bullets On/Off (with a palette of bullet styles)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T173749Z" creationid="olex" creationdate="20180809T173749Z">
+        <seg>Маркированный список Вкл./Выкл. (на панели Маркеры и нумерация)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10241,6 +10258,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: &lt;tc1/&gt;&lt;tc2/&gt;Formatting &lt;ts3/&gt;&lt;f4&gt;(Styles) &lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;t&lt;/f8&gt;&lt;te9/&gt;oolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T172218Z" creationid="olex" creationdate="20180809T172218Z">
+        <seg>Рисунок &lt;seq0&gt;16&lt;/seq0&gt;: Панель инструментов &lt;tc1/&gt;&lt;tc2/&gt;Форматирование &lt;ts3/&gt;&lt;f4&gt;(стили) &lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;/f8&gt;&lt;te9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Choosing accessibility options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T154152Z" creationid="olex" creationdate="20180630T154152Z">
@@ -11524,6 +11549,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For &lt;f0&gt;important&lt;/f0&gt; information about using &lt;f1&gt;paragraph &lt;/f1&gt;styles to format documents, see &lt;f2&gt;Chapter 3 of this book and&lt;/f2&gt; the &lt;f3&gt;Writer Guide&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T172526Z" creationid="olex" creationdate="20180809T172526Z">
+        <seg>Для получения &lt;f0&gt;важной&lt;/f0&gt; информации об использовании стилей &lt;f1&gt;абзаца &lt;/f1&gt;при форматировании документов, смотрите &lt;f2&gt;Главу 3 этой книги и &lt;/f2&gt; &lt;f3&gt;Руководство по Writer&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For &lt;f2&gt;italic&lt;/f2&gt; characters, select &lt;f3&gt;iGreek&lt;/f3&gt; from the drop-down list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204516Z" creationid="Роман" creationdate="20180316T204516Z">
@@ -12720,6 +12753,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T152931Z" creationid="olex" creationdate="20180721T152931Z">
         <seg>Форматирование страниц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formatting paragraphs &lt;f0&gt;directly&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T172609Z" creationid="olex" creationdate="20180809T172609Z">
+        <seg>&lt;f0&gt;Прямое&lt;/f0&gt; форматирование абзацев</seg>
       </tuv>
     </tu>
     <tu>
@@ -27627,6 +27668,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is &lt;f0&gt;also&lt;/f0&gt; an option to open a &lt;f1&gt;s&lt;/f1&gt;tyles toolbar under the &lt;f2&gt;View &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Menu &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&gt; Toolbars &gt; Formatting (Styles)&lt;/f5&gt; &lt;s6/&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;o8/&gt;&lt;f9&gt;Figure &lt;/f9&gt;&lt;f10&gt;&lt;t11&gt;16&lt;/t11&gt;&lt;/f10&gt;&lt;o12/&gt;&lt;f13&gt;)&lt;/f13&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T172144Z" creationid="olex" creationdate="20180809T172144Z">
+        <seg>Существует &lt;f0&gt;также&lt;/f0&gt; возможность открыть панель инструментов &lt;f1&gt;&lt;/f1&gt;Стили из меню &lt;f2&gt;Вид &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&gt; Панели инструментов &gt; Форматирование (стили)&lt;/f5&gt; &lt;s6/&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;o8/&gt;&lt;f9&gt;Рисунок &lt;/f9&gt;&lt;f10&gt;&lt;t11&gt;16&lt;/t11&gt;&lt;/f10&gt;&lt;o12/&gt;&lt;f13&gt;)&lt;/f13&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There you &lt;f6&gt;can&lt;/f6&gt; choose to make a donation &lt;f7&gt;to support LibreOffice.&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T183148Z" creationid="olex" creationdate="20180606T183148Z">
@@ -27687,6 +27736,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T202301Z" creationid="olex" creationdate="20180311T202301Z">
         <seg>Они устанавливаются несколько иначе, как - описано ниже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These buttons and formats include:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T172930Z" creationid="olex" creationdate="20180809T172930Z">
+        <seg>Эти кнопки и форматирование включают:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32969,6 +33026,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T155916Z" creationid="tagezi" creationdate="20180310T155916Z">
         <seg>Да.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can &lt;f0&gt;manually&lt;/f0&gt; apply many &lt;f1&gt;direct&lt;/f1&gt; formats to paragraphs using the buttons on the Formatting toolbar and by using the Paragraph panel of the Sidebar’s Properties deck.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T172858Z" creationid="olex" creationdate="20180809T172858Z">
+        <seg>Вы можете &lt;f0&gt;вручную&lt;/f0&gt; применять разное &lt;f1&gt;прямое&lt;/f1&gt; форматирование к абзацам, используя кнопки на панели инструментов Форматирование и используя панель Абзац на вкладке Свойства Боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
