@@ -1353,6 +1353,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Just as direct paragraph formatting overrides the current paragraph style, a&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;&lt;ts3/&gt;pplying direct &lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt;character&lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;&lt;tc9/&gt;&lt;ts10/&gt; for&lt;te11/&gt;&lt;ts12/&gt;matting to characters overrides &lt;te13/&gt;&lt;tc14/&gt;&lt;ts15/&gt;&lt;o16/&gt;&lt;te17/&gt;&lt;tc18/&gt;&lt;ts19/&gt;&lt;f20&gt;the current&lt;/f20&gt;&lt;te21/&gt;&lt;tc22/&gt;&lt;ts23/&gt; character style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T182614Z" creationid="olex" creationdate="20180809T182614Z">
+        <seg>&lt;f0&gt;Так же, как прямое форматирование абзаца переопределяет текущий стиль абзаца, &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;&lt;ts3/&gt;применение прямого &lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt;&lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;&lt;tc9/&gt;&lt;ts10/&gt; &lt;te11/&gt;&lt;ts12/&gt;форматирования к символам переопределяет &lt;te13/&gt;&lt;tc14/&gt;&lt;ts15/&gt;&lt;o16/&gt;&lt;te17/&gt;&lt;tc18/&gt;&lt;ts19/&gt;&lt;f20&gt;текущий&lt;/f20&gt;&lt;te21/&gt;&lt;tc22/&gt;&lt;ts23/&gt; стиль символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Language&lt;/f0&gt; – determines how the number strings are imported.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T190539Z" creationid="olex" creationdate="20180330T190539Z">
@@ -5331,6 +5339,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Background Color (with a palette of colors)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T182256Z" creationid="olex" creationdate="20180809T182247Z">
+        <seg>Цвет фона (с палитрой цветов)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base (database)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T081618Z" creationid="tagezi" creationdate="20180306T081618Z">
@@ -5535,6 +5551,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T155046Z" creationid="olex" creationdate="20180722T155046Z">
         <seg>Блочное выделение &lt;f0&gt;(Ctrl+Shift+F8)&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bold, Italic, Underline, Overline, Double Underline, Strikethrough, Outline</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T182010Z" creationid="olex" creationdate="20180809T182010Z">
+        <seg>Жирный, Курсив, Подчеркнутый, Надчеркнутый, Двойное подчеркивание, Зачеркнутый, Структура</seg>
       </tuv>
     </tu>
     <tu>
@@ -11533,10 +11557,26 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Font Color (with a palette of colors)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T182225Z" creationid="olex" creationdate="20180809T182225Z">
+        <seg>Цвет шрифта (с палитрой цветов)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Font Lists – Show &lt;i0/&gt;preview of fonts</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T175232Z" creationid="olex" creationdate="20180627T175232Z">
         <seg>Список шрифтов – Просмотр &lt;i0/&gt;шрифтов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Font Name, Font Size</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T181807Z" creationid="olex" creationdate="20180809T181807Z">
+        <seg>Гарнитура и Кегль шрифта</seg>
       </tuv>
     </tu>
     <tu>
@@ -14003,6 +14043,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T211817Z" creationid="olex" creationdate="20180407T211817Z">
         <seg>Выделите необходимое количество столбцов или строк, нажав и удерживая левую кнопку мыши на первом, а затем захватывая требуемое количество заголовков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlighting (with a palette of colors)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T182317Z" creationid="olex" creationdate="20180809T182317Z">
+        <seg>Цвет подсветки (с палитрой цветов)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16660,6 +16708,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T153308Z" creationid="olex" creationdate="20180721T153308Z">
         <seg>Включая общее количество страниц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increase Font Size, Decrease Font Size</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T182158Z" creationid="olex" creationdate="20180809T182158Z">
+        <seg>Увеличить или Уменьшить (размер шрифта, кегль)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19714,6 +19770,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180724T194245Z" creationid="olex" creationdate="20180724T194245Z">
         <seg>Обычный&lt;ts0/&gt; &lt;f1&gt;вид&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not all buttons are visible in a &lt;t13/&gt;standard installation, but you can customize the toolbar to include those you use regularly.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T181725Z" creationid="olex" creationdate="20180809T181725Z">
+        <seg>Не все кнопки видимы после стандартной установке &lt;t13/&gt;, но вы можете настроить панель инструментов, чтобы включить то, что вы используете регулярно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24871,6 +24935,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T195435Z" creationid="olex" creationdate="20180607T195435Z">
         <seg>Подменю и палитры инструментов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Superscript, Subscript</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T182034Z" creationid="olex" creationdate="20180809T182034Z">
+        <seg>Верхний индекс, Нижний индекс</seg>
       </tuv>
     </tu>
     <tu>
@@ -30862,6 +30934,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194652Z" creationid="olex" creationdate="20180306T194652Z">
         <seg>Обновление стилей из документа или шаблона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uppercase, Lowercase</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T182105Z" creationid="olex" creationdate="20180809T182105Z">
+        <seg>Строчные буквы, ПРОПИСНЫЕ</seg>
       </tuv>
     </tu>
     <tu>
