@@ -881,6 +881,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Direct &lt;/f0&gt;formatting (also called &lt;f1&gt;&lt;f2&gt;manual&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; formatting&lt;/f3&gt;) overrides styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T175157Z" creationid="olex" creationdate="20180809T175157Z">
+        <seg>&lt;f0&gt;Прямое &lt;/f0&gt;форматирование (также называемое &lt;f1&gt;&lt;f2&gt;ручным&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; форматированием&lt;/f3&gt;) переопределяет стили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Direct formatting (also called &lt;/f0&gt;&lt;f1&gt;manual formatting&lt;/f1&gt;&lt;f2&gt;)&lt;/f2&gt; overrides styles, and you cannot get rid of the &lt;f3&gt;direct&lt;/f3&gt; formatting by applying a style to it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T183235Z" creationid="olex" creationdate="20180718T183235Z">
@@ -2612,6 +2620,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f4&gt;This means that when a new style is applied, direct formatting is not removed and still determines the displayed format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T175235Z" creationid="olex" creationdate="20180809T175235Z">
+        <seg>&lt;f4&gt;Это означает, что при применении нового стиля прямое форматирование не удаляется и все еще определяет отображаемый формат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f6&gt;This also hides headers, footers, and w&lt;/f6&gt;hite space &lt;f7&gt;in &lt;/f7&gt;Full Screen view.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T164759Z" creationid="olex" creationdate="20180727T164759Z">
@@ -4234,6 +4250,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T174323Z" creationid="olex" creationdate="20180809T174323Z">
         <seg>Выровнять влево, Центрировать по горизонтали, Выровнять вправо или По ширине</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Align Top, Center Vertically, Align Bottom</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T174458Z" creationid="olex" creationdate="20180809T174458Z">
+        <seg>Выровнять По верхнему краю, По середине, По нижнему краю</seg>
       </tuv>
     </tu>
     <tu>
@@ -16608,6 +16632,22 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increase Indent, Decrease Indent</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T174954Z" creationid="olex" creationdate="20180809T174954Z">
+        <seg>Увеличить отступ, Уменьшить отступ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increase Paragraph Spacing, Decrease Paragraph Spacing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T174922Z" creationid="olex" creationdate="20180809T174922Z">
+        <seg>Увеличение межабзацного интервала, Уменьшение межабзацного интервала</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indicates the magnification level of the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T174453Z" creationid="olex" creationdate="20180616T174453Z">
@@ -18112,6 +18152,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153336Z" creationid="User" creationdate="20180311T153336Z">
         <seg>Родной формат файла для формул LibreOffice Math - это ODF Formula с расширением *.odf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Line Spacing (choose from 1, 1.15, 1.5, 2, or custom spacing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T174716Z" creationid="olex" creationdate="20180809T174716Z">
+        <seg>Межстрочный интервал (выбрать из 1, 1.15, 1.5, 2 или Точно)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20911,6 +20959,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193805Z" creationid="olex" creationdate="20180307T193805Z">
         <seg>Абзац</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paragraph (to open the Paragraph dialog)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180809T175044Z" creationid="olex" creationdate="20180809T175044Z">
+        <seg>Абзац (открывает диалоговое окно Абзац)</seg>
       </tuv>
     </tu>
     <tu>
