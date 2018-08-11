@@ -8095,6 +8095,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating &lt;tc0/&gt;&lt;tc1/&gt;&lt;tc2/&gt;lists&lt;ts3/&gt; &lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt;with styles&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T161424Z" creationid="olex" creationdate="20180811T161424Z">
+        <seg>Создание &lt;tc0/&gt;&lt;tc1/&gt;&lt;tc2/&gt;списков&lt;ts3/&gt; &lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt;со стилями&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a document from a template in the Start Center</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194944Z" creationid="olex" creationdate="20180306T194944Z">
@@ -30503,6 +30511,9 @@ denkin: попробовал - не получается, ведь кнопку 
       <note>не нашел такого пункта в меню Формат</note>
       <tuv lang="EN-US">
         <seg>To turn &lt;o0/&gt;auto&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;correct&lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;o6/&gt;&lt;te7/&gt; on or off, choose &lt;f8&gt;Format &gt; AutoCorrect&lt;/f8&gt; and select or deselect the items on the list.&lt;ts9/&gt; The Help describes each of these choices.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T161738Z">
+        <seg>Чтобы включить или выключить &lt;o0/&gt;автозамену&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;o6/&gt;&lt;te7/&gt;, выберите &lt;f8&gt;Формат &gt; Автозамена&lt;/f8&gt; и выберите или отмените выбор элементов в списке.&lt;ts9/&gt; Справка описывает каждый из этих вариантов.</seg>
       </tuv>
     </tu>
     <tu>
