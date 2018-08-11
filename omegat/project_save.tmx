@@ -632,6 +632,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;B&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;ullets and numbering &lt;f3&gt;can be applied to&lt;/f3&gt; already selected text or &lt;f4&gt;they can be &lt;/f4&gt;appl&lt;f5&gt;ied &lt;/f5&gt;as you type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T171009Z" creationid="olex" creationdate="20180811T171009Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;Маркеры и нумерация &lt;f3&gt;могут быть применены к&lt;/f3&gt; уже выбранному тексту или &lt;f4&gt;могут &lt;/f4&gt;применяться&lt;f5&gt; &lt;/f5&gt;по мере ввода текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;B&lt;/f0&gt;ullets and numbering applied in these ways cannot be removed with the command “clear direct formatting” on the Format menu or by using &lt;f1&gt;Ctrl + M&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T171228Z" creationid="olex" creationdate="20180811T171228Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;Маркеры и нумерация, применяемые этими способами, не могут быть удалены с помощью команды “Очистить форматирование” в меню Формат или с помощью сочетания клавиш &lt;f1&gt;Ctrl+M&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Be careful when changing a&lt;/f0&gt; language in character &lt;f1&gt;or&lt;/f1&gt; paragraph styles, &lt;f2&gt;as this will change the language for all characters or paragraphs using that style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T170922Z" creationid="olex" creationdate="20180730T170922Z">
@@ -2262,6 +2278,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T162840Z" creationid="olex" creationdate="20180811T162459Z">
         <seg>&lt;f0&gt;Используйте стили абзаца &lt;/f0&gt;&lt;f1&gt;Маркированный список 1, Маркированный список &lt;s2/&gt;2, Маркированный список 3 и т.д., &lt;/f1&gt;&lt;f3&gt;для создания маркированных списков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Use the &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;Paragraph panel of the Sidebar’s Properties deck</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T170627Z" creationid="olex" creationdate="20180811T170627Z">
+        <seg>&lt;f0&gt;Используйте кнопки &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;на панели абзац на вкладке Свойства боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4566,6 +4590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also specify the position and spacing for each level on the Position page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T165606Z" creationid="olex" creationdate="20180811T165606Z">
+        <seg>Также укажите позицию и интервал для каждого уровня на вкладке Положение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, some of the dialogs may be different because of the settings selected in LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T082216Z" creationid="tagezi" creationdate="20180310T082216Z">
@@ -5744,6 +5776,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T174052Z" creationid="olex" creationdate="20180809T173749Z">
         <seg>Маркированный список Вкл./Выкл. (с палитрой Маркированный список)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bullets and numbers can be manuaIly applied in three basic ways:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T170312Z" creationid="olex" creationdate="20180811T170312Z">
+        <seg>Маркеры и нумерация могут применяться вручную тремя способами:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20610,6 +20650,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you have set up nested lists, you can readily change the hierarchy of a&lt;f0&gt;n item.&lt;/f0&gt; &lt;f1&gt;To demote an item one level, position the cursor at &lt;/f1&gt;&lt;f2&gt;the &lt;/f2&gt;&lt;f3&gt;beginning of the line (after the bullet or number) and &lt;/f3&gt;&lt;f4&gt;press &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Tab&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T170010Z" creationid="olex" creationdate="20180811T170010Z">
+        <seg>После того, как вы настроили вложенные списки, вы можете легко изменить иерархию &lt;f0&gt;элемента.&lt;/f0&gt; &lt;f1&gt;Чтобы понизить уровень предмета на один уровень, расположите курсор &lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;в начале строки (после маркера или цифры) и &lt;/f3&gt;&lt;f4&gt;нажмите &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Tab&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One document</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135107Z" creationid="tagezi" creationdate="20180320T135107Z">
@@ -22016,6 +22064,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T134402Z" creationid="tagezi" creationdate="20180312T134402Z">
         <seg>Запись &lt;i0/&gt;макроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to the &lt;/f0&gt;&lt;f4&gt;Writer Guide&lt;/f4&gt;&lt;f5&gt; for details.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T165701Z" creationid="olex" creationdate="20180811T165701Z">
+        <seg>Смотрите &lt;/f0&gt;&lt;f4&gt;Руководство по Writer&lt;/f4&gt;&lt;f5&gt; для получения подробной информации.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30211,6 +30267,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To promote an item one level, press &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Shift + Tab.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T170125Z" creationid="olex" creationdate="20180811T170125Z">
+        <seg>Чтобы повысить элемент на один уровень, нажмите &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Shift + Tab.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To publish on a Wiki server, export the documents with MediaWiki (.txt) format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T212011Z" creationid="tagezi" creationdate="20180304T212011Z">
@@ -31355,6 +31419,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use AutoCorrect to autoformat text, as described above.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T170342Z" creationid="olex" creationdate="20180811T170342Z">
+        <seg>Используйте Автозамену для автоматического форматирования текста, как описано выше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use AutoText to store text, tables, fields, and other items for reuse and assign them to a key combination for easy retrieval.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T175615Z" creationid="olex" creationdate="20180808T175615Z">
@@ -31416,6 +31488,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T175533Z" creationid="olex" creationdate="20180416T175533Z">
         <seg>Удерживайте клавишу &lt;f0&gt;Shift&lt;/f0&gt; или &lt;f1&gt;Ctrl&lt;/f1&gt; (&lt;f2&gt;Options&lt;/f2&gt; на Mac), чтобы выбрать несколько листов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the &lt;ts0/&gt;&lt;f1&gt;Bullets and &lt;/f1&gt;&lt;te2/&gt;Numbering &lt;tc3/&gt;buttons on the Formatting &lt;tc4/&gt;bar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T170510Z" creationid="olex" creationdate="20180811T170510Z">
+        <seg>Используйте кнопки &lt;ts0/&gt;&lt;f1&gt;Маркированный список и &lt;/f1&gt;&lt;te2/&gt;Нумерованный список &lt;tc3/&gt;на панели инструментов &lt;tc4/&gt;Форматирование.</seg>
       </tuv>
     </tu>
     <tu>
