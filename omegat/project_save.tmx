@@ -2226,10 +2226,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Use &lt;/f0&gt;paragraph styles Numbering 1, Numbering 2, Numbering 3, etc, for creating numbered lists.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T162834Z" creationid="olex" creationdate="20180811T162834Z">
+        <seg>&lt;f0&gt;Используйте &lt;/f0&gt;стили абзаца Нумерованный список 1, Нумерованный список 2, Нумерованный список 3, и т.д., для создания нумерованных списков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Use &lt;/f0&gt;the keyboard shortcut &lt;f1&gt;Ctrl+S&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T182905Z" creationid="olex" creationdate="20180617T182905Z">
         <seg>&lt;f0&gt;Используйте&lt;/f0&gt; сочетание клавиш &lt;f1&gt;Ctrl+S&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Use paragraph styles &lt;/f0&gt;&lt;f1&gt;List 1, List &lt;s2/&gt;2, List 3, etc. &lt;/f1&gt;&lt;f3&gt;for creating bulleted lists.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T162459Z" creationid="olex" creationdate="20180811T162459Z">
+        <seg>&lt;f0&gt;Используйте стили абзаца &lt;/f0&gt;&lt;f1&gt;Маркированный список 1, Маркированный список &lt;s2/&gt;2, Маркированный список 3 и т.д. &lt;/f1&gt;&lt;f3&gt;для создания маркированных списков.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2628,6 +2644,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f1&gt;However, t&lt;/f1&gt;he&lt;f2&gt;se styles do not include options for settings such as the type of bullet or position of numbers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T162002Z" creationid="olex" creationdate="20180811T162002Z">
+        <seg>&lt;f1&gt;Однако эти&lt;/f1&gt;&lt;f2&gt; стили не включают параметры для таких настроек, как тип маркера или нумерации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f1&gt;If you have made changes to a file since the last save, a&lt;/f1&gt; confirmation dialog will warn you that &lt;f2&gt;Reloading&lt;/f2&gt; will discard your last changes.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T183136Z" creationid="olex" creationdate="20180621T183136Z">
@@ -2789,6 +2813,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;Writer comes with two sets of paragraph styles for this purpose.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T161824Z" creationid="olex" creationdate="20180811T161824Z">
+        <seg>&lt;s0/&gt;Для этой цели Writer поставляется с двумя наборами стилей абзацев.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0/&gt;You can also choose to complete functions from within the wizard with easy to use steps rather than having to type full formulas into the formula bar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180530T173214Z" creationid="olex" creationdate="20180506T190005Z">
@@ -2929,6 +2961,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T112350Z" creationid="olex" creationdate="20180715T112350Z">
         <seg>&lt;s2/&gt;Используйте этот параметр, чтобы восстановить настройки пользователя, установленные расширения или и то, и другое из предыдущего работоспособного состоянии, если&lt;/f1&gt; &lt;f3&gt;вы подозреваете&lt;/f3&gt;&lt;f4&gt;, что ваши проблемы были вызваны недавними изменениями одного из них&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s3/&gt;&lt;f4&gt;It is recommended to use them together in these ways:&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T162215Z" creationid="olex" creationdate="20180811T162215Z">
+        <seg>&lt;s3/&gt;&lt;f4&gt;Рекомендуется использовать их следующим образом:&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28196,6 +28236,22 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These styles use list styles List 1, List 2, List 3, etc. &lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T162640Z" creationid="olex" creationdate="20180811T162640Z">
+        <seg>Эти стили используют стили списка Маркированный список 1, Маркированный список 2, Маркированный список 3 и т.д.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These styles use the &lt;f1&gt;l&lt;/f1&gt;ist style&lt;f2&gt;s&lt;/f2&gt; called &lt;f3&gt;Numbering &lt;/f3&gt;1, &lt;f4&gt;Numbering 2, etc&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T162733Z" creationid="olex" creationdate="20180811T162733Z">
+        <seg>Используйте стили абзаца &lt;f1&gt;l&lt;/f1&gt;ist style&lt;f2&gt;s&lt;/f2&gt; called &lt;f3&gt;Numbering &lt;/f3&gt;1, &lt;f4&gt;Numbering 2, etc&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These tools are divided between the Tools and Data menus.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T184144Z" creationid="olex" creationdate="20180507T184144Z">
@@ -28805,6 +28861,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T041308Z" creationid="tagezi" creationdate="20180316T041308Z">
         <seg>ThisComponent ссылается на текущий документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those settings &lt;/f2&gt;come from list styles, which are a different type of style than paragraph styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T162120Z" creationid="olex" creationdate="20180811T162120Z">
+        <seg>Эти настройки &lt;/f2&gt;относятся к стилям списка, которые отличаются от стилей абзаца.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32826,6 +32890,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T185140Z" creationid="olex" creationdate="20180508T185140Z">
         <seg>Если вы хотите удалить их, вы должны удалить каждый разрыв по отдельности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever possible, use paragraph styles for creating bulleted and numbered lists.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T161801Z" creationid="olex" creationdate="20180811T161801Z">
+        <seg>По возможности используйте стили абзацев для создания маркированных и нумерованных списков.</seg>
       </tuv>
     </tu>
     <tu>
