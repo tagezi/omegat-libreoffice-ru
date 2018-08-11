@@ -15584,6 +15584,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you notice unexpected formatting changes occurring in your document, this is the first place to look for the cause.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T160143Z" creationid="olex" creationdate="20180811T160143Z">
+        <seg>Если вы заметили нежелательные изменения форматирования, происходящие в вашем документе, то это искать причину в первую очередь необходимо здесь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you plan to share documents with people who use editors that use older versions of ODF, you may wish to save the document using ODF version 1.0/1.1.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T181713Z" creationid="olex" creationdate="20180707T181713Z">
@@ -16364,6 +16372,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T181142Z" creationid="olex" creationdate="20180611T181142Z">
         <seg>В итоге, вы запускаете LibreOffice так же, как вы запускаете любую другую программу на своем компьютере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In most cases Undo (&lt;f0&gt;Ctrl+Z&lt;/f0&gt;) fixes the issue.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T160248Z" creationid="olex" creationdate="20180811T160248Z">
+        <seg>В большинстве случаев операция отмены (&lt;f0&gt;Ctrl+Z&lt;/f0&gt;) устраняет проблему.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30481,6 +30497,12 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T194442Z" creationid="olex" creationdate="20180502T194013Z">
         <seg>Чтобы выключить состояние скрытия защищенных ячеек:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>не нашел такого пункта в меню Формат</note>
+      <tuv lang="EN-US">
+        <seg>To turn &lt;o0/&gt;auto&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;correct&lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;o6/&gt;&lt;te7/&gt; on or off, choose &lt;f8&gt;Format &gt; AutoCorrect&lt;/f8&gt; and select or deselect the items on the list.&lt;ts9/&gt; The Help describes each of these choices.</seg>
       </tuv>
     </tu>
     <tu>
