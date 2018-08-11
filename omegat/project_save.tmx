@@ -3453,6 +3453,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A bulleted list is created when you type a hyphen (-), star (*), or plus sign (+), followed by a space or tab at the beginning of a paragraph.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T155202Z" creationid="olex" creationdate="20180811T155202Z">
+        <seg>Маркированный список создается при вводе дефиса (-), звездочки (*) или знака плюс (+), за которым следует пробел или табуляция в начале абзаца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A color palette is displayed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T195751Z" creationid="olex" creationdate="20180424T195751Z">
@@ -3801,6 +3809,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T194341Z" creationid="olex" creationdate="20180330T194341Z">
         <seg>Числовой формат не применяется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A numbered list is created when you type a number followed by a period (.), followed by a space or tab at the beginning of a paragraph.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T155428Z" creationid="olex" creationdate="20180811T155428Z">
+        <seg>Нумерованный список создается, когда вы вводите число, за которым следует точка (.), а затем пробел или табуляция в начале абзаца.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5355,6 +5371,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic numbering is only applied to paragraphs formatted with the &lt;f0&gt;Default&lt;/f0&gt;, &lt;f1&gt;Text body&lt;/f1&gt; or &lt;f2&gt;Text body indent&lt;/f2&gt; paragraph styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T160025Z" creationid="olex" creationdate="20180811T160025Z">
+        <seg>Автоматическая нумерация применяется только к параграфам, отформатированным стилями абзаца &lt;f0&gt;Базовый&lt;/f0&gt;, &lt;f1&gt;Основной текст&lt;/f1&gt; или &lt;f2&gt;Основной текст с отступом&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic saving, like manual saving, overwrites the last saved state of the file.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T175607Z" creationid="olex" creationdate="20180619T175537Z">
@@ -5623,6 +5647,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T155807Z" creationid="olex" creationdate="20180721T155807Z">
         <seg>Встроенные инструменты рисования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bulleted and numbered lists.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T154936Z" creationid="olex" creationdate="20180811T154936Z">
+        <seg>Маркированные и нумерованные списки.</seg>
       </tuv>
     </tu>
     <tu>
