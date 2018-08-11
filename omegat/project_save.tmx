@@ -696,6 +696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;reating ne&lt;te3/&gt;&lt;ts4/&gt;sted lists</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T171525Z" creationid="olex" creationdate="20180811T171525Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;Создание &lt;te3/&gt;&lt;ts4/&gt;вложенных списков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;C&lt;/f0&gt;&lt;te1/&gt;hange &lt;i2/&gt;the dictionary language (for example, Spanish, French or German) &lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;in the S&lt;/f5&gt;&lt;te6/&gt;pelling&lt;tc7/&gt; dialog&lt;ts8/&gt; &lt;f9&gt;by selecting the appropriate language in the Text language drop&lt;/f9&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;-&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt;down&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt; list&lt;/f18&gt;&lt;te19/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T182602Z" creationid="olex" creationdate="20180804T182458Z">
@@ -2258,6 +2266,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Use &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;&lt;s3/&gt;the buttons on the Bullets and Numbering toolbar (Figure &lt;t4&gt;17&lt;/t4&gt;)&lt;ts5/&gt; &lt;f6&gt;to&lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;&lt;ts9/&gt;&lt;f10&gt; &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;move items up or down the list, create sub-points, change the style of bullets, and access the Bullets and Numbering dialog, which contains more detailed controls.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T172030Z" creationid="olex" creationdate="20180811T172030Z">
+        <seg>&lt;f0&gt;Используйте &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;&lt;s3/&gt;кнопки на панели инструментов Маркеры и нумерация (Рисунок &lt;t4&gt;17&lt;/t4&gt;)&lt;ts5/&gt; &lt;f6&gt;, чтобы&lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;&lt;ts9/&gt;&lt;f10&gt; &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;перемещать элементы вверх или вниз по списку, создавать подпункты, изменять стиль маркеров и получать доступ к диалоговому окну «Маркеры и нумерация», содержащему более подробные элементы управления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Use &lt;/f0&gt;paragraph styles Numbering 1, Numbering 2, Numbering 3, etc, for creating numbered lists.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T162834Z" creationid="olex" creationdate="20180811T162834Z">
@@ -2993,6 +3009,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T204929Z" creationid="olex" creationdate="20180316T204929Z">
         <seg>&lt;s2/&gt; Или, как вариант, поместите курсор в таблицу, которую необходимо отформатировать, и дважды щелкните по стилю, указанному во вкладке &lt;f3&gt;Стили таблиц&lt;/f3&gt; в окне &lt;f4&gt;Стили&lt;/f4&gt; или на &lt;f5&gt;боковой панели&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s2/&gt;R&lt;f3&gt;ather, they are turned off or removed from selected text by toggling the Bullets and Numbering buttons on the Formatting bar or on the Sidebar’s Properties deck.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T171443Z" creationid="olex" creationdate="20180811T171443Z">
+        <seg>&lt;s2/&gt;&lt;f3&gt;Они отключаются или удаляются из выделенного текста, переключением кнопки Маркированный список и Нумерованный список на панели инструментов Форматирование или на вкладке Свойства боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14923,6 +14947,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130309Z" creationid="tagezi" creationdate="20180320T130309Z">
         <seg>Если параметры не выбраны, библиотека будет скопирована в ваш каталог пользователя макросов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If numbering or bullets are being applied automatically in a way that you find inappropriate, you can switch them off temporarily by unchecking &lt;f0&gt;Format &gt; AutoCorrect &gt; While Typing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T172301Z" creationid="olex" creationdate="20180811T172301Z">
+        <seg>Если нумерация или маркеры применяются автоматически не так, как вам необходимо, то вы можете временно отключить их, сняв флажок в меню &lt;f0&gt;Сервис &gt; Автозамена &gt; При вводе&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31399,6 +31431,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T182757Z" creationid="olex" creationdate="20180617T182704Z">
         <seg>Используйте &lt;f0&gt;пункт меню&lt;/f0&gt; &lt;f1&gt;Файл &gt; Сохранить&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use &lt;f13&gt;View &gt; Toolbars &gt; Bullets and Numbering&lt;/f13&gt; to see the toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T172133Z" creationid="olex" creationdate="20180811T172133Z">
+        <seg>Активируйте &lt;f13&gt;Вид &gt; Панели инструментов &gt; Маркеры и нумерация&lt;/f13&gt;, чтобы отобразить эту панель.</seg>
       </tuv>
     </tu>
     <tu>
