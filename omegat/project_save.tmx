@@ -3341,6 +3341,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;ts1/&gt;&lt;f2&gt;Note that &lt;/f2&gt;&lt;te3/&gt;&lt;tc4/&gt;&lt;ts5/&gt;&lt;f6&gt;t&lt;/f6&gt;&lt;te7/&gt;he line is actually the lower border of the preceding paragraph.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T154802Z" creationid="olex" creationdate="20180811T154802Z">
+        <seg>&lt;ts1/&gt;&lt;f2&gt;Обратите внимание, что &lt;/f2&gt;&lt;te3/&gt;&lt;tc4/&gt;&lt;ts5/&gt;&lt;f6&gt;&lt;/f6&gt;&lt;te7/&gt;эта линия на самом деле является нижней границей предыдущего абзаца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;ts11/&gt;&lt;f12&gt;T&lt;/f12&gt;o open the Find &amp; Replace dialog, &lt;te13/&gt;&lt;tc14/&gt;&lt;ts15/&gt;&lt;f16&gt;s&lt;/f16&gt;&lt;te17/&gt;elect the button&lt;ts18/&gt; (&lt;df19&gt;&lt;di20/&gt;&lt;/df19&gt;) &lt;te21/&gt;&lt;s22/&gt;to the right of Match Case&lt;tc23/&gt;&lt;tc24/&gt;&lt;tc25/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T171442Z" creationid="olex" creationdate="20180802T171442Z">
@@ -14175,6 +14183,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Horizontal lines.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T154338Z" creationid="olex" creationdate="20180811T154338Z">
+        <seg>Горизонтальные линии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How can I contribute to LibreOffice?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T183324Z" creationid="tagezi" creationdate="20180310T183324Z">
@@ -15604,6 +15620,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T181806Z" creationid="olex" creationdate="20180329T181415Z">
         <seg>Если вы наберете имя именованного диапазона и нажмёте клавишу &lt;f1&gt;Enter&lt;/f1&gt;, то будет выбран и отображен данный именованный диапазон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you type three or more hyphens (---), underscores (___) or equal signs (===) on a line and then press &lt;f0&gt;Enter&lt;/f0&gt;, the paragraph is replaced by a horizontal line as wide as the column in the page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T154641Z" creationid="olex" creationdate="20180811T154641Z">
+        <seg>Если вы наберете три или более дефиса (---), подчеркивания (___) или знака равно (===) в строке и затем нажмете &lt;f0&gt;Enter&lt;/f0&gt;, то абзац заменится горизонтальной линией шириной, равной столбцу на странице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24460,6 +24484,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T141031Z" creationid="olex" creationdate="20180306T202437Z">
         <seg>Некоторые общие примеры использования стилей приведены в «&lt;rf0&gt;Примеры использования стиля&lt;/rf0&gt;» на странице &lt;rf1&gt;22&lt;/rf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some common unwanted or unexpected formatting changes include:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T154322Z" creationid="olex" creationdate="20180811T154322Z">
+        <seg>Некоторые распространенные нежелательные или неожиданные изменения форматирования включают:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34150,6 +34182,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T190805Z" creationid="olex" creationdate="20180412T190805Z">
         <seg>Вы можете разделить элементы даты с помощью косой черты (/) или дефиса (-) или использовать текст, например 10 октября 2012 года.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can set Writer to format &lt;ts0/&gt;&lt;f1&gt;or correct &lt;/f1&gt;&lt;te2/&gt;parts of a document automatically&lt;ts3/&gt; &lt;f4&gt;as you typ&lt;/f4&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;e,&lt;/f7&gt;&lt;te8/&gt; according to the choices made on the Options page of the AutoCorrect dialog (&lt;f9&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f9&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T154258Z" creationid="olex" creationdate="20180811T154258Z">
+        <seg>Вы можете настроить Writer на автоматическое форматирование &lt;ts0/&gt;&lt;f1&gt;или исправление &lt;/f1&gt;&lt;te2/&gt;частей документа&lt;ts3/&gt; &lt;f4&gt;в соответствии с&lt;/f4&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;/f7&gt;&lt;te8/&gt; настройками, сделанными на странице Параметры диалогового окна Автозамена (&lt;f9&gt;Сервис &gt; Автозамена &gt; Параметры автозамены...&lt;/f9&gt;).</seg>
       </tuv>
     </tu>
     <tu>
