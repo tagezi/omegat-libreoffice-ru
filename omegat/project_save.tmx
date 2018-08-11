@@ -817,6 +817,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Creating &lt;/f0&gt;nested lists</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T165044Z" creationid="olex" creationdate="20180811T165044Z">
+        <seg>&lt;f0&gt;Создание &lt;/f0&gt; вложенных списков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Cross-platform.&lt;/f0&gt; LibreOffice runs on several hardware architectures and under multiple operating systems, such as Microsoft Windows, Mac OS X and Linux.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T172534Z" creationid="olex" creationdate="20180611T172534Z">
@@ -2451,6 +2459,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;With paragraph styles, you can easily create nested lists, in which where list items have subpoints under them, as in an outline.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T165205Z" creationid="olex" creationdate="20180811T165205Z">
+        <seg>&lt;f0&gt;С помощью стилей абзаца вы можете легко создавать вложенные списки, в которых элементы списка имеют подпункты под ними, как в схеме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Wrap:&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Modify &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;wrap &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;and spacing &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;w&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;here these are available.&lt;/f12&gt;&lt;/f11&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T172855Z" creationid="olex" creationdate="20180723T172810Z">
@@ -2885,6 +2901,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;This requires specifying the settings for the additional levels.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T165301Z" creationid="olex" creationdate="20180811T165301Z">
+        <seg>&lt;s1/&gt;Для этого необходимо указать настройки для дополнительных уровней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s1/&gt;To toggle the visibility of comments, select &lt;f2&gt;View &gt; Comments &lt;/f2&gt;from the &lt;f3&gt;Main Menu.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T184739Z" creationid="olex" creationdate="20180506T183525Z">
@@ -2961,6 +2985,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T112613Z" creationid="olex" creationdate="20180715T112613Z">
         <seg>&lt;s2/&gt;Это подходящий вариант, если вы испытываете сбои при запуске или визуальные сбои, которые часто связаны с аппаратным ускорением&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s2/&gt;To do this, &lt;s3/&gt;right click on the list style (not the paragraph style) and specify how each layer will be labeled, using the Numbering Style page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T165518Z" creationid="olex" creationdate="20180811T165518Z">
+        <seg>&lt;s2/&gt;Для этого&lt;s3/&gt; щелкните правой кнопкой мыши стиль списка (а не стиль абзаца), выберите Изменить и укажите, как будет отображаться каждый слой списка, используя вкладку Стиль нумерации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18468,6 +18500,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>List styles are not meant to be used on their own.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T164043Z" creationid="olex" creationdate="20180811T164043Z">
+        <seg>Стили списка не предназначены для использования сами по себе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Listing &lt;seq0&gt;1&lt;/seq0&gt;: Simple macro that says hello</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T104115Z" creationid="tagezi" creationdate="20180312T104115Z">
@@ -21936,6 +21976,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T182140Z" creationid="olex" creationdate="20180326T182140Z">
         <seg>Диапазон не смежных ячеек</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rather, they &lt;f0&gt;are designed to be &lt;/f0&gt;&lt;s1/&gt;attached to paragraph style&lt;f2&gt;s&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T165024Z" creationid="olex" creationdate="20180811T165024Z">
+        <seg>Скорее, они &lt;f0&gt;предназначены для &lt;/f0&gt;&lt;s1/&gt;прикрепления к стилям абзаца&lt;f2&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
