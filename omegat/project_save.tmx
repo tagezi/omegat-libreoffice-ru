@@ -2146,6 +2146,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;To associate one of these paragraph styles to a list style, go to &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Styles &lt; Manage Styles&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or click &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;F11 &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;to open the list of styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T163333Z" creationid="olex" creationdate="20180811T163333Z">
+        <seg>&lt;f0&gt;Чтобы связать один из этих стилей абзаца со стилем списка, перейдите к &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Стили &lt; Управление стилями&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; или нажмите &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;F11&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, чтобы открыть список стилей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;To move to a page in the document use the menu: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Go to Page&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or the keyboard shortcut &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;CTRL + G&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; to open the Go To Page dialog (Figure &lt;/f6&gt;&lt;f7&gt;&lt;t8&gt;7&lt;/t8&gt;&lt;/f7&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T173458Z" creationid="olex" creationdate="20180727T173458Z">
@@ -2244,8 +2252,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Use paragraph styles &lt;/f0&gt;&lt;f1&gt;List 1, List &lt;s2/&gt;2, List 3, etc. &lt;/f1&gt;&lt;f3&gt;for creating bulleted lists.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180811T162459Z" creationid="olex" creationdate="20180811T162459Z">
-        <seg>&lt;f0&gt;Используйте стили абзаца &lt;/f0&gt;&lt;f1&gt;Маркированный список 1, Маркированный список &lt;s2/&gt;2, Маркированный список 3 и т.д. &lt;/f1&gt;&lt;f3&gt;для создания маркированных списков.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T162840Z" creationid="olex" creationdate="20180811T162459Z">
+        <seg>&lt;f0&gt;Используйте стили абзаца &lt;/f0&gt;&lt;f1&gt;Маркированный список 1, Маркированный список &lt;s2/&gt;2, Маркированный список 3 и т.д., &lt;/f1&gt;&lt;f3&gt;для создания маркированных списков.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16632,6 +16640,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Numbering drop-down list, choose the appropriate list style.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T163733Z" creationid="olex" creationdate="20180811T163733Z">
+        <seg>В раскрывающемся списке Стиль нумерации выберите соответствующий стиль списка.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Open dialog, you can reduce the list of files by selecting the type of file you are looking for.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T195637Z" creationid="olex" creationdate="20180616T195604Z">
@@ -21219,6 +21235,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Par&lt;te0/&gt;&lt;ts1/&gt;&lt;f2&gt;agraph&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt; styles such as List 1 Start and List 1 End enable you to adjust sp&lt;/f5&gt;&lt;te6/&gt;&lt;ts7/&gt;&lt;f8&gt;ecific properties (such as the space between paragraphs) for items at the beginning or end of the list&lt;/f8&gt;&lt;te9/&gt;&lt;ts10/&gt;&lt;f11&gt;.&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T164021Z" creationid="olex" creationdate="20180811T164021Z">
+        <seg>&lt;te0/&gt;&lt;ts1/&gt;&lt;f2&gt;Стили абзаца&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt; , такие как Начало нумерованного списка 1 и Конец нумерованного списка 1, позволяют настраивать &lt;/f5&gt;&lt;te6/&gt;&lt;ts7/&gt;&lt;f8&gt;определенные свойства (например, пространство между абзацами) для элементов в начале или конце списка&lt;/f8&gt;&lt;te9/&gt;&lt;ts10/&gt;&lt;f11&gt;.&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Paragraph</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193805Z" creationid="olex" creationdate="20180307T193805Z">
@@ -22216,6 +22240,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064038Z" creationid="tagezi" creationdate="20180305T064038Z">
         <seg>Текст с форматированием (.rtf)&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right click on the paragraph style you want to use, then &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Modify &lt; Outline &amp; Numbering&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T163634Z" creationid="olex" creationdate="20180811T163634Z">
+        <seg>Щелкните правой кнопкой мыши стиль абзаца, который вы хотите использовать, затем выберите &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Изменить &lt; Структура и нумерация&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28246,8 +28278,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>These styles use the &lt;f1&gt;l&lt;/f1&gt;ist style&lt;f2&gt;s&lt;/f2&gt; called &lt;f3&gt;Numbering &lt;/f3&gt;1, &lt;f4&gt;Numbering 2, etc&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180811T162733Z" creationid="olex" creationdate="20180811T162733Z">
-        <seg>Используйте стили абзаца &lt;f1&gt;l&lt;/f1&gt;ist style&lt;f2&gt;s&lt;/f2&gt; called &lt;f3&gt;Numbering &lt;/f3&gt;1, &lt;f4&gt;Numbering 2, etc&lt;/f4&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180811T163105Z" creationid="olex" creationdate="20180811T162733Z">
+        <seg>Эти стили используют &lt;f1&gt;стили списка&lt;/f1&gt;&lt;f2&gt;, &lt;/f2&gt;называемые &lt;f3&gt;Нумерованный &lt;/f3&gt;123, &lt;f4&gt;Нумерованный abc, и т.д.&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
