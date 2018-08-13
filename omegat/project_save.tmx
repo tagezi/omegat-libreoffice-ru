@@ -15928,6 +15928,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to use braces within your formula, you use the commands &lt;f0&gt;lbrace&lt;/f0&gt; and &lt;f1&gt;rbrace&lt;/f1&gt; within the markup language.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T111206Z" creationid="asus" creationdate="20180813T111206Z">
+        <seg>Если вы хотите использовать фигурные скобки, как элемент формулы, используйте команды &lt;f0&gt;lbrace&lt;/f0&gt; и &lt;f1&gt;rbrace&lt;/f1&gt; в языке разметки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want x+1 rather than x to be the denominator, you must bracket them together using braces so that both will be placed there.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T105013Z" creationid="asus" creationdate="20180813T105013Z">
