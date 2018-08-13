@@ -3805,6 +3805,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A list of all brackets available within Math can be found in Appendix A, Commands Reference, in the &lt;f2&gt;Math Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T115029Z" creationid="asus" creationdate="20180813T115029Z">
+        <seg>Список всех скобок доступных в Math находится в Приложенииx A, Справочник команд, в &lt;f2&gt;Руководстве пользователя LibreOffce Math&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A list of page styles pops up; choose a different style by clicking on it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T163207Z" creationid="olex" creationdate="20180721T163207Z">
@@ -15932,6 +15940,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T092702Z" creationid="tagezi" creationdate="20180315T092702Z">
         <seg>Если вы используете символические константы, определенные интерфейсом прикладного программирования (API), безопаснее предположить, что имена будут чувствительны к регистру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want all brackets to be scalable, go to &lt;f0&gt;Format &gt; Spacing&lt;/f0&gt; to open the Spacing dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T115143Z" creationid="asus" creationdate="20180813T115143Z">
+        <seg>Если вы хотите, чтобы скобки всегда были масштабируемыми, выберите пункт меню &lt;f0&gt;Формат &gt; Интервалы&lt;/f0&gt;, чтобы открыть диалог Интервалы.</seg>
       </tuv>
     </tu>
     <tu>
