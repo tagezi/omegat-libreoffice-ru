@@ -5089,6 +5089,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any tab stops that you have defined will overwrite the default tab stops.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T180454Z" creationid="olex" creationdate="20180813T180454Z">
+        <seg>Любые табуляторы, которые вы определили, перезапишут табуляторы по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any work done inside the dialog is not usually recorded.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T180643Z" creationid="tagezi" creationdate="20180319T180643Z">
@@ -25715,6 +25723,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tab settings affect indentation of full paragraphs (using the &lt;f1&gt;Increase Indent&lt;/f1&gt; and &lt;f2&gt;Decrease Indent&lt;/f2&gt; buttons on the Format&lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;ti&lt;/f5&gt;&lt;te6/&gt;&lt;ts7/&gt;&lt;f8&gt;ng&lt;/f8&gt;&lt;te9/&gt; toolbar) as well as indentation of parts of a paragraph (by pressing the &lt;f10&gt;Tab&lt;/f10&gt; key on the keyboard).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T181032Z" creationid="olex" creationdate="20180813T180903Z">
+        <seg>Настройки табуляции влияют на отступы начала абзацев (с помощью кнопок &lt;f1&gt;Увеличить отступ&lt;/f1&gt; и &lt;f2&gt;Уменьшить отступ&lt;/f2&gt; на панели инструментов &lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;Форматирование&lt;/f5&gt;&lt;te6/&gt;&lt;ts7/&gt;&lt;f8&gt; &lt;/f8&gt;&lt;te9/&gt;), а также на отступы частей абзаца (при нажатии клавиши &lt;f10&gt;Tab&lt;/f10&gt; на клавиатуре).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tabbed page (not strictly speaking a control).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T145525Z" creationid="tagezi" creationdate="20180310T145525Z">
@@ -27422,8 +27438,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The horizontal ruler shows &lt;i0/&gt;the tab stops.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180813T174723Z" creationid="olex" creationdate="20180813T174723Z">
-        <seg>Горизонтальная линейка показывает &lt;i0/&gt;остановки табуляции.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T180318Z" creationid="olex" creationdate="20180813T174723Z">
+        <seg>Горизонтальная линейка показывает &lt;i0/&gt;табуляторы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32632,6 +32648,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T150634Z" creationid="olex" creationdate="20180306T193836Z">
         <seg>Использование окна Стили</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the default tab spacing can cause formatting problems if you share documents with other people.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T181106Z" creationid="olex" creationdate="20180813T181106Z">
+        <seg>Использование интервала табуляции по умолчанию может привести к проблемам с форматированием, если вы делитесь документами с другими людьми.</seg>
       </tuv>
     </tu>
     <tu>
