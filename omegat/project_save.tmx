@@ -16024,6 +16024,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you use the default tab spacing and then send the document to someone else who has chosen a different default tab spacing, tabbed material will change to use the other person’s settings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T182531Z" creationid="olex" creationdate="20180813T182531Z">
+        <seg>Если вы используете шаг табуляции по умолчанию, а затем отправляете документ кому-то, кто выбрал другой шаг вкладок по умолчанию, то материал с табуляцией изменится, используя настройки этого человека.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want all brackets to be scalable, go to &lt;f0&gt;Format &gt; Spacing&lt;/f0&gt; to open the Spacing dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T115143Z" creationid="asus" creationdate="20180813T115143Z">
