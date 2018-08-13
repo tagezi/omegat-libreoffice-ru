@@ -327,6 +327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;2 over x + 1&lt;/f0&gt; gives the result&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T104450Z" creationid="asus" creationdate="20180813T104450Z">
+        <seg>&lt;f0&gt;2 over x + 1&lt;/f0&gt; даёт результат&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;2&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Copyright&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T123220Z" creationid="olex" creationdate="20180715T123220Z">
@@ -19180,6 +19188,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Math has recognized that the 2 before and the x after the over as belonging to the fraction, and has represented them accordingly.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T104724Z" creationid="asus" creationdate="20180813T104724Z">
+        <seg>Math посчитал, что цифра 2 перед оператором over и х после этого оператора являются дробью и соответственно отобразил это.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Math is the LibreOffice formula or equation editor.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T203842Z" creationid="olex" creationdate="20180607T203842Z">
@@ -32012,8 +32028,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>Using braces</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="asus" changedate="20180813T102757Z" creationid="asus" creationdate="20180813T102757Z">
-        <seg>Использование скобок</seg>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T104537Z" creationid="asus" creationdate="20180813T102757Z">
+        <seg>Использование фигурных скобок</seg>
       </tuv>
     </tu>
     <tu>
