@@ -16253,6 +16253,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Math, save your changes to the formula after editing.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T102316Z" creationid="asus" creationdate="20180813T102316Z">
+        <seg>В Math сохраниет ваши изменения в формуле после редактирования.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Math, use the keyboard shortcut &lt;f0&gt;Ctrl+N&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T135542Z" creationid="User" creationdate="20180308T135542Z">
@@ -16289,6 +16297,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T184500Z" creationid="olex" creationdate="20180621T184500Z">
         <seg>В Windows и Linux – &lt;f0&gt;Ctrl+Q&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Writer, Calc, Impress, or Draw, click anywhere in your document away from the formula to leave editing mode, then save the document to save your changes to the formula.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T102433Z" creationid="asus" creationdate="20180813T102433Z">
+        <seg>В Writer, Calc, Impress или Draw, щёлкните где-нибудь в документе за границей формулы, чтобы выйти из режима редактирования, затем сохраните документ для сохранения ваших изменений в формуле.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29020,6 +29036,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T160032Z" creationid="olex" creationdate="20180624T160032Z">
         <seg>В этом разделе описаны некоторые параметры, которые применяются ко всем компонентам LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This section provides some advice on how to layout complex formulas in Math or in a LibreOffice document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T102731Z" creationid="asus" creationdate="20180813T102731Z">
+        <seg>Этот раздел предоставляет некоторые советы о том, как разместить сложные формулы в Math или в документе LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
