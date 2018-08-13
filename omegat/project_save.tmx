@@ -4278,6 +4278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adding braces to into the markup language&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt; {1 over 2}&lt;/f2&gt; gives the result&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;and the whole fraction is now negative.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T105853Z" creationid="asus" creationdate="20180813T105853Z">
+        <seg>Добавление фигурных скобок в языке разметки&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt; {1 over 2}&lt;/f2&gt; даёт результат&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt; и вся дробь теперь отрицательная.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding comments to a document</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T153624Z" creationid="olex" creationdate="20180721T153624Z">
