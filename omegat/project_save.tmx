@@ -18082,6 +18082,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice Math knows nothing about order of operation within a formula.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T102827Z" creationid="asus" creationdate="20180813T102827Z">
+        <seg>LibreOffice Math ничего не знает о порядке операций в формуле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice allows events to trigger the execution of a macro; the macro is then called an event handler.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T141756Z" creationid="tagezi" creationdate="20180320T141725Z">
@@ -31994,6 +32002,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using braces</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T102757Z" creationid="asus" creationdate="20180813T102757Z">
+        <seg>Использование скобок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using built-in language tools</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T103518Z" creationid="olex" creationdate="20180721T103518Z">
@@ -35231,6 +35247,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T182057Z" creationid="olex" creationdate="20180628T182057Z">
         <seg>пусто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>brackets (Math)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T102806Z" creationid="asus" creationdate="20180813T102806Z">
+        <seg>Скобки (Math)</seg>
       </tuv>
     </tu>
     <tu>
