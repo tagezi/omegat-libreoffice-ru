@@ -12109,6 +12109,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, &lt;f2&gt;left( matrix { a # b ## c # d } right)&lt;/f2&gt; gives the result&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;where the matrix is now bracketed by scalable brackets.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T114710Z" creationid="asus" creationdate="20180813T114710Z">
+        <seg>Например, &lt;f2&gt;left( matrix { a # b ## c # d } right)&lt;/f2&gt; даёт результат&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;, где матрица обрамлена масштабируемыми скобками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, &lt;f2&gt;matrix { a # b ## c # d }&lt;/f2&gt; gives the resulting matrix&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;in the formula, where rows are separated by two hashes (#) and entries within each row are separated by one hash (#).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T114318Z" creationid="asus" creationdate="20180813T114318Z">
@@ -22941,6 +22949,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scalable brackets can be used with any element of a formula, such as a fraction or square root.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T114747Z" creationid="asus" creationdate="20180813T114747Z">
+        <seg>Масштабируемые скобки могут быть использованы с любым элементом формулы, такими как дроби или знак корня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screen only checkbox</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T181958Z" creationid="olex" creationdate="20180628T181958Z">
@@ -26700,6 +26716,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The commands &lt;f0&gt;left(&lt;/f0&gt; and &lt;f1&gt;right)&lt;/f1&gt; have to be used to create scalable brackets within a matrix.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T114607Z" creationid="asus" creationdate="20180813T114607Z">
+        <seg>Команды &lt;f0&gt;left(&lt;/f0&gt; и &lt;f1&gt;right)&lt;/f1&gt; должны использоваться для создания масштабируемых скобок в матрице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The community operates internationally in all time zones and in many languages, linked through the internet at &lt;a0&gt;www.libreoffice.org&lt;/a0&gt; and &lt;a1&gt;www.documentfoundation.org&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T075320Z" creationid="lera" creationdate="20180303T202310Z">
@@ -29273,6 +29297,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tips</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T114754Z" creationid="asus" creationdate="20180813T114754Z">
+        <seg>Советы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Title bar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T174213Z" creationid="olex" creationdate="20180326T174213Z">
@@ -31768,6 +31800,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T180503Z" creationid="olex" creationdate="20180730T180503Z">
         <seg>Используйте клавиши со стрелками, чтобы перейти к началу следующего фрагмента текста, который нужно выбрать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the commands &lt;f0&gt;left[&lt;/f0&gt; and &lt;f1&gt;right]&lt;/f1&gt; to obtain scalable square brackets.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T114835Z" creationid="asus" creationdate="20180813T114835Z">
+        <seg>Используйте команды &lt;f0&gt;left[&lt;/f0&gt; и &lt;f1&gt;right]&lt;/f1&gt; для получения квадратных масштабируемых скобок.</seg>
       </tuv>
     </tu>
     <tu>
