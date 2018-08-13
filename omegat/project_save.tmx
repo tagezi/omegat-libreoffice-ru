@@ -14583,6 +14583,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, an unpaired bracket is sometimes necessary and you have the following options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T115658Z" creationid="asus" creationdate="20180813T115658Z">
+        <seg>Однако, непарные скобки иногда необходимы и у вас есть следующие варианты для этого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, hidden elements can still be selected for copying if you select the elements around them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T182500Z" creationid="olex" creationdate="20180502T182439Z">
@@ -15739,6 +15747,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T151650Z" creationid="tagezi" creationdate="20180313T151650Z">
         <seg>Если вы выполнили все описанные выше шаги, библиотека Standard теперь содержит модуль с именем Recorded, и этот модуль содержит макрос EnterMyName.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you forget to add a closing bracket, Math places an inverted question mark next to where the closing bracket should have been placed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T115533Z" creationid="asus" creationdate="20180813T115533Z">
+        <seg>Если вы забудете добавить закрывающую скобку, то Math разместит перевёрнутый красный знак вопроса в месте, где необходимо было разместить закрывающую скобку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29023,6 +29039,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This inverted question mark disappears when all the brackets are paired.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T115557Z" creationid="asus" creationdate="20180813T115557Z">
+        <seg>Этот перевёрнутый знак вопроса исчезает, если все скобки парные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is extremely important for the growth of the LibreOffice ecosystem.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T052203Z" creationid="tagezi" creationdate="20180321T052203Z">
@@ -33234,6 +33258,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T182013Z" creationid="olex" creationdate="20180611T182013Z">
         <seg>При использовании серверов CMIS служба запрашивает у вас необходимые учетные данные для доступа к файлам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When using brackets in a formula, Math expects that for every opening bracket there will be a closing one.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T115426Z" creationid="asus" creationdate="20180813T115426Z">
+        <seg>При использовании скобок в формуле Math ожидает, что каждая открывающая скобка будет иметь парную ей закрывающую.</seg>
       </tuv>
     </tu>
     <tu>
