@@ -7389,6 +7389,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on &lt;f1&gt;Category&lt;/f1&gt;, select &lt;f2&gt;Brackets&lt;/f2&gt; from the drop-down list and then select the option &lt;f3&gt;Scale all brackets&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T115301Z" creationid="asus" creationdate="20180813T115301Z">
+        <seg>Щелкните по выпадающему списку &lt;f1&gt;Категории&lt;/f1&gt;, выберите элемент &lt;f2&gt;Скобки&lt;/f2&gt; из выпадающего списка и затем отметьте галочкой опцию &lt;f3&gt;Масштабировать все скобки&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on a word or phrase in the submenu to have it replace the highlighted word or phrase in the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T184320Z" creationid="olex" creationdate="20180805T184320Z">
@@ -31524,6 +31532,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T213752Z" creationid="lera" creationdate="20180303T213752Z">
         <seg>В отличие от других форматов файлов, ODF (ISO-IEC 26300:2015) открытый стандарт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unpaired brackets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T115318Z" creationid="asus" creationdate="20180813T115318Z">
+        <seg>Непарные скобки</seg>
       </tuv>
     </tu>
     <tu>
