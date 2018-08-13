@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8943,6 +8943,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Demote One Level</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T173225Z" creationid="olex" creationdate="20180813T173225Z">
+        <seg>Понизить на один уровень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on how validation is set up, validation can also define the range of contents that can be entered, provide help messages explaining the content rules set up for the cell and what users &lt;t0/&gt;should do when they enter invalid content.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T182738Z" creationid="olex" creationdate="20180416T182738Z">
@@ -17280,6 +17288,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert Unnumbered Entry</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T173106Z" creationid="olex" creationdate="20180813T173106Z">
+        <seg>Вставить элемент без номера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert mode</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T173312Z" creationid="olex" creationdate="20180616T173312Z">
@@ -19710,6 +19726,30 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move Down with Subpoints</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T173301Z" creationid="olex" creationdate="20180813T173301Z">
+        <seg>Переместить ниже вместе с подпунктами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T173422Z" creationid="olex" creationdate="20180813T173422Z">
+        <seg>Переместить вверх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Up with Subpoints</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T173202Z" creationid="olex" creationdate="20180813T173202Z">
+        <seg>Переместить выше вместе с подпунктами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the cell focus to another cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T183227Z" creationid="olex" creationdate="20180411T183227Z">
@@ -22072,6 +22112,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T181742Z" creationid="olex" creationdate="20180619T181742Z">
         <seg>Введите свои учетные данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Promote One Le&lt;f0&gt;v&lt;/f0&gt;el</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T172948Z" creationid="olex" creationdate="20180813T172948Z">
+        <seg>Повысить на один &lt;f0&gt;уровень&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Promote One Level with Subpoints</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T173400Z" creationid="olex" creationdate="20180813T173400Z">
+        <seg>Повысить на один уровень вместе с подпунктами</seg>
       </tuv>
     </tu>
     <tu>
