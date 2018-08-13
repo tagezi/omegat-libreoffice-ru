@@ -32844,6 +32844,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When braces are used in markup language, they are used to define the layout of the formula and are not displayed or printed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T111120Z" creationid="asus" creationdate="20180813T111120Z">
+        <seg>При использовании фигурных скобок в языке разметки они используются только для определения вида формулы и не отображаются в самой офрмуле и не печатаются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When creating a macro, it is important to ask two questions before recording:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T163849Z" creationid="tagezi" creationdate="20180318T163849Z">
