@@ -15904,6 +15904,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want x+1 rather than x to be the denominator, you must bracket them together using braces so that both will be placed there.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T105013Z" creationid="asus" creationdate="20180813T105013Z">
+        <seg>Если вы хотите, чтобы выражение x+1 было целиком в знаменателе, то вы должны заключить выражение в фигурные скобки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want your new style to be linked with an existing style, first select that style and then right-click and select &lt;f0&gt;New&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T195624Z" creationid="olex" creationdate="20180309T195624Z">
