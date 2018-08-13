@@ -3469,6 +3469,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;te19/&gt;&lt;s20/&gt;&lt;ts21/&gt;&lt;f22&gt;Click the down arrow &lt;/f22&gt;&lt;te23/&gt;&lt;ts24/&gt;&lt;f25&gt;next to the Bulleted List or Num&lt;/f25&gt;&lt;te26/&gt;&lt;ts27/&gt;&lt;f28&gt;bered List button, &lt;/f28&gt;&lt;te29/&gt;&lt;ts30/&gt;&lt;f31&gt;then &lt;/f31&gt;&lt;f32&gt;&lt;f33&gt;More Bullets/Numbering &lt;/f33&gt;&lt;/f32&gt;&lt;te34/&gt;&lt;ts35/&gt;&lt;f36&gt;&lt;f37&gt;to&lt;/f37&gt;&lt;/f36&gt;&lt;te38/&gt;&lt;tc39/&gt; access the Bullets and Numbering dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T174434Z" creationid="olex" creationdate="20180813T174016Z">
+        <seg>&lt;te19/&gt;&lt;s20/&gt;&lt;ts21/&gt;&lt;f22&gt;Нажмите стрелку вниз &lt;/f22&gt;&lt;te23/&gt;&lt;ts24/&gt;&lt;f25&gt;рядом с кнопкой Маркированный список или Нумерованный список&lt;/f25&gt;&lt;te26/&gt;&lt;ts27/&gt;&lt;f28&gt;, &lt;/f28&gt;&lt;te29/&gt;&lt;ts30/&gt;&lt;f31&gt;затем нажмите &lt;/f31&gt;&lt;f32&gt;&lt;f33&gt;Еще маркеры или Еще нумерация &lt;/f33&gt;&lt;/f32&gt;&lt;te34/&gt;&lt;ts35/&gt;&lt;f36&gt;&lt;f37&gt;, чтобы &lt;/f37&gt;&lt;/f36&gt;&lt;te38/&gt;&lt;tc39/&gt; открыть диалоговое окно Маркеры и нумерация.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;te20/&gt;&lt;ts21/&gt;&lt;f22&gt;You can preview the changes by checking &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;Show Previews&lt;/f24&gt;&lt;/f23&gt;&lt;te25/&gt;&lt;ts26/&gt; at the bottom&lt;te27/&gt;&lt;ts28/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T182704Z" creationid="olex" creationdate="20180723T182704Z">
@@ -5848,6 +5856,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T174052Z" creationid="olex" creationdate="20180809T173749Z">
         <seg>Маркированный список Вкл./Выкл. (с палитрой Маркированный список)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bullets and Numbering&lt;ts0/&gt; &lt;f1&gt;dialog&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T173702Z" creationid="olex" creationdate="20180813T173639Z">
+        <seg>Вызов диалогового окна Маркеры и нумерация&lt;ts0/&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8951,6 +8967,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Demote One Level with Subpoints</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T173534Z" creationid="olex" creationdate="20180813T173534Z">
+        <seg>Понизить на один уровень вместе с подпунктами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on how validation is set up, validation can also define the range of contents that can be entered, provide help messages explaining the content rules set up for the cell and what users &lt;t0/&gt;should do when they enter invalid content.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T182738Z" creationid="olex" creationdate="20180416T182738Z">
@@ -10678,6 +10702,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T164225Z" creationid="olex" creationdate="20180409T164225Z">
         <seg>Рисунок &lt;seq0&gt;16&lt;/seq0&gt;: Зафиксированные строки и столбцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Bullets and Numbering toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T173738Z" creationid="olex" creationdate="20180813T173738Z">
+        <seg>Рисунок &lt;seq0&gt;17&lt;/seq0&gt;: Панель инструментов Маркеры и нумерация</seg>
       </tuv>
     </tu>
     <tu>
@@ -19726,6 +19758,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T173555Z" creationid="olex" creationdate="20180813T173555Z">
+        <seg>Переместить вниз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move Down with Subpoints</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180813T173301Z" creationid="olex" creationdate="20180813T173301Z">
@@ -22632,6 +22672,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195314Z" creationid="olex" creationdate="20180306T195314Z">
         <seg>Сброс шаблона по умолчанию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart Numbering</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T173449Z" creationid="olex" creationdate="20180813T173449Z">
+        <seg>Начать нумерацию заново</seg>
       </tuv>
     </tu>
     <tu>
@@ -26088,6 +26136,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T174419Z" creationid="olex" creationdate="20180701T173918Z">
         <seg>Основные параметры IDE станут доступны после &lt;f0&gt;Включения экспериментальных возможностей&lt;/f0&gt; на странице Расширенные возможности диалогового окна Параметры, и после сохранения этой настройки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Bullets and Numbering &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;button&lt;/f2&gt;&lt;te3/&gt;s&lt;ts4/&gt; &lt;te5/&gt;&lt;tc6/&gt;&lt;tc7/&gt;&lt;tc8/&gt;on the &lt;ts9/&gt;&lt;f10&gt;Sidebar’s &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;&lt;tc13/&gt;&lt;tc14/&gt;Properties deck &lt;tc15/&gt;&lt;tc16/&gt;&lt;tc17/&gt;can also be used to create nested lists&lt;ts18/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180813T174037Z" creationid="olex" creationdate="20180813T173958Z">
+        <seg>Кнопки Маркеры и нумерация &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt; &lt;te5/&gt;&lt;tc6/&gt;&lt;tc7/&gt;&lt;tc8/&gt;в палитре Свойства &lt;ts9/&gt;&lt;f10&gt;на Боковой панели &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;&lt;tc13/&gt;&lt;tc14/&gt;&lt;tc15/&gt;&lt;tc16/&gt;&lt;tc17/&gt;также могут использоваться для создания вложенных списков.&lt;ts18/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
