@@ -26940,6 +26940,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following examples show how brackets can be used in a formula.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T104435Z" creationid="asus" creationdate="20180813T104435Z">
+        <seg>Следующие примеры показывают, как скобки могуты быть использованы в формуле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following is an explanation of the code used in the EnterMyName macro.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T212203Z" creationid="tagezi" creationdate="20180315T212203Z">
@@ -35055,6 +35063,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T104024Z" creationid="tagezi" creationdate="20180312T104024Z">
         <seg>Вы должны создать библиотеку и модуль, чтобы запускать макрос; для получения дополнительной информации смотрите “&lt;bf2&gt;Организация макросов&lt;/bf2&gt;” на странице &lt;bf3&gt;14&lt;/bf3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must use &lt;is0/&gt;&lt;i1/&gt;braces&lt;ie2/&gt; (also known as curly brackets) to state the order of operations that occur within a formula.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T103047Z" creationid="asus" creationdate="20180813T103047Z">
+        <seg>Вы должны использовать &lt;is0/&gt;&lt;i1/&gt;фигурные скобки&lt;ie2/&gt; (также известные, как изогнутые скобки) для указания порядка операций в формуле.</seg>
       </tuv>
     </tu>
     <tu>
