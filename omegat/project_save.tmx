@@ -12101,6 +12101,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, &lt;f0&gt;( matrix { a # b ## c # d } )&lt;/f0&gt; gives the result&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T114424Z" creationid="asus" creationdate="20180813T114424Z">
+        <seg>Например, &lt;f0&gt;( matrix { a # b ## c # d } )&lt;/f0&gt; даёт результат&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, &lt;f2&gt;matrix { a # b ## c # d }&lt;/f2&gt; gives the resulting matrix&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;in the formula, where rows are separated by two hashes (#) and entries within each row are separated by one hash (#).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T114318Z" creationid="asus" creationdate="20180813T114318Z">
@@ -20226,6 +20234,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180724T194245Z" creationid="olex" creationdate="20180724T194245Z">
         <seg>Обычный&lt;ts0/&gt; &lt;f1&gt;вид&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normally, when you use brackets within a matrix, the brackets do not scale as the matrix increases in size.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T114402Z" creationid="asus" creationdate="20180813T114402Z">
+        <seg>Обычно, если вы используете скобки в матрице, то скобки не масштабируются в случае увеличения размера матрицы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30439,6 +30455,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T192952Z" creationid="olex" creationdate="20180711T192952Z">
         <seg>Чтобы оптимизировать экспорт &lt;i0/&gt;HTML&lt;i1/&gt;, выберите браузер или стандарт HTML в окне &lt;f2&gt;Экспорт&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To overcome this problem, LibreOffice Math provides scalable brackets that grow in size to match the size of a matrix.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T114533Z" creationid="asus" creationdate="20180813T114533Z">
+        <seg>Для обхода этой проблемы LibreOffice Math предоставляет масштабируемые скобки, которые увеличивают размер в соответствии с увеличением размера матрицы.</seg>
       </tuv>
     </tu>
     <tu>
