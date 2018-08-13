@@ -12101,6 +12101,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, &lt;f2&gt;matrix { a # b ## c # d }&lt;/f2&gt; gives the resulting matrix&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;in the formula, where rows are separated by two hashes (#) and entries within each row are separated by one hash (#).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T114318Z" creationid="asus" creationdate="20180813T114318Z">
+        <seg>Например, &lt;f2&gt;matrix { a # b ## c # d }&lt;/f2&gt; жаёт в результате матрицу&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt; в формуле, где строки разделяются двумя знаками хэша (#) и записи в каждой строке разделяются одним знаком хэша (#).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, Writer relies on heading styles (or other styles you specify) when it compiles a table of contents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T183351Z" creationid="olex" creationdate="20180306T202113Z">
