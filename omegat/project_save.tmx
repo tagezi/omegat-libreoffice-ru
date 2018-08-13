@@ -13927,6 +13927,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;View &gt; Update&lt;/f0&gt; on the menu bar, or press the &lt;f1&gt;F9&lt;/f1&gt; key, or click on the &lt;f2&gt;Update&lt;/f2&gt; icon &lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;s5/&gt;in the Tools toolbar to update the formula in the preview window or the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T102250Z" creationid="asus" creationdate="20180813T102250Z">
+        <seg>Выберите пункт меню &lt;f0&gt;Вид &gt; Обновить&lt;/f0&gt; или нажмите клавишу &lt;f1&gt;F9&lt;/f1&gt; , или щёлкните по значку &lt;f2&gt;Обновить&lt;/f2&gt; &lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;s5/&gt;на панели инструментов Сервис для обновления формулы в ОБласти предварительного просмотра или в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;Split Window.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T173208Z" creationid="olex" creationdate="20180409T173208Z">
@@ -18960,6 +18968,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180528T081511Z" creationid="olex" creationdate="20180416T180714Z">
         <seg>Когда закончите ввод повторяемой информации, убедитесь в том, что вы отменили выделение нескольких листов, прежде чем продолжить работу с электронной таблицей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make your changes to the selected formula element.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T102052Z" creationid="asus" creationdate="20180813T102052Z">
+        <seg>Выполните изменения для выделенного элемента формулы.</seg>
       </tuv>
     </tu>
     <tu>
