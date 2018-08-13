@@ -2699,6 +2699,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;x over {–x + 1}&lt;/f0&gt; gives the result&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T111222Z" creationid="asus" creationdate="20180813T111222Z">
+        <seg>&lt;f0&gt;x over {–x + 1}&lt;/f0&gt; даёт результат&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;– 1 over 2&lt;/f0&gt; gives the result&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T105115Z" creationid="asus" creationdate="20180813T105115Z">
@@ -5791,6 +5799,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T182010Z" creationid="olex" creationdate="20180809T182010Z">
         <seg>Жирный, Курсив, Подчеркнутый, Надчеркнутый, Двойное подчеркивание, Зачеркнутый, Структура</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brackets and matrices</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T111342Z" creationid="asus" creationdate="20180813T111342Z">
+        <seg>Скобки и матрицы</seg>
       </tuv>
     </tu>
     <tu>
@@ -15928,6 +15944,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to use a matrix in a formula, you have to use a &lt;i0/&gt;&lt;i1/&gt;matrix command.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T114146Z" creationid="asus" creationdate="20180813T114146Z">
+        <seg>Если вы хотите использовать матрицу в формуле, вы должны использовать команду &lt;i0/&gt;&lt;i1/&gt;matrix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to use braces within your formula, you use the commands &lt;f0&gt;lbrace&lt;/f0&gt; and &lt;f1&gt;rbrace&lt;/f1&gt; within the markup language.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T111206Z" creationid="asus" creationdate="20180813T111206Z">
@@ -22400,6 +22424,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T194923Z" creationid="olex" creationdate="20180326T192003Z">
         <seg>Заменить</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replace the braces using the commands lbrace and rbrace in the markup language.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T111256Z" creationid="asus" creationdate="20180813T111256Z">
+        <seg>Замените фигурные скобки командами lbrace и rbrace в языке разметки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33747,6 +33779,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T184914Z" creationid="olex" creationdate="20180805T184914Z">
         <seg>Функция автозамены Writer имеет длинный список распространенных ошибок правописания и ошибок ввода, которые она исправляет автоматически.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writing &lt;f0&gt;x over lbrace –x + 1 rbrace&lt;/f0&gt; and the result is &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T111322Z" creationid="asus" creationdate="20180813T111322Z">
+        <seg>Написание &lt;f0&gt;x over lbrace –x + 1 rbrace&lt;/f0&gt; и результат следующий &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
