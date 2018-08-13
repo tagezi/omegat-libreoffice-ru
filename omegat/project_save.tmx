@@ -2699,6 +2699,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;– 1 over 2&lt;/f0&gt; gives the result&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T105115Z" creationid="asus" creationdate="20180813T105115Z">
+        <seg>&lt;f0&gt;– 1 over 2&lt;/f0&gt; даёт результат&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f1&gt;Below is the case for Writer:&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T192817Z" creationid="olex" creationdate="20180614T192817Z">
@@ -15920,6 +15928,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you wish to show that the whole fraction is negative, with the minus sign in front of the fraction, you must put the fraction in braces to signify to Math that the characters belong together.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T105605Z" creationid="asus" creationdate="20180813T105605Z">
+        <seg>Если вы хотите показать всю дробь отрицательной, со знаком минус перед всей дробью, то вы должны заключить дробь в фигурные скобки, чтобы сообщить Math, что символы в дроби - это единое целое.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you wish, you can click &lt;f2&gt;New&lt;/f2&gt; to create another module in the library.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T131043Z" creationid="tagezi" creationdate="20180312T131043Z">
@@ -17188,6 +17204,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T161746Z" creationid="olex" creationdate="20180603T161746Z">
         <seg>Вставка и правка изображений</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserting braces into &lt;f0&gt;2 over {x + 1}&lt;/f0&gt; gives the result&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;where x+1 is now the denominator.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T105059Z" creationid="asus" creationdate="20180813T105059Z">
+        <seg>Вставка фигурных скобок в выражение &lt;f0&gt;2 over {x + 1}&lt;/f0&gt; даёт результат&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;, где x+1 находится в знаменателе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19200,6 +19224,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T104724Z" creationid="asus" creationdate="20180813T104724Z">
         <seg>Math посчитал, что цифра 2 перед оператором over и х после этого оператора являются дробью и соответственно отобразил это.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Math has recognized the minus sign as a prefix for the 1 and has therefore placed it in the numerator of the fraction.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180813T105223Z" creationid="asus" creationdate="20180813T105223Z">
+        <seg>Math посчитал знак минус префиксом к числу 1 и поэтому поместил его в числителе.</seg>
       </tuv>
     </tu>
     <tu>
