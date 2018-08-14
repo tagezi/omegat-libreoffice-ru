@@ -14775,6 +14775,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, this gives the incorrect result&lt;f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180814T184229Z" creationid="asus" creationdate="20180814T184229Z">
+        <seg>Однако это даёт не корректный результат &lt;f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, when the computer is restarted, Quickstarter will be loaded again.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T191535Z" creationid="olex" creationdate="20180614T185904Z">
