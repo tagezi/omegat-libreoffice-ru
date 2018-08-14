@@ -3621,6 +3621,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A backslash \ is placed before a non-scalable bracket to indicate that the following character should not be regarded as a bracket, but as a literal character.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180814T174854Z" creationid="asus" creationdate="20180814T174854Z">
+        <seg>Обратный слэш \, помещённый перед немасштабируемой скобкой, будет сигнализировать о том. что следующий символ не должен рассматриаться, как скобка, а должен , как обычный символ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A bulleted list is created when you type a hyphen (-), star (*), or plus sign (+), followed by a space or tab at the beginning of a paragraph.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T155202Z" creationid="olex" creationdate="20180811T155202Z">
@@ -20367,6 +20375,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Non-scalable brackets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180814T174746Z" creationid="asus" creationdate="20180814T174746Z">
+        <seg>Немасштабируемые скобки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nor can you delete any categories added by the Extension Manager unless you first delete the extension that installed them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T205048Z" creationid="olex" creationdate="20180313T205048Z">
@@ -22265,6 +22281,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180314T161003Z" creationid="User" creationdate="20180314T161003Z">
         <seg>Опубликовано 16 февраля 2018.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Published 16 February 201&lt;f0&gt;8&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180814T174653Z" creationid="asus" creationdate="20180814T174653Z">
+        <seg>Опубликовано 16 февраля 201&lt;f0&gt;8&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
