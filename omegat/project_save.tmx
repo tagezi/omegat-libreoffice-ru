@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.4" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3329,6 +3329,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181733Z" creationid="tagezi" creationdate="20180304T181733Z">
         <seg>&lt;t0&gt;Форматы файлов открываемые LibreOffice&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;7&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Formulas in Calc, Draw, and Impress&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;29&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180814T174601Z" creationid="asus" creationdate="20180814T174601Z">
+        <seg>&lt;t0&gt;Формулы в Calc, Draw и Impress&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;29&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
