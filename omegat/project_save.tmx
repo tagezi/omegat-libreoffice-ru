@@ -30172,6 +30172,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To create the correct formula, change the entry in the Formula Editor to</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180814T184403Z" creationid="asus" creationdate="20180814T184403Z">
+        <seg>Для создания корректной формулы измените запись в Редакторе формул на</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To create unpaired scalable brackets or braces in a formula, the markup commands &lt;f0&gt;left&lt;/f0&gt;, &lt;f1&gt;right&lt;/f1&gt;, and &lt;f2&gt;none&lt;/f2&gt; are used.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180814T180125Z" creationid="asus" creationdate="20180814T180125Z">
@@ -30922,6 +30930,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180320T191642Z" creationid="olex" creationdate="20180308T173901Z">
         <seg>Чтобы удалить ручное форматирование, выберите текст, щелкните правой кнопкой мыши и выберите &lt;f0&gt;Стили &gt; Очистить форматирование&lt;/f0&gt; в контекстном меню или нажмите &lt;f1&gt;Ctrl + M&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To remove the inverted question marks and create the correct formula, you have to use the markup commands &lt;f0&gt;left&lt;/f0&gt;, &lt;f1&gt;right&lt;/f1&gt;, and &lt;f2&gt;none&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180814T184331Z" creationid="asus" creationdate="20180814T184331Z">
+        <seg>Для удаления перевёрнутых знаков вопроса и создания корректной формулы вы должны использовать команды языка разметки &lt;f0&gt;left&lt;/f0&gt;, &lt;f1&gt;right&lt;/f1&gt; и &lt;f2&gt;none&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
