@@ -12486,6 +12486,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, the unpaired brackets in the formula &lt;f0&gt;[ a; b [&lt;/f0&gt; are deliberate, but gives the result&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180814T175025Z" creationid="asus" creationdate="20180814T175025Z">
+        <seg>Например, есть намеренно не парные скобки в формуле &lt;f0&gt;[ a; b [&lt;/f0&gt;, однако они дают результат&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, they can find all instances where any number is followed by specific letters.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T172627Z" creationid="olex" creationdate="20180802T172627Z">
@@ -27421,6 +27429,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The formula now becomes &lt;f7&gt;\ [ a; b \ [&lt;/f7&gt; and the result&lt;f8&gt;&lt;f9&gt;&lt;df10&gt;&lt;d11/&gt;&lt;di12/&gt;&lt;s13&gt;formula&lt;/s13&gt;&lt;/df10&gt;&lt;/f9&gt;&lt;/f8&gt;shows unpaired brackets without the inverted question marks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180814T175153Z" creationid="asus" creationdate="20180814T175153Z">
+        <seg>Формула теперь выглядит так &lt;f7&gt;\ [ a; b \ [&lt;/f7&gt; и результат&lt;f8&gt;&lt;f9&gt;&lt;df10&gt;&lt;d11/&gt;&lt;di12/&gt;&lt;s13&gt;formula&lt;/s13&gt;&lt;/df10&gt;&lt;/f9&gt;&lt;/f8&gt; показывает не парные скобки без перевёрнутых знаков вопроса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The formula&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;&lt;/f3&gt;now appears in the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T145250Z" creationid="Роман" creationdate="20180320T145250Z">
@@ -30874,6 +30890,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180320T191642Z" creationid="olex" creationdate="20180308T173901Z">
         <seg>Чтобы удалить ручное форматирование, выберите текст, щелкните правой кнопкой мыши и выберите &lt;f0&gt;Стили &gt; Очистить форматирование&lt;/f0&gt; в контекстном меню или нажмите &lt;f1&gt;Ctrl + M&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To remove the inverted question marks and create unpaired brackets, backslashes are added.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180814T175107Z" creationid="asus" creationdate="20180814T175107Z">
+        <seg>Чтобы удалить перевёрнутые знаки вопроса и создать не парные скобки, добавим обратные слэши.</seg>
       </tuv>
     </tu>
     <tu>
