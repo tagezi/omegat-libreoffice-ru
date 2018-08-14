@@ -30156,6 +30156,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To create unpaired scalable brackets or braces in a formula, the markup commands &lt;f0&gt;left&lt;/f0&gt;, &lt;f1&gt;right&lt;/f1&gt;, and &lt;f2&gt;none&lt;/f2&gt; are used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="asus" changedate="20180814T180125Z" creationid="asus" creationdate="20180814T180125Z">
+        <seg>Для создания не парных масштабируемых скобок в формуле используются команды языка разметки &lt;f0&gt;left&lt;/f0&gt;, &lt;f1&gt;right&lt;/f1&gt; и &lt;f2&gt;none&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To customize the language settings in LibreOffice, you can do any of the following:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T194556Z" creationid="olex" creationdate="20180711T194556Z">
