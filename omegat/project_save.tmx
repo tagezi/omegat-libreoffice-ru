@@ -167,6 +167,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f13&gt;&lt;te14/&gt;See &lt;tc15/&gt;&lt;tc16/&gt;the &lt;f17&gt;Writer Guide&lt;/f17&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T095655Z" creationid="olex" creationdate="20180815T095655Z">
+        <seg>&lt;/f13&gt;&lt;te14/&gt;Смотрите &lt;tc15/&gt;&lt;tc16/&gt;&lt;f17&gt;Руководство по Writer&lt;/f17&gt; для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f1&gt;Page break lines are displayed on screen.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T193405Z" creationid="olex" creationdate="20180507T193405Z">
@@ -3549,6 +3557,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;ts6/&gt;&lt;f7&gt;This is done on the Tab page of the Paragraph Style dialog&lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T095458Z" creationid="olex" creationdate="20180815T095458Z">
+        <seg>&lt;ts6/&gt;&lt;f7&gt;Это можно сделать на вкладке Табуляция диалогового окна Стиль абзаца&lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;ts9/&gt;&lt;f10&gt;When a&lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt; dialog &lt;ts13/&gt;&lt;f14&gt;is &lt;/f14&gt;&lt;te15/&gt;&lt;tc16/&gt;open&lt;ts17/&gt;, &lt;te18/&gt;&lt;tc19/&gt;the document &lt;ts20/&gt;&lt;f21&gt;is &lt;/f21&gt;&lt;te22/&gt;&lt;ts23/&gt;&lt;f24&gt;locked &lt;/f24&gt;&lt;te25/&gt;for editing until the dialog is closed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T163922Z" creationid="olex" creationdate="20180722T163922Z">
@@ -5085,6 +5101,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T202459Z" creationid="olex" creationdate="20180313T202459Z">
         <seg>Любые отслеживания изменений, записанные в исходном документе, будут потеряны во время этого процесса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any changes to the default tab setting will affect the existing default tab stops in any document you open afterward, as well as tab stops you insert after making the change.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T100126Z" creationid="olex" creationdate="20180815T100126Z">
+        <seg>Любые изменения в настройках табуляции по умолчанию будут влиять на существующие блокировки по умолчанию в любом документе, который вы откроете после этого, а также на табуляторы, которые вы вставляете после внесения изменений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9035,6 +9059,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T181410Z" creationid="olex" creationdate="20180619T181410Z">
         <seg>В зависимости от типа файловой службы, которую вы выберете в списке &lt;f0&gt;Тип:&lt;/f0&gt;, для полного соответствия соединения с удаленным сервером необходимы разные параметры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depending on what you are trying to accomplish, a table&lt;ts0/&gt; &lt;f1&gt;or frame&lt;/f1&gt;&lt;te2/&gt; &lt;ts3/&gt;&lt;f4&gt;might be&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt; a better choice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T095857Z" creationid="olex" creationdate="20180815T095857Z">
+        <seg>В зависимости от того, что вы пытаетесь выполнить, лучше использовать таблицу&lt;ts0/&gt; &lt;f1&gt;или врезку&lt;/f1&gt;&lt;te2/&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21972,6 +22004,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;F11&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;, then right click on the style to open the dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T095627Z" creationid="olex" creationdate="20180815T095627Z">
+        <seg>Нажмите &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;F11&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;, затем щелкните правой кнопкой мыши по стилю и выберите Изменить, чтобы открыть диалоговое окно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press &lt;f0&gt;Backspace&lt;/f0&gt; twice to remove the tab and the space.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T211324Z" creationid="tagezi" creationdate="20180318T211324Z">
@@ -31182,6 +31222,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To set the &lt;tc0/&gt;spacing of default tab stop intervals, go to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; General&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T100334Z" creationid="olex" creationdate="20180815T100334Z">
+        <seg>Чтобы установить &lt;tc0/&gt; интервалы табуляции по умолчанию, перейдите в &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Writer &gt; Общие&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To set the contents, for example page number, date and so on, that appears in the header or footer, click on &lt;f0&gt;Edit&lt;/f0&gt; to open the style dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T191625Z" creationid="olex" creationdate="20180508T191625Z">
@@ -32681,6 +32729,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T105914Z" creationid="olex" creationdate="20180721T105914Z">
         <seg>Использование синонимов и тезауруса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using tabs to space out material on a page is not recommended.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T095715Z" creationid="olex" creationdate="20180815T095715Z">
+        <seg>Использование вкладок для размещения материалов на странице не рекомендуется.</seg>
       </tuv>
     </tu>
     <tu>
