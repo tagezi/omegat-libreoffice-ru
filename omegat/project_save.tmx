@@ -728,6 +728,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;&lt;te1/&gt;hange &lt;i2/&gt;the measurement unit for rulers in the current document by right-clicking on the ruler to open a list of units.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T100957Z" creationid="olex" creationdate="20180815T100957Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;Измените &lt;i2/&gt;единицы измерения для линейки в текущем документе, щелкнув правой кнопкой мыши на линейке, чтобы открыть список единиц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Cell Appearance:&lt;/f0&gt; Controls to set the appearance options, including cell background color, cell border formats including line color and style, and grid lines.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T182923Z" creationid="olex" creationdate="20180330T170716Z">
@@ -740,6 +748,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T184853Z" creationid="olex" creationdate="20180307T184853Z">
         <seg>&lt;f0&gt;Стили ячеек&lt;/f0&gt; включают шрифты, выравнивание текста, вид границы, фона, числовые форматы (например, валюта, дата, номер) и защиту ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Changing measurement units for tab stops and &lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;rulers&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T100806Z" creationid="olex" creationdate="20180815T100806Z">
+        <seg>&lt;f0&gt;Изменение единиц измерения для табуляторов и &lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;линеек&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1245,6 +1261,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T143016Z" creationid="olex" creationdate="20180414T143016Z">
         <seg>&lt;f0&gt;Геометрический&lt;/f0&gt; – создает геометрический ряд с использованием заданного приращения и конечного значения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;H&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;yphenate words at &lt;/f3&gt;&lt;f4&gt;the&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt; end of a line&lt;/f8&gt;&lt;te9/&gt;&lt;ts10/&gt;&lt;f11&gt; in two ways&lt;/f11&gt;&lt;te12/&gt;: let Writer do it automatically (using its hyphenation dictionaries), &lt;ts13/&gt;&lt;f14&gt;or &lt;/f14&gt;&lt;te15/&gt;insert conditional hyphens manually &lt;ts16/&gt;&lt;f17&gt;for specific word&lt;/f17&gt;&lt;te18/&gt;&lt;tc19/&gt;&lt;tc20/&gt;&lt;ts21/&gt;&lt;f22&gt;s&lt;/f22&gt;&lt;te23/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T102757Z" creationid="olex" creationdate="20180815T102757Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;Выполнить перенос слов &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;в конце строки можно&lt;/f8&gt;&lt;te9/&gt;&lt;ts10/&gt;&lt;f11&gt; двумя способами&lt;/f11&gt;&lt;te12/&gt;: позволить Writer делать это автоматически (используя его словари для переносов) &lt;ts13/&gt;&lt;f14&gt;или &lt;/f14&gt;&lt;te15/&gt;или вставлять условные дефисы вручную  &lt;ts16/&gt;&lt;f17&gt;для определенных слов&lt;/f17&gt;&lt;te18/&gt;&lt;tc19/&gt;&lt;tc20/&gt;&lt;ts21/&gt;&lt;f22&gt;&lt;/f22&gt;&lt;te23/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7493,6 +7517,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on one of them to change the ruler to that unit.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T101135Z" creationid="olex" creationdate="20180815T101135Z">
+        <seg>Выберите одну из них, чтобы применить эту единицу для линейки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the &lt;f0&gt;Add Sheet&lt;/f0&gt; icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;on the bottom of the screen to insert a new sheet after the last sheet in the spreadsheet without opening the &lt;f5&gt;Insert Sheet&lt;/f5&gt; dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180523T183545Z" creationid="olex" creationdate="20180407T214710Z">
@@ -10834,10 +10866,26 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Selecting a default tab stop interval</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T100452Z" creationid="olex" creationdate="20180815T100406Z">
+        <seg>Рисунок &lt;seq0&gt;18&lt;/seq0&gt;: Выбор шага табуляции по умолчанию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Split screen window borders</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T172723Z" creationid="olex" creationdate="20180409T172723Z">
         <seg>Рисунок &lt;seq0&gt;18&lt;/seq0&gt;: Граница разделителя окна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Changing the measurement unit for a ruler</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T101243Z" creationid="olex" creationdate="20180815T101243Z">
+        <seg>Рисунок &lt;seq0&gt;19&lt;/seq0&gt;: Изменение единицы измерения для линейки</seg>
       </tuv>
     </tu>
     <tu>
@@ -28338,6 +28386,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The selected setting applies only to that r&lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;uler&lt;/f5&gt;&lt;te6/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T101218Z" creationid="olex" creationdate="20180815T101218Z">
+        <seg>Выбранная настройка применяется только к этой &lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;линейке&lt;/f5&gt;&lt;te6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The selected tabs will turn white (default Calc setup).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T185708Z" creationid="olex" creationdate="20180405T185708Z">
@@ -31224,8 +31280,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>To set the &lt;tc0/&gt;spacing of default tab stop intervals, go to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; General&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180815T100334Z" creationid="olex" creationdate="20180815T100334Z">
-        <seg>Чтобы установить &lt;tc0/&gt; интервалы табуляции по умолчанию, перейдите в &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Writer &gt; Общие&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T100443Z" creationid="olex" creationdate="20180815T100334Z">
+        <seg>Чтобы установить &lt;tc0/&gt; шаг табуляции по умолчанию, перейдите в &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Writer &gt; Общие&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36784,6 +36840,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T174224Z" creationid="olex" creationdate="20180328T174224Z">
         <seg>главное окно, описание</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>measurement unit</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T100818Z" creationid="olex" creationdate="20180815T100818Z">
+        <seg>единицы измерения</seg>
       </tuv>
     </tu>
     <tu>
