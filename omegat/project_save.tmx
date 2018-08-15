@@ -1081,6 +1081,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Every page in Writer is based on a page style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T110811Z" creationid="olex" creationdate="20180815T110811Z">
+        <seg>&lt;f0&gt;Каждая страница в Writer основана на стиле страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Extensions&lt;/f0&gt; - &lt;f1&gt;If you suspect that a corrupted extension is blocking or causing LibreOffice to crash, this option allows you to uninstall all user extensions, as well as resetting the state of any shared or bundled extensions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T112839Z" creationid="olex" creationdate="20180715T112839Z">
@@ -3593,6 +3601,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T180044Z" creationid="olex" creationdate="20180804T180044Z">
         <seg>&lt;ts11/&gt;&lt;f12&gt;&lt;/f12&gt;&lt;te13/&gt;&lt;tc14/&gt;&lt;s15/&gt;Проверка грамматики&lt;ts16/&gt; &lt;te17/&gt;&lt;tc18/&gt;&lt;tc19/&gt;&lt;ts20/&gt;&lt;o21/&gt;&lt;te22/&gt;&lt;s23/&gt;в сочетании с проверкой орфографии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;ts12/&gt;&lt;f13&gt;W&lt;/f13&gt;hen &lt;f14&gt;the word &lt;/f14&gt;&lt;s15/&gt;is at the end of the line &lt;f16&gt;it&lt;/f16&gt;&lt;te17/&gt;&lt;tc18/&gt; will be hyphenated at this position&lt;tc19/&gt;, even if automatic hyphenation for this paragraph is switched off.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T110731Z" creationid="olex" creationdate="20180815T110731Z">
+        <seg>&lt;ts12/&gt;&lt;f13&gt;&lt;/f13&gt;Когда &lt;f14&gt;это слово &lt;/f14&gt;&lt;s15/&gt;находится в конце строки &lt;f16&gt;оно&lt;/f16&gt;&lt;te17/&gt;&lt;tc18/&gt; будет автоматически переноситься&lt;tc19/&gt;, даже если автоматический перенос для этого абзаца отключен.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30806,8 +30822,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To insert a conditional hyphen inside a word, click where you want the hyphen to appear &lt;ts0/&gt;&lt;f1&gt;(when needed) &lt;/f1&gt;&lt;te2/&gt;and press &lt;f3&gt;Ctrl+hyphen&lt;/f3&gt; or use &lt;f4&gt;Insert &gt; Formatting Mark &gt; &lt;/f4&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;f8&gt;Soft&lt;/f8&gt;&lt;/f7&gt;&lt;te9/&gt;&lt;tc10/&gt;&lt;f11&gt; hyphen&lt;/f11&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180815T110416Z" creationid="olex" creationdate="20180815T110416Z">
-        <seg>Чтобы вставить условный дефис внутри слова, нажмите место, где вы хотите, вставить дефис &lt;ts0/&gt;&lt;f1&gt;(при необходимости) &lt;/f1&gt;&lt;te2/&gt;и нажмите &lt;f3&gt;Ctrl+hyphen&lt;/f3&gt; или используйте &lt;f4&gt;Вставка &gt; Символ форматирования &gt; &lt;/f4&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;f8&gt;Мягкий&lt;/f8&gt;&lt;/f7&gt;&lt;te9/&gt;&lt;tc10/&gt;&lt;f11&gt; перенос&lt;/f11&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T110457Z" creationid="olex" creationdate="20180815T110416Z">
+        <seg>Чтобы вставить условный дефис внутри слова, нажмите место, где вы хотите, вставить дефис &lt;ts0/&gt;&lt;f1&gt;(при необходимости) &lt;/f1&gt;&lt;te2/&gt;и нажмите &lt;f3&gt;Ctrl+дефис&lt;/f3&gt; или используйте &lt;f4&gt;Вставка &gt; Символ форматирования &gt; &lt;/f4&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;f8&gt;Мягкий&lt;/f8&gt;&lt;/f7&gt;&lt;te9/&gt;&lt;tc10/&gt;&lt;f11&gt; перенос&lt;/f11&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36688,6 +36704,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T175144Z" creationid="olex" creationdate="20180627T175144Z">
         <seg>шрифт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>formatting pages</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T110825Z" creationid="olex" creationdate="20180815T110825Z">
+        <seg>форматирование страниц</seg>
       </tuv>
     </tu>
     <tu>
