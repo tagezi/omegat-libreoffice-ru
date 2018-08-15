@@ -231,6 +231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;&lt;s9/&gt;&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;D&lt;/f12&gt;&lt;te13/&gt;o not use a normal hyphen, which will remain visible even if the word is no longer at the end of a line &lt;ts14/&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;te16/&gt;when you add or delete text or change margins or font size&lt;ts17/&gt;&lt;f18&gt;)&lt;/f18&gt;&lt;te19/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T105844Z" creationid="olex" creationdate="20180815T105844Z">
+        <seg>&lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;&lt;s9/&gt;&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;&lt;/f12&gt;&lt;te13/&gt;Не используйте обычный дефис, который останется видимым, даже если слово больше не находится в конце строки &lt;ts14/&gt;&lt;f15&gt;(&lt;/f15&gt;&lt;te16/&gt;при добавлении или удалении текста или изменении полей или размера шрифта&lt;ts17/&gt;&lt;f18&gt;)&lt;/f18&gt;&lt;te19/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt;On the AutoFormat dialog, &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;&lt;f13&gt;click the &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;Add&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; button (Figure &lt;/f16&gt;&lt;f17&gt;&lt;t18&gt;7&lt;/t18&gt;&lt;/f17&gt;&lt;f19&gt;).&lt;/f19&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T184812Z" creationid="olex" creationdate="20180718T184812Z">
@@ -1477,6 +1485,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T184506Z" creationid="olex" creationdate="20180307T184405Z">
         <seg>&lt;f0&gt;Стили списка&lt;/f0&gt; позволяют вам выбрать, оформление и положение нумерации или маркеров в списках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;M&lt;/f0&gt;&lt;te1/&gt;anually hyphenate words&lt;ts2/&gt; &lt;f3&gt;when you&lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt; want only a specific word hyphenated at the end of a line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T105704Z" creationid="olex" creationdate="20180815T105704Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;Слова переносятся вручную,&lt;ts2/&gt; &lt;f3&gt;если вы&lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt; хотите, чтобы в конце строки было перенесено определенное слово, через дефис.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11084,6 +11100,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Setting hyphenation options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T105217Z" creationid="olex" creationdate="20180815T105217Z">
+        <seg>Рисунок &lt;seq0&gt;22&lt;/seq0&gt;: Настройка параметров переносов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Using the Fill tool</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T141801Z" creationid="olex" creationdate="20180414T141801Z">
@@ -14999,6 +15023,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hyphenation options set on the Writing Aids dialog are effective only if hyphenation is turned on through paragraph styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T105340Z" creationid="olex" creationdate="20180815T105340Z">
+        <seg>Параметры переносов, установленные в диалоговом окне Написание писем, эффективны только в том случае, если перенос выполняется через стили абзаца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I am &lt;f0&gt;develop&lt;/f0&gt;ing software .</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T185223Z" creationid="olex" creationdate="20180607T185223Z">
@@ -17758,6 +17790,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T094427Z" creationid="olex" creationdate="20180815T094427Z">
         <seg>Вместо использования настроек по умолчанию определите собственные настройки табуляции, как описано в этом разделе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, use a conditional hyphen, which is visible only when required.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T105914Z" creationid="olex" creationdate="20180815T105914Z">
+        <seg>Вместо этого используйте условный дефис, который отображается только тогда, когда это необходимо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30227,6 +30267,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the minimum number of characters for hyphenation, or the minimum number of characters before or after a line break, select the item, and then click the &lt;f0&gt;Edit&lt;/f0&gt; button in the Options section.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T105259Z" creationid="olex" creationdate="20180815T105259Z">
+        <seg>Чтобы изменить минимальное количество символов для переносов или минимальное количество символов до или после разрыва строки, выберите элемент, а затем нажмите кнопку &lt;f0&gt;Изменить&lt;/f0&gt; в разделе Параметры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change the page style, right-click on this field.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T163141Z" creationid="olex" creationdate="20180721T163141Z">
@@ -30752,6 +30800,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T181328Z" creationid="olex" creationdate="20180808T181328Z">
         <seg>Чтобы вставить Автотекст, введите сокращение и нажмите &lt;f0&gt;F3&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To insert a conditional hyphen inside a word, click where you want the hyphen to appear &lt;ts0/&gt;&lt;f1&gt;(when needed) &lt;/f1&gt;&lt;te2/&gt;and press &lt;f3&gt;Ctrl+hyphen&lt;/f3&gt; or use &lt;f4&gt;Insert &gt; Formatting Mark &gt; &lt;/f4&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;f8&gt;Soft&lt;/f8&gt;&lt;/f7&gt;&lt;te9/&gt;&lt;tc10/&gt;&lt;f11&gt; hyphen&lt;/f11&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T110416Z" creationid="olex" creationdate="20180815T110416Z">
+        <seg>Чтобы вставить условный дефис внутри слова, нажмите место, где вы хотите, вставить дефис &lt;ts0/&gt;&lt;f1&gt;(при необходимости) &lt;/f1&gt;&lt;te2/&gt;и нажмите &lt;f3&gt;Ctrl+hyphen&lt;/f3&gt; или используйте &lt;f4&gt;Вставка &gt; Символ форматирования &gt; &lt;/f4&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;f8&gt;Мягкий&lt;/f8&gt;&lt;/f7&gt;&lt;te9/&gt;&lt;tc10/&gt;&lt;f11&gt; перенос&lt;/f11&gt;.</seg>
       </tuv>
     </tu>
     <tu>
