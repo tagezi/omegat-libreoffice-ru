@@ -2242,6 +2242,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;To turn &lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;a&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;utomatic hyphenation of words on or off:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T103130Z" creationid="olex" creationdate="20180815T103130Z">
+        <seg>&lt;f0&gt;Чтобы включить или отключить&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt; автоматический перенос слов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;To use the Grammar by feature, first create a new dictionary in the Options window of the Spelling dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T183009Z" creationid="olex" creationdate="20180805T183009Z">
@@ -5643,6 +5651,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatic hyphenation&lt;ts0/&gt; &lt;f1&gt;using styles&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T102836Z" creationid="olex" creationdate="20180815T102836Z">
+        <seg>Автоматические переносы&lt;ts0/&gt; &lt;f1&gt;с использованием стилей&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Automatic numbering is only applied to paragraphs formatted with the &lt;f0&gt;Default&lt;/f0&gt;, &lt;f1&gt;Text body&lt;/f1&gt; or &lt;f2&gt;Text body indent&lt;/f2&gt; paragraph styles.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T160025Z" creationid="olex" creationdate="20180811T160025Z">
@@ -7553,6 +7569,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T180933Z" creationid="olex" creationdate="20180619T180933Z">
         <seg>Нажмите кнопку &lt;f0&gt;Файлы на сервере&lt;/f0&gt; в Центре запуска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on the &lt;f0&gt;Styles &lt;/f0&gt;&lt;tc1/&gt;tab in the Sidebar to open the Styles &lt;tc2/&gt;deck.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T103234Z" creationid="olex" creationdate="20180815T103234Z">
+        <seg>Нажмите вкладку &lt;f0&gt;Стили &lt;/f0&gt;&lt;tc1/&gt;на Боковой панели, чтобы открыть палитру Стили&lt;tc2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
