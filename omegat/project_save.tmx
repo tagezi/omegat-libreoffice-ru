@@ -2804,6 +2804,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f2&gt;When automatice hyphenation is on, you can also set the criteria &lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;for when it should occur&lt;/f5&gt;&lt;te6/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T104011Z" creationid="olex" creationdate="20180815T104011Z">
+        <seg>&lt;f2&gt;Когда Автоматический перенос включен, вы также можете установить дополнительные критерии переноса&lt;/f5&gt;&lt;te6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f3&gt;When activated, a&lt;/f3&gt; &lt;t4/&gt;checkmark appear&lt;f5&gt;s&lt;/f5&gt; next to the option.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T164516Z" creationid="olex" creationdate="20180727T164516Z">
@@ -5177,6 +5185,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any styles &lt;tc0/&gt;not based on Default Style are not affected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T104559Z" creationid="olex" creationdate="20180815T104559Z">
+        <seg>Любые стили &lt;tc0/&gt;, не основанные на стиле Базовый, не затрагиваются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any tab stops that you have defined will overwrite the default tab stops.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180813T180454Z" creationid="olex" creationdate="20180813T180454Z">
@@ -7377,6 +7393,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T184120Z" creationid="olex" creationdate="20180718T184120Z">
         <seg>Нажмите &lt;f6&gt;ОК&lt;/f6&gt;, чтобы сохранить новый стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f7&gt;OK&lt;/f7&gt; to save.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T104037Z" creationid="olex" creationdate="20180815T104037Z">
+        <seg>Нажмите &lt;f7&gt;ОК&lt;/f7&gt;, чтобы сохранить изменения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11004,6 +11028,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Modifying a style</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T104111Z" creationid="olex" creationdate="20180815T104111Z">
+        <seg>Рисунок &lt;seq0&gt;20&lt;/seq0&gt;: Изменение стиля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: OpenCL options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T180734Z" creationid="olex" creationdate="20180701T180734Z">
@@ -11032,6 +11064,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180706T175353Z" creationid="olex" creationdate="20180706T175353Z">
         <seg>Рисунок &lt;seq0&gt;21&lt;/seq0&gt;: Выбор параметров загрузки и сохранения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Turning on automatic hyphenation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T104858Z" creationid="olex" creationdate="20180815T104858Z">
+        <seg>Рисунок &lt;seq0&gt;21&lt;/seq0&gt;: Включение автоматической расстановки переносов</seg>
       </tuv>
     </tu>
     <tu>
@@ -16638,6 +16678,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Options, near the bottom of the dialog, scroll down to find the hyphenation settings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T105142Z" creationid="olex" creationdate="20180815T105142Z">
+        <seg>В разделе Параметры в нижней части диалогового окна прокрутите страницу вниз, чтобы найти параметры переносов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Safe Mode, &lt;f0&gt;you can find options for &lt;/f0&gt;repairing or restoring your copy of LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T111909Z" creationid="olex" creationdate="20180715T111909Z">
@@ -21099,6 +21147,22 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the Paragraph Style dialog (Figure &lt;t0&gt;21&lt;/t0&gt;), go to the &lt;f1&gt;Text Flow&lt;/f1&gt; page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T103709Z" creationid="olex" creationdate="20180815T103709Z">
+        <seg>В диалоговом окне Стиль абзаца (Рисунок &lt;t0&gt;21&lt;/t0&gt;), перейдите на вкладку &lt;f1&gt;Положение на странице&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Paragraph Styles page &lt;o0/&gt;(Figure &lt;t1&gt;20&lt;/t1&gt;)&lt;ts2/&gt;&lt;o3/&gt;&lt;te4/&gt;, right-click on &lt;f5&gt;Default Style&lt;/f5&gt; &lt;ts6/&gt;&lt;f7&gt;(or another style you want to use&lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt;) &lt;/f10&gt;&lt;te11/&gt;and select &lt;f12&gt;Modify&lt;/f12&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T103554Z" creationid="olex" creationdate="20180815T103554Z">
+        <seg>На странице Стили абзацев &lt;o0/&gt;(Рисунок &lt;t1&gt;20&lt;/t1&gt;)&lt;ts2/&gt;&lt;o3/&gt;&lt;te4/&gt; щелкните правой кнопкой мыши стиль &lt;f5&gt;Базовый&lt;/f5&gt; &lt;ts6/&gt;&lt;f7&gt;(или другой стиль, который вы хотите использовать&lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt;) &lt;/f10&gt;&lt;te11/&gt;и выберите &lt;f12&gt;Изменить&lt;/f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the Remote Files dialog (Figure &lt;t0&gt;13&lt;/t0&gt;), click on the &lt;f1&gt;Add Service&lt;/f1&gt; button in the upper right to open the File Services dialog (Figure &lt;t2&gt;12&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T181320Z" creationid="olex" creationdate="20180619T181320Z">
@@ -23466,6 +23530,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180314T182720Z" creationid="User" creationdate="20180314T182720Z">
         <seg>Смотрите Главу 14, Настройка LibreOffice для получения более подробной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Chapter 3, Using Styles and Templates, for more about styles based on &lt;tc1/&gt;styles&lt;ts2/&gt; &lt;f3&gt;other than Default S&lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt;tyle&lt;/f6&gt;&lt;te7/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T104814Z" creationid="olex" creationdate="20180815T104814Z">
+        <seg>Смотрите Главу 3 Использование стилей и шаблонов для получения дополнительной информации о стилях, основанных на &lt;tc1/&gt;стилях&lt;ts2/&gt; &lt;f3&gt;отличных от стиля &lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt;Базовый&lt;/f6&gt;&lt;te7/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31703,6 +31775,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turning on hyphenation for the paragraph Default Style affects all other paragraph styles that are based on Default Style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T104338Z" creationid="olex" creationdate="20180815T104338Z">
+        <seg>Включение переносов для абзаца в стиле Базовый влияет на все остальные стили абзаца, основанные на этом стиле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Two notable examples are cross-references to headings and the formatting of numbered lists.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T181625Z" creationid="olex" creationdate="20180707T181625Z">
@@ -31861,6 +31941,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T200400Z" creationid="olex" creationdate="20180418T200400Z">
         <seg>Под &lt;f0&gt;Свойства&lt;/f0&gt;, выберите Переносить по словам и нажмите &lt;f1&gt;ОК&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Under Hyphenation, select or deselect the &lt;f0&gt;Automatically&lt;/f0&gt; option&lt;ts1/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T103835Z" creationid="olex" creationdate="20180815T103821Z">
+        <seg>Под Расстановка переносов выберите или снимите выбор с параметра &lt;f0&gt;Автоматический перенос&lt;/f0&gt;&lt;ts1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34688,6 +34776,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also set hyphenation choices through &lt;f0&gt;Tools &gt; Options &gt; Language Settings &gt; Writing Aids&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T105032Z" creationid="olex" creationdate="20180815T105032Z">
+        <seg>Вы также можете установить варианты переносов с помощью &lt;f0&gt;Сервис &gt; Параметры &gt; Настройки языка &gt; Лингвистика&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also set the cell to refuse invalid content, accept it with a warning, or start a macro when an error is entered.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T182910Z" creationid="olex" creationdate="20180416T182910Z">
@@ -35079,6 +35175,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T192118Z" creationid="tagezi" creationdate="20180310T192118Z">
         <seg>Вы можете помочь с разработкой и поддержкой пользователей LibreOffice разными способами, и вам не нужно быть программистом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can individually change other styles so that hyphenation is not active; for example, you might not want headings to be hyphenated.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T104520Z" creationid="olex" creationdate="20180815T104520Z">
+        <seg>Вы можете по отдельности изменить другие стили, чтобы сделать перенос неактивным; например, вам может быть не нужен перенос в заголовках.</seg>
       </tuv>
     </tu>
     <tu>
