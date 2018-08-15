@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3541,6 +3541,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;ts5/&gt;&lt;f6&gt;You can also d&lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;ouble-click anywhere between the left and right indent icons on the ruler to open the &lt;f9&gt;Tabs&lt;/f9&gt; page of the Paragraph dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T095138Z" creationid="olex" creationdate="20180815T095032Z">
+        <seg>&lt;ts5/&gt;&lt;f6&gt;Вы также можете &lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;дважды щелкнуть в любом месте между левыми и правыми отступами на линейке, чтобы открыть вкладку &lt;f9&gt;Табуляция&lt;/f9&gt; в диалоговом окне Абзац.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;ts9/&gt;&lt;f10&gt;When a&lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt; dialog &lt;ts13/&gt;&lt;f14&gt;is &lt;/f14&gt;&lt;te15/&gt;&lt;tc16/&gt;open&lt;ts17/&gt;, &lt;te18/&gt;&lt;tc19/&gt;the document &lt;ts20/&gt;&lt;f21&gt;is &lt;/f21&gt;&lt;te22/&gt;&lt;ts23/&gt;&lt;f24&gt;locked &lt;/f24&gt;&lt;te25/&gt;for editing until the dialog is closed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T163922Z" creationid="olex" creationdate="20180722T163922Z">
@@ -3625,6 +3633,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180814T174854Z" creationid="asus" creationdate="20180814T174854Z">
         <seg>Обратный слэш \, помещённый перед немасштабируемой скобкой, будет сигнализировать о том. что следующий символ не должен рассматриаться, как скобка, а должен , как обычный символ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A better strategy is to define tabs for the paragraph &lt;f0&gt;styl&lt;/f0&gt;&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;f4&gt;e&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T095338Z" creationid="olex" creationdate="20180815T095338Z">
+        <seg>Лучшей стратегией является определение табуляции в &lt;f0&gt;стиле абзаца&lt;/f0&gt;&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17586,6 +17602,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead of using the defaults, define your own tab settings, as described in this section.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T094427Z" creationid="olex" creationdate="20180815T094427Z">
+        <seg>Вместо использования настроек по умолчанию определите собственные настройки табуляции, как описано в этом разделе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Internet</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T175943Z" creationid="olex" creationdate="20180707T175943Z">
@@ -29626,6 +29650,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To &lt;i0/&gt;define indents and tab settings for one or more selected paragraphs, double-click on a part of the ruler that is &lt;ts1/&gt;&lt;f2&gt;not&lt;/f2&gt;&lt;te3/&gt; between the left and right indent icons to open the &lt;f4&gt;Indents &amp; Spacing&lt;/f4&gt; page of the Paragraph dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T095039Z" creationid="olex" creationdate="20180815T094901Z">
+        <seg>Чтобы &lt;i0/&gt;определить отступы и настройки табуляции для одного или нескольких выбранных абзацев, дважды щелкните по части линейки, которая &lt;ts1/&gt;&lt;f2&gt;не&lt;/f2&gt;&lt;te3/&gt; находится между левыми и правыми значками отступа, чтобы открыть вкладку &lt;f4&gt;Отступы и интервалы&lt;/f4&gt; в диалоговом окне Абзац.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To &lt;i0/&gt;select &lt;i1/&gt;nonconsecutive items (as shown in Figure &lt;t2&gt;8&lt;/t2&gt;) using the mouse:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T175829Z" creationid="olex" creationdate="20180730T175829Z">
@@ -36512,6 +36544,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T191548Z" creationid="olex" creationdate="20180711T191548Z">
         <seg>импорт чисел с HTML-страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>indents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180815T094456Z" creationid="olex" creationdate="20180815T094456Z">
+        <seg>отступы</seg>
       </tuv>
     </tu>
     <tu>
