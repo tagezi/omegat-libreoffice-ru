@@ -16414,6 +16414,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you restart page numbering anywhere in the document, then the total page count may not be what you want.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T195723Z" creationid="olex" creationdate="20180817T195723Z">
+        <seg>Если вы начнете нумерацию страниц заново в любом месте документа, то общее количество страниц может быть не таким, как вы ожидаете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you select &lt;f0&gt;Text CSV&lt;/f0&gt; format (&lt;f1&gt;*.csv&lt;/f1&gt;) for your spreadsheet, the &lt;f2&gt;Export Text File&lt;/f2&gt; dialog (Figure &lt;t3&gt;7&lt;/t3&gt;) may open.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T190415Z" creationid="olex" creationdate="20180402T190415Z">
@@ -17150,6 +17158,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, many documents have the “front matter” (such as the table of contents) numbered with Roman numerals and the main body of the document numbered in Arabic numerals, starting with 1.&lt;ts0/&gt; &lt;f1&gt;To restart page numbering:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T201039Z" creationid="olex" creationdate="20180817T201039Z">
+        <seg>Кроме того, во многих документах есть «предварительный материал» (например, оглавление), пронумерованный римскими цифрами, и основной документ, нумерованный арабскими цифрами, начиная с 1.&lt;ts0/&gt; &lt;f1&gt;Чтобы перезапустить нумерацию страниц:&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, on Sunday, March 25, there will be an international certification review session for applicants for migration and training based in South America and Spain.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T210937Z" creationid="tagezi" creationdate="20180307T210937Z">
@@ -17819,6 +17835,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180813T173106Z" creationid="olex" creationdate="20180813T173106Z">
         <seg>Вставить элемент без номера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert a header or footer, as described in “&lt;rf0&gt;Creating headers and footers&lt;/rf0&gt;” above.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T194747Z" creationid="olex" creationdate="20180817T194747Z">
+        <seg>Вставьте верхний или нижний колонтитул, как описано в “&lt;rf0&gt;Создание верхних и нижних колонтитулов&lt;/rf0&gt;” выше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21199,6 +21223,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Often you will want to restart the page numbering at 1, for example on the page following a title page or a table of contents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T195853Z" creationid="olex" creationdate="20180817T195853Z">
+        <seg>Часто вам нужно начать нумерацию страниц заново с 1, например, на странице, следующей за титульной страницей или оглавлением.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On &lt;f1&gt;macOS&lt;/f1&gt;, the document closes and only the Menu bar remains at the top of the screen.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T183519Z" creationid="olex" creationdate="20180621T183519Z">
@@ -22370,6 +22402,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the cursor in the header or footer where you want the page number to appear and choose &lt;f0&gt;Insert &gt; Page Number&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T194940Z" creationid="olex" creationdate="20180817T194940Z">
+        <seg>Поместите курсор в верхний или нижний колонтитул там, где вы хотите отобразить номер страницы, и выберите &lt;f0&gt;Вставка &gt; Номер страницы&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the cursor where you want the character to appear.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T175533Z" creationid="olex" creationdate="20180802T175533Z">
@@ -22599,6 +22639,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T194203Z" creationid="olex" creationdate="20180418T194203Z">
         <seg>Нажмите клавишу &lt;f0&gt;F2&lt;/f0&gt;, и в конце ячейки появится курсор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the space bar once, type the word “of” and a space, then choose &lt;f0&gt;Insert &gt; Field &gt; Page Count&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T195437Z" creationid="olex" creationdate="20180817T195437Z">
+        <seg>Снова нажмите пробел, введите слово «из» и пробел, а затем выберите &lt;f0&gt;Вставка &gt; Поле &gt; Количество страниц&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23784,6 +23832,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T183912Z" creationid="olex" creationdate="20180805T183912Z">
         <seg>Смотрите &lt;tc0/&gt;&lt;f1&gt;Руководство по Writer&lt;/f1&gt; для &lt;ts2/&gt;&lt;f3&gt;получения дополнительной информации про &lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;параметры проверки орфографии и грамматики&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See &lt;tc1/&gt;the &lt;f2&gt;Writer Guide&lt;/f2&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T195750Z" creationid="olex" creationdate="20180817T195750Z">
+        <seg>Смотрите &lt;tc1/&gt;&lt;f2&gt;Руководство по Writer&lt;/f2&gt; для получения дополнительной информации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27127,6 +27183,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T053944Z" creationid="lera" creationdate="20180303T164411Z">
         <seg>Проект OpenOffice.org начался 13 октября 2000 года, когда &lt;is0/&gt;Sun Microsystems&lt;ie1/&gt; опубликовала исходный код своего программного продукта StarOffice® для сообщества разработчиков приложений с открытым кодом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Page Count field inserts the total number of pages in the document, as shown on the Statistics tab of the document’s Properties window (&lt;f0&gt;File &gt; Properties&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T195616Z" creationid="olex" creationdate="20180817T195616Z">
+        <seg>Поле Количество страниц вставляет общее количество страниц в документе, которое показано на вкладке Статистика окна Свойства документа (&lt;f0&gt;Файл &gt; Свойства...&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30850,6 +30914,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To display page numbers automatically:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T194630Z" creationid="olex" creationdate="20180817T194630Z">
+        <seg>Чтобы отображать номера страниц автоматически:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To display the Find &amp; Replace dialog, use the keyboard shortcut &lt;f0&gt;Ctrl+H&lt;/f0&gt; or choose &lt;f1&gt;Edit &gt; Find &amp; Replace&lt;/f1&gt; from the Menu bar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T172933Z" creationid="olex" creationdate="20180802T172933Z">
@@ -31110,6 +31182,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153702Z" creationid="User" creationdate="20180311T153702Z">
         <seg>Для импорта формулы MathML Presentation скопируйте формулу из внешнего редактора формул и используйте пункт меню &lt;f0&gt;Сервис &gt; Импорт MathML из буфера обмена&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To include the total number of pages (as in “page 1 of 12”):</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T195220Z" creationid="olex" creationdate="20180817T195220Z">
+        <seg>Чтобы добавить общее количество страниц (типа: «страница 1 из 12»):</seg>
       </tuv>
     </tu>
     <tu>
@@ -32299,6 +32379,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T173615Z" creationid="olex" creationdate="20180802T173615Z">
         <seg>Введите текст, который вы хотите найти в поле &lt;f0&gt;Найти&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type the word “page” and a space, then insert the page number as above.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T195309Z" creationid="olex" creationdate="20180817T195309Z">
+        <seg>Введите слово «страница» и пробел, затем вставьте номер страницы, как указано выше.</seg>
       </tuv>
     </tu>
     <tu>
