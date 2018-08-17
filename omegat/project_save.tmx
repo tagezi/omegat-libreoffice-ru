@@ -13253,6 +13253,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information, see &lt;tc11/&gt;the &lt;f12&gt;Writer Guide&lt;/f12&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T180914Z" creationid="olex" creationdate="20180817T180914Z">
+        <seg>Для получения дополнительной информации смотрите &lt;tc11/&gt;&lt;f12&gt;Руководство по Writer&lt;/f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more options go to menu &lt;f2&gt;Format – Cells – Alignment&lt;/f2&gt;, and select one of the options in the Horizontal drop down list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T192559Z" creationid="olex" creationdate="20180424T192445Z">
@@ -21928,6 +21936,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T180704Z" creationid="olex" creationdate="20180327T180704Z">
         <seg>Разрыв страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page layout is usually easier if you show text, object, table, and section boundaries in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; App&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt;&lt;f3&gt;lication Colors&lt;/f3&gt;&lt;/f2&gt;&lt;te4/&gt;&lt;tc5/&gt;&lt;f6&gt;,&lt;/f6&gt; and paragraph ends, tabs, breaks, and other items in &lt;f7&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Formatting Aids&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T181931Z" creationid="olex" creationdate="20180817T181931Z">
+        <seg>Разметка страницы обычно проще, если вы включите показ границ текста, объекта, таблиц и раздела в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Внешний вид&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;te4/&gt;&lt;tc5/&gt;&lt;f6&gt;,&lt;/f6&gt; и конец абзаца, знаки табуляции, знаки разрывов и другие обїекты в &lt;f7&gt;Сервис &gt; Параметры &gt; LibreOffice Writer &gt; Знаки форматирования&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
