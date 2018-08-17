@@ -3901,10 +3901,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A footer appears at the bottom of the page below the margin.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T182147Z" creationid="olex" creationdate="20180817T182147Z">
+        <seg>Внизу страницы ниже отступа отображается нижний колонтитул.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A function is a predefined calculation entered in a cell to help you analyze or manipulate data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T184947Z" creationid="olex" creationdate="20180506T184918Z">
         <seg>Функция - это определенный расчет, введенный в ячейку, чтобы помочь вам анализировать данные или манипулировать с ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A header is an area that appears at the top of a page above the margin.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T182056Z" creationid="olex" creationdate="20180817T182056Z">
+        <seg>Верхний колонтитул - это область, которая отображается вверху страницы над отступом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17633,6 +17649,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Information such as page number&lt;tc0/&gt; &lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;is &lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt;i&lt;/f6&gt;&lt;te7/&gt;nserted into &lt;ts8/&gt;&lt;f9&gt;the&lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt; header or footer &lt;ts12/&gt;&lt;f13&gt;of a page styl&lt;/f13&gt;&lt;te14/&gt;&lt;ts15/&gt;&lt;f16&gt;e.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T182430Z" creationid="olex" creationdate="20180817T182430Z">
+        <seg>Такая информация как номер страницы&lt;tc0/&gt; &lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt;i&lt;/f6&gt;&lt;te7/&gt;вставляется в &lt;ts8/&gt;&lt;f9&gt;&lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt;верхний или нижний колонтитул&lt;ts12/&gt;&lt;f13&gt; стиля страницы&lt;/f13&gt;&lt;te14/&gt;&lt;ts15/&gt;&lt;f16&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert Unnumbered Entry</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180813T173106Z" creationid="olex" creationdate="20180813T173106Z">
@@ -26056,6 +26080,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T063632Z" creationid="tagezi" creationdate="20180305T063632Z">
         <seg>Документ T602 (.602, .txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T&lt;/f16&gt;&lt;te17/&gt;&lt;ts18/&gt;&lt;f19&gt;hat &lt;/f19&gt;&lt;te20/&gt;&lt;ts21/&gt;&lt;f22&gt;information is then &lt;/f22&gt;&lt;te23/&gt;display&lt;ts24/&gt;&lt;f25&gt;ed&lt;/f25&gt;&lt;te26/&gt;&lt;tc27/&gt; on every page &lt;tc28/&gt;with th&lt;tc29/&gt;&lt;ts30/&gt;&lt;f31&gt;e&lt;/f31&gt;&lt;te32/&gt; &lt;ts33/&gt;&lt;f34&gt;same &lt;/f34&gt;&lt;te35/&gt;page style&lt;ts36/&gt; &lt;f37&gt;(unless the page style enables separate settings for the first page or for left and right pages).&lt;/f37&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T182754Z" creationid="olex" creationdate="20180817T182754Z">
+        <seg>&lt;/f16&gt;&lt;te17/&gt;&lt;ts18/&gt;&lt;f19&gt;Потом эта &lt;/f19&gt;&lt;te20/&gt;&lt;ts21/&gt;&lt;f22&gt;информация будет  &lt;/f22&gt;&lt;te23/&gt;отображаться&lt;ts24/&gt;&lt;f25&gt;&lt;/f25&gt;&lt;te26/&gt;&lt;tc27/&gt; на каждой странице &lt;tc28/&gt;с таким же&lt;tc29/&gt;&lt;ts30/&gt;&lt;f31&gt;&lt;/f31&gt;&lt;te32/&gt; &lt;ts33/&gt;&lt;f34&gt; &lt;/f34&gt;&lt;te35/&gt;стилем страницы&lt;ts36/&gt; &lt;f37&gt;(если только стиль страницы не включает отдельные настройки для первой страницы или для левой и правой страниц).&lt;/f37&gt;</seg>
       </tuv>
     </tu>
     <tu>
