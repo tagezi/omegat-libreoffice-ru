@@ -2258,6 +2258,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;This&lt;/f0&gt;&lt;te1/&gt; is also useful for numbering the first page of a document with a page number greater than 1.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T202133Z" creationid="olex" creationdate="20180817T202133Z">
+        <seg>&lt;f0&gt;Это&lt;/f0&gt;&lt;te1/&gt; также полезно при нумерации первой страницы документа номером больше чем 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;To &lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;search&lt;te3/&gt;&lt;ts4/&gt; &lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;in &lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt;only &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;specific &lt;/f14&gt;&lt;te15/&gt;&lt;ts16/&gt;&lt;f17&gt;types of content&lt;/f17&gt;&lt;te18/&gt;&lt;tc19/&gt;&lt;tc20/&gt;&lt;tc21/&gt;&lt;ts22/&gt;&lt;f23&gt;,&lt;/f23&gt;&lt;te24/&gt;&lt;ts25/&gt; click the &lt;f26&gt;Page&lt;/f26&gt; &lt;te27/&gt;&lt;ts28/&gt;option in the Find toolbar &lt;te29/&gt;&lt;ts30/&gt;&lt;f31&gt;and &lt;/f31&gt;&lt;te32/&gt;&lt;ts33/&gt;&lt;f34&gt;choose &lt;/f34&gt;&lt;te35/&gt;&lt;ts36/&gt;&lt;f37&gt;from the pop-up menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T171822Z" creationid="olex" creationdate="20180802T171822Z">
@@ -6669,6 +6677,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing &lt;i0/&gt;page margins</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T202733Z" creationid="olex" creationdate="20180817T202733Z">
+        <seg>Изменение &lt;i0/&gt;полей страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changing a style using the Style dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180020Z" creationid="olex" creationdate="20180306T194542Z">
@@ -6761,6 +6777,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T192022Z" creationid="olex" creationdate="20180607T192022Z">
         <seg>Глава 1 Введение в LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chapter 1 may start with page 1, but Chapter 2 could begin with page 25 and Chapter 3 with page 51.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T202403Z" creationid="olex" creationdate="20180817T202403Z">
+        <seg>Глава 1 может начинаться со страницы 1, глава 2 со страницы 25, а глава 3 со страницы 51.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13056,6 +13080,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T203710Z" creationid="olex" creationdate="20180316T203440Z">
         <seg>Например, вы можете определить стиль абзаца &lt;f1&gt;Заголовок 1&lt;/f1&gt;, за которым будет следовать стиль абзаца &lt;f2&gt;Основной текст&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you may be writing a book, with each chapter in a separate file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T202225Z" creationid="olex" creationdate="20180817T202225Z">
+        <seg>Например, вы можете писать каждую главу книги в отдельном файле.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33491,6 +33523,22 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using the Page &lt;tc0/&gt;deck of the Sidebar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T203233Z" creationid="olex" creationdate="20180817T203233Z">
+        <seg>Используя вкладку Страница &lt;tc0/&gt;на Боковой панели</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the Page Style dialog—can specify margins to two decimal places</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T203155Z" creationid="olex" creationdate="20180817T203155Z">
+        <seg>С помощью диалогового окна Стиль страницы можно указать поля с точностью до двух знаков после запятой</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the Save command will &lt;f0&gt;immediately&lt;/f0&gt; overwrite the last saved version of the file.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T183551Z" creationid="olex" creationdate="20180617T183551Z">
@@ -33559,6 +33607,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T210759Z" creationid="olex" creationdate="20180407T210759Z">
         <seg>Используя мышь:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the page rulers—quick and easy, but does not &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;allow&lt;/f2&gt;&lt;te3/&gt; fine control</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T203056Z" creationid="olex" creationdate="20180817T203056Z">
+        <seg>Использование линейки страниц - быстрая и простая, но &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;дает&lt;/f2&gt;&lt;te3/&gt; не точную настройку</seg>
       </tuv>
     </tu>
     <tu>
@@ -35388,6 +35444,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T175316Z" creationid="olex" creationdate="20180329T191654Z">
         <seg>Вы можете рассчитать среднее значение и сумму, количество ячеек и многое другое по выбору, щелкнув правой кнопкой мыши &lt;t0/&gt;по области информации про объект или ячейку в строке состояния и выбрав операции, которые вы хотите отобразить в строке состояния (Рисунок &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can change page margins in three ways:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T202902Z" creationid="olex" creationdate="20180817T202902Z">
+        <seg>Вы можете изменять поля страницы тремя способами:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37498,6 +37562,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>margins (Writer)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T202510Z" creationid="olex" creationdate="20180817T202510Z">
+        <seg>поля (Writer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>measurement unit</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T100818Z" creationid="olex" creationdate="20180815T100818Z">
@@ -37724,8 +37796,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>page margins</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180604T192705Z" creationid="olex" creationdate="20180604T192705Z">
-        <seg> поля страницы</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T202503Z" creationid="olex" creationdate="20180604T192705Z">
+        <seg>поля страницы</seg>
       </tuv>
     </tu>
     <tu>
