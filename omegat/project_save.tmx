@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -130,6 +130,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T194002Z" creationid="olex" creationdate="20180418T193821Z">
         <seg>2" &lt;s0/&gt;на "Продажи роз в Qtr " можно следующими способами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;Pages styles define basic layout, including page size, margins, headers and footers, borders, backgrounds, etc. &lt;s4/&gt;Changes to these settings automatically change the page style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T175901Z" creationid="olex" creationdate="20180817T175901Z">
+        <seg>&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;Стили страниц определяют основную компоновку, включая размер страницы, поля, верхние и нижние колонтитулы, границы, фон и т.д. &lt;s4/&gt;Изменения этих параметров автоматически меняют стиль страницы.</seg>
       </tuv>
     </tu>
     <tu>
