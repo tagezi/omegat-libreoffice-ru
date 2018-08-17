@@ -1345,6 +1345,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;I&lt;/f0&gt;&lt;te1/&gt;nformation such as &lt;ts2/&gt;&lt;f3&gt;a &lt;/f3&gt;&lt;te4/&gt;document &lt;tc5/&gt;&lt;tc6/&gt;&lt;tc7/&gt;title&lt;tc8/&gt; is often put into the header or footer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T191704Z" creationid="olex" creationdate="20180817T191704Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;Информация, такая как &lt;ts2/&gt;&lt;f3&gt;&lt;/f3&gt;&lt;te4/&gt;заголовок &lt;tc5/&gt;&lt;tc6/&gt;&lt;tc7/&gt;документа&lt;tc8/&gt;, часто помещается в верхний или нижний колонтитул..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;I&lt;/f0&gt;f you want to create a new document &lt;f1&gt;file&lt;/f1&gt;, change the filename and/or file format, or save the file in a different location on your computer:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T183927Z" creationid="olex" creationdate="20180617T183927Z">
@@ -12036,6 +12044,12 @@ DONE</note>
       </tuv>
     </tu>
     <tu>
+      <note>По ошибке Cathy коммент вставила в текст</note>
+      <tuv lang="EN-US">
+        <seg>Figure with Header page</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>File formats LibreOffice can open</seg>
       </tuv>
@@ -17765,6 +17779,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T173312Z" creationid="olex" creationdate="20180616T173312Z">
         <seg>Режим вставки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserting &lt;ts0/&gt;&lt;f1&gt;document title in &lt;/f1&gt;&lt;te2/&gt;header&lt;ts3/&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;te5/&gt; &lt;ts6/&gt;&lt;f7&gt;and&lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt; &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;f&lt;/f14&gt;&lt;te15/&gt;ooter&lt;tc16/&gt;&lt;tc17/&gt;s</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T191457Z" creationid="olex" creationdate="20180817T191033Z">
+        <seg>Вставка&lt;ts0/&gt;&lt;f1&gt;названия документа в &lt;/f1&gt;&lt;te2/&gt;верхний&lt;ts3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt; &lt;ts6/&gt;&lt;f7&gt;и&lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt; &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;&lt;/f14&gt;&lt;te15/&gt;нижний колонтитулы&lt;tc16/&gt;&lt;tc17/&gt;</seg>
       </tuv>
     </tu>
     <tu>
