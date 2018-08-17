@@ -1417,6 +1417,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In this dialog, you can also &lt;/f0&gt;turn the header on or off, set the margins, &lt;f1&gt;and set the spacing between the header and document text.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T190809Z" creationid="olex" creationdate="20180817T190809Z">
+        <seg>&lt;f0&gt;В этом диалоговом окне вы можете так же &lt;/f0&gt;включить или отключить колонтитул, установить поля, &lt;f1&gt;и задать интервал между колонтитулом и текстом документа.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Increment&lt;/f0&gt; – determines the value by which the series of the selected type increases by each step.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T145130Z" creationid="olex" creationdate="20180414T145118Z">
@@ -6043,6 +6051,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both methods take you to the same tab on the Page Style dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T185851Z" creationid="olex" creationdate="20180817T185851Z">
+        <seg>Оба способа приведут к одной и той же вкладке в диалоговом окне Стиль страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brackets and matrices</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T111342Z" creationid="asus" creationdate="20180813T111342Z">
@@ -9315,6 +9331,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T192329Z" creationid="olex" creationdate="20180315T192329Z">
         <seg>Подробности приведены в Главе 4, Форматирование страниц в &lt;f5&gt;Руководство по Writer&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Determining header &lt;f0&gt;and footer &lt;/f0&gt;appearance</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T184941Z" creationid="olex" creationdate="20180817T184941Z">
+        <seg>Определение вида верхнего &lt;f0&gt;и нижнего колонтитула&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14683,6 +14707,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T171412Z" creationid="olex" creationdate="20180627T171412Z">
         <seg>Параметр Автоматический использует набор значков, совместимый с вашей операционной системой, и выбранным рабочим столом: например, KDE или Gnome в Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you can &lt;f0&gt;specify if headings on the left and right pages should be the same or different.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T190049Z" creationid="olex" creationdate="20180817T190049Z">
+        <seg>Здесь вы можете &lt;f0&gt;указать, должны ли колонтитулы на левой и правой страницах быть одинаковыми или разными.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30852,6 +30884,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To format a header&lt;ts0/&gt; &lt;f1&gt;(use similar settings for a footer)&lt;/f1&gt;&lt;te2/&gt;, you can &lt;tc3/&gt;either &lt;ts4/&gt;&lt;f5&gt;click on &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Format Header&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; in &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;th&lt;/f12&gt;&lt;te13/&gt;e menu &lt;tc14/&gt;shown in Figure &lt;t15&gt;24&lt;/t15&gt;&lt;s16/&gt;or&lt;ts17/&gt; &lt;f18&gt;go to &lt;/f18&gt;&lt;te19/&gt;&lt;tc20/&gt;&lt;f21&gt;Format &gt; Page &gt; Header&lt;/f21&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T185806Z" creationid="olex" creationdate="20180817T185532Z">
+        <seg>Чтобы форматировать верхний колонтитул&lt;ts0/&gt; &lt;f1&gt;(нижний колонтитул настраивается так же)&lt;/f1&gt;&lt;te2/&gt;, вы можете &lt;tc3/&gt;либо &lt;ts4/&gt;&lt;f5&gt;щелкнуть &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Форматировать верхний колонтитул&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; в &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;&lt;/f12&gt;&lt;te13/&gt;меню&lt;tc14/&gt;, показанном на Рисунке &lt;t15&gt;24&lt;/t15&gt;&lt;s16/&gt;, или&lt;ts17/&gt; &lt;f18&gt;выбрать в меню &lt;/f18&gt;&lt;te19/&gt;&lt;tc20/&gt;&lt;f21&gt;Формат &gt; Страница &gt; Верхний колонтитул&lt;/f21&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To format the background color for a cell or a group of cells, click the small arrow next to the Background Color icon &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt;on the Formatting toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T172515Z" creationid="olex" creationdate="20180430T172312Z">
@@ -35012,6 +35052,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T182910Z" creationid="olex" creationdate="20180416T182910Z">
         <seg>Вы также можете настроить ячейку на отказ от недопустимого ввода, принять такой ввод с предупреждением или запустить макрос в случае ошибки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also specify whether the first page will have no header or a different header than other pages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T190437Z" creationid="olex" creationdate="20180817T190437Z">
+        <seg>Вы также можете указать, будет ли колонтитул отображаться на первой странице и будет ли он отличаться от колонтитула на других страницах.</seg>
       </tuv>
     </tu>
     <tu>
