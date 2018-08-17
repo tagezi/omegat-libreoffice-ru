@@ -608,6 +608,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Alternatively, you can&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt; c&lt;/f3&gt;hoose &lt;f4&gt;Insert &gt; Header and Footer &gt; Header &gt; Default Style&lt;/f4&gt; (or some other page style, if not Default Style).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T184812Z" creationid="olex" creationdate="20180817T184812Z">
+        <seg>&lt;f0&gt;Кроме того, вы можете &lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;/f3&gt;выбрать &lt;f4&gt;Вставка &gt; Колонтитулы &gt; Верхний колонтитул &gt; Базовый&lt;/f4&gt; (или любой другой стиль страницы, не только Базовый).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Apply Changes and Restart &lt;/f0&gt;- &lt;f1&gt;Choose this option to apply any of the above changes and restart LibreOffice.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T114154Z" creationid="olex" creationdate="20180715T114154Z">
@@ -4614,6 +4622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After a header&lt;ts0/&gt;/&lt;f1&gt;footer&lt;/f1&gt;&lt;te2/&gt; has been created, a down-arrow appears on the &lt;tc3/&gt;marker.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T184211Z" creationid="olex" creationdate="20180817T184211Z">
+        <seg>После того, как верхний &lt;ts0/&gt;&lt;f1&gt;или нижний колонтитул&lt;/f1&gt;&lt;te2/&gt; будет создан, на маркере появится стрелка вниз&lt;tc3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After changes have been undone, you can redo changes.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T181738Z" creationid="olex" creationdate="20180621T181738Z">
@@ -7785,6 +7801,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T155801Z" creationid="olex" creationdate="20180722T155801Z">
         <seg>Нажмите на значок несохраненных изменений, чтобы сохранить документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on this arrow to drop down a menu of choices for working with the header (Figure &lt;t4&gt;24&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T184301Z" creationid="olex" creationdate="20180817T184301Z">
+        <seg>Нажмите на эту стрелку, чтобы открыть меню выбора для работы с колонтитулом (Рисунок &lt;t4&gt;24&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11224,6 +11248,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T191039Z" creationid="olex" creationdate="20180711T191039Z">
         <seg>Рисунок &lt;seq0&gt;24&lt;/seq0&gt;: Выбор параметров совместимости HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Header menu</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T184344Z" creationid="olex" creationdate="20180817T184344Z">
+        <seg>Рисунок &lt;seq0&gt;24&lt;/seq0&gt;: Меню колонтитула</seg>
       </tuv>
     </tu>
     <tu>
