@@ -2619,6 +2619,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;You can &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;insert a header&lt;ts3/&gt; &lt;f4&gt;in several ways.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T183511Z" creationid="olex" creationdate="20180817T183339Z">
+        <seg>&lt;f0&gt;Вы можете &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;вставить верхний&lt;ts3/&gt; &lt;f4&gt;несколькими способами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;You have a voice.&lt;/f0&gt; Enhancements, software fixes, and release dates are community-driven.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T174856Z" creationid="olex" creationdate="20180611T174856Z">
@@ -3209,6 +3217,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T190804Z" creationid="olex" creationdate="20180507T190804Z">
         <seg>&lt;s5/&gt;Оттуда вы можете перетащить нужную информацию в поля &lt;f6&gt;столбцов, строк или страниц&lt;/f6&gt;, чтобы упорядочить данные, и нажать &lt;f7&gt;ОК&lt;/f7&gt;, чтобы просмотреть результаты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s5/&gt;Here is the easiest:&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T183346Z" creationid="olex" creationdate="20180817T183346Z">
+        <seg>&lt;s5/&gt;Вот самый простой:&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7477,6 +7493,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click above the top margin &lt;ts0/&gt;&lt;f1&gt;(or below the bottom margin) &lt;/f1&gt;&lt;te2/&gt;to make the Header &lt;ts3/&gt;&lt;f4&gt;or Footer &lt;/f4&gt;&lt;te5/&gt;marker appear (Figure &lt;t6&gt;23&lt;/t6&gt;), and then click on the &lt;f7&gt;+&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T183800Z" creationid="olex" creationdate="20180817T183503Z">
+        <seg>Нажмите над верхним краем &lt;ts0/&gt;&lt;f1&gt;или под нижним краем страницы, &lt;/f1&gt;&lt;te2/&gt;чтобы отобразить маркер верхнего или &lt;ts3/&gt;&lt;f4&gt;нижнего колонтитула &lt;/f4&gt;&lt;te5/&gt; (Рисунок &lt;t6&gt;23&lt;/t6&gt;), а затем нажмите кнопку &lt;f7&gt;+&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click an icon to change between single page, side-by-side, and book layout views.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T160751Z" creationid="olex" creationdate="20180722T160711Z">
@@ -11184,6 +11208,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T142356Z" creationid="olex" creationdate="20180414T142356Z">
         <seg>Рисунок &lt;seq0&gt;23&lt;/seq0&gt;: Диалоговое окно Заполнить ряды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Header marker at top of text area</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T183926Z" creationid="olex" creationdate="20180817T183926Z">
+        <seg>Рисунок &lt;seq0&gt;23&lt;/seq0&gt;: Маркер верхнего колонтитула над текстовой областью</seg>
       </tuv>
     </tu>
     <tu>
