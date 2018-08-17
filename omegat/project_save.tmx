@@ -1347,8 +1347,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;I&lt;/f0&gt;&lt;te1/&gt;nformation such as &lt;ts2/&gt;&lt;f3&gt;a &lt;/f3&gt;&lt;te4/&gt;document &lt;tc5/&gt;&lt;tc6/&gt;&lt;tc7/&gt;title&lt;tc8/&gt; is often put into the header or footer.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180817T191704Z" creationid="olex" creationdate="20180817T191704Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;Информация, такая как &lt;ts2/&gt;&lt;f3&gt;&lt;/f3&gt;&lt;te4/&gt;заголовок &lt;tc5/&gt;&lt;tc6/&gt;&lt;tc7/&gt;документа&lt;tc8/&gt;, часто помещается в верхний или нижний колонтитул..</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T192728Z" creationid="olex" creationdate="20180817T191704Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;Информация, такая как &lt;ts2/&gt;&lt;f3&gt;&lt;/f3&gt;&lt;te4/&gt;заглавие &lt;tc5/&gt;&lt;tc6/&gt;&lt;tc7/&gt;документа&lt;tc8/&gt;, часто помещается в верхний или нижний колонтитул..</seg>
       </tuv>
     </tu>
     <tu>
@@ -2872,6 +2872,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T185607Z" creationid="olex" creationdate="20180607T185607Z">
         <seg>&lt;f1&gt;Смотрите&lt;/f1&gt; лицензии: &lt;a2&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f2&gt;The background &lt;/f2&gt;&lt;te3/&gt;&lt;tc4/&gt;does not show when printed and can be turned off&lt;tc5/&gt;&lt;ts6/&gt; &lt;f7&gt;in &lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt;&lt;f11&gt;T&lt;/f11&gt;&lt;/f10&gt;&lt;te12/&gt;&lt;ts13/&gt;&lt;f14&gt;&lt;f15&gt;ools &gt; Options &gt;&lt;/f15&gt;&lt;/f14&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;te20/&gt;&lt;ts21/&gt;&lt;f22&gt;&lt;f23&gt;LibreOffice &gt; Application Colors&lt;/f23&gt;&lt;/f22&gt;&lt;te24/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T194141Z" creationid="olex" creationdate="20180817T194141Z">
+        <seg>&lt;f2&gt;Фон &lt;/f2&gt;&lt;te3/&gt;&lt;tc4/&gt;не отображается при печати и может быть отключен&lt;tc5/&gt;&lt;ts6/&gt; &lt;f7&gt;в меню &lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;te12/&gt;&lt;ts13/&gt;&lt;f14&gt;&lt;f15&gt;Сервис &gt; Параметры &gt;&lt;/f15&gt;&lt;/f14&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;te20/&gt;&lt;ts21/&gt;&lt;f22&gt;&lt;f23&gt;LibreOffice &gt; Внешний вид&lt;/f23&gt;&lt;/f22&gt;&lt;te24/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4434,6 +4442,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T173656Z" creationid="olex" creationdate="20180808T173656Z">
         <seg>Добавлять пробел автоматически после принятого слова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a header &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;with &lt;/f2&gt;&lt;te3/&gt;&lt;f4&gt;Insert &gt; Header and Footer &gt; Header &gt; Default&lt;/f4&gt;&lt;ts5/&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Style&lt;/f8&gt;&lt;/f7&gt;&lt;te9/&gt;&lt;ts10/&gt; &lt;f11&gt;(or appropriate page style&lt;/f11&gt;&lt;te12/&gt;&lt;ts13/&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T193109Z" creationid="olex" creationdate="20180817T193109Z">
+        <seg>Добавьте верхний колонтитул &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;из меню &lt;/f2&gt;&lt;te3/&gt;&lt;f4&gt;Вставка &gt; Колонтитулы &gt; Верхний колонтитул &gt; Базовый&lt;/f4&gt;&lt;ts5/&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;te9/&gt;&lt;ts10/&gt; &lt;f11&gt;(или другой необходимый стиль страницы&lt;/f11&gt;&lt;te12/&gt;&lt;ts13/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7007,8 +7023,8 @@
       <tuv lang="EN-US">
         <seg>Choose &lt;f0&gt;File &gt; Properties &gt; Description&lt;/f0&gt; and type a title for your document.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180817T192646Z" creationid="olex" creationdate="20180817T192646Z">
-        <seg>Выберите в меню &lt;f0&gt;Файл &gt; Свойства... &gt; Описание&lt;/f0&gt; и напишите Заглавие вашего документа.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T192817Z" creationid="olex" creationdate="20180817T192646Z">
+        <seg>Выберите в меню &lt;f0&gt;Файл &gt; Свойства... &gt; Описание&lt;/f0&gt; и напишите Заглавие для вашего документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7017,6 +7033,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T111158Z" creationid="olex" creationdate="20180715T111158Z">
         <seg>Выберите &lt;f0&gt;Справка &gt; Перезапуск в безопасном режиме&lt;/f0&gt;&lt;f1&gt;...&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose &lt;f0&gt;Insert &gt; Fields &gt; Title&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T193530Z" creationid="olex" creationdate="20180817T193530Z">
+        <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Поле &gt; Заголовок&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13147,6 +13171,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more about headers&lt;ts0/&gt;,&lt;te1/&gt;&lt;tc2/&gt; footers, &lt;ts3/&gt;&lt;f4&gt;and fields, &lt;/f4&gt;&lt;te5/&gt;see &lt;tc6/&gt;the &lt;f7&gt;Writer Guide&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T194458Z" creationid="olex" creationdate="20180817T194458Z">
+        <seg>Подробнее про верхние и нижние&lt;ts0/&gt;&lt;te1/&gt;&lt;tc2/&gt; колонтитулы, &lt;ts3/&gt;&lt;f4&gt;поля, &lt;/f4&gt;&lt;te5/&gt;смотрите &lt;tc6/&gt;в &lt;f7&gt;Руководстве по Writer&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more about macro recording, see Chapter 13, Getting Started with Macros.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T173050Z" creationid="olex" creationdate="20180701T173050Z">
@@ -14727,8 +14759,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Here is one common &lt;ts12/&gt;&lt;f13&gt;way to use fields &lt;/f13&gt;&lt;te14/&gt;&lt;tc15/&gt;&lt;tc16/&gt;&lt;ts17/&gt;&lt;f18&gt;t&lt;/f18&gt;&lt;te19/&gt;o insert the document title into the header:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180817T192448Z" creationid="olex" creationdate="20180817T192448Z">
-        <seg>Вот один из распространенных &lt;ts12/&gt;&lt;f13&gt;способов использования полей &lt;/f13&gt;&lt;te14/&gt;&lt;tc15/&gt;&lt;tc16/&gt;&lt;ts17/&gt;&lt;f18&gt;&lt;/f18&gt;&lt;te19/&gt;для вставки заголовка документа в верхний колонтитул:</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T192802Z" creationid="olex" creationdate="20180817T192448Z">
+        <seg>Вот один из распространенных &lt;ts12/&gt;&lt;f13&gt;способов использования полей &lt;/f13&gt;&lt;te14/&gt;&lt;tc15/&gt;&lt;tc16/&gt;&lt;ts17/&gt;&lt;f18&gt;&lt;/f18&gt;&lt;te19/&gt;для вставки заглавия документа в верхний колонтитул:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17801,8 +17833,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Inserting &lt;ts0/&gt;&lt;f1&gt;document title in &lt;/f1&gt;&lt;te2/&gt;header&lt;ts3/&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;te5/&gt; &lt;ts6/&gt;&lt;f7&gt;and&lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt; &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;f&lt;/f14&gt;&lt;te15/&gt;ooter&lt;tc16/&gt;&lt;tc17/&gt;s</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180817T191457Z" creationid="olex" creationdate="20180817T191033Z">
-        <seg>Вставка&lt;ts0/&gt;&lt;f1&gt;названия документа в &lt;/f1&gt;&lt;te2/&gt;верхний&lt;ts3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt; &lt;ts6/&gt;&lt;f7&gt;и&lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt; &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;&lt;/f14&gt;&lt;te15/&gt;нижний колонтитулы&lt;tc16/&gt;&lt;tc17/&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T192714Z" creationid="olex" creationdate="20180817T191033Z">
+        <seg>Вставка&lt;ts0/&gt;&lt;f1&gt;заглавия документа в &lt;/f1&gt;&lt;te2/&gt;верхний&lt;ts3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt; &lt;ts6/&gt;&lt;f7&gt;и&lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt; &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;&lt;/f14&gt;&lt;te15/&gt;нижний колонтитулы&lt;tc16/&gt;&lt;tc17/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22330,6 +22362,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the cursor in the header &lt;ts0/&gt;&lt;f1&gt;area at &lt;/f1&gt;&lt;f2&gt;the&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt;top &lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;of the page.&lt;ts9/&gt; &lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;If needed, c&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;lick on the &lt;f15&gt;&lt;f16&gt;+ &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;to &lt;/f18&gt;&lt;/f17&gt;&lt;te19/&gt;&lt;ts20/&gt;&lt;f21&gt;&lt;f22&gt;be able to &lt;/f22&gt;&lt;/f21&gt;&lt;te23/&gt;&lt;ts24/&gt;&lt;f25&gt;&lt;f26&gt;click in the header.&lt;/f26&gt;&lt;/f25&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T193436Z" creationid="olex" creationdate="20180817T193436Z">
+        <seg>Поместите курсор в область верхнего колонтитула &lt;ts0/&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt;вверху &lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;страницы.&lt;ts9/&gt; &lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;Если необходимо, &lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;то нажмите на кнопку &lt;f15&gt;&lt;f16&gt;+&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;, чтобы &lt;/f18&gt;&lt;/f17&gt;&lt;te19/&gt;&lt;ts20/&gt;&lt;f21&gt;&lt;f22&gt;сделать активным &lt;/f22&gt;&lt;/f21&gt;&lt;te23/&gt;&lt;ts24/&gt;&lt;f25&gt;&lt;f26&gt;верхний колонтитул.&lt;/f26&gt;&lt;/f25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the cursor where you want the character to appear.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T175533Z" creationid="olex" creationdate="20180802T175533Z">
@@ -26500,8 +26540,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>That way, if something &lt;ts9/&gt;&lt;f10&gt;(such as the name) &lt;/f10&gt;&lt;te11/&gt;changes, the headers and footers are updated automatically.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180817T192034Z" creationid="olex" creationdate="20180817T192034Z">
-        <seg>Таким образом, если что-то &lt;ts9/&gt;&lt;f10&gt;(например, имя) &lt;/f10&gt;&lt;te11/&gt;изменяется, то верхние и нижние колонтитулы обновятся автоматически..</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T192745Z" creationid="olex" creationdate="20180817T192034Z">
+        <seg>Таким образом, если что-то &lt;ts9/&gt;&lt;f10&gt;(например, заглавие) &lt;/f10&gt;&lt;te11/&gt;изменяется, то верхние и нижние колонтитулы обновятся автоматически..</seg>
       </tuv>
     </tu>
     <tu>
@@ -28969,6 +29009,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The title should appear on a gray background&lt;ts1/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T193902Z" creationid="olex" creationdate="20180817T193902Z">
+        <seg>Заголовок должен появиться на сером фоне.&lt;ts1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The toolbar can be docked in a new position at the top, sides or bottom of the main window, or left as a floating toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T181217Z" creationid="olex" creationdate="20180615T181217Z">
@@ -30533,6 +30581,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T163141Z" creationid="olex" creationdate="20180721T163141Z">
         <seg>Чтобы изменить стиль страницы, щелкните по этому полю правой кнопкой мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the title for the whole document, go back to &lt;f0&gt;File &gt; Properties &gt; Description&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T194243Z" creationid="olex" creationdate="20180817T194243Z">
+        <seg>Чтобы изменить заголовок для всего документа, вернитесь в &lt;f0&gt;Файл &gt; Свойства... &gt; Описание&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37450,6 +37506,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>numbering pages</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T194507Z" creationid="olex" creationdate="20180817T194507Z">
+        <seg>нумерация страниц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>numbers</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T173301Z" creationid="olex" creationdate="20180409T173301Z">
@@ -37534,6 +37598,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T192705Z" creationid="olex" creationdate="20180604T192705Z">
         <seg> поля страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>page numbering</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T194539Z" creationid="olex" creationdate="20180817T194539Z">
+        <seg>нумерация страниц</seg>
       </tuv>
     </tu>
     <tu>
