@@ -7029,6 +7029,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose &lt;f0&gt;Format &gt; Paragraph.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T201148Z" creationid="olex" creationdate="20180817T201148Z">
+        <seg>Выберите &lt;f0&gt;Формат &gt; Абзац...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose &lt;f0&gt;Help &gt; Restart in Safe &lt;/f0&gt;&lt;f1&gt;Mode… &lt;/f1&gt;&lt;f2&gt;from the menu bar&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T111158Z" creationid="olex" creationdate="20180715T111158Z">
@@ -21513,6 +21521,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the Text Flow tab of the Paragraph dialog (Figure &lt;t0&gt;21&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;30&lt;/t2&gt;), select &lt;f3&gt;Breaks&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T201645Z" creationid="olex" creationdate="20180817T201645Z">
+        <seg>На вкладке Положение на странице диалогового окна Абзац (Рисунок &lt;t0&gt;21&lt;/t0&gt;&lt;s1/&gt;на странице &lt;t2&gt;30&lt;/t2&gt;) в разделе &lt;f3&gt;Разрывы&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the left is the folder structure of the user space in the server.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T182449Z" creationid="olex" creationdate="20180619T182449Z">
@@ -22390,6 +22406,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T133104Z" creationid="tagezi" creationdate="20180312T133104Z">
         <seg>Поместите курсор в подпрограмму HelloMacro и нажмите значок &lt;f0&gt;Выполнить&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; на панели инструментов Макрос или нажмите клавишу &lt;f3&gt;F5&lt;/f3&gt; для запуска HelloMacro в модуле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the cursor in the first paragraph of the new page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T201105Z" creationid="olex" creationdate="20180817T201105Z">
+        <seg>Поместите курсор в первый абзац новой страницы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24228,6 +24252,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Insert&lt;/f0&gt; and then &lt;f1&gt;With Page Style&lt;/f1&gt; and specify the page style to use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T201902Z" creationid="olex" creationdate="20180817T201902Z">
+        <seg>Выберите &lt;f0&gt;Вставить&lt;/f0&gt; и &lt;f1&gt;Со стилем страницы&lt;/f1&gt;, и укажите стиль страницы для использования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Keep Old Styles&lt;/f0&gt; if you do not want to apply the changed styles in the template to the document (but see the Caution notice below).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T193924Z" creationid="olex" creationdate="20180311T193924Z">
@@ -26020,6 +26052,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T195720Z" creationid="olex" creationdate="20180412T195137Z">
         <seg>Укажите аббревиатуры или комбинации букв, которые вы хотите не подвергать автоматической коррекции в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify the page number to start from, and then click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T202013Z" creationid="olex" creationdate="20180817T202013Z">
+        <seg>Укажите номер страницы для начала разрыва и затем нажмите &lt;f0&gt;ОК&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
