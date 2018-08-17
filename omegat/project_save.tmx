@@ -1385,6 +1385,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In addition to &lt;s1/&gt;page styles, several features enable you to further &lt;/f0&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;tc4/&gt;&lt;i5/&gt;control page layouts&lt;ts6/&gt;, &lt;f7&gt;including&lt;/f7&gt;&lt;te8/&gt;&lt;tc9/&gt;&lt;tc10/&gt; columns, frames, tables, and sections.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T180835Z" creationid="olex" creationdate="20180817T180835Z">
+        <seg>&lt;f0&gt;В дополнение к &lt;s1/&gt;стилям страниц, несколько функций позволяют вам дополнительно  &lt;/f0&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;tc4/&gt;&lt;i5/&gt;управлять макетами страниц&lt;ts6/&gt;, &lt;f7&gt;в их числе&lt;/f7&gt;&lt;te8/&gt;&lt;tc9/&gt;&lt;tc10/&gt; столбцы, врезки, таблицы и разделы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;In addition to the Help menu links above, there are other online community support options available, s&lt;/f0&gt;ee &lt;f1&gt;the t&lt;/f1&gt;able &lt;f2&gt;below.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T185509Z" creationid="olex" creationdate="20180606T185158Z">
@@ -5446,6 +5454,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180314T161104Z" creationid="User" creationdate="20180314T161104Z">
         <seg>Как и с другими объектами OLE, можно изменять местоположение объекта в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As with other styles, Writer comes with a number of page styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T180216Z" creationid="olex" creationdate="20180817T180216Z">
+        <seg>Как и в случае с другими стилями, Writer устанавливается с несколькими стилями страниц.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26549,6 +26565,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Default page style is used when no other page style has been specified.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T180449Z" creationid="olex" creationdate="20180817T180449Z">
+        <seg>По умолчанию используется стиль страницы Базовый, если не указан другой стиль страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Dim keyword originally stood for Dimension and was used to define the dimensions of an array.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T181543Z" creationid="tagezi" creationdate="20180315T181543Z">
@@ -29637,6 +29661,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T183605Z" creationid="tagezi" creationdate="20180312T183306Z">
         <seg>Это означает, что вы должны снова копировать свою информацию для повторения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means that, in contrast to paragraph styles, these settings cannot be used to directly format individual pages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T180058Z" creationid="olex" creationdate="20180817T180058Z">
+        <seg>Это означает, что в отличие от стилей абзаца параметры страницы не могут использоваться для прямого форматирования отдельных страниц.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35332,6 +35364,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can modify these styles &lt;s0/&gt;or create new ones.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T180315Z" creationid="olex" creationdate="20180817T180315Z">
+        <seg>Вы можете изменять эти стили &lt;s0/&gt;или создавать новые.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can move or copy sheets within the same spreadsheet by dragging and dropping, or by using the &lt;f0&gt;Move/Copy Sheet&lt;/f0&gt; dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T220321Z" creationid="olex" creationdate="20180407T220321Z">
@@ -37264,6 +37304,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T193508Z" creationid="olex" creationdate="20180315T190957Z">
         <seg>макета страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>page layouts</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T180504Z" creationid="olex" creationdate="20180817T180504Z">
+        <seg>макеты страниц</seg>
       </tuv>
     </tu>
     <tu>
