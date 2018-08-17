@@ -7005,6 +7005,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose &lt;f0&gt;File &gt; Properties &gt; Description&lt;/f0&gt; and type a title for your document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T192646Z" creationid="olex" creationdate="20180817T192646Z">
+        <seg>Выберите в меню &lt;f0&gt;Файл &gt; Свойства... &gt; Описание&lt;/f0&gt; и напишите Заглавие вашего документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose &lt;f0&gt;Help &gt; Restart in Safe &lt;/f0&gt;&lt;f1&gt;Mode… &lt;/f1&gt;&lt;f2&gt;from the menu bar&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T111158Z" creationid="olex" creationdate="20180715T111158Z">
@@ -14713,6 +14721,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T171941Z" creationid="olex" creationdate="20180611T171941Z">
         <seg>Вот некоторые из преимуществ LibreOffice перед другими офисными пакетами:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here is one common &lt;ts12/&gt;&lt;f13&gt;way to use fields &lt;/f13&gt;&lt;te14/&gt;&lt;tc15/&gt;&lt;tc16/&gt;&lt;ts17/&gt;&lt;f18&gt;t&lt;/f18&gt;&lt;te19/&gt;o insert the document title into the header:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T192448Z" creationid="olex" creationdate="20180817T192448Z">
+        <seg>Вот один из распространенных &lt;ts12/&gt;&lt;f13&gt;способов использования полей &lt;/f13&gt;&lt;te14/&gt;&lt;tc15/&gt;&lt;tc16/&gt;&lt;ts17/&gt;&lt;f18&gt;&lt;/f18&gt;&lt;te19/&gt;для вставки заголовка документа в верхний колонтитул:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26482,6 +26498,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That way, if something &lt;ts9/&gt;&lt;f10&gt;(such as the name) &lt;/f10&gt;&lt;te11/&gt;changes, the headers and footers are updated automatically.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T192034Z" creationid="olex" creationdate="20180817T192034Z">
+        <seg>Таким образом, если что-то &lt;ts9/&gt;&lt;f10&gt;(например, имя) &lt;/f10&gt;&lt;te11/&gt;изменяется, то верхние и нижние колонтитулы обновятся автоматически..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The .rtf format is a common format for transferring text files between applications, but you are likely to experience loss of formatting and images.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180050Z" creationid="tagezi" creationdate="20180304T180050Z">
@@ -29319,6 +29343,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T181241Z" creationid="olex" creationdate="20180621T181155Z">
         <seg>Эти функции объясняются в руководстве пользователя далее для каждого модуля LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These items are best added as fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180817T191837Z" creationid="olex" creationdate="20180817T191837Z">
+        <seg>Эти элементы лучше всего добавлять в виде полей.</seg>
       </tuv>
     </tu>
     <tu>
