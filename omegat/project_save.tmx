@@ -1425,6 +1425,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In the Format panel, use the Mar&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;gins drop-down list to select the desired margins.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T130934Z" creationid="olex" creationdate="20180818T130934Z">
+        <seg>&lt;f0&gt;На панели Формат используйте раскрывающийся список Поля&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;, и выберите подходящие поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;In this dialog, you can also &lt;/f0&gt;turn the header on or off, set the margins, &lt;f1&gt;and set the spacing between the header and document text.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T190809Z" creationid="olex" creationdate="20180817T190809Z">
@@ -7937,6 +7945,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T181727Z" creationid="olex" creationdate="20180616T181656Z">
         <seg>Щелкните один из значков, чтобы открыть новый документ необходимого типа, или щелкните значок &lt;f3&gt;Шаблоны&lt;/f3&gt;, чтобы создать новый документ с помощью шаблона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;More Options&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; button to open the Page Style dialog where you can enter exact margin distances.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T131200Z" creationid="olex" creationdate="20180818T131200Z">
+        <seg>Нажмите кнопку &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Дополнительные параметры&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, чтобы открыть диалоговое окно Стиль страницы, где вы можете ввести точные значения полей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21481,10 +21497,26 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the &lt;f0&gt;Page&lt;/f0&gt; tab of the dialog, type the required distances in the Margins boxes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T130505Z" creationid="olex" creationdate="20180818T130505Z">
+        <seg>На вкладке &lt;f0&gt;Страница&lt;/f0&gt;, открывшегося диалогового окна, введите требуемые значения в разделе Поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the &lt;f0&gt;VBA Properties&lt;/f0&gt; page, you can choose whether to keep any macros in Microsoft Office documents that are opened in LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T182412Z" creationid="olex" creationdate="20180707T182412Z">
         <seg>На странице &lt;f0&gt;Свойства VBA&lt;/f0&gt; вы можете выбрать, сохранять ли макросы в документах Microsoft Office, открытых в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the &lt;tc0/&gt;Sidebar (&lt;f1&gt;View &gt; Sidebar&lt;/f1&gt;) &lt;ts2/&gt;&lt;f3&gt;open &lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;the &lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;f9&gt;Page&lt;/f9&gt;&lt;/f8&gt; tab&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T130706Z" creationid="olex" creationdate="20180818T130706Z">
+        <seg>На &lt;tc0/&gt;Боковой панели (&lt;f1&gt;Вид &gt; Боковая панель&lt;/f1&gt;) &lt;ts2/&gt;&lt;f3&gt;открыть &lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt; &lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;f9&gt;складку Страница&lt;/f9&gt;&lt;/f8&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23455,6 +23487,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T093532Z" creationid="olex" creationdate="20180415T093532Z">
         <seg>Щелкните правой кнопкой мыши по ячейке и выберите &lt;f0&gt;Список выбора&lt;/f0&gt; в контекстном меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-click anywhere in the text area on the page and select &lt;f0&gt;Page&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T130329Z" creationid="olex" creationdate="20180818T130329Z">
+        <seg>Щелкните правой кнопкой мыши в любом месте области текста на странице и выберите в контекстном меню &lt;f0&gt;Страница...&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30661,6 +30701,22 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180341Z" creationid="olex" creationdate="20180308T180341Z">
         <seg>Чтобы изменить существующий стиль с помощью диалогового окна &lt;i0/&gt; Стиль, щелкните правой кнопкой мыши по необходимому стилю в окне Стили и выберите &lt;f1&gt;Изменить&lt;/f1&gt; во всплывающем меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change margins using the Page &lt;tc0/&gt;&lt;tc1/&gt;deck of the Sidebar:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T130711Z" creationid="olex" creationdate="20180818T130600Z">
+        <seg>Чтобы изменить поля с помощью вкладки Страница на &lt;tc0/&gt;&lt;tc1/&gt; Боковой панели:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change margins using the Page Style dialog:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T130145Z" creationid="olex" creationdate="20180818T130145Z">
+        <seg>Чтобы изменить поля с помощью диалогового окна Стиль страницы:</seg>
       </tuv>
     </tu>
     <tu>
