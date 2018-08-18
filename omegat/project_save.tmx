@@ -2579,6 +2579,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;When &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;you change the margins, the&lt;tc3/&gt; page style&lt;ts4/&gt; &lt;f5&gt;is also changed and&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt; the changed margins apply to &lt;f8&gt;all&lt;/f8&gt; pages using that style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T124346Z" creationid="olex" creationdate="20180818T124346Z">
+        <seg>&lt;f0&gt;Когда &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;вы изменяетет поля, то так же изменяется и &lt;tc3/&gt;стиль страницы&lt;ts4/&gt;&lt;f5&gt; и&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt; изменения полей применяется ко &lt;f8&gt;всем&lt;/f8&gt; страницам, использующим этот стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;When clearing direct formatting, the text formatting will return to the &lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt;last &lt;/f2&gt;&lt;te3/&gt;&lt;f4&gt;applied paragraph &lt;/f4&gt;&lt;ts5/&gt;&lt;f6&gt;and&lt;/f6&gt;&lt;te7/&gt;&lt;ts8/&gt;&lt;f9&gt; character &lt;/f9&gt;&lt;te10/&gt;&lt;f11&gt;style and not the &lt;/f11&gt;&lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;D&lt;/f14&gt;&lt;te15/&gt;&lt;f16&gt;efault paragraph &lt;/f16&gt;&lt;ts17/&gt;&lt;f18&gt;style or&lt;/f18&gt;&lt;te19/&gt;&lt;ts20/&gt;&lt;f21&gt; Default character sty&lt;/f21&gt;&lt;te22/&gt;&lt;tc23/&gt;&lt;f24&gt;le&lt;/f24&gt;&lt;ts25/&gt;&lt;f26&gt; (&lt;/f26&gt;&lt;te27/&gt;&lt;ts28/&gt;&lt;f29&gt;unless the last style applied was a Default style)&lt;/f29&gt;&lt;te30/&gt;&lt;f31&gt;.&lt;/f31&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T180344Z" creationid="olex" creationdate="20180809T180344Z">
@@ -17200,8 +17208,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>In addition, many documents have the “front matter” (such as the table of contents) numbered with Roman numerals and the main body of the document numbered in Arabic numerals, starting with 1.&lt;ts0/&gt; &lt;f1&gt;To restart page numbering:&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180817T201039Z" creationid="olex" creationdate="20180817T201039Z">
-        <seg>Кроме того, во многих документах есть «предварительный материал» (например, оглавление), пронумерованный римскими цифрами, и основной документ, нумерованный арабскими цифрами, начиная с 1.&lt;ts0/&gt; &lt;f1&gt;Чтобы перезапустить нумерацию страниц:&lt;/f1&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T124442Z" creationid="olex" creationdate="20180817T201039Z">
+        <seg>Кроме того, во многих документах есть разделение на некоторое количество начальных страниц (например, оглавление, предисловие), пронумерованных римскими цифрами, и основной документ, пронумерованный арабскими цифрами, начиная с 1.&lt;ts0/&gt; &lt;f1&gt;Чтобы перезапустить нумерацию страниц:&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22971,6 +22979,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Put the mouse cursor over the line between the gray and white sections.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T124800Z" creationid="olex" creationdate="20180818T124800Z">
+        <seg>Поместите курсор мыши на линию между серой и белой секциями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quickstarter</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T195003Z" creationid="olex" creationdate="20180607T195003Z">
@@ -28163,6 +28179,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The gray sections of the rulers are the margins.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T124636Z" creationid="olex" creationdate="20180818T124636Z">
+        <seg>Серые участки линеек - это поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The heavier horizontal line between rows 3 and 23 and the heavier vertical line between columns F and Q indicate that rows 1 to 3 and columns A to F are frozen.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180523T191924Z" creationid="olex" creationdate="20180409T164041Z">
@@ -28755,6 +28779,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T174411Z" creationid="olex" creationdate="20180328T174411Z">
         <seg>Части этого окна описаны ниже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The pointer turns into a double-headed arrow and displays the current setting in a tool-tip.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T125000Z" creationid="olex" creationdate="20180818T125000Z">
+        <seg>Указатель превратится в двойную стрелку и отобразит текущую настройку в подсказке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30597,6 +30629,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180341Z" creationid="olex" creationdate="20180308T180341Z">
         <seg>Чтобы изменить существующий стиль с помощью диалогового окна &lt;i0/&gt; Стиль, щелкните правой кнопкой мыши по необходимому стилю в окне Стили и выберите &lt;f1&gt;Изменить&lt;/f1&gt; во всплывающем меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change margins using the rulers:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T124610Z" creationid="olex" creationdate="20180818T124610Z">
+        <seg>Чтобы изменить поля с помощью линеек:</seg>
       </tuv>
     </tu>
     <tu>
