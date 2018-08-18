@@ -648,6 +648,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;At &lt;/f0&gt;&lt;f1&gt;the&lt;/f1&gt;&lt;f2&gt; bottom of the comment, &lt;/f2&gt;&lt;te3/&gt;Writer automatically adds &lt;tc4/&gt;the author’s name and a time stamp indicating when the comment was created.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T135310Z" creationid="olex" creationdate="20180818T135310Z">
+        <seg>&lt;f0&gt;В &lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt; нижней части комментария, &lt;/f2&gt;&lt;te3/&gt;Writer автоматически добавляет &lt;tc4/&gt;имя автора и отметку времени, указывающую, когда был создан комментарий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;AutoFill&lt;/f0&gt; – forms a series directly in the sheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T143154Z" creationid="olex" creationdate="20180414T143154Z">
@@ -3725,6 +3733,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;ts5/&gt;If more than one person edits the document, each author is automatically allocated a different background color.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T135414Z" creationid="olex" creationdate="20180818T135414Z">
+        <seg>&lt;ts5/&gt;Если документ редактируют несколько человек, то каждому автору автоматически присваивается другой цвет фона комментария.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;ts6/&gt;&lt;f7&gt;This is done on the Tab page of the Paragraph Style dialog&lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T095458Z" creationid="olex" creationdate="20180815T095458Z">
@@ -3761,6 +3777,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T015737Z" creationid="olex" creationdate="20180306T175251Z">
         <seg>&lt;i0/&gt;&lt;f1&gt;Шаблон&lt;/f1&gt; — это образец документа, который позволяет вам создавать другие документы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Comments button is also added to the right of the horizontal ruler&lt;ts22/&gt; &lt;f23&gt;at the top of the page&lt;/f23&gt;&lt;te24/&gt;; you can click this button to toggle the display of the comments.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T134945Z" creationid="olex" creationdate="20180818T134945Z">
+        <seg>Так же справа от горизонтальной линейки сверху страницы появится кнопка Комментарии&lt;ts22/&gt; &lt;f23&gt;&lt;/f23&gt;&lt;te24/&gt;; вы можете нажать эту кнопку, чтобы скрыть или отобразить комментарии.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13623,6 +13647,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T181315Z" creationid="olex" creationdate="20180430T181315Z">
         <seg>Настройте для диапазона ячеек: тип данных, шрифт, размер шрифта, границы ячеек, фон ячейки и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formatting &lt;f0&gt;c&lt;/f0&gt;omments</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T135008Z" creationid="olex" creationdate="20180818T135008Z">
+        <seg>Форматирование &lt;f0&gt;&lt;/f0&gt;комментариев</seg>
       </tuv>
     </tu>
     <tu>
@@ -27623,6 +27655,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T180949Z" creationid="olex" creationdate="20180707T180949Z">
         <seg>Преимущество будет в том, что документ, содержащий ссылки, может быть перемещен в другие каталоги или папки, и ссылки остаются в силе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The anchor point of the comment is connected by a dotted line to a box on the right-hand side of the page where you can type the text of the comment.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T134631Z" creationid="olex" creationdate="20180818T134631Z">
+        <seg>Опорная точка комментария будет соединена пунктирной линией с полем справа от страницы, где вы можете ввести текст комментария.</seg>
       </tuv>
     </tu>
     <tu>
