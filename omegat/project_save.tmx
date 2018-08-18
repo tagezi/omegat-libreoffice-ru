@@ -3677,10 +3677,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;te6/&gt;Figure &lt;t7&gt;27&lt;/t7&gt;&lt;s8/&gt;shows an example of text with comments from two different authors.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T135504Z" creationid="olex" creationdate="20180818T135504Z">
+        <seg>На &lt;te6/&gt;Рисунке &lt;t7&gt;27&lt;/t7&gt;&lt;s8/&gt;показан пример текста с комментариями от двух разных авторов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;ts0/&gt;(It opens in a new window.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T192804Z" creationid="olex" creationdate="20180719T192804Z">
         <seg>&lt;ts0/&gt;(Он открывается в новом окне.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;ts1/&gt;&lt;f2&gt;Click the &lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;comment directly to edit it and r&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt;ight-click on the comment to &lt;tc8/&gt;&lt;ts9/&gt;&lt;f10&gt;d&lt;/f10&gt;&lt;te11/&gt;elete it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T140512Z" creationid="olex" creationdate="20180818T140512Z">
+        <seg>&lt;ts1/&gt;&lt;f2&gt;Нажмите &lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;комментарий, чтобы отредактировать его, или &lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt;щелкните правой кнопкой мыши на комментарии, чтобы &lt;tc8/&gt;&lt;ts9/&gt;&lt;f10&gt;&lt;/f10&gt;&lt;te11/&gt;удалить его.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7169,6 +7185,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T180529Z" creationid="olex" creationdate="20180808T180529Z">
         <seg>Выберите &lt;f0&gt;Сервис &gt; Автотекст...&lt;/f0&gt; (или нажмите &lt;f1&gt;Ctrl&lt;/f1&gt;+&lt;f2&gt;F3&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data&lt;/f0&gt; to configure the name you want to appear in the Author field of the comment, or to change it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T135734Z" creationid="olex" creationdate="20180818T135734Z">
+        <seg>Выберите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Пользователь&lt;/f0&gt;, чтобы настроить или изменить имя, которое вы хотите отображать в поле Автор в комментариях.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11500,6 +11524,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Example of comments</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T135522Z" creationid="olex" creationdate="20180818T135522Z">
+        <seg>Рисунок &lt;seq0&gt;27&lt;/seq0&gt;: Пример комментариев</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Format Cells dialog – Alignment page</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T200448Z" creationid="olex" creationdate="20180418T200448Z">
@@ -14103,6 +14135,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T111646Z" creationid="tagezi" creationdate="20180307T111646Z">
         <seg>Оттуда возможно сообщить об ошибках, предложить новый функционал и связаться с другими пользователями сообщества LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From this menu, you can also &lt;ts0/&gt;&lt;f1&gt;reply to a comment and &lt;/f1&gt;&lt;te2/&gt;open a dialog to apply some basic formatting to the text&lt;tc3/&gt;&lt;tc4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T140105Z" creationid="olex" creationdate="20180818T140105Z">
+        <seg>В этом меню вы также можете &lt;ts0/&gt;&lt;f1&gt;ответить на комментарий и &lt;/f1&gt;&lt;te2/&gt;открыть диалоговое окно, чтобы применить некоторое базовое форматирование к тексту.&lt;tc3/&gt;&lt;tc4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23619,6 +23659,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click on a comment to open a context menu where you can delete the current comment, all the comments from the same author, or all the comments in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T135835Z" creationid="olex" creationdate="20180818T135835Z">
+        <seg>Щелкните правой кнопкой мыши на комментарии, чтобы открыть контекстное меню, в котором вы можете удалить текущий комментарий, все комментарии этого автора или все комментарии в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click on a sheet tab and select &lt;f0&gt;Rename Sheet&lt;/f0&gt; from the context menu to replace the existing name with a different one.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T161936Z" creationid="olex" creationdate="20180409T161936Z">
@@ -31718,6 +31766,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T173908Z" creationid="olex" creationdate="20180403T173545Z">
         <seg>Для перемещения по электронной таблице используйте клавиатуру, нажимая клавишу или комбинацию клавиш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To navigate from one comment to another, open the Navigator (&lt;f0&gt;F5&lt;/f0&gt;), expand the Comments section, and click on the comment text to move the cursor to the anchor point of the comment in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T140236Z" creationid="olex" creationdate="20180818T140236Z">
+        <seg>Чтобы перейти от одного комментария к другому, откройте Навигатор (&lt;f0&gt;F5&lt;/f0&gt;), разверните область Комментарии и нажмите текст комментария, чтобы переместить курсор на опорную точку комментария в документе.</seg>
       </tuv>
     </tu>
     <tu>
