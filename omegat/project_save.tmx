@@ -32962,6 +32962,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use &lt;f0&gt;Ctrl+Alt+Page Down&lt;/f0&gt; to move to the next comment and &lt;f1&gt;Ctrl+Alt+Page Up&lt;/f1&gt; to move to the previous comment.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T140808Z" creationid="olex" creationdate="20180818T140808Z">
+        <seg>Нажмите &lt;f0&gt;Ctrl+Alt+Page Down&lt;/f0&gt;, чтобы перейти к следующему комментарию и &lt;f1&gt;Ctrl+Alt+Page Up&lt;/f1&gt;, чтобы перейти к предыдущему комментарию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use &lt;f0&gt;File &gt; &lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt;&lt;f3&gt;New &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;te4/&gt;&lt;f5&gt;Templates&lt;/f5&gt;&lt;tc6/&gt;&lt;f7&gt; &lt;/f7&gt;to open the Templates dialog, and &lt;tc8/&gt;&lt;ts9/&gt;&lt;f10&gt;double-click&lt;/f10&gt;&lt;te11/&gt; the template you want to use.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T192745Z" creationid="olex" creationdate="20180719T192745Z">
@@ -35514,6 +35522,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T183722Z" creationid="olex" creationdate="20180718T183532Z">
         <seg>Также вы можете изменять стили, используя подменю для каждого стиля в списке Задать стиль абзаца на панели Форматирование (смотрите Рисунок &lt;t0&gt;5&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also navigate through the comments using the keyboard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T140633Z" creationid="olex" creationdate="20180818T140633Z">
+        <seg>Вы также можете перемещаться по комментариям с помощью клавиатуры.</seg>
       </tuv>
     </tu>
     <tu>
