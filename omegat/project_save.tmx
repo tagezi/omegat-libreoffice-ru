@@ -11380,6 +11380,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Moving the margins</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T125138Z" creationid="olex" creationdate="20180818T125138Z">
+        <seg>Рисунок &lt;seq0&gt;25&lt;/seq0&gt;: Перемещение полей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Select Sheets dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T174747Z" creationid="olex" creationdate="20180416T174747Z">
@@ -14985,6 +14993,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T183841Z" creationid="olex" creationdate="20180405T183841Z">
         <seg>Удерживайте клавишу &lt;f0&gt;Shift&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hold down the left mouse button and drag the mouse to move the margin.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T125122Z" creationid="olex" creationdate="20180818T125122Z">
+        <seg>Удерживая левую кнопку мыши, перетащите линию, чтобы переместить поле отступа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27923,6 +27939,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The double-headed arrows shown in Figure &lt;t7&gt;25&lt;/t7&gt;&lt;s8/&gt;are mouse cursors shown in the correct position for moving the margin markers.&lt;te9/&gt;&lt;tc10/&gt;&lt;ts11/&gt; &lt;f12&gt;Because the triangles and arrows are often in the same place, when changing&lt;/f12&gt;&lt;te13/&gt;&lt;tc14/&gt;&lt;ts15/&gt;&lt;f16&gt; &lt;/f16&gt;&lt;te17/&gt;page margin&lt;ts18/&gt;&lt;f19&gt;s&lt;/f19&gt;&lt;te20/&gt;&lt;tc21/&gt;&lt;tc22/&gt; &lt;tc23/&gt;you need to be careful to move the &lt;ts24/&gt;&lt;f25&gt;arrows, &lt;/f25&gt;&lt;te26/&gt;&lt;tc27/&gt;not the &lt;ts28/&gt;&lt;f29&gt;gray triangles&lt;/f29&gt;&lt;te30/&gt;&lt;tc31/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T130015Z" creationid="olex" creationdate="20180818T130015Z">
+        <seg>Двойные стрелки, показанные на Рисунке &lt;t7&gt;25&lt;/t7&gt;&lt;s8/&gt;, это курсоры мыши, показанные в правильном положении для перемещения маркеров полей.&lt;te9/&gt;&lt;tc10/&gt;&lt;ts11/&gt; &lt;f12&gt;Поскольку треугольники и стрелки часто находятся в одном и том же месте, при изменении&lt;/f12&gt;&lt;te13/&gt;&lt;tc14/&gt;&lt;ts15/&gt;&lt;f16&gt; &lt;/f16&gt;&lt;te17/&gt;полей страницы&lt;ts18/&gt;&lt;f19&gt;&lt;/f19&gt;&lt;te20/&gt;&lt;tc21/&gt;&lt;tc22/&gt; &lt;tc23/&gt;вы должны быть осторожными, чтобы перемещать &lt;ts24/&gt;&lt;f25&gt;стрелки, &lt;/f25&gt;&lt;te26/&gt;&lt;tc27/&gt;а не &lt;ts28/&gt;&lt;f29&gt;серые треугольники&lt;/f29&gt;&lt;te30/&gt;&lt;tc31/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The easiest way to &lt;s0/&gt;insert a comment is by right-clicking on the desired cell and selecting &lt;f1&gt;Insert Comment &lt;/f1&gt;from the&lt;f2&gt; Context Menu &lt;/f2&gt;that appears&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T184446Z" creationid="olex" creationdate="20180506T182203Z">
@@ -29278,6 +29302,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T191512Z" creationid="tagezi" creationdate="20180307T191512Z">
         <seg>На семинаре будет представлен подробный обзор требуемых навыков и краткое изложение протоколов миграции и обучения TDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The&lt;ts0/&gt; &lt;f1&gt;two &lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;small &lt;tc4/&gt;gray triangles&lt;tc5/&gt; on the ruler are used for indenting paragraphs&lt;ts6/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T125502Z" creationid="olex" creationdate="20180818T125502Z">
+        <seg>&lt;ts0/&gt;&lt;f1&gt;Два &lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;маленьких &lt;tc4/&gt;серых треугольника&lt;tc5/&gt; на линейке используются для определения отступов абзацев&lt;ts6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
