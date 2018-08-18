@@ -3645,6 +3645,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;te19/&gt;&lt;tc20/&gt;&lt;ts21/&gt;&lt;f22&gt;P&lt;/f22&gt;&lt;te23/&gt;&lt;tc24/&gt;&lt;ts25/&gt;ages with different or no watermarks &lt;te26/&gt;&lt;tc27/&gt;&lt;ts28/&gt;need&lt;te29/&gt;&lt;tc30/&gt;&lt;ts31/&gt; different Page Style&lt;te32/&gt;&lt;ts33/&gt;&lt;f34&gt;s&lt;/f34&gt;&lt;te35/&gt;&lt;ts36/&gt; for those &lt;te37/&gt;&lt;ts38/&gt;pages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T133753Z" creationid="olex" creationdate="20180818T133753Z">
+        <seg>&lt;te19/&gt;&lt;tc20/&gt;&lt;ts21/&gt;&lt;f22&gt;&lt;/f22&gt;&lt;te23/&gt;&lt;tc24/&gt;&lt;ts25/&gt;Страницы с разными водяными знаками или без них &lt;te26/&gt;&lt;tc27/&gt;&lt;ts28/&gt;требуют&lt;te29/&gt;&lt;tc30/&gt;&lt;ts31/&gt; создания для них разных стилей страниц&lt;te32/&gt;&lt;ts33/&gt;&lt;f34&gt;&lt;/f34&gt;&lt;te35/&gt;&lt;ts36/&gt;&lt;te37/&gt;&lt;ts38/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;te20/&gt;&lt;ts21/&gt;&lt;f22&gt;You can preview the changes by checking &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;Show Previews&lt;/f24&gt;&lt;/f23&gt;&lt;te25/&gt;&lt;ts26/&gt; at the bottom&lt;te27/&gt;&lt;ts28/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T182704Z" creationid="olex" creationdate="20180723T182704Z">
@@ -5678,6 +5686,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T162512Z" creationid="olex" creationdate="20180409T162512Z">
         <seg>При попытке ввести имя листа с недопустимыми символами появится сообщение об ошибке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Authors and reviewers often use &lt;i0/&gt;comments to exchange ideas, ask for suggestions, or mark items needing attention.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T134008Z" creationid="olex" creationdate="20180818T134008Z">
+        <seg>Авторы и рецензенты часто используют &lt;i0/&gt;комментарии для обмена идеями, внесения предложений или обозначения предметов, требующих внимания.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36346,6 +36362,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can&lt;ts0/&gt; &lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;connect &lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt;a comment to &lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;multiple paragraphs&lt;ts9/&gt; &lt;f10&gt;or a &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;&lt;tc13/&gt;single point&lt;tc14/&gt;&lt;ts15/&gt;.&lt;te16/&gt;&lt;ts17/&gt; &lt;te18/&gt;&lt;tc19/&gt;To insert a comment, select the text, or place the cursor in the place the comment refers to, and choose &lt;f20&gt;Insert &gt; Comment&lt;/f20&gt; or press &lt;f21&gt;Ctrl+Alt+C&lt;/f21&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T134441Z" creationid="olex" creationdate="20180818T134441Z">
+        <seg>Вы можете&lt;ts0/&gt; &lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;связать &lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt;комментарий с &lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;несколькими абзацами&lt;ts9/&gt; &lt;f10&gt;или с &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;&lt;tc13/&gt;одной точкой&lt;tc14/&gt;&lt;ts15/&gt;.&lt;te16/&gt;&lt;ts17/&gt; &lt;te18/&gt;&lt;tc19/&gt;Чтобы вставить комментарий, выберите текст или поместите курсор в том месте, на который будет ссылаться комментарий, и выберите &lt;f20&gt;Вставка &gt; Комментарий&lt;/f20&gt; или нажмите &lt;f21&gt;Ctrl+Alt+C&lt;/f21&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can&lt;ts0/&gt; &lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;directly&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt; apply many&lt;ts6/&gt; &lt;te7/&gt;&lt;tc8/&gt;formats to characters using the buttons on the Format&lt;tc9/&gt;&lt;ts10/&gt;&lt;f11&gt;ting&lt;/f11&gt;&lt;te12/&gt; toolbar and by using the Character panel of the Sidebar’s Properties deck.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T181646Z" creationid="olex" creationdate="20180809T181646Z">
@@ -36942,6 +36966,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T184218Z" creationid="olex" creationdate="20180330T184218Z">
         <seg>значения, разделенные запятыми (comma separated values - CSV)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>comments, adding</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T133837Z" creationid="olex" creationdate="20180818T133837Z">
+        <seg>комментарии, добавление</seg>
       </tuv>
     </tu>
     <tu>
