@@ -4502,6 +4502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adding &lt;te0/&gt;&lt;ts1/&gt;a custom watermark to the page background</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T131510Z" creationid="olex" creationdate="20180818T131307Z">
+        <seg>Добавление &lt;te0/&gt;&lt;ts1/&gt;собственного водяного знака к фону страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding a custom watermark to the page background</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T153537Z" creationid="olex" creationdate="20180721T153537Z">
@@ -7073,6 +7081,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T201148Z" creationid="olex" creationdate="20180817T201148Z">
         <seg>Выберите &lt;f0&gt;Формат &gt; Абзац...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose &lt;f0&gt;Format &gt; Watermark&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T131544Z" creationid="olex" creationdate="20180818T131544Z">
+        <seg>Выберите &lt;f0&gt;Формат &gt; Водяной знак...&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11424,6 +11440,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T184644Z" creationid="olex" creationdate="20180416T184644Z">
         <seg>Рисунок &lt;seq0&gt;26&lt;/seq0&gt;: Диалоговое окно Удалить содержимое</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: The Watermark dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T131807Z" creationid="olex" creationdate="20180818T131807Z">
+        <seg>Рисунок &lt;seq0&gt;26&lt;/seq0&gt;: Диалоговое окно Водяной знак</seg>
       </tuv>
     </tu>
     <tu>
@@ -17651,6 +17675,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T183749Z" creationid="olex" creationdate="20180315T183749Z">
         <seg>В диалоговом окне «Шаблоны» выберите категорию с шаблоном, который вы хотите удалить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Watermark dialog&lt;te0/&gt;&lt;ts1/&gt;,&lt;te2/&gt;&lt;ts3/&gt; type the text and select the font, angle, transparency and color of the watermark.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T131734Z" creationid="olex" creationdate="20180818T131734Z">
+        <seg>В диалоговом окне Водяной знак&lt;te0/&gt;&lt;ts1/&gt;,&lt;te2/&gt;&lt;ts3/&gt; введите текст, выберите шрифт, угол, прозрачность и цвет для водяного знака.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29330,6 +29362,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The watermark will automatically become part of &lt;te0/&gt;&lt;ts1/&gt;&lt;f2&gt;the page &lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;s&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt;&lt;ts8/&gt;tyle&lt;te9/&gt;&lt;ts10/&gt; &lt;te11/&gt;&lt;ts12/&gt;&lt;f13&gt;where it is &lt;/f13&gt;&lt;te14/&gt;&lt;tc15/&gt;&lt;ts16/&gt;inserted and all other pages of the same style will have t&lt;te17/&gt;&lt;ts18/&gt;he watermark.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T133535Z" creationid="olex" creationdate="20180818T133535Z">
+        <seg>Водяной знак автоматически станет частью &lt;te0/&gt;&lt;ts1/&gt;&lt;f2&gt;стиля  &lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt;&lt;ts8/&gt;страницы&lt;te9/&gt;&lt;ts10/&gt; &lt;te11/&gt;&lt;ts12/&gt;&lt;f13&gt;в которой он &lt;/f13&gt;&lt;te14/&gt;&lt;tc15/&gt;&lt;ts16/&gt;вставлен, и во всех страницах того же стиля будет такой же &lt;te17/&gt;&lt;ts18/&gt;водяной знак.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The word and character count of the document is shown in the Status Bar, and is kept up to date as you &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;work&lt;/f2&gt;&lt;te3/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T161840Z" creationid="olex" creationdate="20180721T161840Z">
@@ -29358,6 +29398,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T175133Z" creationid="olex" creationdate="20180727T175133Z">
         <seg>Затем выберите в меню &lt;f0&gt;Файл &gt; Сохранить как...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then click the &lt;f4&gt;OK&lt;/f4&gt; button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T131754Z" creationid="olex" creationdate="20180818T131754Z">
+        <seg>Затем нажмите кнопку &lt;f4&gt;OK&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30524,6 +30572,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T140441Z" creationid="tagezi" creationdate="20180320T140345Z">
         <seg>Для добавления &lt;i0/&gt;пункта меню, &lt;i1/&gt;сочетания клавиш или &lt;i2/&gt;значка на панель инструментов, которые будут вызывать макрос, используйте &lt;i3/&gt;диалоговое окно Настройка (Рисунок &lt;t4&gt;9&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To add a &lt;te0/&gt;&lt;ts1/&gt;&lt;f2&gt;watermark to a page background:&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180818T131502Z" creationid="olex" creationdate="20180818T131502Z">
+        <seg>Чтобы добавить &lt;te0/&gt;&lt;ts1/&gt;&lt;f2&gt;водяной знак к фону страницы:&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
