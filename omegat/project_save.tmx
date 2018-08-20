@@ -6155,6 +6155,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before creating some types of indexes, you first need to &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;create&lt;/f2&gt;&lt;te3/&gt; index entries &lt;tc4/&gt;in your Writer document.&lt;ts5/&gt; &lt;f6&gt;T&lt;/f6&gt;he &lt;f7&gt;Writer Guide&lt;/f7&gt; describes the process in detail.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T184342Z" creationid="olex" creationdate="20180820T184342Z">
+        <seg>Перед созданием некоторых типов указателей вам необходимо сначала создать &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;записи&lt;/f2&gt;&lt;te3/&gt; указателей &lt;tc4/&gt;в вашем документе Writer.&lt;ts5/&gt; &lt;f6&gt;&lt;/f6&gt;Руководство по &lt;f7&gt;Writer&lt;/f7&gt; описывает процесс подробно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before protecting the sheet, you may wish to select certain cells that will be unprotected that can be changed by any users without the password.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180528T100813Z" creationid="olex" creationdate="20180502T193327Z">
@@ -7081,6 +7089,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T184359Z" creationid="tagezi" creationdate="20180320T184359Z">
         <seg>Надстройки диаграмм с новыми типами диаграмм.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Charts created using LibreOffice’s Chart component</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T184903Z" creationid="olex" creationdate="20180820T184903Z">
+        <seg>Графики, созданные с использованием модуля Диаграммы LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -9619,6 +9635,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T153153Z" creationid="olex" creationdate="20180721T153100Z">
         <seg>Определение внешнего вида верхнего и нижнего колонтитула</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diagrams created using LibreOffice’s drawing tools</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T184816Z" creationid="olex" creationdate="20180820T184816Z">
+        <seg>Диаграммы, созданные с помощью инструментов рисования LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -14837,6 +14861,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Graphics in Writer are of three basic types:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T184627Z" creationid="olex" creationdate="20180820T184627Z">
+        <seg>Графические объекты в Writer бывают трех основных типов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Graphics output – Force OpenGL even if blacklisted (on restart)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T174745Z" creationid="olex" creationdate="20180627T174731Z">
@@ -16939,6 +16971,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T142457Z" creationid="tagezi" creationdate="20180306T142457Z">
         <seg>Иллюстрации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image files, including photos, drawings, scanned images, and others</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T184756Z" creationid="olex" creationdate="20180820T184756Z">
+        <seg>Файлы изображений, включая фотографии, рисунки, сканированные изображения и т.п..</seg>
       </tuv>
     </tu>
     <tu>
@@ -24280,6 +24320,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T164432Z" creationid="tagezi" creationdate="20180304T174342Z">
         <seg>Смотри Главу 10 «Печать, экспорт и отправка по электронной почте» в этом руководстве.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Chapter 11, Graphics, the Gallery, and Fontwork, in this book and &lt;tc0/&gt;the &lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T185036Z" creationid="olex" creationdate="20180820T185036Z">
+        <seg>Смотрите Главу 11, Графические объекты, алерея и шрифт, в этой книге и &lt;tc0/&gt;&lt;f1&gt;Руководство по Writer&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
