@@ -3621,10 +3621,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;tc1/&gt;&lt;tc2/&gt;In addition to alphabetical indexes, other types of indexes supplied with Writer include those for illustrations, tables, and objects, and you can even create a user-defined index.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T183832Z" creationid="olex" creationdate="20180820T183832Z">
+        <seg>&lt;tc1/&gt;&lt;tc2/&gt;В дополнение к алфавитным указателям, другие типы указателей, поставляемых с Writer, включают в себя списки иллюстраций, таблиц и объектов, и вы можете даже создать определяемый пользователем указатель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;C&lt;/f3&gt;&lt;te4/&gt;haracters &lt;ts5/&gt;&lt;f6&gt;previously &lt;/f6&gt;&lt;te7/&gt;selected for insertion are shown in the lower left of the dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T180019Z" creationid="olex" creationdate="20180802T180019Z">
         <seg>&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;/f3&gt;&lt;te4/&gt;Символы &lt;ts5/&gt;&lt;f6&gt;&lt;/f6&gt;&lt;te7/&gt;выбранные для вставки отображаются в левом нижнем углу диалогового окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;The&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt; &lt;f6&gt;Writer Guide&lt;/f6&gt; describes in detail all the customizations you can choose.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T183335Z" creationid="olex" creationdate="20180820T183335Z">
+        <seg>&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt; &lt;f6&gt;Руководство по Writer&lt;/f6&gt; подробно описывает все настройки, которые вы можете выбрать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13355,6 +13371,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, you might want an index containing only the scientific names of species mentioned in the text, and a separate index containing only the common names of species.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T183935Z" creationid="olex" creationdate="20180820T183935Z">
+        <seg>Например, вам может понадобиться указатель, содержащий только научные названия видов, упомянутых в тексте, и отдельный указатель, содержащий только общие названия видов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, you will probably not add a rarely used macro to a toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T134916Z" creationid="tagezi" creationdate="20180320T134916Z">
@@ -18043,6 +18067,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T174922Z" creationid="olex" creationdate="20180809T174922Z">
         <seg>Увеличение межабзацного интервала, Уменьшение межабзацного интервала</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indexes and bibliographies work in a similar way &lt;f0&gt;to&lt;/f0&gt; tables of contents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T183457Z" creationid="olex" creationdate="20180820T183457Z">
+        <seg>Указатели и библиография работают подобно &lt;f0&gt;&lt;/f0&gt;оглавлению.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23735,6 +23767,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T093532Z" creationid="olex" creationdate="20180415T093532Z">
         <seg>Щелкните правой кнопкой мыши по ячейке и выберите &lt;f0&gt;Список выбора&lt;/f0&gt; в контекстном меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-click anywhere in it and choose &lt;f0&gt;Edit Index&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T183213Z" creationid="olex" creationdate="20180820T183213Z">
+        <seg>Нажмите правой кнопкой мыши в любом месте оглавления и выберите &lt;f0&gt;Правка оглавления&lt;/f0&gt; в контекстном меню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36041,6 +36081,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can customize an existing table of contents at any time.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T183029Z" creationid="olex" creationdate="20180820T183029Z">
+        <seg>Вы можете настроить существующее оглавление в любое время.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can customize the direction in which the &lt;f0&gt;Enter&lt;/f0&gt; key moves the cell focus by going to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; General&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T201254Z" creationid="olex" creationdate="20180404T201254Z">
@@ -37854,6 +37902,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T094456Z" creationid="olex" creationdate="20180815T094456Z">
         <seg>отступы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>indexes and bibliographies</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T183410Z" creationid="olex" creationdate="20180820T183410Z">
+        <seg>указатели и библиография</seg>
       </tuv>
     </tu>
     <tu>
