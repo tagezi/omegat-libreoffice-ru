@@ -3629,6 +3629,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;T&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt;h&lt;/f15&gt;&lt;te16/&gt;ese &lt;ts17/&gt;&lt;f18&gt;headings &lt;/f18&gt;&lt;te19/&gt;are what will appear in your table of contents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T181632Z" creationid="olex" creationdate="20180820T181632Z">
+        <seg>&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt;&lt;/f15&gt;&lt;te16/&gt;Эти &lt;ts17/&gt;&lt;f18&gt;заголовки &lt;/f18&gt;&lt;te19/&gt;будут отображаться в вашем оглавлении.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;tc18/&gt;&lt;tc19/&gt;&lt;tc20/&gt;&lt;tc21/&gt;In addition, styles are used by LibreOffice for many processes, even if you are not aware of them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T183329Z" creationid="olex" creationdate="20180808T183329Z">
@@ -6733,6 +6741,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change nothing in the Insert Index/Table dialog&lt;ts0/&gt; &lt;f1&gt;(unless you want to change the number of levels shown)&lt;/f1&gt;&lt;te2/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T182058Z" creationid="olex" creationdate="20180820T182058Z">
+        <seg>Ничего не изменяйте в диалоговом окне Оглавление, указатель или библиография&lt;ts0/&gt; &lt;f1&gt;(если вы не хотите изменить количество отображаемых уровней)&lt;/f1&gt;&lt;te2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change some &lt;i0/&gt;locale and language settings</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T195141Z" creationid="olex" creationdate="20180711T195141Z">
@@ -7209,6 +7225,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T175649Z" creationid="olex" creationdate="20180802T175649Z">
         <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Специальные символы...&lt;/f0&gt; &lt;tc1/&gt;&lt;s2/&gt;чтобы открыть диалоговое окно Выбор символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose &lt;f0&gt;Insert &gt; Table of Contents and Index &gt; Table of Contents, Index or Bibliography&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T181848Z" creationid="olex" creationdate="20180820T181848Z">
+        <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Оглавление и указатели &gt; Оглавление, указатель или библиография...&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8851,6 +8875,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194742Z" creationid="olex" creationdate="20180306T194742Z">
         <seg>Создание нового стиля с помощью диалогового окна "Стиль"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a quick table of contents is simple:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T181145Z" creationid="olex" creationdate="20180820T181145Z">
+        <seg>Быстрое создание простого оглавления:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22698,6 +22730,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the cursor where you want the table of contents to appear.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T181712Z" creationid="olex" creationdate="20180820T181712Z">
+        <seg>Поместите курсор там, где вы хотите создать оглавление.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: &lt;a0&gt;documentation@global.libreoffice.org&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T230716Z" creationid="lera" creationdate="20180303T152036Z">
@@ -34729,6 +34769,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T184326Z" creationid="olex" creationdate="20180621T184326Z">
         <seg>Когда вы закрываете последний документ, используя X в строке заголовка окна, LibreOffice закроется полностью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you create your document, use the following paragraph styles for &lt;ts0/&gt;&lt;f1&gt;hi&lt;/f1&gt;&lt;te2/&gt;&lt;ts3/&gt;&lt;f4&gt;erarchical &lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;heading levels (such as chapter and section headings): &lt;f7&gt;Heading 1&lt;/f7&gt;, &lt;f8&gt;Heading 2&lt;/f8&gt;, &lt;f9&gt;Heading 3&lt;/f9&gt;, and so on.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T181519Z" creationid="olex" creationdate="20180820T181519Z">
+        <seg>При создании документа используйте следующие стили абзаца для &lt;ts0/&gt;&lt;f1&gt;&lt;/f1&gt;&lt;te2/&gt;&lt;ts3/&gt;&lt;f4&gt;иерархических&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt; уровней заголовков (таких как главы и разделы глав): &lt;f7&gt;Заголовок 1&lt;/f7&gt;, &lt;f8&gt;Заголовок 2&lt;/f8&gt;, &lt;f9&gt;Заголовок 3&lt;/f9&gt;, и т.д.</seg>
       </tuv>
     </tu>
     <tu>
