@@ -2916,6 +2916,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f27&gt;The Print dialog also has options for placing comments at the end of the page or at the end of the document, or for printing only the comments&lt;/f27&gt;&lt;te28/&gt;&lt;tc29/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T175542Z" creationid="olex" creationdate="20180820T175542Z">
+        <seg>&lt;f27&gt;В диалоговом окне Печать также есть варианты размещения комментариев в конце страницы, в конце документа или печать только комментариев&lt;/f27&gt;&lt;te28/&gt;&lt;tc29/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f2&gt;The background &lt;/f2&gt;&lt;te3/&gt;&lt;tc4/&gt;does not show when printed and can be turned off&lt;tc5/&gt;&lt;ts6/&gt; &lt;f7&gt;in &lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt;&lt;f11&gt;T&lt;/f11&gt;&lt;/f10&gt;&lt;te12/&gt;&lt;ts13/&gt;&lt;f14&gt;&lt;f15&gt;ools &gt; Options &gt;&lt;/f15&gt;&lt;/f14&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt;&lt;f19&gt; &lt;/f19&gt;&lt;/f18&gt;&lt;te20/&gt;&lt;ts21/&gt;&lt;f22&gt;&lt;f23&gt;LibreOffice &gt; Application Colors&lt;/f23&gt;&lt;/f22&gt;&lt;te24/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T194141Z" creationid="olex" creationdate="20180817T194141Z">
@@ -3737,6 +3745,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T110731Z" creationid="olex" creationdate="20180815T110731Z">
         <seg>&lt;ts12/&gt;&lt;f13&gt;&lt;/f13&gt;Когда &lt;f14&gt;это слово &lt;/f14&gt;&lt;s15/&gt;находится в конце строки &lt;f16&gt;оно&lt;/f16&gt;&lt;te17/&gt;&lt;tc18/&gt; будет автоматически переноситься&lt;tc19/&gt;, даже если автоматический перенос для этого абзаца отключен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;ts15/&gt;&lt;f16&gt;In that cas&lt;/f16&gt;&lt;te17/&gt;&lt;ts18/&gt;&lt;f19&gt;e, the text on e&lt;/f19&gt;&lt;te20/&gt;&lt;tc21/&gt;ach page is scaled down &lt;tc22/&gt;&lt;ts23/&gt;&lt;f24&gt;to&lt;/f24&gt;&lt;te25/&gt; make space for the comments&lt;ts26/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T175337Z" creationid="olex" creationdate="20180820T175337Z">
+        <seg>&lt;ts15/&gt;&lt;f16&gt;В этом случае&lt;/f16&gt;&lt;te17/&gt;&lt;ts18/&gt;&lt;f19&gt;текст на каждой странице сужается&lt;/f19&gt;&lt;te20/&gt;&lt;tc21/&gt;&lt;tc22/&gt;&lt;ts23/&gt;&lt;f24&gt;&lt;/f24&gt;&lt;te25/&gt; , чтобы освободить место для комментариев&lt;ts26/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38702,6 +38718,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180813T180250Z" creationid="olex" creationdate="20180813T174643Z">
         <seg>табуляторы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>table of contents, automated</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T180010Z" creationid="olex" creationdate="20180820T180010Z">
+        <seg>оглавление, автоматизированное</seg>
       </tuv>
     </tu>
     <tu>
