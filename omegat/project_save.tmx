@@ -5128,6 +5128,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although tables of contents can be customized extensively in Writer, often the default settings are all you need.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T181053Z" creationid="olex" creationdate="20180820T181053Z">
+        <seg>Оглавление в Writer имеет широкий спектр настроек, но зачастую настройки по умолчанию это все, что вам необходимо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although the Save as Template dialog shows no document type when saving a new template of any type, the template will appear on the correct tab (Documents, Spreadsheets, Presentations, Drawings) when you return to the Templates dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T183317Z" creationid="olex" creationdate="20180311T183137Z">
@@ -6135,6 +6143,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T184812Z" creationid="olex" creationdate="20180315T184618Z">
         <seg>Чтобы вы могли использовать шаблон в LibreOffice, он должен находиться в одной из папок, указанных как путь для шаблонов, в &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Пути&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before you start, make sure that the headings are styled consistently.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T180419Z" creationid="olex" creationdate="20180820T180419Z">
+        <seg>Прежде чем начать, убедитесь, что все заголовки последовательно оформлены.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13216,6 +13232,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T182033Z" creationid="olex" creationdate="20180808T182033Z">
         <seg>Например, вы можете выделить слово, а затем нажать кнопку на панели инструментов Форматирование, чтобы форматировать текст полужирным шрифтом или курсивом.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you can use the &lt;f8&gt;Heading 1&lt;/f8&gt; style for chapter titles and the &lt;f9&gt;Heading 2&lt;/f9&gt; and &lt;f10&gt;Heading 3&lt;/f10&gt; styles for chapter subheadings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T180743Z" creationid="olex" creationdate="20180820T180743Z">
+        <seg>Например, вы можете использовать стиль &lt;f8&gt;Заголовок 1&lt;/f8&gt; для заглавий, а так же стили &lt;f9&gt;Заголовок 2&lt;/f9&gt; и &lt;f10&gt;Заголовок 3&lt;/f10&gt; для подзаголовков.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35218,6 +35242,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T194649Z" creationid="olex" creationdate="20180607T194649Z">
         <seg>Writer (текстовый редактор)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writer &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;can generate&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt; a&lt;/f5&gt;&lt;te6/&gt; &lt;i7/&gt;table of contents from the headings in your document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T180201Z" creationid="olex" creationdate="20180820T180201Z">
+        <seg>Writer &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;может генерировать&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;&lt;/f5&gt;&lt;te6/&gt; &lt;i7/&gt;оглавление из заголовков в вашем документе.</seg>
       </tuv>
     </tu>
     <tu>
