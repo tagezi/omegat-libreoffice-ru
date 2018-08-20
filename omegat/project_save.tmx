@@ -7725,6 +7725,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f3&gt;OK&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T182109Z" creationid="olex" creationdate="20180820T182109Z">
+        <seg>Нажмите &lt;f3&gt;ОК&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f3&gt;Yes&lt;/f3&gt; to confirm the deletion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T160617Z" creationid="olex" creationdate="20180409T160244Z">
@@ -16237,6 +16245,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you add or delete text (so that headings move to different pages) or you add, delete, or change headings, you need to update the table of contents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T182259Z" creationid="olex" creationdate="20180820T182259Z">
+        <seg>Если вы добавляли или удаляли текст (вследствие чего заголовки перемещаются на другие страницы) или добавляли, удаляли или изменяли заголовки, то вам необходимо обновить оглавление.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are a system administrator, programmer, or other person who customizes JRE installations, you can use the Parameters and Class Path pages (reached from the Java page) to specify this information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T171423Z" creationid="olex" creationdate="20180701T171423Z">
@@ -16313,6 +16329,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T210708Z" creationid="tagezi" creationdate="20180304T210708Z">
         <seg>Если вы не можете найти тип файла , который вы ищете, в &lt;f1&gt;Сохранить как&lt;/f1&gt;, посмотрите в разделе для дополнительных типов &lt;f2&gt;Экспорт&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you cannot place the cursor in the table of contents, choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Formatting Aids&lt;/f0&gt;, and then select &lt;f1&gt;Enable Cursor&lt;/f1&gt; in the &lt;f2&gt;Protected areas&lt;/f2&gt; section.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T182951Z" creationid="olex" creationdate="20180820T182951Z">
+        <seg>Если вы не можете поместить курсор в оглавление, то выберите &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice Writer &gt; Знаки форматирования&lt;/f0&gt; и затем выберите &lt;f1&gt;Разрешить курсор&lt;/f1&gt; в разделе &lt;f2&gt;Защищенные области&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22738,6 +22762,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the cursor within the table of contents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T182324Z" creationid="olex" creationdate="20180820T182324Z">
+        <seg>Поместите курсор в оглавление.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: &lt;a0&gt;documentation@global.libreoffice.org&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T230716Z" creationid="lera" creationdate="20180303T152036Z">
@@ -23687,6 +23719,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T185802Z" creationid="olex" creationdate="20180405T185802Z">
         <seg>Щелкните правой кнопкой мыши на вкладке листа и выберите &lt;f0&gt;Выбрать все листы&lt;/f0&gt; в контекстном меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-click and choose &lt;f0&gt;Update index &lt;/f0&gt;from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T182551Z" creationid="olex" creationdate="20180820T182551Z">
+        <seg>Нажмите правую кнопку мыши и выберите &lt;f0&gt;Обновить указатель&lt;/f0&gt; в контекстном меню.</seg>
       </tuv>
     </tu>
     <tu>
