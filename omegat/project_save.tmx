@@ -2603,6 +2603,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;When a document contains comments, the print dialog has an option for &lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;c&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;omments &lt;ts6/&gt;&lt;f7&gt;to &lt;/f7&gt;&lt;te8/&gt;&lt;tc9/&gt;be printed next to the text in the right margin&lt;ts10/&gt;,&lt;te11/&gt; as they appear on &lt;ts12/&gt;&lt;f13&gt;the &lt;/f13&gt;&lt;te14/&gt;screen.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180820T175129Z" creationid="olex" creationdate="20180820T175129Z">
+        <seg>&lt;f0&gt;Когда в документе содержатся комментарии, в диалоговом окне печати появляется опция для &lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;комментариев&lt;ts6/&gt;&lt;f7&gt;&lt;/f7&gt;&lt;te8/&gt;&lt;tc9/&gt;, которые могут быть напечатаны рядом с текстом на правом поле&lt;ts10/&gt;,&lt;te11/&gt; там же, где они отображаються на &lt;ts12/&gt;&lt;f13&gt;&lt;/f13&gt;&lt;te14/&gt;экране.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;When clearing direct formatting, the text formatting will return to the &lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt;last &lt;/f2&gt;&lt;te3/&gt;&lt;f4&gt;applied paragraph &lt;/f4&gt;&lt;ts5/&gt;&lt;f6&gt;and&lt;/f6&gt;&lt;te7/&gt;&lt;ts8/&gt;&lt;f9&gt; character &lt;/f9&gt;&lt;te10/&gt;&lt;f11&gt;style and not the &lt;/f11&gt;&lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;D&lt;/f14&gt;&lt;te15/&gt;&lt;f16&gt;efault paragraph &lt;/f16&gt;&lt;ts17/&gt;&lt;f18&gt;style or&lt;/f18&gt;&lt;te19/&gt;&lt;ts20/&gt;&lt;f21&gt; Default character sty&lt;/f21&gt;&lt;te22/&gt;&lt;tc23/&gt;&lt;f24&gt;le&lt;/f24&gt;&lt;ts25/&gt;&lt;f26&gt; (&lt;/f26&gt;&lt;te27/&gt;&lt;ts28/&gt;&lt;f29&gt;unless the last style applied was a Default style)&lt;/f29&gt;&lt;te30/&gt;&lt;f31&gt;.&lt;/f31&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T180344Z" creationid="olex" creationdate="20180809T180344Z">
