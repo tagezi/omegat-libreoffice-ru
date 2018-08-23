@@ -720,6 +720,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Both&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;&lt;tc3/&gt; methods &lt;ts4/&gt;&lt;f5&gt;i&lt;/f5&gt;nsert links to other parts of the same document or to a&lt;f6&gt;n external source, taking &lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;you &lt;tc9/&gt;directly to the cross-referenced item.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T180448Z" creationid="olex" creationdate="20180823T180448Z">
+        <seg>&lt;f0&gt;Оба&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;&lt;tc3/&gt; метода &lt;ts4/&gt;&lt;f5&gt;&lt;/f5&gt;вставляют ссылки на другие части одного и того же документа или на&lt;f6&gt; внешний источник, переводя &lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;вас &lt;tc9/&gt;прямо на объект из перекрестной ссылки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;By default, context menus will display an applicable keyboard shortcut if one has been set.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T171333Z" creationid="olex" creationdate="20180616T171333Z">
@@ -11074,6 +11082,22 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fields are extremely useful features of Writer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T175455Z" creationid="olex" creationdate="20180823T175455Z">
+        <seg>Поля, это чрезвычайно полезная функция Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fields are the basis of cross-referencing (see below); automatic numbering of figures, tables, headings, and other elements; and a wide range of other functions—far too many to describe here.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T175746Z" creationid="olex" creationdate="20180823T175746Z">
+        <seg>Поля являются основой для перекрестных ссылок (смотрите ниже); автоматической нумерации рисунков, таблиц, заголовков и других элементов; и широкого спектра других функций - их слишком много для упоминания здесь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Choosing security options for opening and saving documents</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T183036Z" creationid="olex" creationdate="20180628T183036Z">
@@ -16401,6 +16425,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T200237Z" creationid="olex" creationdate="20180309T200237Z">
         <seg>Если вы используете наследуемые стили &lt;i0/&gt;, то при изменении базового стиля (например, путем замены шрифта Times на Helvetica) все связанные стили также будут изменены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you &lt;ts0/&gt;&lt;f1&gt;manually &lt;/f1&gt;&lt;te2/&gt;type in cross-references to other parts of a document, those references can easily get out of date if you reorganize the order of topics, add or remove material, or reword a heading.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T180137Z" creationid="olex" creationdate="20180823T180137Z">
+        <seg>Если вы вводите &lt;ts0/&gt;&lt;f1&gt;вручную&lt;/f1&gt;&lt;te2/&gt; перекрестные ссылки на другие части документа, то эти ссылки могут легко устаревать, если вы изменяете порядок тем, добавляете или удаляете материал или меняете заголовок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24460,6 +24492,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See &lt;tc1/&gt;the &lt;f2&gt;Writer Guide&lt;/f2&gt; for details.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T175932Z" creationid="olex" creationdate="20180823T175932Z">
+        <seg>Смотрите &lt;tc1/&gt;&lt;f2&gt;Руководство по Writer&lt;/f2&gt; для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See &lt;tc1/&gt;the &lt;f2&gt;Writer Guide&lt;/f2&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T195750Z" creationid="olex" creationdate="20180817T195750Z">
@@ -30250,6 +30290,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>They are used for data that changes &lt;tc0/&gt;(such as the current date or the total number of pages) and for inserting document properties such as name, author, and date of last update.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T175600Z" creationid="olex" creationdate="20180823T175600Z">
+        <seg>Поля используются для переменных данных &lt;tc0/&gt;(например, текущая дата или общее количество страниц) и для вставки свойств документа, таких как имя, автор и дата последнего обновления.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: TODO: Подумать над physical attributes. См. обсуждение на форуме http://forumooo.ru/index.php/topic,7016.msg45690.html#msg45690
 LG:DONE</note>
       <tuv lang="EN-US">
@@ -35322,8 +35370,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>While this is a feature, it is also a potential &lt;ts7/&gt;&lt;f8&gt;privacy&lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt; risk.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180823T175151Z" creationid="olex" creationdate="20180823T175151Z">
-        <seg>В то же время эта фкнуция приводит так же к потенциальному , it is also a potential &lt;ts7/&gt;&lt;f8&gt;privacy&lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt; risk. Хотя это и есть функция, это также потенциальный риск конфиденциальности.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T175255Z" creationid="olex" creationdate="20180823T175151Z">
+        <seg>В то же время эта функция приводит так же к потенциальному &lt;ts7/&gt;&lt;f8&gt;риску для конфиденциальности&lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35693,6 +35741,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T165748Z" creationid="olex" creationdate="20180730T165748Z">
         <seg>Writer предоставляет несколько инструментов, &lt;tc0/&gt;облегчающих работу, если вы &lt;ts1/&gt;&lt;f2&gt;используете &lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;более одного&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt; языка&lt;tc8/&gt; &lt;tc9/&gt; в одном документе или пишете документы на разных языках.&lt;ts10/&gt; &lt;te11/&gt;&lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;&lt;/f14&gt;&lt;te15/&gt;Изменение языка для &lt;ts16/&gt;&lt;f17&gt;конкретного &lt;/f17&gt;&lt;te18/&gt;&lt;tc19/&gt;текста &lt;tc20/&gt;&lt;tc21/&gt;&lt;ts22/&gt;&lt;f23&gt;позволяет &lt;/f23&gt;&lt;te24/&gt;&lt;tc25/&gt;вам &lt;ts26/&gt;&lt;f27&gt;&lt;/f27&gt;&lt;te28/&gt;&lt;tc29/&gt;&lt;tc30/&gt; использовать правильные словари &lt;ts31/&gt;&lt;f32&gt;и правила для &lt;/f32&gt;&lt;te33/&gt;проверки орфографии,&lt;ts34/&gt;, &lt;f35&gt;грамматики и переносов&lt;/f35&gt;&lt;te36/&gt;&lt;ts37/&gt;&lt;f38&gt;.  грамматики и переносов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writer provides two ways to ensure that your references are up to date&lt;tc3/&gt;&lt;tc4/&gt;&lt;tc5/&gt;: hyperlinks and cross-references.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T180207Z" creationid="olex" creationdate="20180823T180207Z">
+        <seg>Writer предоставляет два способа убедиться, что ваши ссылки обновлены &lt;tc3/&gt;&lt;tc4/&gt;&lt;tc5/&gt;: гиперссылки и перекрестные ссылки.</seg>
       </tuv>
     </tu>
     <tu>
