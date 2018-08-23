@@ -17727,6 +17727,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In contrast, cross-references to figures with captions automatically show useful text, and you have a choice of several variations of the name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T182405Z" creationid="olex" creationdate="20180823T182405Z">
+        <seg>Перекрестные ссылки на рисунки с автоматической подписью наоборот, показывают полезный текст, и у вас есть выбор из нескольких вариантов имени.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In contrast, style formatting &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;uses&lt;/f2&gt;&lt;te3/&gt; computers &lt;ts4/&gt;&lt;f5&gt;to &lt;/f5&gt;&lt;te6/&gt;format documents much more efficiently and reduce the time spent in direct formatting.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180717T174424Z" creationid="olex" creationdate="20180717T174424Z">
@@ -31982,6 +31990,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T184411Z" creationid="olex" creationdate="20180330T175420Z">
         <seg>Чтобы скрыть боковую панель или открыть ее, если она скрыта, нажмите на левой кромке кнопку Скрыть / Показать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To hyperlink to an object such as a graphic, and have the hyperlink show useful text such as &lt;f0&gt;Figure 6&lt;/f0&gt;, you need to give such an object a useful name (instead of a default name like &lt;f1&gt;Graphics6&lt;/f1&gt;), or use the Hyperlink dialog to modify the visible text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T182208Z" creationid="olex" creationdate="20180823T182208Z">
+        <seg>Чтобы гиперссылка ссылалась на  графический объект и отображала полезный текст, такой как на &lt;f0&gt;Рисунке 6&lt;/f0&gt;, вам необходимо предоставить такому объекту полезное имя (вместо имени по умолчанию, например &lt;f1&gt;Графический6&lt;/f1&gt;), или использовать диалоговое окно Гиперссылка для изменения отображаемого текста.</seg>
       </tuv>
     </tu>
     <tu>
