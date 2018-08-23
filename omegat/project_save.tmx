@@ -3021,6 +3021,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;o1/&gt;Choose &lt;f2&gt;Edit &gt; Track Changes &gt; Compare Document&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T173313Z" creationid="olex" creationdate="20180823T173104Z">
+        <seg>&lt;o1/&gt;Выберите в меню &lt;f2&gt;Правка &gt; Отслеживать изменения &gt; Сравнить документ...&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0/&gt;A comment is not considered a part of the spreadsheet for calculation or printing purposes, and will only appear when hovering the mouse over the particular cell that has been ‘commented’.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T184421Z" creationid="olex" creationdate="20180506T181953Z">
@@ -3671,8 +3679,8 @@
       <tuv lang="EN-US">
         <seg>&lt;tc22/&gt;&lt;ts23/&gt;&lt;f24&gt;T&lt;/f24&gt;&lt;te25/&gt;he &lt;f26&gt;Writer Guide&lt;/f26&gt; describes the &lt;ts27/&gt;&lt;f28&gt;mer&lt;/f28&gt;&lt;te29/&gt;&lt;ts30/&gt;&lt;f31&gt;ge &lt;/f31&gt;&lt;te32/&gt;process&lt;ts33/&gt;&lt;f34&gt;es&lt;/f34&gt;&lt;te35/&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180823T172540Z" creationid="olex" creationdate="20180823T172540Z">
-        <seg>&lt;tc22/&gt;&lt;ts23/&gt;&lt;f24&gt;&lt;/f24&gt;&lt;te25/&gt;В&lt;f26&gt;руководстве по Writer&lt;/f26&gt; описаны &lt;ts27/&gt;&lt;f28&gt;&lt;/f28&gt;&lt;te29/&gt;&lt;ts30/&gt;&lt;f31&gt;&lt;/f31&gt;&lt;te32/&gt;процессы регистрации&lt;ts33/&gt;&lt;f34&gt;&lt;/f34&gt;&lt;te35/&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T172715Z" creationid="olex" creationdate="20180823T172540Z">
+        <seg>&lt;tc22/&gt;&lt;ts23/&gt;&lt;f24&gt;&lt;/f24&gt;&lt;te25/&gt;В &lt;f26&gt;руководстве по Writer&lt;/f26&gt; описаны &lt;ts27/&gt;&lt;f28&gt;&lt;/f28&gt;&lt;te29/&gt;&lt;ts30/&gt;&lt;f31&gt;&lt;/f31&gt;&lt;te32/&gt;процессы регистрации&lt;ts33/&gt;&lt;f34&gt;&lt;/f34&gt;&lt;te35/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3745,6 +3753,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T192804Z" creationid="olex" creationdate="20180719T192804Z">
         <seg>&lt;ts0/&gt;(Он открывается в новом окне.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;ts0/&gt;&lt;o1/&gt;&lt;te2/&gt;However, this method can cause problems with documents of non-trivial size or complexity, especially if you save a lot of versions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T173437Z" creationid="olex" creationdate="20180823T173437Z">
+        <seg>&lt;ts0/&gt;&lt;o1/&gt;&lt;te2/&gt;Однако этот метод может вызвать проблемы с документами нетривиального размера или сложности, особенно если вы сохраняете множество версий.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6019,6 +6035,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Avoid this method if you can.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T173448Z" creationid="olex" creationdate="20180823T173448Z">
+        <seg>Избегайте этого метода, если можете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Background Color (with a palette of colors)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T182256Z" creationid="olex" creationdate="20180809T182247Z">
@@ -7313,6 +7337,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T135734Z" creationid="olex" creationdate="20180818T135734Z">
         <seg>Выберите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Пользователь&lt;/f0&gt;, чтобы настроить или изменить имя, которое вы хотите отображать в поле Автор в комментариях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose &lt;f2&gt;Edit &gt; Track Changes &gt; Record Changes &lt;/f2&gt;before starting to edit.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T173742Z" creationid="olex" creationdate="20180823T173742Z">
+        <seg>Выберите в меню &lt;f2&gt;Правка &gt; Отслеживать изменения &gt; Записывать&lt;/f2&gt; перед началом редактирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose &lt;f3&gt;Edit &gt; Track Changes &gt; Show Changes&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T173851Z" creationid="olex" creationdate="20180823T173820Z">
+        <seg>Выберите в меню &lt;f3&gt;Правка &gt; Отслеживать изменения &gt; Показать&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19057,6 +19097,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Later, you or another person can review and accept or reject each change.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T173803Z" creationid="olex" creationdate="20180823T173803Z">
+        <seg>Позже вы или другое лицо можете просмотреть и принять или отклонить каждое изменение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Layers bar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T150226Z" creationid="olex" creationdate="20180603T150226Z">
@@ -20151,6 +20199,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180528T081511Z" creationid="olex" creationdate="20180416T180714Z">
         <seg>Когда закончите ввод повторяемой информации, убедитесь в том, что вы отменили выделение нескольких листов, прежде чем продолжить работу с электронной таблицей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make your &lt;i0/&gt;changes to a copy of the document (stored in a different folder, or under a different name, or both), then use Writer to combine the two files and show the differences.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T173225Z" creationid="olex" creationdate="20180823T173017Z">
+        <seg>Внесите изменения &lt;i0/&gt; в копию документа (который хранится в другой папке или под другим именем или и то и другое), затем используйте Writer для объединения двух файлов и отображения различий.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23931,6 +23987,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click on an individual change and choose &lt;f4&gt;Accept Change&lt;/f4&gt; or &lt;f5&gt;Reject Change&lt;/f5&gt; from the &lt;t6/&gt;context menu, or choose &lt;f7&gt;Edit &gt; Track Changes &gt; Manage Changes&lt;/f7&gt; to view the list of changes and accept or reject them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T174203Z" creationid="olex" creationdate="20180823T174059Z">
+        <seg>Щелкните правой кнопкой мыши по отдельному изменению и выберите &lt;f4&gt;Принять изменение&lt;/f4&gt; или &lt;f5&gt;Отклонить изменение&lt;/f5&gt; в контекстном меню &lt;t6/&gt;или выберите &lt;f7&gt;Правка &gt; Отслеживать изменения &gt; Управление...&lt;/f7&gt;, чтобы просмотреть список изменений и принять или отклонить их.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click on an unrecognized word to open a context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T180717Z" creationid="olex" creationdate="20180804T180717Z">
@@ -24136,6 +24200,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T181209Z" creationid="olex" creationdate="20180402T181209Z">
         <seg>Сохраните файл в формате электронной таблицы Calc (&lt;f0&gt;*.ods&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save versions that are stored as part of the original file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T173403Z" creationid="olex" creationdate="20180823T173403Z">
+        <seg>Сохраните версии, которые хранятся как часть исходного файла.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33403,6 +33475,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use Writer’s change marks (often &lt;i0/&gt;&lt;i1/&gt;called “redlines” or “revision marks”) to show where you have added or deleted material, or changed formatting.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T173629Z" creationid="olex" creationdate="20180823T173629Z">
+        <seg>Используйте метки изменений Writer (часто &lt;i0/&gt;&lt;i1/&gt;, называемые «красные линии» или «отметки о пересмотре»), чтобы показать, где вы добавили или удалили материал, или изменили форматирование.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use command &lt;f0&gt;Import MathML&lt;/f0&gt; from the clipboard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T140021Z" creationid="User" creationdate="20180308T140021Z">
@@ -36717,6 +36797,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can use several methods to keep &lt;i0/&gt;track of changes made to a document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T172801Z" creationid="olex" creationdate="20180823T172801Z">
+        <seg>Вы можете использовать несколько методов, чтобы сохранить &lt;i0/&gt; отслеживание изменений, внесенных в документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can use the entries on the &lt;f0&gt;LibreOffice – Paths&lt;/f0&gt; page to compile a list of files, such as those containing AutoText, that you need to back up or copy to another computer.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T172325Z" creationid="olex" creationdate="20180628T172325Z">
@@ -37305,6 +37393,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T201934Z" creationid="olex" creationdate="20180402T192609Z">
         <seg>ячеек в Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>change tracking</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T172811Z" creationid="olex" creationdate="20180823T172811Z">
+        <seg>отслеживание изменений</seg>
       </tuv>
     </tu>
     <tu>
@@ -38557,6 +38653,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>redlines</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T173538Z" creationid="olex" creationdate="20180823T173538Z">
+        <seg>пометки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>regular expressions</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T180615Z" creationid="olex" creationdate="20180731T180615Z">
@@ -38625,6 +38729,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190830Z" creationid="tagezi" creationdate="20180320T190830Z">
         <seg>ресурсы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>revision marks</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T173502Z" creationid="olex" creationdate="20180823T173502Z">
+        <seg>контрольные отметки</seg>
       </tuv>
     </tu>
     <tu>
@@ -39081,6 +39193,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T173451Z" creationid="olex" creationdate="20180329T173451Z">
         <seg>панели инструментов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>track changes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T172737Z" creationid="olex" creationdate="20180823T172737Z">
+        <seg>отслеживание изменений</seg>
       </tuv>
     </tu>
     <tu>
