@@ -15637,6 +15637,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, they &lt;tc10/&gt;have major differences:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T180652Z" creationid="olex" creationdate="20180823T180652Z">
+        <seg>Однако они &lt;tc10/&gt;имеют существенные отличия:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, they can be challenging to understand.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T172703Z" creationid="olex" creationdate="20180802T172703Z">
@@ -29777,6 +29785,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The text in a hyperlink does &lt;f0&gt;not&lt;/f0&gt; automatically update if you change the text of the linked item (although you can change it manually), but changed text does automatically update in a cross-reference.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T180953Z" creationid="olex" creationdate="20180823T180953Z">
+        <seg>Текст в гиперссылке &lt;f0&gt;не&lt;/f0&gt; обновляется автоматически, если вы меняете текст связанного элемента (хотя вы можете его изменить вручную), а в перекрестной ссылке измененный текст автоматически обновляется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The text retains the formatting it had before dragging.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T173604Z" creationid="olex" creationdate="20180731T173604Z">
@@ -35084,6 +35100,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T182013Z" creationid="olex" creationdate="20180611T182013Z">
         <seg>При использовании серверов CMIS служба запрашивает у вас необходимые учетные данные для доступа к файлам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When using a hyperlink, you do not have a choice &lt;ts0/&gt;&lt;f1&gt;about &lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;the &lt;ts4/&gt;&lt;f5&gt;type of &lt;/f5&gt;&lt;te6/&gt;content &lt;tc7/&gt;link&lt;ts8/&gt;&lt;f9&gt;ed to&lt;/f9&gt;&lt;te10/&gt; (&lt;ts11/&gt;&lt;f12&gt;such as&lt;/f12&gt;&lt;te13/&gt;&lt;tc14/&gt; text or page number), but when using a cross-reference, you have several choices, including bookmarks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T181642Z" creationid="olex" creationdate="20180823T181642Z">
+        <seg>При использовании гиперссылки у вас нет выбора &lt;ts0/&gt;&lt;f1&gt;&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;типа &lt;/f5&gt;&lt;te6/&gt;связанного содержимого&lt;tc7/&gt;&lt;ts8/&gt;&lt;f9&gt; &lt;/f9&gt;&lt;te10/&gt; (&lt;ts11/&gt;&lt;f12&gt;например,&lt;/f12&gt;&lt;te13/&gt;&lt;tc14/&gt; текста или номера страницы), а при использовании перекрестной ссылки у вас есть несколько вариантов, включая закладки.</seg>
       </tuv>
     </tu>
     <tu>
