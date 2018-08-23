@@ -584,6 +584,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;After&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt; a cross-reference has been created&lt;/f3&gt;&lt;te4/&gt;, &lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;use &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;F9&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; to &lt;/f10&gt;&lt;te11/&gt;&lt;ts12/&gt;&lt;f13&gt;up&lt;/f13&gt;&lt;te14/&gt;dat&lt;ts15/&gt;&lt;f16&gt;e&lt;/f16&gt;&lt;te17/&gt;&lt;tc18/&gt; &lt;ts19/&gt;&lt;f20&gt;all &lt;/f20&gt;&lt;te21/&gt;&lt;tc22/&gt;&lt;tc23/&gt;&lt;tc24/&gt;&lt;tc25/&gt;&lt;ts26/&gt;&lt;f27&gt;references so that&lt;/f27&gt;&lt;te28/&gt; &lt;tc29/&gt;&lt;tc30/&gt;&lt;tc31/&gt;the current wording or page numbers&lt;ts32/&gt; &lt;f33&gt;are displayed&lt;/f33&gt;&lt;te34/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T183426Z" creationid="olex" creationdate="20180823T183426Z">
+        <seg>&lt;f0&gt;После того&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;, как была создана перекрестная ссылка&lt;/f3&gt;&lt;te4/&gt;, &lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;используйте &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;F9&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; для &lt;/f10&gt;&lt;te11/&gt;&lt;ts12/&gt;&lt;f13&gt;обновления&lt;/f13&gt;&lt;te14/&gt;&lt;ts15/&gt;&lt;f16&gt;&lt;/f16&gt;&lt;te17/&gt;&lt;tc18/&gt; &lt;ts19/&gt;&lt;f20&gt;всех &lt;/f20&gt;&lt;te21/&gt;&lt;tc22/&gt;&lt;tc23/&gt;&lt;tc24/&gt;&lt;tc25/&gt;&lt;ts26/&gt;&lt;f27&gt;ссылок, чтобы отображались&lt;/f27&gt;&lt;te28/&gt; &lt;tc29/&gt;&lt;tc30/&gt;&lt;tc31/&gt;актуальные формулировки или номера страниц&lt;ts32/&gt; &lt;f33&gt;&lt;/f33&gt;&lt;te34/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Al&lt;/f0&gt;though these methods are a type of direct formatting, they cannot be cleared by using “Clear Direct Formatting” &lt;s1/&gt;on the Format menu or by using Ctrl+M.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T184816Z" creationid="olex" creationdate="20180730T173031Z">
@@ -917,6 +925,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T165044Z" creationid="olex" creationdate="20180811T165044Z">
         <seg>&lt;f0&gt;Создание &lt;/f0&gt; вложенных списков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Creating and &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;&lt;ts3/&gt;&lt;f4&gt;u&lt;/f4&gt;&lt;te5/&gt;sing cross-references</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T183047Z" creationid="olex" creationdate="20180823T183047Z">
+        <seg>&lt;f0&gt;Создание и &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt;использование перекрестных ссылок</seg>
       </tuv>
     </tu>
     <tu>
@@ -3641,6 +3657,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T193134Z" creationid="olex" creationdate="20180719T193134Z">
         <seg>&lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;Используйте&lt;/f5&gt;&lt;te6/&gt; &lt;f7&gt;Edit &gt; Paste&lt;/f7&gt; или нажмите &lt;f8&gt;Ctrl+V&lt;/f8&gt;, чтобы вставить содержимое из старого документа в новый.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;tc0/&gt;Both remain active when the document is exported to PDF.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T182719Z" creationid="olex" creationdate="20180823T182719Z">
+        <seg>&lt;tc0/&gt;Оба типа ссылок остаются активными, когда документ экспортируется в PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16918,6 +16942,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you save a Writer document to HTML, hyperlinks remain active but cross-references do not.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T182649Z" creationid="olex" creationdate="20180823T182649Z">
+        <seg>Если вы сохраняете документ Writer в HTML, то гиперссылки остаются активными, а перекрестные ссылки - нет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you select &lt;f0&gt;Text CSV&lt;/f0&gt; format (&lt;f1&gt;*.csv&lt;/f1&gt;) for your spreadsheet, the &lt;f2&gt;Export Text File&lt;/f2&gt; dialog (Figure &lt;t3&gt;7&lt;/t3&gt;) may open.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T190415Z" creationid="olex" creationdate="20180402T190415Z">
@@ -24552,6 +24584,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180820T185036Z" creationid="olex" creationdate="20180820T185036Z">
         <seg>Смотрите Главу 11, Графические объекты, алерея и шрифт, в этой книге и &lt;tc0/&gt;&lt;f1&gt;Руководство по Writer&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Chapter 12, Creating Web Pages, for details on creating hyperlinks within a document and to other documents and websites.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T182854Z" creationid="olex" creationdate="20180823T182854Z">
+        <seg>Подробнее о создании гиперссылок в документе, в других документах и на веб-сайтах смотрите в Главе 12 Создание веб-страниц.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37513,6 +37553,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T182057Z" creationid="olex" creationdate="20180628T182057Z">
         <seg>пусто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>bookmarks</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T183059Z" creationid="olex" creationdate="20180823T183059Z">
+        <seg>закладки</seg>
       </tuv>
     </tu>
     <tu>
