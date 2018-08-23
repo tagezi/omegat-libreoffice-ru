@@ -16141,6 +16141,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Fields dialog is not open, click &lt;f0&gt;Insert &gt; Cross-reference&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T184237Z" creationid="olex" creationdate="20180823T184237Z">
+        <seg>Если диалоговое окно Поля не открыто, то нажмите &lt;f0&gt;Вставка &gt; Перекрестная ссылка...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Find toolbar is not visible, you can display it by choosing &lt;f4&gt;View &gt; Toolbars &gt; Find&lt;/f4&gt; from the Menu bar or by pressing &lt;f5&gt;Ctrl+F&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T181343Z" creationid="olex" creationdate="20180731T181343Z">
@@ -18243,6 +18251,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T165454Z" creationid="olex" creationdate="20180727T163536Z">
         <seg>В этом представлении вы можете использовать значки в &lt;ts10/&gt;Мультистраничный вид&lt;f11&gt; и ползунок &lt;/f11&gt;&lt;te12/&gt;Масштаб&lt;tc13/&gt;&lt;tc14/&gt;&lt;tc15/&gt;  на панели состояния чтобы изменить увеличение.&lt;ts16/&gt; &lt;f17&gt;Вы&lt;/f17&gt; можете установить эти параметры &lt;f18&gt;&lt;/f18&gt;&lt;f19&gt;, &lt;/f19&gt;выбрав в меню &lt;f20&gt;&lt;/f20&gt;&lt;f21&gt;Вид &gt; Масштаб &gt; Масштаб...&lt;/f21&gt; для отображения диалогового окна &lt;te22/&gt;&lt;i23/&gt;&lt;i24/&gt;&lt;ts25/&gt;Масщтаб и режимы просмотра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In your document, place the cursor where you want the cross-reference to appear.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T184140Z" creationid="olex" creationdate="20180823T184140Z">
+        <seg>Поместите курсор в вашем документе там, где вы хотите, чтобы отображалась перекрестная ссылка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22029,6 +22045,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T182412Z" creationid="olex" creationdate="20180707T182412Z">
         <seg>На странице &lt;f0&gt;Свойства VBA&lt;/f0&gt; вы можете выбрать, сохранять ли макросы в документах Microsoft Office, открытых в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the &lt;f1&gt;Cross-references&lt;/f1&gt; tab (Figure &lt;t2&gt;28&lt;/t2&gt;), in the &lt;f3&gt;Type&lt;/f3&gt; list, select the type of item to be referenced (for example, &lt;f4&gt;Heading&lt;/f4&gt;&lt;ts5/&gt;&lt;f6&gt;&lt;f7&gt;s&lt;/f7&gt;&lt;/f6&gt;&lt;te8/&gt; or &lt;f9&gt;Figure&lt;/f9&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T190151Z" creationid="olex" creationdate="20180823T190151Z">
+        <seg>На вкладке &lt;f1&gt;Перекрестные ссылки&lt;/f1&gt; (Рисунок &lt;t2&gt;28&lt;/t2&gt;) в списке &lt;f3&gt;Тип&lt;/f3&gt; выберите тип элемента, на который нужно ссылаться (например, &lt;f4&gt;Заголовки&lt;/f4&gt;&lt;ts5/&gt;&lt;f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;te8/&gt; или &lt;f9&gt;Рисунок&lt;/f9&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27491,6 +27515,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;f35&gt;Cross-references&lt;/f35&gt; tab of the Fields dialog lists some items, such as &lt;i36/&gt;headings, bookmarks, figures, tables, &lt;ts37/&gt;&lt;f38&gt;or&lt;/f38&gt;&lt;te39/&gt;&lt;tc40/&gt; numbered items such as steps in a procedure.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T183823Z" creationid="olex" creationdate="20180823T183823Z">
+        <seg>На вкладке &lt;f35&gt;Перекрестные ссылки&lt;/f35&gt; диалогового окна Поля перечислены некоторые элементы, такие как &lt;i36/&gt;заголовки, закладки, рисунки, таблицы &lt;ts37/&gt;&lt;f38&gt;или&lt;/f38&gt;&lt;te39/&gt;&lt;tc40/&gt; или пронумерованные элементы, такие как шаги в процедуре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;f7&gt;Cell Appearance&lt;/f7&gt; panel of the &lt;f8&gt;Properties&lt;/f8&gt; deck in the Sidebar contains a &lt;f9&gt;Cell background&lt;/f9&gt; control with a color palette.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T173357Z" creationid="olex" creationdate="20180430T173357Z">
@@ -31076,6 +31108,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T095039Z" creationid="olex" creationdate="20180815T094901Z">
         <seg>Чтобы &lt;i0/&gt;определить отступы и настройки табуляции для одного или нескольких выбранных абзацев, дважды щелкните по части линейки, которая &lt;ts1/&gt;&lt;f2&gt;не&lt;/f2&gt;&lt;te3/&gt; находится между левыми и правыми значками отступа, чтобы открыть вкладку &lt;f4&gt;Отступы и интервалы&lt;/f4&gt; в диалоговом окне Абзац.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To &lt;i0/&gt;insert a cross-reference&lt;tc1/&gt;:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T184038Z" creationid="olex" creationdate="20180823T184038Z">
+        <seg>Чтобы &lt;i0/&gt;вставить перекрестную ссылку&lt;tc1/&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36017,6 +36057,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also create your own reference items; see “Setting References” in &lt;tc41/&gt;the &lt;f42&gt;Writer Guide&lt;/f42&gt; for instructions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T183944Z" creationid="olex" creationdate="20180823T183944Z">
+        <seg>Вы также можете создавать свои собственные ссылочные объекты; смотрите «Настройка ссылок» в &lt;tc41/&gt;&lt;f42&gt;Руководстве по Writer&lt;/f42&gt; для получения инструкций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also customize the Menu bar; see &lt;f1&gt;Chapter 14 Customizing LibreOffice&lt;/f1&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180515T190653Z" creationid="olex" creationdate="20180328T175352Z">
@@ -37805,6 +37853,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>cross-references</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T184006Z" creationid="olex" creationdate="20180823T184006Z">
+        <seg>перекрестные ссылки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>custom</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180321T190955Z" creationid="olex" creationdate="20180309T193744Z">
@@ -38329,6 +38385,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180406T163140Z" creationid="olex" creationdate="20180406T163140Z">
         <seg>вставка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>inserting references</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T183955Z" creationid="olex" creationdate="20180823T183955Z">
+        <seg>вставка ссылок</seg>
       </tuv>
     </tu>
     <tu>
