@@ -2867,6 +2867,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f17&gt;Any external &lt;/f17&gt;&lt;te18/&gt;&lt;ts19/&gt;&lt;f20&gt;program used must be registered with LibreOffice&lt;/f20&gt;&lt;te21/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T172339Z" creationid="olex" creationdate="20180823T172339Z">
+        <seg>&lt;f17&gt;Любая внешняя &lt;/f17&gt;&lt;te18/&gt;&lt;ts19/&gt;&lt;f20&gt;программа должна быть зарегистрирована в LibreOffice&lt;/f20&gt;&lt;te21/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f1&gt;Below is the case for Writer:&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T192817Z" creationid="olex" creationdate="20180614T192817Z">
@@ -3657,6 +3665,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T183329Z" creationid="olex" creationdate="20180808T183329Z">
         <seg>&lt;tc18/&gt;&lt;tc19/&gt;&lt;tc20/&gt;&lt;tc21/&gt;Кроме того, стили используются в LibreOffice для многих процессов, даже если вы не знаете о них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;tc22/&gt;&lt;ts23/&gt;&lt;f24&gt;T&lt;/f24&gt;&lt;te25/&gt;he &lt;f26&gt;Writer Guide&lt;/f26&gt; describes the &lt;ts27/&gt;&lt;f28&gt;mer&lt;/f28&gt;&lt;te29/&gt;&lt;ts30/&gt;&lt;f31&gt;ge &lt;/f31&gt;&lt;te32/&gt;process&lt;ts33/&gt;&lt;f34&gt;es&lt;/f34&gt;&lt;te35/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T172540Z" creationid="olex" creationdate="20180823T172540Z">
+        <seg>&lt;tc22/&gt;&lt;ts23/&gt;&lt;f24&gt;&lt;/f24&gt;&lt;te25/&gt;В&lt;f26&gt;руководстве по Writer&lt;/f26&gt; описаны &lt;ts27/&gt;&lt;f28&gt;&lt;/f28&gt;&lt;te29/&gt;&lt;ts30/&gt;&lt;f31&gt;&lt;/f31&gt;&lt;te32/&gt;процессы регистрации&lt;ts33/&gt;&lt;f34&gt;&lt;/f34&gt;&lt;te35/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4970,6 +4986,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T190632Z" creationid="olex" creationdate="20180718T190632Z">
         <seg>Все шаблоны, содержащиеся в этой папке, перечислены на странице (как показано на Рисунке &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All these f&lt;ts0/&gt;&lt;f1&gt;eatures&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt; use &lt;ts4/&gt;&lt;f5&gt;data from a Writer table or &lt;/f5&gt;&lt;te6/&gt;a&lt;ts7/&gt;&lt;f8&gt;nother&lt;/f8&gt;&lt;te9/&gt; &lt;tc10/&gt;data source (a spreadsheet or database containing &lt;tc11/&gt;name and address records &lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;or&lt;/f14&gt;&lt;te15/&gt; other information)&lt;ts16/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T172237Z" creationid="olex" creationdate="20180823T172237Z">
+        <seg>Все эти &lt;ts0/&gt;&lt;f1&gt;функции&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt; используют &lt;ts4/&gt;&lt;f5&gt;данные из таблицы Writer или &lt;/f5&gt;&lt;te6/&gt;&lt;ts7/&gt;&lt;f8&gt;другого&lt;/f8&gt;&lt;te9/&gt; &lt;tc10/&gt;источника данных (таблицы или базы данных, содержащей &lt;tc11/&gt;имя и адресные записи &lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;или&lt;/f14&gt;&lt;te15/&gt; другую информацию)&lt;ts16/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10654,6 +10678,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T145328Z" creationid="olex" creationdate="20180414T145328Z">
         <seg>Записи могут быть созданы только в том случае, если был выбран тип рядов: Линейный, Геометрический или Дата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Envelopes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T171843Z" creationid="olex" creationdate="20180823T171843Z">
+        <seg>Конверты</seg>
       </tuv>
     </tu>
     <tu>
@@ -20019,6 +20051,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mailing labels</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T171826Z" creationid="olex" creationdate="20180823T171826Z">
+        <seg>Почтовые этикетки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mailing lists</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T091127Z" creationid="tagezi" creationdate="20180305T091127Z">
@@ -21073,6 +21113,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T182933Z" creationid="olex" creationdate="20180326T182933Z">
         <seg>Несколько смежных листов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multiple copies of a document to send to a list of different recipients (form letters)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T171735Z" creationid="olex" creationdate="20180823T171735Z">
+        <seg>Несколько копий документа для отправки по списку различных получателей (форма писем)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33886,6 +33934,9 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Using mail merge</seg>
       </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T171611Z">
+        <seg>Использование рассылки писем</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -35514,6 +35565,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T165748Z" creationid="olex" creationdate="20180730T165748Z">
         <seg>Writer предоставляет несколько инструментов, &lt;tc0/&gt;облегчающих работу, если вы &lt;ts1/&gt;&lt;f2&gt;используете &lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;более одного&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt; языка&lt;tc8/&gt; &lt;tc9/&gt; в одном документе или пишете документы на разных языках.&lt;ts10/&gt; &lt;te11/&gt;&lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;&lt;/f14&gt;&lt;te15/&gt;Изменение языка для &lt;ts16/&gt;&lt;f17&gt;конкретного &lt;/f17&gt;&lt;te18/&gt;&lt;tc19/&gt;текста &lt;tc20/&gt;&lt;tc21/&gt;&lt;ts22/&gt;&lt;f23&gt;позволяет &lt;/f23&gt;&lt;te24/&gt;&lt;tc25/&gt;вам &lt;ts26/&gt;&lt;f27&gt;&lt;/f27&gt;&lt;te28/&gt;&lt;tc29/&gt;&lt;tc30/&gt; использовать правильные словари &lt;ts31/&gt;&lt;f32&gt;и правила для &lt;/f32&gt;&lt;te33/&gt;проверки орфографии,&lt;ts34/&gt;, &lt;f35&gt;грамматики и переносов&lt;/f35&gt;&lt;te36/&gt;&lt;ts37/&gt;&lt;f38&gt;.  грамматики и переносов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writer provides very useful features to create and print:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T171635Z" creationid="olex" creationdate="20180823T171635Z">
+        <seg>Writer предоставляет очень полезные функции для создания и печати:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38126,6 +38185,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T122843Z" creationid="tagezi" creationdate="20180311T122843Z">
         <seg>макросы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mail merge</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T171542Z" creationid="olex" creationdate="20180823T171542Z">
+        <seg>рассылка писем</seg>
       </tuv>
     </tu>
     <tu>
