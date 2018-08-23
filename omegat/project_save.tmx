@@ -17895,6 +17895,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the &lt;f0&gt;Insert reference to&lt;/f0&gt; list, &lt;ts1/&gt;&lt;f2&gt;select the option needed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T190613Z" creationid="olex" creationdate="20180823T190613Z">
+        <seg>В списке &lt;f0&gt;Вставить ссылку на&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; выберите нужный параметр.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the &lt;f0&gt;Macro name&lt;/f0&gt; text box, type a name for the macro you have just recorded, for example &lt;f1&gt;EnterMyName&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T144902Z" creationid="tagezi" creationdate="20180313T144902Z">
@@ -37009,6 +37017,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T172013Z" creationid="olex" creationdate="20180701T171712Z">
         <seg>Затем вы сможете выбрать опцию &lt;f0&gt;Использовать&lt;/f0&gt;&lt;i1/&gt; &lt;f2&gt;виртуальную машину Java&lt;/f2&gt; и (при необходимости) выбрать одну из перечисленных JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can type some characters in the top box under &lt;f1&gt;Selection&lt;/f1&gt; to filter the list in the selection box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180823T190519Z" creationid="olex" creationdate="20180823T190519Z">
+        <seg>Вы можете ввести несколько символов в верхнем поле &lt;f1&gt;Выбор&lt;/f1&gt;, чтобы отфильтровать список в поле выбора.</seg>
       </tuv>
     </tu>
     <tu>
