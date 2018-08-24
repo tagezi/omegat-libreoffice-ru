@@ -29430,6 +29430,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The options determine &lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;the text inserted for the hyperlink and how it is formatted&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt;&lt;ts8/&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;te10/&gt; The list varies according to the Type&lt;ts11/&gt; &lt;f12&gt;chosen&lt;/f12&gt;&lt;te13/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180824T160013Z" creationid="olex" creationdate="20180824T160013Z">
+        <seg>Параметры определяют &lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;текст, вставленный для гиперссылки, и способ ее форматирования&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt;&lt;ts8/&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;te10/&gt; Список зависит от выбранного типа.&lt;ts11/&gt; &lt;f12&gt;&lt;/f12&gt;&lt;te13/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The options for importing CSV files into a Calc spreadsheet are as follows:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T190250Z" creationid="olex" creationdate="20180330T190250Z">
