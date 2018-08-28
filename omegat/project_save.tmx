@@ -1425,6 +1425,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;&lt;ts3/&gt;&lt;f4&gt;a&lt;/f4&gt;&lt;te5/&gt; standard text document&lt;ts6/&gt;,&lt;te7/&gt; &lt;ts8/&gt;&lt;f9&gt;such as a report, &lt;/f9&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;any text can be edited.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T174439Z" creationid="olex" creationdate="20180828T174439Z">
+        <seg>&lt;f0&gt;В &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt;обычном текстовом документе&lt;ts6/&gt;,&lt;te7/&gt;&lt;ts8/&gt;&lt;f9&gt;, таком как отчет, &lt;/f9&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;любой текст может быть отредактирован.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;In Full Screen view, the document is displayed using the zoom and layout settings previously selected&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;in the other views&lt;/f4&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T165950Z" creationid="olex" creationdate="20180727T165950Z">
@@ -6444,6 +6452,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By contra&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt;st, &lt;/f15&gt;&lt;te16/&gt;&lt;tc17/&gt;&lt;ts18/&gt;&lt;f19&gt;a&lt;/f19&gt;&lt;te20/&gt;&lt;tc21/&gt; form has sections that are not to be edited, and other sections that are designed for the reader to &lt;ts22/&gt;&lt;f23&gt;fill in information&lt;/f23&gt;&lt;te24/&gt;&lt;tc25/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T174805Z" creationid="olex" creationdate="20180828T174805Z">
+        <seg>Напротив,&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt; &lt;/f15&gt;&lt;te16/&gt;&lt;tc17/&gt;&lt;ts18/&gt;&lt;f19&gt;&lt;/f19&gt;&lt;te20/&gt;&lt;tc21/&gt;в форме есть части, которые не подлежат редактированию, и другие части, которые предназначены для считывания  &lt;ts22/&gt;&lt;f23&gt;информации&lt;/f23&gt;&lt;te24/&gt;&lt;tc25/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By contrast, when you use styles, you only need to make a single change.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T201810Z" creationid="olex" creationdate="20180306T201810Z">
@@ -10467,8 +10483,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Each category has four BAILS (Business Authorization Identification and Labeling Scheme) levels: Non-Business, General Business, Confidential, and Internal Only.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180828T173527Z" creationid="olex" creationdate="20180828T173527Z">
-        <seg>В каждой категории есть четыре уровня BAILS (Business Authorization Identification and Labeling Scheme): не-бизнес, общий бизнес, конфиденциальный и только внутренний.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T173634Z" creationid="olex" creationdate="20180828T173527Z">
+        <seg>В каждой категории есть четыре уровня BAILS (Business Authorization Identification and Labeling Scheme - Схема идентификации и маркировки бизнес-авторизации): Не-бизнес, Общий бизнес, Конфиденциальный и Только внутренний.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13959,6 +13975,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T205153Z" creationid="olex" creationdate="20180316T205153Z">
         <seg>Для получения дополнительной информации смотрите &lt;f0&gt;Руководство LibreOffice Writer, глава 9:&lt;s1/&gt; Работа с таблицами.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information, refer to the &lt;tc0/&gt;&lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T174230Z" creationid="olex" creationdate="20180828T174230Z">
+        <seg>Для получения дополнительной информации смотрите &lt;tc0/&gt;&lt;f1&gt;Руководство по Writer&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18938,8 +18962,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>It contains three BAF (Business Authentication Framework) categories: Intellectual Property, National Security and Export Control.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180828T173436Z" creationid="olex" creationdate="20180828T173436Z">
-        <seg>Он содержит три категории BAF (Business Authentication Framework): Интеллектуальная собственность, Национальная безопасность и Экспортный контроль.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T173547Z" creationid="olex" creationdate="20180828T173436Z">
+        <seg>Он содержит три категории BAF (Business Authentication Framework - Бизнес-аутентификация): Интеллектуальная собственность, Национальная безопасность и Экспортный контроль.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19959,6 +19983,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T175844Z" creationid="olex" creationdate="20180307T175844Z">
         <seg>LibreOffice поддерживает следующие типы стилей:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice then adds custom fields in the document properties (&lt;f12&gt;File &gt; Properties&lt;/f12&gt;, &lt;f13&gt;Custom fields&lt;/f13&gt; tab) to store the classification policy as document metadata.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T174134Z" creationid="olex" creationdate="20180828T174134Z">
+        <seg>Затем LibreOffice добавляет пользовательские поля в свойства документа (&lt;f12&gt;Файл &gt; Свойства&lt;/f12&gt; &gt; &lt;f13&gt; Свойства пользователя&lt;/f13&gt;), чтобы сохранить классификационную политику в качестве метаданных документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31198,6 +31230,14 @@ LG:DONE</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This toolbar contains list&lt;ts10/&gt; &lt;te11/&gt;boxes to help in selecting the security of the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T173937Z" creationid="olex" creationdate="20180828T173937Z">
+        <seg>Эта панель инструментов содержит список&lt;ts10/&gt;&lt;te11/&gt;, чтобы помочь в выборе безопасности документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG:TODO: Разобраться с контролеррами и диспатчерами, полями и всем остальным</note>
       <tuv lang="EN-US">
         <seg>ThisComponent refers to the current document.</seg>
@@ -32106,6 +32146,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To enable document classification, open the &lt;ts0/&gt;&lt;f1&gt;TSCP&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt; bar (&lt;f4&gt;View &gt; Toolbars &gt; &lt;/f4&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;f8&gt;TSCP&lt;/f8&gt;&lt;/f7&gt;&lt;te9/&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T173843Z" creationid="olex" creationdate="20180828T173843Z">
+        <seg>Чтобы включить классификацию документов, откройте панель &lt;ts0/&gt;&lt;f1&gt;TSCP&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt; (&lt;f4&gt;Вид &gt; Панели инструментов &gt; &lt;/f4&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;f8&gt;Классификация TSCP&lt;/f8&gt;&lt;/f7&gt;&lt;te9/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To enable it, select MediaWiki in the Internet options, then click the &lt;f0&gt;Add&lt;/f0&gt; button to open the dialog shown in Figure &lt;t1&gt;30&lt;/t1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T103315Z" creationid="olex" creationdate="20180715T103315Z">
@@ -32598,6 +32646,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T183114Z" creationid="olex" creationdate="20180411T183114Z">
         <seg>Чтобы сохранить ведущие нули в числе:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To prevent a breach in security policy, contents with a higher classification level cannot be pasted into documents with a lower classification level.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T174201Z" creationid="olex" creationdate="20180828T174201Z">
+        <seg>Чтобы предотвратить нарушение правил безопасности, содержимое с более высоким уровнем классификации не может быть вставлено в документы с более низким уровнем классификации.</seg>
       </tuv>
     </tu>
     <tu>
