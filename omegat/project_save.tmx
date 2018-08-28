@@ -3725,6 +3725,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;tc26/&gt;For details on using master documents, see &lt;tc27/&gt;the &lt;f28&gt;Writer Guide&lt;/f28&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T172246Z" creationid="olex" creationdate="20180828T172246Z">
+        <seg>&lt;tc26/&gt;Подробнее об использовании составных документов смотрите &lt;tc27/&gt;в &lt;f28&gt;Руководстве по Writer&lt;/f28&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;tc4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;When &lt;/f7&gt;&lt;te8/&gt;text &lt;ts9/&gt;&lt;f10&gt;is &lt;/f10&gt;&lt;te11/&gt;selected&lt;ts12/&gt;, &lt;f13&gt;the word and character counts for the selection will appear here.&lt;/f13&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T162153Z" creationid="olex" creationdate="20180721T162153Z">
@@ -3745,6 +3753,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T181731Z" creationid="olex" creationdate="20180808T181731Z">
         <seg>&lt;te0/&gt;&lt;tc1/&gt;&lt;tc2/&gt;&lt;tc3/&gt;&lt;ts4/&gt;Смотрите &lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;Руководство по Writer&lt;/f6&gt; для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;te0/&gt;Master documents are typically used for producing long documents such as a book, &lt;tc1/&gt;thesis, or &lt;tc2/&gt;long report&lt;tc3/&gt;&lt;ts4/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T171914Z" creationid="olex" creationdate="20180828T171914Z">
+        <seg>&lt;te0/&gt;Составные документы обычно используются для создания длинных документов, таких как книга, диссертация&lt;tc1/&gt; или &lt;tc2/&gt; длинный отчет&lt;tc3/&gt;&lt;ts4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3777,6 +3793,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T154119Z" creationid="olex" creationdate="20180722T154119Z">
         <seg>&lt;te3/&gt;&lt;tc4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;Помимо&lt;/f7&gt;&lt;te8/&gt;  указателя мыши над этим полем&lt;ts9/&gt; &lt;f10&gt;также отображается  &lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;всплывающая подсказка &lt;ts13/&gt;&lt;f14&gt;, показывающая, &lt;/f14&gt;&lt;te15/&gt;&lt;tc16/&gt;&lt;ts17/&gt;&lt;f18&gt; &lt;/f18&gt;&lt;te19/&gt;какой режим активен.&lt;ts20/&gt; &lt;f21&gt;Обратите внимание, &lt;/f21&gt;что значок не изменяется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;te5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;They are especially handy &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;when different people are writing different &lt;ts11/&gt;&lt;f12&gt;sections &lt;/f12&gt;&lt;te13/&gt;&lt;tc14/&gt;&lt;tc15/&gt;&lt;ts16/&gt;&lt;f17&gt;of a document, eliminating the need to continually &lt;/f17&gt;&lt;te18/&gt;&lt;tc19/&gt;share&lt;ts20/&gt; &lt;te21/&gt;&lt;tc22/&gt;&lt;ts23/&gt;&lt;f24&gt;the full document&lt;/f24&gt;&lt;te25/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T172154Z" creationid="olex" creationdate="20180828T172154Z">
+        <seg>&lt;te5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;Это особенно удобно &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;, когда разные люди пишут разные &lt;ts11/&gt;&lt;f12&gt;разделы &lt;/f12&gt;&lt;te13/&gt;&lt;tc14/&gt;&lt;tc15/&gt;&lt;ts16/&gt;&lt;f17&gt;документа, устраняя необходимость постоянного &lt;/f17&gt;&lt;te18/&gt;&lt;tc19/&gt;обмена&lt;ts20/&gt; &lt;te21/&gt;&lt;tc22/&gt;&lt;ts23/&gt;&lt;f24&gt;полным документом&lt;/f24&gt;&lt;te25/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9055,6 +9079,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a new document based on a master document template creates a master document with the same initial content as the template it is based upon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T172408Z" creationid="olex" creationdate="20180828T172408Z">
+        <seg>Создание нового документа на основе шаблона составного документа создает составной-документ с тем же начальным содержимым, что и шаблон, на котором он основан.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a new style from a selection</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T202012Z" creationid="olex" creationdate="20180306T194753Z">
@@ -10015,6 +10047,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Document classification and security are important for businesses and governments.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T172831Z" creationid="olex" creationdate="20180828T172831Z">
+        <seg>Для предприятий и органов власти важны упорядочивание документов и безопасность.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Document digital signature</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T160250Z" creationid="olex" creationdate="20180721T160250Z">
@@ -10421,6 +10461,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180536Z" creationid="olex" creationdate="20180308T180536Z">
         <seg>В каждом диалоговом окне Стиль есть несколько вкладок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each category has four BAILS (Business Authorization Identification and Labeling Scheme) levels: Non-Business, General Business, Confidential, and Internal Only.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T173527Z" creationid="olex" creationdate="20180828T173527Z">
+        <seg>В каждой категории есть четыре уровня BAILS (Business Authorization Identification and Labeling Scheme): не-бизнес, общий бизнес, конфиденциальный и только внутренний.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18888,6 +18936,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It contains three BAF (Business Authentication Framework) categories: Intellectual Property, National Security and Export Control.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T173436Z" creationid="olex" creationdate="20180828T173436Z">
+        <seg>Он содержит три категории BAF (Business Authentication Framework): Интеллектуальная собственность, Национальная безопасность и Экспортный контроль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It does not matter which of these two files you select; both will be imported.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123150Z" creationid="tagezi" creationdate="20180320T123150Z">
@@ -19697,6 +19753,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice implemented the open standards produced by TSCP (Transglobal Secure Collaboration Participation, Inc.)&lt;tc0/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T173355Z" creationid="olex" creationdate="20180828T173355Z">
+        <seg>LibreOffice реализовал открытые стандарты, разработанные TSCP (Transglobal Secure Collaboration Participation, Inc.)&lt;tc0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: убрал повторение слова стили в конце, по русски оно лишнее</note>
       <tuv lang="EN-US">
         <seg>LibreOffice includes predefined styles, but you can also create custom styles.</seg>
@@ -19831,6 +19895,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T194655Z" creationid="olex" creationdate="20180307T194655Z">
         <seg>LibreOffice предоставляет вам несколько способов выбора стилей:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice provides standardized means for sensitive information to be identified&lt;ts0/&gt; &lt;f1&gt;and protected&lt;/f1&gt;&lt;te2/&gt;&lt;ts3/&gt;, &lt;f4&gt;using &lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;a set of s&lt;/f8&gt;&lt;te9/&gt;tandard fields that can be used to hold sensitiv&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;e&lt;/f12&gt;&lt;te13/&gt; information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T173326Z" creationid="olex" creationdate="20180828T173326Z">
+        <seg>LibreOffice предоставляет стандартизированные средства для идентификации&lt;ts0/&gt; &lt;f1&gt;и защиты конфиденциальной информации&lt;/f1&gt;&lt;te2/&gt;&lt;ts3/&gt;, &lt;f4&gt;с использованием &lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;набора&lt;/f8&gt;&lt;te9/&gt; стандартных полей, которые могут использоваться для хранения конфиденциальной &lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;&lt;/f12&gt;&lt;te13/&gt;информации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24728,6 +24800,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180314T182720Z" creationid="User" creationdate="20180314T182720Z">
         <seg>Смотрите Главу 14, Настройка LibreOffice для получения более подробной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Chapter 3, Styles and Templates, for more about creating and using templates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T172444Z" creationid="olex" creationdate="20180828T172444Z">
+        <seg>Смотрите Главу 3, Стили и шаблоны, для получения дополнительной информации о создании и использовании шаблонов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35528,6 +35608,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where sensitive information is exchanged between users and organizations, the parties agree how such information will be identified and handled.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T172936Z" creationid="olex" creationdate="20180828T172936Z">
+        <seg>В случае обмена конфиденциальной информацией между пользователями и организациями стороны договариваются о том, как такая информация будет идентифицироваться и обрабатываться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where to get more help</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T083258Z" creationid="tagezi" creationdate="20180306T083258Z">
@@ -36101,6 +36189,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T172858Z" creationid="olex" creationdate="20180809T172858Z">
         <seg>Вы можете &lt;f0&gt;вручную&lt;/f0&gt; применять разное &lt;f1&gt;прямое&lt;/f1&gt; форматирование к абзацам, используя кнопки на панели инструментов Форматирование и используя панель Абзац на вкладке Свойства Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can add master document templates to LibreOffice in the same way as ordinary document templates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T172327Z" creationid="olex" creationdate="20180828T172327Z">
+        <seg>Вы можете добавить шаблоны составных документов в LibreOffice так же, как шаблоны обычных документов.</seg>
       </tuv>
     </tu>
     <tu>
