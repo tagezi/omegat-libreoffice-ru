@@ -255,6 +255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f9&gt;&lt;te10/&gt;See &lt;tc11/&gt;the &lt;f12&gt;Writer Guide&lt;/f12&gt;&lt;ts13/&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;for more informat&lt;/f17&gt;&lt;/f16&gt;&lt;te18/&gt;&lt;ts19/&gt;&lt;f20&gt;&lt;f21&gt;ion&lt;/f21&gt;&lt;/f20&gt;&lt;te22/&gt;&lt;ts23/&gt;&lt;f24&gt;.&lt;/f24&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T180700Z" creationid="olex" creationdate="20180828T180700Z">
+        <seg>&lt;/f9&gt;&lt;te10/&gt;Смотрите &lt;tc11/&gt;&lt;f12&gt;Руководство по Writer&lt;/f12&gt;&lt;ts13/&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; для получения дополнительной информации&lt;/f17&gt;&lt;/f16&gt;&lt;te18/&gt;&lt;ts19/&gt;&lt;f20&gt;&lt;f21&gt;&lt;/f21&gt;&lt;/f20&gt;&lt;te22/&gt;&lt;ts23/&gt;&lt;f24&gt;.&lt;/f24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;http://api.openoffice.org/docs/common/ref/com/sun/star/module-ix.html&lt;/a0&gt; (official IDL reference; here you will find almost every command with a description)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T200803Z" creationid="tagezi" creationdate="20180320T200803Z">
@@ -512,6 +520,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;s3/&gt;| &lt;/f2&gt;&lt;t4&gt;Chapter 4 Getting Started with Writer&lt;/t4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T180906Z" creationid="olex" creationdate="20180828T180906Z">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;s3/&gt;| &lt;/f2&gt;&lt;t4&gt;Глава 4 Начало работы с Writer&lt;/t4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;s3/&gt;| &lt;/f2&gt;&lt;t4&gt;Chapter 5 Getting started with Calc&lt;/t4&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T172028Z" creationid="olex" creationdate="20180326T172028Z">
@@ -532,6 +548,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T145132Z" creationid="olex" creationdate="20180603T145132Z">
         <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Глава 7 Начало работы с Draw&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1&gt;6&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;s3/&gt;| &lt;/f2&gt;&lt;t4&gt;Chapter 5 Getting started with Calc&lt;/t4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T181151Z" creationid="olex" creationdate="20180828T181151Z">
+        <seg>&lt;f0&gt;&lt;t1&gt;6&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;s3/&gt;| &lt;/f2&gt;&lt;t4&gt;Глава 5 Начало работы с Calc&lt;/t4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1033,10 +1057,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;&lt;a4&gt;&lt;f5&gt;&lt;f6&gt;documentation&lt;/f6&gt;&lt;/f5&gt;&lt;/a4&gt;&lt;a7&gt;&lt;f8&gt;&lt;f9&gt;.libreoffice.org/&lt;/f9&gt;&lt;/f8&gt;&lt;/a7&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T181135Z" creationid="olex" creationdate="20180828T181135Z">
+        <seg>&lt;f0&gt;Документация по LibreOffice доступна на &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;&lt;a4&gt;&lt;f5&gt;&lt;f6&gt;documentation&lt;/f6&gt;&lt;/f5&gt;&lt;/a4&gt;&lt;a7&gt;&lt;f8&gt;&lt;f9&gt;.libreoffice.org/&lt;/f9&gt;&lt;/f8&gt;&lt;/a7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181526Z" creationid="tagezi" creationdate="20180304T181526Z">
-        <seg>&lt;f0&gt;Документация на LibreOffice доступна на &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T181114Z" creationid="tagezi" creationdate="20180304T181526Z">
+        <seg>&lt;f0&gt;Документация по LibreOffice доступна на &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://documentation.libreoffice.org/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3421,6 +3453,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;38&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 4 Getting Started with Writer&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T180818Z" creationid="olex" creationdate="20180828T180818Z">
+        <seg>&lt;t0&gt;38&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Глава 4 Начало работы с Writer&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;48&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 5 Getting started with Calc&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T181045Z" creationid="olex" creationdate="20180828T181045Z">
+        <seg>&lt;t0&gt;48&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Глава 5 Начало работы с Calc&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;52&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 5 Getting started with Calc&lt;/t4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T171637Z" creationid="olex" creationdate="20180326T171637Z">
@@ -3505,6 +3553,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T171521Z" creationid="olex" creationdate="20180306T171521Z">
         <seg>&lt;t0&gt;Глава 3 Использование стилей и шаблонов&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Chapter 4 Getting Started with Writer&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;5&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T180826Z" creationid="olex" creationdate="20180828T180826Z">
+        <seg>&lt;t0&gt;Глава 4 Начало работы с Writer&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;5&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3617,6 +3673,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T171609Z" creationid="olex" creationdate="20180326T171609Z">
         <seg>&lt;t0&gt;Печать&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;51&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Tracking changes to a document&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;37&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T180720Z" creationid="olex" creationdate="20180828T180720Z">
+        <seg>&lt;t0&gt;Отслеживание изменений документа&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;37&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6877,10 +6941,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cell comments</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T181855Z" creationid="olex" creationdate="20180828T181855Z">
+        <seg>Комментарий к ячейке</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cell navigation</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T195258Z" creationid="olex" creationdate="20180326T180618Z">
         <seg>Перемещение по ячейкам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cell protection</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T181752Z" creationid="olex" creationdate="20180828T181752Z">
+        <seg>Защита ячеек</seg>
       </tuv>
     </tu>
     <tu>
@@ -14363,6 +14443,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Formula syntax</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T181614Z" creationid="olex" creationdate="20180828T181614Z">
+        <seg>Синтаксис формулы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Formulas are equations that use numbers and variables to produce a result.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T184228Z" creationid="olex" creationdate="20180506T184228Z">
@@ -15489,6 +15577,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T175431Z" creationid="olex" creationdate="20180327T175431Z">
         <seg>Скрытие и отображение данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hiding and showing sheets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T181708Z" creationid="olex" creationdate="20180828T181708Z">
+        <seg>Скрытие и показ листов</seg>
       </tuv>
     </tu>
     <tu>
@@ -23250,6 +23346,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pivot tables and pivot charts</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T181918Z" creationid="olex" creationdate="20180828T181918Z">
+        <seg>Сводные таблицы и сводные диаграммы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the cursor in the HelloMacro subroutine and click the &lt;f0&gt;Run BASIC&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Macro toolbar, or press the &lt;f3&gt;F5&lt;/f3&gt; key, to run the HelloMacro in the module.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T133104Z" creationid="tagezi" creationdate="20180312T133104Z">
@@ -30833,6 +30937,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T094548Z" creationid="tagezi" creationdate="20180311T094548Z">
         <seg>Эта глава основана на Главе 5 &lt;f0&gt;Руководства по началу работы с OpenOffice.org 4.1&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chapter is based on Chapter 5 of &lt;f0&gt;Getting Started with OpenOffice.org &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;4.1&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T181323Z" creationid="olex" creationdate="20180828T181323Z">
+        <seg>Эта глава основана на Главе 5 &lt;f0&gt;Начало работы с OpenOffice.org &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;4.1&lt;/f2&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
