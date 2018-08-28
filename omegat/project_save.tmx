@@ -2450,6 +2450,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Use bookmarks to rapidly navigate or link to specific locations in a document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T171020Z" creationid="olex" creationdate="20180828T171020Z">
+        <seg>&lt;f0&gt;Используйте закладки, чтобы быстро перемещаться по документу или ссылаться на определенные места в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Use paragraph styles &lt;/f0&gt;&lt;f1&gt;List 1, List &lt;s2/&gt;2, List 3, etc. &lt;/f1&gt;&lt;f3&gt;for creating bulleted lists.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T162840Z" creationid="olex" creationdate="20180811T162459Z">
@@ -4241,6 +4249,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T061205Z" creationid="tagezi" creationdate="20180311T095554Z">
         <seg>Макрос — это сохраненная последовательность команд или нажатие клавиш, которые хранятся для последующего использования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A master document joins separate text documents into one larger document, and unifies the formatting, table of contents, bibliography, index, and other tables or lists.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T171758Z" creationid="olex" creationdate="20180828T171758Z">
+        <seg>Составной документ объединяет отдельные текстовые документы в один большой документ и унифицирует форматирование, оглавление, библиографию, указатель и другие таблицы или списки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7593,6 +7609,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T192532Z" creationid="olex" creationdate="20180402T192532Z">
         <seg>Нажмите &lt;f0&gt;Сохранить&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Insert &gt; Bookmark&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T171317Z" creationid="olex" creationdate="20180828T171317Z">
+        <seg>Нажмите &lt;f0&gt;Вставка &gt; Закладка&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11138,6 +11162,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fields dialog box</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T170850Z" creationid="olex" creationdate="20180828T170850Z">
+        <seg>Диалоговое окно Поля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Choosing security options for opening and saving documents</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T183036Z" creationid="olex" creationdate="20180628T183036Z">
@@ -11824,6 +11856,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180714T073532Z" creationid="olex" creationdate="20180714T073532Z">
         <seg>Рисунок &lt;seq0&gt;28&lt;/seq0&gt;: Выбор вариантов проверки предложений на английском языке</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: The &lt;i1/&gt;Cross-references tab of the Fields dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T170941Z" creationid="olex" creationdate="20180828T170941Z">
+        <seg>Рисунок &lt;seq0&gt;28&lt;/seq0&gt;: &lt;i1/&gt;Вкладка Перекрестные ссылки диалогового окна Поля</seg>
       </tuv>
     </tu>
     <tu>
@@ -18431,6 +18471,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert Bookmark dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T171425Z" creationid="olex" creationdate="20180828T171425Z">
+        <seg>Диалоговое окно Закладка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert Unnumbered Entry</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180813T173106Z" creationid="olex" creationdate="20180813T173106Z">
@@ -21875,6 +21923,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T183519Z" creationid="olex" creationdate="20180621T183519Z">
         <seg>В &lt;f1&gt;macOS&lt;/f1&gt; документ закрывается, и в верхней части экрана остается только строка меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On &lt;i0/&gt;the Insert Bookmark dialog, the larger box lists any previously defined bookmarks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T171508Z" creationid="olex" creationdate="20180828T171508Z">
+        <seg>В диалоговом окне Закладка&lt;i0/&gt; в большом поле перечислены все ранее определенные закладки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25842,6 +25898,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T183801Z" creationid="olex" creationdate="20180315T183801Z">
         <seg>Выберите шаблон, который необходимо удалить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the text you want to bookmark.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T171224Z" creationid="olex" creationdate="20180828T171224Z">
+        <seg>Выберите текст, который вы хотите пометить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30419,6 +30483,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;&lt;tc3/&gt;are listed in the Navigator and can be accessed directly from there with a single mouse click.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T171105Z" creationid="olex" creationdate="20180828T171105Z">
+        <seg>Они &lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;&lt;tc3/&gt;перечислены в Навигаторе и могут быть доступны прямо оттуда одним щелчком мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They also make major formatting changes easy.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T135452Z" creationid="olex" creationdate="20180306T201330Z">
@@ -33211,6 +33283,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T081319Z" creationid="tagezi" creationdate="20180313T135621Z">
         <seg>Введите имя, описывающее назначение нового модуля, например &lt;f0&gt;Recorded&lt;/f0&gt;, и нажмите &lt;f1&gt;ОК&lt;/f1&gt; ОК для его создания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type a name for this new bookmark in the top box, and then click &lt;f1&gt;Insert&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T171554Z" creationid="olex" creationdate="20180828T171554Z">
+        <seg>Введите имя для новой закладки в верхнем поле, а затем нажмите &lt;f1&gt;Вставить&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36552,6 +36632,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T204706Z" creationid="olex" creationdate="20180310T204706Z">
         <seg>Шаблоны можно создавать двумя способами: сохранением документа как шаблона или с помощью мастера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can cross-reference to bookmarks and create hyperlinks to bookmarks, as described above.&lt;ts4/&gt; &lt;f5&gt;To create a bookmark:&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T171207Z" creationid="olex" creationdate="20180828T171207Z">
+        <seg>Вы можете ссылаться на закладки и создавать гиперссылки на закладки, как описано выше. &lt;ts4/&gt;&lt;f5&gt;Чтобы создать закладку:&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
