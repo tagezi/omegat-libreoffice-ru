@@ -4229,6 +4229,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A librarian might call up information about books.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T175517Z" creationid="olex" creationdate="20180828T175517Z">
+        <seg>Так библиотекарь может вызвать информацию о книгах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A library is usually used as a major grouping for either an entire category of macros, or for an entire application.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T085656Z" creationid="tagezi" creationdate="20180320T085656Z">
@@ -6454,8 +6462,8 @@
       <tuv lang="EN-US">
         <seg>By contra&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt;st, &lt;/f15&gt;&lt;te16/&gt;&lt;tc17/&gt;&lt;ts18/&gt;&lt;f19&gt;a&lt;/f19&gt;&lt;te20/&gt;&lt;tc21/&gt; form has sections that are not to be edited, and other sections that are designed for the reader to &lt;ts22/&gt;&lt;f23&gt;fill in information&lt;/f23&gt;&lt;te24/&gt;&lt;tc25/&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180828T174805Z" creationid="olex" creationdate="20180828T174805Z">
-        <seg>Напротив,&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt; &lt;/f15&gt;&lt;te16/&gt;&lt;tc17/&gt;&lt;ts18/&gt;&lt;f19&gt;&lt;/f19&gt;&lt;te20/&gt;&lt;tc21/&gt;в форме есть части, которые не подлежат редактированию, и другие части, которые предназначены для считывания  &lt;ts22/&gt;&lt;f23&gt;информации&lt;/f23&gt;&lt;te24/&gt;&lt;tc25/&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T174841Z" creationid="olex" creationdate="20180828T174805Z">
+        <seg>Напротив,&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt; &lt;/f15&gt;&lt;te16/&gt;&lt;tc17/&gt;&lt;ts18/&gt;&lt;f19&gt;&lt;/f19&gt;&lt;te20/&gt;&lt;tc21/&gt;в форме есть части, которые не подлежат редактированию, и другие части, которые предназначены для заполнения  &lt;ts22/&gt;&lt;f23&gt;информацией&lt;/f23&gt;&lt;te24/&gt;&lt;tc25/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13171,6 +13179,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, a questionnaire has an introduction and questions (which do not change) and spaces for the reader to enter answers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T175011Z" creationid="olex" creationdate="20180828T174830Z">
+        <seg>Например, в анкете есть введение и вопросы (которые не меняются) и поля для введение ответов анкетируемым.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, after saving a new document, the list of recent files is updated.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T174052Z" creationid="tagezi" creationdate="20180319T174052Z">
@@ -14295,6 +14311,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T110402Z" creationid="olex" creationdate="20180721T110402Z">
         <seg>Форматирование текста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forms are used in three ways:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T175039Z" creationid="olex" creationdate="20180828T175039Z">
+        <seg>Формы используются в трех случаях:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26888,6 +26912,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Someone taking orders might enter the information for each order into a database using a form.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T175439Z" creationid="olex" creationdate="20180828T175439Z">
+        <seg>Кто-то, принимающий заказы, может вводить информацию для каждого заказа в базу данных с использованием формы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sometimes a change here can have unexpected results, depending on the screen fonts available on your system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180625T175805Z" creationid="olex" creationdate="20180625T175805Z">
@@ -31368,6 +31400,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To &lt;ts0/&gt;enter information &lt;f1&gt;directly into &lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;tc4/&gt;&lt;tc5/&gt;&lt;tc6/&gt;a database or data source&lt;tc7/&gt;&lt;tc8/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T175357Z" creationid="olex" creationdate="20180828T175357Z">
+        <seg>Для &lt;ts0/&gt;ввода информации &lt;f1&gt;непосредственно в &lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;tc4/&gt;&lt;tc5/&gt;&lt;tc6/&gt;базу данных или источник данных&lt;tc7/&gt;&lt;tc8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To Previous Editions</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090552Z" creationid="tagezi" creationdate="20180305T090552Z">
@@ -31926,6 +31966,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T195154Z" creationid="olex" creationdate="20180309T195154Z">
         <seg>Чтобы создать новый стиль с помощью диалогового окна Стиль&lt;i0/&gt;, щелкните правой кнопкой мыши в окне Стили и выберите &lt;f1&gt;Создать&lt;/f1&gt; во всплывающем меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To create a simple document for the recipient to complete, such as a questionnaire sent out to a group of people who fill it in and return it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T175205Z" creationid="olex" creationdate="20180828T175205Z">
+        <seg>Чтобы создать простой документ для заполнения получателем, например опросный лист, отправленный группе людей, которые его заполняют и возвращают.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33289,6 +33337,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T065946Z" creationid="tagezi" creationdate="20180315T065946Z">
         <seg>Для просмотра и/или редактирования макроса, который вы создали:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To view information held in a database or data source.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T175453Z" creationid="olex" creationdate="20180828T175453Z">
+        <seg>Просмотр информации, хранящейся в базе данных или источнике данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36125,6 +36181,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T155113Z" creationid="olex" creationdate="20180721T155113Z">
         <seg>Writer, это модуль текстового процессора в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writer offers several ways to &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;organize&lt;/f2&gt;&lt;te3/&gt; information &lt;ts4/&gt;&lt;f5&gt;fields &lt;/f5&gt;&lt;te6/&gt;in&lt;tc7/&gt; a form, including check boxes, option buttons, text boxes, pull-down lists, and spinners.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T180014Z" creationid="olex" creationdate="20180828T180014Z">
+        <seg>Writer предлагает несколько способов &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;организации&lt;/f2&gt;&lt;te3/&gt; информационных  &lt;ts4/&gt;&lt;f5&gt;полей &lt;/f5&gt;&lt;te6/&gt;в&lt;tc7/&gt; форме, включая флажки, кнопки опций, текстовые поля, выпадающие списки и прядильщики.</seg>
       </tuv>
     </tu>
     <tu>
