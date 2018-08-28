@@ -7845,6 +7845,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f20&gt;Insert&lt;/f20&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T170716Z" creationid="olex" creationdate="20180828T170716Z">
+        <seg>Нажмите &lt;f20&gt;Вставить&lt;/f20&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f2&gt;Use [xxx] Format&lt;/f2&gt; to continue saving in your selected spreadsheet format or click &lt;f3&gt;Use ODF Format&lt;/f3&gt; to save the spreadsheet in Calc ODS format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T190047Z" creationid="olex" creationdate="20180402T190047Z">
@@ -23771,6 +23779,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>References tab</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T170807Z" creationid="olex" creationdate="20180828T170807Z">
+        <seg>Вкладка Перекрестные ссылки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reformat the text with tabs between columns so that it can be converted into a table using &lt;f0&gt;Table &gt; Convert &gt; Text to Table&lt;/f0&gt; on the main menu bar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T194846Z" creationid="tagezi" creationdate="20180318T194846Z">
@@ -29282,6 +29298,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T175944Z" creationid="tagezi" creationdate="20180320T175944Z">
         <seg>Наиболее распространенным является добавление элемента управления, например кнопки, в документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most commonly used options are &lt;f14&gt;Reference&lt;/f14&gt; (to insert the full text of a heading or caption), &lt;f15&gt;Category and Number&lt;/f15&gt; (to insert a figure number preceded by the word &lt;f16&gt;Figure&lt;/f16&gt; or &lt;f17&gt;Table&lt;/f17&gt;, but without the caption text), &lt;f18&gt;Numbering&lt;/f18&gt; (to insert only the figure or table number, without the word “Figure” or “Table”), or &lt;f19&gt;Page&lt;/f19&gt; (to insert the number of the page the referenced text is on).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180828T170654Z" creationid="olex" creationdate="20180828T170654Z">
+        <seg>Наиболее часто используемыми параметрами являются &lt;f14&gt;Ссылка&lt;/f14&gt; (для вставки полного текста заголовка или подписи под рисунком), &lt;f15&gt;Категория и Номер&lt;/f15&gt; (для вставки числа, которому предшествует слово &lt;f16&gt;Рисунок&lt;/f16&gt; или &lt;f17&gt;Таблица&lt;/f17&gt;, но без текста подписи), &lt;f18&gt;Нумерация&lt;/f18&gt; (для вставки только номера рисунка или таблицы, без слова «Рисунок» или «Таблица»), или &lt;f19&gt;Страница&lt;/f19&gt; (чтобы вставить номер страницы, на которую ссылается текст).</seg>
       </tuv>
     </tu>
     <tu>
