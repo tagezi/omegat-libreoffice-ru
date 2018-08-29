@@ -1249,6 +1249,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;For more information on formula syntax, see&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; the&lt;/f2&gt;&lt;te3/&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;C&lt;/f6&gt;&lt;/f5&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;f9&gt;alc&lt;/f9&gt;&lt;/f8&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;&lt;f13&gt; Guide C&lt;/f13&gt;&lt;/f12&gt;&lt;te14/&gt;&lt;f15&gt;&lt;f16&gt;hapter 7&lt;/f16&gt;&lt;/f15&gt;&lt;tc17/&gt;&lt;f18&gt;&lt;f19&gt; Formulas and Functions&lt;/f19&gt;&lt;/f18&gt;&lt;tc20/&gt;&lt;tc21/&gt;&lt;tc22/&gt;&lt;f23&gt;.&lt;/f23&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T185348Z" creationid="olex" creationdate="20180829T185348Z">
+        <seg>&lt;f0&gt;Дополнительные сведения о синтаксисе формул смотрите&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; в &lt;/f2&gt;&lt;te3/&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;f9&gt;Руководстве по Calc&lt;/f9&gt;&lt;/f8&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;te14/&gt;&lt;f15&gt;&lt;f16&gt;Глава 7&lt;/f16&gt;&lt;/f15&gt;&lt;tc17/&gt;&lt;f18&gt;&lt;f19&gt; Формулы и функции&lt;/f19&gt;&lt;/f18&gt;&lt;tc20/&gt;&lt;tc21/&gt;&lt;tc22/&gt;&lt;f23&gt;.&lt;/f23&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;For more information, refer to the &lt;/f0&gt;&lt;f1&gt;LibreOffice Writer &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;G&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;uide, Chapter &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;13&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;: Tables &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;of Data&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T183004Z" creationid="olex" creationdate="20180718T182921Z">
@@ -3016,6 +3024,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180820T175542Z" creationid="olex" creationdate="20180820T175542Z">
         <seg>&lt;f27&gt;В диалоговом окне Печать также есть варианты размещения комментариев в конце страницы, в конце документа или печать только комментариев&lt;/f27&gt;&lt;te28/&gt;&lt;tc29/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f2&gt;Alt&lt;/f2&gt;hough the programming language&lt;f3&gt;s&lt;/f3&gt; &lt;f4&gt;are&lt;/f4&gt; the same, the objects and methods are different &lt;f5&gt;and therefore not entirely compatible.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T185603Z" creationid="olex" creationdate="20180829T185603Z">
+        <seg>&lt;f2&gt;&lt;/f2&gt;Хотя язык программирования&lt;f3&gt;&lt;/f3&gt; &lt;f4&gt;&lt;/f4&gt; один и тот же, но объекты и методы различны  &lt;f5&gt;и поэтому они не полностью совместимы.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15877,6 +15893,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, if you are familiar with Excel you may wish to change the default syntax in Calc by going to &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Tools &gt; Options &gt; &lt;/f17&gt;&lt;/f16&gt;&lt;ts18/&gt;&lt;f19&gt;&lt;f20&gt;LibreOffice Calc &gt; &lt;/f20&gt;&lt;/f19&gt;&lt;te21/&gt;&lt;f22&gt;&lt;f23&gt;Formula &gt; Formula Syntax&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt; and choosing &lt;/f24&gt;&lt;f25&gt;&lt;f26&gt;Excel R1&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt; from the drop&lt;/f27&gt;&lt;ts28/&gt;&lt;f29&gt;-&lt;/f29&gt;&lt;te30/&gt;&lt;tc31/&gt;&lt;f32&gt;down menu provided.&lt;/f32&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T185151Z" creationid="olex" creationdate="20180829T184803Z">
+        <seg>Однако, если вы знакомы с Excel, вы можете изменить синтаксис по умолчанию в Calc, пройдя в меню &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Сервис &gt; Параметры &gt; &lt;/f17&gt;&lt;/f16&gt;&lt;ts18/&gt;&lt;f19&gt;&lt;f20&gt;LibreOffice Calc &gt; &lt;/f20&gt;&lt;/f19&gt;&lt;te21/&gt;&lt;f22&gt;&lt;f23&gt;Формула &gt; Синтаксис формулы&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt; и выбрав&lt;/f24&gt;&lt;f25&gt;&lt;f26&gt;Excel R1C1&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt; из раскрывающегося меню&lt;/f27&gt;&lt;ts28/&gt;&lt;f29&gt;&lt;/f29&gt;&lt;te30/&gt;&lt;tc31/&gt;&lt;f32&gt;.&lt;/f32&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, if you want to evaluate numeric values using formulas, then refer to the Calc Guide for more information; Math does not carry out any actual calculation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T204600Z" creationid="User" creationdate="20180307T204600Z">
@@ -19649,6 +19673,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice &lt;f0&gt;can&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;however &lt;/f2&gt;&lt;f3&gt;run&lt;/f3&gt; &lt;f4&gt;some&lt;/f4&gt; Excel Visual Basic Scripts if &lt;f5&gt;you&lt;/f5&gt; enable this feature at &lt;f6&gt;&lt;f7&gt;Tools &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; Options &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Load/Save &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;VBA Properties&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;.&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T190010Z" creationid="olex" creationdate="20180829T190010Z">
+        <seg>Однако LibreOffice &lt;f0&gt;может&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;запускать&lt;/f3&gt; &lt;f4&gt;некоторые&lt;/f4&gt; скрипты Excel Visual Basic, если &lt;f5&gt;вы&lt;/f5&gt; включите эту возможность в &lt;f6&gt;&lt;f7&gt;Сервис &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; Параметры &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Загрузка/сохранение &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;&gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;Свойства VBA&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;.&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice &gt; Preferences</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T072446Z" creationid="tagezi" creationdate="20180305T072446Z">
@@ -20213,8 +20245,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>LibreOffice will translate seamlessly between the two.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180828T183048Z" creationid="olex" creationdate="20180828T183048Z">
-        <seg>В LibreOffice легко переходить из одного синтаксиса в другой.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T184825Z" creationid="olex" creationdate="20180828T183048Z">
+        <seg>LibreOffice легко переводит файлы из одного синтаксиса в другой.</seg>
       </tuv>
     </tu>
     <tu>
