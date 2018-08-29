@@ -977,6 +977,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Data&lt;/f0&gt; – contains commands for manipulating data in the spreadsheet; for example, &lt;f1&gt;Define Database Range&lt;/f1&gt;, &lt;f2&gt;Sort&lt;/f2&gt;, &lt;f3&gt;Filters, &lt;/f3&gt;&lt;f4&gt;Statistics, Pivot Tables, Consolidate, &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Forms, Groups and Outlines.&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T194635Z" creationid="olex" creationdate="20180829T194635Z">
+        <seg>&lt;f0&gt;Данные&lt;/f0&gt; – содержит команды для управления данными в электронной таблице; например, &lt;f1&gt;Задать диапазон...&lt;/f1&gt;, &lt;f2&gt;Сортировка...&lt;/f2&gt;, &lt;f3&gt;Еще фильтры, &lt;/f3&gt;&lt;f4&gt;Статистика, Сводная таблица, Объединить, &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Форма..., Группа и структура.&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Data&lt;/f0&gt; – contains commands for manipulating data in the spreadsheet; for example, &lt;f1&gt;Define Database Range&lt;/f1&gt;, &lt;f2&gt;Sort&lt;/f2&gt;, Filters, &lt;f3&gt;Statistics, Pivot Tables, Consolidate, Forms, Groups and Outlines.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T184233Z" creationid="olex" creationdate="20180328T184233Z">
