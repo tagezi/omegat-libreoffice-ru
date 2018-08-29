@@ -1569,6 +1569,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Insert&lt;/f0&gt; – contains commands for inserting elements into a spreadsheet; for example, &lt;f1&gt;Pictures, &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Media, Objects, Formula Design, &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Frames, Special Characters, Charts, Functions, &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Shapes, Pivot Tables, Named Ranges, Comments, Hyperlinks, Headers and Footers, Form Controls.&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T192721Z" creationid="olex" creationdate="20180829T192721Z">
+        <seg>&lt;f0&gt;Вставка&lt;/f0&gt; – содержит команды для вставки элементов в электронную таблицу; например, &lt;f1&gt;Изображение..., &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Медиа, Объект, Функция..., &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Фрейм..., Специальные символы, Диаграмма, &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Фигуры, Сводная таблица..., Именованный диапазон или выражение..., Комментарий, Гиперссылка..., Колонтитулы..., Элементы управления.&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Insert&lt;/f0&gt; – contains commands for inserting elements into a spreadsheet; for example, &lt;f1&gt;Pictures, Media, Objects, Formula Design, Frames, Special Characters, Charts, Functions, Shapes, Pivot Tables, Named Ranges, Comments, Hyperlinks, Headers and Footers, Form Controls.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T181845Z" creationid="olex" creationdate="20180328T181845Z">
@@ -2678,6 +2686,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T193424Z" creationid="olex" creationdate="20180614T193424Z">
         <seg>&lt;f0&gt;Вид&lt;/f0&gt; – содержит команды для управления отображением документа, такие как Масштаб и Веб-страница.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;View&lt;/f0&gt; – contains commands for modifying how the Calc user interface looks; for example, &lt;f1&gt;Toolbars, &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Grids, &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Column &amp; Row Headers, Full Screen, Zoom.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T192016Z" creationid="olex" creationdate="20180829T192016Z">
+        <seg>&lt;f0&gt;Вид&lt;/f0&gt; – содержит команды для изменения пользовательского интерфейса Calc; например, &lt;f1&gt;Панели инструментов, &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Сетка и вспомагательные линии, &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Заголовки столбцов/строк, Во весь экран, Масштаб.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
