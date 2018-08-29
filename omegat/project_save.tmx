@@ -1137,6 +1137,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Edit&lt;/f0&gt; – contains commands for editing the document; for example, &lt;f1&gt;Undo, Copy, &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Paste&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, Track &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Changes, &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Find and Replace, Compare and Merge Documents.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T191454Z" creationid="olex" creationdate="20180829T191454Z">
+        <seg>&lt;f0&gt;Правка&lt;/f0&gt; – содержит команды для редактирования документа; например, &lt;f1&gt;Отменить, Копировать, &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Вставить&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, Отслеживать &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;изменения, &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Найти и заменить..., Сравнить документ... и Объединить исправления...&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Edit&lt;/f0&gt; – contains commands for editing the document; for example, &lt;f1&gt;Undo, Copy, Paste, Track Changes, Find and Replace, Compare and Merge Documents&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T180425Z" creationid="olex" creationdate="20180328T180425Z">
@@ -1241,6 +1249,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;File&lt;/f0&gt; – contains commands that apply to the entire document; for example, &lt;f1&gt;Open&lt;/f1&gt;, &lt;f2&gt;Save&lt;/f2&gt;, &lt;f3&gt;Wizards&lt;/f3&gt;, &lt;f4&gt;Export as PDF&lt;/f4&gt;, &lt;f5&gt;Print&lt;/f5&gt;, &lt;f6&gt;Digital Signatures&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;and &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;Templates.&lt;/f12&gt;&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T191104Z" creationid="olex" creationdate="20180829T191104Z">
+        <seg>&lt;f0&gt;Файл&lt;/f0&gt; – содержит команды, которые применяются ко всему документу; например, &lt;f1&gt;Открыть...&lt;/f1&gt;, &lt;f2&gt;Сохранить&lt;/f2&gt;, &lt;f3&gt;Мастер&lt;/f3&gt;, &lt;f4&gt;Экспорт в PDF...&lt;/f4&gt;, &lt;f5&gt;Печать...&lt;/f5&gt;, &lt;f6&gt;Цифровые подписи&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;, &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;и &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;Шаблоны.&lt;/f12&gt;&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Fixed width&lt;/f0&gt; – separates fixed-width data (equal number of characters) into columns.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T191642Z" creationid="olex" creationdate="20180330T191642Z">
@@ -1251,8 +1267,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;For more information on formula syntax, see&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; the&lt;/f2&gt;&lt;te3/&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;C&lt;/f6&gt;&lt;/f5&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;f9&gt;alc&lt;/f9&gt;&lt;/f8&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;&lt;f13&gt; Guide C&lt;/f13&gt;&lt;/f12&gt;&lt;te14/&gt;&lt;f15&gt;&lt;f16&gt;hapter 7&lt;/f16&gt;&lt;/f15&gt;&lt;tc17/&gt;&lt;f18&gt;&lt;f19&gt; Formulas and Functions&lt;/f19&gt;&lt;/f18&gt;&lt;tc20/&gt;&lt;tc21/&gt;&lt;tc22/&gt;&lt;f23&gt;.&lt;/f23&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180829T185348Z" creationid="olex" creationdate="20180829T185348Z">
-        <seg>&lt;f0&gt;Дополнительные сведения о синтаксисе формул смотрите&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; в &lt;/f2&gt;&lt;te3/&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;f9&gt;Руководстве по Calc&lt;/f9&gt;&lt;/f8&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;te14/&gt;&lt;f15&gt;&lt;f16&gt;Глава 7&lt;/f16&gt;&lt;/f15&gt;&lt;tc17/&gt;&lt;f18&gt;&lt;f19&gt; Формулы и функции&lt;/f19&gt;&lt;/f18&gt;&lt;tc20/&gt;&lt;tc21/&gt;&lt;tc22/&gt;&lt;f23&gt;.&lt;/f23&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T190439Z" creationid="olex" creationdate="20180829T185348Z">
+        <seg>&lt;f0&gt;Дополнительные сведения о синтаксисе формул смотрите&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; в &lt;/f2&gt;&lt;te3/&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;f9&gt;Руководстве по Calc&lt;/f9&gt;&lt;/f8&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;te14/&gt;&lt;f15&gt;&lt;f16&gt;Главе 7&lt;/f16&gt;&lt;/f15&gt;&lt;tc17/&gt;&lt;f18&gt;&lt;f19&gt; Формулы и функции&lt;/f19&gt;&lt;/f18&gt;&lt;tc20/&gt;&lt;tc21/&gt;&lt;tc22/&gt;&lt;f23&gt;.&lt;/f23&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1261,6 +1277,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T183004Z" creationid="olex" creationdate="20180718T182921Z">
         <seg>&lt;f0&gt;Для получения дополнительной информации смотрите &lt;/f0&gt;&lt;f1&gt;Руководство по LibreOffice Writer &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;, Глава &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;13&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;: Таблицы &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;данных&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;For more information&lt;/f0&gt;&lt;f1&gt; on macros&lt;/f1&gt;&lt;f2&gt;, &lt;/f2&gt;&lt;f3&gt;refer to&lt;/f3&gt;&lt;ts4/&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;the&lt;/f6&gt;&lt;te7/&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;C&lt;/f9&gt;&lt;ts10/&gt;&lt;f11&gt;alc&lt;/f11&gt;&lt;te12/&gt;&lt;ts13/&gt;&lt;f14&gt; Guide C&lt;/f14&gt;&lt;te15/&gt;&lt;f16&gt;hapter 12 Calc Macros&lt;/f16&gt;&lt;tc17/&gt;&lt;tc18/&gt;&lt;tc19/&gt;&lt;f20&gt;.&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T190320Z" creationid="olex" creationdate="20180829T190045Z">
+        <seg>&lt;f0&gt;Для получения дополнительной информации&lt;/f0&gt;&lt;f1&gt; о макросах&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;обратитесь к&lt;/f3&gt;&lt;ts4/&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;te7/&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;ts10/&gt;&lt;f11&gt;Руководству по Calc&lt;/f11&gt;&lt;te12/&gt;&lt;ts13/&gt;&lt;f14&gt; &lt;/f14&gt;&lt;te15/&gt;&lt;f16&gt;Главе 12 Макросы Calc&lt;/f16&gt;&lt;tc17/&gt;&lt;tc18/&gt;&lt;tc19/&gt;&lt;f20&gt;.&lt;/f20&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6873,6 +6897,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180515T191349Z" creationid="olex" creationdate="20180329T174055Z">
         <seg>Панели инструментов Calc могут быть: прикрепленными (зафиксированными в определенном положении) или плавающими; вы можете переместить панель инструментов в более удобное место рабочей области.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calc works with &lt;f0&gt;documents&lt;/f0&gt; called &lt;i1/&gt;&lt;f2&gt;spreadsheets&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T190550Z" creationid="olex" creationdate="20180829T190550Z">
+        <seg>Calc работает с &lt;f0&gt;документами&lt;/f0&gt; , называемыми &lt;i1/&gt;&lt;f2&gt;электронные таблицы&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27276,6 +27308,15 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T173425Z" creationid="olex" creationdate="20180328T173425Z">
         <seg>Таблицы состоят из нескольких отдельных &lt;i2/&gt;&lt;f3&gt;листов&lt;/f3&gt;, каждый лист содержит ячейки, выстроенные в строки и столбцы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>добавил немного отсебятины: из одного или</note>
+      <tuv lang="EN-US">
+        <seg>Spreadsheets consist of a number of individual &lt;i3/&gt;&lt;f4&gt;sheets&lt;/f4&gt;, each sheet containing cells arranged in rows and columns.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T190712Z" creationid="olex" creationdate="20180829T190712Z">
+        <seg>Таблицы состоят из одного или нескольких отдельных &lt;i3/&gt;&lt;f4&gt;листов&lt;/f4&gt;, каждый лист содержит ячейки, расположенные в строках и столбцах.</seg>
       </tuv>
     </tu>
     <tu>
