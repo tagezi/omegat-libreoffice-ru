@@ -1433,6 +1433,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Help&lt;/f0&gt; – contains links to the LibreOffice help system and other miscellaneous functions; for example, &lt;f1&gt;Help&lt;/f1&gt;, &lt;f2&gt;License Information&lt;/f2&gt;, &lt;f3&gt;&lt;f4&gt;User Guides&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;Check for Updates, &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Send Feedback&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;, and&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt; Donate&lt;/f11&gt;&lt;/f10&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T200234Z" creationid="olex" creationdate="20180829T200234Z">
+        <seg>&lt;f0&gt;Справка&lt;/f0&gt; – содержит ссылки на справочную систему LibreOffice и другие функции; например, &lt;f1&gt;Справка по LibreOffice&lt;/f1&gt;, &lt;f2&gt;Лицензия...&lt;/f2&gt;, &lt;f3&gt;&lt;f4&gt;Руководства пользователя...&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Отправить отзыв&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; и&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt; Поддержать LibreOffice&lt;/f11&gt;&lt;/f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Help&lt;/f0&gt; – contains links to the LibreOffice help system and other miscellaneous functions; for example, &lt;f1&gt;Help&lt;/f1&gt;, &lt;f2&gt;License Information&lt;/f2&gt;, User Guides, &lt;f3&gt;Check for Updates, Send Feedback and Donate&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T185805Z" creationid="olex" creationdate="20180328T185805Z">
@@ -2804,6 +2812,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Window&lt;/f0&gt; – contains commands &lt;f1&gt;to open a&lt;/f1&gt; &lt;f2&gt;&lt;f3&gt;New&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; window or &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Close&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; a&lt;/f7&gt;&lt;ts8/&gt;&lt;f9&gt;n&lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt;&lt;f12&gt; &lt;/f12&gt;&lt;ts13/&gt;&lt;f14&gt;open &lt;/f14&gt;&lt;te15/&gt;window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T195723Z" creationid="olex" creationdate="20180829T195723Z">
+        <seg>&lt;f0&gt;Окно&lt;/f0&gt; – содержит команды &lt;f1&gt;для открытия &lt;/f1&gt; &lt;f2&gt;&lt;f3&gt;Нового&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; окна или &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Закрытия&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;ts8/&gt;&lt;f9&gt;&lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt;&lt;f12&gt;&lt;/f12&gt;&lt;ts13/&gt;&lt;f14&gt;текущего открытого &lt;/f14&gt;&lt;te15/&gt;окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Window&lt;/f0&gt; – contains commands for the display window.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T194050Z" creationid="olex" creationdate="20180614T194050Z">
@@ -3089,6 +3105,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T185607Z" creationid="olex" creationdate="20180607T185607Z">
         <seg>&lt;f1&gt;Смотрите&lt;/f1&gt; лицензии: &lt;a2&gt;https://www.libreoffice.org/about-us/licenses/&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f1&gt;When hovering the toolbar with the mouse, a tool tip shows the action performed by each icon in the toolbar.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T200350Z" creationid="olex" creationdate="20180829T200350Z">
+        <seg>&lt;f1&gt;Если навести указатель мыши на панель инструментов, то подсказка покажет действие, выполняемое каждым значком панели инструментов.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
