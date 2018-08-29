@@ -17255,6 +17255,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have selected a range of cells that is also a named range, the &lt;t1/&gt;name of the range is shown in this box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T200436Z" creationid="olex" creationdate="20180829T200436Z">
+        <seg>Если вы выбрали диапазон ячеек, который также является именованным диапазоном, то в этом поле отображается &lt;t1/&gt;имя диапазона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have selected a range of cells that is also a named range, the name of the range is shown in this box.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T180923Z" creationid="olex" creationdate="20180329T180923Z">
@@ -17411,6 +17419,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T181806Z" creationid="olex" creationdate="20180329T181415Z">
         <seg>Если вы наберете имя именованного диапазона и нажмёте клавишу &lt;f1&gt;Enter&lt;/f1&gt;, то будет выбран и отображен данный именованный диапазон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you type the name of a named range and press the &lt;f2&gt;Enter&lt;/f2&gt; key, the named range is selected and displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T200618Z" creationid="olex" creationdate="20180829T200618Z">
+        <seg>Если вы наберете имя именованного диапазона и нажмите клавишу &lt;f2&gt;Enter&lt;/f2&gt;, то диапазон будет выбран и отображен.</seg>
       </tuv>
     </tu>
     <tu>
