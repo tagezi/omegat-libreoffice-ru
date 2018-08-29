@@ -1289,6 +1289,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Format&lt;/f0&gt; – c&lt;f1&gt;o&lt;/f1&gt;ntains commands for modifying the layout of a spreadsheet; for example, &lt;f2&gt;Cells&lt;/f2&gt;, &lt;f3&gt;Page&lt;/f3&gt;, &lt;f4&gt;Styles&lt;/f4&gt;, &lt;f5&gt;Alignment, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Merge Cells, Print Range, Conditional Formatting, Spreadsheet Themes, Image, Chart, Object.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T193304Z" creationid="olex" creationdate="20180829T193304Z">
+        <seg>&lt;f0&gt;Формат&lt;/f0&gt; – &lt;f1&gt;&lt;/f1&gt;содержит команды для изменения макета таблицы; например, &lt;f2&gt;Ячейки...&lt;/f2&gt;, &lt;f3&gt;Страница...&lt;/f3&gt;, &lt;f4&gt;Стили автоформата...&lt;/f4&gt;, &lt;f5&gt;Выравнивание, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Объединить ячейки, Диапазоны печати, Условное форматирование, Выбор тем, Изображение, Диаграмма, Объект.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Format&lt;/f0&gt; – contains commands for formatting the layout of your document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T193622Z" creationid="olex" creationdate="20180614T193622Z">
@@ -2181,6 +2189,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T183829Z" creationid="olex" creationdate="20180328T183829Z">
         <seg>&lt;f0&gt;Лист&lt;/f0&gt; - &lt;s1/&gt;содержит наиболее часто используемые команды для работы с листами, такие как &lt;f2&gt;Вставить&lt;/f2&gt; и &lt;f3&gt;Удалить ячейки, столбцы, строки и листы, вставить листы из файла, Сменить тип ссылок, Связь с внешними данными,&lt;/f3&gt; а также &lt;f4&gt;Комментарии к ячейке&lt;/f4&gt; и &lt;f5&gt;Заполнить.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Sheet&lt;/f0&gt;&lt;f1&gt; – contains the most often used commands for handling sheets, such as &lt;/f1&gt;&lt;f2&gt;Insert&lt;/f2&gt; and &lt;f3&gt;Delete Cells, Columns, Rows and Sheets, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Sheets from File, Cell Reference Type, Link to External Data, &lt;/f5&gt;&lt;/f4&gt;as well as&lt;f6&gt; Comments &lt;/f6&gt;and&lt;f7&gt; Fill cells.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180829T194146Z" creationid="olex" creationdate="20180829T194146Z">
+        <seg>&lt;f0&gt;Лист&lt;/f0&gt;&lt;f1&gt; – содержит наиболее часто используемые команды для обработки листов, такие как &lt;/f1&gt;&lt;f2&gt;Вставить&lt;/f2&gt; и &lt;f3&gt;Удалить ячейки, столбцы, строки и листы, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Вставить лист из файла..., Сменить тип ссылок, Связь с внешними данными..., &lt;/f5&gt;&lt;/f4&gt;а так же&lt;f6&gt; Комментарий к ячейке &lt;/f6&gt;и&lt;f7&gt; Заполнить.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
