@@ -1865,6 +1865,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Other &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;O&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ptions&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T072924Z" creationid="olex" creationdate="20180901T072924Z">
+        <seg>&lt;f0&gt;Другие &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Параметры&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Other f&lt;/f0&gt;ree online support</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T185008Z" creationid="olex" creationdate="20180606T185008Z">
@@ -6922,6 +6930,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T201944Z" creationid="olex" creationdate="20180607T201944Z">
         <seg>Calc также может экспортировать электронные таблицы в различные форматы, включая, например, Comma Separated Value (CSV), Adobe PDF и HTML форматы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calc can also save spreadsheets in a range of formats and also export spreadsheets to PDF, HTML, &lt;f1&gt;XHTML file formats and&lt;/f1&gt; &lt;f2&gt;JPEG and PNG images formats&lt;/f2&gt;; see the &lt;f3&gt;Calc Guide Chapter 6 Printing, Exporting, and E-mailing&lt;/f3&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T073444Z" creationid="olex" creationdate="20180901T073210Z">
+        <seg>Calc также может сохранять электронные таблицы в различных форматах и экспортировать электронные таблицы в форматы файлов PDF, HTML, &lt;f1&gt;XHTML&lt;/f1&gt;, в форматы изображений &lt;f2&gt;JPEG и PNG&lt;/f2&gt;; смотрите &lt;f3&gt;Главу 6 Руководства по Calc Печать, экспорт и отправка по электронной почте&lt;/f3&gt; для получения подробной информации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18748,6 +18764,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T170214Z" creationid="olex" creationdate="20180804T163427Z">
         <seg>&lt;te0/&gt;&lt;ts1/&gt;Вставка короткого и длинного тире</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In&lt;ts0/&gt; &lt;f1&gt;the&lt;/f1&gt;&lt;te2/&gt; &lt;f3&gt;File type&lt;/f3&gt; drop-down menu, select the type of spreadsheet format you want to use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T073810Z" creationid="olex" creationdate="20180901T073810Z">
+        <seg>В&lt;ts0/&gt;&lt;f1&gt;&lt;/f1&gt;&lt;te2/&gt;раскрывающемся меню &lt;f3&gt;Все форматы&lt;/f3&gt; выберите тип формата электронной таблицы, который вы хотите использовать.</seg>
       </tuv>
     </tu>
     <tu>
