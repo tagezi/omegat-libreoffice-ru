@@ -175,6 +175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f11&gt;To hide a sheet or &lt;f12&gt;many &lt;/f12&gt;sheets, &lt;f13&gt;select the sheet or sheets as above&lt;/f13&gt;&lt;ts14/&gt;&lt;f15&gt;,&lt;/f15&gt;&lt;te16/&gt;&lt;tc17/&gt;&lt;f18&gt; right-click&lt;/f18&gt;&lt;tc19/&gt;&lt;f20&gt; to open the context menu&lt;/f20&gt;&lt;ts21/&gt;&lt;f22&gt;,&lt;/f22&gt;&lt;te23/&gt;&lt;f24&gt; and select &lt;/f24&gt;&lt;f25&gt;&lt;f26&gt;Hide Sheet&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T084401Z" creationid="olex" creationdate="20180901T084401Z">
+        <seg>&lt;/f11&gt;Чтобы скрыть лист или &lt;f12&gt;несколько &lt;/f12&gt;листов, &lt;f13&gt;выберите лист или листы, как указано выше&lt;/f13&gt;&lt;ts14/&gt;&lt;f15&gt;,&lt;/f15&gt;&lt;te16/&gt;&lt;tc17/&gt;&lt;f18&gt; щелкните правой кнопкой мыши&lt;/f18&gt;&lt;tc19/&gt;&lt;f20&gt;, чтобы открыть контекстное меню&lt;/f20&gt;&lt;ts21/&gt;&lt;f22&gt;&lt;/f22&gt;&lt;te23/&gt;&lt;f24&gt; и выберите &lt;/f24&gt;&lt;f25&gt;&lt;f26&gt;Скрыть лист&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f13&gt;&lt;te14/&gt;See &lt;tc15/&gt;&lt;tc16/&gt;the &lt;f17&gt;Writer Guide&lt;/f17&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T095655Z" creationid="olex" creationdate="20180815T095655Z">
@@ -2305,6 +2313,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Sometimes you may want to hide the contents of a sheet to preserve data from accidental editi&lt;/f0&gt;&lt;tc1/&gt;&lt;f2&gt;n&lt;/f2&gt;&lt;ts3/&gt;&lt;f4&gt;g&lt;/f4&gt;&lt;te5/&gt;&lt;f6&gt; or because its contents &lt;/f6&gt;&lt;tc7/&gt;&lt;ts8/&gt;&lt;f9&gt;are&lt;/f9&gt;&lt;te10/&gt;&lt;f11&gt; not important to display.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T084130Z" creationid="olex" creationdate="20180901T084130Z">
+        <seg>&lt;f0&gt;Иногда вам может понадобиться скрывать содержимое листа для сохранения данных от случайного редактирования&lt;/f0&gt;&lt;tc1/&gt;&lt;f2&gt;&lt;/f2&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt;&lt;f6&gt; или потому, что его содержимое &lt;/f6&gt;&lt;tc7/&gt;&lt;ts8/&gt;&lt;f9&gt;&lt;/f9&gt;&lt;te10/&gt;&lt;f11&gt; не важно для отображения..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Standard &lt;/f0&gt;– Calc determines the type of data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T181415Z" creationid="olex" creationdate="20180330T194053Z">
@@ -4426,6 +4442,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T105914Z" creationid="tagezi" creationdate="20180310T105754Z">
         <seg>Диалоговое окно — это особый тип окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A dialog wi&lt;/f30&gt;&lt;ts31/&gt;&lt;f32&gt;ll&lt;/f32&gt;&lt;te33/&gt;&lt;tc34/&gt;&lt;f35&gt; appear with all hidden sheets listed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T084735Z" creationid="olex" creationdate="20180901T084735Z">
+        <seg>Появится диалоговое окно&lt;/f30&gt;&lt;ts31/&gt;&lt;f32&gt;&lt;/f32&gt;&lt;te33/&gt;&lt;tc34/&gt;&lt;f35&gt; со списком всех скрытых листов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8270,6 +8294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f2&gt;Yes&lt;/f2&gt; to confirm the deletion.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T085742Z" creationid="olex" creationdate="20180901T085742Z">
+        <seg>Нажмите &lt;f2&gt;Да&lt;/f2&gt;, чтобы подтвердить выбор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f2&gt;Yes&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T184238Z" creationid="olex" creationdate="20180315T184238Z">
@@ -8538,6 +8570,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T103234Z" creationid="olex" creationdate="20180815T103234Z">
         <seg>Нажмите вкладку &lt;f0&gt;Стили &lt;/f0&gt;&lt;tc1/&gt;на Боковой панели, чтобы открыть палитру Стили&lt;tc2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on the desired sheet and then click &lt;/f35&gt;&lt;f36&gt;&lt;f37&gt;OK&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;.&lt;/f38&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T084815Z" creationid="olex" creationdate="20180901T084815Z">
+        <seg>Выберите необходимый лист и нажмите &lt;/f35&gt;&lt;f36&gt;&lt;f37&gt;ОК&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;.&lt;/f38&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26303,6 +26343,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the columns or rows, see “&lt;bf0&gt;Multiple columns or rows&lt;/bf0&gt;” on page &lt;bf1&gt;20&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T085238Z" creationid="olex" creationdate="20180901T085238Z">
+        <seg>Выберите столбцы или строки, смотрите “&lt;bf0&gt;Несколько столбцов или строк&lt;/bf0&gt;” на странице &lt;bf1&gt;20&lt;/bf1&gt;&lt;s2/&gt;, чтобы получить больше информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the columns or rows, see “&lt;bf0&gt;Multiple columns or rows&lt;/bf0&gt;” on page &lt;bf1&gt;21&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T213939Z" creationid="olex" creationdate="20180407T213939Z">
@@ -32620,6 +32668,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To delete a single sheet, right-click on the sheet tab you want to delete and select &lt;f0&gt;Delete Sheet&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Sheet &gt; Delete Sheet...&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T085702Z" creationid="olex" creationdate="20180901T085702Z">
+        <seg>Чтобы удалить один лист, щелкните правой кнопкой мыши по вкладке листа, которую вы хотите удалить, и выберите в контекстном меню &lt;f0&gt;Удалить листы...&lt;/f0&gt;, или выберите в меню &lt;f1&gt;Лист &gt; Удалить листы...&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To delete any unwanted styles, in the Styles window select each one to be deleted (hold &lt;f0&gt;Ctrl&lt;/f0&gt; while selecting multiple styles), and then right-click on a selected style and select &lt;f1&gt;Delete&lt;/f1&gt; on the context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T200824Z" creationid="olex" creationdate="20180310T200824Z">
@@ -32632,6 +32688,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T213656Z" creationid="olex" creationdate="20180407T213656Z">
         <seg>Чтобы удалить несколько столбцов или строк:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To delete multiple sheets, select the sheets (see “&lt;bf0&gt;Selecting sheets&lt;/bf0&gt;” on page &lt;bf1&gt;21&lt;/bf1&gt;), then right-click one of the sheet tabs and select &lt;f2&gt;Delete Sheet&lt;/f2&gt; from the context menu, or go to &lt;f3&gt;Sheet &gt; Delete Sheet...&lt;/f3&gt; from on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T090118Z" creationid="olex" creationdate="20180901T090118Z">
+        <seg>Чтобы удалить несколько листов, выберите листы (смотрите “&lt;bf0&gt;Выбор листов&lt;/bf0&gt;” на странице &lt;bf1&gt;21&lt;/bf1&gt;), затем щелкните правой кнопкой мыши по одной из вкладок листов и выберите в контекстном меню&lt;f2&gt;Удалить листы...&lt;/f2&gt;, или выберите в меню &lt;f3&gt;Лист &gt; Удалить листы...&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33650,6 +33714,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T190434Z" creationid="olex" creationdate="20180405T190434Z">
         <seg>Чтобы отобразить скрытые листы, щелкните правой кнопкой мыши на любой вкладке листа и выберите Показать лист в контекстном меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To show hidden sheets, right-click any sheet tab and select &lt;/f27&gt;&lt;f28&gt;&lt;f29&gt;Show Sheet&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T084616Z" creationid="olex" creationdate="20180901T084616Z">
+        <seg>Чтобы отобразить скрытые листы, щелкните правой кнопкой мыши по вкладке любого листа и выберите  в контекстном меню &lt;/f27&gt;&lt;f28&gt;&lt;f29&gt;Показать листы...&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;.</seg>
       </tuv>
     </tu>
     <tu>
