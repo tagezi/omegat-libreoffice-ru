@@ -897,6 +897,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Export...&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T080748Z" creationid="olex" creationdate="20180901T080748Z">
+        <seg>&lt;f0&gt;Нажмите &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Экспорт...&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; again to close the AutoFormat dialog.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T185512Z" creationid="olex" creationdate="20180718T185512Z">
@@ -1745,6 +1753,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Mark the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Selection&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; checkbox in the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Export&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; dialog.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T080559Z" creationid="olex" creationdate="20180901T080559Z">
+        <seg>&lt;f0&gt;Установите птичку возле &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Выделение&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; ниже в диалоговом окне &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Экспорт&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Media &lt;/f0&gt;&lt;f1&gt;Playb&lt;/f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;f3&gt;ck&lt;/f3&gt;&lt;f4&gt;: Control for&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;p&lt;/f6&gt;&lt;f7&gt;lay, pause, stop, seek, loop, and &lt;/f7&gt;&lt;f8&gt;volume&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T175210Z" creationid="olex" creationdate="20180723T175210Z">
@@ -2165,6 +2181,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T080046Z" creationid="olex" creationdate="20180901T080046Z">
         <seg>&lt;f0&gt;Выберите &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Файл &gt; Экспорт...&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, чтобы открыть диалоговое окно Экспорт.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Select the graphics file format in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Type&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; list&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T080301Z" creationid="olex" creationdate="20180901T080301Z">
+        <seg>&lt;f0&gt;Выберите графический формат в списке &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Формат файла&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
