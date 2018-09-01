@@ -2177,6 +2177,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;See the next topic.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T082331Z" creationid="olex" creationdate="20180901T082331Z">
+        <seg>&lt;f0&gt;Смотрите следующий раздел.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File – Export...&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to open the Export dialog.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T080046Z" creationid="olex" creationdate="20180901T080046Z">
@@ -20956,6 +20964,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure to change back to &lt;f5&gt;Standard selection&lt;/f5&gt; or you may extend a cell selection unintentionally.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T082841Z" creationid="olex" creationdate="20180901T082841Z">
+        <seg>Не забудьте вернуть &lt;f5&gt;Обычное выделение&lt;/f5&gt;, иначе вы можете нечаянно расширить диапазон выбора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure to change back to &lt;f5&gt;Standard selection&lt;/f5&gt; or you may find yourself extending a cell selection unintentionally.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T203831Z" creationid="olex" creationdate="20180404T203831Z">
@@ -21646,6 +21662,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moves cell focus &lt;f0&gt;up one cell (unless changed by user).&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T082454Z" creationid="olex" creationdate="20180901T082454Z">
+        <seg>Перемещает фокус &lt;f0&gt;на одну ячейку вверх (если не изменено пользователем).&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moves cell focus down one cell</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T175218Z" creationid="olex" creationdate="20180403T174311Z">
@@ -21750,10 +21774,18 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moves cell focus to the cell on the next sheet to the left in sheet tabs &lt;f0&gt;where the focus was there before;&lt;/f0&gt; if the spreadsheet has more than on sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T082206Z" creationid="olex" creationdate="20180901T082050Z">
+        <seg>Перемещает фокус на ячейку следующего слева листа на панели вкладок листов &lt;f0&gt;от места, где фокус был перед этим;&lt;/f0&gt; если электронная таблица имеет более одного  листа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moves cell focus to the cell on the next sheet to the right in sheet tabs &lt;f0&gt;where the focus was there before; &lt;/f0&gt;if the spreadsheet has more than on&lt;f1&gt;e&lt;/f1&gt; sheet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180901T081934Z" creationid="olex" creationdate="20180901T081934Z">
-        <seg>Перемещает фокус на ячейку следующего справа листа на панели вкладок листов&lt;f0&gt;от места, где фокус был перед этим; &lt;/f0&gt;если электронная таблица имеет более &lt;f1&gt;одного&lt;/f1&gt;  листа.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T082058Z" creationid="olex" creationdate="20180901T081934Z">
+        <seg>Перемещает фокус на ячейку следующего справа листа на панели вкладок листов &lt;f0&gt;от места, где фокус был перед этим; &lt;/f0&gt;если электронная таблица имеет более &lt;f1&gt;одного&lt;/f1&gt;  листа.</seg>
       </tuv>
     </tu>
     <tu>
