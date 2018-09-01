@@ -21750,6 +21750,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moves cell focus to the cell on the next sheet to the right in sheet tabs &lt;f0&gt;where the focus was there before; &lt;/f0&gt;if the spreadsheet has more than on&lt;f1&gt;e&lt;/f1&gt; sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T081934Z" creationid="olex" creationdate="20180901T081934Z">
+        <seg>Перемещает фокус на ячейку следующего справа листа на панели вкладок листов&lt;f0&gt;от места, где фокус был перед этим; &lt;/f0&gt;если электронная таблица имеет более &lt;f1&gt;одного&lt;/f1&gt;  листа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moves cell focus to the cell on the next sheet to the right in sheet tabs where the focus was there before; if the spreadsheet has more than one sheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T181823Z" creationid="olex" creationdate="20180403T181448Z">
@@ -21802,6 +21810,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T174936Z" creationid="olex" creationdate="20180403T174818Z">
         <seg>Перемещает фокус на ближайший справа столбец в диапазоне заполненных ячеек &lt;t0/&gt;в этой строке, если была выделена ячейка, содержащая данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves cell focus to the last column on the right in the same range of occupied cells in that row if cell focus is on a cell containing data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T081323Z" creationid="olex" creationdate="20180901T081323Z">
+        <seg>Перемещает фокус в ближайший справа столбец в диапазоне заполненных ячеек в этой строке, если была выделена ячейка, содержащая данные.</seg>
       </tuv>
     </tu>
     <tu>
