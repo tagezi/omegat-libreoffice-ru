@@ -1185,6 +1185,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Enter a name for your image in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File name&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; box.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T080147Z" creationid="olex" creationdate="20180901T080147Z">
+        <seg>&lt;f0&gt;Введите имя для изображения в поле &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Имя файла&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Every page in Writer is based on a page style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T110811Z" creationid="olex" creationdate="20180815T110811Z">
@@ -2149,6 +2157,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T182539Z" creationid="olex" creationdate="20180617T182130Z">
         <seg>&lt;f0&gt;Сохранить&lt;/f0&gt;- команда используется, если вы сохраняете документ, с его текущем именем и в то же местоположение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File – Export...&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to open the Export dialog.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T080046Z" creationid="olex" creationdate="20180901T080046Z">
+        <seg>&lt;f0&gt;Выберите &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Файл &gt; Экспорт...&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, чтобы открыть диалоговое окно Экспорт.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11427,6 +11443,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exporting &lt;f0&gt;contents &lt;/f0&gt;as image</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T075229Z" creationid="olex" creationdate="20180901T075229Z">
+        <seg>Экспорт &lt;f0&gt;содержимого &lt;/f0&gt;в виде изображения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exporting a template</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195602Z" creationid="olex" creationdate="20180306T195602Z">
@@ -17556,6 +17580,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T193702Z" creationid="olex" creationdate="20180711T193702Z">
         <seg>Если вы хотите, чтобы макрос запускался автоматически при открытии документа HTML, то выберите &lt;f0&gt;Сервис &gt; Настройка... &gt; События&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to send a fragment of your spreadsheet to a colleague, business partner or publish it in the internet, Calc can export a range &lt;f0&gt;selection &lt;/f0&gt;or a selected group of shapes (images) to a PNG or JPG graphics format:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T075916Z" creationid="olex" creationdate="20180901T075916Z">
+        <seg>Если вы хотите отправить фрагмент своей таблицы коллеге, деловому партнеру или опубликовать его в Интернете, то Calc может экспортировать диапазон &lt;f0&gt;выбора&lt;/f0&gt; или выбранную группу фигур (изображений) в графическом формате PNG или JPG:</seg>
       </tuv>
     </tu>
     <tu>
