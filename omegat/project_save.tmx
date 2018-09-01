@@ -2299,8 +2299,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Sum&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;– clicking on the Sum icon totals the numbers in the cells above the selected cell and then places the total in the selected cell.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180329T182451Z" creationid="olex" creationdate="20180329T182451Z">
-        <seg>&lt;f0&gt;Сумма&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;- нажатие значка суммы складывает числа в ячейках выше выбранной, а затем помещает итог в выбранной ячейке.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T070130Z" creationid="olex" creationdate="20180329T182451Z">
+        <seg>&lt;f0&gt;Сумма&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;- нажатие значка суммы складывает числа из ячеек выше выбранной, а затем помещает итог в выбранной ячейке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3169,6 +3169,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T175334Z" creationid="olex" creationdate="20180809T175235Z">
         <seg>&lt;f4&gt;Это означает, что при применении нового стиля прямое форматирование не удалится и будет определять отображаемый формат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f5&gt;When the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Sum&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; icon is used, Calc suggest the range to sum with a colored box, but does not insert the formula.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T070214Z" creationid="olex" creationdate="20180901T070058Z">
+        <seg>&lt;f5&gt;Когда используется значок &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Сумма&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, Calc предлагает просуммировать обозначенный цветом диапазон, но не вставляет формулу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16760,8 +16768,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If there are no numbers above the selected cell, then the cells to the left are totaled.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180329T183016Z" creationid="olex" creationdate="20180329T183016Z">
-        <seg>Если выше выбранной ячейки нет чисел, то складываться будут числа из ячеек левее выбранной.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T070114Z" creationid="olex" creationdate="20180329T183016Z">
+        <seg>Если выше выбранной ячейки нет чисел, то складываться будут числа из ячеек слева от выбранной.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29509,6 +29517,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The icons &lt;/f14&gt;&lt;f15&gt;&lt;df16&gt;&lt;di17/&gt;&lt;/df16&gt;&lt;/f15&gt;&lt;f18&gt;&lt;s19/&gt;in the formula bar are equivalent to the &lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;Enter&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; and &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;Esc&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt; commands.&lt;/f25&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T070642Z" creationid="olex" creationdate="20180901T070642Z">
+        <seg>Значки &lt;/f14&gt;&lt;f15&gt;&lt;df16&gt;&lt;di17/&gt;&lt;/df16&gt;&lt;/f15&gt;&lt;f18&gt;&lt;s19/&gt;в строке формул эквивалентны нажатиям &lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;Enter&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; и &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;Esc&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;.&lt;/f25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The icons &lt;df8&gt;&lt;di9/&gt;&lt;/df8&gt;&lt;s10/&gt;in the formula bar are equivalent to the &lt;f11&gt;Enter&lt;/f11&gt; and &lt;f12&gt;Esc&lt;/f12&gt; commands.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180516T190458Z" creationid="olex" creationdate="20180329T184021Z">
@@ -38107,6 +38123,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T103047Z" creationid="asus" creationdate="20180813T103047Z">
         <seg>Вы должны использовать &lt;is0/&gt;&lt;i1/&gt;фигурные скобки&lt;ie2/&gt; (также известные, как изогнутые скобки) для указания порядка операций в формуле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to confirm the suggested range by typing &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Enter&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;, or reject pressing &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Esc&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T070407Z" creationid="olex" creationdate="20180901T070407Z">
+        <seg>Вам необходимо подтвердить предлагаемый диапазон, нажав &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Enter&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;, или отказаться, нажав &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Esc&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;.</seg>
       </tuv>
     </tu>
     <tu>
