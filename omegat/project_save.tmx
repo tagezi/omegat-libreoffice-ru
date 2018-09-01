@@ -3181,6 +3181,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f6&gt;The Name box now displays the most frequently used functions, for a quick access to the function name and syntax.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T070950Z" creationid="olex" creationdate="20180901T070950Z">
+        <seg>&lt;f6&gt;В Поле имени отображаются наиболее часто используемые функции, для быстрого доступа к имени функции и синтаксису.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f6&gt;This also hides headers, footers, and w&lt;/f6&gt;hite space &lt;f7&gt;in &lt;/f7&gt;Full Screen view.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T164759Z" creationid="olex" creationdate="20180727T164759Z">
@@ -19445,6 +19453,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T180218Z" creationid="olex" creationdate="20180329T193658Z">
         <seg>Это похоже на боковую панель Writer (которая описана в главе 1 и главе 4 этой книги) и состоит из пяти вкладок: &lt;i1/&gt;Свойства, Стили, Галерея,&lt;s2/&gt;Навигатор и Функции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is similar to the sidebar in Writer (shown in Chapter 1 and Chapter 4 of this book) and consists of five &lt;i1/&gt;decks: Properties, Styles, Gallery, Navigator, and Functions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T071542Z" creationid="olex" creationdate="20180901T071542Z">
+        <seg>Она похожа на боковую панель в Writer (показано в Главе 1 и Главе 4 этой книги) и состоит из пяти вкладок &lt;i1/&gt;: свойства, стили, галерея, навигатор и функции.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37065,6 +37081,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T175316Z" creationid="olex" creationdate="20180329T191654Z">
         <seg>Вы можете рассчитать среднее значение и сумму, количество ячеек и многое другое по выбору, щелкнув правой кнопкой мыши &lt;t0/&gt;по области информации про объект или ячейку в строке состояния и выбрав операции, которые вы хотите отобразить в строке состояния (Рисунок &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can calculate average and sum, count elements, and more on the selection by right-clicking over the cell information area of the status bar and selecting the operations you want to display in the status bar (Figure &lt;t0&gt;10&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T071403Z" creationid="olex" creationdate="20180901T071403Z">
+        <seg>Вы можете рассчитать среднее значение и сумму, количество элементов и многое другое по выбору, щелкнув правой кнопкой мыши по области Информация о ячейке в строке состояния и выбрав операции, которые вы хотите отображать в строке состояния (Рисунок &lt;t0&gt;10&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
