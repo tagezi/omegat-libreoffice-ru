@@ -231,6 +231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f2&gt;&lt;f3&gt;For example, &lt;/f3&gt;&lt;f4&gt;you cannot copy a non-contiguous range.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T083205Z" creationid="olex" creationdate="20180901T083205Z">
+        <seg>&lt;/f2&gt;&lt;f3&gt;Например, &lt;/f3&gt;&lt;f4&gt;вы не можете скопировать несмежный диапазон.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f3&gt;&lt;te4/&gt;From this point on, &lt;f5&gt;all changes you make to the document will occur only in the new document&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T175650Z" creationid="olex" creationdate="20180727T175650Z">
@@ -1845,6 +1853,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T191913Z" creationid="olex" creationdate="20180611T174556Z">
         <seg>&lt;f0&gt;Отсутствие блокировки разработчика.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Note:&lt;/f0&gt;&lt;f1&gt; Some &lt;/f1&gt;&lt;f2&gt;Calc operations cannot be used with non-contiguous cells.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T083135Z" creationid="olex" creationdate="20180901T083135Z">
+        <seg>&lt;f0&gt;Заметка:&lt;/f0&gt;&lt;f1&gt; Некоторые &lt;/f1&gt;&lt;f2&gt; операции в Calc не могут использоваться с несмежными ячейками.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15842,6 +15858,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T103504Z" creationid="olex" creationdate="20180715T103417Z">
         <seg>Здесь вы можете указать адрес (URL) и данные входа для Wiki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hid&lt;f0&gt;ing&lt;/f0&gt; and &lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;te4/&gt;how&lt;f5&gt;ing&lt;/f5&gt; sheets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T083941Z" creationid="olex" creationdate="20180901T083941Z">
+        <seg>&lt;f0&gt;Скрытие&lt;/f0&gt; и &lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;/f3&gt;&lt;te4/&gt;&lt;f5&gt;показ&lt;/f5&gt; листов</seg>
       </tuv>
     </tu>
     <tu>
@@ -33546,6 +33570,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T180200Z" creationid="olex" creationdate="20180730T180200Z">
         <seg>Для выбора несвязанных элементов с помощью клавиатуры:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To select the entire sheet, click on the &lt;f0&gt;corner &lt;/f0&gt;box between the column header &lt;f1&gt;A&lt;/f1&gt; and the row header &lt;f2&gt;1 &lt;/f2&gt;(Figure &lt;t3&gt;12&lt;/t3&gt;), or use the key combination &lt;f4&gt;Ctrl+A&lt;/f4&gt; to select the entire sheet, or go to &lt;f5&gt;Edit&lt;/f5&gt; on the Menu bar and select &lt;f6&gt;Select All&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T083710Z" creationid="olex" creationdate="20180901T083710Z">
+        <seg>Чтобы выбрать весь лист, щелкните по &lt;f0&gt;угловому прямоугольнику &lt;/f0&gt;между заголовком столбца &lt;f1&gt;A&lt;/f1&gt; и заголовком строки &lt;f2&gt;1&lt;/f2&gt; (Рисунок &lt;t3&gt;12&lt;/t3&gt;) или используйте комбинацию клавиш &lt;f4&gt;Ctrl+A&lt;/f4&gt;, чтобы выбрать весь лист, или выберите в меню &lt;f5&gt;Правка &gt; Выделить все&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
