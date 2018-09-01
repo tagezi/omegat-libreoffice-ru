@@ -2980,6 +2980,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;You can change this feature in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools – Options – LibreOffice – Calc – Formula&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, in &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Detailed Calculation Settings&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, select &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Custom (conversion of text to numbers and more)&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; and then select the proper treatment in the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Convert from text to numbers&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; drop down list.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T091431Z" creationid="olex" creationdate="20180901T091431Z">
+        <seg>&lt;f0&gt;You can change this feature in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools – Options – LibreOffice – Calc – Formula&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, in &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Detailed Calculation Settings&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, select &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Custom (conversion of text to numbers and more)&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; and then select the proper treatment in the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Convert from text to numbers&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; drop down list.&lt;/f12&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;You have a voice.&lt;/f0&gt; Enhancements, software fixes, and release dates are community-driven.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T174856Z" creationid="olex" creationdate="20180611T174856Z">
@@ -8254,6 +8262,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;into &lt;/f0&gt;the &lt;f1&gt;cell&lt;/f1&gt; &lt;f2&gt;that is immediately &lt;/f2&gt;below the rows &lt;f3&gt;you want to freeze and immediately to the right of the columns &lt;/f3&gt;you want &lt;f4&gt;frozen.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T090915Z" creationid="olex" creationdate="20180901T090624Z">
+        <seg>Нажмите &lt;f0&gt;на &lt;/f0&gt;&lt;f1&gt;ячейку&lt;/f1&gt; &lt;f2&gt;, которая находится &lt;/f2&gt;ниже строки &lt;f3&gt;, которую вы хотите зафиксировать, и справа от столбца, который &lt;/f3&gt;вы хотите&lt;f4&gt;зафиксировать.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;on &lt;/f0&gt;the &lt;f1&gt;row header&lt;/f1&gt; &lt;f2&gt;below the rows where you want to split the screen horizontally&lt;/f2&gt; or click on the column header to the right of the columns where you want to split the screen vertically.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T091304Z" creationid="olex" creationdate="20180901T091304Z">
+        <seg>Нажмите &lt;f0&gt;на &lt;/f0&gt;&lt;f1&gt;заголовок строки&lt;/f1&gt; &lt;f2&gt;под строкой, где вы хотите разделить экран по горизонтали&lt;/f2&gt; или нажмите на заголовок столбца справа от столбца, где вы хотите разделить экран по вертикали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f1&gt;Copy&lt;/f1&gt; to add the range to the sort list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T093149Z" creationid="olex" creationdate="20180415T093149Z">
@@ -11238,6 +11262,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T180359Z" creationid="olex" creationdate="20180416T180359Z">
         <seg>Введите информацию в ячейках на первом листе, там где вы хотите, и она будет повторяться во всех выбранных листах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the name in the &lt;f0&gt;Name&lt;/f0&gt; text box when you create the sheet using the Insert Sheet dialog (Figure &lt;t1&gt;14&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;23&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T090347Z" creationid="olex" creationdate="20180901T090347Z">
+        <seg>Вводить имя в текстовом поле &lt;f0&gt;Имя&lt;/f0&gt; при создании листа с помощью диалогового окна Вставить лист (Рисунок &lt;t1&gt;14&lt;/t1&gt;&lt;s2/&gt;на странице &lt;t3&gt;23&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29727,8 +29759,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The heavier horizontal line between rows 3 and 23 and the heavier vertical line between columns F and Q indicate that rows 1 to 3 and columns A to F are frozen.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180523T191924Z" creationid="olex" creationdate="20180409T164041Z">
-        <seg>Более широкая горизонтальная линия между строками 2 и 6 и более широкая вертикальная линия между столбцами D и Q указывают, что строки с 1 по 2 и столбцы от A до D заморожены.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T090636Z" creationid="olex" creationdate="20180409T164041Z">
+        <seg>Более широкая горизонтальная линия между строками 2 и 6 и более широкая вертикальная линия между столбцами D и Q указывают, что строки с 1 по 2 и столбцы от A до D зафиксированы.</seg>
       </tuv>
     </tu>
     <tu>
