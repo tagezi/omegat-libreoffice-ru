@@ -2820,6 +2820,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;When saving in a non default file format&lt;/f0&gt;, the &lt;f1&gt;Confirm File Format&lt;/f1&gt; dialog opens (Figure &lt;t2&gt;6&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T074518Z" creationid="olex" creationdate="20180901T074459Z">
+        <seg>&lt;f0&gt;При сохранении в формате файла отличном от формата по умолчанию&lt;/f0&gt;, открывается диалоговое окно &lt;f1&gt;Подтверждение формата файла&lt;/f1&gt; (Рисунок &lt;t2&gt;6&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;When the bu&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;tton &lt;ts3/&gt;&lt;f4&gt;is selected for a specific &lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;f7&gt;o&lt;/f7&gt;bject type&lt;ts8/&gt;, &lt;te9/&gt;&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;clicking &lt;/f12&gt;&lt;te13/&gt;the &lt;f14&gt;Previous&lt;/f14&gt; and &lt;f15&gt;Next&lt;/f15&gt; buttons &lt;tc16/&gt;will jump to the previous or next &lt;ts17/&gt;&lt;f18&gt;occurrence &lt;/f18&gt;&lt;te19/&gt;&lt;tc20/&gt;of the &lt;ts21/&gt;&lt;f22&gt;object&lt;/f22&gt;&lt;te23/&gt;&lt;tc24/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T172855Z" creationid="olex" creationdate="20180727T172153Z">
@@ -8210,6 +8218,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180820T182109Z" creationid="olex" creationdate="20180820T182109Z">
         <seg>Нажмите &lt;f3&gt;ОК&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f3&gt;Use [xxx] Format&lt;/f3&gt; to continue saving in your selected spreadsheet format or click &lt;f4&gt;Use ODF Format&lt;/f4&gt; to save the spreadsheet in Calc ODS format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T075034Z" creationid="olex" creationdate="20180901T075034Z">
+        <seg>Нажмите &lt;f3&gt;Использовать формат [xxx]&lt;/f3&gt;,чтобы продолжить сохранение в выбранном формате электронной таблицы или нажмите &lt;f4&gt;Использовать формат ODS&lt;/f4&gt;,, чтобы сохранить электронную таблицу в формате ODS Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18770,8 +18786,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>In&lt;ts0/&gt; &lt;f1&gt;the&lt;/f1&gt;&lt;te2/&gt; &lt;f3&gt;File type&lt;/f3&gt; drop-down menu, select the type of spreadsheet format you want to use.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180901T073810Z" creationid="olex" creationdate="20180901T073810Z">
-        <seg>В&lt;ts0/&gt;&lt;f1&gt;&lt;/f1&gt;&lt;te2/&gt;раскрывающемся меню &lt;f3&gt;Все форматы&lt;/f3&gt; выберите тип формата электронной таблицы, который вы хотите использовать.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180901T073929Z" creationid="olex" creationdate="20180901T073810Z">
+        <seg>В&lt;ts0/&gt;&lt;f1&gt;&lt;/f1&gt;&lt;te2/&gt;раскрывающемся меню &lt;f3&gt;Тип файла&lt;/f3&gt; выберите тип формата электронной таблицы, который вы хотите использовать.</seg>
       </tuv>
     </tu>
     <tu>
