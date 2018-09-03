@@ -5527,6 +5527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, &lt;f0&gt;select the cell and &lt;/f0&gt;click in the Input Line on the Formula Bar (Figure &lt;t1&gt;2&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;9&lt;/t3&gt;), then double-click on the data to highlight it completely and type the new data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180903T183521Z" creationid="olex" creationdate="20180903T183521Z">
+        <seg>Другой вариант: &lt;f0&gt;выберите ячейку и &lt;/f0&gt;щелкните по Строке ввода на Панели формул (Рисунок &lt;t1&gt;2&lt;/t1&gt;&lt;s2/&gt;на странице &lt;t3&gt;9&lt;/t3&gt;), затем дважды щелкните по данным, чтобы выделить их полностью и введите новые данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; on the main menu bar to open the LibreOffice Basic Macros dialog, select your macro and click &lt;f1&gt;Run&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T061718Z" creationid="tagezi" creationdate="20180314T172642Z">
@@ -10196,6 +10204,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T182738Z" creationid="olex" creationdate="20180416T182738Z">
         <seg>В зависимости от настроек, проверка также может определять диапазон содержимого, который можно ввести, предоставлять справочные сообщения, объясняющие правила содержимого, установленные для ячейки, и что пользователи &lt;t0/&gt;должны делать, если они вводят недопустимые данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depending on how validation is set up, validation can also define the range of contents that can be entered, provide help messages explaining the content rules set up for the cell and what users should do when they enter invalid content.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180903T182430Z" creationid="olex" creationdate="20180903T182430Z">
+        <seg>В зависимости от настроек, проверка также может определять диапазон содержимого, который может быть введен, предоставлять справочные сообщения, объясняющие правила содержимого, установленные для ячейки, и то, что пользователи должны делать, когда они вводят недопустимый контент.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25530,6 +25546,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T160849Z" creationid="olex" creationdate="20180722T160849Z">
         <seg>Смотрите Рисунок &lt;t0&gt;4&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the &lt;f0&gt;Calc Guide Chapter 2 Entering, Editing, and Formatting Data&lt;/f0&gt; for more information on validating cell contents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180903T182547Z" creationid="olex" creationdate="20180903T182547Z">
+        <seg>Подробнее о проверке содержимого ячеек смотрите в Главе 2 &lt;f0&gt;Руководства по Calc Ввод, редактирование и форматирование данных &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
