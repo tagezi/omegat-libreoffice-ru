@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2” to “Sales rose in Qtr” can be done as follows.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180903T183854Z" creationid="olex" creationdate="20180903T183854Z">
+        <seg>2” на “Продажи роз в Qtr” можно сделать следующим образом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;Pages styles define basic layout, including page size, margins, headers and footers, borders, backgrounds, etc. &lt;s4/&gt;Changes to these settings automatically change the page style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T175901Z" creationid="olex" creationdate="20180817T175901Z">
@@ -36022,6 +36030,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180528T095658Z" creationid="olex" creationdate="20180502T183359Z">
         <seg>Если в ячейках электронной таблицы скрыть данные, то остаются видимыми пустые ячейки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When editing text, double-click the cell, then reposition the cursor to where you want the line break.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180903T184059Z" creationid="olex" creationdate="20180903T184059Z">
+        <seg>Для редактирования текста, дважды щелкните ячейку, затем переместите курсор туда, где вы хотите разбить строку.</seg>
       </tuv>
     </tu>
     <tu>
