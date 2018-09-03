@@ -2506,6 +2506,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;The selected range is in the box &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Copy list from&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180903T180825Z" creationid="olex" creationdate="20180903T180825Z">
+        <seg>&lt;f0&gt;Выбранный диапазон находится в поле &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Копировать список из&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;The t&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;hesaurus and synonyms are writing aids provided by language communities.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T184615Z" creationid="olex" creationdate="20180805T184615Z">
@@ -2982,8 +2990,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;You can change this feature in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools – Options – LibreOffice – Calc – Formula&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, in &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Detailed Calculation Settings&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, select &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Custom (conversion of text to numbers and more)&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; and then select the proper treatment in the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Convert from text to numbers&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; drop down list.&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180901T091431Z" creationid="olex" creationdate="20180901T091431Z">
-        <seg>&lt;f0&gt;You can change this feature in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools – Options – LibreOffice – Calc – Formula&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, in &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Detailed Calculation Settings&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, select &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Custom (conversion of text to numbers and more)&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; and then select the proper treatment in the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Convert from text to numbers&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; drop down list.&lt;/f12&gt; </seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180903T175712Z" creationid="olex" creationdate="20180901T091431Z">
+        <seg>&lt;f0&gt;Вы можете изменить эту настройку в &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Сервис &gt; Параметры &gt; LibreOffice Calc &gt; Формула&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, в части &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Подробные настройки вычислений&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, выберите &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Особые (преобразование текста в числа и прочее)&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; и затем выберите правильный вариант в раскрывающемся списке &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Преобразование из текста в число&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36590,6 +36598,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T073448Z" creationid="tagezi" creationdate="20180319T073448Z">
         <seg>С практикой это становится чем-то обыденным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the cell selected, open the Sidebar (&lt;f0&gt;View &gt; Sidebar&lt;/f0&gt;) and (if necessary) click the &lt;f1&gt;Open Panel&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) icon on the &lt;f3&gt;Number Format&lt;/f3&gt; panel (Figure &lt;t4&gt;Error: Reference source not found&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180903T180404Z" creationid="olex" creationdate="20180903T180404Z">
+        <seg>Выбрав ячейку, откройте боковую панель (&lt;f0&gt;Вид &gt; Боковая панель&lt;/f0&gt;) и (если необходимо) нажмите значок &lt;f1&gt;Открыть&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) на панели &lt;f3&gt;Формат чисел&lt;/f3&gt; (Рисунок &lt;t4&gt;20&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
