@@ -3221,6 +3221,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f1&gt;In the input line of the formula bar, press &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Shift+Enter&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180903T184232Z" creationid="olex" creationdate="20180903T184232Z">
+        <seg>&lt;f1&gt;В строке ввода Панели формул нажмите &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Shift+Enter&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f1&gt;Locale&lt;/f1&gt; also defines the default expression of dates.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T174731Z" creationid="olex" creationdate="20180712T174731Z">
@@ -32869,6 +32877,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To do this, select the &lt;f0&gt;Shrink to fit cell size&lt;/f0&gt; option under &lt;f1&gt;Properties&lt;/f1&gt; in the Format Cells dialog (Figure &lt;t2&gt;27&lt;/t2&gt;) on the &lt;f3&gt;Alignment&lt;/f3&gt; page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180903T185047Z" creationid="olex" creationdate="20180903T185047Z">
+        <seg>Чтобы сделать это, выберите параметр &lt;f0&gt;Уменьшать по размеру ячейки&lt;/f0&gt; в разделе &lt;f1&gt;Свойства&lt;/f1&gt; в диалоговом окне Формат ячеек (Рисунок &lt;t2&gt;27&lt;/t2&gt;) на вкладке &lt;f3&gt;Выравнивание&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To do this:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T193338Z" creationid="olex" creationdate="20180502T193338Z">
@@ -35933,6 +35949,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T132100Z" creationid="tagezi" creationdate="20180320T132100Z">
         <seg>Когда библиотека используется в качестве ссылки, она остается в текущем местоположении и является только для чтения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a manual line break is entered &lt;f0&gt;in a cell&lt;/f0&gt;, the cell &lt;f1&gt;row&lt;/f1&gt; &lt;f2&gt;height&lt;/f2&gt; change&lt;f3&gt;s&lt;/f3&gt; &lt;f4&gt;to display all the lines in the &lt;/f4&gt;cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180903T184607Z" creationid="olex" creationdate="20180903T184607Z">
+        <seg>Коггда &lt;f0&gt;в ячейку&lt;/f0&gt; вводится ручной разрыв строки, &lt;f1&gt;высота&lt;/f1&gt; &lt;f2&gt;строки&lt;/f2&gt; ячейки изменяется&lt;f3&gt;&lt;/f3&gt; &lt;f4&gt;для отображения всех строк в &lt;/f4&gt;ячейке.</seg>
       </tuv>
     </tu>
     <tu>
