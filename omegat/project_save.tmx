@@ -2940,6 +2940,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;When selecting or unselecting a formatting property, the AutoFormat dialog displays the change instantly.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T180707Z" creationid="olex" creationdate="20180905T180707Z">
+        <seg>&lt;f0&gt;При выборе или отмене выбора свойства форматирования диалоговое окно Автоформат мгновенно отображает изменение.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;When the bu&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;tton &lt;ts3/&gt;&lt;f4&gt;is selected for a specific &lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;f7&gt;o&lt;/f7&gt;bject type&lt;ts8/&gt;, &lt;te9/&gt;&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;clicking &lt;/f12&gt;&lt;te13/&gt;the &lt;f14&gt;Previous&lt;/f14&gt; and &lt;f15&gt;Next&lt;/f15&gt; buttons &lt;tc16/&gt;will jump to the previous or next &lt;ts17/&gt;&lt;f18&gt;occurrence &lt;/f18&gt;&lt;te19/&gt;&lt;tc20/&gt;of the &lt;ts21/&gt;&lt;f22&gt;object&lt;/f22&gt;&lt;te23/&gt;&lt;tc24/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T172855Z" creationid="olex" creationdate="20180727T172153Z">
@@ -3269,6 +3277,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f1&gt;T&lt;/f1&gt;he &lt;f2&gt;Add&lt;/f2&gt; button is now active.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T181139Z" creationid="olex" creationdate="20180905T181139Z">
+        <seg>&lt;f1&gt;&lt;/f1&gt;Кнопка &lt;f2&gt;Добавить&lt;/f2&gt; теперь активна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f1&gt;When hovering the toolbar with the mouse, a tool tip shows the action performed by each icon in the toolbar.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180829T200350Z" creationid="olex" creationdate="20180829T200350Z">
@@ -3345,6 +3361,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T070214Z" creationid="olex" creationdate="20180901T070058Z">
         <seg>&lt;f5&gt;Когда используется значок &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Сумма&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, Calc предлагает просуммировать обозначенный цветом диапазон, но не вставляет формулу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f6&gt;All formatting applied are direct formatting.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T175957Z" creationid="olex" creationdate="20180905T175957Z">
+        <seg>&lt;f6&gt;Все применяемое форматирование является прямым форматированием.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7138,6 +7162,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T182338Z" creationid="olex" creationdate="20180430T182338Z">
         <seg>Calc поставляется с предопределенным набором тем форматирования (набором стилей), который вы можете применить к своей электронной таблице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calc comes with a predefined set of formatting themes &lt;f0&gt;(set of styles) &lt;/f0&gt;that you can apply to &lt;f1&gt;your &lt;/f1&gt;spreadsheet.&lt;f2&gt; While &lt;/f2&gt;It is not possible to add &lt;f3&gt;new &lt;/f3&gt;themes &lt;f4&gt;in&lt;/f4&gt; Calc, you can modify the &lt;f5&gt;theme&lt;/f5&gt; styles &lt;f6&gt;once the theme is applied to the&lt;/f6&gt; spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T181451Z" creationid="olex" creationdate="20180905T181451Z">
+        <seg>Calc comes with a predefined set of formatting themes &lt;f0&gt;(set of styles) &lt;/f0&gt;that you can apply to &lt;f1&gt;your &lt;/f1&gt;spreadsheet.&lt;f2&gt; While &lt;/f2&gt;It is not possible to add &lt;f3&gt;new &lt;/f3&gt;themes &lt;f4&gt;in&lt;/f4&gt; Calc, you can modify the &lt;f5&gt;theme&lt;/f5&gt; styles &lt;f6&gt;once the theme is applied to the&lt;/f6&gt; spreadsheet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14676,6 +14708,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Format the data type, font, font size, cell borders, cell background, and so on for a &lt;f0&gt;range&lt;/f0&gt; of cells.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T180848Z" creationid="olex" creationdate="20180905T180848Z">
+        <seg>Отформатируйте тип данных, шрифт, размер шрифта, обрамление ячеек, фон ячейки и т.д. для диапазона ячеек&lt;f0&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Format the data type, font, font size, cell borders, cell background, and so on for a range of cells.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T181315Z" creationid="olex" creationdate="20180430T181315Z">
@@ -15421,6 +15461,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Format &gt; AutoFormat &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Styles &lt;/f2&gt;&lt;/f1&gt;on the Menu bar to open the &lt;f3&gt;AutoFormat&lt;/f3&gt; dialog (Figure &lt;t4&gt;32&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T180203Z" creationid="olex" creationdate="20180905T180203Z">
+        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Стили &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;автоформата... &lt;/f2&gt;&lt;/f1&gt;, чтобы открыть диалоговое окно &lt;f3&gt;Автоформат&lt;/f3&gt; (Рисунок &lt;t4&gt;32&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Format &gt; AutoFormat Styles &lt;/f0&gt;on the Menu bar to open the &lt;f1&gt;AutoFormat&lt;/f1&gt; dialog (Figure &lt;t2&gt;32&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T180641Z" creationid="olex" creationdate="20180430T180641Z">
@@ -15433,6 +15481,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T182215Z" creationid="olex" creationdate="20180430T181525Z">
         <seg>Выберите в меню &lt;f0&gt;Формат &gt; Стили автоформата...&lt;/f0&gt;, чтобы открыть диалоговое окно Автоформат: кнопка &lt;f1&gt;Добавить&lt;/f1&gt; теперь активна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Format &gt; AutoFormat&lt;/f0&gt; to open the AutoFormat dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T181105Z" creationid="olex" creationdate="20180905T181105Z">
+        <seg>Перейдите в &lt;f0&gt;Формат &gt; Стили автоформата...&lt;/f0&gt;чтобы открыть диалоговое окно Автоформат.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16387,6 +16443,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T182110Z" creationid="olex" creationdate="20180430T182110Z">
         <seg>Тем не менее, другие пользователи могут импортировать новый стиль автоформата, выбрав диапазон ячеек в документе электронной таблицы и определив его как новый стиль автоформата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, other users can import the new AutoFormat selecting the table range in the spreadsheet document and defining it as new AutoFormat.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T181444Z" creationid="olex" creationdate="20180905T181444Z">
+        <seg>Тем не менее, другие пользователи могут импортировать новый стиль Автоформата, выбрав диапазон таблиц в документе электронной таблицы и определив его как новый стиль Автоформата.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19550,6 +19614,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T185131Z" creationid="olex" creationdate="20180805T185131Z">
         <seg>Он также содержит коды для вставки специальных символов, смайлов и других символов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also let you format different &lt;f5&gt;tables&lt;/f5&gt; of the sheet with the same look and feel very easily.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T175921Z" creationid="olex" creationdate="20180905T175921Z">
+        <seg>Эта функция позволяет так же легко форматировать различные&lt;f5&gt;таблицы&lt;/f5&gt; листа общим внешним видом и оформлением.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30329,6 +30401,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The new AutoFormat is stored in your computer user profile and &lt;f0&gt;is&lt;/f0&gt; not available to other user&lt;f1&gt;s.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T181328Z" creationid="olex" creationdate="20180905T181328Z">
+        <seg>Новый стиль Автоформата хранится в вашем профиле пользователя на вашем компьютере и &lt;f0&gt;он&lt;/f0&gt; недоступен для других пользователей&lt;f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The new AutoFormat is stored in your computer user profile and is not available to other users.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T181951Z" creationid="olex" creationdate="20180430T181951Z">
@@ -38309,6 +38389,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180321T190611Z" creationid="olex" creationdate="20180309T193423Z">
         <seg>Вы можете обновлять стили, копируя (загружая) их из шаблона или другого документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use &lt;i0/&gt;&lt;i1/&gt;Calc’s AutoFormat&lt;i2/&gt; feature to format a &lt;f3&gt;table (range&lt;/f3&gt; of cells&lt;f4&gt;)&lt;/f4&gt; quickly and easily.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T175655Z" creationid="olex" creationdate="20180905T175655Z">
+        <seg>Вы можете использовать функцию Calc &lt;i0/&gt;&lt;i1/&gt;Автоформат&lt;i2/&gt; для быстрого и легкого форматирования &lt;f3&gt;таблиц (диапазона&lt;/f3&gt; ячеек&lt;f4&gt;)&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
