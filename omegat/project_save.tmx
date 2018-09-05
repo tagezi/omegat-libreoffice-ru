@@ -3285,6 +3285,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f3&gt;For more options go to menu &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Format – Cells – Alignment&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, and select one of the options in the Horizontal drop down list.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T171729Z" creationid="olex" creationdate="20180905T171729Z">
+        <seg>&lt;f3&gt;Для получения дополнительных параметров выберите в меню &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Формат – Ячейки – Выравнивание&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, выберите один из вариантов в раскрывающемся списке По горизонтали.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f3&gt;When activated, a&lt;/f3&gt; &lt;t4/&gt;checkmark appear&lt;f5&gt;s&lt;/f5&gt; next to the option.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T164516Z" creationid="olex" creationdate="20180727T164516Z">
@@ -14292,6 +14300,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more control or to select other number formats, use the &lt;f0&gt;Numbers&lt;/f0&gt; page of the Format Cells dialog (Figure &lt;t1&gt;19&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;28&lt;/t3&gt;):</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T171020Z" creationid="olex" creationdate="20180905T171020Z">
+        <seg>Для доступа к большему количеству настроек или форматов чисел откройте вкладку &lt;f0&gt;Числа&lt;/f0&gt; диалогового окна Формат ячеек (Рисунок &lt;t1&gt;19&lt;/t1&gt;&lt;s2/&gt;на странице &lt;t3&gt;28&lt;/t3&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more control or to select other number formats, use the &lt;f0&gt;Numbers&lt;/f0&gt; page of the Format Cells dialog (Figure &lt;t1&gt;19&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;29&lt;/t3&gt;):</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T185203Z" creationid="olex" creationdate="20180424T184820Z">
@@ -14712,6 +14728,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T175209Z" creationid="olex" creationdate="20180327T175209Z">
         <seg>Стиль форматирования ячеек по умолчанию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Formatting font&lt;f0&gt;s and text in cells&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T171111Z" creationid="olex" creationdate="20180905T171111Z">
+        <seg>Форматирование шрифтов&lt;f0&gt; и текста в ячейках&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32428,6 +32452,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the &lt;f0&gt;horizontal &lt;/f0&gt;paragraph alignment, click on one of the four alignment icons (Left, Center, Right, Justified) &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T171447Z" creationid="olex" creationdate="20180905T171447Z">
+        <seg>Чтобы изменить &lt;f0&gt;горизонтальное &lt;/f0&gt;выравнивание абзаца, щелкните один из четырех значков выравнивания (По левому краю, Центрировать по горизонтали, По правому краю, По ширине) &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change the appearance of the header or footer, click on &lt;f0&gt;More&lt;/f0&gt; to open the borders and background dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T191356Z" creationid="olex" creationdate="20180508T191356Z">
@@ -33473,6 +33505,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T212011Z" creationid="tagezi" creationdate="20180304T212011Z">
         <seg>Для публикации на сервер Wiki, экспортируйте документы в формате MediaWiki (.txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To quickly select a font and format &lt;f0&gt;text&lt;/f0&gt; for use in a cell:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T171217Z" creationid="olex" creationdate="20180905T171217Z">
+        <seg>Чтобы быстро выбрать шрифт и форматировать &lt;f0&gt;текст&lt;/f0&gt; для использования в ячейке:</seg>
       </tuv>
     </tu>
     <tu>
