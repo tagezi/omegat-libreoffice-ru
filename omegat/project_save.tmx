@@ -3196,6 +3196,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f11&gt;A&lt;/f11&gt; color palette &lt;f12&gt;is &lt;/f12&gt;displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T173312Z" creationid="olex" creationdate="20180905T173312Z">
+        <seg>&lt;f11&gt;&lt;/f11&gt;Отобразится цветовая палитра&lt;f12&gt;&lt;/f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f17&gt;Any external &lt;/f17&gt;&lt;te18/&gt;&lt;ts19/&gt;&lt;f20&gt;program used must be registered with LibreOffice&lt;/f20&gt;&lt;te21/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180823T172339Z" creationid="olex" creationdate="20180823T172339Z">
@@ -14328,6 +14336,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T185203Z" creationid="olex" creationdate="20180424T184820Z">
         <seg>Больше настроек и большее количество форматов чисел найдете на вкладке &lt;f0&gt;Числа&lt;/f0&gt; диалогового окна Формат ячеек (Рисунок &lt;t1&gt;19&lt;/t1&gt;&lt;s2/&gt; на странице &lt;t3&gt;29&lt;/t3&gt; ):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more control, including the spacing between cell borders and any data in the cell, use the &lt;f0&gt;Borders&lt;/f0&gt; page of the Format Cells dialog (Figure &lt;t1&gt;19&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;28&lt;/t3&gt;), where you can also define a shadow style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T173622Z" creationid="olex" creationdate="20180905T173622Z">
+        <seg>Для доступа к большему количеству настроек, включая расстояние между границами ячеек и любыми данными в ячейке, используйте вкладку &lt;f0&gt;Обрамление&lt;/f0&gt; диалогового окна Формат ячеек (Рисунок &lt;t1&gt;19&lt;/t1&gt;&lt;s2/&gt;на странице &lt;t3&gt;28&lt;/t3&gt;), где вы также можете определить стиль Тени.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32274,6 +32290,15 @@ LG:DONE</note>
       </tuv>
     </tu>
     <tu>
+      <note>неточность в оригинале, наверное имеется ввиду меню Стили &gt; Создать стиль...</note>
+      <tuv lang="EN-US">
+        <seg>To add default styles for a cell or a group of cells, click &lt;f0&gt;Format&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&gt; Styles&lt;/f2&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T174134Z" creationid="olex" creationdate="20180905T174134Z">
+        <seg>Чтобы добавить стили по умолчанию для ячейки или группы ячеек, нажмите &lt;f0&gt;Формат&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&gt; Стили&lt;/f2&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: не нашел что имелрсь ввиду Формат &gt; Стили нет такого в меню</note>
       <tuv lang="EN-US">
         <seg>To add default styles for a cell or a group of cells, click Format &gt; Styles.</seg>
@@ -37537,6 +37562,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T184516Z" creationid="olex" creationdate="20180621T184440Z">
         <seg>Вы также можете использовать следующие комбинацию клавиш:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also use the &lt;f3&gt;Background&lt;/f3&gt; tab of the Format Cells dialog (Figure &lt;t4&gt;19&lt;/t4&gt;&lt;s5/&gt;on page &lt;t6&gt;28&lt;/t6&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T173802Z" creationid="olex" creationdate="20180905T173802Z">
+        <seg>Вы также можете использовать вкладку &lt;f3&gt;Фон&lt;/f3&gt; диалогового окна Формат ячеек (Рисунок &lt;t4&gt;19&lt;/t4&gt;&lt;s5/&gt;на странице &lt;t6&gt;28&lt;/t6&gt;).</seg>
       </tuv>
     </tu>
     <tu>
