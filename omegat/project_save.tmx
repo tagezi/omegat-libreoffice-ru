@@ -4310,6 +4310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A &lt;/f3&gt;&lt;f4&gt;menu displays the default styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T174611Z" creationid="olex" creationdate="20180905T174611Z">
+        <seg>&lt;/f3&gt;&lt;f4&gt;В меню отображаются стили по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A &lt;f0&gt;special character&lt;/f0&gt; is one not found on a standard user’s keyboard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T175402Z" creationid="olex" creationdate="20180802T175402Z">
@@ -6079,6 +6087,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T190124Z" creationid="olex" creationdate="20180424T185846Z">
         <seg>Применяйте любой тип данных из списка &lt;f0&gt;Категория&lt;/f0&gt; к ячейкам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply, delete, or modify &lt;/f9&gt;&lt;f10&gt;the&lt;/f10&gt;&lt;f11&gt; custom default style in the &lt;/f11&gt;&lt;f12&gt;Styles and Formatting&lt;/f12&gt;&lt;f13&gt; deck.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T175210Z" creationid="olex" creationdate="20180905T175210Z">
+        <seg>Применяйте, удаляйте или изменяйте &lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;стили по умолчанию на складке &lt;/f11&gt;&lt;f12&gt;Стили&lt;/f12&gt;&lt;f13&gt; Боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29518,6 +29534,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default styles can be applied, deleted, or modified through the &lt;/f4&gt;&lt;f5&gt;Styles and Formatting &lt;/f5&gt;&lt;f6&gt;deck.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T175027Z" creationid="olex" creationdate="20180905T174748Z">
+        <seg>Стили по умолчанию можно применять, удалять или изменять с помощью вкладки &lt;/f4&gt;&lt;f5&gt;Стили &lt;/f5&gt;&lt;f6&gt; Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default styles can be applied, deleted, or modified through the Styles and Formatting deck.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T174225Z" creationid="olex" creationdate="20180430T174225Z">
@@ -32294,8 +32318,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To add default styles for a cell or a group of cells, click &lt;f0&gt;Format&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&gt; Styles&lt;/f2&gt;&lt;f3&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180905T174134Z" creationid="olex" creationdate="20180905T174134Z">
-        <seg>Чтобы добавить стили по умолчанию для ячейки или группы ячеек, нажмите &lt;f0&gt;Формат&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&gt; Стили&lt;/f2&gt;&lt;f3&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T174501Z" creationid="olex" creationdate="20180905T174134Z">
+        <seg>Чтобы добавить стили по умолчанию для ячейки или группы ячеек, нажмите &lt;f0&gt;Стили&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&gt; Управление стилями&lt;/f2&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37724,6 +37748,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T132558Z" creationid="olex" creationdate="20180306T180207Z">
         <seg>Можно создать шаблон соответствующий конкретным требованиям для любого типа документа (текст, таблица, рисунок, презентация).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can create and use custom default cell styles for a cell by clicking &lt;/f6&gt;&lt;f7&gt;Format &gt; Styles &gt; New &lt;/f7&gt;&lt;f8&gt;Styles…&lt;/f8&gt;&lt;f9&gt; Enter in a new name for the style or click an existing style name to update that style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T175014Z" creationid="olex" creationdate="20180905T175014Z">
+        <seg>Вы можете создавать и использовать пользовательские стили ячеек по умолчанию для ячейки, выбрав &lt;/f6&gt;&lt;f7&gt;Стили &gt; Создать &lt;/f7&gt;&lt;f8&gt;стиль…&lt;/f8&gt;&lt;f9&gt; Введите новое имя для стиля или щелкните существующее имя стиля, чтобы обновить этот стиль.</seg>
       </tuv>
     </tu>
     <tu>
