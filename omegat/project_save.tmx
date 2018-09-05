@@ -1825,6 +1825,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Multiple formatting options can be entered and arranged using assigned &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;priority rules &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;to order the importance of the conditions, allowing certain formatting options to take place before others, for example.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T183512Z" creationid="olex" creationdate="20180905T183512Z">
+        <seg>&lt;f0&gt;Например, можно задать несколько вариантов форматирования с использованием назначенных &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;правил приоритета &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;для определения важности условий, например некоторых опций форматирования перед другими.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Name Box&lt;/f0&gt; – gives the current active cell reference using a combination of a letter and number, for example A1.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T180746Z" creationid="olex" creationdate="20180329T180646Z">
@@ -4842,6 +4850,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T184513Z" creationid="olex" creationdate="20180430T184414Z">
         <seg>В ваш документ будет добавлен новый набор стилей, в том числе один с именем &lt;f0&gt;Card&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A new set of styles, including one named &lt;f4&gt;Card&lt;/f4&gt; is added to your document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T183116Z" creationid="olex" creationdate="20180905T182829Z">
+        <seg>В ваш документ будет добавлен новый набор стилей, включая один, под названием &lt;f4&gt;Card&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13214,6 +13230,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;t5&gt;34&lt;/t5&gt;&lt;s6/&gt;shows the styles added by the &lt;f7&gt;&lt;f8&gt;Pastel&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;theme.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T183238Z" creationid="olex" creationdate="20180905T183238Z">
+        <seg>Рисунок &lt;t5&gt;34&lt;/t5&gt;&lt;s6/&gt;показывает стили добавленные с темой &lt;f7&gt;&lt;f8&gt;Pastel&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;t8&gt;6&lt;/t8&gt; shows an example of the hierarchical structure of macro libraries in LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T090143Z" creationid="tagezi" creationdate="20180320T090143Z">
@@ -15569,6 +15593,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T185533Z" creationid="olex" creationdate="20180502T184118Z">
         <seg>Пройдите в меню &lt;f0&gt;Формат &gt; Строки &gt;&lt;/f0&gt; или &lt;f1&gt;Формат &gt; Столбцы &gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Format&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Row&lt;/f1&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt; or &lt;f6&gt;Column&lt;/f6&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;f9&gt;s&lt;/f9&gt;&lt;/f8&gt;&lt;te10/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T183718Z" creationid="olex" creationdate="20180905T183718Z">
+        <seg>Выберите в меню &lt;f0&gt;Формат&lt;/f0&gt; &lt;f1&gt;Строки&lt;/f1&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt; или &lt;f6&gt;Столбцы&lt;/f6&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;te10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29338,6 +29370,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T091050Z" creationid="tagezi" creationdate="20180320T091050Z">
         <seg>Само приложение действует как два контейнера библиотек: один контейнер для макросов, распределенный с LibreOffice под названием Макросы LibreOffice, а другой контейнер для личных макросов под названием Мои макросы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The applied &lt;f0&gt;s&lt;/f0&gt;preadsheet &lt;f1&gt;t&lt;/f1&gt;hemes works &lt;f2&gt;with&lt;/f2&gt; &lt;f3&gt;cell s&lt;/f3&gt;tyles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T182856Z" creationid="olex" creationdate="20180905T182820Z">
+        <seg>Применимые стили темы&lt;f0&gt;&lt;/f0&gt;электронных таблиц&lt;f1&gt;&lt;/f1&gt; влияют &lt;f2&gt;на&lt;/f2&gt; &lt;f3&gt;стили ячеек&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
