@@ -2498,6 +2498,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Format&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; menu also contains a quick access to direct text formatting in cells (Figure &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;31&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T172046Z" creationid="olex" creationdate="20180905T172046Z">
+        <seg>&lt;f0&gt;Меню &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Формат&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; также содержит быстрый доступ к прямому форматированию текста в ячейках (Рисунок &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;31&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;The &lt;/f0&gt;Styles window (floating, or in Sidebar)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180717T175215Z" creationid="olex" creationdate="20180717T175215Z">
@@ -2574,6 +2582,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T163333Z" creationid="olex" creationdate="20180811T163333Z">
         <seg>&lt;f0&gt;Чтобы связать один из этих стилей абзаца со стилем списка, перейдите к &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Стили &lt; Управление стилями&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; или нажмите &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;F11&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, чтобы открыть список стилей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;To change the vertical alignment of the text in the cell, go to menu &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Format – Cells – Alignment&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and select one of the options in the Vertical drop down list.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T171932Z" creationid="olex" creationdate="20180905T171840Z">
+        <seg>&lt;f0&gt;Чтобы изменить вертикальное выравнивание текста в ячейке, выберите в меню &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Формат – Ячейки... – Выравнивание&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; и выберите один из параметров в раскрывающемся списке По вертикали.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3287,8 +3303,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f3&gt;For more options go to menu &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Format – Cells – Alignment&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, and select one of the options in the Horizontal drop down list.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180905T171729Z" creationid="olex" creationdate="20180905T171729Z">
-        <seg>&lt;f3&gt;Для получения дополнительных параметров выберите в меню &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Формат – Ячейки – Выравнивание&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, выберите один из вариантов в раскрывающемся списке По горизонтали.&lt;/f6&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T171845Z" creationid="olex" creationdate="20180905T171729Z">
+        <seg>&lt;f3&gt;Для получения дополнительных параметров выберите в меню &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Формат – Ячейки... – Выравнивание&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, выберите один из вариантов в раскрывающемся списке По горизонтали.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14568,6 +14584,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T081252Z" creationid="tagezi" creationdate="20180313T090558Z">
         <seg>Для некоторых типов информации, которую вы хотите повторно вводить в документ, может быть удобнее создать файл AutoText.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the &lt;/f6&gt;color &lt;f8&gt;of&lt;/f8&gt; the borders &lt;f9&gt;lines &lt;/f9&gt;of a cell,&lt;f10&gt; select the &lt;/f10&gt;Border Color icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T173248Z" creationid="olex" creationdate="20180905T173045Z">
+        <seg>Для настройки &lt;/f6&gt;цвета &lt;f8&gt;&lt;/f8&gt; линий границ &lt;f9&gt;&lt;/f9&gt;ячейки,&lt;f10&gt; нажмите значок &lt;/f10&gt;Цвет обрамления.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33037,6 +33061,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To format the &lt;f0&gt;border&lt;/f0&gt; line style, click &lt;f1&gt;on the line style&lt;/f1&gt; &lt;f2&gt;icon &lt;/f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;s7/&gt;and select the type from the palette.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T173104Z" creationid="olex" creationdate="20180905T172942Z">
+        <seg>Чтобы отформатировать стиль линии &lt;f0&gt;обрамления&lt;/f0&gt;, нажмите &lt;f1&gt;значок Обрамление&lt;/f1&gt; &lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;s7/&gt;и выберите необходимый тип из палитры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To format the background color for a cell or a group of cells, click the small arrow next to the Background Color icon &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt;on the Formatting toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T172515Z" creationid="olex" creationdate="20180430T172312Z">
@@ -37408,6 +37440,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T185324Z" creationid="olex" creationdate="20180330T182603Z">
         <seg>Вы также можете выбрать одновременно несколько листов, удерживая клавишу &lt;f1&gt;Ctrl&lt;/f1&gt; и последовательно нажимая на вкладки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also select the &lt;f1&gt;More Options&lt;/f1&gt; button on &lt;f2&gt;the Character panel&lt;/f2&gt; of the Sidebar to open the Format Cells dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T172646Z" creationid="olex" creationdate="20180905T172057Z">
+        <seg>Вы также можете выбрать кнопку &lt;f1&gt;Дополнительные параметры&lt;/f1&gt; на заголовке панели &lt;f2&gt;Символы&lt;/f2&gt; Боковой панели, чтобы открыть диалоговое окно Формат ячеек.</seg>
       </tuv>
     </tu>
     <tu>
