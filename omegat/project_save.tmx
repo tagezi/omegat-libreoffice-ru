@@ -3389,6 +3389,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f7&gt;T&lt;/f7&gt;he modified styles become available for use in th&lt;f8&gt;e whole &lt;/f8&gt;spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T182153Z" creationid="olex" creationdate="20180905T182153Z">
+        <seg>&lt;f7&gt;&lt;/f7&gt;Модифицированные стили становятся доступными для использования &lt;f8&gt;во всей &lt;/f8&gt;электронной таблице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f8&gt;Note that this only works when single-page view is activated in the Status Bar.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T164847Z" creationid="olex" creationdate="20180727T164847Z">
@@ -6131,6 +6139,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applying a new theme &lt;f0&gt;over an existing one &lt;/f0&gt;will &lt;f1&gt;override&lt;/f1&gt; &lt;f2&gt;all&lt;/f2&gt; &lt;f3&gt;existing&lt;/f3&gt; theme style&lt;f4&gt;s&lt;/f4&gt; &lt;f5&gt;customization with the new theme styles.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T182621Z" creationid="olex" creationdate="20180905T182621Z">
+        <seg>Применение новой темы &lt;f0&gt;поверх существующей &lt;/f0&gt;будет &lt;f1&gt;переопределять&lt;/f1&gt; &lt;f2&gt;все&lt;/f2&gt; &lt;f3&gt;существующие&lt;/f3&gt; стили темы&lt;f4&gt;&lt;/f4&gt; &lt;f5&gt; в соответствии с обновленной темой.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applying a new theme over an existing one will override all existing theme styles customization with the new theme styles.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T184135Z" creationid="olex" creationdate="20180430T184135Z">
@@ -7168,8 +7184,8 @@
       <tuv lang="EN-US">
         <seg>Calc comes with a predefined set of formatting themes &lt;f0&gt;(set of styles) &lt;/f0&gt;that you can apply to &lt;f1&gt;your &lt;/f1&gt;spreadsheet.&lt;f2&gt; While &lt;/f2&gt;It is not possible to add &lt;f3&gt;new &lt;/f3&gt;themes &lt;f4&gt;in&lt;/f4&gt; Calc, you can modify the &lt;f5&gt;theme&lt;/f5&gt; styles &lt;f6&gt;once the theme is applied to the&lt;/f6&gt; spreadsheet.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180905T181451Z" creationid="olex" creationdate="20180905T181451Z">
-        <seg>Calc comes with a predefined set of formatting themes &lt;f0&gt;(set of styles) &lt;/f0&gt;that you can apply to &lt;f1&gt;your &lt;/f1&gt;spreadsheet.&lt;f2&gt; While &lt;/f2&gt;It is not possible to add &lt;f3&gt;new &lt;/f3&gt;themes &lt;f4&gt;in&lt;/f4&gt; Calc, you can modify the &lt;f5&gt;theme&lt;/f5&gt; styles &lt;f6&gt;once the theme is applied to the&lt;/f6&gt; spreadsheet.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T182058Z" creationid="olex" creationdate="20180905T181451Z">
+        <seg>Calc поставляется с предопределенным набором тем оформления &lt;f0&gt;(набором стилей)&lt;/f0&gt;, который вы можете применить к &lt;f1&gt;своей &lt;/f1&gt;электронной таблице.&lt;f2&gt; Пока &lt;/f2&gt;нет возможности добавлять &lt;f3&gt;новые &lt;/f3&gt;темы &lt;f4&gt;в&lt;/f4&gt; Calc, но вы можете изменять стиль &lt;f5&gt;темы&lt;/f5&gt; &lt;f6&gt;после того, как тема была применена в&lt;/f6&gt; электронной таблице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31306,6 +31322,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T100202Z" creationid="tagezi" creationdate="20180316T163628Z">
         <seg>Следовательно, переменная с именем document ссылается на фрейм документа, который получает отправленные команды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These &lt;f0&gt;changes&lt;/f0&gt; do not modify the theme; they only change the appearance of the style in the specific spreadsheet you are creating.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180905T182358Z" creationid="olex" creationdate="20180905T182358Z">
+        <seg>Эти изменения &lt;f0&gt;не изменяют&lt;/f0&gt; тему; они только изменяют внешний вид стиля в конкретной электронной таблице, которую вы создаете.</seg>
       </tuv>
     </tu>
     <tu>
