@@ -3397,6 +3397,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f5&gt;The protected sheets has a lock icon in its tab, as &lt;/f5&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;shown&lt;/f8&gt;&lt;te9/&gt;&lt;f10&gt; in Figure &lt;/f10&gt;&lt;f11&gt;&lt;t12&gt;37&lt;/t12&gt;&lt;/f11&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T180645Z" creationid="olex" creationdate="20180906T180645Z">
+        <seg>&lt;f5&gt;Защищенные листы помечены значком блокировки на вкладке, как &lt;/f5&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;показано&lt;/f8&gt;&lt;te9/&gt;&lt;f10&gt; на Рисунке &lt;/f10&gt;&lt;f11&gt;&lt;t12&gt;37&lt;/t12&gt;&lt;/f11&gt;&lt;f13&gt;.&lt;/f13&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f5&gt;When the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Sum&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; icon is used, Calc suggest the range to sum with a colored box, but does not insert the formula.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T070214Z" creationid="olex" creationdate="20180901T070058Z">
@@ -4506,6 +4514,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T172651Z" creationid="olex" creationdate="20180430T172651Z">
         <seg>Отобразится цветовая палитра, подобная палитре цветов шрифта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A comment is not considered a part of the spreadsheet for calculation or printing purposes, and will only appear when hovering the mouse over the particular cell that has been ‘commented’.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T181029Z" creationid="olex" creationdate="20180906T181029Z">
+        <seg>Комментарий не считается частью таблицы для расчета или печати и появляется только при наведении указателя мыши на определенную ячейку, которая была «прокомментирована».</seg>
       </tuv>
     </tu>
     <tu>
@@ -5732,6 +5748,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180503T191600Z" creationid="olex" creationdate="20180503T191600Z">
         <seg>Так же, вы можете защитить всю электронную таблицу, а не отдельные ячейки на отдельных листах, выбрав в меню &lt;f0&gt;Сервис &gt; Защитить документ&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternatively, you can choose to protect the entire spreadsheet rather than individual cells on individual sheets by selecting &lt;f0&gt;Tools &gt; Protect Spreadsheet&lt;/f0&gt; from the &lt;tc1/&gt;Menu&lt;ts2/&gt; &lt;f3&gt;bar&lt;/f3&gt;&lt;te4/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T180411Z" creationid="olex" creationdate="20180906T180411Z">
+        <seg>Кроме того, вы можете защитить всю электронную таблицу, а не отдельные ячейки на отдельных листах, выбрав в меню &lt;f0&gt;Сервис &gt; Защитить лист...&lt;/f0&gt;&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;/f3&gt;&lt;te4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7370,6 +7394,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193847Z" creationid="olex" creationdate="20180307T193847Z">
         <seg>Ячейка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cell &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;c&lt;/f2&gt;&lt;te3/&gt;omments</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T180856Z" creationid="olex" creationdate="20180906T180856Z">
+        <seg>Комментарии &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;к &lt;/f2&gt;&lt;te3/&gt;ячейке</seg>
       </tuv>
     </tu>
     <tu>
@@ -12761,6 +12793,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180503T191844Z" creationid="olex" creationdate="20180503T191844Z">
         <seg>Рисунок &lt;seq0&gt;37&lt;/seq0&gt;: Значок замка на защищенном листе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;37&lt;/seq0&gt;: The lock&lt;ts1/&gt; &lt;f2&gt;icon&lt;/f2&gt;&lt;te3/&gt; in a protected sheet</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T180751Z" creationid="olex" creationdate="20180906T180751Z">
+        <seg>Рисунок &lt;seq0&gt;37&lt;/seq0&gt;: Значок блокировки&lt;ts1/&gt; &lt;f2&gt;&lt;/f2&gt;&lt;te3/&gt; на защищенном листе</seg>
       </tuv>
     </tu>
     <tu>
