@@ -279,6 +279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Alternatively, a comment can be inserted&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;by selecting &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Insert &gt; Comment &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;from the Menu bar&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;, &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;by pressing the keyboard shortcut &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;(Ctrl+Alt+C), &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;or by clicking the icon in the &lt;/f21&gt;&lt;f22&gt;&lt;f23&gt;Standard Toolbar.&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T181658Z" creationid="olex" creationdate="20180906T181342Z">
+        <seg>&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;По другому комментарий можно вставить&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;, выбрав в меню &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Вставка &gt; Комментарий&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;, &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;или нажав сочетание клавиш &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;(Ctrl+Alt+C), &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;, или нажав соответствующий значок на панели инструментов &lt;/f21&gt;&lt;f22&gt;&lt;f23&gt;Стандартная.&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f9&gt;&lt;te10/&gt;See &lt;tc11/&gt;the &lt;f12&gt;Writer Guide&lt;/f12&gt;&lt;ts13/&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;for more informat&lt;/f17&gt;&lt;/f16&gt;&lt;te18/&gt;&lt;ts19/&gt;&lt;f20&gt;&lt;f21&gt;ion&lt;/f21&gt;&lt;/f20&gt;&lt;te22/&gt;&lt;ts23/&gt;&lt;f24&gt;.&lt;/f24&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T180700Z" creationid="olex" creationdate="20180828T180700Z">
@@ -796,6 +804,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T182935Z" creationid="olex" creationdate="20180828T182935Z">
         <seg>&lt;f0&gt;По умолчанию в LibreOffice Calc &lt;/f0&gt;&lt;tc1/&gt;&lt;f2&gt;используется&lt;/f2&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;f7&gt; &lt;/f7&gt;&lt;tc8/&gt;&lt;f9&gt;свой собственный синтаксис формулы, называемый &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Calc R1&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; в отличие от синтаксиса &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Excel R1&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;, который используется в Microsoft Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;By default, comments will remain hidden and only appear when hovering the mouse.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T181727Z" creationid="olex" creationdate="20180906T181727Z">
+        <seg>&lt;f0&gt;По умолчанию комментарии скрыты и отображаются только при наведении мыши.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2542,6 +2558,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180717T175215Z" creationid="olex" creationdate="20180717T175215Z">
         <seg>&lt;f0&gt;Окно&lt;/f0&gt;Стили (плавающее, или на Боковой панели)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;The easiest way to insert a comment is by right-clicking on the desired cell and selecting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert Comment &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;from the&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Context Menu &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;that appears&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T181330Z" creationid="olex" creationdate="20180906T181330Z">
+        <seg>&lt;f0&gt;Самый простой способ вставить комментарий - это нажать правой кнопкой мыши по нужной ячейке и выбрать в появившемся контекстном меню &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Добавить комментарий&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7474,6 +7498,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T173721Z" creationid="olex" creationdate="20180328T173721Z">
         <seg>Ячейки содержат отдельные элементы - текст, цифры, формулы и т. п. - которые составляют данные для отображения и обработки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cells that contain comments are marked with a red square in the upper right corner.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T181758Z" creationid="olex" creationdate="20180906T181758Z">
+        <seg>Ячейки, содержащие комментарии, отмечены красным квадратиком в верхнем правом углу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34308,6 +34340,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T194442Z" creationid="olex" creationdate="20180502T194013Z">
         <seg>Чтобы выключить состояние скрытия защищенных ячеек:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To toggle the visibility of comments, select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;View &gt; Comments &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;from the Menu bar&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T183524Z" creationid="olex" creationdate="20180906T183524Z">
+        <seg>Чтобы переключить видимость комментариев, выберите в меню&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Вид &gt; Комментарий &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;from the Menu bar&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
