@@ -592,6 +592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;A fast alternative to the function wizard, the Calc Sidebar contains a &lt;/f0&gt;&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;f4&gt;F&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt;&lt;f6&gt;&lt;f7&gt;unctions tab&lt;/f7&gt;&lt;/f6&gt; &lt;f8&gt;which allows you &lt;/f8&gt;&lt;ts9/&gt;&lt;f10&gt;to &lt;/f10&gt;&lt;te11/&gt;&lt;f12&gt;quickly list and narrow down functions and provides brief explanations on their use and syntax, but does not provide the search or data entry functionalities of the full wizard.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T190017Z" creationid="olex" creationdate="20180906T190017Z">
+        <seg>&lt;f0&gt;Быстрая альтернатива мастеру функций: боковая панель Calc,- содержит вкладку &lt;/f0&gt;&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt;&lt;f6&gt;&lt;f7&gt;Функции,&lt;/f7&gt;&lt;/f6&gt; &lt;f8&gt;которая позволяет &lt;/f8&gt;&lt;ts9/&gt;&lt;f10&gt;&lt;/f10&gt;&lt;te11/&gt;&lt;f12&gt;быстро листать и выбирать функции и дать краткое объяснение их использования и синтаксиса, но не предоставляет функции поиска или ввода данных полного мастера.&lt;/f12&gt;  вкладку «Функции», которая позволяет .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;A&lt;/f0&gt;&lt;f1&gt;lso, note that languages set with direct formatting will override languages set using styles.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T171307Z" creationid="olex" creationdate="20180730T171226Z">
@@ -1181,6 +1189,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T091745Z" creationid="olex" creationdate="20180414T142551Z">
         <seg>&lt;f0&gt;Вниз&lt;/f0&gt; – создает нисходящий ряд в выбранном диапазоне ячеек для столбца с использованием заданного приращения до конечного значения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Each function, when selected, will display a brief explanation of it&lt;/f0&gt;&lt;tc1/&gt;&lt;f2&gt;s use and acceptable syntax.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T185039Z" creationid="olex" creationdate="20180906T185039Z">
+        <seg>&lt;f0&gt;К каждой функции, когда она выбрана, отобразится краткое пояснение &lt;/f0&gt;&lt;tc1/&gt;&lt;f2&gt;и допустимый синтаксис.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20219,6 +20235,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It will also display dialog boxes &lt;/f2&gt;&lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;where&lt;/f5&gt;&lt;te6/&gt;&lt;f7&gt; you &lt;/f7&gt;&lt;ts8/&gt;&lt;f9&gt;can&lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt;&lt;f12&gt; enter the information required by that function and a &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;result window &lt;/f14&gt;&lt;/f13&gt;&lt;tc15/&gt;&lt;f16&gt;show&lt;/f16&gt;&lt;ts17/&gt;&lt;f18&gt;ing&lt;/f18&gt;&lt;te19/&gt;&lt;tc20/&gt;&lt;f21&gt; the expected calculation from the data &lt;/f21&gt;&lt;tc22/&gt;&lt;f23&gt;entered.&lt;/f23&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T185527Z" creationid="olex" creationdate="20180906T185527Z">
+        <seg>Так же будут отображены диалоговые поля, &lt;/f2&gt;&lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;в&lt;/f5&gt;&lt;te6/&gt;&lt;f7&gt; которых вы &lt;/f7&gt;&lt;ts8/&gt;&lt;f9&gt;можете&lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt;&lt;f12&gt; ввести информацию, необходимую этой функции, и &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;поля с результатами, &lt;/f14&gt;&lt;/f13&gt;&lt;tc15/&gt;&lt;f16&gt;показывающими&lt;/f16&gt;&lt;ts17/&gt;&lt;f18&gt;&lt;/f18&gt;&lt;te19/&gt;&lt;tc20/&gt;&lt;f21&gt; ожидаемый расчет из введенных данных&lt;/f21&gt;&lt;tc22/&gt;&lt;f23&gt;.&lt;/f23&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Its Smart Connectors feature allows you to define your own connection points.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T202932Z" creationid="olex" creationdate="20180607T202402Z">
@@ -37602,6 +37626,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T152345Z" creationid="olex" creationdate="20180722T152345Z">
         <seg>Вы также можете выбрать &lt;f0&gt;Нет (не проверять орфографию)&lt;/f0&gt;, чтобы исключить текст из проверки орфографии или выбрать &lt;f1&gt;Еще...&lt;/f1&gt;, чтобы открыть диалоговое окно Символ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also choose to complete functions from within the wizard &lt;tc3/&gt;rather than having to type full formulas into the formula bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T184902Z" creationid="olex" creationdate="20180906T184902Z">
+        <seg>Вы также можете выполнить функцию прямо из мастера &lt;tc3/&gt;вместо того, чтобы вводить полные формулы в панель формул.</seg>
       </tuv>
     </tu>
     <tu>
