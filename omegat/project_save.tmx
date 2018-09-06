@@ -4334,6 +4334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;ts1/&gt;&lt;f2&gt;T&lt;/f2&gt;&lt;te3/&gt;&lt;tc4/&gt;&lt;f5&gt;o&lt;/f5&gt;&lt;tc6/&gt;&lt;f7&gt; launch the function wizard&lt;/f7&gt;&lt;ts8/&gt;&lt;f9&gt;, click&lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt;&lt;f12&gt; the &lt;/f12&gt;&lt;tc13/&gt;&lt;ts14/&gt;&lt;f15&gt;F&lt;/f15&gt;&lt;te16/&gt;&lt;f17&gt;unction &lt;/f17&gt;&lt;ts18/&gt;&lt;f19&gt;W&lt;/f19&gt;&lt;te20/&gt;&lt;tc21/&gt;&lt;f22&gt;izard icon to the right of the &lt;/f22&gt;&lt;tc23/&gt;&lt;ts24/&gt;&lt;f25&gt;&lt;f26&gt;N&lt;/f26&gt;&lt;/f25&gt;&lt;te27/&gt;&lt;f28&gt;&lt;f29&gt;ame box.&lt;/f29&gt;&lt;/f28&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T184355Z" creationid="olex" creationdate="20180906T184355Z">
+        <seg>&lt;ts1/&gt;&lt;f2&gt;&lt;/f2&gt;&lt;te3/&gt;&lt;tc4/&gt;&lt;f5&gt;&lt;/f5&gt;&lt;tc6/&gt;&lt;f7&gt;Чтобы запустить Мастер функций&lt;/f7&gt;&lt;ts8/&gt;&lt;f9&gt;, нажмите&lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt;&lt;f12&gt; значок &lt;/f12&gt;&lt;tc13/&gt;&lt;ts14/&gt;&lt;f15&gt;&lt;/f15&gt;&lt;te16/&gt;&lt;f17&gt;Мастер функций&lt;/f17&gt;&lt;ts18/&gt;&lt;f19&gt;&lt;/f19&gt;&lt;te20/&gt;&lt;tc21/&gt;&lt;f22&gt; справа от &lt;/f22&gt;&lt;tc23/&gt;&lt;ts24/&gt;&lt;f25&gt;&lt;f26&gt;&lt;/f26&gt;&lt;/f25&gt;&lt;te27/&gt;&lt;f28&gt;&lt;f29&gt;Поля имени.&lt;/f29&gt;&lt;/f28&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;ts11/&gt;&lt;f12&gt;T&lt;/f12&gt;o open the Find &amp; Replace dialog, &lt;te13/&gt;&lt;tc14/&gt;&lt;ts15/&gt;&lt;f16&gt;s&lt;/f16&gt;&lt;te17/&gt;elect the button&lt;ts18/&gt; (&lt;df19&gt;&lt;di20/&gt;&lt;/df19&gt;) &lt;te21/&gt;&lt;s22/&gt;to the right of Match Case&lt;tc23/&gt;&lt;tc24/&gt;&lt;tc25/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T171442Z" creationid="olex" creationdate="20180802T171442Z">
@@ -5635,6 +5643,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T015551Z" creationid="lera" creationdate="20180303T151856Z">
         <seg>Все торговые знаки в этом руководстве принадлежат их владельцам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All you have to do is enter the arguments and the calculation is &lt;ts0/&gt;&lt;f1&gt;made &lt;/f1&gt;&lt;te2/&gt;automatically&lt;tc3/&gt;&lt;tc4/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T183840Z" creationid="olex" creationdate="20180906T183543Z">
+        <seg>Все, что вам нужно сделать, это ввести аргументы, и расчет &lt;ts0/&gt;&lt;f1&gt;будет сделан &lt;/f1&gt;&lt;te2/&gt;автоматически&lt;tc3/&gt;&lt;tc4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15412,6 +15428,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Functions and formulas can be entered &lt;tc0/&gt;directly into the formula bar or by accessing the function wizard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T184043Z" creationid="olex" creationdate="20180906T184043Z">
+        <seg>Функции и формулы можно вводить &lt;tc0/&gt;непосредственно в панели формул или путем обращения к Мастеру функций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Functions and formulas can be entered into LibreOffice Calc directly into the formula bar or by accessing the function wizard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T185316Z" creationid="olex" creationdate="20180506T185316Z">
@@ -19630,6 +19654,15 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180530T173203Z" creationid="olex" creationdate="20180506T185947Z">
         <seg>В окне Мастера функций вы можете искать, просматривать и находить многие доступные функции Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>немного сипровизировал, т.к. не совсем понял как перевести - list and narrow</note>
+      <tuv lang="EN-US">
+        <seg>Inside the function wizard, you can search, list&lt;ts0/&gt;,&lt;te1/&gt; and narrow down the many Calc functions &lt;f2&gt;available&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T184722Z" creationid="olex" creationdate="20180906T184722Z">
+        <seg>Внутри мастера функций вы можете искать, сортировать&lt;ts0/&gt;,&lt;te1/&gt; и выбирать из множество доступных функций Calc.&lt;f2&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28998,6 +29031,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Function &lt;f0&gt;Wizard&lt;/f0&gt; and Function Search</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T184002Z" creationid="olex" creationdate="20180906T183944Z">
+        <seg>Мастер &lt;f0&gt;функций&lt;/f0&gt; и поиск функций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Function Wizard and Function Search</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T180002Z" creationid="olex" creationdate="20180327T180002Z">
@@ -34346,8 +34387,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>To toggle the visibility of comments, select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;View &gt; Comments &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;from the Menu bar&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180906T183524Z" creationid="olex" creationdate="20180906T183524Z">
-        <seg>Чтобы переключить видимость комментариев, выберите в меню&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Вид &gt; Комментарий &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;from the Menu bar&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T183717Z" creationid="olex" creationdate="20180906T183524Z">
+        <seg>Чтобы переключить видимость комментариев, выберите в меню &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Вид &gt; Комментарий &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
