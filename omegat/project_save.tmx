@@ -594,8 +594,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;A fast alternative to the function wizard, the Calc Sidebar contains a &lt;/f0&gt;&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;f4&gt;F&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt;&lt;f6&gt;&lt;f7&gt;unctions tab&lt;/f7&gt;&lt;/f6&gt; &lt;f8&gt;which allows you &lt;/f8&gt;&lt;ts9/&gt;&lt;f10&gt;to &lt;/f10&gt;&lt;te11/&gt;&lt;f12&gt;quickly list and narrow down functions and provides brief explanations on their use and syntax, but does not provide the search or data entry functionalities of the full wizard.&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180906T190017Z" creationid="olex" creationdate="20180906T190017Z">
-        <seg>&lt;f0&gt;Быстрая альтернатива мастеру функций: боковая панель Calc,- содержит вкладку &lt;/f0&gt;&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt;&lt;f6&gt;&lt;f7&gt;Функции,&lt;/f7&gt;&lt;/f6&gt; &lt;f8&gt;которая позволяет &lt;/f8&gt;&lt;ts9/&gt;&lt;f10&gt;&lt;/f10&gt;&lt;te11/&gt;&lt;f12&gt;быстро листать и выбирать функции и дать краткое объяснение их использования и синтаксиса, но не предоставляет функции поиска или ввода данных полного мастера.&lt;/f12&gt;  вкладку «Функции», которая позволяет .</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T190113Z" creationid="olex" creationdate="20180906T190017Z">
+        <seg>&lt;f0&gt;Быстрая альтернатива мастеру функций: боковая панель Calc,- содержит вкладку &lt;/f0&gt;&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt;&lt;f6&gt;&lt;f7&gt;Функции,&lt;/f7&gt;&lt;/f6&gt; &lt;f8&gt;которая позволяет &lt;/f8&gt;&lt;ts9/&gt;&lt;f10&gt;&lt;/f10&gt;&lt;te11/&gt;&lt;f12&gt;быстро листать и выбирать функции, посмотреть краткое объяснение их использования и синтаксиса, но не предоставляет функции поиска или ввода данных, как в Мастере функций.&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1357,6 +1357,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T191642Z" creationid="olex" creationdate="20180330T191642Z">
         <seg>&lt;f0&gt;Фиксированная ширина&lt;/f0&gt; - разделяет данные фиксированной ширины (равное количество символов) на столбцы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;For a&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;&lt;f3&gt; more in&lt;/f3&gt;&lt;ts4/&gt;&lt;f5&gt;-&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt;&lt;f8&gt;depth introduction to formulas and the function wizard&lt;/f8&gt;&lt;ts9/&gt;&lt;f10&gt;, see&lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;&lt;tc13/&gt;&lt;ts14/&gt;&lt;f15&gt; the&lt;/f15&gt;&lt;te16/&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;C&lt;/f19&gt;&lt;/f18&gt;&lt;ts20/&gt;&lt;f21&gt;&lt;f22&gt;alc Guide C&lt;/f22&gt;&lt;/f21&gt;&lt;te23/&gt;&lt;f24&gt;&lt;f25&gt;hapter 7&lt;/f25&gt;&lt;/f24&gt;&lt;tc26/&gt;&lt;f27&gt;&lt;f28&gt; Formulas and Functions&lt;/f28&gt;&lt;/f27&gt;&lt;tc29/&gt;&lt;f30&gt;.&lt;/f30&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T190435Z" creationid="olex" creationdate="20180906T190435Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;&lt;f3&gt;Более подробное&lt;/f3&gt;&lt;ts4/&gt;&lt;f5&gt;-&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt;&lt;f8&gt; введение в функции и Мастер функций&lt;/f8&gt;&lt;ts9/&gt;&lt;f10&gt; смотрите&lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;&lt;tc13/&gt;&lt;ts14/&gt;&lt;f15&gt; в&lt;/f15&gt;&lt;te16/&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;&lt;/f19&gt;&lt;/f18&gt;&lt;ts20/&gt;&lt;f21&gt;&lt;f22&gt;Руководстве по Calc &lt;/f22&gt;&lt;/f21&gt;&lt;te23/&gt;&lt;f24&gt;&lt;f25&gt;Главе 7&lt;/f25&gt;&lt;/f24&gt;&lt;tc26/&gt;&lt;f27&gt;&lt;f28&gt; Формулы и Функции&lt;/f28&gt;&lt;/f27&gt;&lt;tc29/&gt;&lt;f30&gt;.&lt;/f30&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19677,8 +19685,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       <tuv lang="EN-US">
         <seg>Inside the function wizard, you can search, list&lt;ts0/&gt;,&lt;te1/&gt; and narrow down the many Calc functions &lt;f2&gt;available&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180906T184722Z" creationid="olex" creationdate="20180906T184722Z">
-        <seg>Внутри мастера функций вы можете искать, сортировать&lt;ts0/&gt;,&lt;te1/&gt; и выбирать из множество доступных функций Calc.&lt;f2&gt;&lt;/f2&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180906T190028Z" creationid="olex" creationdate="20180906T184722Z">
+        <seg>Внутри мастера функций вы можете искать, листать&lt;ts0/&gt;,&lt;te1/&gt; и выбирать из множество доступных функций Calc.&lt;f2&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
