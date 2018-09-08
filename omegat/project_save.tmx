@@ -4454,6 +4454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A &lt;f0&gt;p&lt;/f0&gt;ivot table is a way to &lt;tc1/&gt;&lt;f2&gt;organize&lt;/f2&gt;, manipulate, and summarize large amounts of data &lt;tc3/&gt;&lt;f4&gt;to make&lt;/f4&gt; it much easier to read &lt;f5&gt;and understand &lt;/f5&gt;while also allowing you to answer different questions about your spreadshee&lt;f6&gt;t&lt;/f6&gt; by rearranging --or pivoting-- &lt;f7&gt;the data you enter into it&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T191416Z" creationid="olex" creationdate="20180908T191416Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;Сводная таблица - это способ &lt;tc1/&gt;&lt;f2&gt;организовать&lt;/f2&gt;, манипулировать и суммировать большие объемы данных &lt;tc3/&gt;&lt;f4&gt;, чтобы сделать&lt;/f4&gt; их намного легче читаемыми &lt;f5&gt;и понимаемыми&lt;/f5&gt;, а также позволить вам отвечать на различные вопросы о вашей электронной таблице&lt;f6&gt;&lt;/f6&gt;, переставляя  или переворачивая&lt;f7&gt; данные, которые вы ввели.&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A &lt;f0&gt;special character&lt;/f0&gt; is one not found on a standard user’s keyboard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T175402Z" creationid="olex" creationdate="20180802T175402Z">
@@ -23460,6 +23468,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One of the most useful &lt;f0&gt;tools for analyzing data i&lt;/f0&gt;s the &lt;f1&gt;Pivot Table&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T190900Z" creationid="olex" creationdate="20180908T190900Z">
+        <seg>Одним из наиболее полезных &lt;f0&gt;инструментов для анализа данных является &lt;/f0&gt;является &lt;f1&gt;Сводная таблица&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One of the most useful tools for analyzing data is the &lt;f0&gt;Pivot Table&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T185017Z" creationid="olex" creationdate="20180507T185017Z">
@@ -24241,6 +24257,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T152646Z" creationid="olex" creationdate="20180623T152646Z">
         <seg>Персонализация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pivot &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;t&lt;/f2&gt;&lt;te3/&gt;ables and &lt;tc4/&gt;&lt;ts5/&gt;&lt;f6&gt;p&lt;/f6&gt;&lt;te7/&gt;ivot &lt;tc8/&gt;&lt;ts9/&gt;&lt;f10&gt;c&lt;/f10&gt;&lt;te11/&gt;harts</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T190720Z" creationid="olex" creationdate="20180908T190720Z">
+        <seg>Сводные &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;&lt;/f2&gt;&lt;te3/&gt;таблицы и &lt;tc4/&gt;&lt;ts5/&gt;&lt;f6&gt;&lt;/f6&gt;&lt;te7/&gt;сводные &lt;tc8/&gt;&lt;ts9/&gt;&lt;f10&gt;&lt;/f10&gt;&lt;te11/&gt;диаграммы</seg>
       </tuv>
     </tu>
     <tu>
@@ -25979,6 +26003,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T184640Z" creationid="olex" creationdate="20180507T184640Z">
         <seg>Подробнее о различных инструментах, доступных в Calc для анализа ваших данных, смотрите в &lt;f0&gt;Руководство по Calc Глава 9: Анализ данных&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the &lt;f0&gt;Calc Guide Chapter 9&lt;/f0&gt;&lt;tc1/&gt;&lt;f2&gt; Data Analysis&lt;/f2&gt; for more information on &lt;f3&gt;the &lt;/f3&gt;&lt;tc4/&gt;&lt;f5&gt;tools &lt;/f5&gt;available in Calc to analyze your data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T190623Z" creationid="olex" creationdate="20180908T190623Z">
+        <seg>Более подробную информацию о инструментах, доступных в Calc для анализа ваших данных, смотрите в главе &lt;f0&gt;9 Руководства по Calc&lt;/f0&gt;&lt;tc1/&gt;&lt;f2&gt; Анализ данных&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;tc4/&gt;&lt;f5&gt;&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
