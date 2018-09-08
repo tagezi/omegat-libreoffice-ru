@@ -1361,6 +1361,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;For a&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt; more in-depth explanation of pivot tables&lt;ts3/&gt;,&lt;te4/&gt;&lt;tc5/&gt; &lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;see&lt;/f8&gt;&lt;te9/&gt;&lt;ts10/&gt;&lt;f11&gt; the&lt;/f11&gt;&lt;te12/&gt; &lt;f13&gt;C&lt;/f13&gt;&lt;ts14/&gt;&lt;f15&gt;&lt;f16&gt;alc Guide C&lt;/f16&gt;&lt;/f15&gt;&lt;te17/&gt;&lt;f18&gt;hapter 8&lt;/f18&gt;&lt;tc19/&gt;&lt;f20&gt; Pivot Tables&lt;/f20&gt;&lt;tc21/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T193737Z" creationid="olex" creationdate="20180908T193737Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;Более подробное объяснение сводных таблиц&lt;ts3/&gt;,&lt;te4/&gt;&lt;tc5/&gt; &lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;смотрите&lt;/f8&gt;&lt;te9/&gt;&lt;ts10/&gt;&lt;f11&gt; в&lt;/f11&gt;&lt;te12/&gt; Главе 8&lt;f13&gt;&lt;/f13&gt;&lt;ts14/&gt;&lt;f15&gt;&lt;f16&gt; руководство по Calc&lt;/f16&gt;&lt;/f15&gt;&lt;te17/&gt;&lt;f18&gt;&lt;/f18&gt;&lt;tc19/&gt;&lt;f20&gt; Сводные таблицы&lt;/f20&gt;&lt;tc21/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;For a&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;&lt;f3&gt; more in&lt;/f3&gt;&lt;ts4/&gt;&lt;f5&gt;-&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt;&lt;f8&gt;depth introduction to formulas and the function wizard&lt;/f8&gt;&lt;ts9/&gt;&lt;f10&gt;, see&lt;/f10&gt;&lt;te11/&gt;&lt;tc12/&gt;&lt;tc13/&gt;&lt;ts14/&gt;&lt;f15&gt; the&lt;/f15&gt;&lt;te16/&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;C&lt;/f19&gt;&lt;/f18&gt;&lt;ts20/&gt;&lt;f21&gt;&lt;f22&gt;alc Guide C&lt;/f22&gt;&lt;/f21&gt;&lt;te23/&gt;&lt;f24&gt;&lt;f25&gt;hapter 7&lt;/f25&gt;&lt;/f24&gt;&lt;tc26/&gt;&lt;f27&gt;&lt;f28&gt; Formulas and Functions&lt;/f28&gt;&lt;/f27&gt;&lt;tc29/&gt;&lt;f30&gt;.&lt;/f30&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180906T190435Z" creationid="olex" creationdate="20180906T190435Z">
@@ -2069,6 +2077,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T172655Z" creationid="olex" creationdate="20180627T172655Z">
         <seg>&lt;f0&gt;Вставка из буфера обмена&lt;/f0&gt; – нажатие средней кнопки мыши вставляет содержимое «&lt;i1/&gt;Буфер обмена» под курсором.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Pivot &lt;/f0&gt;&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;f4&gt;c&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt;&lt;f6&gt;harts&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T193758Z" creationid="olex" creationdate="20180908T193758Z">
+        <seg>&lt;f0&gt;Сводные &lt;/f0&gt;&lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt;&lt;f6&gt;диаграммы&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15488,6 +15504,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T181835Z" creationid="olex" creationdate="20180329T181835Z">
         <seg>Мастер функций</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Functionally, &lt;f0&gt;pivot charts &lt;/f0&gt;are &lt;f1&gt;nearly identical&lt;/f1&gt; to regular charts &lt;tc2/&gt;except in &lt;f3&gt;two key areas&lt;/f3&gt;&lt;ts4/&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt;&lt;f8&gt; First, &lt;/f8&gt;as the data in the &lt;f9&gt;pivot table&lt;/f9&gt; is altered, the &lt;f10&gt;pivot chart &lt;/f10&gt;will adjust itself automatically &lt;f11&gt;to follow suit.&lt;/f11&gt;&lt;tc12/&gt;&lt;f13&gt; The second difference is &lt;/f13&gt;the inclusion of &lt;f14&gt;Field Buttons&lt;/f14&gt;; &lt;f15&gt;graphical elements &lt;/f15&gt;&lt;tc16/&gt;&lt;ts17/&gt;&lt;f18&gt;that&lt;/f18&gt;&lt;te19/&gt; allow you to filter the content of the &lt;f20&gt;pivot table&lt;/f20&gt; from within the &lt;f21&gt;pivot chart &lt;/f21&gt;itself, &lt;f22&gt;which is a useful time-saver if your pivot table and pivot chart are contained on different sheets.&lt;/f22&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T194926Z" creationid="olex" creationdate="20180908T194926Z">
+        <seg>Функционально, &lt;f0&gt;сводная диаграммы &lt;/f0&gt;&lt;f1&gt;почти идентичны&lt;/f1&gt; обычным диаграммам&lt;tc2/&gt;, кроме &lt;f3&gt;двух ключевых особенностей&lt;/f3&gt;&lt;ts4/&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt;&lt;f8&gt; Во первых, &lt;/f8&gt;по мере того, как данные в &lt;f9&gt;сводной таблице&lt;/f9&gt; изменяются, &lt;f10&gt;сводная диаграмма &lt;/f10&gt;настраивается автоматически, &lt;f11&gt;вслед за изменениями.&lt;/f11&gt;&lt;tc12/&gt;&lt;f13&gt; Второе отличие, это &lt;/f13&gt;включение &lt;f14&gt;Кнопок поля&lt;/f14&gt;; &lt;f15&gt;графических элементов&lt;/f15&gt;&lt;tc16/&gt;&lt;ts17/&gt;&lt;f18&gt;, которые&lt;/f18&gt;&lt;te19/&gt; позволяют вам фильтровать содержимое &lt;f20&gt;сводной таблицы&lt;/f20&gt; из самой &lt;f21&gt;сводной диаграммы &lt;/f21&gt;, &lt;f22&gt;что является полезной экономией времени, если ваша сводная таблица и сводная диаграмма содержатся на разных листах.&lt;/f22&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33571,6 +33595,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T195438Z" creationid="olex" creationdate="20180424T194924Z">
         <seg>Чтобы настроить вид границ ячейки или группы выбранных ячеек, щелкните по значку Обрамление &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt; на панели инструментов Форматирование и выберите один из вариантов границ, отображаемых в палитре ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To get a quick visual representation of the data contained &lt;f0&gt;in &lt;/f0&gt;&lt;f1&gt;a &lt;/f1&gt;&lt;f2&gt;pivot table&lt;/f2&gt;, a &lt;f3&gt;Pivot Chart&lt;/f3&gt; can be generated.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T194027Z" creationid="olex" creationdate="20180908T193816Z">
+        <seg>Чтобы получить быстрое визуальное представление данных, содержащихся &lt;f0&gt;в &lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;сводной таблице&lt;/f2&gt;, можно создать &lt;f3&gt;Сводную диаграмму&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
