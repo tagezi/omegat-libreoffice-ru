@@ -3421,6 +3421,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f3&gt;To determine your solution, &lt;/f3&gt;you &lt;f4&gt;could &lt;/f4&gt;manually calculate that amount by using the sorting and formatting options provided by Calc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T191953Z" creationid="olex" creationdate="20180908T191953Z">
+        <seg>&lt;f3&gt;Чтобы вычислить ваше решение, &lt;/f3&gt;вы &lt;f4&gt;можете &lt;/f4&gt;вычислить эту сумму вручную, используя параметры сортировки и форматирования, доступные в Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f3&gt;When activated, a&lt;/f3&gt; &lt;t4/&gt;checkmark appear&lt;f5&gt;s&lt;/f5&gt; next to the option.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T164516Z" creationid="olex" creationdate="20180727T164516Z">
@@ -5853,6 +5861,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T212951Z" creationid="olex" creationdate="20180407T212951Z">
         <seg>Другой вариант:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternatively&lt;ts0/&gt;,&lt;te1/&gt; however, you could arrange a pivot table as shown below to make that data easier to organize and &lt;f2&gt;read&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T192222Z" creationid="olex" creationdate="20180908T192222Z">
+        <seg>По другому&lt;ts0/&gt;,&lt;te1/&gt; вы можете организовать сводную таблицу, как показано ниже, чтобы упростить организацию и &lt;f2&gt;чтение&lt;/f2&gt; этих данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13896,6 +13912,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T114424Z" creationid="asus" creationdate="20180813T114424Z">
         <seg>Например, &lt;f0&gt;( matrix { a # b ## c # d } )&lt;/f0&gt; даёт результат&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, &lt;f0&gt;let’s say that &lt;/f0&gt;you have a spreadsheet containing a list of donations to various charities &lt;f1&gt;by a group of recruiters in various months, &lt;/f1&gt;but you are only interested in how much &lt;f2&gt;money &lt;/f2&gt;each recruiter has collected in total.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T191638Z" creationid="olex" creationdate="20180908T191638Z">
+        <seg>Например, &lt;f0&gt;предположим, что &lt;/f0&gt;у вас есть таблица с пожертвованиями различных благотворительных организаций &lt;f1&gt;группой рекрутеров в разные месяцы, &lt;/f1&gt;но вас интересует только то, сколько &lt;f2&gt;денег &lt;/f2&gt;собрал каждый рекрутер.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32624,6 +32648,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T182426Z" creationid="olex" creationdate="20180615T182426Z">
         <seg>Чтобы получить доступ к параметрам настройки панели инструментов, щелкните правой кнопкой мыши по пустому пространству между значками на панели инструментов, чтобы открыть контекстное меню:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To access the pivot table creation dialog, choose &lt;f0&gt;Insert &gt; Pivot Table&lt;/f0&gt; or &lt;f1&gt;Data &gt; Pivot Table &gt; Create&lt;/f1&gt; from the &lt;f2&gt;M&lt;/f2&gt;enu &lt;f3&gt;bar&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T192412Z" creationid="olex" creationdate="20180908T192412Z">
+        <seg>Чтобы открыть диалоговое окно создания сводной таблицы, выберите в меню &lt;f0&gt;Вставка &gt; Сводная таблица&lt;/f0&gt; or &lt;f1&gt;Data &gt; Pivot Table &gt; Create&lt;/f1&gt; from the &lt;f2&gt;M&lt;/f2&gt;enu &lt;f3&gt;bar&lt;/f3&gt;.  «Вставка»&gt; «Сводная таблица» или «Данные»&gt; «Сводная таблица»&gt; «Создать» в строке меню.</seg>
       </tuv>
     </tu>
     <tu>
