@@ -416,6 +416,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;5&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;What is Impress?&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T201503Z" creationid="olex" creationdate="20180908T201503Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;5&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Что такое Impress?&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;6&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Draw main window&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T144815Z" creationid="olex" creationdate="20180603T144815Z">
@@ -572,6 +580,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T191916Z" creationid="olex" creationdate="20180607T191916Z">
         <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Глава 1 Введение в LibreOffice&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 6 Getting Started with Impress&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T201611Z" creationid="olex" creationdate="20180908T201611Z">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Глава 6 Начало работы с Impress&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3934,6 +3950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;38&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Running a slide show with Impress Remote&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T201530Z" creationid="olex" creationdate="20180908T201530Z">
+        <seg>&lt;t0&gt;38&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Запуск слайд-шоу с помощью Impress Remote&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;48&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 5 Getting started with Calc&lt;/t4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T181045Z" creationid="olex" creationdate="20180828T181045Z">
@@ -4054,6 +4078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Chapter 6 Getting Started with Impress&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T201552Z" creationid="olex" creationdate="20180908T201552Z">
+        <seg>&lt;t0&gt;Глава 6 Начало работы с Impress&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;Chapter 7 Getting Started with Draw&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;5&lt;/t3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T145107Z" creationid="olex" creationdate="20180603T145107Z">
@@ -4146,6 +4178,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T171609Z" creationid="olex" creationdate="20180326T171609Z">
         <seg>&lt;t0&gt;Печать&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;51&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Running a slide show with Impress Remote&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;39&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T201446Z" creationid="olex" creationdate="20180908T201446Z">
+        <seg>&lt;t0&gt;Запуск слайд-шоу с помощью Impress Remote&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;39&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7898,6 +7938,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T171342Z" creationid="olex" creationdate="20180326T171342Z">
         <seg>Глава 5 Начало работы с Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chapter 6 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T201711Z" creationid="olex" creationdate="20180908T201711Z">
+        <seg>Глава 6 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chapter 6 Getting Started with Impress</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T201705Z" creationid="olex" creationdate="20180908T201705Z">
+        <seg>Глава 6 Начало работы с Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -14740,6 +14796,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information on editing print ranges, see the &lt;f0&gt;Calc Guide&lt;/f0&gt;&lt;tc1/&gt;&lt;f2&gt; Chapter 6 Printing, Exporting, and E‑mailing&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T200848Z" creationid="olex" creationdate="20180908T200848Z">
+        <seg>Дополнительные сведения об изменении диапазонов печати смотрите в &lt;f0&gt;Руководстве по Calc&lt;/f0&gt;&lt;tc1/&gt;&lt;f2&gt; Главе 6 Печать, экспорт и отправка по электронной почте&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information on floating and docking toolbars, see Chapter 1, Introducing LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T181522Z" creationid="olex" creationdate="20180731T181522Z">
@@ -15632,6 +15696,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T145156Z" creationid="olex" creationdate="20180603T145156Z">
         <seg>Начало работы с Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Getting Started with Impress</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T201717Z" creationid="olex" creationdate="20180908T201717Z">
+        <seg>Начало работы с Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -21534,6 +21606,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Main Impress window</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T202448Z" creationid="olex" creationdate="20180908T202448Z">
+        <seg>Главное окно Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Major updates to OpenOffice.org included version 2.0 in October 2005 and version 3.0 in October 2008.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T164623Z" creationid="lera" creationdate="20180303T164623Z">
@@ -24509,6 +24589,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Presentations in LibreOffice</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T201729Z" creationid="olex" creationdate="20180908T201729Z">
+        <seg>Презентации в LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;F11&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;, then right click on the style to open the dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T095627Z" creationid="olex" creationdate="20180815T095627Z">
@@ -26447,6 +26535,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Row Break&lt;/f0&gt; or &lt;f1&gt;Column Break&lt;/f1&gt; &lt;tc2/&gt;&lt;ts3/&gt;&lt;f4&gt;as&lt;/f4&gt;&lt;te5/&gt; need&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;ed&lt;/f8&gt;&lt;te9/&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T201042Z" creationid="olex" creationdate="20180908T201042Z">
+        <seg>Выберите &lt;f0&gt;Разрыв по строке&lt;/f0&gt; или &lt;f1&gt;Разрыв по столбцу&lt;/f1&gt; &lt;tc2/&gt;&lt;ts3/&gt;&lt;f4&gt;по&lt;/f4&gt;&lt;te5/&gt; необходимости&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;/f8&gt;&lt;te9/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Row Break&lt;/f0&gt; or &lt;f1&gt;Column Break&lt;/f1&gt; depending on your need and break is removed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T185039Z" creationid="olex" creationdate="20180508T185039Z">
@@ -27858,6 +27954,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slides pane</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T202700Z" creationid="olex" creationdate="20180908T202700Z">
+        <seg>Панель слайдов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Slideshows can be further enhanced using Fontwork special effects text, as well as sound and video clips.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T202208Z" creationid="olex" creationdate="20180607T202208Z">
@@ -28320,6 +28424,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T152644Z" creationid="olex" creationdate="20180603T152644Z">
         <seg>Звезды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting Impress</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T202433Z" creationid="olex" creationdate="20180908T202433Z">
+        <seg>Запуск Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -29843,6 +29955,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T094422Z" creationid="tagezi" creationdate="20180311T094422Z">
         <seg>Авторы той главы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The contributors to that chapter&lt;ts1/&gt; &lt;f2&gt;and subsequent revisio&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;ns&lt;/f5&gt;&lt;te6/&gt; are:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T202327Z" creationid="olex" creationdate="20180908T202225Z">
+        <seg>Авторами этой главы&lt;ts1/&gt; &lt;f2&gt;и последующих изменений&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;&lt;/f5&gt;&lt;te6/&gt; являются:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31945,6 +32065,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This automatically changes &lt;f2&gt;Rows to repeat &lt;s3/&gt;&lt;/f2&gt;from&lt;tc4/&gt; &lt;f5&gt;- none -&lt;/f5&gt; &lt;s6/&gt;to &lt;f7&gt;- user defined -&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T200705Z" creationid="olex" creationdate="20180908T200705Z">
+        <seg>Это автоматически изменит значение в поле &lt;f2&gt;Повторять строки &lt;s3/&gt;&lt;/f2&gt;с&lt;tc4/&gt; &lt;f5&gt;- нет -&lt;/f5&gt; &lt;s6/&gt;на &lt;f7&gt;- пользовательский -&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This automatically changes &lt;f2&gt;Rows to repeat&lt;/f2&gt; &lt;s3/&gt;from, &lt;f4&gt;- none -&lt;/f4&gt; &lt;s5/&gt;to &lt;f6&gt;- user defined -&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T182900Z" creationid="olex" creationdate="20180508T182225Z">
@@ -32045,6 +32173,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T101239Z" creationid="olex" creationdate="20180721T101239Z">
         <seg>Эта глава адаптирована и обновлена из главы 4 &lt;f0&gt;Начало работы с OpenOffice.org 3.x&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chapter is adapted and updated from Chapter 6 of &lt;f0&gt;Getting Started with OpenOffice.org 3.3&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T202038Z" creationid="olex" creationdate="20180908T202038Z">
+        <seg>Эта глава основана на обновлении Главы 6 &lt;f0&gt;Начало работы с OpenOffice.org 3.3&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36403,6 +36539,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What is Impress?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T202418Z" creationid="olex" creationdate="20180908T202418Z">
+        <seg>Что такое Impress?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What is LibreOffice?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T194627Z" creationid="olex" creationdate="20180607T194627Z">
@@ -37498,6 +37642,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T145946Z" creationid="olex" creationdate="20180603T145946Z">
         <seg>Рабочее пространство</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workspace views</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T202837Z" creationid="olex" creationdate="20180908T202837Z">
+        <seg>Виды рабочего пространства</seg>
       </tuv>
     </tu>
     <tu>
