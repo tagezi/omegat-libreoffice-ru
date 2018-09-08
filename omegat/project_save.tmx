@@ -14708,6 +14708,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information on Pivot Charts and Charts in general, see&lt;ts0/&gt; &lt;f1&gt;the&lt;/f1&gt;&lt;te2/&gt; &lt;f3&gt;&lt;f4&gt;C&lt;/f4&gt;&lt;/f3&gt;&lt;ts5/&gt;&lt;f6&gt;&lt;f7&gt;alc Guide C&lt;/f7&gt;&lt;/f6&gt;&lt;te8/&gt;&lt;f9&gt;&lt;f10&gt;hapter 3&lt;/f10&gt;&lt;/f9&gt;&lt;tc11/&gt;&lt;f12&gt;&lt;f13&gt; Charts and Graphs&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; and&lt;/f14&gt;&lt;ts15/&gt;&lt;f16&gt; the&lt;/f16&gt;&lt;te17/&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;C&lt;/f20&gt;&lt;/f19&gt;&lt;ts21/&gt;&lt;f22&gt;&lt;f23&gt;alc Guide C&lt;/f23&gt;&lt;/f22&gt;&lt;te24/&gt;&lt;f25&gt;&lt;f26&gt;hapter 8&lt;/f26&gt;&lt;/f25&gt;&lt;tc27/&gt;&lt;f28&gt;&lt;f29&gt; Pivot Tables&lt;/f29&gt;&lt;/f28&gt;&lt;tc30/&gt;&lt;f31&gt;.&lt;/f31&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T195331Z" creationid="olex" creationdate="20180908T195331Z">
+        <seg>Для получения дополнительной информации о диаграммах и диаграммах сводных данных в общих чертах смотрите&lt;ts0/&gt; &lt;f1&gt;Главу 3&lt;/f1&gt;&lt;te2/&gt; &lt;f3&gt;&lt;f4&gt;Руководства по Calc&lt;/f4&gt;&lt;/f3&gt;&lt;ts5/&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;te8/&gt;&lt;f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;tc11/&gt;&lt;f12&gt;&lt;f13&gt; Диаграммы и графики&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; и&lt;/f14&gt;&lt;ts15/&gt;&lt;f16&gt; Главу 8&lt;/f16&gt;&lt;te17/&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Руководства по Calc&lt;/f20&gt;&lt;/f19&gt;&lt;ts21/&gt;&lt;f22&gt;&lt;f23&gt;&lt;/f23&gt;&lt;/f22&gt;&lt;te24/&gt;&lt;f25&gt;&lt;f26&gt;&lt;/f26&gt;&lt;/f25&gt;&lt;tc27/&gt;&lt;f28&gt;&lt;f29&gt; Сводные таблицы&lt;/f29&gt;&lt;/f28&gt;&lt;tc30/&gt;&lt;f31&gt;.&lt;/f31&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information on creating formulas, see “&lt;bf1&gt;Creating formulas&lt;/bf1&gt;” on page &lt;bf2&gt;8&lt;/bf2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153238Z" creationid="User" creationdate="20180311T153238Z">
@@ -15789,6 +15797,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Page&lt;/f0&gt; on the Menu bar to open the Page Style dialog (Figure &lt;t1&gt;41&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T200123Z" creationid="olex" creationdate="20180908T200123Z">
+        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Страница...&lt;/f0&gt;, чтобы открыть диалоговое окно Стиль страницы (Рисунок &lt;t1&gt;41&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Add&lt;/f0&gt; on the Menu bar to add the extra cells to the print range.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T194439Z" creationid="olex" creationdate="20180507T194439Z">
@@ -15809,6 +15825,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T181859Z" creationid="olex" creationdate="20180508T181859Z">
         <seg>Выберите в меню &lt;f0&gt;Формат &gt; Диапазоны печати &gt; Правка...&lt;/f0&gt;, чтобы открыть диалоговое окно &lt;f1&gt;Изменение диапазонов печати&lt;/f1&gt; (Рисунок &lt;t2&gt;42&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Edit &lt;/f0&gt;on the Menu bar to open the Edit Print Ranges dialog (Figure &lt;t1&gt;42&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T200358Z" creationid="olex" creationdate="20180908T200358Z">
+        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Диапазоны печати &gt; Правка...&lt;/f0&gt;, чтобы открыть диалоговое окно Изменение диапазонов печати (Рисунок &lt;t1&gt;42&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33151,10 +33175,26 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To check the print range, go to &lt;f0&gt;File &gt; Print Preview &lt;/f0&gt;on the Menu bar or click on the &lt;f1&gt;Print Preview&lt;/f1&gt; icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T195709Z" creationid="olex" creationdate="20180908T195709Z">
+        <seg>Чтобы проверить диапазон печати, выберите в меню &lt;f0&gt;Файл &gt; Просмотр печати&lt;/f0&gt; или нажмите значок &lt;f1&gt;Просмотр печати&lt;/f1&gt; на панели инструментов Стандартная.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To check the print ranges, go to &lt;f0&gt;File &gt; Print Preview&lt;/f0&gt; on the Menu bar or click on the &lt;f1&gt;Print Preview&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180601T183132Z" creationid="olex" creationdate="20180507T194734Z">
         <seg>Чтобы проверить диапазоны печати, выберите в меню &lt;f0&gt;Файл &gt; Просмотр печати&lt;/f0&gt; или нажмите значок &lt;f1&gt;Переключить просмотр печати&lt;/f1&gt; &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To check the print ranges, go to &lt;f0&gt;File &gt; Print Preview&lt;/f0&gt; on the Menu bar or click on the &lt;f1&gt;Print Preview&lt;/f1&gt; icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T195905Z" creationid="olex" creationdate="20180908T195905Z">
+        <seg>Чтобы проверить диапазоны печати, выберите в меню &lt;f0&gt;Файл &gt; Просмотр печати&lt;/f0&gt; или нажмите значок &lt;f1&gt;Просмотр печати&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
