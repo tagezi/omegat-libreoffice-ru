@@ -3437,6 +3437,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f4&gt;The Pivot Table Layout dialog will intelligently guess the column headings from the provided raw data and insert them into the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Available Fields&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; selection box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T192907Z" creationid="olex" creationdate="20180908T192907Z">
+        <seg>&lt;f4&gt;Диалоговое окно Разметка сводной таблицы будет разумно угадывать заголовки столбцов из предоставленных исходных данных и вставлять их в &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;доступные места&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; полей выбора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f4&gt;This includes&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt; appl&lt;ts7/&gt;&lt;f8&gt;ying &lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;existing styles, &lt;ts11/&gt;&lt;f12&gt;modifying them, or &lt;/f12&gt;&lt;te13/&gt;creat&lt;ts14/&gt;&lt;f15&gt;ing&lt;/f15&gt;&lt;te16/&gt;&lt;tc17/&gt; new ones&lt;tc18/&gt;&lt;ts19/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T182529Z" creationid="olex" creationdate="20180723T182529Z">
@@ -15432,6 +15440,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T111646Z" creationid="tagezi" creationdate="20180307T111646Z">
         <seg>Оттуда возможно сообщить об ошибках, предложить новый функционал и связаться с другими пользователями сообщества LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From there, you can drag and drop your desired information into &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;column, row, or page fields&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; to organize accordingly and press &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;OK &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;to view the results.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T193217Z" creationid="olex" creationdate="20180908T192916Z">
+        <seg>Оттуда вы можете перетащить нужную информацию в &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;поля столбцов, строк или страниц&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;, чтобы организовать их соответствующим образом, и нажать &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;ОК &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;, чтобы просмотреть результаты.&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32654,8 +32670,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To access the pivot table creation dialog, choose &lt;f0&gt;Insert &gt; Pivot Table&lt;/f0&gt; or &lt;f1&gt;Data &gt; Pivot Table &gt; Create&lt;/f1&gt; from the &lt;f2&gt;M&lt;/f2&gt;enu &lt;f3&gt;bar&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180908T192412Z" creationid="olex" creationdate="20180908T192412Z">
-        <seg>Чтобы открыть диалоговое окно создания сводной таблицы, выберите в меню &lt;f0&gt;Вставка &gt; Сводная таблица&lt;/f0&gt; or &lt;f1&gt;Data &gt; Pivot Table &gt; Create&lt;/f1&gt; from the &lt;f2&gt;M&lt;/f2&gt;enu &lt;f3&gt;bar&lt;/f3&gt;.  «Вставка»&gt; «Сводная таблица» или «Данные»&gt; «Сводная таблица»&gt; «Создать» в строке меню.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T192554Z" creationid="olex" creationdate="20180908T192412Z">
+        <seg>Чтобы открыть диалоговое окно создания сводной таблицы, выберите в меню &lt;f0&gt;Вставка &gt; Сводная таблица...&lt;/f0&gt; или &lt;f1&gt;Данные &gt; Сводная таблица &gt; Создать&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33131,6 +33147,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T190917Z" creationid="olex" creationdate="20180507T190917Z">
         <seg>Чтобы выбрать новую информацию для отображения или изменить макет существующей информации, щелкните правой кнопкой мыши в любом месте существующей сводной таблицы, чтобы открыть контекстное меню, и выберите &lt;f0&gt;Редактировать макет&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To choose new information to display, or to alter the layout of the existing information, right-click anywhere in the existing &lt;f0&gt;pivot table&lt;/f0&gt; to bring up the context menu and choose &lt;f1&gt;Edit Layout.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180908T193535Z" creationid="olex" creationdate="20180908T193535Z">
+        <seg>Чтобы выбрать новую информацию для отображения или изменить макет существующей информации, нажмите правой кнопкой мыши в любом месте существующей &lt;f0&gt;сводной таблицы&lt;/f0&gt;, чтобы открыть контекстное меню и выбрать &lt;f1&gt;Изменить макет...&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
