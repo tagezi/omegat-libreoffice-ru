@@ -5399,6 +5399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adding and formatting text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T194722Z" creationid="olex" creationdate="20180910T194722Z">
+        <seg>Вставка и форматирование текста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding braces to into the markup language&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt; {1 over 2}&lt;/f2&gt; gives the result&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;and the whole fraction is now negative.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T105853Z" creationid="asus" creationdate="20180813T105853Z">
@@ -5407,10 +5415,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adding charts</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195219Z" creationid="olex" creationdate="20180910T195219Z">
+        <seg>Вставка диаграмм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding comments to a document</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T153624Z" creationid="olex" creationdate="20180721T153624Z">
         <seg>Добавление комментариев к документу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding graphics, spreadsheets, and other objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195323Z" creationid="olex" creationdate="20180910T195323Z">
+        <seg>Вставка графических объектов, электронных таблиц и других объектов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding media files</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195237Z" creationid="olex" creationdate="20180910T195237Z">
+        <seg>Вставка медиа-файлов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T194523Z" creationid="olex" creationdate="20180910T194523Z">
+        <seg>Добавление объектов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding pictures</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195156Z" creationid="olex" creationdate="20180910T195156Z">
+        <seg>Вставка изображений</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding pictures, tables, charts, and media</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195139Z" creationid="olex" creationdate="20180910T195139Z">
+        <seg>Вставка изображений, таблиц, диаграмм и медиа</seg>
       </tuv>
     </tu>
     <tu>
@@ -5427,6 +5483,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T210752Z" creationid="olex" creationdate="20180309T210752Z">
         <seg>Добавление стилей таблиц в Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding tables</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195209Z" creationid="olex" creationdate="20180910T195203Z">
+        <seg>Вставка таблиц</seg>
       </tuv>
     </tu>
     <tu>
@@ -7778,6 +7842,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T194241Z" creationid="olex" creationdate="20180424T194241Z">
         <seg>Изменение языка в ячейке позволяет использовать разные языки в одном документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changing list appearance</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195026Z" creationid="olex" creationdate="20180910T195026Z">
+        <seg>Изменение внешнего вида списка</seg>
       </tuv>
     </tu>
     <tu>
@@ -15260,6 +15332,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Formatting pasted text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T194931Z" creationid="olex" creationdate="20180910T194931Z">
+        <seg>Форматирование вставленного текста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Formatting tables</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T110836Z" creationid="olex" creationdate="20180721T110836Z">
@@ -22158,10 +22238,34 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modifying slide elements</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T194511Z" creationid="olex" creationdate="20180910T194511Z">
+        <seg>Изменение элементов слайдов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modifying styles</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194450Z" creationid="olex" creationdate="20180306T194450Z">
         <seg>Изменение стилей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modifying the appearance of all slides</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T194536Z" creationid="olex" creationdate="20180910T194536Z">
+        <seg>Изменение внешнего вида всех слайдов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modifying the slide show</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T194704Z" creationid="olex" creationdate="20180910T194704Z">
+        <seg>Изменение демонстрации слайдов</seg>
       </tuv>
     </tu>
     <tu>
@@ -24477,6 +24581,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pasting unformatted text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T194917Z" creationid="olex" creationdate="20180910T194917Z">
+        <seg>Вставка неформатированного текста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Paths options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T152551Z" creationid="olex" creationdate="20180623T151841Z">
@@ -25114,6 +25226,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T124800Z" creationid="olex" creationdate="20180818T124800Z">
         <seg>Поместите курсор мыши на линию между серой и белой секциями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick font resizing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T194902Z" creationid="olex" creationdate="20180910T194902Z">
+        <seg>Быстрое изменение размера шрифта</seg>
       </tuv>
     </tu>
     <tu>
@@ -28050,6 +28170,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slide masters</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195448Z" creationid="olex" creationdate="20180910T195421Z">
+        <seg>Мастер-слайды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Slides pane</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180908T202700Z" creationid="olex" creationdate="20180908T202700Z">
@@ -28962,6 +29090,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T182011Z" creationid="tagezi" creationdate="20180304T181923Z">
         <seg>Текст и текст в Юникоде (LibreOffice Writer/Web) (.txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text boxes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T194946Z" creationid="olex" creationdate="20180910T194946Z">
+        <seg>Текстовые поля</seg>
       </tuv>
     </tu>
     <tu>
@@ -36243,6 +36379,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using text boxes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T194829Z" creationid="olex" creationdate="20180910T194829Z">
+        <seg>Использование текстовых полей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the &lt;bf0&gt;Save As command&lt;/bf0&gt;&lt;s1/&gt;command above, select the &lt;f2&gt;Save with password&lt;/f2&gt; option in the Save As dialog or Save dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T185023Z" creationid="olex" creationdate="20180617T185023Z">
@@ -36519,6 +36663,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T180325Z" creationid="olex" creationdate="20180611T180325Z">
         <seg>Версии LibreOffice для Windows, Linux и Mac OS X можно скачать бесплатно с &lt;a0&gt;http://www.libreoffice.org/download&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T194842Z" creationid="olex" creationdate="20180910T194842Z">
+        <seg>Вертикальный текст</seg>
       </tuv>
     </tu>
     <tu>
@@ -37730,6 +37882,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183621Z" creationid="olex" creationdate="20180326T183621Z">
         <seg>Работа с листами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working with slide masters and styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195439Z" creationid="olex" creationdate="20180910T195405Z">
+        <seg>Работа с мастер-слайдами и стилями</seg>
       </tuv>
     </tu>
     <tu>
