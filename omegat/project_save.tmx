@@ -5431,6 +5431,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adding comments to a presentation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195750Z" creationid="olex" creationdate="20180910T195750Z">
+        <seg>Вставка комментариев в презентацию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding graphics, spreadsheets, and other objects</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T195323Z" creationid="olex" creationdate="20180910T195323Z">
@@ -5507,6 +5515,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T150749Z" creationid="olex" creationdate="20180603T150749Z">
         <seg>Добавление текста</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding text, footers, and fields to all slides</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195730Z" creationid="olex" creationdate="20180910T195709Z">
+        <seg>Вставка текста, нижних колонтитулов и полей во все слайды</seg>
       </tuv>
     </tu>
     <tu>
@@ -6439,6 +6455,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T184135Z" creationid="olex" creationdate="20180430T184135Z">
         <seg>Применение новой темы поверх существующей будет переопределять все существующие стили темы с настройками внесенными вручную.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Applying a slide master</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195536Z" creationid="olex" creationdate="20180910T195536Z">
+        <seg>Применение мастер-слайда</seg>
       </tuv>
     </tu>
     <tu>
@@ -9736,6 +9760,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connecting the mobile device to the computer</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T200355Z" creationid="olex" creationdate="20180910T200355Z">
+        <seg>Подключение мобильного устройства к компьютеру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connectors</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T151912Z" creationid="olex" creationdate="20180603T151912Z">
@@ -10032,10 +10064,26 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a photo album</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195802Z" creationid="olex" creationdate="20180910T195802Z">
+        <seg>Создание фото-альбома</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a quick table of contents is simple:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180820T181145Z" creationid="olex" creationdate="20180820T181145Z">
         <seg>Быстрое создание простого оглавления:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a slide master</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195513Z" creationid="olex" creationdate="20180910T195513Z">
+        <seg>Создание мастер-слайда</seg>
       </tuv>
     </tu>
     <tu>
@@ -10212,6 +10260,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T083949Z" creationid="tagezi" creationdate="20180319T083949Z">
         <seg>Движения курсора используются для всех операций (как противоположность поиску).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom slide shows</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T200119Z" creationid="olex" creationdate="20180910T200119Z">
+        <seg>Настроить демонстрацию слайдов</seg>
       </tuv>
     </tu>
     <tu>
@@ -11356,8 +11412,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Duplicate slide</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180910T194349Z" creationid="olex" creationdate="20180910T194349Z">
-        <seg>Дублтровать слайд</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195949Z" creationid="olex" creationdate="20180910T194349Z">
+        <seg>Дублировать слайд</seg>
       </tuv>
     </tu>
     <tu>
@@ -12159,6 +12215,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T151949Z" creationid="lera" creationdate="20180303T151949Z">
         <seg>Обратная связь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fields</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195735Z" creationid="olex" creationdate="20180910T195735Z">
+        <seg>Поля</seg>
       </tuv>
     </tu>
     <tu>
@@ -13896,6 +13960,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T175526Z" creationid="olex" creationdate="20180627T175526Z">
         <seg>Шрифты, настроенные для использования с определенным сценарием, такие как арабский, иврит, малаялам и т.д., теперь показывают дополнительный предварительный просмотр некоторого образца текста в целевом скрипте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Footers</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195723Z" creationid="olex" creationdate="20180910T195723Z">
+        <seg>Нижние колонтитулы</seg>
       </tuv>
     </tu>
     <tu>
@@ -16647,6 +16719,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hiding slides</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T200036Z" creationid="olex" creationdate="20180910T200036Z">
+        <seg>Скрытие слайдов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Highlight the required number of columns or rows by holding down the left mouse button on the first one and then dragging across the required number of identifiers.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T211817Z" creationid="olex" creationdate="20180407T211817Z">
@@ -18601,6 +18681,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impress also includes a spelling checker, a thesaurus, text styles, and background styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T200759Z" creationid="olex" creationdate="20180910T200759Z">
+        <seg>Impress также включает проверку орфографии, тезаурус, стили текста и стили фона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Impress can also export to MacroMedia Flash (.swf) and any of the graphics formats listed for Draw.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180723Z" creationid="tagezi" creationdate="20180304T180723Z">
@@ -18621,6 +18709,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T202019Z" creationid="olex" creationdate="20180607T202019Z">
         <seg>Impress предоставляет все распространенные мультимедийные средства презентаций, такие как специальные эффекты, анимация и инструменты рисования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impress&lt;ie0/&gt; is the presentation (slide show) program included in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T200528Z" creationid="olex" creationdate="20180910T200528Z">
+        <seg>Impress&lt;ie0/&gt; это модуль презентаций (демонстрации слайдов), включенный в LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21510,6 +21606,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loading additional slide masters</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195559Z" creationid="olex" creationdate="20180910T195559Z">
+        <seg>Загрузка дополнительных мастер-слайдов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Locale setting</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T173224Z" creationid="olex" creationdate="20180712T173224Z">
@@ -22234,6 +22338,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T085830Z" creationid="tagezi" creationdate="20180319T085830Z">
         <seg>Измените Main так, чтобы он выглядел, как показано в Листинге &lt;t0&gt;5&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modifying a slide master</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195613Z" creationid="olex" creationdate="20180910T195613Z">
+        <seg>Изменение мастер-слайдов</seg>
       </tuv>
     </tu>
     <tu>
@@ -23824,6 +23936,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T145146Z" creationid="tagezi" creationdate="20180320T145146Z">
         <seg>Один из возможных результатов заключается в том, что ваш обработчик событий будет расходовать все ресурсы на нажатия клавиш, заставляя вас аварийно завершить работу LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One slide set – multiple presentations</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T200008Z" creationid="olex" creationdate="20180910T200008Z">
+        <seg>Один набор слайдов - несколько презентаций</seg>
       </tuv>
     </tu>
     <tu>
@@ -25942,6 +26062,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Running a slide show</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T200250Z" creationid="olex" creationdate="20180910T200250Z">
+        <seg>Запуск демонстрации слайдов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Safe Mode &lt;f0&gt;offers various options to &lt;/f0&gt;help restore an instance of LibreOffice that has become corrupted and stopped working &lt;f1&gt;or fails to launch &lt;/f1&gt;for &lt;f2&gt;a variety of &lt;/f2&gt;reasons.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T110239Z" creationid="olex" creationdate="20180715T110239Z">
@@ -27912,6 +28040,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Setting up a slide show</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195830Z" creationid="olex" creationdate="20180910T195830Z">
+        <seg>Настройка демонстрации слайдов</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: пока точно не выяснил - какой именно пункт в окне печать имеется ввиду</note>
       <tuv lang="EN-US">
         <seg>Settings available in &lt;f0&gt;File &gt; Print &gt; Options&lt;/f0&gt;</seg>
@@ -28174,6 +28310,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T195448Z" creationid="olex" creationdate="20180910T195421Z">
         <seg>Мастер-слайды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slide transitions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T200145Z" creationid="olex" creationdate="20180910T200145Z">
+        <seg>Смена слайдов</seg>
       </tuv>
     </tu>
     <tu>
@@ -32389,6 +32533,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T182354Z" creationid="olex" creationdate="20180621T182354Z">
         <seg>Это может избавить от нескольких лишних щелчков навигации по меню или сочетаний клавиш, особенно если команда взята из подменю.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chapter includes instructions, screenshots, and hints to guide you through the Impress environment while designing your presentations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T200907Z" creationid="olex" creationdate="20180910T200907Z">
+        <seg>Эта глава содержит инструкции, скриншоты и подсказки, которые помогут вам создавать презентации в среде Impress.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38713,6 +38865,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can create slides that contain many different elements, including text, bulleted and numbered lists, tables, charts, and a wide range of graphic objects such as clipart, drawings, and photographs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T200728Z" creationid="olex" creationdate="20180910T200728Z">
+        <seg>Вы можете создавать слайды, которые содержат много разных элементов, включая текстовые, маркированные и нумерованные списки, таблицы, диаграммы, широкий спектр графических объектов, таких как рисунки и фотографии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can create templates for Master Documents as well as for ordinary documents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T123600Z" creationid="olex" creationdate="20180306T181115Z">
@@ -41462,6 +41622,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T191132Z" creationid="olex" creationdate="20180711T191132Z">
         <seg>размеры для HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>slide show</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180910T200423Z" creationid="olex" creationdate="20180910T200423Z">
+        <seg>демонстрация слайдов</seg>
       </tuv>
     </tu>
     <tu>
