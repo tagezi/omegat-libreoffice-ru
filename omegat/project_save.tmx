@@ -1393,6 +1393,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;For more detailed information about &lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;Templates, please read Chapter 3 of this guide.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180911T200302Z" creationid="olex" creationdate="20180911T200302Z">
+        <seg>&lt;f0&gt;Более подробную информацию о &lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;шаблонах смотрите в главе 3 этого руководства..&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;For more information on formula syntax, see&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; the&lt;/f2&gt;&lt;te3/&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;C&lt;/f6&gt;&lt;/f5&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;f9&gt;alc&lt;/f9&gt;&lt;/f8&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;&lt;f13&gt; Guide C&lt;/f13&gt;&lt;/f12&gt;&lt;te14/&gt;&lt;f15&gt;&lt;f16&gt;hapter 7&lt;/f16&gt;&lt;/f15&gt;&lt;tc17/&gt;&lt;f18&gt;&lt;f19&gt; Formulas and Functions&lt;/f19&gt;&lt;/f18&gt;&lt;tc20/&gt;&lt;tc21/&gt;&lt;tc22/&gt;&lt;f23&gt;.&lt;/f23&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180829T190439Z" creationid="olex" creationdate="20180829T185348Z">
@@ -5563,6 +5571,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T195547Z" creationid="lera" creationdate="20180303T195547Z">
         <seg>Кроме того, более 450 000 человек из почти каждой части земного шара присоединились к этому проекту с идеей создания наилучшего офисного пакета, который могут использовать все .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additionally, several toolbars can be displayed or hidden during the creation of a presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180911T200609Z" creationid="olex" creationdate="20180911T200609Z">
+        <seg>Кроме того, во время создания презентации можно отображать или скрывать различные панели инструментов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29531,6 +29547,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180515T185856Z" creationid="olex" creationdate="20180328T174557Z">
         <seg>Строка заголовка&lt;i0/&gt; окна, расположенная вверху, показывает название текущей электронной таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;i0/&gt;main Impress window (Figure &lt;t1&gt;2&lt;/t1&gt;) has three parts: the &lt;f2&gt;Slides pane&lt;/f2&gt;, &lt;f3&gt;Workspace&lt;/f3&gt;, and &lt;f4&gt;Sidebar&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180911T200510Z" creationid="olex" creationdate="20180911T200510Z">
+        <seg>&lt;i0/&gt;Главное окно Impress (Рисунок &lt;t1&gt;2&lt;/t1&gt;) состоит из трех частей: &lt;f2&gt;панель Слайды&lt;/f2&gt;, &lt;f3&gt;Рабочая область&lt;/f3&gt; и &lt;f4&gt;Боковая панель&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
