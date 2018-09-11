@@ -3148,6 +3148,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;You can turn off the option to &lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;start Impre&lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt;ss with a choice of available templates&lt;/f6&gt;&lt;te7/&gt;&lt;ts8/&gt;&lt;f9&gt; by unchecking &lt;/f9&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;the “&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Show this dialog at startup&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;”&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt; &lt;/f18&gt;&lt;te19/&gt;&lt;ts20/&gt;&lt;f21&gt;box&lt;/f21&gt;&lt;te22/&gt;&lt;ts23/&gt;&lt;f24&gt; in the dialog, or through the &lt;/f24&gt;&lt;f25&gt;&lt;f26&gt;Tools &gt; Options &gt; LibreOffice Impress &gt; &lt;/f26&gt;&lt;/f25&gt;&lt;te27/&gt;&lt;ts28/&gt;&lt;f29&gt;&lt;f30&gt;General&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt; option and deselecting &lt;/f31&gt;&lt;te32/&gt;&lt;ts33/&gt;&lt;f34&gt;&lt;f35&gt;Start with Template Selection&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;.&lt;/f36&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180911T200133Z" creationid="olex" creationdate="20180911T200133Z">
+        <seg>&lt;f0&gt;Вы можете отключить выбор доступных шаблонов &lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;при запуске Impre&lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt;ss, сняв  флажок&lt;/f6&gt;&lt;te7/&gt;&lt;ts8/&gt;&lt;f9&gt;&lt;/f9&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt; “&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Показывать при запуске&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;”&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt; &lt;/f18&gt;&lt;te19/&gt;&lt;ts20/&gt;&lt;f21&gt;&lt;/f21&gt;&lt;te22/&gt;&lt;ts23/&gt;&lt;f24&gt; в диалоговом окне Выберите шаблон, или выбрав в меню &lt;/f24&gt;&lt;f25&gt;&lt;f26&gt;Сервис &gt; Параметры &gt; LibreOffice Impress &gt; &lt;/f26&gt;&lt;/f25&gt;&lt;te27/&gt;&lt;ts28/&gt;&lt;f29&gt;&lt;f30&gt;Общие&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt; и отменив выбор &lt;/f31&gt;&lt;te32/&gt;&lt;ts33/&gt;&lt;f34&gt;&lt;f35&gt;Начать с выбора шаблона&lt;/f35&gt;&lt;/f34&gt;&lt;f36&gt;.&lt;/f36&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;You have a voice.&lt;/f0&gt; Enhancements, software fixes, and release dates are community-driven.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T174856Z" creationid="olex" creationdate="20180611T174856Z">
@@ -10160,6 +10168,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating drawings in Impress is similar to the Draw program included in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180911T194805Z" creationid="olex" creationdate="20180911T194805Z">
+        <seg>Создание графики в Impress подобно программе Draw, включенной в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating fill-in forms</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T155024Z" creationid="olex" creationdate="20180721T155024Z">
@@ -12723,6 +12739,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Template Selection Dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180911T195443Z" creationid="olex" creationdate="20180911T195443Z">
+        <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: Диалоговое окно Выберите шаблон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: The Help Menu</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T182331Z" creationid="tagezi" creationdate="20180306T150146Z">
@@ -15176,6 +15200,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180145Z" creationid="tagezi" creationdate="20180304T180145Z">
         <seg>По этой причине необходимо использовать другие форматы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For this reason, we recommend that you also see &lt;f0&gt;Chapter 3 Using Styles and Templates&lt;/f0&gt; and &lt;f1&gt;Chapter 7 Getting Started with Draw&lt;/f1&gt; in this guide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180911T194920Z" creationid="olex" creationdate="20180911T194920Z">
+        <seg>По этой причине мы рекомендуем также смотреть &lt;f0&gt;Главу 3 Использование стилей и шаблонов&lt;/f0&gt; и &lt;f1&gt;Главу 7 Начало работы с Draw&lt;/f1&gt; этого руководства.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28346,6 +28378,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slides that contain text use styles to determine the appearance of that text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180911T194704Z" creationid="olex" creationdate="20180911T194704Z">
+        <seg>Слайды, содержащие стили использования текста, чтобы определить внешний вид этого текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Slideshows can be further enhanced using Fontwork special effects text, as well as sound and video clips.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T202208Z" creationid="olex" creationdate="20180607T202208Z">
@@ -35204,8 +35244,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>To use Impress for more than very simple slide shows requires some knowledge of the elements which the slides contain.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180910T201459Z" creationid="olex" creationdate="20180910T201432Z">
-        <seg>Чтобы использовать Impress для более, чем простых презентаций, требуется некоторое знание элементов, которые содержат слайды.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180911T194641Z" creationid="olex" creationdate="20180910T201432Z">
+        <seg>Чтобы использовать Impress более, чем для простых презентаций, требуется некоторое знание элементов, которые содержат слайды.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37661,6 +37701,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you start Impress for the first time, &lt;s0/&gt;Impress window &lt;f1&gt;opens with the Presentation Template dialog&lt;/f1&gt; displayed.&lt;ts2/&gt; &lt;f3&gt;(&lt;/f3&gt;&lt;a4&gt;&lt;f5&gt;Figure 1&lt;/f5&gt;&lt;/a4&gt;&lt;f6&gt;)&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180911T195409Z" creationid="olex" creationdate="20180911T195409Z">
+        <seg>Когда вы запускаете Impress в первый раз, &lt;s0/&gt;открывается окно Impress&lt;f1&gt; и отображается диалоговое окно Выберите шаблон&lt;/f1&gt;&lt;ts2/&gt; &lt;f3&gt;(&lt;/f3&gt;&lt;a4&gt;&lt;f5&gt;Рисунок 1&lt;/f5&gt;&lt;/a4&gt;&lt;f6&gt;)&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you want to remove them, you have to remove each break individually.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T185140Z" creationid="olex" creationdate="20180508T185140Z">
@@ -39670,6 +39718,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T175413Z" creationid="olex" creationdate="20180727T175413Z">
         <seg>Вы также можете изменить имя файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may also wish to consult the &lt;f2&gt;Draw Guide&lt;/f2&gt; for more details on how to use the drawing tools.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180911T195004Z" creationid="olex" creationdate="20180911T195004Z">
+        <seg>Вы также можете обратиться к &lt;f2&gt; Руководству по Draw&lt;/f2&gt; для получения дополнительной информации о том, как использовать инструменты рисования.</seg>
       </tuv>
     </tu>
     <tu>
