@@ -34809,6 +34809,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To reopen a pane, go to &lt;f5&gt;View&lt;/f5&gt; on the Menu bar and select &lt;f6&gt;Slide Pane&lt;/f6&gt; or &lt;f7&gt;Sidebar&lt;/f7&gt; again.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180911T201331Z" creationid="olex" creationdate="20180911T201228Z">
+        <seg>Чтобы снова открыть панель, снова выберите в меню &lt;f5&gt;Вид &gt; Панель слайдов&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt; или &lt;f7&gt;Вид &gt; Боковая панель&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To replace the found text, click &lt;f1&gt;Replace.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T174544Z" creationid="olex" creationdate="20180802T174544Z">
@@ -38558,6 +38566,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also maximize the &lt;f0&gt;Workspace&lt;/f0&gt; area by clicking on the Hide/Show marker in the middle of the vertical separator line (highlighted in Figure &lt;t1&gt;2&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180911T201702Z" creationid="olex" creationdate="20180911T201702Z">
+        <seg>Вы можете также увеличить площадь &lt;f0&gt;Рабочей области&lt;/f0&gt;, нажав на значок Скрыть/Показать в середине вертикальной разделительной линии (выделено на Рисунке &lt;t1&gt;2&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also modify styles using the submenu on each style in the Apply Style list on the Formatting toolbar (see Figure &lt;t0&gt;4&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T183530Z" creationid="olex" creationdate="20180308T183530Z">
@@ -38893,6 +38909,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T174019Z" creationid="olex" creationdate="20180616T174019Z">
         <seg>Вы можете щелкнуть по значку, чтобы подписать документ, или просмотреть существующий сертификат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can close the &lt;f0&gt;Slides pane&lt;/f0&gt; or the &lt;f1&gt;Sidebar&lt;/f1&gt; by clicking the &lt;f2&gt;X&lt;/f2&gt; in the upper right corner of each pane or go to &lt;f3&gt;View &gt; Slide Pane&lt;/f3&gt; or &lt;f4&gt;View &gt; Sidebar&lt;/f4&gt; on the Menu bar to deselect the pane.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180911T201236Z" creationid="olex" creationdate="20180911T200643Z">
+        <seg>Вы можете закрыть &lt;f0&gt;панель Слайды&lt;/f0&gt; или &lt;f1&gt;Боковую панель&lt;/f1&gt;, нажав значок &lt;f2&gt;X&lt;/f2&gt; в верхнем правом углу каждой панели или выбрав в меню &lt;f3&gt;Вид &gt; Панель слайдов&lt;/f3&gt; или &lt;f4&gt;Вид &gt; Боковая панель&lt;/f4&gt;, чтобы снять выделение с панели.</seg>
       </tuv>
     </tu>
     <tu>
