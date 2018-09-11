@@ -34833,6 +34833,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To restore a pane, click again on its Hide/Show marker.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180911T201857Z" creationid="olex" creationdate="20180911T201857Z">
+        <seg>Чтобы восстановить панель, еще раз щелкните по значку Скрыть/Показать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To restrict who can edit the document, click &lt;f0&gt;Options&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T185605Z" creationid="olex" creationdate="20180617T185529Z">
@@ -36695,6 +36703,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T205448Z" creationid="User" creationdate="20180307T205448Z">
         <seg>Используя Редактор формул можно создавать формулу, как отдельный документ или файл для библиотеки формул, или вставить формулы прямо в документ, используя LibreOffice Writer, Calc, Impress или Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the Hide/Show marker hides, but does not close, the Slide pane or Sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180911T201802Z" creationid="olex" creationdate="20180911T201802Z">
+        <seg>С помощью значка Скрыть/Показать панель Слайды или Боковая панель скрывается, но не закрывается.</seg>
       </tuv>
     </tu>
     <tu>
