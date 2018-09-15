@@ -7798,6 +7798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change slide layout for a group of slides simultaneously.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T074701Z" creationid="olex" creationdate="20180915T074615Z">
+        <seg>Изменить слой слайдов одновременно для группы слайдов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change some &lt;i0/&gt;locale and language settings</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T195141Z" creationid="olex" creationdate="20180711T195141Z">
@@ -7826,6 +7834,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T174648Z" creationid="olex" creationdate="20180808T174233Z">
         <seg>Измените максимальное количество слов, запоминаемых для завершения слова (записей), и минимальную длину слов, которые нужно запомнить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change the slide design.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T074514Z" creationid="olex" creationdate="20180915T074514Z">
+        <seg>Изменить дизайн слайда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change the slide transition following the selected slide or after each slide in a group.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T074500Z" creationid="olex" creationdate="20180915T074500Z">
+        <seg>Изменить смену слайда после выбранного слайда или после каждого слайда в группе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16189,6 +16213,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Format &gt; Styles &gt; Styles and Formatting&lt;/f0&gt; on the Menu bar or press the &lt;f1&gt;F11&lt;/f1&gt; key to open the Styles and Formatting dialog, where you can modify the styles used in any master page to suit your purpose.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T080004Z" creationid="olex" creationdate="20180915T080004Z">
+        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Стили &gt; Управление стилями&lt;/f0&gt; или нажмите клавишу &lt;f1&gt;F11&lt;/f1&gt;, чтобы открыть диалоговое окно Стили, где вы можете изменить стили, используемые на любом мастер-слайде, в соответствии с вашими предпочтениями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Format&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Row&lt;/f1&gt; or &lt;f2&gt;Column&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T185533Z" creationid="olex" creationdate="20180502T184118Z">
@@ -16775,6 +16807,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here you define the page (slide) style for your presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T075339Z" creationid="olex" creationdate="20180915T075339Z">
+        <seg>Здесь вы определяете стиль страницы (слайда) для вашей презентации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hid&lt;f0&gt;ing&lt;/f0&gt; and &lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;te4/&gt;how&lt;f5&gt;ing&lt;/f5&gt; sheets</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T083941Z" creationid="olex" creationdate="20180901T083941Z">
@@ -17091,6 +17131,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180625T175820Z" creationid="olex" creationdate="20180625T175820Z">
         <seg>Однако это не влияет на фактический размер шрифта текста в ваших документах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, it is not possible to save customized layouts.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T075233Z" creationid="olex" creationdate="20180915T075210Z">
+        <seg>Однако сохранить пользовательские макеты невозможно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17803,6 +17851,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T190012Z" creationid="olex" creationdate="20180617T190012Z">
         <seg>Если пароли совпадают, то документ сохраняется с защитой паролем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the position is not visible in the slide pane, the slide stack will scroll up or down accordingly.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T074225Z" creationid="olex" creationdate="20180915T074225Z">
+        <seg>Если положение слайда не видно в области слайдов, то список слайдов будет прокручиваться вверх или вниз соответственно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18797,6 +18853,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180723Z" creationid="tagezi" creationdate="20180304T180723Z">
         <seg>Impress также может экспортировать в MacroMedia Flash (.swf) и некоторые другие формат, перечисленные для Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impress includes several designs for Master Pages (slide masters).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T075445Z" creationid="olex" creationdate="20180915T075445Z">
+        <seg>Impress включает несколько проектов для Мастер-слайдов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20471,6 +20535,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T193508Z" creationid="olex" creationdate="20180329T193508Z">
         <seg>Это смесь панели инструментов и диалоговых окон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is also possible to perform the following operations, although there are more efficient methods than using the Slides pane:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T074320Z" creationid="olex" creationdate="20180915T074320Z">
+        <seg>Также можно выполнять следующие операции, хотя есть более эффективные методы, чем использование панели «Слайды»:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22206,6 +22278,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Master Pages</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T075259Z" creationid="olex" creationdate="20180915T075259Z">
+        <seg>Мастер-слайды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Master documents—to group a collection of documents into a single document</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T155901Z" creationid="olex" creationdate="20180721T155901Z">
@@ -22674,8 +22754,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Move a slide to another place in the slide stack by dragging and dropping it to the desired position.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180915T074104Z" creationid="olex" creationdate="20180915T074104Z">
-        <seg>Перемещать слайд в другое место среди слайдов, перетащив его в нужную позицию.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T074232Z" creationid="olex" creationdate="20180915T074104Z">
+        <seg>Перемещать слайд в другое место в списке слайдов, перетащив его в нужную позицию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24056,6 +24136,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T185017Z" creationid="olex" creationdate="20180507T185017Z">
         <seg>Одним из наиболее полезных инструментов для анализа данных является &lt;f0&gt;Сводная таблица&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of them – Default – is blank, and the rest have background and styled text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T075607Z" creationid="olex" creationdate="20180915T075607Z">
+        <seg>Один из них - Обычный - пустой, а остальные имеют фон и стилизованный текст.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28338,6 +28426,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shows the layouts included within Impress.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T075050Z" creationid="olex" creationdate="20180915T075050Z">
+        <seg>Показывает макеты, включенные в Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shows the style of the current page.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T163104Z" creationid="olex" creationdate="20180721T163104Z">
@@ -29531,6 +29627,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T183510Z" creationid="olex" creationdate="20180603T183144Z">
         <seg>&lt;f0&gt;Боковая панель&lt;/f0&gt; в Draw содержит 5 вкладок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Sidebar&lt;/f0&gt; has seven sections.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T074742Z" creationid="olex" creationdate="20180915T074742Z">
+        <seg>&lt;f0&gt;Боковая панель&lt;/f0&gt; содержит семь вкладок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34311,6 +34415,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To expand a section you want to use, click on its icon or click on the small triangle at the top of the icons and select a section from the drop down list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T074921Z" creationid="olex" creationdate="20180915T074921Z">
+        <seg>Чтобы раскрыть вкладку, которую вы хотите использовать, нажмите на ее значок или щелкните по маленькому треугольнику в верхней части и выберите вкладку из выпадающего списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To expand a section, click on its icon or click on the small triangle at the top of the icons and select a section from the drop down list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T183649Z" creationid="olex" creationdate="20180603T183315Z">
@@ -39037,6 +39149,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T190949Z" creationid="olex" creationdate="20180411T190132Z">
         <seg>Вы можете изменить это поведение в &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Calc &gt; Формула&lt;/f0&gt;, в &lt;f1&gt;Подробные настройки вычислений&lt;/f1&gt;, выберите &lt;f2&gt;Особые (преобразование текста в числа и прочее)&lt;/f2&gt;, а затем выберите &lt;f2&gt;Подробности&lt;/f2&gt; и в открывшемся диалоговом окне &lt;f2&gt;Подробные настройки вычислений&lt;/f2&gt; в раскрывающемся списке &lt;f3&gt;Преобразование из текста в число&lt;/f3&gt; выберите подходящее значение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can choose the one you want and use it as it is, or modify it to meet your own requirements.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T075214Z" creationid="olex" creationdate="20180915T075158Z">
+        <seg>Вы можете выбрать тот макет, который хотите, и использовать его как есть или можете изменить его в соответствии с вашими требованиями.</seg>
       </tuv>
     </tu>
     <tu>
