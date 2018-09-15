@@ -15212,6 +15212,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information, refer to Chapter 1, Introducing LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T083735Z" creationid="olex" creationdate="20180915T083735Z">
+        <seg>Для получения дополнительной информации смотрите Главу 1 Введение в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information, refer to the &lt;tc0/&gt;&lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T174230Z" creationid="olex" creationdate="20180828T174230Z">
@@ -32842,6 +32850,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They can be displayed or hidden by going to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and selecting from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T083255Z" creationid="olex" creationdate="20180915T083255Z">
+        <seg>Они могут отображаться или скрываться, по выбору в меню &lt;f0&gt;Вид &gt; Панели инструментов&lt;/f0&gt; или в контекстном меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They include the fill tool, selection lists, and the ability to input information into multiple sheets of the same document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T135634Z" creationid="olex" creationdate="20180414T135634Z">
@@ -39115,6 +39131,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T194209Z" creationid="olex" creationdate="20180424T194209Z">
         <seg>Вы также можете выбрать кнопку &lt;f1&gt;Дополнительные параметры&lt;/f1&gt; на панели Символы боковой панели, чтобы открыть диалоговое окно Формат ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also select the icons that you wish to appear on each toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T083413Z" creationid="olex" creationdate="20180915T083413Z">
+        <seg>Вы также можете выбирать значки, которые будут отображаться на каждой панели инструментов.</seg>
       </tuv>
     </tu>
     <tu>
