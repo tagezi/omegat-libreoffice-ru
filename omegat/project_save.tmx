@@ -5246,6 +5246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A variety of animations can be used to emphasize or enhance different elements of each slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T080159Z" creationid="olex" creationdate="20180915T080159Z">
+        <seg>Для выделения или украшения различных элементов слайда можно использовать анимацию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A&lt;te0/&gt;&lt;ts1/&gt;dditional panels appear when specific types of items are selected:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T171826Z" creationid="olex" creationdate="20180723T171826Z">
@@ -10340,6 +10348,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T083949Z" creationid="tagezi" creationdate="20180319T083949Z">
         <seg>Движения курсора используются для всех операций (как противоположность поиску).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom Animation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T080048Z" creationid="olex" creationdate="20180915T080048Z">
+        <seg>Анимация</seg>
       </tuv>
     </tu>
     <tu>
@@ -17139,6 +17155,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T075233Z" creationid="olex" creationdate="20180915T075210Z">
         <seg>Однако сохранить пользовательские макеты невозможно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, many additional transitions are available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T080623Z" creationid="olex" creationdate="20180915T080623Z">
+        <seg>Однако имеется много дополнительных переходов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25445,6 +25469,15 @@ denkin: не понял? чего не видно?</note>
       </tuv>
     </tu>
     <tu>
+      <note>составил фразу по своему вкусу, чтобы лучше и понятнее передать смысл, как мне кажеться</note>
+      <tuv lang="EN-US">
+        <seg>Provides a number of slide transition options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T080457Z" creationid="olex" creationdate="20180915T080457Z">
+        <seg>Предоставляет эффекты переходов между слайдами.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Provides quick access to themes (fonts and colors) and style presets.</seg>
       </tuv>
@@ -28554,6 +28587,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slide Transition</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T080306Z" creationid="olex" creationdate="20180915T080306Z">
+        <seg>Смена слайда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Slide masters</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T195448Z" creationid="olex" creationdate="20180910T195421Z">
@@ -29831,6 +29872,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Custom Animation section provides an easy way to add, change, or remove animations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T080258Z" creationid="olex" creationdate="20180915T080258Z">
+        <seg>Вкладка Анимация предоставляет простые инструменты добавления, изменения или удаления анимации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Customize dialog contains pages to configure menus, keyboard shortcuts, toolbars, and events.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T140640Z" creationid="tagezi" creationdate="20180320T140640Z">
@@ -30731,6 +30780,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T174050Z" creationid="olex" creationdate="20180712T174025Z">
         <seg>Валюта по умолчанию определяет правильное оформление полей в формате валюты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default is set to &lt;f0&gt;No Transition&lt;/f0&gt;, in which the following slide simply replaces the existing one.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T080611Z" creationid="olex" creationdate="20180915T080611Z">
+        <seg>По умолчанию установлено значение &lt;f0&gt;Нет&lt;/f0&gt;, при котором следующий слайд просто заменяет существующий.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32813,6 +32870,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T171254Z" creationid="olex" creationdate="20180627T171254Z">
         <seg>В этом поле указан стиль значков (тема).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be done at any time.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T080016Z" creationid="olex" creationdate="20180915T080016Z">
+        <seg>Это можно сделать в любое время.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39002,6 +39067,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T182910Z" creationid="olex" creationdate="20180416T182910Z">
         <seg>Вы также можете настроить ячейку на отказ от недопустимого ввода, принять такой ввод с предупреждением или запустить макрос в случае ошибки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also specify the transition speed (slow, medium, fast), choose between an automatic or manual transition, and choose how long the selected slide should be shown (automatic transition only).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T080838Z" creationid="olex" creationdate="20180915T080838Z">
+        <seg>Вы также можете указать скорость перехода (медленную, среднюю, быструю), выбрать автоматический или ручной переход и выбрать, как долго должен отображаться выбранный слайд (только для автоматического перехода).</seg>
       </tuv>
     </tu>
     <tu>
