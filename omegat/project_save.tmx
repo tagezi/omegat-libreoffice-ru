@@ -20403,6 +20403,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has five tabs: &lt;f2&gt;Normal&lt;/f2&gt;, &lt;f3&gt;Outline&lt;/f3&gt;, &lt;f4&gt;Notes&lt;/f4&gt;, &lt;f5&gt;Handout&lt;/f5&gt;, and &lt;f6&gt;Slide Sorter&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T070944Z" creationid="olex" creationdate="20180915T070944Z">
+        <seg>Она имеет пять вкладок: &lt;f2&gt;Обычный&lt;/f2&gt;, &lt;f3&gt;Структура&lt;/f3&gt;, &lt;f4&gt;Примечания&lt;/f4&gt;, &lt;f5&gt;Мастер тезисов&lt;/f5&gt; и &lt;f6&gt;Сортировщик слайдов&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It includes over 300 functions for financial, statistical, and mathematical operations, among others.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T201556Z" creationid="olex" creationdate="20180607T201556Z">
@@ -28322,6 +28330,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since LibreOffice 5.1, the View buttons are not shown by default; but they can be activated by choosing &lt;f7&gt;View &gt; Modes Tab Bar&lt;/f7&gt; from the menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T071240Z" creationid="olex" creationdate="20180915T071240Z">
+        <seg>Начиная с LibreOffice 5.1, Кнопки просмотра не отображаются по умолчанию; но их можно активировать, выбрав в меню &lt;f7&gt;Вид &gt; Вкладки режимов&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Single cell</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T182849Z" creationid="olex" creationdate="20180326T181717Z">
@@ -30179,6 +30195,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T202015Z" creationid="olex" creationdate="20180310T202015Z">
         <seg>Откроется диалоговое окно Шаблоны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Workspace below the View buttons changes with the chosen view.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T071400Z" creationid="olex" creationdate="20180915T071330Z">
+        <seg>Рабочая область при нажатии  Кнопок просмотра изменяется в соответствии с выбранным видом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32078,6 +32102,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The workspace views are described in “&lt;bf0&gt;Workspace views&lt;/bf0&gt;” on page &lt;bf1&gt;10&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T071812Z" creationid="olex" creationdate="20180915T071812Z">
+        <seg>Виды рабочей области описаны в разделе “&lt;bf0&gt;Workspace views&lt;/bf0&gt;” on page &lt;bf1&gt;10&lt;/bf1&gt;.  «Виды рабочего пространства» на стр. 11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The&lt;ts0/&gt; &lt;f1&gt;two &lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;small &lt;tc4/&gt;gray triangles&lt;tc5/&gt; on the ruler are used for indenting paragraphs&lt;ts6/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T125502Z" creationid="olex" creationdate="20180818T125502Z">
@@ -32371,6 +32403,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T174801Z" creationid="olex" creationdate="20180611T174702Z">
         <seg>Эти файлы можно легко распаковать и прочитать в любом текстовом редакторе, их структура открыта и опубликована.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These five tabs are called View buttons.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T071104Z" creationid="olex" creationdate="20180915T071104Z">
+        <seg>Эти пять вкладок называются Кнопками просмотра.</seg>
       </tuv>
     </tu>
     <tu>
