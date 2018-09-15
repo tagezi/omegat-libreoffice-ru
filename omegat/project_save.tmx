@@ -1713,6 +1713,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Information area&lt;/f0&gt; – changes depending on the selection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T085832Z" creationid="olex" creationdate="20180915T085832Z">
+        <seg>&lt;f0&gt;Информационная область&lt;/f0&gt; – изменяется в зависимости от выбора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Input line&lt;/f0&gt; – displays the contents of the selected cell (data, formula, or function) and allows you to edit the cell contents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T184803Z" creationid="olex" creationdate="20180329T184803Z">
@@ -8198,6 +8206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Charts, spreadsheets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T090110Z" creationid="olex" creationdate="20180915T090110Z">
+        <seg>Диаграммы, электронные таблицы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checkbox (more than one can be selected at a time).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T150152Z" creationid="tagezi" creationdate="20180310T145940Z">
@@ -11818,6 +11834,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Embedded object (OLE) “ObjectName” selected</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T090425Z" creationid="olex" creationdate="20180915T090425Z">
+        <seg>Выбран объект внедренный объект (OLE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Embedding or linking of graphics, spreadsheets, and other objects</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T155749Z" creationid="olex" creationdate="20180721T155749Z">
@@ -12123,10 +12147,26 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example selection</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T085853Z" creationid="olex" creationdate="20180915T085853Z">
+        <seg>Пример выбора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T175932Z" creationid="olex" creationdate="20180707T175932Z">
         <seg>Примеры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Examples of information shown</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T085911Z" creationid="olex" creationdate="20180915T085911Z">
+        <seg>Примеры отображаемой информации</seg>
       </tuv>
     </tu>
     <tu>
@@ -14924,6 +14964,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T085836Z" creationid="olex" creationdate="20180915T085836Z">
+        <seg>Например:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example&lt;/f37&gt;&lt;te38/&gt;&lt;ts39/&gt;&lt;f40&gt;, to search for&lt;/f40&gt;&lt;te41/&gt;&lt;ts42/&gt;&lt;f43&gt; something inside the document headings, select the&lt;/f43&gt;&lt;te44/&gt;&lt;ts45/&gt;&lt;f46&gt; &lt;/f46&gt;&lt;f47&gt;Headings&lt;/f47&gt;&lt;f48&gt; entry in the menu&lt;/f48&gt;&lt;te49/&gt;&lt;ts50/&gt;&lt;f51&gt;.&lt;/f51&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T172016Z" creationid="olex" creationdate="20180802T172016Z">
@@ -15792,6 +15840,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T180453Z" creationid="olex" creationdate="20180329T180453Z">
         <seg>Панель формул состоит из следующих элементов (слева направо):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From left to right, you will find:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T085520Z" creationid="olex" creationdate="20180915T085520Z">
+        <seg>Слева направо вы найдете:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29615,6 +29671,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Text Edit: Paragraph x, Row y, Column z</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T090051Z" creationid="olex" creationdate="20180915T090051Z">
+        <seg>Изменить текст: абзац x, строка y, столбец z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Text Encoded (.txt)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T065405Z" creationid="tagezi" creationdate="20180305T065102Z">
@@ -29635,6 +29699,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T182011Z" creationid="tagezi" creationdate="20180304T181923Z">
         <seg>Текст и текст в Юникоде (LibreOffice Writer/Web) (.txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text area</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T085936Z" creationid="olex" creationdate="20180915T085936Z">
+        <seg>Текстовый блок</seg>
       </tuv>
     </tu>
     <tu>
