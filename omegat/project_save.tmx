@@ -13349,6 +13349,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Status bar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T084348Z" creationid="olex" creationdate="20180915T084348Z">
+        <seg>Рисунок &lt;seq0&gt;3&lt;/seq0&gt;: Строка состояния</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Updating a style from a selection</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T183002Z" creationid="olex" creationdate="20180308T183002Z">
@@ -14280,6 +14288,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T112456Z" creationid="tagezi" creationdate="20180320T112456Z">
         <seg>Для повседневного использования нет необходимости понимать, где хранятся макросы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For details on the contents and use of these fields, see &lt;f2&gt;Chapter 1 Introducing LibreOffice&lt;/f2&gt; in this guide and the &lt;f3&gt;Impress Guide Chapter 1 Introducing Impress&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T084238Z" creationid="olex" creationdate="20180915T084238Z">
+        <seg>Подробнее о содержании и использовании этих полей смотрите в разделе &lt;f2&gt;Глава 1, Введение в LibreOffice&lt;/f2&gt; в этом руководстве и в &lt;f3&gt;Руководстве по Impress, Глава 1, Введение в Impress&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22270,6 +22286,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many of the toolbars in Impress are similar to the toolbars in Draw.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T083835Z" creationid="olex" creationdate="20180915T083835Z">
+        <seg>Многие панели инструментов в Impress аналогичны панелям инструментов в Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many people also find AutoInput helpful.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T135408Z" creationid="olex" creationdate="20180414T135408Z">
@@ -25811,6 +25835,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T165701Z" creationid="olex" creationdate="20180811T165701Z">
         <seg>Смотрите &lt;/f0&gt;&lt;f4&gt;Руководство по Writer&lt;/f4&gt;&lt;f5&gt; для получения подробной информации.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to the &lt;f0&gt;Draw Guide&lt;/f0&gt; for details on the functions available and how to use them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T083931Z" creationid="olex" creationdate="20180915T083931Z">
+        <seg>Подробнее о доступных функциях и способах их использования смотрите в &lt;f0&gt; Руководство по Draw&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29760,6 +29792,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Status bar&lt;/f0&gt; (Figure &lt;t1&gt;3&lt;/t1&gt;), located at the bottom of the Impress window, contains information that you may find useful when working on a presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T084401Z" creationid="olex" creationdate="20180915T084039Z">
+        <seg>&lt;f0&gt;Строка состояния&lt;/f0&gt; (Рисунок &lt;t1&gt;3&lt;/t1&gt;), в нижней части окна Impress, содержит информацию, которая может оказаться полезной при работе над презентацией.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;f0&gt;Styles &lt;/f0&gt;menu has the most important paragraph, character, &lt;f1&gt;and list &lt;/f1&gt;styles for &lt;tc2/&gt;most &lt;tc3/&gt;text document&lt;ts4/&gt;&lt;f5&gt;s&lt;/f5&gt;&lt;te6/&gt;, &lt;f7&gt;with &lt;/f7&gt;&lt;tc8/&gt;&lt;f9&gt;entr&lt;/f9&gt;&lt;ts10/&gt;&lt;f11&gt;ies&lt;/f11&gt;&lt;te12/&gt;&lt;tc13/&gt;&lt;f14&gt; for custom style management options &lt;/f14&gt;&lt;tc15/&gt;&lt;ts16/&gt;&lt;f17&gt;at&lt;/f17&gt;&lt;te18/&gt;&lt;f19&gt; the bottom of the menu.&lt;/f19&gt; The Styles menu does not have styles for frames, &lt;f20&gt;pages, or tables.&lt;/f20&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180717T180701Z" creationid="olex" creationdate="20180717T180701Z">
@@ -32133,6 +32173,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sizes are given in the current measurement unit (not to be confused with the ruler units).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T084612Z" creationid="olex" creationdate="20180915T084612Z">
+        <seg>Размеры указаны в текущих единицах измерения (не путать с единицами измерения линеек).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The software has been translated into many languages and runs on all major operating systems.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T200641Z" creationid="lera" creationdate="20180303T200641Z">
@@ -33344,6 +33392,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T180058Z" creationid="olex" creationdate="20180817T180058Z">
         <seg>Это означает, что в отличие от стилей абзаца параметры страницы не могут использоваться для прямого форматирования отдельных страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This measurement unit is defined in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Impress &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T085500Z" creationid="olex" creationdate="20180915T085500Z">
+        <seg>Эти единицы измерения устанавливаются в &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice Impress &gt; Общие&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
