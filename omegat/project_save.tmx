@@ -13061,6 +13061,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Main window of Impress; ovals indicate the Hide/Show markers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T072157Z" creationid="olex" creationdate="20180915T072157Z">
+        <seg>Рисунок &lt;seq0&gt;2&lt;/seq0&gt;: Главное окно Impress; красным выделены кнопки Скрыть/Показать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Quickstarter menu in Windows</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T185600Z" creationid="olex" creationdate="20180614T185600Z">
@@ -30199,6 +30207,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The View Tab Bar is visible in this image.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T073030Z" creationid="olex" creationdate="20180915T073030Z">
+        <seg>На этом изображении видны Кнопки просмотра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Workspace below the View buttons changes with the chosen view.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T071400Z" creationid="olex" creationdate="20180915T071330Z">
@@ -32104,8 +32120,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>The workspace views are described in “&lt;bf0&gt;Workspace views&lt;/bf0&gt;” on page &lt;bf1&gt;10&lt;/bf1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180915T071812Z" creationid="olex" creationdate="20180915T071812Z">
-        <seg>Виды рабочей области описаны в разделе “&lt;bf0&gt;Workspace views&lt;/bf0&gt;” on page &lt;bf1&gt;10&lt;/bf1&gt;.  «Виды рабочего пространства» на стр. 11.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T071925Z" creationid="olex" creationdate="20180915T071812Z">
+        <seg>Виды рабочей области описаны в разделе “&lt;bf0&gt;Виды рабочей области&lt;/bf0&gt;” на странице &lt;bf1&gt;11&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38232,8 +38248,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>Workspace views</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180908T202837Z" creationid="olex" creationdate="20180908T202837Z">
-        <seg>Виды рабочего пространства</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T072008Z" creationid="olex" creationdate="20180908T202837Z">
+        <seg>Виды рабочей области</seg>
       </tuv>
     </tu>
     <tu>
