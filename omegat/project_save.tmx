@@ -4710,6 +4710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A copy of an object is independent of the original object, so changes to the object have no effect on the copy.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T081518Z" creationid="olex" creationdate="20180915T081518Z">
+        <seg>Копия объекта не зависит от исходного объекта, поэтому изменения исходного объекта не повлияют на копию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A copy of an object is independent of the original object.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T190913Z" creationid="olex" creationdate="20180604T190913Z">
@@ -4882,6 +4890,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T085656Z" creationid="tagezi" creationdate="20180320T085656Z">
         <seg>Библиотека обычно используется как основная структура или для всей категории макросов, или для всего приложения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A link remains dependent on the original object and changes to the object are reflected in the link.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T081542Z" creationid="olex" creationdate="20180915T081542Z">
+        <seg>Ссылка остается зависимой от исходного объекта, и изменения в исходном объекте отражаются в ссылке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16783,6 +16799,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here you can edit and apply graphics styles and create new ones, but you can only edit existing presentation styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T081217Z" creationid="olex" creationdate="20180915T081157Z">
+        <seg>Здесь вы можете редактировать, применять и создавать новые стили рисунков, но стили презентации можно только редактировать и применить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here you can edit and apply image styles to objects within your drawing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T190605Z" creationid="olex" creationdate="20180604T190605Z">
@@ -18653,6 +18677,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T193702Z" creationid="olex" creationdate="20180711T193702Z">
         <seg>Если вы хотите, чтобы макрос запускался автоматически при открытии документа HTML, то выберите &lt;f0&gt;Сервис &gt; Настройка... &gt; События&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to ensure that the styles on a specific slide are not updated, create a new master page for the slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T081353Z" creationid="olex" creationdate="20180915T081308Z">
+        <seg>Если вы хотите, чтобы стили на конкретном слайде не обновлялись, то создайте новый мастер-слайд для этого слайда.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20671,6 +20703,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T191411Z" creationid="olex" creationdate="20180604T191411Z">
         <seg>Рекомендуется указывать страницы и тип объекта в именах элементов рисунка, чтобы вы могли легко идентифицировать их при использовании навигатора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is recommended to give slides and objects in your presentation meaningful names so that you can easily identify them when using the navigator.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T081717Z" creationid="olex" creationdate="20180915T081717Z">
+        <seg>Рекомендуется давать слайдам и объектам в ваших презентациях понятные имена, чтобы вы могли легко идентифицировать их при использовании навигатора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24609,6 +24649,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T191208Z" creationid="olex" creationdate="20180604T191208Z">
         <seg>Открывает навигатор рисунка, в котором вы можете быстро перемещаться между страницами в файле или выбирать объект на рисунке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens the Impress gallery from which you can insert an object into your presentation either as a copy or as a link.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T081446Z" creationid="olex" creationdate="20180915T081446Z">
+        <seg>Открывает галерею Impress, из которой вы можете вставить объект в презентацию либо как копию, либо как ссылку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opens the Impress navigator, in which you can quickly move to another slide or select an object on a slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T081613Z" creationid="olex" creationdate="20180915T081613Z">
+        <seg>Открывает навигатор Impress, в котором вы можете быстро перейти на другой слайд или выбрать объект на слайде.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37962,6 +38018,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T190645Z" creationid="olex" creationdate="20180604T190645Z">
         <seg>Когда вы редактируете стиль, изменения автоматически применяются ко всем элементам, отформатированным в этом стиле изображения в вашем рисунке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you edit a style, the changes are automatically applied to all of the elements formatted with this style in your presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T081236Z" creationid="olex" creationdate="20180915T081236Z">
+        <seg>Когда вы редактируете стиль, изменения автоматически применяются ко всем элементам, отформатированным в этом стиле в презентации.</seg>
       </tuv>
     </tu>
     <tu>
