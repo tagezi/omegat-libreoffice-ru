@@ -5359,6 +5359,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add new slides to the presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T073810Z" creationid="olex" creationdate="20180915T073613Z">
+        <seg>Добавить слайды в презентацию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add the new macro either before Sub Main or after End Sub.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132043Z" creationid="tagezi" creationdate="20180312T132043Z">
@@ -9557,6 +9565,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Clicking a slide in this pane selects it and places it in the &lt;f1&gt;Workspace&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T073259Z" creationid="olex" creationdate="20180915T073259Z">
+        <seg>Щелчок по слайду в этой панели выделит его и поместит в &lt;f1&gt;Рабочей области&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: Тут скорее всего ошибка, оно должно писаться как: "Clicking word applies the character style to that word". Ну, и тогда нет необходимости актив превращать в пассив.
 denkin: так лучше?</note>
       <tuv lang="EN-US">
@@ -10632,6 +10648,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete a slide from the presentation if it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T073826Z" creationid="olex" creationdate="20180915T073739Z">
+        <seg>Удалить слайд из презентации, если он больше не нужен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete any unwanted text or graphics from this new document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T200227Z" creationid="olex" creationdate="20180313T200227Z">
@@ -11446,6 +11470,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T152647Z" creationid="tagezi" creationdate="20180310T152647Z">
         <seg>Выпадающий список, из которого, выбирается значение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicate a slide (copy and paste).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T073949Z" creationid="olex" creationdate="20180915T073949Z">
+        <seg>Дублировать слайд (Копировать и Вставить).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22134,6 +22166,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mark a slide as hidden so that it will not be shown as part of the presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T073819Z" creationid="olex" creationdate="20180915T073631Z">
+        <seg>Отметить слайд как скрытый, чтобы он не отображался при демонстрации презентации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mark the &lt;f0&gt;Selection&lt;/f0&gt; checkbox in the &lt;f1&gt;Export&lt;/f1&gt; dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T192316Z" creationid="olex" creationdate="20180402T192316Z">
@@ -22628,6 +22668,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180813T173202Z" creationid="olex" creationdate="20180813T173202Z">
         <seg>Переместить выше вместе с подпунктами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move a slide to another place in the slide stack by dragging and dropping it to the desired position.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T074104Z" creationid="olex" creationdate="20180915T074104Z">
+        <seg>Перемещать слайд в другое место среди слайдов, перетащив его в нужную позицию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25678,6 +25726,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rename a slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T073837Z" creationid="olex" creationdate="20180915T073837Z">
+        <seg>Переименовать слайд.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Renaming and deleting files</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T195859Z" creationid="olex" creationdate="20180607T195859Z">
@@ -28138,6 +28194,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Several additional operations can be performed on one or more slides simultaneously in the Slides pane:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T073644Z" creationid="olex" creationdate="20180915T073559Z">
+        <seg>Некоторые операции могут выполняться одновременно на одном или нескольких слайдах на панели Слайды:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Several companies sitting in TDF's Advisory Board (&lt;a0&gt;https://www.documentfoundation.org/governance/advisory-board/&lt;/a0&gt;) provide either value-added LTS versions of LibreOffice or consultancy services for migrations and training, based on best practices distilled by The Document Foundation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T070312Z" creationid="tagezi" creationdate="20180321T054357Z">
@@ -29467,6 +29531,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T183510Z" creationid="olex" creationdate="20180603T183144Z">
         <seg>&lt;f0&gt;Боковая панель&lt;/f0&gt; в Draw содержит 5 вкладок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Slides pane&lt;/f0&gt; contains thumbnail pictures of the slides in your presentation in the order in which they will be shown, unless you change the slide show order.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T073149Z" creationid="olex" creationdate="20180915T073149Z">
+        <seg>Панель &lt;f0&gt;Слайды&lt;/f0&gt; содержит миниатюрные изображения слайдов презентации в том порядке, в котором они будут показаны, если вы не измените их порядок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37351,6 +37423,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T081159Z" creationid="tagezi" creationdate="20180312T132010Z">
         <seg>При создании нового модуля, он содержит комментарий и пустой макрос с именем Main, который ничего не делает.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a slide is in the Workspace, you can make changes to it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180915T073422Z" creationid="olex" creationdate="20180915T073422Z">
+        <seg>Когда слайд отображается в рабочей области, вы можете вносить в него изменения.</seg>
       </tuv>
     </tu>
     <tu>
