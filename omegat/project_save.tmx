@@ -18735,6 +18735,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have made changes to a file since the last save, a confirmation dialog will warn you that Reloading will discard your last changes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T213318Z" creationid="olex" creationdate="20180917T213318Z">
+        <seg>Если вы внесли изменения в файл со времени последнего сохранения, то подтверждающее диалоговое окно предупредит вас о том, что перезагрузка отменит ваши последние изменения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have not specified a default template, LibreOffice uses the blank template for that type of document that is installed with LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T123509Z" creationid="olex" creationdate="20180306T180733Z">
@@ -19781,6 +19789,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T181142Z" creationid="olex" creationdate="20180611T181142Z">
         <seg>В итоге, вы запускаете LibreOffice так же, как вы запускаете любую другую программу на своем компьютере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In macOS – &lt;f0&gt;Command ⌘+Q&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T213432Z" creationid="olex" creationdate="20180917T213432Z">
+        <seg>В macOS – &lt;f0&gt;Command ⌘+Q&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24262,6 +24278,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T192049Z" creationid="olex" creationdate="20180611T181227Z">
         <seg>На компьютерах с операционными системами Windows или Linux в меню программ вашего компьютера появится запись меню для LibreOffice и для каждого модуля LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On macOS, the document closes and only the Menu bar remains at the top of the screen.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T213419Z" creationid="olex" creationdate="20180917T213419Z">
+        <seg>В macOS документ закрывается, и в верхней части экрана остается только строка меню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33398,6 +33422,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T165835Z" creationid="olex" creationdate="20180707T165835Z">
         <seg>Это может привести к тому, что документ будет напечатан на удаленном принтере (возможно, в офисе), если вы не измените принтер вручную в диалоговом окне Печать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can save several repetitive menu navigation clicks or keyboard shortcuts, especially when the command is taken from a secondary menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T213207Z" creationid="olex" creationdate="20180917T213207Z">
+        <seg>Это может сэкономить несколько повторяющихся нажатий при навигации по меню или сочетаний клавиш, особенно если команда взята из подменю.</seg>
       </tuv>
     </tu>
     <tu>
