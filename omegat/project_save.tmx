@@ -1201,6 +1201,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Donate to LibreOffice &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at the Donation page of the LibreOffice website &lt;a2&gt;&lt;f3&gt;https://donate.libreoffice.org/&lt;/f3&gt;&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T200303Z" creationid="olex" creationdate="20180917T200303Z">
+        <seg>&lt;f0&gt;Поддержать LibreOffice&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt; Откроет ваш браузер по умолчанию на странице Пожертвования веб-сайта LibreOffice &lt;a2&gt;&lt;f3&gt;https://donate.libreoffice.org/&lt;/f3&gt;&lt;/a2&gt;. Пожертвовать LibreOffice ‡ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Donate to LibreOffice &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt; Opens your default browser at the Donation page of the LibreOffice website &lt;a2&gt;https://donate.libreoffice.org/&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T112334Z" creationid="tagezi" creationdate="20180307T112334Z">
@@ -1518,6 +1526,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T182732Z" creationid="olex" creationdate="20180723T182732Z">
         <seg>&lt;f0&gt;Вкладка&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; &lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt;&lt;f6&gt;Галерея&lt;/f6&gt;&lt;/f5&gt;&lt;te7/&gt;&lt;ts8/&gt;&lt;f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Get Help Online &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Ask LibreOffice&lt;f3&gt; &lt;/f3&gt;forum of questions and answers from the LibreOffice community &lt;a4&gt;&lt;f5&gt;https://ask.libreoffice.org/en/questions/&lt;/f5&gt;&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T195926Z" creationid="olex" creationdate="20180917T195926Z">
+        <seg>&lt;f0&gt;Получить помощь в сети...&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Откроет ваш браузер по умолчанию на форуме вопросов и ответов сообщества, Ask LibreOffice&lt;f3&gt; &lt;/f3&gt;&lt;a4&gt;&lt;f5&gt;https://ask.libreoffice.org/en/questions/&lt;/f5&gt;&lt;/a4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2369,6 +2385,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Send Feedback&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Feedback page of the LibreOffice website &lt;a3&gt;&lt;f4&gt;https://www.libreoffice.org/get-help/feedback/&lt;/f4&gt;&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T200121Z" creationid="olex" creationdate="20180917T200121Z">
+        <seg>&lt;f0&gt;Отправить отзыв&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Откроет ваш браузер по умолчанию на странице отзывов на веб-сайте LibreOffice &lt;a3&gt;&lt;f4&gt;https://www.libreoffice.org/get-help/feedback/&lt;/f4&gt;&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Send Feedback&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Feedback page of the LibreOffice website &lt;a3&gt;https://www.libreoffice.org/get-help/feedback/&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T111237Z" creationid="tagezi" creationdate="20180307T111237Z">
@@ -2891,6 +2915,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;User Guides &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Documentation page of the LibreOffice website &lt;a3&gt;&lt;f4&gt;https://documentation.libreoffice.org/en/english-documentation/&lt;/f4&gt;&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T195628Z" creationid="olex" creationdate="20180917T195628Z">
+        <seg>&lt;f0&gt;Руководства пользователя...&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Откроет ваш браузер по умолчанию на странице Документации на веб-сайте LibreOffice &lt;a3&gt;&lt;f4&gt;https://documentation.libreoffice.org/en/english-documentation/&lt;/f4&gt;&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;User Guides &lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Opens your default browser at the Documentation page of the LibreOffice website &lt;a3&gt;https://documentation.libreoffice.org/en/english-documentation/&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T103533Z" creationid="tagezi" creationdate="20180307T103533Z">
@@ -3030,8 +3062,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;What's This?&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;For quick tips when a toolbar is visible, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T102301Z" creationid="tagezi" creationdate="20180306T183244Z">
-        <seg>&lt;f0&gt;Что это такое?&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;Для быстрых подсказок, когда видна панель инструментов, поместите указатель мыши над любым значком, чтобы увидеть маленькие прямоугольники (“всплывающая подсказка”) с кратким описанием функции значка.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T195036Z" creationid="tagezi" creationdate="20180306T183244Z">
+        <seg>&lt;f0&gt;Что это такое?&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;Для получения быстрых подсказок, когда видна панель инструментов, поместите указатель мыши над любым значком, чтобы увидеть всплывающую подсказку с кратким описанием функции значка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19479,7 +19511,8 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
     </tu>
     <tu>
-      <note>LG: создается ощущение что тут устаревшая информация</note>
+      <note>LG: создается ощущение что тут устаревшая информация
+Denkin: все верно, есть такая настройка</note>
       <tuv lang="EN-US">
         <seg>In addition, you can choose whether to activate Extended Tips using &lt;f3&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f3&gt;.</seg>
       </tuv>
@@ -25711,6 +25744,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Published &lt;f0&gt;August&lt;/f0&gt; 2018.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T194724Z" creationid="olex" creationdate="20180917T194724Z">
+        <seg>Опубликовано в &lt;f0&gt;августе&lt;/f0&gt; 2018.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Published &lt;s0/&gt;February 2018.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090714Z" creationid="tagezi" creationdate="20180305T090714Z">
@@ -30234,8 +30275,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The Help menu includes links to other LibreOffice information and support facilities.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T145030Z" creationid="tagezi" creationdate="20180306T145030Z">
-        <seg>Меню Справка содержит ссылки на другие средства информации и поддержки LibreOffice.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T195316Z" creationid="tagezi" creationdate="20180306T145030Z">
+        <seg>Пункт меню Справка содержит ссылки на другие средства информации и поддержки LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
