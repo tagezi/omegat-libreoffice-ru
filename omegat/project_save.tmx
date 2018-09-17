@@ -560,6 +560,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1&gt;22&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 1 Introducing LibreOffice&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T202612Z" creationid="olex" creationdate="20180917T202612Z">
+        <seg>&lt;f0&gt;&lt;t1&gt;22&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Глава 1 Введение в LibreOffice&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;t1&gt;34&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 2 Setting Up LibreOffice&lt;/t3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T123357Z" creationid="olex" creationdate="20180715T123357Z">
@@ -1574,6 +1582,9 @@
       <note>denkin: не могу подобрать подходящее слово</note>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Granularity.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T203403Z">
+        <seg>&lt;f0&gt;Раздельность.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4115,6 +4126,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181544Z" creationid="tagezi" creationdate="20180304T181544Z">
         <seg>&lt;t0&gt;Приложение B Свободное программное обеспечение, Открытые стандарты, OpenDocument&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Chapter 1 Introducing LibreOffice&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;21&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T202550Z" creationid="olex" creationdate="20180917T202550Z">
+        <seg>&lt;t0&gt;Глава 1 Введение в LibreOffice&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;21&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11511,6 +11530,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T203144Z" creationid="olex" creationdate="20180607T203144Z">
         <seg>Draw может импортировать графику из многих распространенных форматов и сохранять их в более чем 20 форматах, включая PNG, HTML &lt;f0&gt;и&lt;/f0&gt; PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw can import graphics from many common formats and save them in over 20 formats, including PNG, HTML and PDF.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T202954Z" creationid="olex" creationdate="20180917T202954Z">
+        <seg>Draw может импортировать графические объекты из многих распространенных форматов и сохранять их в более чем 20 форматах, включая PNG, HTML и PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24084,6 +24111,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On computers operating macOS, only a menu entry for LibreOffice is added to the Applications menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T204111Z" creationid="olex" creationdate="20180917T204111Z">
+        <seg>На компьютерах, работающих под управлением macOS, в меню Программы добавляется только элемент меню для LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On computers with Windows or Linux operating systems, a menu entry for LibreOffice and each LibreOffice component appears in the system menu of your computer.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T192049Z" creationid="olex" creationdate="20180611T181227Z">
@@ -24553,8 +24588,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Open the Styles and Formatting window</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T155536Z" creationid="lera" creationdate="20180303T155536Z">
-        <seg>Открыть окно стилей и форматирования</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T202730Z" creationid="lera" creationdate="20180303T155536Z">
+        <seg>Открыть окно Стили и форматирование</seg>
       </tuv>
     </tu>
     <tu>
@@ -38512,6 +38547,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While it is most commonly used to create formulas in other documents, such as Writer and Impress files, Math can also work as a standalone tool.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T203210Z" creationid="olex" creationdate="20180917T203210Z">
+        <seg>Хотя Math чаще всего используется для создания формул в других документах, таких как файлы Writer и Impress, он также может работать как автономный инструмент.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While this allows for improved functionality, there may be backwards compatibility issues.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T181500Z" creationid="olex" creationdate="20180707T181500Z">
@@ -41737,6 +41780,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T205003Z" creationid="tagezi" creationdate="20180310T205003Z">
         <seg>Эквивалент для macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>macOS users can also get two versions of LibreOffice from the App Store: LibreOffice Vanilla (small fee) and LibreOffice-from-Collabora (an enterprise-ready version; small fee).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T203643Z" creationid="olex" creationdate="20180917T203643Z">
+        <seg>Пользователи MacOS также могут получить две версии LibreOffice из App Store: LibreOffice Vanilla (небольшая плата) и LibreOffice-from-Collabora (версия для предприятия, небольшая плата).</seg>
       </tuv>
     </tu>
     <tu>
