@@ -9628,6 +9628,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Save&lt;/f0&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T211609Z" creationid="olex" creationdate="20180917T211609Z">
+        <seg>Нажмите значок &lt;f0&gt;Сохранить&lt;/f0&gt; на панели инструментов Стандартная.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;f1&gt;From File&lt;/f1&gt; button to open a window from which to select the required document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T193103Z" creationid="olex" creationdate="20180310T193103Z">
@@ -18976,6 +18984,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to create a new document file, change the filename and/or file format, or save the file in a different location on your computer:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T211958Z" creationid="olex" creationdate="20180917T211958Z">
+        <seg>Если вы хотите создать новый файл документа, то измените имя файла и/или формат файла, или сохраните файл в другом месте на вашем компьютере:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to ensure that the styles on a specific slide are not updated, create a new master page for the slide.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T081353Z" creationid="olex" creationdate="20180915T081308Z">
@@ -23676,6 +23692,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T102117Z" creationid="olex" creationdate="20180721T102117Z">
         <seg>Вкладка Навигатор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigator also provides the facility to move, promote, demote items within a document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T212820Z" creationid="olex" creationdate="20180917T212820Z">
+        <seg>Навигатор также предоставляет возможность перемещения, продвижения и понижения позиции объектов в документе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35384,6 +35408,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To open the Navigator, click the &lt;f0&gt;Navigator&lt;/f0&gt; icon on the Standard toolbar, or press the &lt;f1&gt;F5&lt;/f1&gt; key, or go to &lt;f2&gt;View &gt; Navigator&lt;/f2&gt; on the Menu bar,, or click on the Page Number/Count area of the Status Bar, or click the Navigator icon in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T212652Z" creationid="olex" creationdate="20180917T212652Z">
+        <seg>Чтобы открыть Навигатор, нажмите значок &lt;f0&gt;Навигатор&lt;/f0&gt; панели инструментов Стандартная, или нажмите клавишу &lt;f1&gt;F5&lt;/f1&gt;, или выберите в меню &lt;f2&gt;Вид &gt; Навигатор&lt;/f2&gt;, или нажмите в области Номер страницы на строке состояния, или нажмите значок Навигатор на Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To open the Templates dialog from the Start Center, click on the &lt;f0&gt;Templates&lt;/f0&gt; button in the left pane.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T203953Z" creationid="olex" creationdate="20180310T203953Z">
@@ -35598,6 +35630,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180911T201331Z" creationid="olex" creationdate="20180911T201228Z">
         <seg>Чтобы снова открыть панель, снова выберите в меню &lt;f5&gt;Вид &gt; Панель слайдов&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt; или &lt;f7&gt;Вид &gt; Боковая панель&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To repeat the last command applied to your document, use the shortcut &lt;f0&gt;Ctrl+Shift+Y&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T213054Z" creationid="olex" creationdate="20180917T213054Z">
+        <seg>Чтобы повторить последнюю команду, примененную к вашему документу, используйте сочетание клавиш &lt;f0&gt;Ctrl+Shift+Y&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36031,6 +36071,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T181445Z" creationid="olex" creationdate="20180621T181445Z">
         <seg>Чтобы отменить последнее изменение в документе, используйте сочетание клавиш &lt;f0&gt;Ctrl+Z&lt;/f0&gt; или щелкните значок &lt;f1&gt;Отменить&lt;/f1&gt; на панели инструментов Стандартная, или выберите в меню &lt;f2&gt;Правка &gt; Отменить&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To undo the most recent unsaved change in a document, use the keyboard shortcut &lt;f0&gt;Ctrl+Z,&lt;/f0&gt; or click the &lt;f1&gt;Undo&lt;/f1&gt; icon on the Standard toolbar, or go to &lt;f2&gt;Edit &gt; Undo&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T213002Z" creationid="olex" creationdate="20180917T213002Z">
+        <seg>Чтобы отменить последнее несохраненное изменение в документе, используйте сочетание клавиш &lt;f0&gt;Ctrl+Z,&lt;/f0&gt; или нажмите значок &lt;f1&gt;Отменить&lt;/f1&gt; на панели инструментов Стандартная, или выберите в меню &lt;f2&gt;Правка &gt; Отменить&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36929,10 +36977,50 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+S&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T211537Z" creationid="olex" creationdate="20180917T211537Z">
+        <seg>Используйте сочетание клавиш &lt;f0&gt;Ctrl+S&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T183955Z" creationid="olex" creationdate="20180617T183955Z">
         <seg>Используйте сочетание клавиш &lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the menu option &lt;f0&gt;File &gt; Save All&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T211644Z" creationid="olex" creationdate="20180917T211644Z">
+        <seg>Используйте пункт меню &lt;f0&gt;Файл &gt; Сохранить все&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the menu option &lt;f0&gt;File &gt; Save As&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T212036Z" creationid="olex" creationdate="20180917T212036Z">
+        <seg>Используйте пункт меню &lt;f0&gt;Файл &gt; Сохранить как...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the menu option &lt;f0&gt;File &gt; Save Remote&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T211714Z" creationid="olex" creationdate="20180917T211714Z">
+        <seg>Используйте пункт меню &lt;f0&gt;Файл &gt; Сохранить удаленно...&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the menu option &lt;f0&gt;File &gt; Save a Copy (Similar to the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;bf3&gt;Save As command&lt;/bf3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;)&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T212148Z" creationid="olex" creationdate="20180917T211847Z">
+        <seg>Используйте пункт меню &lt;f0&gt;Файл &gt; Сохранить копию... (подобна команде &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;bf3&gt;Сохранить как...&lt;/bf3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;)&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37552,6 +37640,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T183551Z" creationid="olex" creationdate="20180617T183551Z">
         <seg>Команда Сохранить &lt;f0&gt;немедленно&lt;/f0&gt; перезапишет последнюю сохраненную версию файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the Save command will immediately overwrite the last saved version of the file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T211920Z" creationid="olex" creationdate="20180917T211920Z">
+        <seg>Использование команды Сохранить немедленно перезапишет последнюю сохраненную версию файла.</seg>
       </tuv>
     </tu>
     <tu>
