@@ -3785,6 +3785,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Неточность в указании пути в оригинале - пропустили LibreOffice</note>
+      <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;If you wish, you can toggle this visibility off or on in&lt;/f0&gt;&lt;f2&gt; Tools &gt; Options &gt; View &gt; Menu&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T205755Z" creationid="olex" creationdate="20180917T205755Z">
+        <seg>&lt;s1/&gt;Если хотите, то можете включить или отключить эту видимость&lt;/f0&gt; &lt;f2&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Вид &gt; Меню&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;s1/&gt;If you wish, you can toggle this visibility off or on in&lt;/f0&gt;&lt;f2&gt; Tools &gt; Options &gt; View &gt; Menu&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
@@ -5899,6 +5908,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All components contain the Properties, Styles and Formatting, Pages , Gallery, and Navigator decks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T210503Z" creationid="olex" creationdate="20180917T210503Z">
+        <seg>Все модули содержат вкладки Свойства, Страница, Стили, Галерея и Навигатор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All documents in LibreOffice are based on templates.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T180138Z" creationid="olex" creationdate="20180306T180138Z">
@@ -7272,6 +7289,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Below is the case for Writer:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T205308Z" creationid="olex" creationdate="20180917T205308Z">
+        <seg>Ниже приведен пример для Writer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berlin, March 22, 2017 - The Document Foundation (TDF) announces LibreOffice 5.4.6, the sixth minor release of LibreOffice 5.4 family currently targeted to conservative users and enterprises.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T071117Z" creationid="tagezi" creationdate="20180321T051132Z">
@@ -8634,6 +8659,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cicking on this percentage figure opens the &lt;f0&gt;Zoom &amp; View Layout&lt;/f0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T210219Z" creationid="olex" creationdate="20180917T210219Z">
+        <seg>Нажатие на этот показатель процентов открывает диалоговое окно &lt;f0&gt;Масштаб и режимы просмотра&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ClarisWorks/Appleworks Document (.cwk)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T062641Z" creationid="tagezi" creationdate="20180305T062641Z">
@@ -9417,6 +9450,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>неточность в оригинале - при нажатии открывается навигатор</note>
+      <tuv lang="EN-US">
+        <seg>Click on this field to open the Go to Page dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T210114Z" creationid="olex" creationdate="20180917T205850Z">
+        <seg>Нажмите это поле, чтобы открыть диалоговое окно Навигатор.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Click once on it to activate the file handling controls (see Figure &lt;t0&gt;8&lt;/t0&gt;).</seg>
       </tuv>
@@ -9960,6 +10002,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T184034Z" creationid="olex" creationdate="20180614T184034Z">
         <seg>На компьютерах с &lt;f0&gt;macOS&lt;/f0&gt; функция Быстрый запуск недоступна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computers with a macOS do not have a Quickstarter.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T204348Z" creationid="olex" creationdate="20180917T204348Z">
+        <seg>Компьютеры под управлением macOS не имеют Быстрого запуска.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15336,6 +15386,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information on opening files, see “&lt;bf0&gt;Opening existing documents&lt;/bf0&gt;” on page &lt;bf1&gt;16&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T204249Z" creationid="olex" creationdate="20180917T204249Z">
+        <seg>Дополнительную информацию об открытии файлов смотрите в разделе “&lt;bf0&gt;Открытие существующих документов&lt;/bf0&gt;” на странице &lt;bf1&gt;16&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information on opening files, see “&lt;bf0&gt;Opening existing documents&lt;/bf0&gt;” on page &lt;bf1&gt;17&lt;/bf1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T182808Z" creationid="olex" creationdate="20180611T182808Z">
@@ -16040,6 +16098,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From the same list you can choose which items to show in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T210711Z" creationid="olex" creationdate="20180917T210711Z">
+        <seg>Из того же списка вы можете выбрать, какие элементы отображать на боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From there you can report bugs, suggest new features and communicate with others in the LibreOffice community.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T111646Z" creationid="tagezi" creationdate="20180307T111646Z">
@@ -16309,6 +16375,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T194059Z" creationid="olex" creationdate="20180616T194039Z">
         <seg>Выберите в меню &lt;f0&gt;Файл &gt; Открыть...&lt;/f0&gt; или &lt;f1&gt; Файл &gt; Открыть удаленно...&lt;/f1&gt;, чтобы открылось диалоговое окно Открыть или Файлы на сервере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;File &gt; Open&lt;/f0&gt; or &lt;f1&gt;File &gt; Open Remote…&lt;/f1&gt; on the Menu bar to reach the Open dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T211225Z" creationid="olex" creationdate="20180917T211225Z">
+        <seg>Выберите в меню &lt;f0&gt;Файл &gt; Открыть...&lt;/f0&gt; или &lt;f1&gt;Файл &gt; Открыть удаленно…&lt;/f1&gt; для доступа к диалоговому окну Открыть.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16599,6 +16673,23 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T061257Z" creationid="tagezi" creationdate="20180313T185238Z">
         <seg>Откройте диалоговое окно Выбор макроса (Рисунок &lt;t1&gt;4&lt;/t1&gt;), выбрав в меню &lt;f0&gt;Сервис &gt; Макросы &gt; Выполнить макрос&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;Load LibreOffice during system start-up &lt;/f1&gt;(on Windows)&lt;f2&gt; &lt;/f2&gt;or deselect&lt;f3&gt; Enable systray Quickstarter&lt;/f3&gt; on Linux.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T205231Z" creationid="olex" creationdate="20180917T205231Z">
+        <seg>Выберите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Общие&lt;/f0&gt; и снимите флажок с пункта &lt;f1&gt;Загрузка LibreOffice при запуске системы &lt;/f1&gt;(в Windows)&lt;f2&gt; &lt;/f2&gt;или &lt;f3&gt; Включить systray Quickstarter&lt;/f3&gt; в Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>denkin: Нет такого пункта меню Сервис - Параметры - Либреофис - Общие в Xubuntu 18.04</note>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Load LibreOffice during system start-up (if using Windows) or select Enable systray Quickstarter (if using Linux)&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T205248Z" creationid="olex" creationdate="20180917T205021Z">
+        <seg>Выберите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Общие&lt;/f0&gt; и поставьте флажок на пункте &lt;f1&gt;Загрузка LibreOffice при запуске системы (если используете Windows) или на Включить systray Quickstarter (если используете Linux)&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17699,6 +17790,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a document is already open, click the &lt;f0&gt;Open&lt;/f0&gt; icon on the Standard toolbar and select from a list of available documents from the Open dialog, or click &lt;f1&gt;Open Template…&lt;/f1&gt; to select a template.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T211425Z" creationid="olex" creationdate="20180917T211425Z">
+        <seg>Если документ уже открыт, то нажмите значок &lt;f0&gt;Открыть&lt;/f0&gt; на панели инструментов Стандартная и выберите документ из списка доступных в диалоговом окне Открыть или нажмите &lt;f1&gt;Открыть шаблон...&lt;/f1&gt;, чтобы выбрать шаблон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a document needs custom styles derived from base styles, consider prefixing the name of the custom styles with a few characters to highlight them among other styles in the list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T201446Z" creationid="olex" creationdate="20180309T201446Z">
@@ -17735,6 +17834,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T193534Z" creationid="olex" creationdate="20180616T183723Z">
         <seg>Если закрыть все документы не закрывая окно &lt;f0&gt;LibreOffice&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;, то будет отображаться Центр запуска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If all documents are closed without closing the last LibreOffice window, then the Start Center will be displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T211008Z" creationid="olex" creationdate="20180917T211008Z">
+        <seg>Если закрыть все документы, не закрывая последнее окно LibreOffice, то будет отображаться Центр запуска.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24095,6 +24202,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On a computer using Linux or Windows operating systems, the default installation of LibreOffice does not set the Quickstarter to load automatically.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T204440Z" creationid="olex" creationdate="20180917T204440Z">
+        <seg>На компьютере, использующем операционные системы Linux или Windows, установка LibreOffice по умолчанию не активирует автоматическую загрузку Быстрого запуска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On completion, the dispatcher variable contains a reference to a DispatchHelper.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153356Z" creationid="tagezi" creationdate="20180318T153356Z">
@@ -27177,6 +27292,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T183403Z" creationid="olex" creationdate="20180616T183403Z">
         <seg>Смотрите «&lt;bf0&gt;Использование Быстрого запуска в Linux или Windows&lt;/bf0&gt;» на странице &lt;bf1&gt;10&lt;/bf1&gt;&lt;s2/&gt; для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See “&lt;bf0&gt;Using Quickstarter on Linux or Windows&lt;/bf0&gt;” on page &lt;bf1&gt;8&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T210904Z" creationid="olex" creationdate="20180917T210904Z">
+        <seg>Смотрите “&lt;bf0&gt;Использование Быстрого запуска в Linux или Windows&lt;/bf0&gt;” на странице &lt;bf1&gt;8&lt;/bf1&gt;&lt;s2/&gt;для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See “&lt;bf1&gt;Moving toolbars&lt;/bf1&gt;” on page &lt;bf2&gt;11&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T205356Z" creationid="olex" creationdate="20180917T205356Z">
+        <seg>Смотрите “&lt;bf1&gt;Перемещение панелей инструментов&lt;/bf1&gt;” на странице &lt;bf2&gt;11&lt;/bf2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35912,6 +36043,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To undock the Sidebar and make it floating, and to dock a floating Sidebar, use the &lt;f0&gt;Sidebar settings&lt;/f0&gt; drop-down list at the top of the tab bar (see Figure &lt;t1&gt;9&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T210654Z" creationid="olex" creationdate="20180917T210654Z">
+        <seg>Чтобы открепить боковую панель и сделать ее плавающей, или чтобы закрепить плавающую боковую панель, используйте раскрывающийся список &lt;f0&gt;Настройки боковой панели&lt;/f0&gt; в верхней части панели вкладок (смотрите Рисунок &lt;t1&gt;9&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To unfreeze rows or columns, either go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Freeze Cells &gt; Freeze Rows and Columns&lt;/f1&gt; or click on the &lt;f2&gt;Freeze Rows and Columns&lt;/f2&gt; icon in the main toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T165245Z" creationid="olex" creationdate="20180409T165245Z">
@@ -36794,6 +36933,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T183955Z" creationid="olex" creationdate="20180617T183955Z">
         <seg>Используйте сочетание клавиш &lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the menu option &lt;f0&gt;File &gt; Save&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T211521Z" creationid="olex" creationdate="20180917T211521Z">
+        <seg>Используйте пункт меню &lt;f0&gt;Файл &gt; Сохранить&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37829,6 +37976,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T183401Z" creationid="olex" creationdate="20180614T183401Z">
         <seg>Если LibreOffice установлен на компьютерах под управлением Windows или Linux, то также можно использовать функцию Быстрого запуска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When LibreOffice is running but no document is open, the Start Center (Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;8&lt;/t2&gt;) is shown.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180917T210814Z" creationid="olex" creationdate="20180917T210814Z">
+        <seg>Когда LibreOffice запущен, но документ не открыт, отображается Центр запуска (Рисунок &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;на странице &lt;t2&gt;8&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
