@@ -1418,6 +1418,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;23&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Choosing HTML compatibility options&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T182356Z" creationid="olex" creationdate="20180918T182356Z">
+        <seg>&lt;f0&gt;Рисунок &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;23&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Выбор параметров совместимости HTML&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;6&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Viewing the paths of files used by LibreOffice &lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T173904Z" creationid="olex" creationdate="20180918T173904Z">
@@ -7056,6 +7064,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AutoRecovery in &lt;i0/&gt;LibreOffice saves the information needed to restore &lt;t1/&gt;all open documents in case of a crash.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T181752Z" creationid="olex" creationdate="20180918T181752Z">
+        <seg>Автосохранение в &lt;i0/&gt;LibreOffice сохраняет информацию, необходимую для восстановления&lt;t1/&gt; всех открытых документов в случае сбоя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AutoRecovery in &lt;i0/&gt;LibreOffice saves the information needed to restore all open documents in case of a crash.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T171118Z" creationid="olex" creationdate="20180707T171118Z">
@@ -8511,6 +8527,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180714T074437Z" creationid="olex" creationdate="20180714T074437Z">
         <seg>Проверяет расстояние между словами и предложениями на наличие более чем двух дополнительных пробелов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choices made on the &lt;f0&gt;Load/Save – HTML Compatibility&lt;/f0&gt; page (Figure &lt;t1&gt;23&lt;/t1&gt;) affect HTML pages imported into LibreOffice and those exported from LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T182327Z" creationid="olex" creationdate="20180918T182327Z">
+        <seg>Выбор, сделанный на странице &lt;f0&gt;Загрузка/сохранение - Совместимость HTML&lt;/f0&gt; (Рисунок &lt;t1&gt;23&lt;/t1&gt;), влияет на страницы HTML, импортированные в LibreOffice и экспортированные из LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13283,10 +13307,26 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Choosing Load/Save VBA Properties</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T182008Z" creationid="olex" creationdate="20180918T182008Z">
+        <seg>Рисунок &lt;seq0&gt;21&lt;/seq0&gt;: Выбор свойств загрузки/сохранения VBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Turning on automatic hyphenation</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T104858Z" creationid="olex" creationdate="20180815T104858Z">
         <seg>Рисунок &lt;seq0&gt;21&lt;/seq0&gt;: Включение автоматической расстановки переносов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Choosing Load/Save Microsoft Office options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T182222Z" creationid="olex" creationdate="20180918T182222Z">
+        <seg>Рисунок &lt;seq0&gt;22&lt;/seq0&gt;: Выбор параметров загрузки/сохранения Microsoft Office</seg>
       </tuv>
     </tu>
     <tu>
@@ -24592,6 +24632,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T170857Z" creationid="olex" creationdate="20180628T170857Z">
         <seg>На странице &lt;f0&gt;LibreOffice - Печать&lt;/f0&gt; задайте параметры печати в соответствии с вашим принтером по умолчанию и наиболее распространенным методом печати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the &lt;f0&gt;Load/Save – Microsoft Office&lt;/f0&gt; page (Figure &lt;t1&gt;22&lt;/t1&gt;), you can choose what to do when importing and exporting Microsoft Office OLE objects (linked or embedded objects or documents such as spreadsheets or equations).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T182134Z" creationid="olex" creationdate="20180918T182134Z">
+        <seg>На странице &lt;f0&gt;Загрузка/сохраннение - Microsoft Office&lt;/f0&gt; (Рисунок &lt;t1&gt;22&lt;/t1&gt;) вы можете выбрать, что делать при импорте и экспорте объектов OLE Microsoft Office (связанных или внедренных объектов или документов, таких как как электронные таблицы или уравнения).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37365,6 +37413,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T191251Z" creationid="olex" creationdate="20180711T191251Z">
         <seg>Используйте эти поля для определения соответствующих размеров &lt;i0/&gt;шрифтов для тегов HTML &lt;font size=1&gt; to &lt;font size=7&gt;, если они используются на страницах HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use these fields to define the respective &lt;i0/&gt;font sizes for the HTML &lt;font size=”1”&gt; to &lt;font size=”7”&gt; tags, if they are used in the HTML pages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T182557Z" creationid="olex" creationdate="20180918T182557Z">
+        <seg>Используйте эти поля для определения соответствующих размеров шрифта &lt;i0/&gt;для тегов HTML &lt;font size="1"&gt; to &lt;font size="7"&gt;, если они используются на страницах HTML.</seg>
       </tuv>
     </tu>
     <tu>
