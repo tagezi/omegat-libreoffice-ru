@@ -3842,6 +3842,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;The following options get more extreme from the top down, so it is recommended that you try them successively.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T185448Z" creationid="olex" creationdate="20180918T185448Z">
+        <seg>&lt;s0/&gt;Нижеследующие параметры становятся более экстремальными сверху вниз, поэтому рекомендуется пробовать их последовательно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0/&gt;This can be handy when multiple people have access to the spreadsheet itself, but for various reasons only a few can be allowed to modify the data it contains.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T192726Z" creationid="olex" creationdate="20180502T192726Z">
@@ -3907,6 +3915,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;In the case of shared or bundled extensions, the option will only work if the user has the proper system access rights and should be exercised with caution.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T190242Z" creationid="olex" creationdate="20180918T190242Z">
+        <seg>&lt;s1/&gt;В случае общих или связанных расширений опция будет работать только в том случае, если у пользователя есть надлежащие права доступа к системе и действия должны выполняться с осторожностью.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s1/&gt;Select the dictionary and click &lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Edit&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T183109Z" creationid="olex" creationdate="20180805T183109Z">
@@ -3931,6 +3947,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;This is a good option if you are experiencing crashes on start up or visual glitches that are often related to hardware acceleration.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T190038Z" creationid="olex" creationdate="20180918T190038Z">
+        <seg>&lt;s1/&gt;Это хороший вариант, если вы испытываете сбои при запуске или визуальные сбои, которые часто связаны с аппаратным ускорением.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s1/&gt;This requires specifying the settings for the additional levels.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T165301Z" creationid="olex" creationdate="20180811T165301Z">
@@ -3943,6 +3967,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T184739Z" creationid="olex" creationdate="20180506T183525Z">
         <seg>&lt;s1/&gt;Чтобы сделать комментарии видимыми, выберите в меню &lt;f2&gt;Вид &gt; Комментарии&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;Use this option to restore the user configuration, installed extensions or both, to a previous known working state if &lt;/f0&gt;you suspect that your problems were caused by recent changes to either.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T185907Z" creationid="olex" creationdate="20180918T185907Z">
+        <seg>&lt;s1/&gt;Используйте эту опцию для восстановления конфигурации пользователя, установленных расширений или и того и другого в предыдущей рабочей конфигурации, если &lt;/f0&gt;вы подозреваете, что ваши проблемы были вызваны недавними изменениями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6723,6 +6755,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T152700Z" creationid="olex" creationdate="20180623T152700Z">
         <seg>Внешний вид</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply Changes and Restart - Choose this option to apply any of the above changes and restart LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T190717Z" creationid="olex" creationdate="20180918T190717Z">
+        <seg>Применить и перезапустить - выберите этот вариант, чтобы применить любое из перечисленных выше изменений и перезапустить LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10198,6 +10238,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configure – &lt;f0&gt;This option allows you to disable all user extensions, hardware acceleration, or both.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T185956Z" creationid="olex" creationdate="20180918T185956Z">
+        <seg>Настроить – &lt;f0&gt;Эта опция позволяет отключить все пользовательские расширения, аппаратное ускорение или и то, и другое.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connecting the mobile device to the computer</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T200355Z" creationid="olex" creationdate="20180910T200355Z">
@@ -12713,6 +12761,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extensions – &lt;f0&gt;If you suspect that a corrupted extension is blocking or causing LibreOffice to crash, this option allows you to uninstall all user extensions, as well as resetting the state of any shared or bundled extensions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T190123Z" creationid="olex" creationdate="20180918T190123Z">
+        <seg>Расширения – &lt;f0&gt;Если вы подозреваете, что поврежденное расширение блокирует или приводит к сбою LibreOffice, то этот параметр позволяет удалить все пользовательские расширения, а также сбросить состояние любых общих или связанных расширений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FAQs</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T091045Z" creationid="tagezi" creationdate="20180305T091045Z">
@@ -13663,6 +13719,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T191352Z" creationid="olex" creationdate="20180424T191352Z">
         <seg>Рисунок &lt;seq0&gt;30&lt;/seq0&gt;: Имя и размер шрифта на панели инструментов Форматирования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: LibreOffice Safe Mode</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T185220Z" creationid="olex" creationdate="20180918T185220Z">
+        <seg>Рисунок &lt;seq0&gt;30&lt;/seq0&gt;: LibreOffice Безопасный режим</seg>
       </tuv>
     </tu>
     <tu>
@@ -19813,6 +19877,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Safe Mode, you can find options for repairing or restoring your copy of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T185309Z" creationid="olex" creationdate="20180918T185309Z">
+        <seg>В безопасном режиме вы можете найти варианты для восстановления вашей копии LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Web Layout view, you can use only the Zoom slider; the &lt;ts0/&gt;View Layout &lt;te1/&gt;buttons on the Status bar are disabled, and most of the choices on the Zoom &amp; View Layout dialog are not available.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T165552Z" creationid="olex" creationdate="20180727T165438Z">
@@ -19825,6 +19897,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T165728Z" creationid="olex" creationdate="20180727T165728Z">
         <seg>В режиме Веб страницы отсутствует визуальная индикация границ страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Windows Only, choose LibreOffice (Safe Mode) from the Start Menu</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T185200Z" creationid="olex" creationdate="20180918T185200Z">
+        <seg>Только в Windows, выберите в меню Пуск LibreOffice (безопасный режим)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26831,6 +26911,30 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset Entire User Profile – this will erase all customized options and return your user profile to the factory default state.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T190636Z" creationid="olex" creationdate="20180918T190528Z">
+        <seg>Сброс профиля пользователя - приведет к стиранию всех настраиваемых параметров и возврату вашего профиля пользователя к настройкам установки, в состояние по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset Settings and User Interface Modifications – this &lt;f0&gt;will reset your User Interface and configuration changes, but keep things like your personal dictionary, templates, etc... &lt;s1/&gt;&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T190543Z" creationid="olex" creationdate="20180918T190455Z">
+        <seg>Сброс настроек и изменений интерфейса - &lt;f0&gt;сбрасывает ваш пользовательский интерфейс и изменения конфигурации, но сохраняет такие вещи, как ваш личный словарь, шаблоны и т.д. &lt;s1/&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset to Factory Settings – &lt;f0&gt;If all of the above fails, you can reset your settings and your user interface modifications, or your entire profile back to factory defaults.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T190346Z" creationid="olex" creationdate="20180918T190346Z">
+        <seg>Возврат к настройкам установки - &lt;f0&gt;Если все вышеописанное не удается, то вы можете сбросить настройки и изменения пользовательского интерфейса, или весь свой профиль обратно на заводские настройки по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resets modified values back to the LibreOffice default values.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T200054Z" creationid="olex" creationdate="20180412T200054Z">
@@ -26859,6 +26963,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T153443Z" creationid="olex" creationdate="20180721T153443Z">
         <seg>Изменение нумерации страниц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restore from Backup – &lt;f0&gt;LibreOffice keeps backups of previous configurations and activated extensions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T185807Z" creationid="olex" creationdate="20180918T185635Z">
+        <seg>Восстановить из резервной копии - &lt;f0&gt;LibreOffice сохраняет резервные копии предыдущих конфигураций и активированных расширений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29961,6 +30073,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T152644Z" creationid="olex" creationdate="20180603T152644Z">
         <seg>Звезды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start LibreOffice from the command line with the --safe-mode option</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T185114Z" creationid="olex" creationdate="20180918T185114Z">
+        <seg>Запустите LibreOffice из командной строки с параметром --safe-mode</seg>
       </tuv>
     </tu>
     <tu>
