@@ -1434,6 +1434,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;26&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Choosing languages, dictionaries, and options for checking spelling&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T183954Z" creationid="olex" creationdate="20180918T183954Z">
+        <seg>&lt;f0&gt;Рисунок &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;26&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Выбор языков, словарей и параметров для проверки орфографии&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;27&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Choosing options for checking sentences in English&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T184149Z" creationid="olex" creationdate="20180918T184149Z">
+        <seg>&lt;f0&gt;Рисунок &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;27&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Выбор параметров проверки предложений на английском языке&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;28&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Internet options, showing E-mail page available to Linux users&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T184536Z" creationid="olex" creationdate="20180918T184536Z">
+        <seg>&lt;f0&gt;Рисунок &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;28&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Параметры Интернета, показывающие страницу электронной почты, доступную для пользователей Linux&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;29&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Specifying a MediaWiki server account&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T184809Z" creationid="olex" creationdate="20180918T184809Z">
+        <seg>&lt;f0&gt;Рисунок &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;29&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Указание учетной записи сервера MediaWiki&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;6&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Viewing the paths of files used by LibreOffice &lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T173904Z" creationid="olex" creationdate="20180918T173904Z">
@@ -8667,6 +8699,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose Help &gt; Restart in Safe Mode… from the menu bar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T185039Z" creationid="olex" creationdate="20180918T185039Z">
+        <seg>Выберите в меню Справка &gt; Перезапуск в безопасном режиме…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose spelling options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T153344Z" creationid="olex" creationdate="20180623T153344Z">
@@ -12116,6 +12156,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180315T194100Z" creationid="Роман" creationdate="20180315T194100Z">
         <seg>Панель Элементы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellipsis</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T184332Z" creationid="olex" creationdate="20180918T184332Z">
+        <seg>Многоточие</seg>
       </tuv>
     </tu>
     <tu>
@@ -20217,6 +20265,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the &lt;f1&gt;Options&lt;/f1&gt; section of the page (Figure &lt;t2&gt;26&lt;/t2&gt;), choose the settings that are useful for you.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T183918Z" creationid="olex" creationdate="20180918T183918Z">
+        <seg>В части &lt;f1&gt;Параметры&lt;/f1&gt; на странице (Рисунок &lt;t2&gt;26&lt;/t2&gt;), выберите необходимые вам настройки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the &lt;f1&gt;Options&lt;/f1&gt; section of the page (Figure &lt;t2&gt;27&lt;/t2&gt;), choose the settings that are useful for you.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180714T070635Z" creationid="olex" creationdate="20180714T070635Z">
@@ -27115,6 +27171,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T110239Z" creationid="olex" creationdate="20180715T110239Z">
         <seg>Безопасный режим &lt;f0&gt;предлагает различные варианты&lt;/f0&gt; восстановления установки LibreOffice, которая оказалась поврежденной, не работает &lt;f1&gt;или не запускается&lt;/f1&gt; &lt;f2&gt;по разным причинам&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safe Mode offers various options to help restore an instance of LibreOffice that has become corrupted and stopped working or fails to launch for a variety of reasons.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T184935Z" creationid="olex" creationdate="20180918T184935Z">
+        <seg>Безопасный режим предлагает различные варианты, помогающие восстановить установку LibreOffice, которая поврежденна и перестала работать или не запускается по разным причинам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35356,6 +35420,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T173843Z" creationid="olex" creationdate="20180828T173843Z">
         <seg>Чтобы включить классификацию документов, откройте панель &lt;ts0/&gt;&lt;f1&gt;TSCP&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt; (&lt;f4&gt;Вид &gt; Панели инструментов &gt; &lt;/f4&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;f8&gt;Классификация TSCP&lt;/f8&gt;&lt;/f7&gt;&lt;te9/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To enable it, select MediaWiki in the Internet options, then click the &lt;f0&gt;Add&lt;/f0&gt; button to open the dialog shown in Figure &lt;t1&gt;29&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T184822Z" creationid="olex" creationdate="20180918T184733Z">
+        <seg>Чтобы включить ее, выберите MediaWiki в настройках Интернета, затем нажмите кнопку &lt;f0&gt;Add/// (Добавить)&lt;/f0&gt;, чтобы открыть диалоговое окно, показанное на рисунке &lt;t1&gt;29&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
