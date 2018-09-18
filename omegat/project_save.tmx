@@ -3897,6 +3897,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;Any extensions or configuration options you had set up previously will have to be reconfigured in order to be used, bearing in mind that any changes made to the temporary user profile will be lost after &lt;/f0&gt;any restart.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T190936Z" creationid="olex" creationdate="20180918T190936Z">
+        <seg>&lt;s1/&gt;Любые расширения или параметры конфигурации, которые вы установили ранее, должны быть переконфигурированы для использования, но учитывайте, что любые изменения, внесенные во временный профиль пользователя, будут потеряны после&lt;/f0&gt; перезапуска.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Неточность в указании пути в оригинале - пропустили LibreOffice</note>
       <tuv lang="EN-US">
         <seg>&lt;s1/&gt;If you wish, you can toggle this visibility off or on in&lt;/f0&gt;&lt;f2&gt; Tools &gt; Options &gt; View &gt; Menu&lt;/f2&gt;.</seg>
@@ -10306,6 +10314,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T171008Z" creationid="olex" creationdate="20180616T171008Z">
         <seg>Контекстные меню обеспечивают быстрый доступ ко многим функциям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continue in Safe Mode – Continuing in Safe Mode will allow you to work in LibreOffice as you are used to, but using a temporary profile &lt;f0&gt;that was created on start up.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T190839Z" creationid="olex" creationdate="20180918T190839Z">
+        <seg>Продолжить в безопасном режиме - продолжение в безопасном режиме позволит вам работать в LibreOffice, как вы привыкли, но используя временный профиль&lt;f0&gt;, который был создан при запуске.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17782,6 +17798,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, be aware that your uploaded user profile may contain sensitive information such as installed extensions, personal dictionaries and settings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T191418Z" creationid="olex" creationdate="20180918T191418Z">
+        <seg>Однако имейте в виду, что ваш профиль пользователя может содержать конфиденциальную информацию, такую как установленные расширения, личные словари и настройки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, hidden elements can still be selected for copying if you select the elements around them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T182500Z" creationid="olex" creationdate="20180502T182439Z">
@@ -18818,6 +18842,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T122628Z" creationid="olex" creationdate="20180715T122628Z">
         <seg>Если вы не можете решить свою проблему с помощью безопасного режима, то вкладка &lt;f0&gt;Дополнительно&lt;/f0&gt; &lt;f1&gt;предоставит инструкции по получению дополнительной помощи&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are unable to solve your problem using Safe Mode, the advanced tab will provide instructions on receiving further aid.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T191219Z" creationid="olex" creationdate="20180918T191219Z">
+        <seg>Если вы не можете решить свою проблему с помощью безопасного режима, то на вкладке Дополнительно будут предоставлены инструкции по получению дополнительной помощи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20557,6 +20589,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T131734Z" creationid="olex" creationdate="20180818T131734Z">
         <seg>В диалоговом окне Водяной знак&lt;te0/&gt;&lt;ts1/&gt;,&lt;te2/&gt;&lt;ts3/&gt; введите текст, выберите шрифт, угол, прозрачность и цвет для водяного знака.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the advanced tab you also have the option to create a zip file of your corrupted user profile which can then be uploaded to the bug tracking system where it can be further investigated by the developers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T191346Z" creationid="olex" creationdate="20180918T191346Z">
+        <seg>На вкладке Дополнительно вы также можете создать zip-файл вашего поврежденного профиля пользователя, который затем может быть загружен в систему отслеживания ошибок, где разработчики смогут  его исследовать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26955,6 +26995,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180813T173449Z" creationid="olex" creationdate="20180813T173449Z">
         <seg>Начать нумерацию заново</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart in Normal Mode – If you arrived in Safe Mode accidentally, this option will discard any changes, terminate Safe Mode and restart LibreOffice normally.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T191121Z" creationid="olex" creationdate="20180918T191121Z">
+        <seg>Перезагрузка в обычном режиме - если вы случайно вошли в безопасный режим, то эта опция отменит любые изменения, прекратит безопасный режим и перезапустит LibreOffice в обычном режиме.</seg>
       </tuv>
     </tu>
     <tu>
