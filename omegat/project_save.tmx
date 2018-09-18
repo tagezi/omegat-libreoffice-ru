@@ -1394,6 +1394,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;10&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Security options and warnings dialog&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T175842Z" creationid="olex" creationdate="20180918T175842Z">
+        <seg>&lt;f0&gt;Рисунок &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;10&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Диалоговое окно Параметры и предупреждения безопасности&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;13&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Sample personalized theme&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T180036Z" creationid="olex" creationdate="20180918T180036Z">
+        <seg>&lt;f0&gt;Рисунок &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;13&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Пример персонализированной темы&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;19&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: OpenCL options&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T181455Z" creationid="olex" creationdate="20180918T181455Z">
+        <seg>&lt;f0&gt;Рисунок &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;19&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Параметры OpenCL&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;6&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Viewing the paths of files used by LibreOffice &lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T173904Z" creationid="olex" creationdate="20180918T173904Z">
@@ -6371,6 +6395,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094359Z" creationid="Роман" creationdate="20180316T094359Z">
         <seg>Пример показан на Рисунке &lt;t0&gt;3&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An example is shown in Figure &lt;t5&gt;13&lt;/t5&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T175905Z" creationid="olex" creationdate="20180918T175905Z">
+        <seg>Пример показан на Рисунке &lt;t5&gt;13&lt;/t5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12705,6 +12737,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: &lt;f1&gt;Personalization dialogs&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T175952Z" creationid="olex" creationdate="20180918T175952Z">
+        <seg>Рисунок &lt;seq0&gt;11&lt;/seq0&gt;: &lt;f1&gt;Диалоговое окно Персонализация&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Creating a template using a wizard</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T185555Z" creationid="olex" creationdate="20180719T185555Z">
@@ -12801,6 +12841,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Theme selection from Mozilla Firefox</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T180018Z" creationid="olex" creationdate="20180918T180018Z">
+        <seg>Рисунок &lt;seq0&gt;12&lt;/seq0&gt;: Выбор темы из Mozilla Firefox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Creating a new category</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T204544Z" creationid="olex" creationdate="20180313T204544Z">
@@ -12845,6 +12893,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T172133Z" creationid="olex" creationdate="20180802T172111Z">
         <seg>Рисунок &lt;seq0&gt;13&lt;/seq0&gt;: Список выбора для поиска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: &lt;f1&gt;Showing or hiding text, object, and table boundaries&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T180245Z" creationid="olex" creationdate="20180918T180245Z">
+        <seg>Рисунок &lt;seq0&gt;14&lt;/seq0&gt;: &lt;f1&gt;Отображение или скрытие границ текста, объекта и таблицы&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12897,6 +12953,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: &lt;f1&gt;Choosing accessibility options&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T180451Z" creationid="olex" creationdate="20180918T180349Z">
+        <seg>Рисунок &lt;seq0&gt;15&lt;/seq0&gt;: &lt;f1&gt;Выбор параметров Специальные возможности&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Flow of page styles</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T192428Z" creationid="olex" creationdate="20180315T192428Z">
@@ -12933,6 +12997,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T180957Z" creationid="olex" creationdate="20180802T180957Z">
         <seg>Рисунок &lt;seq0&gt;15&lt;/seq0&gt;: Диалоговое окно Выбор символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: &lt;f1&gt;Choosing a Java runtime environment&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T180745Z" creationid="olex" creationdate="20180918T180745Z">
+        <seg>Рисунок &lt;seq0&gt;16&lt;/seq0&gt;: &lt;f1&gt;Выбор виртуальной машины Java&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12977,6 +13049,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: &lt;f1&gt;Basic IDE Options dialog&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T180857Z" creationid="olex" creationdate="20180918T180857Z">
+        <seg>Рисунок &lt;seq0&gt;17&lt;/seq0&gt;: &lt;f1&gt;Диалоговое окно параметров IDE Basic&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Bullets and Numbering toolbar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180813T173738Z" creationid="olex" creationdate="20180813T173738Z">
@@ -13013,6 +13093,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T170558Z" creationid="olex" creationdate="20180409T170558Z">
         <seg>Рисунок &lt;seq0&gt;17&lt;/seq0&gt;: Пример разделения окна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: &lt;f1&gt;Online update options&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T181319Z" creationid="olex" creationdate="20180918T181319Z">
+        <seg>Рисунок &lt;seq0&gt;18&lt;/seq0&gt;: &lt;f1&gt;Параметры он-лайн обновления&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13143,6 +13231,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T160745Z" creationid="olex" creationdate="20180721T160745Z">
         <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: Основное рабочее пространство Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: &lt;f1&gt;Choosing Load and Save options&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T181541Z" creationid="olex" creationdate="20180918T181541Z">
+        <seg>Рисунок &lt;seq0&gt;20&lt;/seq0&gt;: &lt;f1&gt;Выбор параметров Загрузки и Сохранения&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15246,6 +15342,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T151633Z" creationid="olex" creationdate="20180630T151633Z">
         <seg>Подробную информацию о темах можно найти на веб-сайте Mozilla:&lt;a6&gt;http&lt;/a6&gt;&lt;a7&gt;s&lt;/a7&gt;&lt;a8&gt;://www.&lt;/a8&gt;&lt;a9&gt;https://addons.mozilla.org/en-US/firefox/themes/&lt;/a9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For full details about themes, visit the Mozilla website: &lt;a6&gt;https://www.https://addons.mozilla.org/en-US/firefox/themes/&lt;/a6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T175929Z" creationid="olex" creationdate="20180918T175929Z">
+        <seg>Подробную информацию о темах можно найти на веб-сайте Mozilla.: &lt;a6&gt;https://www.https://addons.mozilla.org/en-US/firefox/themes/&lt;/a6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24048,6 +24152,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that you can change the list of available colors selecting other available palettes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T180218Z" creationid="olex" creationdate="20180918T180218Z">
+        <seg>Обратите внимание, что вы можете изменить список доступных цветов, выбрав другие доступные палитры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090607Z" creationid="tagezi" creationdate="20180305T090607Z">
@@ -24419,6 +24531,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the &lt;f0&gt;LibreOffice – Application colors&lt;/f0&gt; page (Figure &lt;t1&gt;14&lt;/t1&gt;), you can specify which items are visible and the colors used to display various items.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T180536Z" creationid="olex" creationdate="20180918T180157Z">
+        <seg>На странице &lt;f0&gt;LibreOffice - Внешний вид&lt;/f0&gt; (Рисунок &lt;t1&gt;14&lt;/t1&gt;) вы можете указать, какие элементы будут видны, а также цвета, используемые для отображения различных элементов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the &lt;f0&gt;LibreOffice – Application colors&lt;/f0&gt; page (Figure &lt;t1&gt;15&lt;/t1&gt;), you can specify which items are visible and the colors used to display various items.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T152346Z" creationid="olex" creationdate="20180630T152346Z">
@@ -24431,6 +24551,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T173032Z" creationid="olex" creationdate="20180628T173032Z">
         <seg>На странице &lt;f0&gt;LibreOffice - Шрифты&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the &lt;f0&gt;LibreOffice – Online Update&lt;/f0&gt; page (Figure &lt;t1&gt;18&lt;/t1&gt;), you can choose whether and how often to have the program check the LibreOffice website for program updates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T181244Z" creationid="olex" creationdate="20180918T181244Z">
+        <seg>На странице &lt;f0&gt;LibreOffice – Обновления по сети&lt;/f0&gt; (Рисунок &lt;t1&gt;18&lt;/t1&gt;), вы можете выбрать, как часто проверять на веб-сайте LibreOffice наличия обновления программы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24920,6 +25048,14 @@ denkin: не понял? чего не видно?</note>
         <seg>OpenCL Options - Allow use of Software Interpreter (even when OpenCL is not available)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T180206Z" creationid="olex" creationdate="20180701T180206Z">
+        <seg>Параметры OpenCL - Разрешить интерпретатор (даже когда OpenCL недоступен)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenCL Options –Allow use of Software Interpreter (even when OpenCL is not available)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T181434Z" creationid="olex" creationdate="20180918T181434Z">
         <seg>Параметры OpenCL - Разрешить интерпретатор (даже когда OpenCL недоступен)</seg>
       </tuv>
     </tu>
@@ -29926,12 +30062,11 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
     </tu>
     <tu>
-      <note>денкин: не знаю как это переводится</note>
       <tuv lang="EN-US">
         <seg>TSAs –Time Stamping Authorities</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180918T175414Z" creationid="olex" creationdate="20180918T175414Z">
-        <seg>TSAs – Time Stamping Authorities</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T175719Z" creationid="olex" creationdate="20180918T175414Z">
+        <seg>ИОВ – Источники Отметок Времени</seg>
       </tuv>
     </tu>
     <tu>
@@ -31709,6 +31844,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T215338Z" creationid="olex" creationdate="20180407T215338Z">
         <seg>Открыть диалоговое окно &lt;f6&gt;Вставить лист...&lt;/f6&gt; (Рисунок &lt;t7&gt;14&lt;/t7&gt;), в котором вы сможете позиционировать новый лист, создать несколько листов, называть новый лист или выбрать лист из файла, можно следующими способами:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following options are on the Security options and warnings dialog (Figure &lt;t0&gt;10&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T175812Z" creationid="olex" creationdate="20180918T175812Z">
+        <seg>Следующие параметры находятся в диалоговом окне Параметры и предупреждения безопасности (Рисунок &lt;t0&gt;10&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
