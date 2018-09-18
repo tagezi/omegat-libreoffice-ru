@@ -1402,6 +1402,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;8&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Choosing security options for opening and saving documents&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T174957Z" creationid="olex" creationdate="20180918T174957Z">
+        <seg>&lt;f0&gt;Рисунок &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;8&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Выбор параметров безопасности при открытии и сохранении документов&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;9&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Set Master Password dialog for web connections&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T175246Z" creationid="olex" creationdate="20180918T175246Z">
+        <seg>&lt;f0&gt;Рисунок &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;9&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Установка мастер-пароля для веб-соединений&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;File compatibility.&lt;/f0&gt; In addition to its native OpenDocument formats, LibreOffice includes support for opening and saving files in many common formats including Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3, and PDF.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T174529Z" creationid="olex" creationdate="20180611T174529Z">
@@ -9636,6 +9652,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Options&lt;/f0&gt; button to open a separate dialog with specific choices (Figure &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T174839Z" creationid="olex" creationdate="20180918T174839Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Параметры...&lt;/f0&gt;, чтобы открыть отдельное диалоговое окно с выбором настроек (Рисунок &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;f0&gt;Options&lt;/f0&gt; button to open a separate dialog with specific choices (Figure &lt;t1&gt;12&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T182932Z" creationid="olex" creationdate="20180628T182932Z">
@@ -14330,6 +14354,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Font replacement on screen and when printing, whether the font is &lt;t0/&gt;installed or not.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T174540Z" creationid="olex" creationdate="20180918T174540Z">
+        <seg>Замена шрифта на экране и при печати независимо от того, установлен шрифт &lt;t0/&gt;или нет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Font replacement on screen and when printing, whether the font is installed or not.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T182215Z" creationid="olex" creationdate="20180628T182138Z">
@@ -18963,6 +18995,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T175340Z" creationid="olex" creationdate="20180330T192114Z">
         <seg>Если вы выбрали &lt;f1&gt;Другой&lt;/f1&gt;, то укажите символ, используемый для разделения данных на столбцы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you select the &lt;f0&gt;Persistently save passwords for web connections&lt;/f0&gt; option, the Set Master Password dialog opens (Figure &lt;t1&gt;12&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T175216Z" creationid="olex" creationdate="20180918T175216Z">
+        <seg>Если вы выберите параметр &lt;f0&gt;Хранить пароли для веб-подключений&lt;/f0&gt;, то откроется диалоговое окно Задайте мастер-пароль (Рисунок &lt;t1&gt;12&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27464,6 +27504,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See “&lt;bf2&gt;Security options and warnings&lt;/bf2&gt;” on page &lt;bf3&gt;12&lt;/bf3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T174923Z" creationid="olex" creationdate="20180918T174923Z">
+        <seg>Смотрите “&lt;bf2&gt;Параметры и предупреждения безопасности&lt;/bf2&gt;” на странице &lt;bf3&gt;12&lt;/bf3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See “&lt;bf2&gt;Security options and warnings&lt;/bf2&gt;” on page &lt;bf3&gt;14&lt;/bf3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T183017Z" creationid="olex" creationdate="20180628T183017Z">
@@ -29875,6 +29923,15 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T184443Z" creationid="olex" creationdate="20180628T184443Z">
         <seg>ИОВ - Источники Отметок Времени</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>денкин: не знаю как это переводится</note>
+      <tuv lang="EN-US">
+        <seg>TSAs –Time Stamping Authorities</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T175414Z" creationid="olex" creationdate="20180918T175414Z">
+        <seg>TSAs – Time Stamping Authorities</seg>
       </tuv>
     </tu>
     <tu>
