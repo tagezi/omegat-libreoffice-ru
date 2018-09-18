@@ -1394,6 +1394,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;6&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Viewing the paths of files used by LibreOffice &lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T173904Z" creationid="olex" creationdate="20180918T173904Z">
+        <seg>&lt;f0&gt;Рисунок &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;6&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Просмотр путей к файлам, используемым в LibreOffice &lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;File compatibility.&lt;/f0&gt; In addition to its native OpenDocument formats, LibreOffice includes support for opening and saving files in many common formats including Microsoft Office, HTML, XML, WordPerfect, Lotus 1-2-3, and PDF.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T174529Z" creationid="olex" creationdate="20180611T174529Z">
@@ -13531,6 +13539,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: &lt;f1&gt;Choosing View options for LibreOffice applications&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T173642Z" creationid="olex" creationdate="20180918T173630Z">
+        <seg>Рисунок &lt;seq0&gt;3&lt;/seq0&gt;: &lt;f1&gt;Выбор параметров Вид для приложений LibreOffice&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Calc status bar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T191217Z" creationid="olex" creationdate="20180329T191217Z">
@@ -13700,6 +13716,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: &lt;f1&gt;Choosing general printing options to apply to all LibreOffice components&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T173818Z" creationid="olex" creationdate="20180918T173818Z">
+        <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: &lt;f1&gt;Выбор параметров печати общих для всех компонентов LibreOffice&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: &lt;f1&gt;Default &lt;/f1&gt;Properties panel o&lt;o2/&gt;f Sidebar&lt;ts3/&gt;&lt;o4/&gt;&lt;te5/&gt; in Writer</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T162033Z" creationid="olex" creationdate="20180722T161908Z">
@@ -13824,6 +13848,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T194335Z" creationid="olex" creationdate="20180310T194335Z">
         <seg>Рисунок &lt;seq0&gt;7&lt;/seq0&gt;: Копирование стилей из шаблона в открытый документ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Defining a font to be substituted for another font</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T174406Z" creationid="olex" creationdate="20180918T174406Z">
+        <seg>Рисунок &lt;seq0&gt;7&lt;/seq0&gt;: Определение шрифтов для замены</seg>
       </tuv>
     </tu>
     <tu>
@@ -32480,6 +32512,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T181405Z" creationid="olex" creationdate="20180628T181405Z">
         <seg>Результаты объединения этих выборок приведены в Таблице &lt;t3&gt;1&lt;/t3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The results of combining these selections are given in Table &lt;t3&gt;2&lt;/t3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T174034Z" creationid="olex" creationdate="20180918T174034Z">
+        <seg>Результаты объединения этого выбора приведены в таблице &lt;t3&gt;2&lt;/t3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
