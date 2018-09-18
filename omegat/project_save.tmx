@@ -1426,6 +1426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;25&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Choosing language options&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T183527Z" creationid="olex" creationdate="20180918T183527Z">
+        <seg>&lt;f0&gt;Рисунок &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;25&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Выбор параметров языка&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;6&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Viewing the paths of files used by LibreOffice &lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T173904Z" creationid="olex" creationdate="20180918T173904Z">
@@ -13395,6 +13403,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: LibreOffice language options, without and with Asian and CTL options enabled</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T183451Z" creationid="olex" creationdate="20180918T183451Z">
+        <seg>Рисунок &lt;seq0&gt;24&lt;/seq0&gt;: Настройки языка LibreOffice, без и с азиатскими и CTL-настройками</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Sort Lists dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T145542Z" creationid="olex" creationdate="20180414T145353Z">
@@ -18542,6 +18558,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this option is &lt;f0&gt;not&lt;/f0&gt; selected, numbers will be interpreted according to the &lt;f1&gt;Locale setting&lt;/f1&gt; in &lt;f2&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f2&gt; (see page &lt;bf3&gt;24&lt;/bf3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T182935Z" creationid="olex" creationdate="20180918T182935Z">
+        <seg>Если этот параметр &lt;f0&gt;не&lt;/f0&gt; выбран, то числа будут интерпретироваться в соответствии с параметром &lt;f1&gt;Локальные настройки&lt;/f1&gt; в &lt;f2&gt;Сервис &gt; Параметры &gt; Настройки языка &gt; Языки&lt;/f2&gt; (смотрите страницу &lt;bf3&gt;24&lt;/bf3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this option is &lt;f0&gt;not&lt;/f0&gt; selected, numbers will be interpreted according to the &lt;f1&gt;Locale setting&lt;/f1&gt; in &lt;f2&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f2&gt; (see page &lt;bf3&gt;26&lt;/bf3&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T191925Z" creationid="olex" creationdate="20180711T191925Z">
@@ -18754,6 +18778,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T184325Z" creationid="olex" creationdate="20180707T184236Z">
         <seg>Если вы выберете &lt;i0/&gt;&lt;f1&gt;Сохранять исходный код Basic&lt;/f1&gt;, то макросы не будут работать в LibreOffice, но сохраняются без изменений, если вы сохраните файл в формате Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you choose either of these options, the next time you open this dialog, you will see some extra choices under Language Settings, as shown in Figure &lt;t2&gt;24&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T183632Z" creationid="olex" creationdate="20180918T183632Z">
+        <seg>Если вы выберете любой из этих параметров, то при следующем открытии этого диалогового окна вы увидите некоторые дополнительные варианты в разделе Настройки языка, как показано на рисунке &lt;t2&gt;24&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31796,6 +31828,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T161055Z" creationid="tagezi" creationdate="20180320T161055Z">
         <seg>События в диалоговом окне Настройка относятся ко всему приложению и конкретным документам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The exact list shown depends on the &lt;f1&gt;Enhanced language support&lt;/f1&gt; settings (see Figure &lt;t2&gt;25&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180918T183308Z" creationid="olex" creationdate="20180918T183308Z">
+        <seg>Точно отображаемый список зависит от параметра &lt;f1&gt;Расширенная языковая поддержка&lt;/f1&gt; (смотрите Рисунок &lt;t2&gt;25&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
