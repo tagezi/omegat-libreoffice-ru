@@ -7056,6 +7056,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the bottom of the Styles deck is a drop-down list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T180048Z" creationid="olex" creationdate="20180919T180048Z">
+        <seg>В нижней части вкладки Стили находится раскрывающийся список.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the bottom of the Styles window is a drop-down list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T063900Z" creationid="olex" creationdate="20180307T205650Z">
@@ -13456,6 +13464,14 @@ DONE</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: The Styles deck for Writer, showing paragraph styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T180405Z" creationid="olex" creationdate="20180919T180405Z">
+        <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: Вкладка Стили для Writer, показывающая стили абзаца</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: W в слове Writer не произносится :) Я тоже когда-то писал автоматом "во" (на лоре есть мои коментарии с этим "во" :)). Лучше писать "в", чтобы не кормить троллей.
 DONE</note>
       <tuv lang="EN-US">
@@ -14400,6 +14416,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T163843Z" creationid="olex" creationdate="20180409T163843Z">
         <seg>Рисунок &lt;t0&gt;16&lt;/t0&gt;&lt;s1/&gt;показывает несколько зафиксированных строк и столбцов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;shows the panel for Writer, with Paragraph Styles visible.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T175908Z" creationid="olex" creationdate="20180919T175908Z">
+        <seg>Рисунок &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;показывает панель для Writer, с вкладкой стилей абзаца.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19900,6 +19924,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T231444Z" creationid="lera" creationdate="20180303T170505Z">
         <seg>В феврале 2012, The Document Foundation была зарегистрирована в Берлине как German Stiftung (немецкий некоммерческий фонд).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;the panel might show &lt;f2&gt;Applied Styles&lt;/f2&gt;, meaning the list includes only the styles used in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T180333Z" creationid="olex" creationdate="20180919T180333Z">
+        <seg>На Рисунке &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;в этом списке выбрано показать &lt;f2&gt;Используемые стили&lt;/f2&gt;, то есть список включает только стили, используемые в документе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28481,6 +28513,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select one of the buttons at the top left of the Styles deck to display a list of styles in that category.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T180007Z" creationid="olex" creationdate="20180919T175953Z">
+        <seg>Выберите одну из кнопок в левом верхнем углу вкладки стилей, чтобы отобразить список стилей в необходимой категории.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select one of the buttons at the top left of the Styles window to display a list of styles in that category.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T153418Z" creationid="olex" creationdate="20180307T205008Z">
@@ -31564,6 +31604,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180919T174818Z" creationid="olex" creationdate="20180919T174818Z">
         <seg>Вкладка Стили на Боковой панели</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Styles deck shows previews of the styles available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T175734Z" creationid="olex" creationdate="20180919T175734Z">
+        <seg>Во вкладке Стили отображается просмотр доступных стилей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36934,8 +36982,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>To use it for applying styles:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180307T203734Z" creationid="olex" creationdate="20180307T203734Z">
-        <seg>Чтобы использовать его для применения стилей:</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T175635Z" creationid="olex" creationdate="20180307T203734Z">
+        <seg>Чтобы использовать ее для применения стилей:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37629,6 +37677,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T175459Z" creationid="olex" creationdate="20180308T175236Z">
         <seg>Использовать функцию Обновить стиль (только для стилей абзацев и врезок)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Fill Format to apply a style to many different areas quickly without having to go back to the Styles deck and double-click every time.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T180706Z" creationid="olex" creationdate="20180919T180706Z">
+        <seg>Используйте Стилевую заливку, чтобы быстро применить стиль ко многим частям документа, не возвращаясь к вкладке Стили и не щелкая дважды каждый раз.</seg>
       </tuv>
     </tu>
     <tu>
