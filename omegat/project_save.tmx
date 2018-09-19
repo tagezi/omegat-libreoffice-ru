@@ -14116,6 +14116,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Modifying a style from the Set Paragraph Style list</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T183931Z" creationid="olex" creationdate="20180919T183931Z">
+        <seg>Рисунок &lt;seq0&gt;4&lt;/seq0&gt;: Изменение стиля из списка Задать стиль абзаца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Symbols dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204727Z" creationid="Роман" creationdate="20180316T204727Z">
@@ -20645,6 +20653,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T195503Z" creationid="olex" creationdate="20180711T195503Z">
         <seg>В диалоговом окне Параметры щелкните символ расширения (знак + или треугольник) справа от строки &lt;f0&gt;Настройки языка&lt;/f0&gt; и выберите Языки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Styles deck, select the style to update, then click on the arrow next to the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon and click &lt;f1&gt;Update Style&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T183754Z" creationid="olex" creationdate="20180919T183754Z">
+        <seg>На вкладке Стили выберите стиль для обновления, а нажмите на стрелку рядом со значком &lt;f0&gt;Создать стиль по выделению&lt;/f0&gt; и выберите &lt;f1&gt;Обновить стиль&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35593,6 +35609,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To create a new style using &lt;i0/&gt;the New Style dialog, open the sidebar Styles deck and select the category of style (eg.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T184251Z" creationid="olex" creationdate="20180919T184251Z">
+        <seg>Чтобы создать новый стиль с помощью &lt;i0/&gt;диалогового окна Создать стиль, откройте на Боковой панели вкладку Стили и выберите категорию стиля (например </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To create a new style using &lt;i0/&gt;the Style dialog, right-click in the Styles window and select &lt;f1&gt;New&lt;/f1&gt; from the pop-up menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T195154Z" creationid="olex" creationdate="20180309T195154Z">
@@ -40512,6 +40536,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also modify styles using the submenu on each style in the Set Paragraph Style list on the Formatting toolbar (see Figure &lt;t0&gt;4&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T183858Z" creationid="olex" creationdate="20180919T183858Z">
+        <seg>Вы также можете изменять стили, используя подменю для каждого стиля в списке Задать стиль абзаца на панели инструментов Форматирование (смотрите Рисунок &lt;t0&gt;4&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also navigate through the comments using the keyboard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T140633Z" creationid="olex" creationdate="20180818T140633Z">
@@ -41039,6 +41071,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T172744Z" creationid="olex" creationdate="20180628T172744Z">
         <seg>Вы можете определить замены для любых шрифтов, которые могут отображаться в ваших документах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can do this by using either the New Style dialog or the New Style from Selection tool.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T184126Z" creationid="olex" creationdate="20180919T184126Z">
+        <seg>Вы можете сделать это, используя диалоговое окно Создать стиль или инструмент Создать стиль по выделению.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42350,8 +42390,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>creating using Style dialog</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180309T194731Z" creationid="olex" creationdate="20180309T194215Z">
-        <seg>Создание, используя диалогового окна Стиль</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T184140Z" creationid="olex" creationdate="20180309T194215Z">
+        <seg>Создание, с использованием диалогового окна Стиль</seg>
       </tuv>
     </tu>
     <tu>
@@ -43328,6 +43368,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T180738Z" creationid="olex" creationdate="20180508T180738Z">
         <seg>порядок страниц, детали, масштаб, в Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>paragraph, character, etc.) wish to create by clicking one of the icons at the top of the deck, then click the arrowhead on the right hand icon and select &lt;f1&gt;New&lt;/f1&gt; from the pop-up menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T184346Z" creationid="olex" creationdate="20180919T184346Z">
+        <seg>абзаца, символа и т.п.), щелкнув один из значков в верхней части колоды, затем щелкните стрелку на правой кнопке и выберите &lt;f1&gt;New&lt;/f1&gt; from the pop-up menu.</seg>
       </tuv>
     </tu>
     <tu>
