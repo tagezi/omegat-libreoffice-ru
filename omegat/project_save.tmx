@@ -416,6 +416,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;5&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;What are styles?&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T172548Z" creationid="olex" creationdate="20180919T172548Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;5&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Что такое стили?&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;5&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;What is Impress?&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180908T201503Z" creationid="olex" creationdate="20180908T201503Z">
@@ -612,6 +620,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T191916Z" creationid="olex" creationdate="20180607T191916Z">
         <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Глава 1 Введение в LibreOffice&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 3 Using Styles and Templates&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T172806Z" creationid="olex" creationdate="20180919T172806Z">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Глава 3 Использование стилей и шаблонов&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4179,6 +4195,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;22&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Formatting a table in Writer&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T172607Z" creationid="olex" creationdate="20180919T172607Z">
+        <seg>&lt;t0&gt;22&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Форматирование таблицы в Writer&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;24&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Closing LibreOffice&lt;/t3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T191819Z" creationid="olex" creationdate="20180607T191819Z">
@@ -4287,6 +4311,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T181544Z" creationid="tagezi" creationdate="20180304T181544Z">
         <seg>&lt;t0&gt;Приложение B Свободное программное обеспечение, Открытые стандарты, OpenDocument&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Changing page orientation within a document&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;21&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T172517Z" creationid="olex" creationdate="20180919T172517Z">
+        <seg>&lt;t0&gt;Изменение ориентации страницы внутри документа&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;21&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8419,6 +8451,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chapter 3&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T172814Z" creationid="olex" creationdate="20180919T172814Z">
+        <seg>Глава 3&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chapter 4 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T100632Z" creationid="olex" creationdate="20180721T100632Z">
@@ -10634,6 +10674,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T195021Z" creationid="olex" creationdate="20180306T195021Z">
         <seg>Создание шаблона с помощью мастера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating and modifying styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T173504Z" creationid="olex" creationdate="20180919T173504Z">
+        <seg>Создание и изменение стилей</seg>
       </tuv>
     </tu>
     <tu>
@@ -26479,6 +26527,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Published 2018.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T172848Z" creationid="olex" creationdate="20180919T172848Z">
+        <seg>Опубликовано в 2018.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Published &lt;f0&gt;04&lt;/f0&gt; &lt;f1&gt;march&lt;/f1&gt; 201&lt;f2&gt;8&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T230828Z" creationid="tagezi" creationdate="20180304T230828Z">
@@ -38316,6 +38372,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using the Set Paragraph Style list</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T173101Z" creationid="olex" creationdate="20180919T173101Z">
+        <seg>Использование списка Задать стиль абзаца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the Set Paragraph Style list in Writer</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T145648Z" creationid="olex" creationdate="20180715T145648Z">
@@ -38384,6 +38448,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T203056Z" creationid="olex" creationdate="20180817T203056Z">
         <seg>Использование линейки страниц - быстрая и простая, но &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;дает&lt;/f2&gt;&lt;te3/&gt; не точную настройку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the sidebar Styles deck</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T172959Z" creationid="olex" creationdate="20180919T172959Z">
+        <seg>Использование вкладки Стили боковой панели Стили</seg>
       </tuv>
     </tu>
     <tu>
