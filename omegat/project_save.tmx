@@ -6068,6 +6068,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After you have used a paragraph style at least once in a document, the style name appears in the Set Paragraph Style list at the left-hand end of the Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T181359Z" creationid="olex" creationdate="20180919T181359Z">
+        <seg>После того, как вы использовали стиль абзаца хотя бы один раз в документе, его имя отображается в списке Задать стиль абзаца, слева на панели инструментов Форматирование.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After you have used a paragraph style at least once in a document, the style name appears on the Apply Style list near the left-hand end of the Formatting toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T091250Z" creationid="olex" creationdate="20180308T170132Z">
@@ -25365,6 +25373,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open the Styles deck and select the style you want to apply.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T180800Z" creationid="olex" creationdate="20180919T180800Z">
+        <seg>Откройте вкладку Стили и выберите стиль, который вы хотите применить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open the Styles window and choose the type of style you want to create.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T202933Z" creationid="olex" creationdate="20180309T202432Z">
@@ -28220,6 +28236,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T193924Z" creationid="olex" creationdate="20180311T193924Z">
         <seg>Выберите &lt;f0&gt;Сохранить старые стили&lt;/f0&gt;, если вы не хотите применять измененные в шаблоне стили к документу (но смотрите Предупреждение ниже).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;More&lt;/f0&gt; at the bottom of the Apply Style list to open the Styles deck.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T181948Z" creationid="olex" creationdate="20180919T181948Z">
+        <seg>Выберите &lt;f0&gt;Еще стили...&lt;/f0&gt; в нижней части списка Задать стиль абзаца, чтобы открыть вкладку Стили.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38018,6 +38042,14 @@ denkin: исправил все</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T140106Z" creationid="olex" creationdate="20180414T135747Z">
         <seg>Использование &lt;i0/&gt;&lt;i1/&gt;Инструмента Заполнить</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using &lt;i0/&gt;&lt;i1/&gt;the Set Paragraph Style list</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T181205Z" creationid="olex" creationdate="20180919T181151Z">
+        <seg>Использование &lt;i0/&gt;&lt;i1/&gt;списка Задать стиль абзаца</seg>
       </tuv>
     </tu>
     <tu>
