@@ -8195,6 +8195,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change a style using the Styles deck</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T182931Z" creationid="olex" creationdate="20180919T182844Z">
+        <seg>Изменить стиль, используя вкладку Стили</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change dictionary language</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T182118Z" creationid="olex" creationdate="20180804T182118Z">
@@ -11510,6 +11518,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Direct formatting (also called &lt;f0&gt;manual formatting&lt;/f0&gt; ) overrides styles, and you cannot remove the direct formatting by applying a style to it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T182251Z" creationid="olex" creationdate="20180919T182251Z">
+        <seg>Прямое форматирование (также называемое &lt;f0&gt;ручным форматированием&lt;/f0&gt;) отменяет стили, и вы не можете удалить прямое форматирование, применив к нему стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Direct formatting and Style formatting</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T173156Z" creationid="olex" creationdate="20180308T173156Z">
@@ -13839,6 +13855,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T171750Z" creationid="olex" creationdate="20180308T171750Z">
         <seg>Рисунок &lt;seq0&gt;2&lt;/seq0&gt;: список Задать стиль абзаца на панели инструментов Форматирование.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: The Set Paragraph Style list on the Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T182044Z" creationid="olex" creationdate="20180919T182014Z">
+        <seg>Рисунок &lt;seq0&gt;2&lt;/seq0&gt;: Список Задать стиль абзаца на панели инструментов Форматирование</seg>
       </tuv>
     </tu>
     <tu>
@@ -22342,6 +22366,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice includes some predefined styles, but you can also create custom styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T182730Z" creationid="olex" creationdate="20180919T182708Z">
+        <seg>LibreOffice содержит некоторые предустановленные стили, но вы можете создавать собственные стили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice includes the following components.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T191459Z" creationid="olex" creationdate="20180607T200847Z">
@@ -22746,6 +22778,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T165713Z" creationid="olex" creationdate="20180707T165713Z">
         <seg>Загружать с документом настройки принтера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load styles from another document or template</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T182903Z" creationid="olex" creationdate="20180919T182903Z">
+        <seg>Загрузить стили из другого документа или шаблона</seg>
       </tuv>
     </tu>
     <tu>
@@ -25377,6 +25417,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180919T180800Z" creationid="olex" creationdate="20180919T180800Z">
         <seg>Откройте вкладку Стили и выберите стиль, который вы хотите применить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the Styles deck in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T183515Z" creationid="olex" creationdate="20180919T183515Z">
+        <seg>Открыть вкладку Стили на Боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35216,6 +35264,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change an existing style using &lt;i0/&gt;the Styles deck, open the Sidebar Styles deck, then right-click on the required style and select &lt;f1&gt;Modify&lt;/f1&gt; from the pop-up menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T183129Z" creationid="olex" creationdate="20180919T183129Z">
+        <seg>Чтобы изменить существующий стиль с помощью &lt;i0/&gt;вкладки Стили, откройте вкладку Стили на Боковой панели, затем нажмите правой кнопкой мыши на необходимый стиль и выберите во всплывающем меню &lt;f1&gt;Изменить&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change margins using the Page &lt;tc0/&gt;&lt;tc1/&gt;deck of the Sidebar:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T130711Z" creationid="olex" creationdate="20180818T130600Z">
@@ -36471,6 +36527,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180320T191642Z" creationid="olex" creationdate="20180308T173901Z">
         <seg>Чтобы удалить ручное форматирование, выберите текст, щелкните правой кнопкой мыши и выберите &lt;f0&gt;Стили &gt; Очистить форматирование&lt;/f0&gt; в контекстном меню или нажмите &lt;f1&gt;Ctrl + M&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To remove manual formatting, select the text, right-click, and choose &lt;f0&gt;Styles &gt; Clear Direct Formatting&lt;/f0&gt; from the context menu, or select the text and press &lt;f1&gt;Ctrl+M&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T182557Z" creationid="olex" creationdate="20180919T182557Z">
+        <seg>Чтобы удалить ручное форматирование, выберите текст, нажмите правой кнопкой мыши и выберите в контекстном меню &lt;f0&gt;Стили &gt; Очистить форматирование&lt;/f0&gt; или выберите текст и нажмите &lt;f1&gt;Ctrl+M&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41135,6 +41199,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T203247Z" creationid="olex" creationdate="20180312T203247Z">
         <seg>Вы можете вручную скопировать новые шаблоны в папки шаблонов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can modify both &lt;s0/&gt;in several ways:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T182815Z" creationid="olex" creationdate="20180919T182724Z">
+        <seg>Вы также можете изменять их &lt;s0/&gt;несколькими способами:</seg>
       </tuv>
     </tu>
     <tu>
