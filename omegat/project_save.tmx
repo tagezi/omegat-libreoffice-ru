@@ -2661,6 +2661,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Style&lt;/f0&gt; are a set of formats that you can apply to selected pages, text, frames, and other elements in your document to quickly change their appearance.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T173925Z" creationid="olex" creationdate="20180919T173925Z">
+        <seg>&lt;f0&gt;Стиль&lt;/f0&gt; - это набор форматов, которые можно применить к выбранным страницам, тексту, врезкам и другим элементам вашего документа, чтобы быстро изменить их внешний вид.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Styles &lt;/f0&gt;– contains commands to apply standard styles to cell, group of cells or sheets contents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T182943Z" creationid="olex" creationdate="20180328T182943Z">
@@ -6872,6 +6880,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applying a style often means applying a whole group of formats at the same time.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T173944Z" creationid="olex" creationdate="20180919T173944Z">
+        <seg>Применение стиля часто означает применение целой группы форматов одновременно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applying special effects</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T154836Z" creationid="olex" creationdate="20180603T154836Z">
@@ -8279,6 +8295,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180020Z" creationid="olex" creationdate="20180306T194542Z">
         <seg>Изменение стиля с помощью диалогового окна Стиль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changing a style using the Styles deck</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T173551Z" creationid="olex" creationdate="20180919T173551Z">
+        <seg>Изменение стиля с использованием вкладки Стили</seg>
       </tuv>
     </tu>
     <tu>
@@ -10598,6 +10622,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a new style using the New Style dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T173833Z" creationid="olex" creationdate="20180919T173833Z">
+        <seg>Создание нового стиля с помощью диалогового окна Создать стиль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a new style using the Style dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194742Z" creationid="olex" creationdate="20180306T194742Z">
@@ -11666,6 +11698,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T174443Z" creationid="olex" creationdate="20180712T174443Z">
         <seg>Документы, сохраненные с одной валютой по умолчанию, будут открываться с использованием новых значений по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Doing this manually for a long document may require making individual changes in dozens of places.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T174539Z" creationid="olex" creationdate="20180919T174539Z">
+        <seg>Чтобы сделать это вручную для длинного документа, может потребоваться внесение отдельных изменений в десятки мест.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29763,6 +29803,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some common examples of style use are given in “&lt;f0&gt;&lt;rf1&gt;Examples of style use&lt;/rf1&gt;&lt;/f0&gt;” on page &lt;f2&gt;&lt;rf3&gt;21&lt;/rf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T174741Z" creationid="olex" creationdate="20180919T174741Z">
+        <seg>Некоторые общие примеры использования стиля приведены в “&lt;f0&gt;&lt;rf1&gt;Примеры использования стилей&lt;/rf1&gt;&lt;/f0&gt;” на странице &lt;f2&gt;&lt;rf3&gt;21&lt;/rf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some common examples of style use are given in “&lt;f0&gt;&lt;rf1&gt;Examples of style use&lt;/rf1&gt;&lt;/f0&gt;” on page &lt;f2&gt;&lt;rf3&gt;23&lt;/rf3&gt;&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180717T174654Z" creationid="olex" creationdate="20180717T174654Z">
@@ -31500,6 +31548,22 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180505Z" creationid="olex" creationdate="20180308T180505Z">
         <seg>Отображаемый диалог Стиль зависит от типа выбранного стиля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Styles deck (called Styles and Formatting in some installations) includes the most complete set of tools for styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T175628Z" creationid="olex" creationdate="20180919T175628Z">
+        <seg>Вкладка Стили (называемая в некоторых установках Стили и форматирование) включает в себя наиболее полный набор инструментов для стилей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Styles deck in the Sidebar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T174818Z" creationid="olex" creationdate="20180919T174818Z">
+        <seg>Вкладка Стили на Боковой панели</seg>
       </tuv>
     </tu>
     <tu>
@@ -33928,6 +33992,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They are accustomed to writing documents according to &lt;f0&gt;physical&lt;/f0&gt; attributes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T174139Z" creationid="olex" creationdate="20180919T174026Z">
+        <seg>Они привыкли писать документы в соответствии с &lt;f0&gt;фактическими&lt;/f0&gt; атрибутами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They are opened by right-clicking on a paragraph, graphic, or other object.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T171025Z" creationid="olex" creationdate="20180616T171025Z">
@@ -34971,6 +35043,15 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180717T180855Z" creationid="olex" creationdate="20180717T180855Z">
         <seg>Чтобы применить стиль абзаца, поместите &lt;f0&gt;курсор&lt;/f0&gt; в абзаце, а затем выберите один из стилей абзаца в меню &lt;f1&gt;Стили&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>что то дофига абзацев, но не могу упростить, сохраняя однозначность инструкции</note>
+      <tuv lang="EN-US">
+        <seg>To apply a paragraph style, position the cursor anywhere in the paragraph, and then select one of the paragraph styles in the &lt;f0&gt;Styles&lt;/f0&gt; menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T175322Z" creationid="olex" creationdate="20180919T175242Z">
+        <seg>Чтобы применить стиль абзаца, поместите курсор в любом месте этого абзаца, а затем выберите в меню &lt;f0&gt;Стили&lt;/f0&gt; один из стилей абзаца.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37915,6 +37996,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180319T190803Z" creationid="olex" creationdate="20180307T203336Z">
         <seg>&lt;i0/&gt;Использование окна &lt;i0/&gt;Стили</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using &lt;i0/&gt;the sidebar Styles deck</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180919T175527Z" creationid="olex" creationdate="20180919T175527Z">
+        <seg>Использование вкладки &lt;i0/&gt;Стили на Боковой панели</seg>
       </tuv>
     </tu>
     <tu>
