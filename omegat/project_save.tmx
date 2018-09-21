@@ -18918,6 +18918,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you &lt;i0/&gt;link styles and you later change the base style (for example, by changing the font from Times to Helvetica), all the linked styles will change as well.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T191052Z" creationid="olex" creationdate="20180921T191052Z">
+        <seg>Если вы используете связанные стили &lt;i0/&gt;, а позже измените базовый стиль (например, изменив шрифт Times на Helvetica), то все связанные стили также будут изменены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you &lt;i0/&gt;link styles, then when you change the base style (for example, by changing the font from Times to Helvetica), all the linked styles will change as well.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T200237Z" creationid="olex" creationdate="20180309T200237Z">
@@ -19636,6 +19644,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T195624Z" creationid="olex" creationdate="20180309T195624Z">
         <seg>Если вы хотите, чтобы ваш новый стиль был связан с существующим стилем, сначала выберите этот стиль, а затем щелкните правой кнопкой мыши и выберите &lt;f0&gt;Создать&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want your new style to be linked with an existing style, first select that style from the list of styles shown in the deck, then right-click on the selected style and select &lt;f0&gt;New&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T190640Z" creationid="olex" creationdate="20180921T190640Z">
+        <seg>Если вы хотите, чтобы ваш новый стиль был связан с существующим стилем, то сначала выберите этот стиль из списка стилей, показанных во вкладке, а затем щелкните правой кнопкой мыши на выбранном стиле и выберите &lt;f0&gt;Создать...&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25425,6 +25441,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180917T202730Z" creationid="lera" creationdate="20180303T155536Z">
         <seg>Открыть окно Стили и форматирование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the Styles deck and choose the category of style you want to create.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T191152Z" creationid="olex" creationdate="20180921T191152Z">
+        <seg>Откройте вкладку Стили и выберите категорию стиля, который вы хотите создать.</seg>
       </tuv>
     </tu>
     <tu>
