@@ -19752,6 +19752,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import the template into a template folder by following the instructions in “&lt;bf0&gt;Importing a template&lt;/bf0&gt;” on page &lt;bf1&gt;20&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T194019Z" creationid="olex" creationdate="20180921T194019Z">
+        <seg>Импортируйте шаблон в папку шаблона, следуя инструкциям в разделе «&lt;bf0&gt;Импорт шаблона&lt;/bf0&gt;» на странице &lt;bf1&gt;20&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import the template into a template folder by following the instructions in “&lt;bf0&gt;Importing a template&lt;/bf0&gt;” on page &lt;bf1&gt;21&lt;/bf1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T202929Z" creationid="olex" creationdate="20180312T202929Z">
@@ -22293,6 +22301,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice can manage only those templates that are in its template folders or categories.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T194133Z" creationid="olex" creationdate="20180921T194133Z">
+        <seg>LibreOffice может управлять только теми шаблонами, которые находятся в папках или категориях шаблонов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice can open a wide variety of file formats in addition to the OpenDocument formats, including Portable Document Format (PDF), if an ODF file is embedded in the PDF (see Chapter 10 Printing, Exporting, and Emailing for more information).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T143640Z" creationid="tagezi" creationdate="20180304T143640Z">
@@ -24484,6 +24500,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T205048Z" creationid="olex" creationdate="20180313T205048Z">
         <seg>Вы также не можете удалять любые категории, добавленные диспетчером расширений, если только вы не удалите создавшее эти категории расширение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nor can you delete any categories added by the Extension Manager unless you first remove the extension that installed them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T194222Z" creationid="olex" creationdate="20180921T194222Z">
+        <seg>Также вы не можете удалить любые категории, добавленные диспетчером расширений, если только вы не удалите расширение, которое их установило.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40720,6 +40744,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also save menu and toolbar customization in templates; see &lt;f0&gt;Chapter 14, Customizing LibreOffice&lt;/f0&gt;, for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T193325Z" creationid="olex" creationdate="20180921T193325Z">
+        <seg>Также вы можете сохранить настройки меню и панели инструментов в шаблонах; смотрите &lt;f0&gt;Главу 14, Настройка LibreOffice&lt;/f0&gt;, для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also save menu and toolbar customizations in templates; see &lt;f0&gt;Chapter 14, Customizing LibreOffice&lt;/f0&gt;, for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T180517Z" creationid="olex" creationdate="20180311T180321Z">
@@ -41275,6 +41307,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can get to the official template repository by using the &lt;f0&gt;Browse Online Templates&lt;/f0&gt; button at the lower left-hand end of the Templates dialog, as shown in Figure &lt;t1&gt;11&lt;/t1&gt;, or by typing &lt;a2&gt;https://extensions.libreoffice.org/templates&lt;/a2&gt; in your browser’s address bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T193931Z" creationid="olex" creationdate="20180921T193931Z">
+        <seg>Вы можете попасть в официальный репозиторий шаблонов, нажав кнопку &lt;f0&gt;Обзор шаблонов онлайн&lt;/f0&gt; в нижнем левом углу диалогового окна Шаблоны, как показано на Рисунке &lt;t1&gt;11&lt;/t1&gt;, или набрав в адресной строке браузера &lt;a2&gt;https://extensions.libreoffice.org/templates&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can get to the official template repository by using the &lt;f0&gt;Get more templates for LibreOffice&lt;/f0&gt; button at the right-hand end of the Templates dialog, as shown in Figure &lt;t1&gt;11&lt;/t1&gt;, or by typing &lt;a2&gt;http://templates.libreoffice.org/template-center&lt;/a2&gt; in your browser’s address bar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T201336Z" creationid="olex" creationdate="20180311T200747Z">
@@ -41716,6 +41756,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can use wizards to create templates for letters, faxes, and agendas.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T193403Z" creationid="olex" creationdate="20180921T193403Z">
+        <seg>Вы можете использовать мастера для создания шаблонов писем, факсов и повесток дня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can verify your selection by looking in the Name Box on the Formula Bar (Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;9&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202231Z" creationid="olex" creationdate="20180404T202231Z">
@@ -41960,6 +42008,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T191104Z" creationid="olex" creationdate="20180311T190840Z">
         <seg>Возможно, вам придется открыть диалоговое окно Шаблоны и нажать &lt;f0&gt;Обновить&lt;/f0&gt; в меню &lt;f1&gt;Настройки&lt;/f1&gt;, чтобы в списке появился новый шаблон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may need to open the Templates dialog and click &lt;f0&gt;Refresh&lt;/f0&gt; on the &lt;f1&gt;Settings&lt;/f1&gt; menu to have any new templates appear in the listings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T193600Z" creationid="olex" creationdate="20180921T193600Z">
+        <seg>Вам может потребоваться открыть диалоговое окно Шаблоны и нажать &lt;f0&gt;Обновить&lt;/f0&gt; в меню &lt;f1&gt;Настройки&lt;/f1&gt;, чтобы в списке появлялись новые шаблоны.</seg>
       </tuv>
     </tu>
     <tu>
