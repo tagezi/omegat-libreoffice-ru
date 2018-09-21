@@ -24432,6 +24432,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New documents created from this template will always have your company’s logo on the first page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T192851Z" creationid="olex" creationdate="20180921T192851Z">
+        <seg>Новые документы, созданные на основе этого шаблона, всегда будут иметь логотип вашей компании на первой странице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New functionality can be added in the form of extensions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T075153Z" creationid="lera" creationdate="20180303T200659Z">
@@ -28858,6 +28866,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the categories of styles to copy from the checkboxes at the bottom of the dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T192403Z" creationid="olex" creationdate="20180921T192403Z">
+        <seg>Выберите категории стилей для копирования флажками в нижней части диалогового окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the category &lt;f0&gt;Relations&lt;/f0&gt; and symbol &lt;f1&gt;Is Similar Or Equal&lt;/f1&gt; using one of the following methods:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T145015Z" creationid="Роман" creationdate="20180320T144728Z">
@@ -31108,6 +31124,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T190956Z" creationid="olex" creationdate="20180718T190956Z">
         <seg>Команда &lt;f1&gt;Управление шаблонами&lt;/f1&gt; в списке откроет диалоговое окно Шаблоны (Рисунок &lt;t2&gt;9&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;f1&gt;Manage Templates&lt;/f1&gt; option on the list opens the Templates dialog (Figure &lt;t2&gt;8&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T193128Z" creationid="olex" creationdate="20180921T193128Z">
+        <seg>Параметр &lt;f1&gt;Управление шаблонами&lt;/f1&gt; в списке открывает диалоговое окно Шаблоны (Рисунок &lt;t2&gt;8&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35797,6 +35821,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T085702Z" creationid="olex" creationdate="20180901T085702Z">
         <seg>Чтобы удалить один лист, щелкните правой кнопкой мыши по вкладке листа, которую вы хотите удалить, и выберите в контекстном меню &lt;f0&gt;Удалить листы...&lt;/f0&gt;, или выберите в меню &lt;f1&gt;Лист &gt; Удалить листы...&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To delete any unwanted styles, in the Styles deck select each one to be deleted (hold &lt;f0&gt;Ctrl&lt;/f0&gt; while selecting multiple styles), and then right-click on a selected style and select &lt;f1&gt;Delete&lt;/f1&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T192813Z" creationid="olex" creationdate="20180921T192813Z">
+        <seg>Чтобы удалить любые нежелательные стили, во вкладке Стили выберите каждый из них для удаления (для выбора нескольких стилей одновременно удерживайте &lt;f0&gt;Ctrl&lt;/f0&gt;), а затем щелкните правой кнопкой мыши на выбранном стиле и выберите в контекстном меню Удалить...</seg>
       </tuv>
     </tu>
     <tu>
