@@ -448,6 +448,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;6&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;The Writer interface&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T200851Z" creationid="olex" creationdate="20180921T200851Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;6&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Интерфейс Writer&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;6&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;What is LibreOffice?&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T191804Z" creationid="olex" creationdate="20180607T191804Z">
@@ -628,6 +636,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180919T172806Z" creationid="olex" creationdate="20180919T172806Z">
         <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Глава 3 Использование стилей и шаблонов&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 4 Getting Started with Writer&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T200948Z" creationid="olex" creationdate="20180921T200948Z">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Глава 4 Начало работы с Writer&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4275,6 +4291,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;40&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Creating fill-in forms&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T200926Z" creationid="olex" creationdate="20180921T200926Z">
+        <seg>&lt;t0&gt;40&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Создание форм для заполнения&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;48&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 5 Getting started with Calc&lt;/t4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T181045Z" creationid="olex" creationdate="20180828T181045Z">
@@ -4559,6 +4583,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T123202Z" creationid="olex" creationdate="20180715T123202Z">
         <seg>&lt;t0&gt;Устранение неполадок LibreOffice в безопасном режиме&lt;/t0&gt; &lt;f1&gt;|&lt;/f1&gt;&lt;t2&gt;33&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Using bookmarks&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;39&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T200834Z" creationid="olex" creationdate="20180921T200834Z">
+        <seg>&lt;t0&gt;Использование закладок&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;39&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36285,6 +36317,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153702Z" creationid="User" creationdate="20180311T153702Z">
         <seg>Для импорта формулы MathML Presentation скопируйте формулу из внешнего редактора формул и используйте пункт меню &lt;f0&gt;Сервис &gt; Импорт MathML из буфера обмена&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To import a template:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T200748Z" creationid="olex" creationdate="20180921T200748Z">
+        <seg>Чтобы импортировать шаблон:</seg>
       </tuv>
     </tu>
     <tu>
