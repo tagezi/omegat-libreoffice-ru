@@ -7224,6 +7224,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AutoCorrection</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T202157Z" creationid="olex" creationdate="20180921T202157Z">
+        <seg>Автозамена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AutoFill tries to complete a value series by using a defined pattern.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T143451Z" creationid="olex" creationdate="20180414T143451Z">
@@ -13915,6 +13923,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Status bar components</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T202434Z" creationid="olex" creationdate="20180921T202434Z">
+        <seg>Рисунок &lt;seq0&gt;2&lt;/seq0&gt;: Компоненты строки состояния</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: The &lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;Set Paragraph&lt;/f3&gt;&lt;te4/&gt; Style list on the Formatting toolbar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180717T183030Z" creationid="olex" creationdate="20180717T183030Z">
@@ -18482,6 +18498,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T161513Z" creationid="olex" creationdate="20180721T161513Z">
         <seg>Если в документе были определены какие-либо закладки, то щелкните правой кнопкой мыши на этом поле, появится список закладок; нажмите &lt;tc0/&gt;&lt;tc1/&gt;&lt;tc2/&gt;&lt;tc3/&gt;необходимую вам&lt;ts4/&gt;&lt;f5&gt;, чтобы перейти в это место&lt;/f5&gt;&lt;te6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If any bookmarks have been defined in the document, a right-click on this field pops up a list of bookmarks; click on one to go to that location.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T202518Z" creationid="olex" creationdate="20180921T202518Z">
+        <seg>Если в документе были определены какие-либо закладки, то щелкните правой кнопкой мыши на этом поле, появится список закладок; нажмите на одну из них, чтобы перейти в это место.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25605,6 +25629,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open the Styles window</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T202048Z" creationid="olex" creationdate="20180921T202048Z">
+        <seg>Открыть окно Стили</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open the Styles window and choose the type of style you want to create.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T202933Z" creationid="olex" creationdate="20180309T202432Z">
@@ -26859,6 +26891,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180917T194724Z" creationid="olex" creationdate="20180917T194724Z">
         <seg>Опубликовано в &lt;f0&gt;августе&lt;/f0&gt; 2018.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Published &lt;s0/&gt;&lt;f1&gt;August&lt;/f1&gt; 2018.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T202009Z" creationid="olex" creationdate="20180921T202009Z">
+        <seg>Опубликовано в &lt;s0/&gt;&lt;f1&gt;августе&lt;/f1&gt; 2018.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30887,6 +30927,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table of Contents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T202105Z" creationid="olex" creationdate="20180921T202105Z">
+        <seg>Содержание</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table styles are stored in the LibreOffice user profile, and are available to all Writer documents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T211054Z" creationid="olex" creationdate="20180309T210959Z">
@@ -32212,6 +32260,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T094925Z" creationid="tagezi" creationdate="20180311T094925Z">
         <seg>Авторы той книги:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The contributors to that chapter and subsequent revisions were:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T201952Z" creationid="olex" creationdate="20180921T201952Z">
+        <seg>Авторами этой главы и последующих изменений были:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33927,6 +33983,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The word and character count of the document is shown in the Status Bar, and is kept up to date as you edit.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T202756Z" creationid="olex" creationdate="20180921T202756Z">
+        <seg>Количество слов и символов в документе отображается в строке состояния и при редактировании постоянно обновляется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The workshop will offer a thorough overview of the skills requested and a summary of TDF's migration and training protocols.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T191512Z" creationid="tagezi" creationdate="20180307T191512Z">
@@ -35030,8 +35094,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>This setup can also be created with page breaks and page styles.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180325T122844Z" creationid="olex" creationdate="20180316T194405Z">
-        <seg>This setup can also be created with page breaks and page styles.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T201835Z" creationid="olex" creationdate="20180316T194405Z">
+        <seg>Это также можно сделать с помощью разрывов страниц и стилей страниц.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35981,6 +36045,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T162726Z" creationid="olex" creationdate="20180721T162726Z">
         <seg>Чтобы отобразить расширенную статистику, &lt;ts0/&gt;&lt;f1&gt;такую как количество символов, которое исключает пробелы,&lt;/f1&gt;&lt;te2/&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt; &lt;/f8&gt;&lt;te9/&gt; дважды щелкните количество слов в Строке состояния или выберите &lt;f10&gt;Сервис &gt; Количество слов...&lt;/f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To display extended statistics such as character counts that exclude spaces, double-click the word count in the Status Bar, or choose &lt;f0&gt;Tools &gt; Word Count&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T203038Z" creationid="olex" creationdate="20180921T203038Z">
+        <seg>Чтобы отобразить расширенную статистику, например такую как количество символов, без учета пробелов, дважды щелкните по количеству слов в строке состояния или выберите в меню &lt;f0&gt;Сервис &gt; Количество слов...&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38661,8 +38733,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Using mail merge</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180823T171611Z">
-        <seg>Использование рассылки писем</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T202310Z">
+        <seg>Использование сервиса рассылки писем</seg>
       </tuv>
     </tu>
     <tu>
@@ -39635,6 +39707,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T234242Z" creationid="tagezi" creationdate="20180304T234242Z">
         <seg>При публикации документа, в котором вы не ожидаете модификацию со стороны получателя, предпочтительным вариантом является конвертация документа в PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When text is selected, the word and character counts for the selection will appear here.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T202852Z" creationid="olex" creationdate="20180921T202852Z">
+        <seg>Когда выбран текст, то в нем будут отображаться количество слов и символов для выбранного текста.</seg>
       </tuv>
     </tu>
     <tu>
