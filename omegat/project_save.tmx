@@ -11870,6 +11870,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drag a cell selection to the Styles deck to create a cell style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T191750Z" creationid="olex" creationdate="20180921T191750Z">
+        <seg>Перетащите выделенную ячейку во вкладку Стили, чтобы создать стиль ячейки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drag a cell selection to the Styles window to create a cell style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T210010Z" creationid="olex" creationdate="20180309T210010Z">
@@ -11898,6 +11906,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T173051Z" creationid="olex" creationdate="20180409T173051Z">
         <seg>Перетащите границу разделенного окна к полосе прокрутки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag the table and drop in the Table Styles category of the Styles deck in the sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T191954Z" creationid="olex" creationdate="20180921T191954Z">
+        <seg>Перетащите таблицу в категорию Стили таблиц вкладки Стили на боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20673,6 +20689,22 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Styles deck, click the arrow next to the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon, and then select &lt;f1&gt;Load Styles&lt;/f1&gt; (see Figure &lt;t2&gt;3&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T192248Z" creationid="olex" creationdate="20180921T192248Z">
+        <seg>Во вкладке Стили нажмите стрелку рядом со значком &lt;f0&gt;Создать стиль по выделению&lt;/f0&gt; и затем выберите &lt;f1&gt;Загрузить стили...&lt;/f1&gt; (смотрите Рисунок &lt;t2&gt;3&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Styles deck, select on the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T191356Z" creationid="olex" creationdate="20180921T191356Z">
+        <seg>В заголовке вкладки стилей выберите значок &lt;f0&gt;Создать стиль по выделению&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Styles deck, select the style to update, then click on the arrow next to the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon and click &lt;f1&gt;Update Style&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180919T183754Z" creationid="olex" creationdate="20180919T183754Z">
@@ -28576,6 +28608,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select and drag a drawing object to the Styles deck to create a graphic style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T191832Z" creationid="olex" creationdate="20180921T191832Z">
+        <seg>Выберите и перетащите графический объект во вкладку Стили, чтобы создать графический стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select and drag a drawing object to the Styles window to create a graphic style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T210711Z" creationid="olex" creationdate="20180309T210711Z">
@@ -28669,6 +28709,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T180957Z" creationid="olex" creationdate="20180628T173517Z">
         <seg>Выберите или введите имя шрифта, который будет заменен, в поле &lt;f0&gt;Гарнитура&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select some text and drag it to the Styles deck.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T191634Z" creationid="olex" creationdate="20180921T191634Z">
+        <seg>Выберите текст и перетащите его во вкладку Стили.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32788,6 +32836,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T172633Z" creationid="olex" creationdate="20180701T172633Z">
         <seg>Список этих функций отличается от версии к версии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The list shows the names of existing custom styles of the selected category.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T191457Z" creationid="olex" creationdate="20180921T191457Z">
+        <seg>В списке ниже указаны имена существующих пользовательских стилей в выбранной категории.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41119,6 +41175,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T181804Z" creationid="olex" creationdate="20180615T181804Z">
         <seg>Вы можете прикрепить эти панели инструментов к верхней или нижней части главного окна или перемещать их на дисплее вашего компьютера (смотрите выше «&lt;rf0&gt;Перемещение панелей инструментов&lt;/rf0&gt;»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can drag and drop a selection into the Styles deck to create a new style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T191646Z" creationid="olex" creationdate="20180921T191523Z">
+        <seg>Вы можете перетащить выделение во вкладку Стили, чтобы создать новый стиль.</seg>
       </tuv>
     </tu>
     <tu>
