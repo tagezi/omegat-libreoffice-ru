@@ -2197,6 +2197,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Open the Templates dialog, choose the category from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Filters&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; drop-down lists at the top of the dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T194427Z" creationid="olex" creationdate="20180921T194427Z">
+        <seg>&lt;f0&gt;Откройте диалоговое окно «Шаблоны» и выберите категорию из раскрывающихся списков &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Фильтры ...&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; в верхней части диалогового окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Open&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt; the Format Cells dialog by right-clicking and selecting &lt;f3&gt;Format Cells&lt;/f3&gt; or by selecting &lt;f4&gt;Format &gt; Cells&lt;/f4&gt; from the M&lt;tc5/&gt;enu&lt;ts6/&gt; &lt;f7&gt;bar&lt;/f7&gt;&lt;te8/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180906T175721Z" creationid="olex" creationdate="20180906T175721Z">
@@ -20905,6 +20913,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the popup dialog (Figure &lt;t1&gt;14&lt;/t1&gt;), select the &lt;f2&gt;destination&lt;/f2&gt; category and click &lt;f3&gt;OK&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T195131Z" creationid="olex" creationdate="20180921T195131Z">
+        <seg>В всплывающем окне (Рисунок &lt;t1&gt;14&lt;/t1&gt;) выберите категорию &lt;f2&gt;для перемещения&lt;/f2&gt; и нажмите &lt;f3&gt; OK&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the popup dialog, select the required category and click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T183035Z" creationid="olex" creationdate="20180315T183035Z">
@@ -24516,6 +24532,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T183448Z" creationid="olex" creationdate="20180315T183448Z">
         <seg>Также вы не можете удалить шаблоны, установленные  в Управление расширениями, не удалив расширение, с которым они были установлены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nor can you delete any templates installed by the Extension Manager except by removing the extension that installed them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T195256Z" creationid="olex" creationdate="20180921T195256Z">
+        <seg>Также вы не можете удалить шаблоны, установленные диспетчером расширений, кроме как удалив расширение, которое их установило.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33879,6 +33903,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then click the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Settings&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; button and s&lt;/f6&gt;elect &lt;f7&gt;Delete&lt;/f7&gt; &lt;f8&gt;from the pop-up menu (See Figure &lt;/f8&gt;&lt;f9&gt;&lt;t10&gt;13&lt;/t10&gt;&lt;/f9&gt;&lt;f11&gt;)&lt;/f11&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T194729Z" creationid="olex" creationdate="20180921T194729Z">
+        <seg>Затем нажмите кнопку &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Настройки&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; и &lt;/f6&gt;выберите &lt;f7&gt;Удалить категорию&lt;/f7&gt; &lt;f8&gt;во всплывающем меню (смотрите Рисунок &lt;/f8&gt;&lt;f9&gt;&lt;t10&gt;13&lt;/t10&gt;&lt;/f9&gt;&lt;f11&gt;)&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then click the &lt;f4&gt;OK&lt;/f4&gt; button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T131754Z" creationid="olex" creationdate="20180818T131754Z">
@@ -36413,6 +36445,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T194556Z" creationid="olex" creationdate="20180719T194556Z">
         <seg>Чтобы переместить шаблон из одной категории шаблонов в другую, выберите его в диалоговом окне Шаблоны и нажмите кнопку &lt;f0&gt;Переместить&lt;/f0&gt; в центре нижней части диалогового окна (смотрите Рисунок &lt;t1&gt;15&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To move a template from one template category to another, select it in the Templates dialog, and click the &lt;f0&gt;Move&lt;/f0&gt; button in the bottom center of the dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T194933Z" creationid="olex" creationdate="20180921T194933Z">
+        <seg>Чтобы переместить шаблон из одной категории в другую, выберите его в диалоговом окне Шаблоны и нажмите кнопку &lt;f0&gt;Переместить&lt;/f0&gt; в нижней части диалогового окна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39305,6 +39345,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T201311Z" creationid="olex" creationdate="20180418T201311Z">
         <seg>Когда в ячейке вводится ручной разрыв строки, высота строки ячейки изменяется, чтобы отобразить все строки в ячейке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a message box appears asking you to confirm the deletion, click &lt;f12&gt;Yes&lt;/f12&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T194840Z" creationid="olex" creationdate="20180921T194840Z">
+        <seg>Когда появится окно с запросом на подтверждение удаления, нажмите &lt;f12&gt;ОК&lt;/f12&gt;.</seg>
       </tuv>
     </tu>
     <tu>
