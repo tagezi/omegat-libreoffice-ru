@@ -1634,6 +1634,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;From the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Filters&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; drop-down lists at the top of the &lt;/f3&gt;Templates dialog, select the category &lt;s4/&gt;that contains the template you want to delete.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T195651Z" creationid="olex" creationdate="20180921T195651Z">
+        <seg>&lt;f0&gt;В раскрывающихся списках &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Фильтры ...&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, в верхней части диалогового окна &lt;/f3&gt;Шаблоны, выберите категорию,&lt;s4/&gt; содержащую шаблон, который вы хотите удалить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Function Wizard&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;– &lt;i5/&gt;opens a dialog from which you can search through a list of available functions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180516T185754Z" creationid="olex" creationdate="20180329T182013Z">
@@ -9295,6 +9303,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T193710Z" creationid="olex" creationdate="20180311T193710Z">
         <seg>Нажмите &lt;f0&gt;Обновить стили&lt;/f0&gt;, чтобы применить измененные в шаблоне стили к документу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Yes&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T195948Z" creationid="olex" creationdate="20180921T195948Z">
+        <seg>Нажмите &lt;f0&gt;Да&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27383,6 +27399,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click &lt;f0&gt;on the template&lt;/f0&gt; to open the context menu and click &lt;f1&gt;Delete&lt;/f1&gt; (Figure &lt;t2&gt;8&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T195833Z" creationid="olex" creationdate="20180921T195833Z">
+        <seg>Щелкните правой кнопкой мыши &lt;f0&gt;по шаблону&lt;/f0&gt;, чтобы открыть контекстное меню и нажмите &lt;f1&gt;Удалить&lt;/f1&gt; (Рисунок &lt;t2&gt;8&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click a sheet tab and choose &lt;f0&gt;Select All Sheets&lt;/f0&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T185802Z" creationid="olex" creationdate="20180405T185802Z">
@@ -29276,8 +29300,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Select the template to delete.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180315T183801Z" creationid="olex" creationdate="20180315T183801Z">
-        <seg>Выберите шаблон, который необходимо удалить.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T195659Z" creationid="olex" creationdate="20180315T183801Z">
+        <seg>Выберите шаблон, который вам необходимо удалить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39987,6 +40011,15 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180917T203210Z" creationid="olex" creationdate="20180917T203210Z">
         <seg>Хотя Math чаще всего используется для создания формул в других документах, таких как файлы Writer и Impress, он также может работать как автономный инструмент.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>не совсем уверен, что перевел правильно - слишком сложніе для меня обороты, слишком навороченная фраза</note>
+      <tuv lang="EN-US">
+        <seg>While it not essential to store templates in one of the folders listed for the Template path in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f0&gt; before you can use a template in LibreOffice, &lt;f1&gt;but&lt;/f1&gt; it is the easiest and most convenient way of managing templates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180921T200734Z" creationid="olex" creationdate="20180921T200734Z">
+        <seg>Хотя необязательно использовать для хранения ваших шаблонов одну из папок, перечисленных как пути к шаблонам, в &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Пути&lt;/f0&gt; до того, как вы станете использовать эти  шаблоны, &lt;f1&gt;но&lt;/f1&gt; это самый простой и удобный способ управления шаблонами..</seg>
       </tuv>
     </tu>
     <tu>
