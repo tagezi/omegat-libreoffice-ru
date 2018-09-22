@@ -2373,6 +2373,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Position and Size:&lt;/f0&gt; Edit width, height, rotation, and flip attributes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T140311Z" creationid="olex" creationdate="20180922T140311Z">
+        <seg>&lt;f0&gt;Положение и размер:&lt;/f0&gt; Изменяйте ширину, высоту, поворот и делайте отражение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Position and Size:&lt;/f0&gt; Modify width and height.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180922T135748Z" creationid="olex" creationdate="20180922T135748Z">
@@ -3396,6 +3404,15 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T165205Z" creationid="olex" creationdate="20180811T165205Z">
         <seg>&lt;f0&gt;С помощью стилей абзаца вы можете легко создавать вложенные списки, в которых элементы списка имеют подпункты под ними, как в схеме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>похоже тут ошибка - нет панели Обтекание, но есть панель Линия</note>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Wrap:&lt;/f0&gt; &lt;s1/&gt;Modify wrap and spacing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T140138Z" creationid="olex" creationdate="20180922T140138Z">
+        <seg>&lt;f0&gt;Обтекание:&lt;/f0&gt; &lt;s1/&gt;Изменяйте обтекание и интервалы отступов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18574,6 +18591,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a frame is selected, then the wrap panel opens but may be grayed-out if frame wrap is not available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T140553Z" creationid="olex" creationdate="20180922T140553Z">
+        <seg>Если выбрана врезка, то панель Обтекание открывается, но может быть недоступна, если недоступен поворот врезки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a graphic is selected, then the following panels open:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180922T134939Z" creationid="olex" creationdate="20180922T134939Z">
@@ -18602,6 +18627,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T181625Z" creationid="olex" creationdate="20180508T181625Z">
         <seg>Если лист печатается на нескольких страницах, вы можете настроить определенные строки или столбцы для повторения на каждой печатаемой странице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a video or audio clip is inserted by selecting Insert &gt; Media &gt; Audio or Visual, the following panel opens when the clip is selected:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T140722Z" creationid="olex" creationdate="20180922T140722Z">
+        <seg>Если вставлен видео или аудиоклип, выбором в меню Вставка &gt; Медиа &gt; Видео и звук..., то при выборе клипа откроется следующая панель:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23722,6 +23755,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T164813Z" creationid="tagezi" creationdate="20180310T164813Z">
         <seg>Могу ли я использовать программный код LibreOffice в моей программе?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Media Playback: Control for play, pause, stop, seek, loop, and volume</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T141103Z" creationid="olex" creationdate="20180922T141103Z">
+        <seg>Воспроизведение: Управляйте воспроизведением, паузой, остановкой, поиском, повтором и громкостью.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40659,8 +40700,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>Wrap: Modify wrap and spacing where these are available.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180922T135658Z" creationid="olex" creationdate="20180922T135658Z">
-        <seg>Обтекание: изменение обтекания и интервалов, если они доступны.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T140201Z" creationid="olex" creationdate="20180922T135658Z">
+        <seg>Обтекание: Измененяйте обтекание и интервалы отступов, если они доступны.</seg>
       </tuv>
     </tu>
     <tu>
