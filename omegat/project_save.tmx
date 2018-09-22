@@ -7634,6 +7634,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be aware that by changing the options on the Page deck, you will change the page style in use, modifying not only the current page but all pages in the document using the same page style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T141929Z" creationid="olex" creationdate="20180922T141929Z">
+        <seg>Имейте в виду, что, изменив параметры на вкладке Страница, вы измените используемый стиль страницы, изменив не только текущую страницу, но и все страницы в документе, которые используют тот же стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be careful not to accidentally right-click and undo actions you want to keep.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T165109Z" creationid="olex" creationdate="20180308T165109Z">
@@ -16331,6 +16339,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Format modifies the size, width, height, orientation, and page margins;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T141729Z" creationid="olex" creationdate="20180922T141619Z">
+        <seg>Формат, изменяет размер, ширину, высоту, ориентацию и поля страницы;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Format the data type, font, font size, cell borders, cell background, and so on for a &lt;f0&gt;range&lt;/f0&gt; of cells.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180905T180848Z" creationid="olex" creationdate="20180905T180848Z">
@@ -17719,6 +17735,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Header and Footer modify the respective margins, spacing, and content across pages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T141826Z" creationid="olex" creationdate="20180922T141826Z">
+        <seg>Верхний и нижний колонтитулы изменяют соответствующие поля, интервалы и содержимое на разных страницах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Headers and footers</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T180818Z" creationid="olex" creationdate="20180327T180818Z">
@@ -18633,8 +18657,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If a video or audio clip is inserted by selecting Insert &gt; Media &gt; Audio or Visual, the following panel opens when the clip is selected:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180922T140722Z" creationid="olex" creationdate="20180922T140722Z">
-        <seg>Если вставлен видео или аудиоклип, выбором в меню Вставка &gt; Медиа &gt; Видео и звук..., то при выборе клипа откроется следующая панель:</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T141129Z" creationid="olex" creationdate="20180922T140722Z">
+        <seg>Если вставлен видео или аудиоклип, выбором в меню Вставка &gt; Медиа &gt; Видео и звук..., то при выборе клипа откроются следующие панели:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21956,6 +21980,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is organized in four panels:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T141549Z" creationid="olex" creationdate="20180922T141549Z">
+        <seg>Они собраны в четыре группы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is particularly helpful for new words or specialized &lt;s9/&gt;words that are unlikely to have all variations in the dictionary.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T182407Z" creationid="olex" creationdate="20180805T182407Z">
@@ -23915,6 +23947,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T154126Z" creationid="olex" creationdate="20180722T154126Z">
         <seg>Режим</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modifies the page style to change the most commonly used page properties.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T141459Z" creationid="olex" creationdate="20180922T141459Z">
+        <seg>Изменяет стиль страницы и наиболее часто используемые свойства страницы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26602,6 +26642,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T193217Z" creationid="olex" creationdate="20180313T193217Z">
         <seg>Наведите указатель на &lt;f0&gt;Восстановить шаблон по умолчанию&lt;/f0&gt; и в раскрывшемся меню нажмите &lt;f1&gt;Текстовый документ&lt;/f1&gt; (или другой тип шаблона, который надо восстановить).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position and Size: &lt;f0&gt;&lt;s1/&gt;&lt;/f0&gt;Modify width and height.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T141152Z" creationid="olex" creationdate="20180922T141152Z">
+        <seg>Положение и размер: &lt;f0&gt;&lt;s1/&gt;&lt;/f0&gt;Изменяйте ширину и высоту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30964,6 +31012,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T201110Z" creationid="olex" creationdate="20180306T201110Z">
         <seg>Стили помогают улучшить согласованность оформления документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles modifies the numbering scheme, background, page layout (specifies whether the page style should apply to odd or even pages or to both), and columns;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T141756Z" creationid="olex" creationdate="20180922T141726Z">
+        <seg>Стили, изменяет схему нумерации, фон, разметку страницы (указывает, должен ли стиль страницы применяться к нечетным или четным страницам или ко всем) и колонки;</seg>
       </tuv>
     </tu>
     <tu>
