@@ -5019,6 +5019,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A block of text can be selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T132640Z" creationid="olex" creationdate="20180922T132640Z">
+        <seg>Можно выбрать блок текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A bulleted list is created when you type a hyphen (-), star (*), or plus sign (+), followed by a space or tab at the beginning of a paragraph.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T155202Z" creationid="olex" creationdate="20180811T155202Z">
@@ -14164,6 +14172,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: View layouts: single, side-by-side, book.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T132937Z" creationid="olex" creationdate="20180922T132937Z">
+        <seg>Рисунок &lt;seq0&gt;3&lt;/seq0&gt;: Вид макета: один, бок о бок, книга.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;40&lt;/seq0&gt;: Pivot Table dialog with raw data and results</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T185815Z" creationid="olex" creationdate="20180507T185815Z">
@@ -14192,6 +14208,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T191959Z" creationid="olex" creationdate="20180508T191855Z">
         <seg>Рисунок &lt;seq0&gt;43&lt;/seq0&gt;: Вкладка Верхний колонтитул диалогового окна Стиль страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: &lt;f1&gt;Default &lt;/f1&gt;Properties panel of Sidebar in Writer</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T133204Z" creationid="olex" creationdate="20180922T133204Z">
+        <seg>Рисунок &lt;seq0&gt;4&lt;/seq0&gt;: &lt;f1&gt;Вид по умолчанию&lt;/f1&gt; вкладки Свойства на Боковой панели Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -19443,6 +19467,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T123509Z" creationid="olex" creationdate="20180306T180733Z">
         <seg>Если вы не задавали шаблон по умолчанию, то LibreOffice использует для этого типа документа шаблон, который устанавливался с LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have selected &lt;f1&gt;Enable experimental features&lt;/f1&gt; in &lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f2&gt;, a sixth deck (&lt;f3&gt;Manage Changes&lt;/f3&gt;) will appear, and a seventh (&lt;f4&gt;Design&lt;/f4&gt;) can be selected in &lt;f5&gt;Sidebar Settings &gt; Customization&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T134040Z" creationid="olex" creationdate="20180922T134040Z">
+        <seg>Если вы выбрали &lt;f1&gt;Включить экспериментальные возможности (нестабильны)&lt;/f1&gt; в меню &lt;f2&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Расширенные возможности&lt;/f2&gt;, то появится шестая вкладка (&lt;f3&gt;Управление изменениями&lt;/f3&gt;) и седьмая (&lt;f4&gt;Дизайн&lt;/f4&gt;), которые можно выбрать в &lt;f5&gt;Настройки боковой панели &gt; Настройка&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28176,6 +28208,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Figure &lt;t0&gt;3&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T132818Z" creationid="olex" creationdate="20180922T132818Z">
+        <seg>Смотрите Рисунок &lt;t0&gt;3&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Figure &lt;t0&gt;4&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T160849Z" creationid="olex" creationdate="20180722T160849Z">
@@ -31920,6 +31960,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Sidebar (Figure &lt;t0&gt;4&lt;/t0&gt;) is normally open by default on the right side of the Writer window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T133006Z" creationid="olex" creationdate="20180922T133006Z">
+        <seg>Боковая панель (Рисунок &lt;t0&gt;4&lt;/t0&gt;) обычно открывается по умолчанию в правой части окна Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Sidebar (Figure &lt;t0&gt;5&lt;/t0&gt;) is normally open by default on the right side of the Writer window.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T161311Z" creationid="olex" creationdate="20180722T161311Z">
@@ -32084,6 +32132,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T162436Z" creationid="olex" creationdate="20180722T162436Z">
         <seg>Боковая панель Writer содержит &lt;ts0/&gt;&lt;f1&gt;пять&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt; вкладок по умолчанию: &lt;ts4/&gt;&lt;f5&gt;Свойства,&lt;/f5&gt;&lt;te6/&gt;&lt;ts7/&gt;&lt;f8&gt; Страница,&lt;/f8&gt;&lt;te9/&gt;&lt;ts10/&gt;&lt;f11&gt; Стили&lt;/f11&gt;&lt;te12/&gt;&lt;tc13/&gt;&lt;ts14/&gt;&lt;f15&gt;, Галерея и Навигатор&lt;/f15&gt;&lt;te16/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Writer Sidebar contains five decks by default: &lt;f0&gt;Properties, Page, Styles, Gallery, and Navigator&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T133428Z" creationid="olex" creationdate="20180922T133428Z">
+        <seg>Боковая панель Writer по умолчанию содержит пять вкладок: &lt;f0&gt;Свойства, Страница, Стили, Галерея и Навигатор&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
