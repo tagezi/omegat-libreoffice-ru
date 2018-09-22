@@ -792,6 +792,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Area:&lt;/f0&gt; Modify fill and transparency.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T140017Z" creationid="olex" creationdate="20180922T140017Z">
+        <seg>&lt;f0&gt;Область:&lt;/f0&gt; Изменяйте заливку и прозрачность.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Area:&lt;/f0&gt; Modify the graphic background area fill mode and transparency.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T135430Z" creationid="olex" creationdate="20180922T135027Z">
+        <seg>&lt;f0&gt;Область:&lt;/f0&gt; Изменяйте режим заливки графической области и прозрачность.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Area:&lt;/f0&gt; Modify the graphic background area fill mode and transparency.&lt;ts1/&gt;&lt;f2&gt; Further colors, gradients, hatching, patterns, and bitmap selection and importing are available in &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;More Options&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T172259Z" creationid="olex" creationdate="20180723T172259Z">
@@ -1837,6 +1853,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Image:&lt;/f0&gt; Modify the graphic’s brightness, contrast, color mode and transparency.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T135613Z" creationid="olex" creationdate="20180922T135210Z">
+        <seg>&lt;f0&gt;Изображение:&lt;/f0&gt; Изменяйте яркость, контраст, цветовой режим и прозрачность.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Important&lt;/f0&gt;—First save your document in the file format used by LibreOffice Writer (.ODT).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T174859Z" creationid="olex" creationdate="20180727T174859Z">
@@ -2345,6 +2369,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T173854Z" creationid="olex" creationdate="20180723T173708Z">
         <seg>&lt;f0&gt;Положение и размер:&lt;/f0&gt; &lt;tc1/&gt;Измените&lt;tc2/&gt; ширину, высоту, поворот и отразите объект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Position and Size:&lt;/f0&gt; Modify width and height.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T135748Z" creationid="olex" creationdate="20180922T135748Z">
+        <seg>&lt;f0&gt;Положение и размер:&lt;/f0&gt; Изменяйте ширину и высоту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6000,6 +6032,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180314T160754Z" creationid="User" creationdate="20180314T160754Z">
         <seg>Дополнительные материалы были добавлены из немецкого руководства &lt;f0&gt;Math Handbuch for LibreOffice 3.4&lt;/f0&gt; (переведённого на английский Hazel Russman).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional panels appear when specific types of items are selected:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T134840Z" creationid="olex" creationdate="20180922T134840Z">
+        <seg>При выборе определенных типов элементов появляются дополнительные панели:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10672,8 +10712,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Create or update a style.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180723T171248Z" creationid="olex" creationdate="20180723T171248Z">
-        <seg>Создайте или обновите стиль.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T135331Z" creationid="olex" creationdate="20180723T171248Z">
+        <seg>Создавайте или обновляйте стиль.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16914,6 +16954,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Further colors, gradients, hatching, patterns, and bitmap selection and importing are available in &lt;f1&gt;More Options&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T135547Z" creationid="olex" creationdate="20180922T135124Z">
+        <seg>Дополнительные цвета, градиенты, текстуры, орнамент, штриховки, выбор и импорт растровых изображений доступны в &lt;f1&gt;Дополнительные параметры&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gallery</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T190650Z" creationid="olex" creationdate="20180604T190650Z">
@@ -18514,6 +18562,22 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T201446Z" creationid="olex" creationdate="20180309T201446Z">
         <seg>Если в документе требуется пользовательские стили, созданные на основе базовых стилей, придумайте префикс имени пользовательских стилей из нескольких символов, чтобы различать их среди других стилей в списке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a drawing object is selected, then the following panels are available:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T135819Z" creationid="olex" creationdate="20180922T135819Z">
+        <seg>Если выбран объект рисования, то доступны следующие панели:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a graphic is selected, then the following panels open:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T134939Z" creationid="olex" creationdate="20180922T134939Z">
+        <seg>Если выбран графический объект, то откроются следующие панели:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40589,6 +40653,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T072008Z" creationid="olex" creationdate="20180908T202837Z">
         <seg>Виды рабочей области</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrap: Modify wrap and spacing where these are available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T135658Z" creationid="olex" creationdate="20180922T135658Z">
+        <seg>Обтекание: изменение обтекания и интервалов, если они доступны.</seg>
       </tuv>
     </tu>
     <tu>
