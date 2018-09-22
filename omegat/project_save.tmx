@@ -5083,6 +5083,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A context menu displays the available options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T132159Z" creationid="olex" creationdate="20180922T132159Z">
+        <seg>В контекстном меню отображаются доступные варианты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A copy of an object is independent of the original object, so changes to the object have no effect on the copy.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T081518Z" creationid="olex" creationdate="20180915T081518Z">
@@ -5447,6 +5455,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180905T183116Z" creationid="olex" creationdate="20180905T182829Z">
         <seg>В ваш документ будет добавлен новый набор стилей, включая один, под названием &lt;f4&gt;Card&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A new, separate selection is added to an existing selection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T132613Z" creationid="olex" creationdate="20180922T132613Z">
+        <seg>Новое, отдельное, выделение добавляется к существующему выбору.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18246,6 +18262,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Howevering the mouse pointer over this field, also displays a tooltip that shows which mode is active.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T132232Z" creationid="olex" creationdate="20180922T132232Z">
+        <seg>Помимо указателя мыши над этим полем также отображается всплывающая подсказка, показывающая, какой режим активен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hyphenating words</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T112200Z" creationid="olex" creationdate="20180721T111939Z">
@@ -24752,6 +24776,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that the icon does not change.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T132247Z" creationid="olex" creationdate="20180922T132247Z">
+        <seg>Обратите внимание, что значок не изменяется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that you can change the list of available colors as described in “&lt;bf1&gt;Color options&lt;/bf1&gt;” on page &lt;bf2&gt;10&lt;/bf2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T152917Z" creationid="olex" creationdate="20180630T152917Z">
@@ -29943,6 +29975,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T153216Z" creationid="olex" creationdate="20180722T151946Z">
         <seg>Показывает язык текста, который используется для проверки орфографии и &lt;ts0/&gt;&lt;f1&gt;грамматики, а также для словарей &lt;/f1&gt;&lt;te2/&gt;переноса и словарей тезауруса&lt;ts3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt;, в положении курсора или для выбранного текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shows the language at the cursor position, or for the selected text, that is used for checking spelling and grammar as well as for hyphenation and thesaurus dictionaries.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T131753Z" creationid="olex" creationdate="20180922T131753Z">
+        <seg>Показывает язык в местоположении курсора или для выбранного текста, который используется для проверки орфографии и грамматики, а также для словарей переноса и словарей тезауруса.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40741,6 +40781,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T183857Z" creationid="olex" creationdate="20180329T183857Z">
         <seg>Вы можете также настроить диапазон с помощью мыши, перетащив цветную рамку или её края, чтобы установить диапазон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also choose &lt;f0&gt;None (Do not check spelling)&lt;/f0&gt; &lt;t1/&gt;to exclude the text from a spelling check or choose &lt;f2&gt;More&lt;/f2&gt; to open the Character dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T132050Z" creationid="olex" creationdate="20180922T132050Z">
+        <seg>Вы также можете выбрать &lt;f0&gt;Нет (не проверять орфографию)&lt;/f0&gt;&lt;t1/&gt;, чтобы исключить текст из проверки орфографии или выбрать &lt;f2&gt;Еще...&lt;/f2&gt;, чтобы открыть диалоговое окно Символ.</seg>
       </tuv>
     </tu>
     <tu>
