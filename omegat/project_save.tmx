@@ -2309,6 +2309,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Paragraph&lt;/f0&gt;: Style the paragraph by alignment, lists or bullets, background color, indent, and spacing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T134758Z" creationid="olex" creationdate="20180922T134758Z">
+        <seg>&lt;f0&gt;Абзац&lt;/f0&gt;: Настраивайте в абзаце выравнивание, нумерованные или маркированные списки, цвет фона, отступы и интервалы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Paragraph&lt;/f0&gt;: Style the paragraph by alignment, lists or bullets, background color, indent, and spacing&lt;tc1/&gt;&lt;tc2/&gt;&lt;tc3/&gt;&lt;tc4/&gt;&lt;tc5/&gt;&lt;ts6/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T171753Z" creationid="olex" creationdate="20180723T171549Z">
@@ -12288,6 +12296,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each deck has a corresponding icon on the &lt;i6/&gt;Tab bar on the right of the sidebar, allowing you to switch between them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T134117Z" creationid="olex" creationdate="20180922T134117Z">
+        <seg>Каждая вкладка имеет соответствующий значок на панели вкладок,&lt;i6/&gt; справа от боковой панели, что позволяет вам переключаться между ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each function, when selected, will display a brief explanation of it’s use and acceptable syntax.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180530T172939Z" creationid="olex" creationdate="20180506T190533Z">
@@ -14990,6 +15006,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T172526Z" creationid="olex" creationdate="20180809T172526Z">
         <seg>Для получения &lt;f0&gt;важной&lt;/f0&gt; информации об использовании стилей &lt;f1&gt;абзаца &lt;/f1&gt;при форматировании документов, смотрите &lt;f2&gt;Главу 3 этой книги и &lt;/f2&gt; &lt;f3&gt;Руководство по Writer&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For &lt;f0&gt;text editing, t&lt;/f0&gt;he default view shows tools organized into three panels:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T134556Z" creationid="olex" creationdate="20180922T134556Z">
+        <seg>Для редактирования текста &lt;f0&gt;&lt;/f0&gt;по умолчанию в ней отображаются инструменты, собранные в три панели:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30404,6 +30428,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some panels contain a small &lt;f0&gt;More Options&lt;/f0&gt; button (&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;), which opens a dialog to give greater choice of editing controls.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T134333Z" creationid="olex" creationdate="20180922T134333Z">
+        <seg>На некоторых панелях есть небольшая кнопка &lt;f0&gt;Дополнительные параметры&lt;/f0&gt; (&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;), которая открывает диалоговое окно, чтобы предоставить больший выбор инструментов для редактирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some panels contain a&lt;ts0/&gt; &lt;f1&gt;small&lt;/f1&gt;&lt;te2/&gt; &lt;ts3/&gt;&lt;f4&gt;More Options&lt;/f4&gt;&lt;te5/&gt; button (&lt;f6&gt;&lt;df7&gt;&lt;di8/&gt;&lt;/df7&gt;&lt;/f6&gt;), which opens a dialog to give greater choice of editing controls.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T163723Z" creationid="olex" creationdate="20180722T163723Z">
@@ -39529,6 +39561,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T171137Z" creationid="olex" creationdate="20180616T171137Z">
         <seg>Когда открывается контекстное меню, то доступные функции или параметры будут зависеть от типа объекта, который был выбран.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a dialog is open, the document is locked for editing until the dialog is closed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180922T134459Z" creationid="olex" creationdate="20180922T134459Z">
+        <seg>Если открыто диалоговое окно, то документ будет заблокирован для редактирования, пока вы не закроете диалоговое окно.</seg>
       </tuv>
     </tu>
     <tu>
