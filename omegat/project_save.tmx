@@ -16915,6 +16915,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Full Screen view</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T174820Z" creationid="olex" creationdate="20180924T174820Z">
+        <seg>Вид Во весь экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Full coverage of event handlers is well beyond the scope of this document, but a little knowledge can accomplish much.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T144820Z" creationid="tagezi" creationdate="20180320T144820Z">
@@ -20326,6 +20334,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Full Screen view, the document is displayed using the zoom and layout settings previously selected in the other views.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T174917Z" creationid="olex" creationdate="20180924T174917Z">
+        <seg>В полноэкранном режиме документ отображается с настройками масштабирования и компоновки, ранее выбранными в других режимах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Impress and Draw it shows Slides, Pictures, and other items.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T180141Z" creationid="olex" creationdate="20180621T180141Z">
@@ -20418,6 +20434,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T165552Z" creationid="olex" creationdate="20180727T165438Z">
         <seg>В представлении Веб страницы вы можете использовать только слайдер «Масштаб»; кнопки &lt;ts0/&gt;Мультистраничного вида&lt;te1/&gt; в панели состояния и большинство вариантов в диалоговом окне Масщтаб и режимы просмотра будут недоступны..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Web Layout view, you can use only the Zoom slider; the View Layout buttons on the Status bar are disabled, and most of the choices on the Zoom &amp; View Layout dialog are not available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T174749Z" creationid="olex" creationdate="20180924T174749Z">
+        <seg>В режиме Веб-страница вы можете использовать только ползунок Масштаб; кнопки Вид макета на панели состояния будут отключены, и большинство вариантов в диалоговом окне Масштаб и режимы просмотра будут недоступны.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25037,6 +25061,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180922T132247Z" creationid="olex" creationdate="20180922T132247Z">
         <seg>Обратите внимание, что значок не изменяется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that this only works when single-page view is activated in the Status Bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T174448Z" creationid="olex" creationdate="20180924T174448Z">
+        <seg>Обратите внимание, что это работает, только когда в строке состояния активировано одностраничное представление.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36650,6 +36682,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To exit Full Screen view and return to Normal view, press the &lt;f0&gt;Esc&lt;/f0&gt; key or toggle the Full Screen button on the floating toolbar in the t&lt;bs1/&gt;op left-hand corner.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T175147Z" creationid="olex" creationdate="20180924T175147Z">
+        <seg>Чтобы выйти из режима Во весь экран и вернуться к Обычному виду, нажмите клавишу &lt;f0&gt;Esc&lt;/f0&gt; или нажмите кнопку Во весь экран на плавающей панели инструментов в верхнем&lt;bs1/&gt; левом углу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To expand a section you want to use, click on its icon or click on the small triangle at the top of the icons and select a section from the drop down list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T074921Z" creationid="olex" creationdate="20180915T074921Z">
@@ -39646,6 +39686,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Web Layout view</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T174513Z" creationid="olex" creationdate="20180924T174513Z">
+        <seg>Вид Веб-страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What are &lt;i0/&gt;&lt;i1/&gt;styles?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T084853Z" creationid="olex" creationdate="20180306T185533Z">
@@ -41551,6 +41599,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T170725Z" creationid="olex" creationdate="20180727T170725Z">
         <seg>Вы также можете использовать &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;Ctrl+Shift+J&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; для &lt;/f23&gt;&lt;te24/&gt;&lt;ts25/&gt;&lt;f26&gt;переключения между режимами&lt;/f26&gt;&lt;te27/&gt;&lt;tc28/&gt;&lt;ts29/&gt;&lt;f30&gt;Во весь экран &lt;/f30&gt;&lt;te31/&gt;&lt;ts32/&gt;&lt;f33&gt;и Обычный &lt;/f33&gt;&lt;te34/&gt;&lt;ts35/&gt;&lt;f36&gt;&lt;/f36&gt;&lt;te37/&gt;&lt;ts38/&gt;&lt;f39&gt;&lt;/f39&gt;&lt;te40/&gt;&lt;ts41/&gt;&lt;f42&gt;.&lt;/f42&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also use &lt;f2&gt;Ctrl+Shift+J&lt;/f2&gt; to toggle between Full Screen and Normal views.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T175327Z" creationid="olex" creationdate="20180924T175327Z">
+        <seg>Вы так же можете использовать клавиши &lt;f2&gt;Ctrl+Shift+J&lt;/f2&gt;, чтобы переключаться между режимами Во весь экран и Обычный.</seg>
       </tuv>
     </tu>
     <tu>
