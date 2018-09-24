@@ -8596,6 +8596,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chapter 1, Introducing LibreOffice, includes instructions on creating new documents, opening existing documents, saving documents, accessing remote servers, and password-protecting &lt;t0/&gt;documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T181339Z" creationid="olex" creationdate="20180924T181339Z">
+        <seg>Глава 1, Введение в LibreOffice, содержит инструкции по созданию новых документов, открытию существующих документов, сохранению документов, доступу к удаленным серверам и защищенным паролем документам &lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chapter 13 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T213839Z" creationid="tagezi" creationdate="20180310T213839Z">
@@ -14473,6 +14481,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T190116Z" creationid="olex" creationdate="20180402T190116Z">
         <seg>Рисунок &lt;seq0&gt;6&lt;/seq0&gt;: Диалоговое окно Подтверждение формата файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Go to Page dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T181245Z" creationid="olex" creationdate="20180924T181245Z">
+        <seg>Рисунок &lt;seq0&gt;6&lt;/seq0&gt;: Диалоговое окно Перейти к странице</seg>
       </tuv>
     </tu>
     <tu>
@@ -21936,6 +21952,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T201556Z" creationid="olex" creationdate="20180607T201556Z">
         <seg>Он включает более 300 функций для финансовых, статистических, математических и других операций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It initially shows the number of the current page and the number of pages in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T181128Z" creationid="olex" creationdate="20180924T181128Z">
+        <seg>Сначала он показывает номер текущей страницы и количество страниц в документе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33660,6 +33684,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The names of the buttons (shown in the tooltips) change to match the selected category, such as &lt;f2&gt;Next Graphic&lt;/f2&gt;, &lt;f3&gt;Next Bookmark&lt;/f3&gt;, or &lt;f4&gt;Continue search forward&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T180733Z" creationid="olex" creationdate="20180924T180733Z">
+        <seg>Названия кнопок (показываемые в подсказках) изменяются в соответствии с выбранной категорией, например &lt;f2&gt;Следующее изображение&lt;/f2&gt;, &lt;f3&gt;Следующая закладка&lt;/f3&gt; или &lt;f4&gt;Продолжить поиск вперед&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The names of the buttons (shown in the tooltips) change to match the selected category&lt;ts25/&gt;, &lt;f26&gt;such as&lt;/f26&gt;&lt;te27/&gt;&lt;ts28/&gt;&lt;f29&gt; &lt;/f29&gt;&lt;te30/&gt;&lt;tc31/&gt;&lt;f32&gt;Next Graphic&lt;/f32&gt;, &lt;f33&gt;Next Bookmark&lt;/f33&gt;, or &lt;f34&gt;Continue search forward&lt;/f34&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T172813Z" creationid="olex" creationdate="20180727T172813Z">
@@ -34493,6 +34525,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T173941Z" creationid="olex" creationdate="20180727T173941Z">
         <seg>Введите номер необходимой страницы в поле для ввода и нажмите кнопку &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;OK&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;.&lt;/f25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then type the number of the required destination page into the text box and click the &lt;f4&gt;OK&lt;/f4&gt; button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T181223Z" creationid="olex" creationdate="20180924T181223Z">
+        <seg>Введите номер необходимой страницы для перехода в текстовое поле и нажмите кнопку &lt;f4&gt;ОК&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35342,8 +35382,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>This is particularly helpful for finding items like index entries, which can be difficult to see in the text.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180727T172237Z" creationid="olex" creationdate="20180727T172237Z">
-        <seg>Это особенно полезно для поиска элементов, таких как записи индекса, которые может быть трудно увидеть в тексте.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T180450Z" creationid="olex" creationdate="20180727T172237Z">
+        <seg>Это особенно полезно для поиска элементов, таких как записи указателя, которые может быть трудно увидеть в тексте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37118,6 +37158,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T184729Z" creationid="olex" creationdate="20180402T193927Z">
         <seg>Чтобы переместить фокус на другую ячейку с помощью мыши, просто переместите указатель мыши на эту ячейку, и щелкните левой кнопкой мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To move to a page in the document use the menu: &lt;f0&gt;Edit &gt; Go to Page&lt;/f0&gt; or the keyboard shortcut &lt;f1&gt;CTRL + G&lt;/f1&gt; to open the Go To Page dialog (Figure &lt;f2&gt;&lt;t3&gt;6&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T181112Z" creationid="olex" creationdate="20180924T181052Z">
+        <seg>Чтобы перейти на определенную страницу в документе, выберите в меню &lt;f0&gt;Правка &gt; Перейти к странице&lt;/f0&gt; или используйте сочетание клавиш &lt;f1&gt;CTRL+G&lt;/f1&gt;, чтобы открыть диалоговое окно Перейти к странице (Рисунок &lt;f2&gt;&lt;t3&gt;6&lt;/t3&gt;&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
