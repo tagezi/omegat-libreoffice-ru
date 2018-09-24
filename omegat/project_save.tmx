@@ -35051,6 +35051,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This deck is an alternative view of the Manage Changes dialog that can be opened from &lt;f0&gt;Edit &gt; Track Changes &gt; Manage Changes&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T172437Z" creationid="olex" creationdate="20180924T172437Z">
+        <seg>Эта колода является альтернативным видом диалогового окна Управление изменениями, которое можно открыть из меню &lt;f0&gt;Правка &gt; Отслеживать изменения &gt; Управление...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This deck is available only when Experimental Features is enabled in&lt;f0&gt; Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f0&gt; and when the deck is selected in &lt;f1&gt;Sidebar Settings &gt; Customization&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180724T193901Z" creationid="olex" creationdate="20180724T193713Z">
@@ -35473,6 +35481,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180724T193737Z" creationid="olex" creationdate="20180724T193357Z">
         <seg>Эта вкладка доступна только в том случае, если в меню &lt;f10&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Расширенные возможности&lt;/f10&gt; включена опция &lt;f11&gt;Включить экспериментальные возможности&lt;/f11&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This tab is available only when &lt;f1&gt;Enable experimental features&lt;/f1&gt; has been selected in &lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T172702Z" creationid="olex" creationdate="20180924T172702Z">
+        <seg>Эта вкладка доступна только в том случае, если выбрана опция &lt;f1&gt;Включить экспериментальные возможности (нестабильны)&lt;/f1&gt; в меню &lt;f2&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Расширенные возможности&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36125,6 +36141,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180724T194634Z" creationid="olex" creationdate="20180724T194232Z">
         <seg>Чтобы изменить режим просмотра, перейдите в меню &lt;f0&gt;Вид&lt;/f0&gt; и выберите &lt;ts1/&gt;&lt;f2&gt;необходимый&lt;/f2&gt;&lt;te3/&gt;&lt;tc4/&gt;&lt;f5&gt;&lt;/f5&gt; вариант.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the view, go to the &lt;f0&gt;View&lt;/f0&gt; menu and click on the desired view.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T172910Z" creationid="olex" creationdate="20180924T172910Z">
+        <seg>Чтобы изменить вид, выберите в меню &lt;f0&gt;Вид&lt;/f0&gt; необходимый вам режим просмотра.</seg>
       </tuv>
     </tu>
     <tu>
