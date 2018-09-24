@@ -21250,6 +21250,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this view, you can use the View Layout icons and the Zoom slider on the Status bar to change the magnification.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T173149Z" creationid="olex" creationdate="20180924T173149Z">
+        <seg>В этом представлении вы можете использовать значки Просмотр макета и ползунок Масштаб в строке состояния, чтобы изменить увеличение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In your document, place the cursor where you want the cross-reference to appear.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180823T184140Z" creationid="olex" creationdate="20180823T184140Z">
@@ -24897,6 +24905,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Normal view also allows you to hide or show the headers and footers and the gap between pages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T173556Z" creationid="olex" creationdate="20180924T173556Z">
+        <seg>Обычный вид также позволяет скрыть или показать верхние и нижние колонтитулы и промежуток между страницами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Normal&lt;ts0/&gt; &lt;f1&gt;view&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180724T194245Z" creationid="olex" creationdate="20180724T194245Z">
@@ -26947,6 +26963,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T103752Z" creationid="olex" creationdate="20180721T103752Z">
         <seg>Предотвращение проверки текста при наборе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previously called Print Layout, Normal is the default view in Writer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T173025Z" creationid="olex" creationdate="20180924T173025Z">
+        <seg>Ранее называемый Макет печати, Обычный является стандартным режимом просмотра в Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34819,6 +34843,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This also hides headers, footers, and white space in Full Screen view.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T174403Z" creationid="olex" creationdate="20180924T174403Z">
+        <seg>При этом в режиме Во весь экран так же скроются верхние и нижние колонтитулы, и пространство между страницами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This appendix is adapted from Appendix B of &lt;f0&gt;Getting Started with OpenOffice.org 3.3&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T073340Z" creationid="lera" creationdate="20180303T152536Z">
@@ -36494,6 +36526,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T173003Z" creationid="olex" creationdate="20180628T173003Z">
         <seg>Для этого вам необходимо изменить шаблон по умолчанию для документов, как описано в главе 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do this, choose &lt;f0&gt;View &gt; Hide Whitespace&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T173659Z" creationid="olex" creationdate="20180924T173659Z">
+        <seg>Чтобы сделать это, выберите в меню &lt;f0&gt;Вид &gt; Скрыть пустое место&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39942,6 +39982,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When activated, a check mark appears next to the option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T173738Z" creationid="olex" creationdate="20180924T173738Z">
+        <seg>При активации рядом с опцией появляется флажок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When all desired cells have been flagged with either a protected or unprotected status:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180503T190824Z" creationid="olex" creationdate="20180503T190824Z">
@@ -42234,6 +42282,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180706T174814Z" creationid="olex" creationdate="20180706T174814Z">
         <seg>Вы можете установить параметры для загрузки и сохранения документов в соответствии с тем, как вы работаете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can set these same options by choosing &lt;f0&gt;View &gt; Zoom &gt; Zoom&lt;/f0&gt; from the menu bar to display the &lt;i1/&gt;&lt;i2/&gt;Zoom &amp; View Layout dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T173521Z" creationid="olex" creationdate="20180924T173225Z">
+        <seg>Вы можете установить эти же параметры, выбрав в меню &lt;f0&gt;Вид &gt; Масштаб &gt; Масштаб...&lt;/f0&gt;, чтобы отобразить диалоговое окно &lt;i1/&gt;&lt;i2/&gt;Масштаб и режимы просмотра.</seg>
       </tuv>
     </tu>
     <tu>
