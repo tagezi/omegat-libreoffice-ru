@@ -4018,6 +4018,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;If you want to go back to working with the ODT version of your document, you must open it again.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T182207Z" creationid="olex" creationdate="20180924T182207Z">
+        <seg>&lt;s1/&gt;Если вы хотите вернуться к работе с версией документа ODT, то вы должны снова открыть его.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Неточность в указании пути в оригинале - пропустили LibreOffice</note>
       <tuv lang="EN-US">
         <seg>&lt;s1/&gt;If you wish, you can toggle this visibility off or on in&lt;/f0&gt;&lt;f2&gt; Tools &gt; Options &gt; View &gt; Menu&lt;/f2&gt;.</seg>
@@ -6405,6 +6413,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, saving in ODF format enables you to re-save or modify the document if the recipient of your document experiences trouble with the Microsoft format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T181933Z" creationid="olex" creationdate="20180924T181933Z">
+        <seg>Кроме того, сохранение в формате ODF позволит повторно сохранить или изменить документ, если получатель вашего документа испытывает проблемы с форматом Microsoft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, some of the dialogs may be different because of the settings selected in LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T082216Z" creationid="tagezi" creationdate="20180310T082216Z">
@@ -7871,6 +7887,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180515T173837Z" creationid="olex" creationdate="20180327T183641Z">
         <seg>По умолчанию LibreOffice Calc использует собственный синтаксис формул, который называется &lt;f0&gt;Calc A1&lt;/f0&gt;, а не синтаксис &lt;f1&gt;Excel A1&lt;/f1&gt;, который используется в Microsoft Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, LibreOffice creates and saves files in the OpenDocument file format (ODF), a standardized file format (ISO-IEC 26300) used by many software applications.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T181512Z" creationid="olex" creationdate="20180924T181512Z">
+        <seg>По умолчанию LibreOffice создает и сохраняет файлы в формате файла OpenDocument (ODF), стандартизованном формате файла (ISO-IEC 26300), используемом многими программными приложениями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16931,6 +16955,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From this point on, &lt;f0&gt;all changes you make to the document will occur only in the new document&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T182135Z" creationid="olex" creationdate="20180924T182135Z">
+        <seg>С этого момента &lt;f0&gt;все изменения, вносимые вами в документ, будут происходить только в новом документе &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Full Screen &lt;f0&gt;v&lt;/f0&gt;iew</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T165800Z" creationid="olex" creationdate="20180727T165800Z">
@@ -19587,6 +19619,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T162129Z" creationid="olex" creationdate="20180624T162129Z">
         <seg>Если вы не хотите, чтобы данные пользователя были частью свойств документа, снимите флажок внизу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do not, any changes you made since the last time you saved will appear only in the Microsoft Word version of the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T181803Z" creationid="olex" creationdate="20180924T181803Z">
+        <seg>Если вы этого не сделаете, любые изменения, внесенные вами с момента последнего сохранения, будут отображаться только в версии документа Microsoft Word.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35163,6 +35203,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This creates a separate document with a different file extension (such as .DOCX).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T182034Z" creationid="olex" creationdate="20180924T182034Z">
+        <seg>Это создаст отдельный документ с другим расширением файла (например, .DOCX).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This custom separator must also be contained in the data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T175408Z" creationid="olex" creationdate="20180330T192144Z">
@@ -35569,6 +35617,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T180330Z" creationid="olex" creationdate="20180730T180330Z">
         <seg>Это установит Writer в режим "Добавляемое выделение".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This reduces the possibility of errors.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T181723Z" creationid="olex" creationdate="20180924T181723Z">
+        <seg>Это уменьшает вероятность ошибок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40588,6 +40644,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T185140Z" creationid="olex" creationdate="20180508T185140Z">
         <seg>Если вы хотите удалить их, вы должны удалить каждый разрыв по отдельности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever possible to choose the document file format, choose the default ODF format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T181711Z" creationid="olex" creationdate="20180924T181711Z">
+        <seg>Если это возможно, то выбирайте в качестве формата файла документа по умолчанию ODF-формат.</seg>
       </tuv>
     </tu>
     <tu>
