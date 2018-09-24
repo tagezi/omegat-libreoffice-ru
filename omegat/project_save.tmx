@@ -10519,6 +10519,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contains images and diagrams included in the Gallery themes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T170524Z" creationid="olex" creationdate="20180924T170524Z">
+        <seg>Содержит изображения и диаграммы, включенные в темы галереи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contains tools for direct formatting within the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T170647Z" creationid="olex" creationdate="20180723T170647Z">
@@ -23527,6 +23535,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Makes it easy to navigate to specific types of content and to reorganize contents based on &lt;s0/&gt;categories, such as headings, tables, frames, graphics, etc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T171057Z" creationid="olex" creationdate="20180924T171057Z">
+        <seg>Позволяет легко перемещаться по определенным типам содержимого и сортирует его на основе категорий &lt;s0/&gt;, таких как заголовки, таблицы, врезки, графические объекты и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage Changes Deck</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T102235Z" creationid="olex" creationdate="20180721T102235Z">
@@ -23539,6 +23555,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T182019Z" creationid="olex" creationdate="20180723T182019Z">
         <seg>Управляет&lt;ts0/&gt;&lt;f1&gt;&lt;/f1&gt;&lt;te2/&gt; стилями, используемыми в документе&lt;ts3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manages the styles used in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T170019Z" creationid="olex" creationdate="20180924T170019Z">
+        <seg>Управляет стилями, используемыми в документе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29178,6 +29202,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the &lt;f0&gt;New Theme&lt;/f0&gt; button to create new categories.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T170831Z" creationid="olex" creationdate="20180924T170831Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Создать тему...&lt;/f0&gt;, чтобы создать новую категорию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the &lt;f0&gt;Sheet&lt;/f0&gt; tab and make your selections from the available options.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T181331Z" creationid="olex" creationdate="20180508T181331Z">
@@ -31857,6 +31889,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Gallery has two sections.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T170549Z" creationid="olex" creationdate="20180924T170549Z">
+        <seg>Галерея состоит из двух частей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The HTML filter supports CSS2 (Cascading Style Sheets Level 2) for printing documents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T194255Z" creationid="olex" creationdate="20180711T194255Z">
@@ -32917,6 +32957,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T202902Z" creationid="tagezi" creationdate="20180318T202902Z">
         <seg>Первый столбец в этом примере указывает имя константы, а за каждым именем следует пробел и табуляция, и у каждой строки два конечных пробела.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first lists the themes by name (Arrows, Background, Diagrams, etc.) and the second displays the images in the selected category.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T170717Z" creationid="olex" creationdate="20180924T170717Z">
+        <seg>В первой перечислены темы по имени (Стрелки, Фоны, Диаграммы и т.д.), а вторая показывает изображения в выбранной категории.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35112,6 +35160,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T102715Z" creationid="tagezi" creationdate="20180320T102715Z">
         <seg>Это помогает защитить эти макросы, потому что их не следует изменять, и вы не должны хранить свои макросы в контейнере LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This includes applying existing styles, modifying them, or creating new ones.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T170116Z" creationid="olex" creationdate="20180924T170116Z">
+        <seg>Это включает применение существующих стилей, их модификацию или создание новых.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41962,6 +42018,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T171332Z" creationid="olex" creationdate="20180308T171332Z">
         <seg>Вы можете открыть этот список и выбрать нужный стиль мышью или использовать клавиши со стрелками вверх и вниз для перемещения по списку, а затем нажать &lt;f0&gt;Enter&lt;/f0&gt;, чтобы применить выбранный стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can preview the changes by checking &lt;f0&gt;Show Previews&lt;/f0&gt; at the bottom.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T170430Z" creationid="olex" creationdate="20180924T170410Z">
+        <seg>Вы можете просматривать возможные изменения, поставив флажок на &lt;f0&gt;Просмотр стилей&lt;/f0&gt; внизу.</seg>
       </tuv>
     </tu>
     <tu>
