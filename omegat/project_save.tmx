@@ -14437,6 +14437,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Navigation toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T180054Z" creationid="olex" creationdate="20180924T180054Z">
+        <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: Панель инструментов Навигация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Save As dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T185349Z" creationid="olex" creationdate="20180402T185349Z">
@@ -16917,8 +16925,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Full Screen view</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180924T174820Z" creationid="olex" creationdate="20180924T174820Z">
-        <seg>Вид Во весь экран</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T175441Z" creationid="olex" creationdate="20180924T174820Z">
+        <seg>Во весь экран</seg>
       </tuv>
     </tu>
     <tu>
@@ -20628,6 +20636,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T171105Z" creationid="olex" creationdate="20180727T171105Z">
         <seg>В дополнение к функциям навигации в строке состояния (описанным выше) вы можете использовать окно Навигатор и панель инструментов Навигация &lt;ts0/&gt;&lt;f1&gt;на &lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;&lt;/f5&gt;&lt;te6/&gt;панели инструментов &lt;tc7/&gt;Стандартная или на Боковой панели, как описано в Главе 1 Знакомство с LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the navigation features of the Status Bar (described above), you can use the Navigator window and the Navigation toolbar, from either the Standard toolbar or from the Sidebar, as described in Chapter 1, Introducing LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T175732Z" creationid="olex" creationdate="20180924T175732Z">
+        <seg>В дополнение к функциям навигации в строке состояния (описанным выше) вы можете использовать окно Навигатор и панель инструментов Навигация на панели инструментов Стандартная или на Боковой панели, как описано в Главе 1 Введение в LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32137,6 +32153,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Navigation toolbar (Figure &lt;t0&gt;5&lt;/t0&gt;), created from the down arrow of the Navigator window, shows buttons for all the object types shown in the Navigator.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T180041Z" creationid="olex" creationdate="20180924T180041Z">
+        <seg>Панель инструментов Навигация (Рисунок &lt;t0&gt;5&lt;/t0&gt;), созданная нажатием стрелки в окне Навигатор, отображает кнопки для всех типов объектов, отображаемых в Навигаторе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Navigation toolbar&lt;ts0/&gt; (Figure &lt;t1&gt;6&lt;/t1&gt;)&lt;te2/&gt;&lt;ts3/&gt;, &lt;f4&gt;created from the down &lt;/f4&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;arrow of the Navigator window&lt;/f7&gt;&lt;te8/&gt;&lt;tc9/&gt;&lt;tc10/&gt;&lt;ts11/&gt;, &lt;te12/&gt;&lt;tc13/&gt;shows buttons for all the object types shown in the Navigator, plus some extras (for example, the &lt;o14/&gt;&lt;f15&gt;Find&lt;/f15&gt; command&lt;ts16/&gt;&lt;o17/&gt;&lt;te18/&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T171703Z" creationid="olex" creationdate="20180727T171703Z">
@@ -39688,8 +39712,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>Web Layout view</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180924T174513Z" creationid="olex" creationdate="20180924T174513Z">
-        <seg>Вид Веб-страницы</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T175436Z" creationid="olex" creationdate="20180924T174513Z">
+        <seg>Веб-страница</seg>
       </tuv>
     </tu>
     <tu>
@@ -40236,6 +40260,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T183253Z" creationid="olex" creationdate="20180329T183253Z">
         <seg>Когда используется значок &lt;f5&gt;Sum&lt;/f5&gt;, Calc предлагает складывать диапазон, выделенный цветной рамкой, но не заканчивает операцию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the button is selected for a specific object type, clicking the &lt;f0&gt;Previous&lt;/f0&gt; and &lt;f1&gt;Next&lt;/f1&gt; buttons will jump to the previous or next occurrence of the object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180924T180414Z" creationid="olex" creationdate="20180924T180414Z">
+        <seg>Когда нажата кнопка для определенного типа объекта, нажатие кнопок &lt;f0&gt;Предыдущий&lt;/f0&gt; и &lt;f1&gt;Следующий&lt;/f1&gt; переведет фокус к предыдущему или следующему вхождению объекта этого типа.</seg>
       </tuv>
     </tu>
     <tu>
