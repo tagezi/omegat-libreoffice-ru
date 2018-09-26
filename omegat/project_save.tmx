@@ -6413,6 +6413,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, note that languages set with direct formatting will override languages set using styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T180235Z" creationid="olex" creationdate="20180926T180235Z">
+        <seg>Также обратите внимание, что языки, установленные с прямым форматированием, переопределяют языки, заданные с помощью стилей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, saving in ODF format enables you to re-save or modify the document if the recipient of your document experiences trouble with the Microsoft format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180924T181933Z" creationid="olex" creationdate="20180924T181933Z">
@@ -7666,6 +7674,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be careful when changing a language in character or paragraph styles, as this will change the language for all characters or paragraphs using that style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T180119Z" creationid="olex" creationdate="20180926T180119Z">
+        <seg>Будьте осторожны при изменении языка в стилях символов или абзацев, так как это изменит язык для всех символов или абзацев, использующих этот стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be careful when you configure an event handler.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T144841Z" creationid="tagezi" creationdate="20180320T144841Z">
@@ -8582,8 +8598,8 @@
       <tuv lang="EN-US">
         <seg>Changing the language for specific text enables you to use the correct dictionaries and rules to check spelling, grammar, and hyphenation.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180926T175531Z" creationid="olex" creationdate="20180926T175531Z">
-        <seg>Изменение языка для отдельного участка текста позволяет использовать правильные словари и правила для проверки орфографии, грамматики и переносов.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T175655Z" creationid="olex" creationdate="20180926T175531Z">
+        <seg>Изменение языка для определенного участка текста позволяет использовать правильные словари и правила для проверки орфографии, грамматики и переносов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20978,6 +20994,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the &lt;f1&gt;Default languages for documents&lt;/f1&gt; section, you can choose the language for all the text that is not explicitly marked as a different language.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T180935Z" creationid="olex" creationdate="20180926T180935Z">
+        <seg>В части &lt;f1&gt;Языки документов по умолчанию&lt;/f1&gt;, вы можете выбрать язык для всех участков текста, которым не назначен явно какой либо язык.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the &lt;f1&gt;Options&lt;/f1&gt; section of the page (Figure &lt;t2&gt;26&lt;/t2&gt;), choose the settings that are useful for you.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T183918Z" creationid="olex" creationdate="20180918T183918Z">
@@ -21854,8 +21878,8 @@ Denkin: все верно, есть такая настройка</note>
       <tuv lang="EN-US">
         <seg>It also applies the localized versions of Autocorrect replacement options and uses the appropriate thesaurus.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180926T175646Z" creationid="olex" creationdate="20180926T175646Z">
-        <seg>Он также применяет локализованные версии вариантов Автозамены и использует соответствующий тезаурус.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T175711Z" creationid="olex" creationdate="20180926T175646Z">
+        <seg>Оно также применяет локализованные версии вариантов Автозамены и использует соответствующий тезаурус.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22248,6 +22272,15 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T171047Z" creationid="olex" creationdate="20180730T171036Z">
         <seg>Может быть полезно включить язык в название &lt;/f2&gt;&lt;f3&gt;стиля.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>не по тексту, но зато по смыслу. надеюсь)</note>
+      <tuv lang="EN-US">
+        <seg>It may be useful to include the language in the name of the style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T180317Z" creationid="olex" creationdate="20180926T180222Z">
+        <seg>Возможно в таких случаях стоит включить в имя стиля название языка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28657,6 +28690,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the &lt;f0&gt;Writer Guide&lt;/f0&gt; for information on how to manage the language settings of a style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T180019Z" creationid="olex" creationdate="20180926T180019Z">
+        <seg>Смотрите &lt;f0&gt;Руководство по Writer&lt;/f0&gt; для получения информации о том, как управлять настройками языка в стиле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the &lt;f10&gt;Calc Guide Chapter 4 Using Styles and Templates in Calc&lt;/f10&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T173506Z" creationid="olex" creationdate="20180430T173506Z">
@@ -33465,10 +33506,26 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The language of a whole document can be set by using &lt;f0&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T180449Z" creationid="olex" creationdate="20180926T180449Z">
+        <seg>Язык для всего документа можно установить, используя &lt;f0&gt;Сервис &gt; Параметры &gt; Настройки языка &gt; Языки&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The language of the user interface is usually set at the time LibreOffice is installed to match the language of the operating system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T173107Z" creationid="olex" creationdate="20180712T173107Z">
         <seg>Язык пользовательского интерфейса обычно настраивается во время установки LibreOffice в соответствии с языком операционной системы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The language used at the location of the cursor is shown in the Status Bar, next to the page style in use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T175811Z" creationid="olex" creationdate="20180926T175811Z">
+        <seg>Язык, используемый в месте расположения курсора, отображается в строке состояния рядом с используемым стилем страницы.</seg>
       </tuv>
     </tu>
     <tu>
