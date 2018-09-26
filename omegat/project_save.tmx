@@ -10181,6 +10181,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;f1&gt;Find Next&lt;/f1&gt; or &lt;f2&gt;Find Previous&lt;/f2&gt; buttons as needed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T184422Z" creationid="olex" creationdate="20180926T184422Z">
+        <seg>Нажмите кнопку &lt;f1&gt;Следующее&lt;/f1&gt; или &lt;f2&gt;Предыдущее&lt;/f2&gt;, если необходимо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;f1&gt;From File&lt;/f1&gt; button to open a window from which to select the required document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T193103Z" creationid="olex" creationdate="20180310T193103Z">
@@ -13314,6 +13322,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Docked position of Find toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T184131Z" creationid="olex" creationdate="20180926T184131Z">
+        <seg>Рисунок &lt;seq0&gt;11&lt;/seq0&gt;: Панель Найти в закрепленном положении</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Getting more templates for LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T202342Z" creationid="olex" creationdate="20180311T202342Z">
@@ -13390,6 +13406,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T184535Z" creationid="olex" creationdate="20180405T184535Z">
         <seg>Рисунок &lt;seq0&gt;12&lt;/seq0&gt;: Выделить все</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Selective Search List.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T184949Z" creationid="olex" creationdate="20180926T184949Z">
+        <seg>Рисунок &lt;seq0&gt;12&lt;/seq0&gt;: Список выборочного поиска</seg>
       </tuv>
     </tu>
     <tu>
@@ -15752,6 +15776,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T182029Z" creationid="olex" creationdate="20180508T182029Z">
         <seg>Например, чтобы повторить строки 1 и 2, введите &lt;f1&gt;$1:$2&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, to search for something inside the document headings, select the &lt;f1&gt;Headings&lt;/f1&gt; entry in the menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T184920Z" creationid="olex" creationdate="20180926T184920Z">
+        <seg>Например, чтобы найти что-то внутри заголовков документа, выберите пункт &lt;f1&gt;Заголовки&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19039,6 +19071,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Find toolbar is not visible, you can display it by choosing &lt;f1&gt;View &gt; Toolbars &gt; Find&lt;/f1&gt; from the Menu bar or &lt;t2/&gt;by pressing &lt;f3&gt;Ctrl+F&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T184038Z" creationid="olex" creationdate="20180926T184038Z">
+        <seg>Если панель поиска не отображается, то вы можете отобразить ее, выбрав в меню &lt;f1&gt;Вид &gt; Панели инструментов &gt; Найти&lt;/f1&gt; или &lt;t2/&gt;нажав клавиши &lt;f3&gt;Ctrl+F&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Find toolbar is not visible, you can display it by choosing &lt;f4&gt;View &gt; Toolbars &gt; Find&lt;/f4&gt; from the Menu bar or by pressing &lt;f5&gt;Ctrl+F&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T181343Z" creationid="olex" creationdate="20180731T181343Z">
@@ -19051,6 +19091,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T173205Z" creationid="olex" creationdate="20180802T173205Z">
         <seg>Если панель Найти открыта, то нажмите кнопку Найти и заменить (&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;) &lt;ts5/&gt;&lt;f6&gt;справа от нее&lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Find toolbar is open, click the Find &amp; Replace button (&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;) to the right of it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T185236Z" creationid="olex" creationdate="20180926T185236Z">
+        <seg>Если открыта панель Найти, то нажмите кнопку Найти и заменить (&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;) в правой ее части.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27665,6 +27713,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refer to the Help files for guidance.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T185129Z" creationid="olex" creationdate="20180926T185129Z">
+        <seg>Для получения помощи обратитесь к Справке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refer to the Help files for guidance.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T172815Z" creationid="olex" creationdate="20180802T172815Z">
@@ -29222,6 +29278,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T182721Z" creationid="olex" creationdate="20180731T182721Z">
         <seg>Выберите &lt;f1&gt;Учитывать регистр&lt;/f1&gt;, чтобы найти только те экземпляры, &lt;ts2/&gt;&lt;f3&gt;которые соответствуют этому случаю&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f1&gt;Match Case&lt;/f1&gt; to find only the instances that also match the case.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T184537Z" creationid="olex" creationdate="20180926T184537Z">
+        <seg>Выберите &lt;f1&gt;Учитывать регистр&lt;/f1&gt;, чтобы найти только те экземпляры, которые точно соответствуют введеному.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37491,6 +37555,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To open the Find &amp; Replace dialog, select the button (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) &lt;s4/&gt;to the right of Match Case.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T184642Z" creationid="olex" creationdate="20180926T184642Z">
+        <seg>Чтобы открыть диалоговое окно Найти и заменить, нажмите кнопку (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) &lt;s4/&gt;справа от Учитывать регистр.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To open the Navigator, click the &lt;f0&gt;Navigator&lt;/f0&gt; icon on the Standard toolbar, or press the &lt;f1&gt;F5&lt;/f1&gt; key, or go to &lt;f2&gt;View &gt; Navigator&lt;/f2&gt; on the Menu bar,, &lt;f3&gt;or click on the Page Number/Count area of the Status Bar,&lt;/f3&gt; or click the Navigator icon in the Sidebar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T180455Z" creationid="olex" creationdate="20180621T180455Z">
@@ -37817,6 +37889,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T153108Z" creationid="olex" creationdate="20180630T153108Z">
         <seg>Чтобы сохранить изменения цвета в цветовой схеме &lt;i0/&gt;, нажмите &lt;f1&gt;Сохранить&lt;/f1&gt;, введите имя в поле &lt;f2&gt;Имя цветовой схемы&lt;/f2&gt;, а затем нажмите &lt;f3&gt;OK&lt;/f3&gt; ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To search in only specific types of content, click the &lt;f0&gt;Page&lt;/f0&gt; option in the Find toolbar and choose from the pop-up menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T184837Z" creationid="olex" creationdate="20180926T184837Z">
+        <seg>Чтобы искать только в содержимом определенного типа, нажмите кнопку &lt;f0&gt;Страница&lt;/f0&gt; на панели Найти и выберите тип из всплывающего списка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38258,6 +38338,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T173521Z" creationid="olex" creationdate="20180802T173521Z">
         <seg>Чтобы использовать диалоговое окно Найти и заменить:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To use the Find toolbar, click in the box and type your search text, then press &lt;f0&gt;Enter&lt;/f0&gt; to find the next occurrence of that term.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T184322Z" creationid="olex" creationdate="20180926T184322Z">
+        <seg>Чтобы использовать панель Найти, щелкните в поле и введите текст для поиска, а затем нажмите клавишу &lt;f0&gt;Enter&lt;/f0&gt;, чтобы найти местоположение этого термина.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45539,6 +45627,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T172536Z" creationid="olex" creationdate="20180802T172536Z">
         <seg>«Регулярные выражения» &lt;f0&gt; предлагают мощные способы поиска и замены текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>‘Regular expressions’ offer powerful ways to search and replace text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T185042Z" creationid="olex" creationdate="20180926T185042Z">
+        <seg>«Регулярные выражения» предлагают мощные способы поиска и замены текста.</seg>
       </tuv>
     </tu>
     <tu>
