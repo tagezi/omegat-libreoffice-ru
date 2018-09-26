@@ -6551,6 +6551,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, you can set the language for individual paragraphs and characters by selecting text or putting the cursor in a paragraph and changing the language on the Status Bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T181327Z" creationid="olex" creationdate="20180926T181327Z">
+        <seg>Кроме того, вы можете установить язык для отдельных абзацев и символов, выбрав текст или поместив курсор в абзац и изменив язык в строке состояния.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, you can use a shortcut to fill cells.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T141303Z" creationid="olex" creationdate="20180414T141303Z">
@@ -6611,6 +6619,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T183317Z" creationid="olex" creationdate="20180311T183137Z">
         <seg>Хотя диалоговое окно Сохранить как шаблон не отображает тип документа при сохранении нового шаблона любого типа, шаблон появится на правильной вкладке (Документы, Таблицы, Презентации, Рисунки) в диалоговом окне Шаблоны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although these methods are a type of direct formatting, they cannot be cleared by using “Clear Direct Formatting” &lt;s0/&gt;on the Format menu or by using Ctrl+M.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T181445Z" creationid="olex" creationdate="20180926T181445Z">
+        <seg>Хотя эти методы являются прямым форматированием, их нельзя очистить, используя «Очистить форматирование»&lt;s0/&gt; в меню Формат или нажатием клавиш Ctrl+M.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30212,6 +30228,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set the language for the whole document, for individual paragraphs, or even for individual words and characters, from &lt;f0&gt;Tools &gt; Language&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T181228Z" creationid="olex" creationdate="20180926T181228Z">
+        <seg>Задавайте язык для всего текста, для выделения или даже для отдельных слов и символов, в меню &lt;f0&gt;Сервис &gt; Язык&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set the margins, spacing, and height for the header or footer.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T191050Z" creationid="olex" creationdate="20180508T191050Z">
@@ -35650,6 +35674,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T173534Z" creationid="olex" creationdate="20180730T173534Z">
         <seg>Этот параметр особенно полезен &lt;f2&gt;для&lt;/f2&gt; текста, такого как веб-адрес или фрагменты языка программирования, для которых вы не хотите проверять правописание.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This option is especially useful for text such as web addresses or programming language snippets that you do not want to check for spelling.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T181717Z" creationid="olex" creationdate="20180926T181717Z">
+        <seg>Эта настройка особенно полезна для текста, такого как веб-адреса или фрагменты языка программирования, которые вы не хотите проверять на правописание.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42571,6 +42603,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T173346Z" creationid="olex" creationdate="20180730T173346Z">
         <seg>Вы можете установить язык для абзаца или группы символов как &lt;f0&gt;Нет (не проверять орфографию)&lt;/f0&gt;&lt;f1&gt;, используя любой из описанных выше методов&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can set the language for a paragraph or a group of characters as &lt;f0&gt;None (Do not check spelling) &lt;/f0&gt;using any of the methods described above.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180926T181550Z" creationid="olex" creationdate="20180926T181550Z">
+        <seg>Вы можете установить язык для абзаца или группы символов на &lt;f0&gt;Нет (не проверять орфографию)&lt;/f0&gt; с помощью любого из способов, описанных выше.</seg>
       </tuv>
     </tu>
     <tu>
