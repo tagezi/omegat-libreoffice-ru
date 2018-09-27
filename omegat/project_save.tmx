@@ -5853,6 +5853,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add a word to the dictionary</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T173827Z" creationid="olex" creationdate="20180927T173827Z">
+        <seg>Добавить слово в словарь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a word to the dictionary by clicking &lt;f0&gt;Add to Dictionary&lt;/f0&gt; in the Spelling dialog or in the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T173921Z" creationid="olex" creationdate="20180927T173839Z">
+        <seg>Добавьте слово в словарь, нажав кнопку &lt;f0&gt;Добавить в словарь&lt;/f0&gt; в диалоговом окне Проверка орфографии или в контекстном меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add any content that you want to appear in any document you create from the new template, for example company logo, copyright statement, and so on.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T181749Z" creationid="olex" creationdate="20180311T181749Z">
@@ -8428,6 +8444,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change &lt;i0/&gt;the dictionary language (for example, Spanish, French or German) in the Spelling dialog by selecting the appropriate language in the Text language drop-down list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T173843Z" creationid="olex" creationdate="20180927T173755Z">
+        <seg>Измените &lt;i0/&gt;словарь (например, на испанский, французский или немецкий) в диалоговом окне Проверка орфографии, выбрав соответствующий язык в раскрывающемся списке Язык текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change a style using the Style dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180320T192854Z" creationid="olex" creationdate="20180308T174607Z">
@@ -9136,6 +9160,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T180737Z" creationid="olex" creationdate="20180808T180737Z">
         <seg>Выберите категорию для записи Автотекста, например &lt;f0&gt;Мой автотекст&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose whether to check uppercase words or words that contain numbers, by clicking the &lt;f0&gt;Options&lt;/f0&gt; button on the Spelling and Grammar dialog to open a Writing Aids &lt;s1/&gt;dialog similar to the one in &lt;f2&gt;Tools &gt; Options &gt; Language Settings &gt; Writing Aids&lt;/f2&gt;, described in Chapter 2.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T174414Z" creationid="olex" creationdate="20180927T174414Z">
+        <seg>Выберите, следует ли проверять слова в верхнем регистре или слова, содержащие цифры, нажав кнопку &lt;f0&gt;Параметры&lt;/f0&gt; в диалоговом окне Проверка орфографии, чтобы открыть диалоговое окно Параметры &lt;s1/&gt;подобное окну Лингвистика в меню &lt;f2&gt;Сервис &gt; Параметры &gt; Настройки языка &gt; Лингвистика&lt;/f2&gt;, описанному в Главе 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10875,6 +10907,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180922T135331Z" creationid="olex" creationdate="20180723T171248Z">
         <seg>Создавайте или обновляйте стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create, edit, or delete dictionaries and edit words in the dictionary in the same Writing Aids dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T174547Z" creationid="olex" creationdate="20180927T174547Z">
+        <seg>Создайте, редактируйте или удаляйте словари и редактируйте слова в словаре в том же диалоговом окне Лингвистика.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23952,6 +23992,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manage custom dictionaries</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T174425Z" creationid="olex" creationdate="20180927T174425Z">
+        <seg>Управление пользовательскими словарями</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage&lt;ts0/&gt;&lt;f1&gt;s&lt;/f1&gt;&lt;te2/&gt; the styles used in the document&lt;ts3/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T182019Z" creationid="olex" creationdate="20180723T182019Z">
@@ -30444,6 +30492,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set paragraphs to be checked in a language (different from the rest of the document) using several methods—for example, by clicking on the Text Language field on the Status Bar or by creating paragraph styles for specific languages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T175603Z" creationid="olex" creationdate="20180927T175603Z">
+        <seg>Устанавливайте абзацы, которые будут проверяться на языке отличном от остальной части документа, используя несколько методов - например, щелкнув в поле Язык текста в строке состояния или создавая стили абзаца для определенных языков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set the &lt;f0&gt;Leading zeroes&lt;/f0&gt; value box to &lt;f1&gt;4&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T182841Z" creationid="olex" creationdate="20180411T182841Z">
@@ -34861,6 +34917,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180921T202756Z" creationid="olex" creationdate="20180921T202756Z">
         <seg>Количество слов и символов в документе отображается в строке состояния и при редактировании постоянно обновляется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The word will be added to the Standard dictionary, unless you have created another dictionary in the same language.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T173954Z" creationid="olex" creationdate="20180927T173954Z">
+        <seg>Слово будет добавлено в стандартный словарь, если только вы не создали другой словарь для этого языка.</seg>
       </tuv>
     </tu>
     <tu>
