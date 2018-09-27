@@ -29162,6 +29162,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See “Using built-in language tools” on Page &lt;f0&gt;&lt;bf1&gt;13&lt;/bf1&gt;&lt;/f0&gt;&lt;s2/&gt;or refer to the &lt;f3&gt;Writer Guide&lt;/f3&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T180414Z" creationid="olex" creationdate="20180927T180414Z">
+        <seg>Дополнительную информацию смотрите в разделе “Использование встроенных языковых инструментов” на странице &lt;f0&gt;&lt;bf1&gt;13&lt;/bf1&gt;&lt;/f0&gt;&lt;s2/&gt;или обратитесь к &lt;f3&gt;Руководству по Writer&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See&lt;ts14/&gt; “&lt;f15&gt;Using built-in language tools&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt;” on Page &lt;/f18&gt;&lt;te19/&gt;&lt;ts20/&gt;&lt;f21&gt;&lt;bf22&gt;14&lt;/bf22&gt;&lt;/f21&gt;&lt;te23/&gt;&lt;s24/&gt;&lt;tc25/&gt;&lt;ts26/&gt;&lt;f27&gt;or &lt;/f27&gt;&lt;te28/&gt;&lt;ts29/&gt;&lt;f30&gt;refer to &lt;/f30&gt;&lt;te31/&gt;the &lt;f32&gt;Writer Guide&lt;/f32&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T180602Z" creationid="olex" creationdate="20180805T180602Z">
@@ -29534,6 +29542,15 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T134017Z" creationid="tagezi" creationdate="20180312T134017Z">
         <seg>Выберите макрос, а затем нажмите &lt;f0&gt;Выполнить&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>У меня в ЛО нет таких пунктов</note>
+      <tuv lang="EN-US">
+        <seg>Select additional grammar checking rules through &lt;f0&gt;Tools &gt; Options &gt; Language Settings &gt; English sentence checking&lt;/f0&gt;, or through &lt;f1&gt;Tools &gt; Extension Manager &gt; English spelling dictionaries &gt; Options&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T181110Z" creationid="olex" creationdate="20180927T181110Z">
+        <seg>Выберите дополнительные правила проверки грамматики с помощью &lt;f0&gt;Сервис &gt; Параметры &gt; Настройки языка &gt; Проверка английских предложений&lt;/f0&gt;, или с помощью &lt;f1&gt;Сервис &gt; Управление расширениями &gt; Английские словари &gt; Параметры&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
