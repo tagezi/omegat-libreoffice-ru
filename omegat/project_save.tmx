@@ -3344,6 +3344,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;When highlighted, the Automatic Spell Checking&lt;/f0&gt; option on the Tools menu checks each word as it is typed and displays a wavy red line under any unrecognized words.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T172538Z" creationid="olex" creationdate="20180927T172538Z">
+        <seg>&lt;f0&gt;Когда активен параметр Автоматическая проверка орфографии&lt;/f0&gt; в меню Сервис, то каждое слово проверяется при вводе и под любым неопознанным словом отображается красная волнистая линия.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;When s&lt;/f0&gt;aving &lt;f1&gt;documents &lt;/f1&gt;as &lt;f2&gt;files types &lt;/f2&gt;other than &lt;f3&gt;ODF, try to keep them as simple as possible.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T180440Z" creationid="olex" creationdate="20180727T180440Z">
@@ -19263,6 +19271,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the list does not contain the word you want, click &lt;f1&gt;Spelling &lt;/f1&gt;to open a dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T172923Z" creationid="olex" creationdate="20180927T172602Z">
+        <seg>Если в списке нет подходящего слова, то нажмите &lt;f1&gt;Проверка орфографии&lt;/f1&gt;, чтобы открыть диалоговое окно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the locale setting is changed, the default currency changes automatically.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T174205Z" creationid="olex" creationdate="20180712T174205Z">
@@ -28267,8 +28283,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Right-click on an unrecognized word to open a context menu.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180804T180717Z" creationid="olex" creationdate="20180804T180717Z">
-        <seg>Щелкните правой кнопкой мыши по нераспознанному слову, чтобы открыть контекстное меню.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T172609Z" creationid="olex" creationdate="20180804T180717Z">
+        <seg>Щелкните правой кнопкой мыши по неопознанному слову, чтобы открыть контекстное меню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33618,6 +33634,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The grammar checker in combination with the spelling checker.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T172351Z" creationid="olex" creationdate="20180927T172351Z">
+        <seg>Проверка грамматики в сочетании с проверкой орфографии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The gray sections of the rulers are the margins.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T124636Z" creationid="olex" creationdate="20180818T124636Z">
@@ -37719,6 +37743,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T181813Z" creationid="olex" creationdate="20180804T181813Z">
         <seg>Чтобы выполнить комбинированную проверку орфографии и грамматики документа (или выбранного текста), нажмите кнопку &lt;ts0/&gt;&lt;f1&gt;Проверить &lt;/f1&gt;&lt;te2/&gt;&lt;f3&gt;орфографию&lt;/f3&gt;&lt;tc4/&gt;&lt;tc5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;te10/&gt; на панели инструментов Стандартная, или выберите &lt;f11&gt;Сервис &gt; Проверка орфографии...&lt;/f11&gt;&lt;tc12/&gt;&lt;tc13/&gt;&lt;ts14/&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;te16/&gt; При этом запустится проверка документа или выбранного текста и, если будут найдены нераспознанные слова, то откроется диалоговое окно Проверка орфографии&lt;tc17/&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To perform a combined spelling and grammar check on the document (or a text selection), click the Check &lt;f0&gt;Spelling bu&lt;/f0&gt;tton on the Standard toolbar, or choose &lt;f1&gt;Tools &gt; Spelling.&lt;/f1&gt; This checks the document or selection and opens the Spelling dialog if any unrecognized words are found.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T173422Z" creationid="olex" creationdate="20180927T173422Z">
+        <seg>Чтобы выполнить комбинированную проверку орфографии и грамматики в документе (или в выбранном тексте), нажмите кнопку &lt;f0&gt;Проверить орфографию&lt;/f0&gt; на панели инструментов Стандартная, или выберите в меню &lt;f1&gt;Сервис &gt; Проверка орфографии...&lt;/f1&gt;. Это действие запустит проверку орфографии в документе или выбранном тексте и запустит диалоговое окно Проверка орфографии, если будут обнаружены какие-либо неопознанные слова.</seg>
       </tuv>
     </tu>
     <tu>
