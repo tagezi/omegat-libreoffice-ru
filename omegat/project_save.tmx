@@ -4076,6 +4076,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;Select the dictionary and click &lt;/f0&gt;&lt;f2&gt;Edit&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T181504Z" creationid="olex" creationdate="20180927T181504Z">
+        <seg>&lt;s1/&gt;Выберите словарь и нажмите &lt;/f0&gt;&lt;f2&gt;Правка&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s1/&gt;The second difference is the inclusion of &lt;f2&gt;Field Buttons&lt;/f2&gt;; graphical elements which allow you to filter the content of the pivot table from within the pivot chart itself, which is a useful time-saver if your pivot table and pivot chart are contained on different sheets.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T191707Z" creationid="olex" creationdate="20180507T191707Z">
@@ -5528,6 +5536,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T182249Z" creationid="olex" creationdate="20180805T182249Z">
         <seg>Новая функция в LibreOffice 6.0 - &lt;te0/&gt;&lt;ts1/&gt;&lt;f2&gt;Проверка грамматики с орфографией&lt;/f2&gt;&lt;te3/&gt;&lt;ts4/&gt;&lt;f5&gt; &lt;/f5&gt;&lt;te6/&gt;&lt;ts7/&gt;&lt;f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A new feature in LibreOffice 6.0 is “&lt;f0&gt;Grammar by” spelling checking.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T181219Z" creationid="olex" creationdate="20180927T181219Z">
+        <seg>Новая функция в LibreOffice 6.0 - “&lt;f0&gt;Грамматика с” проверкой орфографии.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7165,6 +7181,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T182908Z" creationid="olex" creationdate="20180805T182413Z">
         <seg>Например, вариации слова «мотоцикл» &lt;/f8&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;—&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;&lt;f15&gt; мотоциклы, мотоциклов, мотоциклист&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt;и т.д. — &lt;/f18&gt;&lt;te19/&gt;&lt;ts20/&gt;&lt;f21&gt;будут приняты, без необходимости вводить каждое из них по отдельности..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As an example, variations of the word “motorcycle”—motorcycles, motorcycled, motorcycling, motorcyclist, etc.— would all be accepted, without having to enter each of them individually.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T181415Z" creationid="olex" creationdate="20180927T181415Z">
+        <seg>Например, вариации слова «мотоцикл» - мотоциклы, мотоциклов, мотоциклах, мотоциклист и т.д. будут приняты, без ввода каждого из них по отдельности.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22416,6 +22440,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180922T141549Z" creationid="olex" creationdate="20180922T141549Z">
         <seg>Они собраны в четыре группы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is particularly helpful for new words or specialized &lt;s1/&gt;words that are unlikely to have all variations in the dictionary.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T181242Z" creationid="olex" creationdate="20180927T181242Z">
+        <seg>Это особенно полезно для новых слов или специализированных слов&lt;s1/&gt;, которые вряд ли будут иметь все варианты в словаре.</seg>
       </tuv>
     </tu>
     <tu>
