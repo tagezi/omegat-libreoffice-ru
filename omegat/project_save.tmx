@@ -7409,6 +7409,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AutoCorrect is turned on by default.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T182106Z" creationid="olex" creationdate="20180927T182106Z">
+        <seg>Автозамена включена по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AutoCorrection</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180921T202157Z" creationid="olex" creationdate="20180921T202157Z">
@@ -13706,6 +13714,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Word completion tab in AutoCorrect dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T182428Z" creationid="olex" creationdate="20180927T182428Z">
+        <seg>Рисунок &lt;seq0&gt;15&lt;/seq0&gt;: Вкладка Завершение слов в диалоговом окне Автозамена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: &lt;f1&gt;Choosing a Java runtime environment&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T180745Z" creationid="olex" creationdate="20180918T180745Z">
@@ -15928,6 +15944,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T190726Z" creationid="olex" creationdate="20180805T190726Z">
         <seg>Например, введите &lt;f0&gt;:smiling:&lt;/f0&gt; и Автозамена поменяет его &lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;на&lt;/f3&gt;&lt;te4/&gt; ☺.&lt;ts5/&gt; &lt;f6&gt;Или&lt;/f6&gt;, (c) будет заменено на ©.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, type &lt;f0&gt;:smiling:&lt;/f0&gt; and AutoCorrect will replace it with ☺.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T182235Z" creationid="olex" creationdate="20180927T182235Z">
+        <seg>Например, напечатайте &lt;f0&gt;:smiling:&lt;/f0&gt; (улыбается) и Автозамена поменяет слово на ☺.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19443,6 +19467,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T184723Z" creationid="olex" creationdate="20180805T184723Z">
         <seg>Если эти средства недоступны для вашего языка, подумайте о присоединении к проекту LibreOffice, чтобы помочь вашему языковому сообществу &lt;ts3/&gt;&lt;f4&gt;их развивать&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If these aids are not available for your language, consider joining the LibreOffice project to help your language community develop them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T182038Z" creationid="olex" creationdate="20180927T182038Z">
+        <seg>Если для вашего языка эти средства недоступны, то подумайте о присоединении к проекту LibreOffice, чтобы помочь развивать их вашему языковому сообществу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26711,10 +26743,26 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Options for customizing word completion from the &lt;f0&gt;Word Completion&lt;/f0&gt; page of the AutoCorrect dialog include:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T182536Z" creationid="olex" creationdate="20180927T182536Z">
+        <seg>Параметры настройки завершения слов на вкладке &lt;f0&gt;Завершение слов&lt;/f0&gt; диалогового окна Автозамена включают в себя:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Options for sender and recipient information (business fax)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T184324Z" creationid="olex" creationdate="20180311T184324Z">
         <seg>Реквизиты отправителя и получателя (деловой факс)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or, (c) will be changed to ©.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T182334Z" creationid="olex" creationdate="20180927T182334Z">
+        <seg>Или (c) будет изменено на ©.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29006,6 +29054,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180926T180019Z" creationid="olex" creationdate="20180926T180019Z">
         <seg>Смотрите &lt;f0&gt;Руководство по Writer&lt;/f0&gt; для получения информации о том, как управлять настройками языка в стиле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the &lt;f0&gt;Writer Guide&lt;/f0&gt; for more information about the spelling and grammar checking options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T181914Z" creationid="olex" creationdate="20180927T181914Z">
+        <seg>Смотрите &lt;f0&gt;Руководство по Writer&lt;/f0&gt; для получения дополнительной информации про параметры проверки орфографии и грамматики.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34841,6 +34897,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The thesaurus and synonyms are writing aids provided by language communities.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T181934Z" creationid="olex" creationdate="20180927T181934Z">
+        <seg>Тезаурус и синонимы - это справочные материалы, предоставляемые языковыми сообществами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The thesaurus gives a more extensive list of alternative words and phrases.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T184353Z" creationid="olex" creationdate="20180805T184353Z">
@@ -35031,6 +35095,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T183651Z" creationid="olex" creationdate="20180805T183651Z">
         <seg>Затем введите базовое слово в поле &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Слово&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; и введите слово в поле  &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Грамматика&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; которое является вариантом написания базового слова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then enter the base word in the &lt;f3&gt;Word&lt;/f3&gt; field and enter a word in the &lt;f4&gt;Grammar by&lt;/f4&gt; field that that has the same variations as the base word.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T181756Z" creationid="olex" creationdate="20180927T181756Z">
+        <seg>Затем введите базовое слово в поле &lt;f3&gt;Слово&lt;/f3&gt; и введите в поле &lt;f4&gt;Грамматика&lt;/f4&gt; слово, которое является вариантом базового слова.</seg>
       </tuv>
     </tu>
     <tu>
