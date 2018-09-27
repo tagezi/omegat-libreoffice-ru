@@ -8828,6 +8828,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characters previously selected for insertion are shown in the lower left of the dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T170644Z" creationid="olex" creationdate="20180927T170644Z">
+        <seg>Символы, ранее выбираемые для вставки, отображаются в левом нижнем углу диалогового окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chart Add-Ins with new chart types</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T184359Z" creationid="tagezi" creationdate="20180320T184359Z">
@@ -9016,6 +9024,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T175649Z" creationid="olex" creationdate="20180802T175649Z">
         <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Специальные символы...&lt;/f0&gt; &lt;tc1/&gt;&lt;s2/&gt;чтобы открыть диалоговое окно Выбор символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose &lt;f0&gt;Insert &gt; Special Character&lt;/f0&gt; or click on the Special Character icon in the main toolbar to open the Special Characters dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T170524Z" creationid="olex" creationdate="20180927T170524Z">
+        <seg>Выберите в меню &lt;f0&gt;Вставить &gt; Специальные символы...&lt;/f0&gt; или щелкните значок Вставить специальный символ на панели инструментов Стандартная, чтобы открыть диалоговое окно Выбор символа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11735,6 +11751,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Different fonts have their own distinct special characters.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T171023Z" creationid="olex" creationdate="20180927T171023Z">
+        <seg>В различных наборах шрифтов есть свои собственные специальные символы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Different from the command &lt;f0&gt;Save as&lt;/f0&gt;, LibreOffice uses the term “export” to create a new file with another format without leaving the current content and file format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T205532Z" creationid="tagezi" creationdate="20180304T205532Z">
@@ -13534,6 +13558,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T151753Z" creationid="olex" creationdate="20180630T151753Z">
         <seg>Рисунок &lt;seq0&gt;14&lt;/seq0&gt;: Пример персональной темы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: The Special Characters insert dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T171230Z" creationid="olex" creationdate="20180927T171230Z">
+        <seg>Рисунок &lt;seq0&gt;14&lt;/seq0&gt;: Диалоговое окно Выбор символа</seg>
       </tuv>
     </tu>
     <tu>
@@ -19675,6 +19707,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T223225Z" creationid="olex" creationdate="20180407T223143Z">
         <seg>Если вы не введете имя, то Calc создает имя по умолчанию (Лист 2, Лист 3 и т.д.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do not find a particular special character, try changing the &lt;f0&gt;Font&lt;/f0&gt; selection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T171117Z" creationid="olex" creationdate="20180927T171117Z">
+        <seg>Если вы не найдете необходимый вам специальный символ, то попробуйте изменить &lt;f0&gt;Шрифт&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32626,6 +32666,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Special Characters dialog ( Figure &lt;f0&gt;&lt;t1&gt;14&lt;/t1&gt;&lt;/f0&gt;) includes areas to select &lt;f2&gt;Recent&lt;/f2&gt; and &lt;f3&gt;Favorite Characters&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T170858Z" creationid="olex" creationdate="20180927T170858Z">
+        <seg>Диалоговое окно Выбор символа (Рисунок &lt;f0&gt;&lt;t1&gt;14&lt;/t1&gt;&lt;/f0&gt;) включает разделы для выбора &lt;f2&gt;Недавних символов&lt;/f2&gt; и &lt;f3&gt;Избранных символов&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Standard library and Template library, however, are automatically loaded.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T105244Z" creationid="tagezi" creationdate="20180320T105244Z">
@@ -36235,6 +36283,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T180632Z" creationid="olex" creationdate="20180802T180632Z">
         <seg>Чтобы добавить новый символ в &lt;te8/&gt;&lt;ts9/&gt;Избранные символы, нажмите на символ и &lt;te10/&gt;&lt;ts11/&gt;нажмите кнопку &lt;f12&gt;Добавить в избранное&lt;/f12&gt;&lt;te13/&gt;&lt;ts14/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To add a new character to the Favorite Characters, click on a character and click the &lt;f4&gt;Add to Favorites&lt;/f4&gt; button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T170951Z" creationid="olex" creationdate="20180927T170951Z">
+        <seg>Чтобы добавить новый символ в Избранные, нажмите на этот символ и нажмите кнопку &lt;f4&gt;Добавить в избранное&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
