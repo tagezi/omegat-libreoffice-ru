@@ -3963,6 +3963,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;The spelling checker determines if each word in the document is in the installed dictionary.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T172335Z" creationid="olex" creationdate="20180927T172335Z">
+        <seg>&lt;s0/&gt;Проверка орфографии определяет дла каждого слова в документе: находится ли оно в установленном словаре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0/&gt;This can be handy when multiple people have access to the spreadsheet itself, but for various reasons only a few can be allowed to modify the data it contains.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T192726Z" creationid="olex" creationdate="20180502T192726Z">
@@ -7976,6 +7984,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T175804Z" creationid="olex" creationdate="20180804T175804Z">
         <seg>По умолчанию &lt;f0&gt;для каждого языка&lt;/f0&gt; установлено четыре словаря: проверка орфографии, средство проверки грамматики, словарь переносов и тезаурус &lt;f1&gt;(при условии, что он доступен для этого языка)&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, four dictionaries are installed for each language: a spelling checker, a grammar checker, a hyphenation dictionary, and a thesaurus (assuming it is available for that language).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T172222Z" creationid="olex" creationdate="20180927T172222Z">
+        <seg>По умолчанию для каждого языка установлены четыре словаря: для проверки орфографии, для проверки грамматики, словарь переносов и тезаурус (если он доступен для этого языка).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16463,6 +16479,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T170525Z" creationid="olex" creationdate="20180804T170525Z">
         <seg>Другие способы вставки тире смотрите в &lt;tc0/&gt;&lt;f1&gt;Руководстве по Writer&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For other methods of inserting dashes, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T172025Z" creationid="olex" creationdate="20180927T172025Z">
+        <seg>Другие способы вставки тире смотрите в &lt;f0&gt;Руководстве по Writer&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37143,6 +37167,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T170236Z" creationid="olex" creationdate="20180804T164039Z">
         <seg>Чтобы ввести короткое или &lt;i0/&gt; длинное тире, вы можете использовать опцию &lt;f1&gt;Заменять дефисы на тире&lt;/f1&gt; во вкладке Параметры в &lt;f2&gt;Сервис &gt; &lt;/f2&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;f5&gt;Автозамена &gt;&lt;/f5&gt;&lt;/f4&gt;&lt;te6/&gt;&lt;f7&gt;Параметры автозамены...&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To enter en and &lt;i0/&gt;em dashes, you can use the &lt;f1&gt;Replace dashes&lt;/f1&gt; option on the Options tab under &lt;f2&gt;Tools &gt; AutoCorrect &gt;AutoCorrect Options&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T171907Z" creationid="olex" creationdate="20180927T171907Z">
+        <seg>Чтобы ввести короткое и длинное тире&lt;i0/&gt;, выможете использовать параметр &lt;f1&gt;Заменять дефисы на тире&lt;/f1&gt; во разделе &lt;f2&gt;Сервис &gt; Автозамена &gt; Параметры автозамены...&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
