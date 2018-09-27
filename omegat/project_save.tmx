@@ -7249,6 +7249,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you add words when working on documents, you can either save them for later use in other documents or select the option to remove them from the list when closing documents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T182720Z" creationid="olex" creationdate="20180927T182720Z">
+        <seg>Когда вы добавляете слова при работе с документами, то вы можете сохранить их для последующего использования в других документах или выбрать вариант удаления их из списка при закрытии документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you create your macros, you must decide where to store them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T104055Z" creationid="tagezi" creationdate="20180320T104055Z">
@@ -7483,8 +7491,8 @@
       <tuv lang="EN-US">
         <seg>AutoText is especially powerful when assigned to fields.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180808T181706Z" creationid="olex" creationdate="20180808T181706Z">
-        <seg>AutoText особенно эффективен при назначении полей.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T183312Z" creationid="olex" creationdate="20180808T181706Z">
+        <seg>Автотекст особенно эффективен при назначении полей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10137,6 +10145,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T204320Z" creationid="olex" creationdate="20180313T204320Z">
         <seg>Нажмите кнопку &lt;f0&gt;Настройки&lt;/f0&gt; внизу слева в диалоговом окне Шаблоны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;AutoText&lt;/f0&gt; button at the bottom of the dialog and select from the menu either &lt;f1&gt;New,&lt;/f1&gt; to have the AutoText retain specific formatting, no matter where it is inserted, or &lt;f2&gt;New (text only),&lt;/f2&gt; to have the AutoText take on the existing formatting around the insertion point.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T183030Z" creationid="olex" creationdate="20180927T183030Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Автотекст&lt;/f0&gt; в нижней части диалогового окна и выберите из меню или &lt;f1&gt; Создать&lt;/f1&gt;, чтобы Автотекст сохранял определенное форматирование, независимо от того, где он вставлен, или &lt;f2&gt;Создать (только текст)&lt;/f2&gt;, чтобы Автотекст использовал существующее форматирование точки вставки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29062,6 +29078,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180927T181914Z" creationid="olex" creationdate="20180927T181914Z">
         <seg>Смотрите &lt;f0&gt;Руководство по Writer&lt;/f0&gt; для получения дополнительной информации про параметры проверки орфографии и грамматики.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the &lt;f0&gt;Writer Guide&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180927T183051Z" creationid="olex" creationdate="20180927T183051Z">
+        <seg>Смотрите &lt;f0&gt;Руководство по Writer&lt;/f0&gt; для получения дополнительной информации.</seg>
       </tuv>
     </tu>
     <tu>
