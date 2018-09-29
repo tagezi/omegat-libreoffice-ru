@@ -4068,6 +4068,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;It is recommended to use them together in these ways:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T080114Z" creationid="olex" creationdate="20180929T080114Z">
+        <seg>&lt;s1/&gt;Рекомендуется использовать их следующим образом:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s1/&gt;Select the dictionary and click &lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Edit&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T183109Z" creationid="olex" creationdate="20180805T183109Z">
@@ -18785,8 +18793,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>However, these styles do not include options for settings such as the type of bullet or position of numbers.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180929T080019Z" creationid="olex" creationdate="20180929T080019Z">
-        <seg>Однако эти стили не включают параметры для таких настроек, как тип маркера или позиция нумерации.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T080043Z" creationid="olex" creationdate="20180929T080019Z">
+        <seg>Однако эти стили не включают параметры для таких настроек, как тип маркера или нумерации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36488,6 +36496,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Those settings come from list styles, which are a different type of style than paragraph styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T080059Z" creationid="olex" creationdate="20180929T080059Z">
+        <seg>Эти настройки относятся к стилям списка, которые отличаются от стилей абзацев.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thousands separation of large numbers</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T101523Z" creationid="olex" creationdate="20180715T101523Z">
@@ -39642,6 +39658,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T144926Z" creationid="olex" creationdate="20180414T144926Z">
         <seg>Использует числа, даты или время.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use paragraph styles &lt;f0&gt;List 1, List &lt;s1/&gt;2, List 3, etc. &lt;/f0&gt;for creating bulleted lists.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T081111Z" creationid="olex" creationdate="20180929T081111Z">
+        <seg>Используйте стили абзаца &lt;f0&gt;Маркированный список 1, Маркированный список &lt;s1/&gt;2, Маркированный список 3, и так далее &lt;/f0&gt;для создания маркированных списков.</seg>
       </tuv>
     </tu>
     <tu>
