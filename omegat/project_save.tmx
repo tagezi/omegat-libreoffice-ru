@@ -4180,6 +4180,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s2/&gt;Or, alternatively, place your cursor in the table to be formatted and double click on a style listed in the &lt;/f1&gt;&lt;f3&gt;Table Styles&lt;/f3&gt; tab of the sidebar &lt;f4&gt;Styles &lt;/f4&gt;&lt;f5&gt;deck.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T075347Z" creationid="olex" creationdate="20180929T075238Z">
+        <seg>&lt;s2/&gt;Или по другому, поместите курсор в таблицу для форматирования и дважды щелкните по стилю, указанному во вкладке &lt;/f1&gt;&lt;f3&gt;Стили таблиц&lt;/f3&gt;, вкладки &lt;f4&gt;Стили&lt;/f4&gt;&lt;f5&gt; на Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s2/&gt;Or, alternatively, position the cursor in the table to be formatted and double click on a style listed in the &lt;f3&gt;Table Styles&lt;/f3&gt; tab of the &lt;f4&gt;Styles&lt;/f4&gt; menu or the &lt;f5&gt;sidebar&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T204929Z" creationid="olex" creationdate="20180316T204929Z">
@@ -4288,6 +4296,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T122248Z" creationid="olex" creationdate="20180715T122248Z">
         <seg>&lt;s6/&gt;Любые расширения или параметры настроек, которые вы установили ранее, должны быть перенастроены для использования, учитывая, что любые изменения, внесенные во временный профиль пользователя, будут потеряны после &lt;/f5&gt;&lt;f7&gt;перезапуска программы&lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s6/&gt;For more information refer to the &lt;/f5&gt;&lt;f7&gt;LibreOffice Writer Guide.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T075320Z" creationid="olex" creationdate="20180929T075320Z">
+        <seg>&lt;s6/&gt;Для получения дополнительной информации смотрите &lt;/f5&gt;&lt;f7&gt;руководство по LibreOffice Writer.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18767,6 +18783,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, these styles do not include options for settings such as the type of bullet or position of numbers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T080019Z" creationid="olex" creationdate="20180929T080019Z">
+        <seg>Однако эти стили не включают параметры для таких настроек, как тип маркера или позиция нумерации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, they &lt;tc10/&gt;have major differences:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180823T180652Z" creationid="olex" creationdate="20180823T180652Z">
@@ -22837,6 +22861,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just as direct paragraph formatting overrides the current paragraph style, applying direct character formatting to characters overrides the current character style formatting.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T074656Z" creationid="olex" creationdate="20180929T074656Z">
+        <seg>Так же, как прямое форматирование абзаца отменяет текущий стиль абзаца, применение прямого форматирования к символам переопределяет текущий стиль символов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Just as it makes good sense to give your libraries meaningful names, it is prudent to use meaningful names for your modules.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103954Z" creationid="tagezi" creationdate="20180320T103954Z">
@@ -25622,6 +25654,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180922T132247Z" creationid="olex" creationdate="20180922T132247Z">
         <seg>Обратите внимание, что значок не изменяется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that the line is actually the lower border of the preceding paragraph.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T075615Z" creationid="olex" creationdate="20180929T075615Z">
+        <seg>Обратите внимание, что линия на самом деле является нижней границей предыдущего абзаца.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32034,6 +32074,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tables in a Writer document share the same sets of formatting elements as the spreadsheets in LibreOffice Calc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T074749Z" creationid="olex" creationdate="20180929T074749Z">
+        <seg>Таблицы в документе Writer используют те же элементы форматирования, что и электронные таблицы в LibreOffice Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technical details about the release can be found in the change logs: &lt;a0&gt;https://wiki.documentfoundation.org/Releases/5.4.6/RC1&lt;/a0&gt; (fixed in RC1) and &lt;a1&gt;https://wiki.documentfoundation.org/Releases/5.4.6/RC2&lt;/a1&gt; (fixed in RC2).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T052056Z" creationid="tagezi" creationdate="20180321T052056Z">
@@ -32663,6 +32711,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T194255Z" creationid="olex" creationdate="20180711T194255Z">
         <seg>Фильтр HTML поддерживает CSS2 (каскадные таблицы стилей 2 уровня) для печати документов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Help describes each of these choices.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T075853Z" creationid="olex" creationdate="20180929T075853Z">
+        <seg>Справка описывает каждый из этих вариантов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36835,6 +36891,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To apply table styles, place your cursor in the table to be formatted and choose &lt;f0&gt;Table &gt; Autoformat Styles&lt;/f0&gt;&lt;f1&gt; in the main menu and select a style from the dialog that appears.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T075001Z" creationid="olex" creationdate="20180929T075001Z">
+        <seg>Чтобы применить стили таблиц, поместите курсор в таблицу для форматирования, выберите в меню &lt;f0&gt;Таблица &gt; Стили автоформата...&lt;/f0&gt; &lt;f1&gt;и выберите стиль в появившемся диалоговом окне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To apply table styles, position the cursor in the table to be formatted and choose &lt;f1&gt;Table &gt; AutoFormat Styles&lt;/f1&gt; in the main menu and select a style from the dialog that appears.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T204224Z" creationid="olex" creationdate="20180316T204224Z">
@@ -38707,6 +38771,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T190516Z" creationid="olex" creationdate="20180805T190516Z">
         <seg>Чтобы отключить Автозамену, снимите флажок в меню &lt;f0&gt;Сервис &gt; Автозамена &gt; При вводе&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To turn AutoCorrect on or off, choose &lt;f0&gt;Format &gt; AutoCorrect&lt;/f0&gt; and select or deselect the items on the list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T075915Z" creationid="olex" creationdate="20180929T075807Z">
+        <seg>Чтобы включить или выключить Автозамену, выберите &lt;f0&gt;Сервис &gt; Автозамена&lt;/f0&gt; и выберите или отмените выбор необходимого пункта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43341,6 +43413,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T154258Z" creationid="olex" creationdate="20180811T154258Z">
         <seg>Вы можете настроить Writer на автоматическое форматирование &lt;ts0/&gt;&lt;f1&gt;или исправление &lt;/f1&gt;&lt;te2/&gt;частей документа&lt;ts3/&gt; &lt;f4&gt;в соответствии с&lt;/f4&gt;&lt;te5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;/f7&gt;&lt;te8/&gt; настройками, сделанными на странице Параметры диалогового окна Автозамена (&lt;f9&gt;Сервис &gt; Автозамена &gt; Параметры автозамены...&lt;/f9&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can set Writer to format or correct parts of a document automatically as you type, according to the choices made on the Options page of the AutoCorrect dialog (&lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T075538Z" creationid="olex" creationdate="20180929T075538Z">
+        <seg>Вы можете настроить Writer на автоматическое форматирование или исправление частей документа в соответствии с выбором на странице Параметры диалогового окна Автозамена (&lt;f0&gt;Сервис &gt; Автозамена &gt; Параметры автозамены...&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
