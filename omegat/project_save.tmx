@@ -4076,6 +4076,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;Rather, they are turned off or removed from selected text by toggling the Bullets and Numbering buttons on the Formatting bar or on the Sidebar’s Properties deck.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T083139Z" creationid="olex" creationdate="20180929T083139Z">
+        <seg>&lt;s1/&gt;Они могут быть отключены или удалены из выделенного текста, нажатием кнопок Маркированный список и Нумерованный список на панели инструментов Форматирование или во вкладке Свойства на Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s1/&gt;Select the dictionary and click &lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Edit&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T183109Z" creationid="olex" creationdate="20180805T183109Z">
@@ -7971,10 +7979,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bullets and numbering applied in these ways cannot be removed with the command “clear direct formatting” on the Format menu or by using &lt;f0&gt;Ctrl + M&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T082958Z" creationid="olex" creationdate="20180929T082958Z">
+        <seg>Маркеры и нумерация, применяемые этими способами, не могут быть удалены с помощью команды Очистить форматирование в меню Формат или с помощью сочетания клавиш &lt;f0&gt;Ctrl+M&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bullets and numbering can be applied to already selected text or they can be applied as you type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T082853Z" creationid="olex" creationdate="20180929T082826Z">
+        <seg>Маркеры и нумерация могут быть применены к выбранному тексту или могут применяться при вводе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bullets and numbers can be manuaIly applied in three basic ways:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T170312Z" creationid="olex" creationdate="20180811T170312Z">
         <seg>Маркеры и нумерация могут применяться вручную тремя способами:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bullets and numbers can be manually applied in three basic ways:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T082601Z" creationid="olex" creationdate="20180929T082601Z">
+        <seg>Маркеры и нумерацию можно применять вручную тремя способами:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26342,6 +26374,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you have set up nested lists, you can readily change the hierarchy of an item.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T082318Z" creationid="olex" creationdate="20180929T082318Z">
+        <seg>После того, как вы настроили структуру списка, вы можете легко изменить иерархию элемента.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One document</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135107Z" creationid="tagezi" creationdate="20180320T135107Z">
@@ -28041,6 +28081,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rather, they are designed to be &lt;s0/&gt;attached to paragraph styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T082101Z" creationid="olex" creationdate="20180929T082101Z">
+        <seg>Они предназначены для &lt;s0/&gt;привязки к стилям абзаца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reactivating Quickstarter</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T195311Z" creationid="olex" creationdate="20180607T195311Z">
@@ -28069,6 +28117,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T134402Z" creationid="tagezi" creationdate="20180312T134402Z">
         <seg>Запись &lt;i0/&gt;макроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to the &lt;/f0&gt;&lt;f4&gt;Writer Guide&lt;/f4&gt; for details.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T082137Z" creationid="olex" creationdate="20180929T082137Z">
+        <seg>Смотрите &lt;/f0&gt;&lt;f4&gt;Руководство по Writer&lt;/f4&gt; для получения дополнительной информации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37500,6 +37556,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To demote an item one level, position the cursor at the beginning of the line (after the bullet or number) and press &lt;f0&gt;Tab&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T082526Z" creationid="olex" creationdate="20180929T082438Z">
+        <seg>Чтобы опустить элемент на один уровень ниже, расположите курсор в начале строки (после маркера или номера) и нажмите &lt;f0&gt;Tab&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To display extended statistics such as character counts &lt;ts0/&gt;&lt;f1&gt;that &lt;/f1&gt;&lt;te2/&gt;exclud&lt;ts3/&gt;&lt;f4&gt;e&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt; &lt;/f8&gt;&lt;te9/&gt;spaces, double-click the word count in the Status Bar, or choose &lt;f10&gt;Tools &gt; Word Count&lt;/f10&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T162726Z" creationid="olex" creationdate="20180721T162726Z">
@@ -38272,6 +38336,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T170125Z" creationid="olex" creationdate="20180811T170125Z">
         <seg>Чтобы повысить элемент на один уровень, нажмите &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Shift + Tab.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To promote an item one level, press &lt;f1&gt;Shift + Tab.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T082537Z" creationid="olex" creationdate="20180929T082501Z">
+        <seg>Чтобы поднять элемент на один уровень выше, нажмите&lt;f1&gt;Shift + Tab&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39758,10 +39830,26 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the Bullets and Numbering buttons on the Formatting bar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T082708Z" creationid="olex" creationdate="20180929T082708Z">
+        <seg>Используя кнопки Маркированный список и Нумерованный список на панели инструментов Форматирование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the English names of Greek characters in markup language when entering Greek characters into a formula.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201640Z" creationid="Роман" creationdate="20180316T201640Z">
         <seg>Используйте английские имена греческих символов в языке разметки для ввода греческих символов в формулу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the Paragraph panel of the Sidebar’s Properties deck</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T082802Z" creationid="olex" creationdate="20180929T082802Z">
+        <seg>Используя панель Абзац, на вкладке Свойства Боковой панели</seg>
       </tuv>
     </tu>
     <tu>
