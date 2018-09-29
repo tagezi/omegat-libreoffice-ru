@@ -11951,6 +11951,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Direct formatting (also called &lt;f0&gt;manual formatting&lt;/f0&gt;) overrides styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T070935Z" creationid="olex" creationdate="20180929T070935Z">
+        <seg>Прямое форматирование (так же называемое &lt;f0&gt;ручным форматированием&lt;/f0&gt;) перезаписывает стили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Direct formatting and Style formatting</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T173156Z" creationid="olex" creationdate="20180308T173156Z">
@@ -13806,6 +13814,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T195704Z" creationid="olex" creationdate="20180719T195704Z">
         <seg>Рисунок &lt;seq0&gt;16&lt;/seq0&gt;: Поток стилей страниц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Formatting &lt;f1&gt;(Styles) t&lt;/f1&gt;oolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T070534Z" creationid="olex" creationdate="20180929T070534Z">
+        <seg>Рисунок &lt;seq0&gt;16&lt;/seq0&gt;: Панель инструментов Форматирование &lt;f1&gt;(стили)&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16295,6 +16311,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T190754Z" creationid="olex" creationdate="20180311T190754Z">
         <seg>В будущем вы сможете повторно использовать этот шаблон, созданный с помощью мастера, наравне с любым другим шаблоном.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For important information about using paragraph styles to format documents, see Chapter 3 of this book and the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T070635Z" creationid="olex" creationdate="20180929T070635Z">
+        <seg>Для получения важной информации об использовании стилей абзацев при форматировании документов смотрите Главу 3 этой книги и &lt;f0&gt;Руководство по Writer&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22560,6 +22584,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T214023Z" creationid="lera" creationdate="20180303T213942Z">
         <seg>Он является общедоступным, не требующий лицензионных отчислений и без юридических или иных ограничений; поэтому файлы ODF не привязаны к конкретному офисному пакету, и любой может создать программу, которая интерпретирует эти файлы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is recommended that you use &lt;f0&gt;styles &lt;/f0&gt;to format characters as much as possible rather than formatting characters directly, as described in this section.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T072622Z" creationid="olex" creationdate="20180929T072622Z">
+        <seg>Для форматирования символов рекомендуется как можно чаще использовать &lt;f0&gt;стили&lt;/f0&gt;, вместо прямого форматирования, которое описано в этом разделе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30669,6 +30701,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set Paragraph Style</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T070800Z" creationid="olex" creationdate="20180929T070800Z">
+        <seg>Задать стиль абзаца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set additional grammar checking rules</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T180638Z" creationid="olex" creationdate="20180805T180638Z">
@@ -35315,6 +35355,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is also an option to open a styles toolbar under the &lt;f0&gt;View Menu &gt; Toolbars &gt; Formatting (Styles)&lt;/f0&gt; &lt;s1/&gt;(Figure &lt;f2&gt;&lt;t3&gt;16&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T070503Z" creationid="olex" creationdate="20180929T070503Z">
+        <seg>Существует также возможность открыть панель инструментов стилей из меню &lt;f0&gt;Вид &gt; Панели инструментов &gt; Форматирование (стили)&lt;/f0&gt; &lt;s1/&gt;(Рисунок &lt;f2&gt;&lt;t3&gt;16&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There you &lt;f6&gt;can&lt;/f6&gt; choose to make a donation &lt;f7&gt;to support LibreOffice.&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T183148Z" creationid="olex" creationdate="20180606T183148Z">
@@ -36143,6 +36191,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means that when a new style is applied, direct formatting is not removed and still determines the displayed format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T071034Z" creationid="olex" creationdate="20180929T071034Z">
+        <seg>Это означает, что при применении нового стиля прямое форматирование не удаляется и по прежнему определяет отображаемый формат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This means that you have to re-copy your repeated information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T183605Z" creationid="tagezi" creationdate="20180312T183306Z">
@@ -36702,6 +36758,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180717T181013Z" creationid="olex" creationdate="20180717T181013Z">
         <seg>Чтобы применить стиль символа к нескольким символам или более чем одному слову, сначала выберите символы, а затем примените стиль символа из &lt;f4&gt;меню&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To apply a character style, highlight the characters or words and apply the selected character style from the &lt;f0&gt;Styles&lt;/f0&gt; menu on the &lt;f1&gt;Main Menu bar, &lt;/f1&gt;from the &lt;f2&gt;Character Styles&lt;/f2&gt; tab of the Sidebar &lt;f3&gt;Styles &lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt;deck, or from the right-click &lt;/f4&gt;&lt;f6&gt;context menu&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T072434Z" creationid="olex" creationdate="20180929T072434Z">
+        <seg>Чтобы применить стиль символа, выделите символы или слова и примените выбранный стиль символов в меню &lt;f0&gt;Стили&lt;/f0&gt;&lt;f1&gt;, &lt;/f1&gt;или на вкладке &lt;f2&gt;Стиль символов&lt;/f2&gt; вкладки &lt;f3&gt;Стили&lt;/f3&gt;&lt;f4&gt;&lt;s5/&gt; на Боковой панели, или из контекстного меню, нажав правой кнопкой мыши&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38178,6 +38242,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T184947Z" creationid="olex" creationdate="20180707T184947Z">
         <seg>Чтобы удалить все возможные макро-вирусы из документа Microsoft Office, снимите флажок &lt;f0&gt;Сохранить исходный код Basic&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To remove direct formatting, select the text and choose &lt;f0&gt;Format &gt; Clear Direct Formatting &lt;/f0&gt;from the Menu bar, or right-click and choose &lt;f1&gt;Styles &gt;&lt;/f1&gt; &lt;f2&gt;Clear Direct Formatting &lt;/f2&gt;from the context menu, or click the &lt;f3&gt;Clear Direct Formatting&lt;/f3&gt; button on the Formatting toolbar, or press &lt;f4&gt;Ctrl+M&lt;/f4&gt; on the keyboard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T071533Z" creationid="olex" creationdate="20180929T071533Z">
+        <seg>Чтобы удалить прямое форматирование, выберите текст и выберите в меню &lt;f0&gt;Формат &gt; Очистить форматирование&lt;/f0&gt;, или нажмите на выделенном правой кнопкой мыши и выберите в контекстном меню &lt;f1&gt;Стили &gt;&lt;/f1&gt; &lt;f2&gt;Очистить форматирование&lt;/f2&gt;, или нажмите кнопку &lt;f3&gt;Очистить форматирование&lt;/f3&gt; на панели инструментов Форматирование, или нажмите на клавиатуре клавиши &lt;f4&gt;Ctrl+M&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40945,6 +41017,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When clearing direct formatting, the text formatting will return to the applied paragraph and character style and not the Default paragraph style or Default character style (unless these styles are actually applied to the text).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T071829Z" creationid="olex" creationdate="20180929T071829Z">
+        <seg>При удалении прямого форматирования формат текста вернется к применяемому в стиле абзаца и символа, а не к стилю абзаца по умолчанию или стилю символа по умолчанию (если эти стили не применены к тексту).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When creating a macro, it is important to ask two questions before recording:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T163849Z" creationid="tagezi" creationdate="20180318T163849Z">
@@ -43048,6 +43128,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can manually apply many direct formats to paragraphs using the buttons on the Formatting toolbar and by using the Paragraph panel of the Sidebar’s Properties deck.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T070730Z" creationid="olex" creationdate="20180929T070730Z">
+        <seg>Вы можете вручную применять множество прямых форматов к абзацам с помощью кнопок на панели инструментов Форматирование и с помощью панели Абзац вкладки Свойства на Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can manually copy new templates into the template folders.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T203247Z" creationid="olex" creationdate="20180312T203247Z">
@@ -43389,6 +43477,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T203901Z" creationid="olex" creationdate="20180607T203901Z">
         <seg>Вы можете использовать его для создания сложных уравнений, которые включают символы или символы, недоступные в стандартных наборах шрифтов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use keyboard shortcuts &lt;f0&gt;Ctrl+1&lt;/f0&gt; to &lt;f1&gt;Ctrl+5&lt;/f1&gt; to apply paragraph styles Heading 1 to Heading 5.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T070303Z" creationid="olex" creationdate="20180929T070303Z">
+        <seg>Вы можете использовать сочетания клавиш от &lt;f0&gt;Ctrl+1&lt;/f0&gt; до &lt;f1&gt;Ctrl+5&lt;/f1&gt;, чтобы применить стили абзацев от Заголовок 1 до Заголовок 5.</seg>
       </tuv>
     </tu>
     <tu>
