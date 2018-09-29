@@ -35227,6 +35227,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are two basic ways to format text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T064020Z" creationid="olex" creationdate="20180929T064020Z">
+        <seg>Существует два основных способа форматирования текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are usually two files from which to choose, dialog.xlb and script.xlb.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123105Z" creationid="tagezi" creationdate="20180320T123105Z">
@@ -39037,6 +39045,15 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T103354Z" creationid="olex" creationdate="20180715T102944Z">
         <seg>В Windows всегда используется почтовый клиент по умолчанию для операционной системы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Позволил себе немного сипровизировать, чтобы получилось более по русски</note>
+      <tuv lang="EN-US">
+        <seg>Understanding these two alternatives is essential for unlocking the power of LibreOffice:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T064634Z" creationid="olex" creationdate="20180929T064634Z">
+        <seg>Понимание разницы между ними необходимо для того, чтобы раскрыть силу LibreOffice:</seg>
       </tuv>
     </tu>
     <tu>
