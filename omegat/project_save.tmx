@@ -21530,6 +21530,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Numbering drop-down list, choose the appropriate list style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T081824Z" creationid="olex" creationdate="20180929T081824Z">
+        <seg>В раскрывающемся списке Стиль нумерации выберите соответствующий стиль списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Numbering drop-down list, choose the appropriate list style.&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T163733Z" creationid="olex" creationdate="20180811T163733Z">
@@ -23714,8 +23722,8 @@ Denkin: все верно, есть такая настройка</note>
       <tuv lang="EN-US">
         <seg>List styles are not meant to be used on their own.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180811T164043Z" creationid="olex" creationdate="20180811T164043Z">
-        <seg>Стили списка не предназначены для использования сами по себе.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T082022Z" creationid="olex" creationdate="20180811T164043Z">
+        <seg>Стили списка не предназначены для самостоятельного использования.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27135,6 +27143,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paragraph styles such as List 1 Start and List 1 End enable you to adjust specific properties (such as the space between paragraphs) for items at the beginning or end of the list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T081955Z" creationid="olex" creationdate="20180929T081955Z">
+        <seg>Стили абзаца, такие как Начало нумерованного списка 1 и Конец нумерованного списка 1, позволяют настраивать определенные свойства (например, пространство между абзацами) для элементов в начале или конце списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parentheses</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180714T073956Z" creationid="olex" creationdate="20180714T073956Z">
@@ -28429,6 +28445,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T163634Z" creationid="olex" creationdate="20180811T163634Z">
         <seg>Щелкните правой кнопкой мыши стиль абзаца, который вы хотите использовать, затем выберите &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Изменить &lt; Структура и нумерация&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right click on the paragraph style you want to use, then &lt;f2&gt;Modify &lt; Outline &amp; Numbering&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T081734Z" creationid="olex" creationdate="20180929T081734Z">
+        <seg>Щелкните правой кнопкой мыши стиль абзаца, который вы хотите использовать, затем выберите &lt;f2&gt;Изменить &gt; Структура и нумерация&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35651,6 +35675,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These styles use list styles List 1, List 2, List 3, etc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T081218Z" creationid="olex" creationdate="20180929T081157Z">
+        <seg>В этих стилях используются стили списка Маркированный список 1, Маркированный список 2, Маркированный список 3 и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These styles use list styles List 1, List 2, List 3, etc. &lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T162640Z" creationid="olex" creationdate="20180811T162640Z">
@@ -35663,6 +35695,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T163105Z" creationid="olex" creationdate="20180811T162733Z">
         <seg>Эти стили используют &lt;f1&gt;стили списка&lt;/f1&gt;&lt;f2&gt;, &lt;/f2&gt;называемые &lt;f3&gt;Нумерованный &lt;/f3&gt;123, &lt;f4&gt;Нумерованный abc, и т.д.&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These styles use the list styles called Numbering 1, Numbering 2, etc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T081512Z" creationid="olex" creationdate="20180929T081512Z">
+        <seg>Єти стили используют стили списков Нумерованный 1, Нумерованный 2 и т.д.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36927,6 +36967,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T195555Z" creationid="olex" creationdate="20180313T195555Z">
         <seg>Чтобы связать документ с другим шаблоном:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To associate one of these paragraph styles to a list style, go to &lt;f0&gt;Styles &lt; Manage Styles&lt;/f0&gt; or click &lt;f1&gt;F11 &lt;/f1&gt;to open the list of styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T081619Z" creationid="olex" creationdate="20180929T081619Z">
+        <seg>Чтобы связать один из этих стилей абзаца со стилем списка, перейдите в &lt;f0&gt;Стили &gt; Управление стилями&lt;/f0&gt; или нажмите клавишу &lt;f1&gt;F11&lt;/f1&gt;, чтобы открыть список стилей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39664,8 +39712,16 @@ denkin: это практически официальное название к
       <tuv lang="EN-US">
         <seg>Use paragraph styles &lt;f0&gt;List 1, List &lt;s1/&gt;2, List 3, etc. &lt;/f0&gt;for creating bulleted lists.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180929T081111Z" creationid="olex" creationdate="20180929T081111Z">
-        <seg>Используйте стили абзаца &lt;f0&gt;Маркированный список 1, Маркированный список &lt;s1/&gt;2, Маркированный список 3, и так далее &lt;/f0&gt;для создания маркированных списков.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T081358Z" creationid="olex" creationdate="20180929T081111Z">
+        <seg>Используйте стили абзаца &lt;f0&gt;Маркированный список 1, Маркированный список &lt;s1/&gt;2, Маркированный список 3, и т.д,, &lt;/f0&gt;для создания маркированных списков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use paragraph styles Numbering 1, Numbering 2, Numbering 3, etc, for creating numbered lists.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T081348Z" creationid="olex" creationdate="20180929T081348Z">
+        <seg>Используйте стили абзаца Нумерованный список 1, Нумерованный список 2, Нумерованный список 3 и т.д., для создания нумерованных списков.</seg>
       </tuv>
     </tu>
     <tu>
