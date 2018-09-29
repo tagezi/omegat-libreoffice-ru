@@ -7040,6 +7040,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applies formatting directly to specific paragraphs, characters, pages, frames, lists, or tables.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T064749Z" creationid="olex" creationdate="20180929T064749Z">
+        <seg>Применяет форматирование непосредственно к конкретным абзацам, символам, страницам, врезкам, спискам или таблицам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply Changes and Restart - Choose this option to apply any of the above changes and restart LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T190717Z" creationid="olex" creationdate="20180918T190717Z">
@@ -7786,6 +7794,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because styles apply whole groups of formats at the same time, they enable you to easily format a document consistently and to change the formatting of an entire document with minimal effort.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T065322Z" creationid="olex" creationdate="20180929T065322Z">
+        <seg>Поскольку стили применяют одновременно группу форматов, то они позволяют вам легко форматировать документ и изменять форматирование всего документа с минимальными усилиями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before creating some types of indexes, you first need to &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;create&lt;/f2&gt;&lt;te3/&gt; index entries &lt;tc4/&gt;in your Writer document.&lt;ts5/&gt; &lt;f6&gt;T&lt;/f6&gt;he &lt;f7&gt;Writer Guide&lt;/f7&gt; describes the process in detail.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180820T184342Z" creationid="olex" creationdate="20180820T184342Z">
@@ -7935,6 +7951,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T170312Z" creationid="olex" creationdate="20180811T170312Z">
         <seg>Маркеры и нумерация могут применяться вручную тремя способами:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bundles formatting options under one name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T064933Z" creationid="olex" creationdate="20180929T064933Z">
+        <seg>Набор параметров форматирования под одним именем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11895,6 +11919,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Direct (or Manual) formatting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T064651Z" creationid="olex" creationdate="20180929T064651Z">
+        <seg>Прямое (или Ручное) форматирование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Direct formatting</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T181437Z" creationid="olex" creationdate="20180306T181437Z">
@@ -15651,6 +15683,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, a paragraph style defines numerous settings for options such as font type and size, whether paragraphs should be indented, the space between lines, how paragraphs should be aligned on the page, and many others.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T065228Z" creationid="olex" creationdate="20180929T065228Z">
+        <seg>Например, стиль абзаца определяет множество параметров, таких как тип и размер шрифта, нужен ли отступ для абзацев, интервалы между строками, как абзацы должны выравниваться на странице и многое другое.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, a questionnaire has an introduction and questions (which do not change) and spaces for the reader to enter answers.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T175011Z" creationid="olex" creationdate="20180828T174830Z">
@@ -16080,6 +16120,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T201124Z" creationid="olex" creationdate="20180316T201124Z">
         <seg>Например, вам может потребоваться, чтобы абзац начинался на новой странице или столбце и определял стиль новой страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you can select a word, then click on a button on the Formatting toolbar to format the text as bold or italics.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T064829Z" creationid="olex" creationdate="20180929T064829Z">
+        <seg>Например, вы можете выбрать слово, а затем нажать кнопку на панели инструментов форматирования, чтобы отформатировать текст полужирным шрифтом или курсивом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41857,6 +41905,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T171013Z" creationid="olex" creationdate="20180809T171013Z">
         <seg>Writer определяет &lt;f0&gt;шесть&lt;/f0&gt; типов стилей: &lt;s1/&gt;абзацев, символов, врезок, страниц, списков &lt;f2&gt;и таблиц&lt;/f2&gt;..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writer defines six types of styles: &lt;s0/&gt;paragraph, character, page, frame, list, and table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180929T065630Z" creationid="olex" creationdate="20180929T065630Z">
+        <seg>Writer определяет шесть типов стилей: &lt;s0/&gt; абзацев, символов, страниц, врезок, списков и таблиц.</seg>
       </tuv>
     </tu>
     <tu>
