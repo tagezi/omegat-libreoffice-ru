@@ -6978,8 +6978,8 @@
       <tuv lang="EN-US">
         <seg>Any changes to the default tab setting will affect the existing default tab stops in any document you open afterward, as well as tab stops you insert after making the change.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180815T100126Z" creationid="olex" creationdate="20180815T100126Z">
-        <seg>Любые изменения в настройках табуляции по умолчанию будут влиять на существующие блокировки по умолчанию в любом документе, который вы откроете после этого, а также на табуляторы, которые вы вставляете после внесения изменений.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T191822Z" creationid="olex" creationdate="20180815T100126Z">
+        <seg>Любые изменения в настройках табуляции по умолчанию будут влиять на существующие табуляторы по умолчанию в любом документе, который вы откроете после этого, а также на табуляторы, которые вы вставляете после внесения изменений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7020,6 +7020,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T104559Z" creationid="olex" creationdate="20180815T104559Z">
         <seg>Любые стили &lt;tc0/&gt;, не основанные на стиле Базовый, не затрагиваются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any styles not based on Default Style are not affected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T192931Z" creationid="olex" creationdate="20180930T192931Z">
+        <seg>Любые стили, не основанные на стиле по умолчанию, не затрагиваются.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8596,6 +8604,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change &lt;i0/&gt;the measurement unit for rulers in the current document by right-clicking on the ruler to open a list of units.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T191926Z" creationid="olex" creationdate="20180930T191926Z">
+        <seg>Измените &lt;i0/&gt;единицы измерения для линейки в текущем документе, щелкнув правой кнопкой мыши на линейке, чтобы открыть список единиц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change a style using the Style dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180320T192854Z" creationid="olex" creationdate="20180308T174607Z">
@@ -8806,8 +8822,8 @@
       <tuv lang="EN-US">
         <seg>Changing the default tab stop interval</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180721T111651Z" creationid="olex" creationdate="20180721T111651Z">
-        <seg>Изменение интервала табуляции по умолчанию</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T191801Z" creationid="olex" creationdate="20180721T111651Z">
+        <seg>Изменение шага табуляции по умолчанию</seg>
       </tuv>
     </tu>
     <tu>
@@ -9772,6 +9788,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f1&gt;OK&lt;/f1&gt; to save.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T192907Z" creationid="olex" creationdate="20180930T192907Z">
+        <seg>Нажмите &lt;f1&gt;ОК&lt;/f1&gt;, чтобы сохранить изменения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f1&gt;OK&lt;/f1&gt; when finished to close the dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T182939Z" creationid="olex" creationdate="20180330T182939Z">
@@ -10080,6 +10104,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T103234Z" creationid="olex" creationdate="20180815T103234Z">
         <seg>Нажмите вкладку &lt;f0&gt;Стили &lt;/f0&gt;&lt;tc1/&gt;на Боковой панели, чтобы открыть палитру Стили&lt;tc2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on the &lt;f0&gt;Styles &lt;/f0&gt;tab in the Sidebar to open the Styles deck.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T192258Z" creationid="olex" creationdate="20180930T192258Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Стили&lt;/f0&gt; на Боковой панели, чтобы открыть вкладку Стили.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18943,6 +18975,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hyphenate words at the end of a line in two ways: let Writer do it automatically (using its hyphenation dictionaries), or insert conditional hyphens manually for specific words.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T192134Z" creationid="olex" creationdate="20180930T192134Z">
+        <seg>Выполнить перенос слов в конце строки можно двумя способами: позволить Writer делать это автоматически (используя встроенные словари для переносов) или вставлять условные дефисы вручную для определенных слов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hyphenating words</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T112200Z" creationid="olex" creationdate="20180721T111939Z">
@@ -20451,8 +20491,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If you use the default tab spacing and then send the document to someone else who has chosen a different default tab spacing, tabbed material will change to use the other person’s settings.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180930T190118Z" creationid="olex" creationdate="20180813T182531Z">
-        <seg>Если вы используете шаг табуляции по умолчанию, а затем отправляете документ кому-то, кто выбрал другой шаг табуляции по умолчанию, то материал с табуляцией изменится, будут использованы настройки этого человека.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T191602Z" creationid="olex" creationdate="20180813T182531Z">
+        <seg>Если вы используете шаг табуляции по умолчанию, а затем отправляете документ кому-то, кто выбрал другой шаг табуляции по умолчанию, то материал с табуляцией изменится, поскольку будут использованы настройки этого человека.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26294,6 +26334,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the Paragraph Styles page (Figure &lt;t0&gt;20&lt;/t0&gt;), right-click on &lt;f1&gt;Default Style&lt;/f1&gt; (or another style you want to use) and select &lt;f2&gt;Modify&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T192553Z" creationid="olex" creationdate="20180930T192553Z">
+        <seg>На вкладке Стили абзацев (Рисунок &lt;t0&gt;20&lt;/t0&gt;), нажмите правой кнопкой мыши на стиль &lt;f1&gt;Базовый&lt;/f1&gt; (или другой стиль, который вы хотите использовать) и выберите &lt;f2&gt;Изменить...&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the Paragraph Styles page &lt;o0/&gt;(Figure &lt;t1&gt;20&lt;/t1&gt;)&lt;ts2/&gt;&lt;o3/&gt;&lt;te4/&gt;, right-click on &lt;f5&gt;Default Style&lt;/f5&gt; &lt;ts6/&gt;&lt;f7&gt;(or another style you want to use&lt;/f7&gt;&lt;te8/&gt;&lt;ts9/&gt;&lt;f10&gt;) &lt;/f10&gt;&lt;te11/&gt;and select &lt;f12&gt;Modify&lt;/f12&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T103554Z" creationid="olex" creationdate="20180815T103554Z">
@@ -27649,8 +27697,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Press &lt;f1&gt;F11&lt;/f1&gt;, then right click on the style to open the dialog.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180930T190942Z" creationid="olex" creationdate="20180930T190942Z">
-        <seg>Нажмите клавишу &lt;f1&gt;F11&lt;/f1&gt;, а затем нажмите правой кнопкой мыши на стиле, чтобы открыть диалоговое окно.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T191748Z" creationid="olex" creationdate="20180930T190942Z">
+        <seg>Нажмите &lt;f1&gt;F11&lt;/f1&gt;, а затем нажмите правой кнопкой мыши на стиле и выберите Изменить..., чтобы открыть диалоговое окно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29206,6 +29254,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T104814Z" creationid="olex" creationdate="20180815T104814Z">
         <seg>Смотрите Главу 3 Использование стилей и шаблонов для получения дополнительной информации о стилях, основанных на &lt;tc1/&gt;стилях&lt;ts2/&gt; &lt;f3&gt;отличных от стиля &lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt;Базовый&lt;/f6&gt;&lt;te7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Chapter 3, Using Styles and Templates, for more about styles based on styles other than Default Style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T193041Z" creationid="olex" creationdate="20180930T193041Z">
+        <seg>Смотрите Главу 3 Использование стилей и шаблонов для получения дополнительной информации о стилях, основанных на стилях, отличных от стиля Базовый.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35024,6 +35080,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The selected setting applies only to that ruler.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T191943Z" creationid="olex" creationdate="20180930T191943Z">
+        <seg>Выбранная настройка применяется только к этой линейке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The selected tabs will turn white (default Calc setup).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T185708Z" creationid="olex" creationdate="20180405T185708Z">
@@ -36770,8 +36834,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To &lt;i0/&gt;define indents and tab settings for one or more selected paragraphs, double-click on a part of the ruler that is not between the left and right indent icons to open the &lt;f1&gt;Indents &amp; Spacing&lt;/f1&gt; page of the Paragraph dialog.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180930T190324Z" creationid="olex" creationdate="20180930T190324Z">
-        <seg>Чтобы &lt;i0/&gt;определить отступы и настройки табуляции для одного или нескольких выделенных абзацев, дважды щелкните по части линейки, которая не находится между левыми и правыми отступами, чтобы открыть вкладку &lt;f1&gt;Отступы и интервалы&lt;/ f1&gt; диалогового окна Абзац.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T191624Z" creationid="olex" creationdate="20180930T190324Z">
+        <seg>Чтобы &lt;i0/&gt;определить отступы и настройки табуляции для одного или нескольких выделенных абзацев, дважды щелкните по части линейки, которая не находится между левыми и правыми отступами, чтобы открыть вкладку &lt;f1&gt;Отступы и интервалы&lt;/f1&gt; диалогового окна Абзац.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39007,6 +39071,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To turn automatic hyphenation of words on or off:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T192154Z" creationid="olex" creationdate="20180930T192154Z">
+        <seg>Чтобы включить или отключить автоматический перенос слов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To turn off Word Completion, select &lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options &gt; Word Completion &lt;/f0&gt;and deselect &lt;f1&gt;Enable word completion&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T173256Z" creationid="olex" creationdate="20180808T173256Z">
@@ -39461,6 +39533,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T200400Z" creationid="olex" creationdate="20180418T200400Z">
         <seg>Под &lt;f0&gt;Свойства&lt;/f0&gt;, выберите Переносить по словам и нажмите &lt;f1&gt;ОК&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Under Hyphenation, select or deselect the &lt;f0&gt;Automatically&lt;/f0&gt; option.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T192754Z" creationid="olex" creationdate="20180930T192754Z">
+        <seg>На вкладке Положение на странице выберите или снимите флажок параметра &lt;f0&gt;Автоматический перенос&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41349,6 +41429,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T201723Z" creationid="olex" creationdate="20180313T201723Z">
         <seg>Если будет запрос, то подтвердите, что вы хотите перезаписать старый файл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When automatic hyphenation is on, you can also set the criteria for when it should occur.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T192839Z" creationid="olex" creationdate="20180930T192839Z">
+        <seg>Когда включен автоматический перенос, вы также можете установить критерии для того, когда это произойдет.</seg>
       </tuv>
     </tu>
     <tu>
