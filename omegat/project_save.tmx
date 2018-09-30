@@ -3939,6 +3939,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;Click the down arrow next to the Bulleted List or Numbered List button, then &lt;f1&gt;More Bullets/Numbering to&lt;/f1&gt; access the Bullets and Numbering dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T185510Z" creationid="olex" creationdate="20180930T185510Z">
+        <seg>&lt;s0/&gt;Нажмите стрелку вниз рядом с кнопкой Маркированный список или Нумерованный список, а затем &lt;f1&gt;Еще маркеры/нумерация...&lt;/f1&gt; и откроется диалоговое окно Маркеры и нумерация.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0/&gt;For example, you cannot copy a non-contiguous range.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T205141Z" creationid="olex" creationdate="20180404T205141Z">
@@ -20427,8 +20435,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If you use the default tab spacing and then send the document to someone else who has chosen a different default tab spacing, tabbed material will change to use the other person’s settings.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180813T182531Z" creationid="olex" creationdate="20180813T182531Z">
-        <seg>Если вы используете шаг табуляции по умолчанию, а затем отправляете документ кому-то, кто выбрал другой шаг вкладок по умолчанию, то материал с табуляцией изменится, используя настройки этого человека.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T190118Z" creationid="olex" creationdate="20180813T182531Z">
+        <seg>Если вы используете шаг табуляции по умолчанию, а затем отправляете документ кому-то, кто выбрал другой шаг табуляции по умолчанию, то материал с табуляцией изменится, будут использованы настройки этого человека.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32066,6 +32074,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tab settings affect indentation of full paragraphs (using the &lt;f1&gt;Increase Indent&lt;/f1&gt; and &lt;t2/&gt;&lt;f3&gt;Decrease Indent&lt;/f3&gt; buttons on the Formatting toolbar) as well as indentation of parts of a paragraph (by pressing the &lt;f4&gt;Tab&lt;/f4&gt; key on the keyboard).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T190008Z" creationid="olex" creationdate="20180930T190008Z">
+        <seg>Настройки табуляции влияют на отступы всего абзаца (с помощью кнопок &lt;f1&gt;Увеличить отступ&lt;/f1&gt; и &lt;t2/&gt;&lt;f3&gt;Уменьшить отступ&lt;/f3&gt; на панели инструментов Форматирование), а также отступы частей абзаца (нажатием клавиши &lt;f4&gt;Tab&lt;/f4&gt; на клавиатуре).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tabbed page (not strictly speaking a control).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T145525Z" creationid="tagezi" creationdate="20180310T145525Z">
@@ -36708,6 +36724,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T095039Z" creationid="olex" creationdate="20180815T094901Z">
         <seg>Чтобы &lt;i0/&gt;определить отступы и настройки табуляции для одного или нескольких выбранных абзацев, дважды щелкните по части линейки, которая &lt;ts1/&gt;&lt;f2&gt;не&lt;/f2&gt;&lt;te3/&gt; находится между левыми и правыми значками отступа, чтобы открыть вкладку &lt;f4&gt;Отступы и интервалы&lt;/f4&gt; в диалоговом окне Абзац.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To &lt;i0/&gt;define indents and tab settings for one or more selected paragraphs, double-click on a part of the ruler that is not between the left and right indent icons to open the &lt;f1&gt;Indents &amp; Spacing&lt;/f1&gt; page of the Paragraph dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T190324Z" creationid="olex" creationdate="20180930T190324Z">
+        <seg>Чтобы &lt;i0/&gt;определить отступы и настройки табуляции для одного или нескольких выделенных абзацев, дважды щелкните по части линейки, которая не находится между левыми и правыми отступами, чтобы открыть вкладку &lt;f1&gt;Отступы и интервалы&lt;/ f1&gt; диалогового окна Абзац.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42609,6 +42633,15 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T181553Z" creationid="olex" creationdate="20180615T181553Z">
         <seg>Вы также можете прикрепить плавающую панель инструментов, удерживая клавишу &lt;f0&gt;Ctrl&lt;/f0&gt; и дважды щелкнув панель инструментов по строке заголовка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>что то с открытием вкладки Табуляция диалогового окна Абзац не получается, открывается вкладка Отступы и интервалы</note>
+      <tuv lang="EN-US">
+        <seg>You can also double-click anywhere between the left and right indent icons on the ruler to open the &lt;f2&gt;Tabs&lt;/f2&gt; page of the Paragraph dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T190605Z" creationid="olex" creationdate="20180930T190605Z">
+        <seg>Вы также можете дважды щелкнуть в любом месте между левым и правыми отступами на линейке, чтобы открыть вкладку &lt;f2&gt;Табуляция&lt;/f2&gt; диалогового окна Абзац.</seg>
       </tuv>
     </tu>
     <tu>
