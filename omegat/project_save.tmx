@@ -27207,6 +27207,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page layout is usually easier if you show text, object, table, and section boundaries in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Application Colors,&lt;/f0&gt; and paragraph ends, tabs, breaks, and other items in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Formatting Aids&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T194546Z" creationid="olex" creationdate="20180930T194546Z">
+        <seg>Видеть макет страницы обычно проще, если вы сделаете видимыми границы текста, объектов, таблиц и разделов в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Внешний вид&lt;/f0&gt; и окончания абзацев, табуляции, разрывы и другие объекты в &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Writer &gt; Знаки форматирования&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page layout methods, including frames, columns, and tables</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T155508Z" creationid="olex" creationdate="20180721T155508Z">
