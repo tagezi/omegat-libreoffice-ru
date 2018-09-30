@@ -5148,6 +5148,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A better strategy is to define tabs for the paragraph &lt;f0&gt;style&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T190731Z" creationid="olex" creationdate="20180930T190731Z">
+        <seg>Лучшим вариантом стратегии является определения табуляции для &lt;f0&gt;стиля&lt;/f0&gt; абзаца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A block of text can be selected.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180922T132640Z" creationid="olex" creationdate="20180922T132640Z">
@@ -11851,6 +11859,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T181410Z" creationid="olex" creationdate="20180619T181410Z">
         <seg>В зависимости от типа файловой службы, которую вы выберете в списке &lt;f0&gt;Тип:&lt;/f0&gt;, для полного соответствия соединения с удаленным сервером необходимы разные параметры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depending on what you are trying to accomplish, a table or frame might be a better choice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T191228Z" creationid="olex" creationdate="20180930T191228Z">
+        <seg>В зависимости от того, что вы пытаетесь сделать, лучше использовать таблицу или врезку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27631,6 +27647,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press &lt;f1&gt;F11&lt;/f1&gt;, then right click on the style to open the dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T190942Z" creationid="olex" creationdate="20180930T190942Z">
+        <seg>Нажмите клавишу &lt;f1&gt;F11&lt;/f1&gt;, а затем нажмите правой кнопкой мыши на стиле, чтобы открыть диалоговое окно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press and hold down the left mouse button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202529Z" creationid="olex" creationdate="20180404T202529Z">
@@ -29350,6 +29374,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T194639Z" creationid="olex" creationdate="20180424T194639Z">
         <seg>Дополнительную информацию смотрите в главе &lt;f1&gt;Руководство по Calc Глава 4 Использование стилей и шаблонов в Calc&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the &lt;f2&gt;Writer Guide&lt;/f2&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T191006Z" creationid="olex" creationdate="20180930T191006Z">
+        <seg>Смотрите &lt;f2&gt;Руководство по Writer&lt;/f2&gt; для получения дополнительной информации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36302,6 +36334,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is done on the Tab page of the Paragraph Style dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T190849Z" creationid="olex" creationdate="20180930T190849Z">
+        <seg>Это можно сделать на вкладке Табуляция диалогового окна Стиль абзаца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is extremely important for the growth of the LibreOffice ecosystem.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T052203Z" creationid="tagezi" creationdate="20180321T052203Z">
@@ -38790,6 +38830,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To set the spacing of default tab stop intervals, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T191410Z" creationid="olex" creationdate="20180930T191410Z">
+        <seg>Чтобы установить шаг табуляции по умолчанию, перейдите в &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice Writer &gt; Общие&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To set up automatic file saving:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T175550Z" creationid="olex" creationdate="20180619T175550Z">
@@ -40539,8 +40587,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>Using tabs to space out material on a page is not recommended.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180815T095715Z" creationid="olex" creationdate="20180815T095715Z">
-        <seg>Использование вкладок для размещения материалов на странице не рекомендуется.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T191049Z" creationid="olex" creationdate="20180815T095715Z">
+        <seg>Использование табуляции для размещения материалов на странице не рекомендуется.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40707,8 +40755,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>Using the default tab spacing can cause formatting problems if you share documents with other people.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180813T181106Z" creationid="olex" creationdate="20180813T181106Z">
-        <seg>Использование интервала табуляции по умолчанию может привести к проблемам с форматированием, если вы делитесь документами с другими людьми.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T191534Z" creationid="olex" creationdate="20180813T181106Z">
+        <seg>Использование шага табуляции по умолчанию может привести к проблемам с форматированием, если вы делитесь документами с другими людьми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46220,8 +46268,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>tab stops</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180813T180250Z" creationid="olex" creationdate="20180813T174643Z">
-        <seg>табуляторы</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T191432Z" creationid="olex" creationdate="20180813T174643Z">
+        <seg>табуляция</seg>
       </tuv>
     </tu>
     <tu>
