@@ -1893,6 +1893,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;In addition to &lt;s1/&gt;page styles, several features enable you to further &lt;/f0&gt;&lt;i2/&gt;control page layouts, including columns, frames, tables, and sections.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T194102Z" creationid="olex" creationdate="20180930T194102Z">
+        <seg>&lt;f0&gt;В дополнение к стилям страницы &lt;s1/&gt;несколько функций позволяют вам дополнительно &lt;/f0&gt;&lt;i2/&gt;управлять макетами страниц, включая столбцы, врезки, таблицы и разделы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;In addition to &lt;s1/&gt;page styles, several features enable you to further &lt;/f0&gt;&lt;te2/&gt;&lt;tc3/&gt;&lt;tc4/&gt;&lt;i5/&gt;control page layouts&lt;ts6/&gt;, &lt;f7&gt;including&lt;/f7&gt;&lt;te8/&gt;&lt;tc9/&gt;&lt;tc10/&gt; columns, frames, tables, and sections.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T180835Z" creationid="olex" creationdate="20180817T180835Z">
@@ -3943,6 +3951,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180930T185510Z" creationid="olex" creationdate="20180930T185510Z">
         <seg>&lt;s0/&gt;Нажмите стрелку вниз рядом с кнопкой Маркированный список или Нумерованный список, а затем &lt;f1&gt;Еще маркеры/нумерация...&lt;/f1&gt; и откроется диалоговое окно Маркеры и нумерация.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;Do not use a normal hyphen, which will remain visible even if the word is no longer at the end of a line (when you add or delete text or change margins or font size).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T193415Z" creationid="olex" creationdate="20180930T193415Z">
+        <seg>&lt;s0/&gt;Не используйте обычный дефис, который останется видимым, даже если слово больше не находится в конце строки (при добавлении или удалении текста или изменении полей или размера шрифта).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13190,6 +13206,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103528Z" creationid="tagezi" creationdate="20180320T103528Z">
         <seg>Каждый контейнер библиотек содержит библиотеку с именем &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every page in Writer is based on a page style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T193827Z" creationid="olex" creationdate="20180930T193827Z">
+        <seg>Каждая страница в Writer основана на стиле страницы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24344,6 +24368,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manually hyphenate words when you want only a specific word hyphenated at the end of a line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T193341Z" creationid="olex" creationdate="20180930T193341Z">
+        <seg>Вручную переносить слова можно, если вы хотите, чтобы в конце строки переносилось только определенное слово.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many documents, such as letters and reports, have a first page that is different from the other pages in the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T191132Z" creationid="olex" creationdate="20180315T191132Z">
@@ -27219,6 +27251,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T150027Z" creationid="olex" creationdate="20180603T150021Z">
         <seg>Панель страниц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pages styles define basic layout, including page size, margins, headers and footers, borders, backgrounds, etc. &lt;s0/&gt;Changes to these settings automatically change the page style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T193927Z" creationid="olex" creationdate="20180930T193927Z">
+        <seg>Стили страниц определяют базовый макет, включая размер страницы, поля, верхние и нижние колонтитулы, границы, фоны и т.д. &lt;s0/&gt;изменения этих параметров автоматически меняют стиль страницы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38116,6 +38156,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To insert a conditional hyphen inside a word, click where you want the hyphen to appear (when needed) and press &lt;f0&gt;Ctrl+hyphen&lt;/f0&gt; or use &lt;f1&gt;Insert &gt; Formatting Mark &gt; Soft hyphen&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T193636Z" creationid="olex" creationdate="20180930T193636Z">
+        <seg>Чтобы вставить условный дефис внутри слова, нажмите там, где вы хотите отобразить дефис (при необходимости), и нажмите &lt;f0&gt;Ctrl+Дефис&lt;/f0&gt; или выберите в меню &lt;f1&gt;Вставка &gt; Символ форматирования &gt; Мягкий перенос&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To insert a conditional hyphen inside a word, click where you want the hyphen to appear &lt;ts0/&gt;&lt;f1&gt;(when needed) &lt;/f1&gt;&lt;te2/&gt;and press &lt;f3&gt;Ctrl+hyphen&lt;/f3&gt; or use &lt;f4&gt;Insert &gt; Formatting Mark &gt; &lt;/f4&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;f8&gt;Soft&lt;/f8&gt;&lt;/f7&gt;&lt;te9/&gt;&lt;tc10/&gt;&lt;f11&gt; hyphen&lt;/f11&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T110457Z" creationid="olex" creationdate="20180815T110416Z">
@@ -41687,6 +41735,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T191743Z" creationid="olex" creationdate="20180719T191743Z">
         <seg>Когда установка пакета завершена&lt;o0/&gt;, перезапустите LibreOffice&lt;ts1/&gt;&lt;o2/&gt;&lt;te3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the word &lt;s2/&gt;is at the end of the line it will be hyphenated at this position, even if automatic hyphenation for this paragraph is switched off.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20180930T193809Z" creationid="olex" creationdate="20180930T193809Z">
+        <seg>Если это слово &lt;s2/&gt;будет находится в конце строки, то будет осуществлен перенос в этом месте, даже если автоматический перенос выключен для этого абзаца.</seg>
       </tuv>
     </tu>
     <tu>
