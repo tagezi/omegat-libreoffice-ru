@@ -16539,6 +16539,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more about headers, footers, and fields, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T175328Z" creationid="olex" creationdate="20181001T175328Z">
+        <seg>Подробнее о верхних колонтитулах, нижних колонтитулах и полях смотрите в &lt;f0&gt;Руководстве по Writer&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more about headers&lt;ts0/&gt;,&lt;te1/&gt;&lt;tc2/&gt; footers, &lt;ts3/&gt;&lt;f4&gt;and fields, &lt;/f4&gt;&lt;te5/&gt;see &lt;tc6/&gt;the &lt;f7&gt;Writer Guide&lt;/f7&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T194458Z" creationid="olex" creationdate="20180817T194458Z">
@@ -19459,6 +19467,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180318T122108Z" creationid="Роман" creationdate="20180318T122108Z">
         <seg>Если необходимо, можно предотвратить автоматическое обновление формулы в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If needed, click on the &lt;f0&gt;+ to be able to click in the header.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T175120Z" creationid="olex" creationdate="20181001T175120Z">
+        <seg>Если необходимо, то нажмите &lt;f0&gt;+ , чтобы щелкнуть по колонтитулу..&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27599,6 +27615,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place the cursor in the header area at the top of the page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T175010Z" creationid="olex" creationdate="20181001T175010Z">
+        <seg>Поместите курсор в область верхнего колонтитула в верхней части страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place the cursor in the header or footer where you want the page number to appear and choose &lt;f0&gt;Insert &gt; Page Number&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T194940Z" creationid="olex" creationdate="20180817T194940Z">
@@ -33675,6 +33699,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The background does not show when printed and can be turned off in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Application Colors&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T175239Z" creationid="olex" creationdate="20181001T175239Z">
+        <seg>Этот фон не отображается при печати и может быть отключен в меню &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Внешний вид&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The backup copy gets the extension BAK.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T173158Z" creationid="olex" creationdate="20180707T173158Z">
@@ -35485,6 +35517,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T191359Z" creationid="olex" creationdate="20180412T191359Z">
         <seg>Формат времени автоматически изменяется на формат, используемый в Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The title should appear on a gray background.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T175143Z" creationid="olex" creationdate="20181001T175143Z">
+        <seg>Заголовок должен появиться на сером фоне.</seg>
       </tuv>
     </tu>
     <tu>
