@@ -5941,6 +5941,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add a header with &lt;f0&gt;Insert &gt; Header and Footer &gt; Header &gt; Default Style&lt;/f0&gt; (or appropriate page style).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T174944Z" creationid="olex" creationdate="20181001T174944Z">
+        <seg>Добавьте колонтитул из меню &lt;f0&gt;Вставка &gt; Колонтитулы &gt; Верхний колонтитул &gt; Базовый&lt;/f0&gt; (или соответствующий стиль страницы).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add a word to the dictionary</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180927T173827Z" creationid="olex" creationdate="20180927T173827Z">
@@ -14380,6 +14388,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Page header dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T174422Z" creationid="olex" creationdate="20181001T174356Z">
+        <seg>Рисунок &lt;seq0&gt;25&lt;/seq0&gt;: Диалоговое окно Стиль страницы, вкладка Верхний колонтитул</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Select Sheets dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T174747Z" creationid="olex" creationdate="20180416T174747Z">
@@ -18455,6 +18471,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here is one common way to use fields to insert the document title into the header:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T174701Z" creationid="olex" creationdate="20181001T174701Z">
+        <seg>Вот один из распространенных способов использования полей для вставки заголовка документа в колонтитул:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here the Automatic option uses an icon set compatible with your operating system and choice of desktop: for example, KDE or Gnome on Linux.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T171412Z" creationid="olex" creationdate="20180627T171412Z">
@@ -18523,6 +18547,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T190052Z" creationid="olex" creationdate="20180330T190052Z">
         <seg>Здесь вы можете выбрать различные параметры, доступные при импорте CSV-файла в электронную таблицу Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you can specify if headings on the left and right pages should be the same or different.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T174108Z" creationid="olex" creationdate="20181001T174108Z">
+        <seg>Здесь вы можете указать, должны ли колонтитулы быть одинаковыми или разными на левой и правой страницах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21986,6 +22018,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this dialog, you can also turn the header on or off, set the margins, and set the spacing between the header and document text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T174251Z" creationid="olex" creationdate="20181001T174251Z">
+        <seg>В этом диалоговом окне вы также можете включить или отключить колонтитул, установить поля и задать интервал между колонтитулом и текстом документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this example, there is only one value, and it is numbered zero.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T082734Z" creationid="tagezi" creationdate="20180315T212006Z">
@@ -22158,6 +22198,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T180803Z" creationid="olex" creationdate="20180611T180803Z">
         <seg>Информация об установке и настройке LibreOffice для различных поддерживаемых операционных систем приведена здесь: &lt;a0&gt;http://www.libreoffice.org/get-help/install-howto/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Information such as a document title is often put into the header or footer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T174759Z" creationid="olex" creationdate="20181001T174531Z">
+        <seg>Часто в верхний или нижний колонтитул  помещается такая  информация, как заголовок документа, .</seg>
       </tuv>
     </tu>
     <tu>
@@ -32542,6 +32590,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T190447Z" creationid="olex" creationdate="20180606T190447Z">
         <seg>Это необходимо оставить в соответствующей главе руководства.&lt;/f6&gt;&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That way, if something (such as the name) changes, the headers and footers are updated automatically.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T174810Z" creationid="olex" creationdate="20181001T174605Z">
+        <seg>Таким образом, если что-то (например, заголовок документа) изменяется, то верхний и нижний колонтитулы автоматически обновляются.</seg>
       </tuv>
     </tu>
     <tu>
