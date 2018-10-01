@@ -21400,6 +21400,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, many documents have the “front matter” (such as the table of contents) numbered with Roman numerals and the main body of the document numbered in Arabic numerals, starting with 1.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T175815Z" creationid="olex" creationdate="20181001T175815Z">
+        <seg>Кроме того, во многих документах есть некоторое количество начальных страниц (например, оглавление), пронумерованных римскими цифрами, и основной документ, пронумерованный арабскими цифрами, начиная с 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, many documents have the “front matter” (such as the table of contents) numbered with Roman numerals and the main body of the document numbered in Arabic numerals, starting with 1.&lt;ts0/&gt; &lt;f1&gt;To restart page numbering:&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T124442Z" creationid="olex" creationdate="20180817T201039Z">
@@ -26542,6 +26550,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the Text Flow tab of the Paragraph dialog (Figure &lt;t0&gt;21&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;29&lt;/t2&gt;), select &lt;f3&gt;Breaks&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T180121Z" creationid="olex" creationdate="20181001T180121Z">
+        <seg>На вкладке Положение на странице диалогового окна Абзац (Рисунок &lt;t0&gt;21&lt;/t0&gt;&lt;s1/&gt;на странице &lt;t2&gt;29&lt;/t2&gt;), выберите &lt;f3&gt;Разрывы&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the Text Flow tab of the Paragraph dialog (Figure &lt;t0&gt;21&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;30&lt;/t2&gt;), select &lt;f3&gt;Breaks&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T201645Z" creationid="olex" creationdate="20180817T201645Z">
@@ -29610,6 +29626,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the &lt;f1&gt;Writer Guide&lt;/f1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T175503Z" creationid="olex" creationdate="20181001T175503Z">
+        <seg>Смотрите &lt;f1&gt;Руководство по Writer&lt;/f1&gt; для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the &lt;f2&gt;Writer Guide&lt;/f2&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180930T191006Z" creationid="olex" creationdate="20180930T191006Z">
@@ -29884,8 +29908,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Insert&lt;/f0&gt; and then &lt;f1&gt;With Page Style&lt;/f1&gt; and specify the page style to use.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180817T201902Z" creationid="olex" creationdate="20180817T201902Z">
-        <seg>Выберите &lt;f0&gt;Вставить&lt;/f0&gt; и &lt;f1&gt;Со стилем страницы&lt;/f1&gt;, и укажите стиль страницы для использования.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T180137Z" creationid="olex" creationdate="20180817T201902Z">
+        <seg>Затем выберите &lt;f0&gt;Вставить&lt;/f0&gt; и &lt;f1&gt;Со стилем страницы&lt;/f1&gt;, и укажите стиль страницы для использования.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36606,6 +36630,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is also useful for numbering the first page of a document with a page number greater than 1.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T180247Z" creationid="olex" creationdate="20181001T180247Z">
+        <seg>Это также полезно, чтобы присвоить первой странице документа номер страницы больше чем 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is done on the Tab page of the Paragraph Style dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180930T190849Z" creationid="olex" creationdate="20180930T190849Z">
@@ -38886,6 +38918,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To restart page numbering:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T175837Z" creationid="olex" creationdate="20181001T175837Z">
+        <seg>Чтобы начать нумерацию заново:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To restore a pane, click again on its Hide/Show marker.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180911T201857Z" creationid="olex" creationdate="20180911T201857Z">
@@ -41101,6 +41141,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T203056Z" creationid="olex" creationdate="20180817T203056Z">
         <seg>Использование линейки страниц - быстрая и простая, но &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;дает&lt;/f2&gt;&lt;te3/&gt; не точную настройку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the page rulers—quick and easy, but does not allow fine control</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T180454Z" creationid="olex" creationdate="20181001T180454Z">
+        <seg>Использование линеек страниц - быстрый и простой способ, но он не позволяет осуществлять точное управление</seg>
       </tuv>
     </tu>
     <tu>
