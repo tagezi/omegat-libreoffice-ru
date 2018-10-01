@@ -7906,6 +7906,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because the triangles and arrows are often in the same place, when changing page margins you need to be careful to move the arrows, not the gray triangles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T181012Z" creationid="olex" creationdate="20181001T181012Z">
+        <seg>Поскольку треугольники и стрелки часто находятся в одном и том же месте, то при изменении полей страницы вам нужно быть осторожными, чтобы перемещать стрелки, а не серые треугольники.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before creating some types of indexes, you first need to &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;create&lt;/f2&gt;&lt;te3/&gt; index entries &lt;tc4/&gt;in your Writer document.&lt;ts5/&gt; &lt;f6&gt;T&lt;/f6&gt;he &lt;f7&gt;Writer Guide&lt;/f7&gt; describes the process in detail.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180820T184342Z" creationid="olex" creationdate="20180820T184342Z">
@@ -10449,6 +10457,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T193143Z" creationid="olex" creationdate="20180412T193143Z">
         <seg>Нажмите кнопку &lt;f0&gt;Дополнительные параметры&lt;/f0&gt; в строке заголовка панели, чтобы открыть диалоговое окно &lt;f1&gt;Формат ячеек&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;More Options&lt;/f0&gt; button to open the Page Style dialog where you can enter exact margin distances.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T181338Z" creationid="olex" creationdate="20181001T181338Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Дополнительные параметры&lt;/f0&gt;, чтобы открыть диалоговое окно Стиль страницы, в котором вы можете ввести точные значения границ поля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14416,6 +14432,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T184644Z" creationid="olex" creationdate="20180416T184644Z">
         <seg>Рисунок &lt;seq0&gt;26&lt;/seq0&gt;: Диалоговое окно Удалить содержимое</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Moving the margins</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T180734Z" creationid="olex" creationdate="20181001T180734Z">
+        <seg>Рисунок &lt;seq0&gt;26&lt;/seq0&gt;: Перемещение полей страницы</seg>
       </tuv>
     </tu>
     <tu>
@@ -21762,6 +21786,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Format panel, use the Margins drop-down list to select the desired margins.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T181222Z" creationid="olex" creationdate="20181001T181222Z">
+        <seg>На панели Формат используйте раскрывающийся список Поля, чтобы выбрать подходящее вам значение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Numbering drop-down list, choose the appropriate list style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180929T081824Z" creationid="olex" creationdate="20180929T081824Z">
@@ -21902,6 +21934,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T183749Z" creationid="olex" creationdate="20180315T183749Z">
         <seg>В диалоговом окне «Шаблоны» выберите категорию с шаблоном, который вы хотите удалить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Watermark dialog, type the text and select the font, angle, transparency and color of the watermark.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T181530Z" creationid="olex" creationdate="20181001T181530Z">
+        <seg>В диалоговом окне Водяной знак введите текст, выберите шрифт, угол, прозрачность и цвет водяного знака.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26538,6 +26578,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T172038Z" creationid="olex" creationdate="20180628T172038Z">
         <seg>В диалоговом окне Изменить пути (не показано, также может быть указано «Редактировать пути»), добавьте или удалите папки по мере необходимости, а затем нажмите &lt;f3&gt;OK&lt;/f3&gt;, чтобы вернуться в диалоговое окно Параметры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Sidebar (&lt;f0&gt;View &gt; Sidebar&lt;/f0&gt;) open the &lt;f1&gt;Page&lt;/f1&gt; tab.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T181124Z" creationid="olex" creationdate="20181001T181124Z">
+        <seg>На Боковой панели (&lt;f0&gt;Вид &gt; Боковая панель&lt;/f0&gt;) откройте вкладку &lt;f1&gt;Страница&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34123,6 +34171,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The double-headed arrows shown in Figure &lt;t0&gt;26&lt;/t0&gt;&lt;s1/&gt;are mouse cursors shown in the correct position for moving the margin markers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T180921Z" creationid="olex" creationdate="20181001T180921Z">
+        <seg>Двунаправленные стрелки, показанные на Рисунке &lt;t0&gt;26&lt;/t0&gt;&lt;s1/&gt;, являются курсорами мыши, отображаемыми в положении правильном для перемещения маркеров отступа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The double-headed arrows shown in Figure &lt;t7&gt;25&lt;/t7&gt;&lt;s8/&gt;are mouse cursors shown in the correct position for moving the margin markers.&lt;te9/&gt;&lt;tc10/&gt;&lt;ts11/&gt; &lt;f12&gt;Because the triangles and arrows are often in the same place, when changing&lt;/f12&gt;&lt;te13/&gt;&lt;tc14/&gt;&lt;ts15/&gt;&lt;f16&gt; &lt;/f16&gt;&lt;te17/&gt;page margin&lt;ts18/&gt;&lt;f19&gt;s&lt;/f19&gt;&lt;te20/&gt;&lt;tc21/&gt;&lt;tc22/&gt; &lt;tc23/&gt;you need to be careful to move the &lt;ts24/&gt;&lt;f25&gt;arrows, &lt;/f25&gt;&lt;te26/&gt;&lt;tc27/&gt;not the &lt;ts28/&gt;&lt;f29&gt;gray triangles&lt;/f29&gt;&lt;te30/&gt;&lt;tc31/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T130015Z" creationid="olex" creationdate="20180818T130015Z">
@@ -35590,6 +35646,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T185700Z" creationid="olex" creationdate="20180311T185617Z">
         <seg>Два имени могут быть разными, но впоследствии это может привести к путанице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The two small gray triangles on the ruler are used for indenting paragraphs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T180815Z" creationid="olex" creationdate="20181001T180815Z">
+        <seg>Два маленьких серых треугольника на линейке используются для отступов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37239,6 +37303,14 @@ LG:DONE</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>To add a watermark to a page background:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T181351Z" creationid="olex" creationdate="20181001T181351Z">
+        <seg>Чтобы добавить водяной знак к фону страницы:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>неточность в оригинале, наверное имеется ввиду меню Стили &gt; Создать стиль...</note>
       <tuv lang="EN-US">
         <seg>To add default styles for a cell or a group of cells, click &lt;f0&gt;Format&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&gt; Styles&lt;/f2&gt;&lt;f3&gt;.</seg>
@@ -37471,6 +37543,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T130145Z" creationid="olex" creationdate="20180818T130145Z">
         <seg>Чтобы изменить поля с помощью диалогового окна Стиль страницы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change margins using the Page deck of the Sidebar:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T181052Z" creationid="olex" creationdate="20181001T181052Z">
+        <seg>Чтобы изменить поля с помощью вкладки Страница на Боковой панели:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41049,6 +41129,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using the Page deck of the Sidebar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T180550Z" creationid="olex" creationdate="20181001T180524Z">
+        <seg>С помощью вкладки Страница на Боковой панели</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the Save command will &lt;f0&gt;immediately&lt;/f0&gt; overwrite the last saved version of the file.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T183551Z" creationid="olex" creationdate="20180617T183551Z">
@@ -42039,6 +42127,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T174155Z" creationid="olex" creationdate="20180731T174155Z">
         <seg>Когда вы &lt;i0/&gt;вставляете текст, результат зависит от источника текста и того, как вы его вставляете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you change the margins, the page style is also changed and the changed margins apply to &lt;f0&gt;all&lt;/f0&gt; pages using that style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T180711Z" creationid="olex" creationdate="20181001T180711Z">
+        <seg>Если вы изменяете поля, то также изменяется и стиль страницы, а изменения в полях применяются ко &lt;f0&gt;всем&lt;/f0&gt; страницам, использующим этот стиль.</seg>
       </tuv>
     </tu>
     <tu>
