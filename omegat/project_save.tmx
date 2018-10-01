@@ -4059,6 +4059,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s1/&gt;Here is the easiest:&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T173104Z" creationid="olex" creationdate="20181001T173104Z">
+        <seg>&lt;s1/&gt;Вот самый простой:&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s1/&gt;If you want to go back to working with the ODT version of your document, you must open it again.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180924T182207Z" creationid="olex" creationdate="20180924T182207Z">
@@ -6261,6 +6269,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After a header/footer has been created, a down-arrow appears on the marker.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T173421Z" creationid="olex" creationdate="20181001T173421Z">
+        <seg>После того, как будет создан верхний или нижний колонтитул, на маркере появится стрелка вниз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After a header&lt;ts0/&gt;/&lt;f1&gt;footer&lt;/f1&gt;&lt;te2/&gt; has been created, a down-arrow appears on the &lt;tc3/&gt;marker.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T184211Z" creationid="olex" creationdate="20180817T184211Z">
@@ -6634,6 +6650,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T173951Z" creationid="olex" creationdate="20180731T173951Z">
         <seg>Кроме того, можно использовать кнопки на панели инструментов &lt;f3&gt;Стандартная&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternatively, you can choose &lt;f0&gt;Insert &gt; Header and Footer &gt; Header &gt; Default Style&lt;/f0&gt; (or some other page style, if not Default Style).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T173713Z" creationid="olex" creationdate="20181001T173713Z">
+        <seg>По другому, вы можете выбрать &lt;f0&gt;Вставка &gt; Колонтитулы &gt; Верхний колонтитул &gt; Базовый&lt;/f0&gt; (или другой стиль страницы, если о не Базовый).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9916,6 +9940,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click above the top margin (or below the bottom margin) to make the Header or Footer marker appear (Figure &lt;t0&gt;23&lt;/t0&gt;), and then click on the &lt;f1&gt;+&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T173324Z" creationid="olex" creationdate="20181001T173324Z">
+        <seg>Нажмите выше верхнего поля страницы (или ниже нижнего поля), чтобы отобразить маркер верхнего или нижнего колонтитула (Рисунок &lt;t0&gt;23&lt;/t0&gt;), и затем нажмите значок &lt;f1&gt;+&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click above the top margin &lt;ts0/&gt;&lt;f1&gt;(or below the bottom margin) &lt;/f1&gt;&lt;te2/&gt;to make the Header &lt;ts3/&gt;&lt;f4&gt;or Footer &lt;/f4&gt;&lt;te5/&gt;marker appear (Figure &lt;t6&gt;23&lt;/t6&gt;), and then click on the &lt;f7&gt;+&lt;/f7&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T183800Z" creationid="olex" creationdate="20180817T183503Z">
@@ -10232,6 +10264,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T155801Z" creationid="olex" creationdate="20180722T155801Z">
         <seg>Нажмите на значок несохраненных изменений, чтобы сохранить документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on this arrow to drop down a menu of choices for working with the header (Figure &lt;t0&gt;24&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T173502Z" creationid="olex" creationdate="20181001T173502Z">
+        <seg>Нажмите на эту стрелку, чтобы открыть меню выбора для работы с колонтитулом (Рисунок &lt;t0&gt;24&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22122,6 +22162,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Information such as page number is inserted into the header or footer of a page style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T172914Z" creationid="olex" creationdate="20181001T172914Z">
+        <seg>Информация, такая как номер страницы, вставляется в верхний или нижний колонтитул стиля страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Information such as page number&lt;tc0/&gt; &lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;is &lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt;i&lt;/f6&gt;&lt;te7/&gt;nserted into &lt;ts8/&gt;&lt;f9&gt;the&lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt; header or footer &lt;ts12/&gt;&lt;f13&gt;of a page styl&lt;/f13&gt;&lt;te14/&gt;&lt;ts15/&gt;&lt;f16&gt;e.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T182430Z" creationid="olex" creationdate="20180817T182430Z">
@@ -32482,6 +32530,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That information is then displayed on every page with the same page style (unless the page style enables separate settings for the first page or for left and right pages).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T173016Z" creationid="olex" creationdate="20181001T173016Z">
+        <seg>Затем эта информация повторяется на каждой странице этого же же стиля (если только стиль страницы не включает отдельные настройки для первой страницы или для левой и правой страниц).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That must be left to the relevant chapter of the guide.&lt;/f6&gt;&lt;/t3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T190447Z" creationid="olex" creationdate="20180606T190447Z">
@@ -37992,6 +38048,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T212609Z" creationid="tagezi" creationdate="20180304T212609Z">
         <seg>Для экспорта в один из этих форматов, выберите &lt;f0&gt;Файл &gt; Экспорт...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To format a header (use similar settings for a footer), you can either click on &lt;f0&gt;Format Header&lt;/f0&gt; in the menu shown in Figure &lt;t1&gt;24&lt;/t1&gt;&lt;s2/&gt;or go to &lt;f3&gt;Format &gt; Page &gt; Header&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T174010Z" creationid="olex" creationdate="20181001T174010Z">
+        <seg>Чтобы форматировать верхний колонтитул (используйте подобные настройки для нижнего колонтитула), вы можете либо нажать &lt;f0&gt;Форматировать верхний колонтитул&lt;/f0&gt; в меню, показанном на Рисунке &lt;t1&gt;24&lt;/t1&gt;&lt;s2/&gt;или выбрать &lt;f3&gt;Формат &gt; Страница... &gt; Верхний колонтитул&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43597,6 +43661,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T104520Z" creationid="olex" creationdate="20180815T104520Z">
         <seg>Вы можете по отдельности изменить другие стили, чтобы сделать перенос неактивным; например, вам может быть не нужен перенос в заголовках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can insert a header &lt;f0&gt;in several ways.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181001T173050Z" creationid="olex" creationdate="20181001T173050Z">
+        <seg>Вы можете вставить верхний колонтитул &lt;f0&gt;несколькими способами.</seg>
       </tuv>
     </tu>
     <tu>
