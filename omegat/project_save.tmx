@@ -6293,6 +6293,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After a cross-reference has been created, use &lt;f0&gt;F9&lt;/f0&gt; to update all references so that the current wording or page numbers are displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T183936Z" creationid="olex" creationdate="20181002T183936Z">
+        <seg>После создания перекрестной ссылки используйте &lt;f0&gt;F9&lt;/f0&gt;, чтобы обновить все ссылки, для отображения текущих формулировок или номеров страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After a header/footer has been created, a down-arrow appears on the marker.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T173421Z" creationid="olex" creationdate="20181001T173421Z">
@@ -8042,10 +8050,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both methods insert links to other parts of the same document or to an external source, taking you directly to the cross-referenced item.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T183634Z" creationid="olex" creationdate="20181002T183634Z">
+        <seg>Оба метода вставляют ссылки на другие части этого же документа или на внешний источник, переводя вас непосредственно на объект перекрестных ссылок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both methods take you to the same tab on the Page Style dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T185851Z" creationid="olex" creationdate="20180817T185851Z">
         <seg>Оба способа приведут к одной и той же вкладке в диалоговом окне Стиль страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Both remain active when the document is exported to PDF.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T183830Z" creationid="olex" creationdate="20181002T183830Z">
+        <seg>Оба типа ссылок остаются активными, если документ экспортируется в PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19159,6 +19183,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, they have major differences:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T183648Z" creationid="olex" creationdate="20181002T183648Z">
+        <seg>Однако они имеют существенные отличия:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, this gives the incorrect result&lt;f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180814T184229Z" creationid="asus" creationdate="20180814T184229Z">
@@ -21790,6 +21822,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180823T190613Z" creationid="olex" creationdate="20180823T190613Z">
         <seg>В списке &lt;f0&gt;Вставить ссылку на&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; выберите нужный параметр.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the &lt;f0&gt;Insert reference to&lt;/f0&gt; list, select the option needed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T185207Z" creationid="olex" creationdate="20181002T185207Z">
+        <seg>В списке &lt;f0&gt;Вставить ссылку на&lt;/f0&gt; выберите необходимый параметр.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26642,6 +26682,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180823T190151Z" creationid="olex" creationdate="20180823T190151Z">
         <seg>На вкладке &lt;f1&gt;Перекрестные ссылки&lt;/f1&gt; (Рисунок &lt;t2&gt;28&lt;/t2&gt;) в списке &lt;f3&gt;Тип&lt;/f3&gt; выберите тип элемента, на который нужно ссылаться (например, &lt;f4&gt;Заголовки&lt;/f4&gt;&lt;ts5/&gt;&lt;f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;te8/&gt; или &lt;f9&gt;Рисунок&lt;/f9&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the &lt;f1&gt;Cross-references&lt;/f1&gt; tab (Figure &lt;t2&gt;29&lt;/t2&gt;), in the &lt;f3&gt;Type&lt;/f3&gt; list, select the type of item to be referenced (for example, &lt;f4&gt;Headings&lt;/f4&gt; or &lt;f5&gt;Figure&lt;/f5&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T185011Z" creationid="olex" creationdate="20181002T185011Z">
+        <seg>На вкладке &lt;f1&gt;Перекрестные ссылки&lt;/f1&gt; (Рисунок &lt;t2&gt;29&lt;/t2&gt;), в списке &lt;f3&gt;Тип&lt;/f3&gt;, выберите тип элемента, на который нужно ссылаться (например, &lt;f4&gt;Заголовки&lt;/f4&gt; или &lt;f5&gt;Изображение&lt;/f5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33059,6 +33107,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;f1&gt;Cross-references&lt;/f1&gt; tab of the Fields dialog lists some items, such as &lt;i2/&gt;headings, bookmarks, figures, tables, or numbered items such as steps in a procedure.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T184056Z" creationid="olex" creationdate="20181002T184056Z">
+        <seg>На вкладке &lt;f1&gt;Перекрестные ссылки&lt;/f1&gt; диалогового окна Поля перечислены некоторые элементы, такие как заголовки&lt;i2/&gt;, закладки, рисунки, таблицы или нумерованные элементы, такие как шаги в процедуре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;f1&gt;Manage Templates&lt;/f1&gt; option on the list opens the Template dialog (Figure &lt;t2&gt;8&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T204607Z" creationid="olex" creationdate="20180310T204607Z">
@@ -35294,6 +35350,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The options determine the text inserted for the hyperlink and how it is formatted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T185252Z" creationid="olex" creationdate="20181002T185252Z">
+        <seg>Параметры определяют текст, вставленный в гиперссылку, и способ его форматирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The options for importing CSV files into a Calc spreadsheet are as follows:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T190250Z" creationid="olex" creationdate="20180330T190250Z">
@@ -37404,6 +37468,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180930T191624Z" creationid="olex" creationdate="20180930T190324Z">
         <seg>Чтобы &lt;i0/&gt;определить отступы и настройки табуляции для одного или нескольких выделенных абзацев, дважды щелкните по части линейки, которая не находится между левыми и правыми отступами, чтобы открыть вкладку &lt;f1&gt;Отступы и интервалы&lt;/f1&gt; диалогового окна Абзац.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To &lt;i0/&gt;insert a cross-reference:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T184211Z" creationid="olex" creationdate="20181002T184211Z">
+        <seg>Чтобы &lt;i0/&gt;вставить перекрестную ссылку:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42387,6 +42459,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When using a hyperlink, you do not have a choice about the type of content linked to (such as text or page number), but when using a cross-reference, you have several choices, including bookmarks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T183751Z" creationid="olex" creationdate="20181002T183751Z">
+        <seg>При использовании гиперссылки у вас нет выбора типа связанного содержимого (например, текста или номера страницы), а при использовании перекрестной ссылки у вас есть несколько вариантов, включая закладки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When using brackets in a formula, Math expects that for every opening bracket there will be a closing one.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T115426Z" creationid="asus" creationdate="20180813T115426Z">
@@ -43205,6 +43285,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Writer provides two ways to ensure that your references are up to date: hyperlinks and cross-references.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T183526Z" creationid="olex" creationdate="20181002T183526Z">
+        <seg>Writer предоставляет два способа быть уверенным, что ваши ссылки обновлены: гиперссылки и перекрестные ссылки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Writer provides two ways to ensure that your references are up to date&lt;tc3/&gt;&lt;tc4/&gt;&lt;tc5/&gt;: hyperlinks and cross-references.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180823T180207Z" creationid="olex" creationdate="20180823T180207Z">
@@ -43425,6 +43513,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180823T183944Z" creationid="olex" creationdate="20180823T183944Z">
         <seg>Вы также можете создавать свои собственные ссылочные объекты; смотрите «Настройка ссылок» в &lt;tc41/&gt;&lt;f42&gt;Руководстве по Writer&lt;/f42&gt; для получения инструкций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also create your own reference items; see “Setting References” in the &lt;f3&gt;Writer Guide&lt;/f3&gt; for instructions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T184152Z" creationid="olex" creationdate="20181002T184152Z">
+        <seg>Вы также можете создавать свои собственные элементы для ссылок; смотрите «Настройка ссылок» в &lt;f3&gt;Руководстве по Writer&lt;/f3&gt; для получения инструкций.</seg>
       </tuv>
     </tu>
     <tu>
