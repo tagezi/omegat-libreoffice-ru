@@ -35011,6 +35011,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The list varies according to the Type chosen.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T185321Z" creationid="olex" creationdate="20181002T185321Z">
+        <seg>Содержание списка зависит от выбранного Типа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The local setting is the basis for many other settings within LibreOffice, for example defaults for numbering, currency, and units of measure.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T173326Z" creationid="olex" creationdate="20180712T173326Z">
@@ -35178,6 +35186,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T170654Z" creationid="olex" creationdate="20180828T170654Z">
         <seg>Наиболее часто используемыми параметрами являются &lt;f14&gt;Ссылка&lt;/f14&gt; (для вставки полного текста заголовка или подписи под рисунком), &lt;f15&gt;Категория и Номер&lt;/f15&gt; (для вставки числа, которому предшествует слово &lt;f16&gt;Рисунок&lt;/f16&gt; или &lt;f17&gt;Таблица&lt;/f17&gt;, но без текста подписи), &lt;f18&gt;Нумерация&lt;/f18&gt; (для вставки только номера рисунка или таблицы, без слова «Рисунок» или «Таблица»), или &lt;f19&gt;Страница&lt;/f19&gt; (чтобы вставить номер страницы, на которую ссылается текст).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most commonly used options are &lt;f1&gt;Reference&lt;/f1&gt; (to insert the full text of a heading or caption), &lt;f2&gt;Category and Number&lt;/f2&gt; (to insert a figure number preceded by the word &lt;f3&gt;Figure&lt;/f3&gt; or &lt;f4&gt;Table&lt;/f4&gt;, but without the caption text), &lt;f5&gt;Numbering&lt;/f5&gt; (to insert only the figure or table number, without the word “Figure” or “Table”), or &lt;f6&gt;Page&lt;/f6&gt; (to insert the number of the page the referenced text is on).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T190946Z" creationid="olex" creationdate="20181002T190946Z">
+        <seg>Наиболее часто используемыми параметрами являются &lt;f1&gt;Текст ссылки&lt;/f1&gt; (для вставки полного текста заголовка или подписи), &lt;f2&gt;Категория и Номер&lt;/f2&gt; (для вставки числа, которому предшествует слово &lt;f3&gt;Рисунок&lt;/f3&gt; или &lt;f4&gt;Таблица&lt;/f4&gt;, но без текста подписи), &lt;f5&gt;Нумерация&lt;/f5&gt; (для вставки только цифра или номер таблицы, без слова Рисунок или Таблица), или &lt;f6&gt;Страница&lt;/f6&gt; (чтобы вставить номер страницы, на которой находится ссылка).</seg>
       </tuv>
     </tu>
     <tu>
