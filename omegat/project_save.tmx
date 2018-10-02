@@ -7956,8 +7956,8 @@
       <tuv lang="EN-US">
         <seg>Before you start, make sure that the headings are styled consistently.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180820T180419Z" creationid="olex" creationdate="20180820T180419Z">
-        <seg>Прежде чем начать, убедитесь, что все заголовки последовательно оформлены.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T175704Z" creationid="olex" creationdate="20180820T180419Z">
+        <seg>Прежде чем начать, убедитесь, что все заголовки оформлены последовательно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8704,6 +8704,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T182118Z" creationid="olex" creationdate="20180804T182118Z">
         <seg>Изменить язык словаря</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change nothing in the Insert Index/Table dialog (unless you want to change the number of levels shown).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T180352Z" creationid="olex" creationdate="20181002T180352Z">
+        <seg>Не изменяйте ничего в диалоговом окне «Вставить индекс / таблицу» (если вы не хотите изменять количество отображаемых уровней).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16424,6 +16432,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T182033Z" creationid="olex" creationdate="20180808T182033Z">
         <seg>Например, вы можете выделить слово, а затем нажать кнопку на панели инструментов Форматирование, чтобы форматировать текст полужирным шрифтом или курсивом.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you can use the &lt;f1&gt;Heading 1&lt;/f1&gt; style for chapter titles and the &lt;f2&gt;Heading 2&lt;/f2&gt; and &lt;f3&gt;Heading 3&lt;/f3&gt; styles for chapter subheadings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T180107Z" creationid="olex" creationdate="20181002T180007Z">
+        <seg>Например, вы можете использовать стиль &lt;f1&gt;Заголовок 1&lt;/f1&gt; для названия глав и стили &lt;f2&gt;Заголовок 2&lt;/f2&gt;, &lt;f3&gt;Заголовок 3&lt;/f3&gt; для подразделов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36219,6 +36235,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These headings are what will appear in your table of contents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T180216Z" creationid="olex" creationdate="20181002T180216Z">
+        <seg>Эти заголовки будут отображаться в вашем оглавлении.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These items are best added as fields.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T191837Z" creationid="olex" creationdate="20180817T191837Z">
@@ -42283,6 +42307,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you create your document, use the following paragraph styles for hierarchical heading levels (such as chapter and section headings): &lt;f0&gt;Heading 1&lt;/f0&gt;, &lt;f1&gt;Heading 2&lt;/f1&gt;, &lt;f2&gt;Heading 3&lt;/f2&gt;, and so on.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T180225Z" creationid="olex" creationdate="20181002T180059Z">
+        <seg>При создании документа используйте следующие стили абзаца для иерархических уровней заголовков (например, названия разделов и подразделов): &lt;f0&gt;Заголовок 1&lt;/f0&gt;, &lt;f1&gt;Заголовок 2&lt;/f1&gt;, &lt;f2&gt;Заголовок 3&lt;/f2&gt; и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you edit a style, the changes are automatically applied to all of the elements formatted with this image style in your drawing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T190645Z" creationid="olex" creationdate="20180604T190645Z">
@@ -42921,6 +42953,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T201056Z" creationid="olex" creationdate="20180607T201056Z">
         <seg>Writer может экспортировать файлы в форматы HTML, XHTML, XML, Adobe Portable Document Format (PDF) и в различные версии файлов Microsoft Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writer can generate a &lt;i0/&gt;table of contents from the headings in your document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T175618Z" creationid="olex" creationdate="20181002T175618Z">
+        <seg>Writer может генерировать &lt;i0/&gt;оглавление из заголовков вашего документа.</seg>
       </tuv>
     </tu>
     <tu>
