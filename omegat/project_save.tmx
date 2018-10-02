@@ -7938,6 +7938,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before creating some types of indexes, you first need to create index entries in your Writer document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T180952Z" creationid="olex" creationdate="20181002T180952Z">
+        <seg>Перед созданием некоторых типов указателей вам сначала необходимо создать записи указателей в документе Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before protecting the sheet, you may wish to select certain cells that will be unprotected that can be changed by any users without the password.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180528T100813Z" creationid="olex" creationdate="20180502T193327Z">
@@ -8710,8 +8718,8 @@
       <tuv lang="EN-US">
         <seg>Change nothing in the Insert Index/Table dialog (unless you want to change the number of levels shown).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181002T180352Z" creationid="olex" creationdate="20181002T180352Z">
-        <seg>Не изменяйте ничего в диалоговом окне «Вставить индекс / таблицу» (если вы не хотите изменять количество отображаемых уровней).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T180431Z" creationid="olex" creationdate="20181002T180352Z">
+        <seg>Не изменяйте ничего в диалоговом окне Оглавление, указатель или библиография (если вы не хотите изменять количество отображаемых уровней).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21447,6 +21455,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to alphabetical indexes, other types of indexes supplied with Writer include those for illustrations, tables, and objects, and you can even create a user-defined index.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T180904Z" creationid="olex" creationdate="20181002T180904Z">
+        <seg>В дополнение к алфавитным указателям, другие типы указателей, поставляемых с Writer, включают в себя указатели для иллюстраций, таблиц и объектов, а так же вы можете создать свой пользовательский указатель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to formatting, any settings that can be added to or modified in a document can be saved within a template.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T174902Z" creationid="olex" creationdate="20180311T174837Z">
@@ -22270,6 +22286,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180820T183457Z" creationid="olex" creationdate="20180820T183457Z">
         <seg>Указатели и библиография работают подобно &lt;f0&gt;&lt;/f0&gt;оглавлению.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indexes and bibliographies work in a similar way to tables of contents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T180546Z" creationid="olex" creationdate="20181002T180546Z">
+        <seg>Указатели и библиография работают аналогично оглавлению.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29538,10 +29562,26 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Chapter 10, Printing, Exporting, and Emailing, in this book and the &lt;f0&gt;Writer Guide&lt;/f0&gt; for details on previewing pages before printing, selecting print options, printing in black and white on a color printer, printing brochures, and other printing features.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T181640Z" creationid="olex" creationdate="20181002T181331Z">
+        <seg>Смотрите Главу 10 Печать, экспорт и отправка по электронной почтеВ этой книге и &lt;f0&gt;Руководство по Writer&lt;/f0&gt; для получения дополнительной информации о просмотре страниц перед печатью, выборе параметров печати, черно-белой печати на цветном принтере, печати брошюр, и других функциях печати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Chapter 11, Graphics, the Gallery, and Fontwork, in this book and &lt;tc0/&gt;the &lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180820T185036Z" creationid="olex" creationdate="20180820T185036Z">
         <seg>Смотрите Главу 11, Графические объекты, алерея и шрифт, в этой книге и &lt;tc0/&gt;&lt;f1&gt;Руководство по Writer&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Chapter 11, Graphics, the Gallery, and Fontwork, in this book and the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T181336Z" creationid="olex" creationdate="20181002T181249Z">
+        <seg>Смотрите Главу 11, Графические элементы, Галерея и Шрифт в этой книге и &lt;f0&gt;Руководстве по Writer&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32939,6 +32979,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Writer Guide&lt;/f0&gt; describes the process in detail.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T181024Z" creationid="olex" creationdate="20181002T181024Z">
+        <seg>В руководстве по &lt;f0&gt;Writer&lt;/f0&gt; подробно описывается этот процесс.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;f1&gt;Manage Templates&lt;/f1&gt; option on the list opens the Template dialog (Figure &lt;t2&gt;8&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T204607Z" creationid="olex" creationdate="20180310T204607Z">
@@ -32959,6 +33007,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180921T193128Z" creationid="olex" creationdate="20180921T193128Z">
         <seg>Параметр &lt;f1&gt;Управление шаблонами&lt;/f1&gt; в списке открывает диалоговое окно Шаблоны (Рисунок &lt;t2&gt;8&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;f1&gt;Writer Guide&lt;/f1&gt; describes in detail all the customizations you can choose.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T180518Z" creationid="olex" creationdate="20181002T180518Z">
+        <seg>В руководстве по &lt;f1&gt;Writer&lt;/f1&gt; подробно описаны все настройки, которые вы можете выбрать.</seg>
       </tuv>
     </tu>
     <tu>
