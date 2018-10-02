@@ -8195,6 +8195,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By contrast, a form has sections that are not to be edited, and other sections that are designed for the reader to fill in information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T193503Z" creationid="olex" creationdate="20181002T193329Z">
+        <seg>Напротив, в форме есть разделы, которые не подлежат редактированию, и есть другие разделы, предназначенные для заполнения информации читающим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By contrast, when you use styles, you only need to make a single change.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T201810Z" creationid="olex" creationdate="20180306T201810Z">
@@ -17003,6 +17011,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information, refer to the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T192806Z" creationid="olex" creationdate="20181002T192806Z">
+        <seg>Для получения дополнительной информации обратитесь к &lt;f0&gt;Руководству по Writer&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information, refer to the &lt;tc0/&gt;&lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T174230Z" creationid="olex" creationdate="20180828T174230Z">
@@ -21495,6 +21511,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a standard text document, such as a report, any text can be edited.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T193338Z" creationid="olex" creationdate="20181002T193309Z">
+        <seg>В обычном текстовом документе, таком как отчет, может быть отредактирован любой текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to OpenDocument Formula (.odf) files, Math can open the format used by OpenOffice.org 1.x (.sxm), StarMath, (.smf), and MathML (.mml) files.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T155810Z" creationid="tagezi" creationdate="20180304T155810Z">
@@ -24124,6 +24148,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T174134Z" creationid="olex" creationdate="20180828T174134Z">
         <seg>Затем LibreOffice добавляет пользовательские поля в свойства документа (&lt;f12&gt;Файл &gt; Свойства&lt;/f12&gt; &gt; &lt;f13&gt; Свойства пользователя&lt;/f13&gt;), чтобы сохранить классификационную политику в качестве метаданных документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice then adds custom fields in the document properties (&lt;f1&gt;File &gt; Properties&lt;/f1&gt;, &lt;f2&gt;Custom fields&lt;/f2&gt; tab) to store the classification policy as document metadata.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T192708Z" creationid="olex" creationdate="20181002T192708Z">
+        <seg>Затем LibreOffice добавляет пользовательские поля в свойства документа (&lt;f1&gt;Файл &gt; Свойства&lt;/f1&gt; &gt; &lt;f2&gt;Свойства пользователя&lt;/f2&gt;), чтобы сохранить классификационную политику в качестве метаданных документа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27483,6 +27515,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T103610Z" creationid="olex" creationdate="20180721T103610Z">
         <seg>Варианты применения языков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Options for creating forms are available in the Forms menu of the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T193903Z" creationid="olex" creationdate="20181002T193903Z">
+        <seg>Параметры создания форм доступны в меню Формы стандартной панели инструментов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37415,6 +37455,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This toolbar contains list boxes to help in selecting the security of the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T192430Z" creationid="olex" creationdate="20181002T192430Z">
+        <seg>Эта панель инструментов содержит списки, помогающие в выборе безопасности документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This toolbar contains list&lt;ts10/&gt; &lt;te11/&gt;boxes to help in selecting the security of the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T173937Z" creationid="olex" creationdate="20180828T173937Z">
@@ -38640,6 +38688,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180927T171907Z" creationid="olex" creationdate="20180927T171907Z">
         <seg>Чтобы ввести короткое и длинное тире&lt;i0/&gt;, выможете использовать параметр &lt;f1&gt;Заменять дефисы на тире&lt;/f1&gt; во разделе &lt;f2&gt;Сервис &gt; Автозамена &gt; Параметры автозамены...&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To enter information directly into a database or data source.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T193554Z" creationid="olex" creationdate="20181002T193554Z">
+        <seg>Чтобы вводить информацию непосредственно в базу данных или источник данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43369,6 +43425,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T185554Z" creationid="olex" creationdate="20180828T180014Z">
         <seg>Writer предлагает несколько способов &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;организации&lt;/f2&gt;&lt;te3/&gt; информационных  &lt;ts4/&gt;&lt;f5&gt;полей &lt;/f5&gt;&lt;te6/&gt;в&lt;tc7/&gt; форме, включая флажки, переключатели опций, текстовые поля, списки и поля со списком.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writer offers several ways to organize information fields in a form, including check boxes, option buttons, text boxes, pull-down lists, and spinners.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T193755Z" creationid="olex" creationdate="20181002T193755Z">
+        <seg>Writer предлагает несколько способов организации информационных полей в форме, включая флажки, кнопки параметров, текстовые поля, выпадающие списки и поля со списками.</seg>
       </tuv>
     </tu>
     <tu>
