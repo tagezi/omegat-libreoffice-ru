@@ -5364,6 +5364,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A document with track changes activated but with the changes not shown carries an invisible history of document editing that the current user may not be aware of.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T183114Z" creationid="olex" creationdate="20181002T183114Z">
+        <seg>Если в документе активированы отслеживания изменений, но изменения не показаны, то документ содержит невидимую историю редактирования, о которой может не знать текущий пользователь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A drop-down list appears listing any cell in the same column that either has at least one text character or whose format is defined as text.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T093810Z" creationid="olex" creationdate="20180415T093810Z">
@@ -6505,6 +6513,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180823T172237Z" creationid="olex" creationdate="20180823T172237Z">
         <seg>Все эти &lt;ts0/&gt;&lt;f1&gt;функции&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt; используют &lt;ts4/&gt;&lt;f5&gt;данные из таблицы Writer или &lt;/f5&gt;&lt;te6/&gt;&lt;ts7/&gt;&lt;f8&gt;другого&lt;/f8&gt;&lt;te9/&gt; &lt;tc10/&gt;источника данных (таблицы или базы данных, содержащей &lt;tc11/&gt;имя и адресные записи &lt;tc12/&gt;&lt;ts13/&gt;&lt;f14&gt;или&lt;/f14&gt;&lt;te15/&gt; другую информацию)&lt;ts16/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All these features use data from a Writer table or another registered data source (a spreadsheet or database containing name and address records or other information).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T181939Z" creationid="olex" creationdate="20181002T181939Z">
+        <seg>Все эти функции используют данные из таблицы Writer или другого зарегистрированного источника данных (таблицы или базы данных, содержащей имя и адресные записи или другую информацию).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9364,6 +9380,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose &lt;f1&gt;Edit &gt; Track Changes &gt; Compare Document&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T182211Z" creationid="olex" creationdate="20181002T182211Z">
+        <seg>Выберите &lt;f1&gt;Правка &gt; Отслеживать изменения &gt; Сравнить документ...&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose &lt;f2&gt;Edit &gt; Track Changes &gt; Record Changes &lt;/f2&gt;before starting to edit.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180823T173742Z" creationid="olex" creationdate="20180823T173742Z">
@@ -12075,6 +12099,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T192329Z" creationid="olex" creationdate="20180315T192329Z">
         <seg>Подробности приведены в Главе 4, Форматирование страниц в &lt;f5&gt;Руководство по Writer&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Details are in the &lt;f7&gt;Writer Guide&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T182925Z" creationid="olex" creationdate="20181002T182925Z">
+        <seg>Подробности приведены в &lt;f7&gt;Руководстве по Writer&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19135,6 +19167,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, this method can cause problems with documents of non-trivial size or complexity, especially if you save a lot of versions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T182317Z" creationid="olex" creationdate="20181002T182317Z">
+        <seg>Однако этот метод может вызвать проблемы с документами большого размера или сложности, особенно если вы сохраняете множество версий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, when the computer is restarted, Quickstarter will be loaded again.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T191535Z" creationid="olex" creationdate="20180614T185904Z">
@@ -20564,6 +20604,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T193251Z" creationid="olex" creationdate="20180311T193251Z">
         <seg>Если вы внесете какие-либо изменения в шаблон и его стили, то при следующем открытии документа, который был создан из этого шаблона до изменения, появится сообщение с подтверждением.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you manually type in cross-references to other parts of a document, those references can easily get out of date if you reorganize the order of topics, add or remove material, or reword a heading.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T183432Z" creationid="olex" creationdate="20181002T183432Z">
+        <seg>Если вы вручную устанавливаете перекрестные ссылки на другие части документа, то эти ссылки могут легко устаревать, когда вы изменяете порядок тем, добавляете или удаляете материал или изменяете заголовок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29081,6 +29129,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click on an individual change and choose &lt;f4&gt;Accept Change&lt;/f4&gt; or &lt;f5&gt;Reject Change&lt;/f5&gt; from the context menu, or choose &lt;f6&gt;Edit &gt; Track Changes &gt; Manage Changes&lt;/f6&gt; to view the list of changes and accept or reject them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T182858Z" creationid="olex" creationdate="20181002T182331Z">
+        <seg>Нажмите правой кнопкой мыши по отдельному изменению и выберите в контекстном меню &lt;f4&gt;Принять изменение&lt;/f4&gt; или &lt;f5&gt;Отклонить изменение&lt;/f5&gt;, или выберите &lt;f6&gt;Правка &gt; Отслеживать изменения &gt; Управление&lt;/f6&gt;, чтобы просмотреть список изменений и принять или отклонить их.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click on an unrecognized word to open a context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180927T172609Z" creationid="olex" creationdate="20180804T180717Z">
@@ -29750,6 +29806,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T090728Z" creationid="tagezi" creationdate="20180313T090728Z">
         <seg>Смотрите &lt;f0&gt;Главу 3 "Работа с текстом" Руководства Writer&lt;/f0&gt; для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the &lt;f0&gt;Writer Guide&lt;/f0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T183314Z" creationid="olex" creationdate="20181002T183314Z">
+        <seg>Смотрите &lt;f0&gt;Руководство по Writer&lt;/f0&gt; для получения дополнительной информации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32975,6 +33039,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180913T190949Z" creationid="olex" creationdate="20180913T190949Z">
         <seg>&lt;f0&gt;Рабочая область&lt;/f0&gt; (обычно в центре главного окна) открывается в режиме &lt;f1&gt;Обычный&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Writer Guide&lt;/f0&gt; describes the merge processes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T182053Z" creationid="olex" creationdate="20181002T182053Z">
+        <seg>В &lt;f0&gt;Руководстве по Writer&lt;/f0&gt; описаны процессы настройки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36407,6 +36479,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T171025Z" creationid="olex" creationdate="20180616T171025Z">
         <seg>Они открываются щелчком правой кнопки мыши на абзаце, графике или другом объекте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are used for data that changes (such as the current date or the total number of pages) and for inserting document properties such as name, author, and date of last update.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T183246Z" creationid="olex" creationdate="20181002T183246Z">
+        <seg>Они используются для данных, которые изменяются (например, текущая дата или общее количество страниц) и для вставки свойств документа, таких как имя, автор и дата последнего обновления.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42656,6 +42736,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180823T175255Z" creationid="olex" creationdate="20180823T175151Z">
         <seg>В то же время эта функция приводит так же к потенциальному &lt;ts7/&gt;&lt;f8&gt;риску для конфиденциальности&lt;/f8&gt;&lt;te9/&gt;&lt;tc10/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While this is a feature, it is also a potential privacy risk.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T183212Z" creationid="olex" creationdate="20181002T183212Z">
+        <seg>Хотя это часть функционала программы, но также это потенциальный риск конфиденциальности.</seg>
       </tuv>
     </tu>
     <tu>
