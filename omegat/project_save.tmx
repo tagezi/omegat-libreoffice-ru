@@ -15979,6 +15979,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For details on using master documents, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T191819Z" creationid="olex" creationdate="20181002T191819Z">
+        <seg>Подробнее об использовании составных документов смотрите в &lt;f0&gt;Руководстве по Writer&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For details, consult the Help or the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T160444Z" creationid="olex" creationdate="20180722T160444Z">
@@ -23879,6 +23887,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LibreOffice implemented the open standards produced by TSCP (Transglobal Secure Collaboration Participation, Inc.).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T191954Z" creationid="olex" creationdate="20181002T191954Z">
+        <seg>LibreOffice реализовал открытые стандарты, разработанные TSCP (Transglobal Secure Collaboration Participation, Inc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LibreOffice implemented the open standards produced by TSCP (Transglobal Secure Collaboration Participation, Inc.)&lt;tc0/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T173355Z" creationid="olex" creationdate="20180828T173355Z">
@@ -24028,6 +24044,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T194655Z" creationid="olex" creationdate="20180307T194655Z">
         <seg>LibreOffice предоставляет вам несколько способов выбора стилей:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice provides standardized means for sensitive information to be identified and protected, using a set of standard fields that can be used to hold sensitive information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T191916Z" creationid="olex" creationdate="20181002T191916Z">
+        <seg>LibreOffice предоставляет стандартизированные средства для идентификации и защиты конфиденциальной информации с использованием набора стандартных полей, которые могут использоваться для хранения конфиденциальной информации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24892,6 +24916,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T075259Z" creationid="olex" creationdate="20180915T075259Z">
         <seg>Мастер-слайды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Master documents are typically used for producing long documents such as a book, thesis, or long report.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T191636Z" creationid="olex" creationdate="20181002T191636Z">
+        <seg>Составные документы обычно используются для создания длинных документов, таких как книга, диссертация или длинный доклад.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36571,6 +36603,22 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They are especially handy when different people are writing different sections of a document, eliminating the need to continually share the full document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T191728Z" creationid="olex" creationdate="20181002T191728Z">
+        <seg>Особенно они удобны, когда разные люди пишут разные разделы документа, устраняя необходимость постоянного обмена полным документом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are listed in the Navigator and can be accessed directly from there with a single mouse click.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T191314Z" creationid="olex" creationdate="20181002T191314Z">
+        <seg>Они перечислены в Навигаторе и могут быть доступны непосредственно из него одним щелчком мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They are opened by right-clicking on a paragraph, graphic, or other object.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T171025Z" creationid="olex" creationdate="20180616T171025Z">
@@ -38228,6 +38276,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To create a bookmark:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T191451Z" creationid="olex" creationdate="20181002T191451Z">
+        <seg>Чтобы создать закладку:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To create a formula as a separate document or file, use one of the following methods to open an empty formula document in LibreOffice Math (Figure &lt;t0&gt;1&lt;/t0&gt;):</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T210202Z" creationid="User" creationdate="20180307T210202Z">
@@ -38536,6 +38592,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T173843Z" creationid="olex" creationdate="20180828T173843Z">
         <seg>Чтобы включить классификацию документов, откройте панель &lt;ts0/&gt;&lt;f1&gt;TSCP&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt; (&lt;f4&gt;Вид &gt; Панели инструментов &gt; &lt;/f4&gt;&lt;tc5/&gt;&lt;ts6/&gt;&lt;f7&gt;&lt;f8&gt;Классификация TSCP&lt;/f8&gt;&lt;/f7&gt;&lt;te9/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To enable document classification, open the TSCP bar (&lt;f0&gt;View &gt; Toolbars &gt; TSCP&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T192326Z" creationid="olex" creationdate="20181002T192326Z">
+        <seg>Чтобы включить классификацию документов, откройте панель Классификация TSCP (&lt;f0&gt;Вид &gt; Панели инструментов &gt; Классификация TSCP&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44125,6 +44189,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T204706Z" creationid="olex" creationdate="20180310T204706Z">
         <seg>Шаблоны можно создавать двумя способами: сохранением документа как шаблона или с помощью мастера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can cross-reference to bookmarks and create hyperlinks to bookmarks, as described above.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181002T191434Z" creationid="olex" creationdate="20181002T191434Z">
+        <seg>Вы можете создавать перекрестные ссылки и гиперссылки на закладки, как описано выше.</seg>
       </tuv>
     </tu>
     <tu>
