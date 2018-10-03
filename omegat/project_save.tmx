@@ -6831,6 +6831,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although the programming languages are the same, the objects and methods are different and therefore not entirely compatible.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181003T174201Z" creationid="olex" creationdate="20181003T174201Z">
+        <seg>Хотя языки программирования похожи, но объекты и методы в них различны и поэтому они не полностью совместимы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although these methods are a type of direct formatting, they cannot be cleared by using “Clear Direct Formatting” &lt;s0/&gt;on the Format menu or by using Ctrl+M.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180926T181445Z" creationid="olex" creationdate="20180926T181445Z">
@@ -8263,6 +8271,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T174336Z" creationid="olex" creationdate="20180727T174336Z">
         <seg>По умолчанию LibreOffice &lt;ts0/&gt;&lt;f1&gt;создает&lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt; и сохраняет файлы в формате Open Document Format (ODF), стандартизованный формат файла (ISO-IEC 26300), используемый многими программами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, LibreOffice Calc uses its own formula syntax, referred to as &lt;f0&gt;Calc R1&lt;/f0&gt; rather than the &lt;f1&gt;Excel R1&lt;/f1&gt; syntax that is used by Microsoft Excel.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181003T173738Z" creationid="olex" creationdate="20181003T173738Z">
+        <seg>По умолчанию LibreOffice Calc использует свой собственный синтаксис формулы, который называется&lt;f0&gt;Calc R1&lt;/f0&gt;, а не синтаксис &lt;f1&gt;Excel R1&lt;/f1&gt;, который используется Microsoft Excel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16947,6 +16963,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information on formula syntax, see the &lt;f0&gt;Calc Guide Chapter 7 Formulas and Functions&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181003T174045Z" creationid="olex" creationdate="20181003T174045Z">
+        <seg>Для получения дополнительной информации о синтаксисе формул смотрите &lt;f0&gt;Руководство по Calc, Главу 7 Формулы и функции&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information on how to hide and show data, including how to use outline groups and filtering, see the &lt;f0&gt;Calc Guide Chapter 2 Entering, Editing, and Formatting Data&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T183213Z" creationid="olex" creationdate="20180502T183213Z">
@@ -16975,6 +16999,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180515T174642Z" creationid="olex" creationdate="20180327T185546Z">
         <seg>Дополнительные сведения о макросах смотрите в Главе 12 Макросы Calc руководства по LibreOffice Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on macros, refer to the Calc Guide Chapter 12 Calc Macros.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181003T174305Z" creationid="olex" creationdate="20181003T174305Z">
+        <seg>Для получения дополнительной информации о макросах обратитесь к Главе 12 Руководства по Calc, Макросы в Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19131,6 +19163,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180829T185151Z" creationid="olex" creationdate="20180829T184803Z">
         <seg>Однако, если вы знакомы с Excel, вы можете изменить синтаксис по умолчанию в Calc, пройдя в меню &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Сервис &gt; Параметры &gt; &lt;/f17&gt;&lt;/f16&gt;&lt;ts18/&gt;&lt;f19&gt;&lt;f20&gt;LibreOffice Calc &gt; &lt;/f20&gt;&lt;/f19&gt;&lt;te21/&gt;&lt;f22&gt;&lt;f23&gt;Формула &gt; Синтаксис формулы&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt; и выбрав&lt;/f24&gt;&lt;f25&gt;&lt;f26&gt;Excel R1C1&lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt; из раскрывающегося меню&lt;/f27&gt;&lt;ts28/&gt;&lt;f29&gt;&lt;/f29&gt;&lt;te30/&gt;&lt;tc31/&gt;&lt;f32&gt;.&lt;/f32&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, if you are familiar with Excel you may wish to change the default syntax in Calc by going to &lt;f2&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Formula &gt; Formula Syntax&lt;/f2&gt; and choosing &lt;f3&gt;Excel R1&lt;/f3&gt; from the drop-down menu provided.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181003T174012Z" creationid="olex" creationdate="20181003T174012Z">
+        <seg>При этом, если вы хорошо знакомы с Excel, то можете изменить синтаксис по умолчанию в Calc, перейдя в меню &lt;f2&gt; Сервис &gt; Параметры &gt; LibreOffice Calc &gt; Формула &gt; Синтаксис формулы&lt;/f2&gt; и выбрав &lt;f3&gt;Excel R1&lt;/f3&gt; из выпадающего списка.</seg>
       </tuv>
     </tu>
     <tu>
