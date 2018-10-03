@@ -464,6 +464,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;7&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Spreadsheets, sheets, and cells&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181003T172501Z" creationid="olex" creationdate="20181003T172501Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;7&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Электронные таблицы, листы и ячейки&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;About LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Opens a dialog window and displays information about the version of LibreOffice and the operating system you are using.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180917T200631Z" creationid="olex" creationdate="20180917T200631Z">
@@ -676,6 +684,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T181151Z" creationid="olex" creationdate="20180828T181151Z">
         <seg>&lt;f0&gt;&lt;t1&gt;6&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;s3/&gt;| &lt;/f2&gt;&lt;t4&gt;Глава 5 Начало работы с Calc&lt;/t4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;t1&gt;6&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 5 Getting started with Calc&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181003T172546Z" creationid="olex" creationdate="20181003T172546Z">
+        <seg>&lt;f0&gt;&lt;t1&gt;6&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Глава 5 Начало работы с Calc&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4460,6 +4476,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;48&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Repeat printing of rows or columns&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181003T172519Z" creationid="olex" creationdate="20181003T172519Z">
+        <seg>&lt;t0&gt;48&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Повторная печать строк или столбцов&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;52&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 5 Getting started with Calc&lt;/t4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T171637Z" creationid="olex" creationdate="20180326T171637Z">
@@ -4672,6 +4696,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180917T201506Z" creationid="olex" creationdate="20180917T201506Z">
         <seg>&lt;t0&gt;Часто задаваемые вопросы&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;9&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Headers and footers&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;49&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181003T172432Z" creationid="olex" creationdate="20181003T172432Z">
+        <seg>&lt;t0&gt;Верхние и Нижние колонтитулы&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;49&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7581,6 +7613,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180921T202157Z" creationid="olex" creationdate="20180921T202157Z">
         <seg>Автозамена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AutoCorrection options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181003T172847Z" creationid="olex" creationdate="20181003T172847Z">
+        <seg>Параметры Автозамены</seg>
       </tuv>
     </tu>
     <tu>
@@ -43032,6 +43072,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T175710Z" creationid="olex" creationdate="20180326T175710Z">
         <seg>Подстановочные знаки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wildcards are more widespread in other spreadsheet applications and adopting a similar option in LibreOffice allows for better compatibility and a better experience for users who may not be familiar with the use of regular expressions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181003T173530Z" creationid="olex" creationdate="20181003T173530Z">
+        <seg>Подстановочные знаки более широко распространены в других приложениях для электронных таблиц, и использование аналогичного варианта в LibreOffice позволяет улучшить совместимость и дать лучший опыт для пользователей, которые могут быть не знакомы с использованием регулярных выражений.</seg>
       </tuv>
     </tu>
     <tu>
