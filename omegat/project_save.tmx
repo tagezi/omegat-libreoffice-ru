@@ -2741,6 +2741,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Sheet&lt;/f0&gt; – contains the most often used commands for handling sheets, such as &lt;f1&gt;Insert&lt;/f1&gt; and &lt;f2&gt;Delete Cells, Columns, Rows and Sheets, Sheets from File, Cell Reference Type, Link to External Data, &lt;/f2&gt;as well as&lt;f3&gt; Comments &lt;/f3&gt;and&lt;f4&gt; Fill cells.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181003T180052Z" creationid="olex" creationdate="20181003T180052Z">
+        <seg>&lt;f0&gt;Лист&lt;/f0&gt; – содержит наиболее часто используемые команды для обработки листов, например &lt;f1&gt;Вставить&lt;/f1&gt; и &lt;f2&gt;Удалить ячейки, столбцы, строки и листы, лист из файла, Сменить тип ссылок, Связь с внешними данными, &lt;/f2&gt;а так же&lt;f3&gt; Комментарии к ячейке &lt;/f3&gt;и&lt;f4&gt; Заполнить&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Sheet&lt;/f0&gt;&lt;f1&gt; – contains the most often used commands for handling sheets, such as &lt;/f1&gt;&lt;f2&gt;Insert&lt;/f2&gt; and &lt;f3&gt;Delete Cells, Columns, Rows and Sheets, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Sheets from File, Cell Reference Type, Link to External Data, &lt;/f5&gt;&lt;/f4&gt;as well as&lt;f6&gt; Comments &lt;/f6&gt;and&lt;f7&gt; Fill cells.&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180829T194146Z" creationid="olex" creationdate="20180829T194146Z">
@@ -3107,6 +3115,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180829T195408Z" creationid="olex" creationdate="20180829T195408Z">
         <seg>&lt;f0&gt;Сервис&lt;/f0&gt; – содержит различные функции, которые помогут вам проверить и настроить электронную таблицу; например, &lt;f1&gt;Проверка орфографии...&lt;/f1&gt;, &lt;f2&gt;Совместно использовать документ...&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;, &lt;f4&gt;Макросы, &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Подбор параметра..., Решатель..., Зависимости, Защитить лист, Настройка фильтров XML, Дополнения.&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Tools&lt;/f0&gt; – contains various functions to help you check and customize the spreadsheet; for example, &lt;f1&gt;Spelling&lt;/f1&gt;, &lt;f2&gt;Share Document&lt;/f2&gt;, &lt;f3&gt;Gallery&lt;/f3&gt;, &lt;f4&gt;Macros, Goal Seek, Solver, Detective, Protect Sheet, XML Filter Settings, Extension Manager.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181003T180720Z" creationid="olex" creationdate="20181003T180720Z">
+        <seg>&lt;f0&gt;Сервис&lt;/f0&gt; – содержит различные функции, которые помогут вам проверить и настроить электронную таблицу, например: &lt;f1&gt;Проверка орфографии&lt;/f1&gt;, &lt;f2&gt;Совместно использовать документ&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;, &lt;f4&gt;Макросі, Подбор параметра, Решатель, Зависимости, Защитить лист, Настройка фильтров XML, Управление расширениями&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
