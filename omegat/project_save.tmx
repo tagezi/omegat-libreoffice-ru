@@ -3472,6 +3472,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Window&lt;/f0&gt; – contains commands to open a &lt;f1&gt;New&lt;/f1&gt; window or &lt;f2&gt;Close&lt;/f2&gt; an open window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181003T180928Z" creationid="olex" creationdate="20181003T180928Z">
+        <seg>&lt;f0&gt;Окно&lt;/f0&gt; – содержит команды для открытия &lt;f1&gt;Новое окно&lt;/f1&gt; или &lt;f2&gt;Закрыть окно&lt;/f2&gt; для открытого файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;With paragraph styles, you can easily create nested lists, in which where list items have subpoints under them, as in an outline.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T165205Z" creationid="olex" creationdate="20180811T165205Z">
