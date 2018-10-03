@@ -1370,6 +1370,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Edit&lt;/f0&gt; – contains commands for editing the document; for example, &lt;f1&gt;Undo, Copy, Paste, Track Changes, Find and Replace, Compare and Merge Documents.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181003T174923Z" creationid="olex" creationdate="20181003T174923Z">
+        <seg>&lt;f0&gt;Правка&lt;/f0&gt; – содержит команды для редактирования документа; например, &lt;f1&gt;Отменить, Копировать, Вставить, Отслеживать изменения, Найти и заменить, Сравнить документ и Объединить исправления.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Edit&lt;/f0&gt; – contains commands for editing the document; for example, &lt;f1&gt;Undo, Copy, Paste, Track Changes, Find and Replace, Compare and Merge Documents&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T180425Z" creationid="olex" creationdate="20180328T180425Z">
@@ -1574,6 +1582,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T182721Z" creationid="olex" creationdate="20180328T175939Z">
         <seg>&lt;f0&gt;Файл&lt;/f0&gt; - содержит команды, которые относятся ко всему документу; например, &lt;f1&gt;Открыть...&lt;/f1&gt;, &lt;f2&gt;Сохранить&lt;/f2&gt;, &lt;f3&gt;Мастер&lt;/f3&gt;, &lt;f4&gt;Экспорт в PDF...&lt;/f4&gt;, &lt;f5&gt;Печать...&lt;/f5&gt;, &lt;f6&gt;Цифровые подписи и Шаблоны&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;File&lt;/f0&gt; – contains commands that apply to the entire document; for example, &lt;f1&gt;Open&lt;/f1&gt;, &lt;f2&gt;Save&lt;/f2&gt;, &lt;f3&gt;Wizards&lt;/f3&gt;, &lt;f4&gt;Export as PDF&lt;/f4&gt;, &lt;f5&gt;Print&lt;/f5&gt;, &lt;f6&gt;Digital Signatures, and Templates.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181003T174707Z" creationid="olex" creationdate="20181003T174707Z">
+        <seg>&lt;f0&gt;Файл&lt;/f0&gt; – содержит команды, которые применяются ко всему документу; например, &lt;f1&gt;Открыть&lt;/f1&gt;, &lt;f2&gt;Сохранить&lt;/f2&gt;, &lt;f3&gt;Мастер&lt;/f3&gt;, &lt;f4&gt;Экспорт в PDF&lt;/f4&gt;, &lt;f5&gt;Печать&lt;/f5&gt;, &lt;f6&gt;Цифровые подписи и Шаблоны.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1985,6 +2001,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180829T192721Z" creationid="olex" creationdate="20180829T192721Z">
         <seg>&lt;f0&gt;Вставка&lt;/f0&gt; – содержит команды для вставки элементов в электронную таблицу; например, &lt;f1&gt;Изображение..., &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Медиа, Объект, Функция..., &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Фрейм..., Специальные символы, Диаграмма, &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Фигуры, Сводная таблица..., Именованный диапазон или выражение..., Комментарий, Гиперссылка..., Колонтитулы..., Элементы управления.&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Insert&lt;/f0&gt; – contains commands for inserting elements into a spreadsheet; for example, &lt;f1&gt;Pictures, Media, Objects, Formula Design, Frames, Special Characters, Charts, Functions, &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;Shapes, Pivot Tables, Named Ranges, Comments, Hyperlinks, Headers and Footers, Form Controls.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181003T175458Z" creationid="olex" creationdate="20181003T175458Z">
+        <seg>&lt;f0&gt;Вставка&lt;/f0&gt; – содержит команды для вставки элементов в электронную таблицу; например, &lt;f1&gt;Изображения, Медиа, Объект, Функция, Фрейм, Специальные символы, Диаграмма, &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;Фигуры, Сводная таблица, Именованный диапазон, Комментарий, Гиперссылка, Верхние и Нижние колонтитулы, Элементы управления.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
