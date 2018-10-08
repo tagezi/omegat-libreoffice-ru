@@ -3280,10 +3280,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Using the Navigator&lt;/f0&gt; – press the &lt;f1&gt;F5&lt;/f1&gt; key to open the Navigator dialog (Figure &lt;t2&gt;11&lt;/t2&gt;) or click the &lt;f3&gt;Navigator &lt;/f3&gt;button in the open Sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T182600Z" creationid="olex" creationdate="20181008T182600Z">
+        <seg>&lt;f0&gt;Используя Навигатор&lt;/f0&gt; – нажмите клавишу &lt;f1&gt;F5&lt;/f1&gt;, чтобы открыть диалоговое окно Навигатор (Рисунок &lt;t2&gt;11&lt;/t2&gt;) или нажмите кнопку &lt;f3&gt;Навигатор&lt;/f3&gt; на боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Using the Navigator&lt;/f0&gt; – press the &lt;f1&gt;F5&lt;/f1&gt; key to open the Navigator dialog (Figure &lt;t2&gt;8&lt;/t2&gt;) or click the &lt;f3&gt;Navigator &lt;/f3&gt;button in the open Sidebar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T194526Z" creationid="olex" creationdate="20180402T194526Z">
         <seg>&lt;f0&gt;Используя навигатор&lt;/f0&gt; - нажмите клавишу &lt;f1&gt;F5&lt;/f1&gt;, чтобы открыть диалоговое окно Навигатор (Рисунок &lt;t2&gt;8&lt;/t2&gt;) или нажмите кнопку &lt;f3&gt;Навигатор&lt;/f3&gt; на открытой боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Using the Navigator&lt;/f0&gt; – when the Navigator is open (Figure &lt;t1&gt;11&lt;/t1&gt;), double-click on any of the listed sheets to select the sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T182828Z" creationid="olex" creationdate="20181008T182828Z">
+        <seg>&lt;f0&gt;Используя Навигатор&lt;/f0&gt; – когда Навигатор открыт (Рисунок &lt;t1&gt;11&lt;/t1&gt;), щелкните дважды по любому из перечисленных листов, чтобы выбрать его.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15278,6 +15294,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: File Format dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T182142Z" creationid="olex" creationdate="20181008T182142Z">
+        <seg>Рисунок &lt;seq0&gt;6&lt;/seq0&gt;: Диалоговое окно Подтверждение формата файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Go to Page dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180924T181245Z" creationid="olex" creationdate="20180924T181245Z">
@@ -15402,6 +15426,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T190100Z" creationid="olex" creationdate="20180718T190100Z">
         <seg>Рисунок &lt;seq0&gt;8&lt;/seq0&gt;: Копирование стилей из шаблона в открытый документ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Navigator &lt;f1&gt;in Calc&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T182612Z" creationid="olex" creationdate="20181008T182612Z">
+        <seg>Рисунок &lt;seq0&gt;8&lt;/seq0&gt;: Навигатор &lt;f1&gt;в Calc&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16673,6 +16705,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T180135Z" creationid="olex" creationdate="20180619T180135Z">
         <seg>Например, вы можете работать над документом в офисе в течение дня и редактировать его дома, внося изменения в последнюю минуту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, you cannot copy a non-contiguous range.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T183433Z" creationid="olex" creationdate="20181008T183433Z">
+        <seg>Например, вы не можете скопировать диапазон несмежных ячеек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22011,6 +22051,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the &lt;f0&gt;File type&lt;/f0&gt; drop-down menu, select the type of spreadsheet format you want to use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T182003Z" creationid="olex" creationdate="20181008T182003Z">
+        <seg>В раскрывающемся списке &lt;f0&gt;Тип файла&lt;/f0&gt; выберите тип формата электронной таблицы, который вы хотите использовать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the &lt;f0&gt;Insert reference to&lt;/f0&gt; list, &lt;ts1/&gt;&lt;f2&gt;select the option needed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180823T190613Z" creationid="olex" creationdate="20180823T190613Z">
@@ -23605,7 +23653,6 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
     </tu>
     <tu>
-      <note>denkin: в глоссарии слово клавиш написано с мягким знаком: клавишь</note>
       <tuv lang="EN-US">
         <seg>Keyboard shortcut</seg>
       </tuv>
@@ -25783,6 +25830,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T082206Z" creationid="olex" creationdate="20180901T082050Z">
         <seg>Перемещает фокус на ячейку следующего слева листа на панели вкладок листов &lt;f0&gt;от места, где фокус был перед этим;&lt;/f0&gt; если электронная таблица имеет более одного  листа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moves cell focus to the cell on the next sheet to the left in sheet tabs where the focus was there before; if the spreadsheet has more than on sheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T183117Z" creationid="olex" creationdate="20181008T183117Z">
+        <seg>Перемещает фокус на ячейку следующего по вкладкам листа (слева от текущего), если электронная таблица состоит из более чем одного листа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32167,6 +32222,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some Calc operations cannot be used with non-contiguous cells.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T183348Z" creationid="olex" creationdate="20181008T183348Z">
+        <seg>Некоторые операции Calc не могут применяться к несмежным ячейкам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some LibreOffice features (wizards and the HSQLDB database engine) require that the Java Runtime Environment (JRE) is installed on your computer.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T175716Z" creationid="olex" creationdate="20180611T175716Z">
@@ -32420,6 +32483,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T200730Z" creationid="olex" creationdate="20180309T200730Z">
         <seg>Иногда это именно то, что вы хотите; но иногда нежелательно, чтобы изменения применялись ко всем связанным стилям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes you may want to hide the contents of a sheet to preserve data from accidental editing or because its contents are not important to display.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T184022Z" creationid="olex" creationdate="20181008T184022Z">
+        <seg>Иногда вам может потребоваться скрыть содержимое листа для сохранения данных от случайного редактирования или потому, что его содержимое не важно для отображения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39053,6 +39124,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To hide a sheet or many sheets, select the sheet or sheets as above, right-click to open the context menu, and select &lt;f0&gt;Hide Sheet&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T184148Z" creationid="olex" creationdate="20181008T184148Z">
+        <seg>Чтобы скрыть один или несколько листов, выберите лист или листы, как указано выше, щелкните правой кнопкой мыши на выбранном, чтобы открыть контекстное меню, и выберите &lt;f0&gt;Скрыть лист&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To hide the Sidebar, click on the gray &lt;f0&gt;Hide&lt;/f0&gt; button on the left.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T180734Z" creationid="olex" creationdate="20180616T180734Z">
@@ -39863,6 +39942,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To select the entire sheet, click on the corner box between the column header A and the row header 1 (Figure &lt;t0&gt;12&lt;/t0&gt;), or use the key combination &lt;f1&gt;Ctrl+A&lt;/f1&gt; to select the entire sheet, or go to &lt;f2&gt;Edit&lt;/f2&gt; on the Menu bar and select &lt;f3&gt;Select All&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T183851Z" creationid="olex" creationdate="20181008T183851Z">
+        <seg>Чтобы выбрать весь лист, щелкните по углу окна слева от заголовка столбца A и выше заголовка строки 1 (Рисунок &lt;t0&gt;12&lt;/t0&gt;), или используйте комбинацию клавиш &lt;f1&gt;Ctrl+A&lt;/f1&gt;, или выберите в меню &lt;f2&gt;Правка &gt; Выделить все&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To select the printing options for &lt;i0/&gt;page order, details, and scale to be used when printing a spreadsheet:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T181028Z" creationid="olex" creationdate="20180508T181028Z">
@@ -39939,6 +40026,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T084616Z" creationid="olex" creationdate="20180901T084616Z">
         <seg>Чтобы отобразить скрытые листы, щелкните правой кнопкой мыши по вкладке любого листа и выберите  в контекстном меню &lt;/f27&gt;&lt;f28&gt;&lt;f29&gt;Показать листы...&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To show hidden sheets, right-click any sheet tab and select &lt;f1&gt;Show Sheet&lt;/f1&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T184307Z" creationid="olex" creationdate="20181008T184307Z">
+        <seg>Чтобы отобразить скрытые листы, щелкните правой кнопкой мыши по вкладке любого листа и выберите в контекстном меню &lt;f1&gt;Показать листы&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40486,6 +40581,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T115629Z" creationid="tagezi" creationdate="20180313T115629Z">
         <seg>Введите желаемую информацию или выполните соответствующую последовательность операций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type the new cell reference of the cell you want to &lt;t5/&gt;move to and press &lt;f6&gt;Enter&lt;/f6&gt; key.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T182340Z" creationid="olex" creationdate="20181008T182340Z">
+        <seg>Введите адрес ячейки, к которой вы хотите перейти&lt;t5/&gt;, и нажмите клавишу &lt;f6&gt;Enter&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
