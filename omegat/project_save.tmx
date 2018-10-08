@@ -13042,6 +13042,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each deck has a corresponding icon on the &lt;i2/&gt;Tab panel to the right of the sidebar, allowing you to switch between them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T181129Z" creationid="olex" creationdate="20181008T181129Z">
+        <seg>Каждая вкладка имеет соответствующий значок на панели вкладок, &lt;i2/&gt;справа от боковой панели, что позволяет вам переключаться между ними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each deck has a corresponding icon on the &lt;i3/&gt;Tab panel to the right of the sidebar, allowing you to switch between them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T180253Z" creationid="olex" creationdate="20180329T194149Z">
@@ -20947,8 +20955,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If you type the name of a named range and press the &lt;f2&gt;Enter&lt;/f2&gt; key, the named range is selected and displayed.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180829T200618Z" creationid="olex" creationdate="20180829T200618Z">
-        <seg>Если вы наберете имя именованного диапазона и нажмите клавишу &lt;f2&gt;Enter&lt;/f2&gt;, то диапазон будет выбран и отображен.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T180822Z" creationid="olex" creationdate="20180829T200618Z">
+        <seg>Если вы наберете имя именованного диапазона и нажмете клавишу &lt;f2&gt;Enter&lt;/f2&gt;, то диапазон будет выбран и отображен.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27696,6 +27704,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other Options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T181608Z" creationid="olex" creationdate="20181008T181608Z">
+        <seg>Другие параметры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other common variable types include &lt;f3&gt;string&lt;/f3&gt;, &lt;f4&gt;integer&lt;/f4&gt;, and &lt;f5&gt;date&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T210955Z" creationid="tagezi" creationdate="20180315T210955Z">
@@ -33316,6 +33332,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Text Import&lt;/f0&gt; dialog (Figure &lt;t1&gt;5&lt;/t1&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T181541Z" creationid="olex" creationdate="20181008T181541Z">
+        <seg>Откроется диалоговое окно &lt;f0&gt;Импорт текста&lt;/f0&gt; (Рисунок &lt;t1&gt;5&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;f0&gt;Workspace&lt;/f0&gt; (normally in the center of the main window) opens in the &lt;f1&gt;Normal&lt;/f1&gt; view.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180913T190949Z" creationid="olex" creationdate="20180913T190949Z">
@@ -35076,6 +35100,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The icons &lt;f8&gt;&lt;df9&gt;&lt;di10/&gt;&lt;/df9&gt;&lt;/f8&gt;&lt;f11&gt;&lt;s12/&gt;in the formula bar are equivalent to the &lt;/f11&gt;&lt;f13&gt;Enter&lt;/f13&gt; and &lt;f14&gt;Esc&lt;/f14&gt; commands.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T181022Z" creationid="olex" creationdate="20181008T181022Z">
+        <seg>Значки &lt;f8&gt;&lt;df9&gt;&lt;di10/&gt;&lt;/df9&gt;&lt;/f8&gt;&lt;f11&gt;&lt;s12/&gt;на панели формул эквивалентны нажатию клавиш &lt;/f11&gt;&lt;f13&gt;Enter&lt;/f13&gt; и &lt;f14&gt;Esc&lt;/f14&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The icons for some of the many tools available in LibreOffice may then differ from the ones used in this guide.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T191337Z" creationid="tagezi" creationdate="20180310T092125Z">
@@ -35871,7 +35903,7 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
     </tu>
     <tu>
-      <note>denkin: может черезчур творчески подошел к построению этой фразы пытаясь уйти от механического перевода.</note>
+      <note>denkin: может чересчур творчески подошел к построению этой фразы пытаясь уйти от механического перевода.</note>
       <tuv lang="EN-US">
         <seg>The selected language also influences how such special numbers are detected, since different languages and regions many have different conventions for such special numbers.</seg>
       </tuv>
@@ -44123,6 +44155,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T181746Z" creationid="olex" creationdate="20180616T181746Z">
         <seg>Вы также можете создать новый документ одним из следующих способов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also type a cell reference in the Name Box &lt;t1/&gt;to jump to the referenced cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T180811Z" creationid="olex" creationdate="20181008T180811Z">
+        <seg>Вы также можете ввести ссылку на ячейку в поле Имя&lt;t1/&gt;, чтобы перейти к этой ячейке.</seg>
       </tuv>
     </tu>
     <tu>
