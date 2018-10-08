@@ -5437,6 +5437,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A dialog will appear with all hidden sheets listed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T184356Z" creationid="olex" creationdate="20181008T184356Z">
+        <seg>Откроется диалоговое окно со списком всех скрытых листов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A dialog window appear with all hidden sheets listed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T190519Z" creationid="olex" creationdate="20180405T190519Z">
@@ -10413,6 +10421,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the desired sheet and then click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T184436Z" creationid="olex" creationdate="20181008T184436Z">
+        <seg>Выберите необходимый лист и нажмите &lt;f2&gt;ОК&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the desired sheet and then click OK.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T190559Z" creationid="olex" creationdate="20180405T190559Z">
@@ -12658,8 +12674,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Double-click on a sheet tab to open the &lt;f0&gt;Rename Sheet&lt;/f0&gt; dialog.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180409T162028Z" creationid="olex" creationdate="20180409T162028Z">
-        <seg>Дважды щелкните по вкладке листа, чтобы открыть диалог &lt;f0&gt;Переименовать лист&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T185753Z" creationid="olex" creationdate="20180409T162028Z">
+        <seg>Дважды щелкните по вкладке листа, чтобы открыть диалоговое окно &lt;f0&gt;Переименовать лист&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13414,6 +13430,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T161731Z" creationid="olex" creationdate="20180409T161600Z">
         <seg>Введите имя в текстовое поле &lt;f0&gt;Имя&lt;/f0&gt; создавая лист в помощью диалогового окна Вставить лист (Рисунок &lt;t1&gt;14&lt;/t1&gt;&lt;s2/&gt; на странице &lt;t3&gt;24&lt;/t3&gt;). ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the name in the &lt;f0&gt;Name&lt;/f0&gt; text box when you create the sheet using the Insert Sheet dialog (Figure &lt;t1&gt;15&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;24&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T185737Z" creationid="olex" creationdate="20181008T185549Z">
+        <seg>Если вы создаете лист с помощью диалогового окна Вставить лист, то введите имя листа в текстовое поле &lt;f0&gt;Имя&lt;/f0&gt;(Рисунок &lt;t1&gt;15&lt;/t1&gt;&lt;s2/&gt;на странице &lt;t3&gt;24&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38720,6 +38744,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T213656Z" creationid="olex" creationdate="20180407T213656Z">
         <seg>Чтобы удалить несколько столбцов или строк:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To delete multiple sheets, select the sheets (see “&lt;bf0&gt;Selecting sheets&lt;/bf0&gt;” on page &lt;bf1&gt;20&lt;/bf1&gt;), then right-click one of the sheet tabs and select &lt;f2&gt;Delete Sheet&lt;/f2&gt; from the context menu, or go to &lt;f3&gt;Sheet &gt; Delete Sheet...&lt;/f3&gt; from on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T185201Z" creationid="olex" creationdate="20181008T185201Z">
+        <seg>Чтобы удалить несколько листов, выберите листы (смотрите «&lt;bf0&gt;Выбор листов&lt;/bf0&gt;» на странице &lt;bf1&gt;20&lt;/bf1&gt;), затем щелкните правой кнопкой мыши одну из вкладок листа и выберите в контекстном меню &lt;f2&gt;Удалить листы...&lt;/f2&gt;, или выберите в меню &lt;f3&gt;Лист &gt; Удалить листы...&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
