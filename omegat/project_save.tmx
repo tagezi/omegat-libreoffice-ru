@@ -1820,6 +1820,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Убрал пункт про проверку обновлений</note>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Help&lt;/f0&gt; – contains links to the LibreOffice help system and other miscellaneous functions; for example, &lt;f1&gt;Help&lt;/f1&gt;, &lt;f2&gt;License Information&lt;/f2&gt;, &lt;f3&gt;User Guides&lt;/f3&gt;, &lt;f4&gt;Check for Updates, Send Feedback&lt;/f4&gt;, and&lt;f5&gt; Donate&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181008T180618Z" creationid="olex" creationdate="20181008T180618Z">
+        <seg>&lt;f0&gt;Справка&lt;/f0&gt; – содержит ссылки на справочную систему LibreOffice и другие функции, например: &lt;f1&gt;Справка&lt;/f1&gt;, &lt;f2&gt;информация про Лицензию&lt;/f2&gt;, &lt;f3&gt;Руководства пользователя&lt;/f3&gt;, Проверить наличие обновлений, &lt;f4&gt;Отправить отзыв&lt;/f4&gt; и&lt;f5&gt; Поддержать LibreOffice&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Help&lt;/f0&gt; – contains links to the LibreOffice help system and other miscellaneous functions; for example, &lt;f1&gt;Help&lt;/f1&gt;, &lt;f2&gt;License Information&lt;/f2&gt;, User Guides, &lt;f3&gt;Check for Updates, Send Feedback and Donate&lt;/f3&gt;.</seg>
       </tuv>
