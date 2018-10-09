@@ -18172,6 +18172,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;&lt;f1&gt;Edit &gt; Select&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &gt; Select Sheets... &lt;/f2&gt;on the Menu bar to open the &lt;f3&gt;Select Sheets&lt;/f3&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T173432Z" creationid="olex" creationdate="20181009T173432Z">
+        <seg>Выберите в меню &lt;f0&gt;&lt;f1&gt;Правка &gt; Выделить&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &gt; Выбрать листы... &lt;/f2&gt;, чтобы открыть диалоговое окно &lt;f3&gt;Выбрать листы&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Data &gt; Sort&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Sort&lt;/f1&gt; dialog (Figure &lt;t2&gt;38&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T180421Z" creationid="olex" creationdate="20180506T180421Z">
@@ -25074,8 +25082,8 @@ Denkin: все верно, есть такая настройка</note>
       <tuv lang="EN-US">
         <seg>Many people also find AutoInput helpful.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180414T135408Z" creationid="olex" creationdate="20180414T135408Z">
-        <seg>Многие люди также считают полезным Автоматический ввод.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T172900Z" creationid="olex" creationdate="20180414T135408Z">
+        <seg>Многие также считают полезным Автоматический ввод.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35518,6 +35526,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The most basic ability is to drag and drop the contents of one cell to another with a mouse.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T172828Z" creationid="olex" creationdate="20181009T172703Z">
+        <seg>Одна из основных возможностей - перетаскивание содержимого одной ячейки в другую с помощью мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The most basic ability is to drop and drag the contents of one cell to another with a mouse.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T135221Z" creationid="olex" creationdate="20180414T134947Z">
@@ -43417,6 +43433,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T192811Z" creationid="olex" creationdate="20180412T192211Z">
         <seg>Выберите ячейку и откройте боковую панель (&lt;f0&gt;Вид &gt; Боковая панель&lt;/f0&gt;) и, при необходимости, щелкните значок &lt;f1&gt;Открыть панель&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) на вкладке &lt;f3&gt;Формат чисел&lt;/f3&gt; (Рисунок &lt;t4&gt;20&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the cell selected, open the Sidebar (&lt;f0&gt;View &gt; Sidebar&lt;/f0&gt;) and (if necessary) click the &lt;f1&gt;Open Panel&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) icon on the &lt;f3&gt;Number Format&lt;/f3&gt; panel.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T172638Z" creationid="olex" creationdate="20181009T172638Z">
+        <seg>Выбрав ячейку, откройте Боковую панель (&lt;f0&gt;Вид &gt; Боковая панель&lt;/f0&gt;) и, если необходимо, нажмите значок &lt;f1&gt;Открыть панель&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) на панели &lt;f3&gt;Формат чисел&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
