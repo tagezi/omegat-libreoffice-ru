@@ -5639,8 +5639,8 @@
       <tuv lang="EN-US">
         <seg>A menu displays the default styles.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180430T175333Z" creationid="olex" creationdate="20180430T174049Z">
-        <seg>В меню отобразятся стили по умолчанию.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T180708Z" creationid="olex" creationdate="20180430T174049Z">
+        <seg>В меню отображаются стили по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8336,6 +8336,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T201810Z" creationid="olex" creationdate="20180306T201810Z">
         <seg>Напротив, при использовании стилей, вам нужно сделать только одно изменение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, &lt;f0&gt;all &lt;/f0&gt;cells will be flagged as &lt;f1&gt;Protected &lt;/f1&gt;(Figure &lt;f2&gt;&lt;t3&gt;36&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T182417Z" creationid="olex" creationdate="20181009T182417Z">
+        <seg>По умолчанию &lt;f0&gt;все &lt;/f0&gt;ячейки будут помечены &lt;f1&gt;Защищено &lt;/f1&gt;(Рисунок &lt;f2&gt;&lt;t3&gt;36&lt;/t3&gt;&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16405,6 +16413,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, in a table of numbers, you can show all the values above the average in green and all those below the &lt;t0/&gt;average in red.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T181935Z" creationid="olex" creationdate="20181009T181935Z">
+        <seg>Например, в числовой таблице вы можете отобразить все значения выше среднего зеленым цветом, а все что ниже &lt;t0/&gt;среднего красным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, in a table of numbers, you can show all the values above the average in green and all those below the average in red.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T180138Z" creationid="olex" creationdate="20180502T180138Z">
@@ -18385,6 +18401,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180905T183718Z" creationid="olex" creationdate="20180905T183718Z">
         <seg>Выберите в меню &lt;f0&gt;Формат&lt;/f0&gt; &lt;f1&gt;Строки&lt;/f1&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;te5/&gt; или &lt;f6&gt;Столбцы&lt;/f6&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;te10/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Format&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Rows&lt;/f1&gt; or &lt;f2&gt;Columns&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T182219Z" creationid="olex" creationdate="20181009T182219Z">
+        <seg>Войдите в меню &lt;f0&gt;Формат&lt;/f0&gt; и выберите &lt;f1&gt;Строки&lt;/f1&gt; или &lt;f2&gt;Столбцы&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26130,6 +26154,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiple formatting options can be entered and arranged using assigned &lt;f1&gt;priority rules &lt;/f1&gt;to order the importance of the conditions, allowing certain formatting options to take place before others, for example.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T182100Z" creationid="olex" creationdate="20181009T182100Z">
+        <seg>Можно ввести и упорядочить несколько параметров форматирования с помощью назначенных правил &lt;f1&gt;приоритета&lt;/f1&gt;, чтобы установить важность условий, например, чтобы некоторые параметры форматирования имели приоритет перед другими.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multiple lines of text</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T174239Z" creationid="olex" creationdate="20180327T174239Z">
@@ -33515,6 +33547,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;f1&gt;Add&lt;/f1&gt; button is now active.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T181251Z" creationid="olex" creationdate="20181009T181251Z">
+        <seg>Кнопка &lt;f1&gt;Добавить&lt;/f1&gt; теперь активна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;f1&gt;Cross-references&lt;/f1&gt; tab of the Fields dialog lists some items, such as &lt;i2/&gt;headings, bookmarks, figures, tables, or numbered items such as steps in a procedure.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181002T184056Z" creationid="olex" creationdate="20181002T184056Z">
@@ -38132,8 +38172,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To add default styles for a cell or a group of cells, click Format &gt; Styles.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180430T175312Z" creationid="olex" creationdate="20180430T174024Z">
-        <seg>Чтобы добавить стили по умолчанию для ячейки или группы ячеек, выберите в меню Стили.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T180655Z" creationid="olex" creationdate="20180430T174024Z">
+        <seg>Чтобы добавить стили по умолчанию для ячейки или группы ячеек, выберите в меню Стили &gt; Создать стиль...</seg>
       </tuv>
     </tu>
     <tu>
@@ -42847,6 +42887,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204643Z" creationid="Роман" creationdate="20180316T204643Z">
         <seg>При выборе имя греческого символа отображается ниже списка символов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When selecting or deselecting a formatting property, the AutoFormat dialog displays the change instantly.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T181218Z" creationid="olex" creationdate="20181009T181218Z">
+        <seg>При выборе или снятии выделения с типа форматирования в диалоговом окне Автоформат изменения отображаются незамедлительно.</seg>
       </tuv>
     </tu>
     <tu>
