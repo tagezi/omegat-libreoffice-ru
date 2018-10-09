@@ -16964,6 +16964,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more control or to select other number formats, use the &lt;f0&gt;Numbers&lt;/f0&gt; page of the Format Cells dialog (Figure &lt;t1&gt;20&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;27&lt;/t3&gt;):</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T175418Z" creationid="olex" creationdate="20181009T175418Z">
+        <seg>Для доступа к большему количеству настроек или для выбора других форматов чисел, используйте вкладку &lt;f0&gt;Числа&lt;/f0&gt; диалогового окна Формат ячеек (Рисунок &lt;t1&gt;20&lt;/t1&gt;&lt;s2/&gt;на странице &lt;t3&gt;27&lt;/t3&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more control, including the spacing between cell borders and any data in the cell, use the &lt;f0&gt;Borders&lt;/f0&gt; page of the Format Cells dialog (Figure &lt;t1&gt;19&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;28&lt;/t3&gt;), where you can also define a shadow style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180905T173622Z" creationid="olex" creationdate="20180905T173622Z">
@@ -16976,6 +16984,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T200504Z" creationid="olex" creationdate="20180424T200414Z">
         <seg>Большее количество настроек, включая расстояние между границами ячеек и любыми данными в ячейке, используйте вкладку &lt;f0&gt;Обрамление&lt;/f0&gt; диалогового окна Формат ячеек (Рисунок &lt;t1&gt;19&lt;/t1&gt;&lt;s2/&gt; на странице &lt;t3&gt;29&lt;/t3&gt;), там вы также можете определить Стиль тени.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more control, including the spacing between cell borders and any data in the cell, use the &lt;f0&gt;Borders&lt;/f0&gt; page of the Format Cells dialog (Figure &lt;t1&gt;20&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;27&lt;/t3&gt;), where you can also define a shadow style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T180258Z" creationid="olex" creationdate="20181009T180258Z">
+        <seg>Для доступа к дополнительным настройкам, включая расстояние между границами ячеек и любыми данными в ячейке, используйте вкладку &lt;f0&gt;Обрамление&lt;/f0&gt; диалогового окна Формат ячеек (Рисунок &lt;t1&gt;20&lt;/t1&gt;&lt;s2/&gt;на странице &lt;t3&gt;27&lt;/t3&gt;), там вы также можете определить стиль тени.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17296,6 +17312,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T081252Z" creationid="tagezi" creationdate="20180313T090558Z">
         <seg>Для некоторых типов информации, которую вы хотите повторно вводить в документ, может быть удобнее создать файл AutoText.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the &lt;/f3&gt;color of the borders lines of a cell, select the Border Color icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T175951Z" creationid="olex" creationdate="20181009T175927Z">
+        <seg>Для определения &lt;/f3&gt;цвета линий границ ячейки нажмите значок Цвет обрамления.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22471,6 +22495,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T172925Z" creationid="olex" creationdate="20180712T172925Z">
         <seg>В этом примере для всех перечисленных настроек выбран английский (США).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the input line of the formula bar, press &lt;f1&gt;Shift+Enter&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T174735Z" creationid="olex" creationdate="20181009T174735Z">
+        <seg>В строке ввода формулы нажмите &lt;f1&gt;Shift+Enter&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33338,6 +33370,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Format&lt;/f0&gt; menu also contains a quick access to direct text formatting in cells (Figure &lt;f1&gt;&lt;t2&gt;31&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T175531Z" creationid="olex" creationdate="20181009T175531Z">
+        <seg>Меню &lt;f0&gt;Формат&lt;/f0&gt; меню также содержит быстрый доступ к прямому форматированию текста в ячейках (Рисунок &lt;f1&gt;&lt;t2&gt;31&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;f0&gt;Format&lt;/f0&gt; menu also contains a quick access to direct text formatting in cells (Figure &lt;t1&gt;31&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T193037Z" creationid="olex" creationdate="20180424T193037Z">
@@ -37301,6 +37341,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This dialog is also available by clicking the &lt;f4&gt;More Options&lt;/f4&gt; button in the &lt;f5&gt;Character&lt;/f5&gt; title bar of the &lt;f6&gt;Properties&lt;/f6&gt; deck on the opened Sidebar, with text in the cell selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T175136Z" creationid="olex" creationdate="20181009T175136Z">
+        <seg>Это диалоговое окно так же доступно по нажатию кнопки &lt;f4&gt;Дополнительные параметры&lt;/f4&gt; на панели &lt;f5&gt;Символ&lt;/f5&gt; вкладки &lt;f6&gt;Свойства&lt;/f6&gt; Боковой панели, когда выбран текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This dialog is also available by clicking the &lt;f5&gt;More Options&lt;/f5&gt; button in the &lt;f6&gt;Character&lt;/f6&gt; title bar of the &lt;f7&gt;Properties&lt;/f7&gt; deck on the opened Sidebar, with text in the cell selected.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T202319Z" creationid="olex" creationdate="20180418T202319Z">
@@ -39088,6 +39136,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T195527Z" creationid="olex" creationdate="20180424T195339Z">
         <seg>Чтобы отформатировать стиль линии для границ, щелкните по значку Стиль обрамления &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt; и выберите тип линии из палитры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To format the border line style, click on the line style icon &lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;s4/&gt;and select the type from the palette.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T175945Z" creationid="olex" creationdate="20181009T175810Z">
+        <seg>Чтобы отформатировать стиль линии границы, нажмите значок Стиль обрамления &lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;s4/&gt;и выберите подходящий тип из палитры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44395,6 +44451,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T173051Z" creationid="olex" creationdate="20180430T173051Z">
         <seg>Вы также можете использовать вкладку &lt;f3&gt;Фон&lt;/f3&gt; диалогового окна Формат ячеек (Рисунок &lt;t4&gt;19&lt;/t4&gt;&lt;s5/&gt; на странице &lt;t6&gt;29&lt;/t6&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also use the &lt;f3&gt;Background&lt;/f3&gt; tab of the Format Cells dialog (Figure &lt;t4&gt;20&lt;/t4&gt;&lt;s5/&gt;on page &lt;t6&gt;27&lt;/t6&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181009T180555Z" creationid="olex" creationdate="20181009T180555Z">
+        <seg>Также вы можете использовать вкладку &lt;f3&gt;Фон&lt;/f3&gt; диалогового окна Формат ячеек (Рисунок &lt;t4&gt;20&lt;/t4&gt;&lt;s5/&gt;на странице &lt;t6&gt;27&lt;/t6&gt;).</seg>
       </tuv>
     </tu>
     <tu>
