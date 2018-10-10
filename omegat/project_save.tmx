@@ -1258,6 +1258,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Digital signature&lt;/f0&gt; – a flag indicating whether the document is digitally signed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T191447Z" creationid="olex" creationdate="20181010T191447Z">
+        <seg>&lt;f0&gt;Цифровая подпись&lt;/f0&gt; – значок, подсказывающий, подписан ли документ цифровой подписью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Direct (or &lt;/f0&gt;&lt;f1&gt;Manual&lt;/f1&gt;&lt;f2&gt;)&lt;/f2&gt;&lt;f3&gt; formatting&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T181847Z" creationid="olex" creationdate="20180808T181847Z">
@@ -2798,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Slide number&lt;/f0&gt; – the slide number currently displayed in the Workspace and the total number of slides in the presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T191802Z" creationid="olex" creationdate="20181010T191802Z">
+        <seg>&lt;f0&gt;Номер слайда&lt;/f0&gt; – номер слайда, отображенного в рабочей области, и общее количество слайдов в презентации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Sometimes you may want to hide the contents of a sheet to preserve data from accidental editi&lt;/f0&gt;&lt;tc1/&gt;&lt;f2&gt;n&lt;/f2&gt;&lt;ts3/&gt;&lt;f4&gt;g&lt;/f4&gt;&lt;te5/&gt;&lt;f6&gt; or because its contents &lt;/f6&gt;&lt;tc7/&gt;&lt;ts8/&gt;&lt;f9&gt;are&lt;/f9&gt;&lt;te10/&gt;&lt;f11&gt; not important to display.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T084130Z" creationid="olex" creationdate="20180901T084130Z">
@@ -3180,6 +3196,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T143736Z" creationid="olex" creationdate="20180414T143736Z">
         <seg>&lt;f0&gt;Единица времени&lt;/f0&gt; – здесь вы указываете желаемую единицу времени.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Unsaved changes&lt;/f0&gt; – a flag indicating that the file needs saving.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T191229Z" creationid="olex" creationdate="20181010T191229Z">
+        <seg>&lt;f0&gt;Документ был изменен&lt;/f0&gt; – значок, подсказывающий, что файл необходимо сохранить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6518,6 +6542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the file has been saved, double-clicking on this flag opens the digital signatures dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T191529Z" creationid="olex" creationdate="20181010T191529Z">
+        <seg>После сохранения файла дважды нажмите на этот значок и откроется диалоговое окно цифровых подписей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After you have added information, you then carry out a sort to update the spreadsheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T175643Z" creationid="olex" creationdate="20180506T175643Z">
@@ -8232,6 +8264,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T211517Z" creationid="tagezi" creationdate="20180307T173529Z">
         <seg>Берлин, 8 марта 2018 - The Document Foundation представит Сертификацию LibreOffice для членов Free Software Foundation и сторонников бесплатного программного обеспечения, посещающих LibrePlanet в Бостоне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bitmap with transparency selected</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T190946Z" creationid="olex" creationdate="20181010T190946Z">
+        <seg>Выбрано растровое изображение с прозрачностью</seg>
       </tuv>
     </tu>
     <tu>
@@ -12821,6 +12861,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180312T101958Z" creationid="User" creationdate="20180312T101958Z">
         <seg>Двойной щелчок мышью на формуле в документе снова откроет Редактор формул, где можно будет изменить формулу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-clicking on this flag opens the file save dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T191333Z" creationid="olex" creationdate="20181010T191333Z">
+        <seg>Двойное нажатие по этому значку открывает диалоговое окно сохранения файла.</seg>
       </tuv>
     </tu>
     <tu>
