@@ -5501,6 +5501,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A fast alternative to the function wizard, the Calc Sidebar contains a &lt;f0&gt;Functions tab&lt;/f0&gt; which allows you to quickly list and narrow down functions and provides brief explanations on their use and syntax, but does not provide the search or data entry functionalities of the full wizard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T173208Z" creationid="olex" creationdate="20181010T173208Z">
+        <seg>Быстрая альтернатива мастеру функций, боковая панель Calc содержит вкладку &lt;f0&gt;Функции&lt;/f0&gt;, которая позволяет быстро сортировать и фильтровать функции, и предоставляет краткие пояснения по их использованию и синтаксису, но не обеспечивает функционала поиска или ввода данных, как в мастер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A fast alternative to the function wizard, the Calc Sidebar contains a &lt;f0&gt;functions tab&lt;/f0&gt; which allows you quickly list and narrow down functions and provides brief explanations on their use and syntax, but does not provide the search or data entry functionalities of the full wizard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180530T173743Z" creationid="olex" creationdate="20180506T190921Z">
@@ -13138,6 +13146,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each function, when selected, will display a brief explanation of its use and acceptable syntax.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T172711Z" creationid="olex" creationdate="20181010T172711Z">
+        <seg>Для каждой функции, когда она выбрана, отобразится краткое объяснение по ее использованию и допустимому синтаксису.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each function, when selected, will display a brief explanation of it’s use and acceptable syntax.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180530T172939Z" creationid="olex" creationdate="20180506T190533Z">
@@ -18072,6 +18088,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180906T184043Z" creationid="olex" creationdate="20180906T184043Z">
         <seg>Функции и формулы можно вводить &lt;tc0/&gt;непосредственно в панели формул или путем обращения к Мастеру функций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Functions and formulas can be entered directly into the formula bar or by accessing the function wizard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T172328Z" creationid="olex" creationdate="20181010T172328Z">
+        <seg>Функции и формулы можно вводить непосредственно в панель формул или путем обращения к мастеру функций.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23043,6 +23067,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Inside the function wizard, you can search, list, and narrow down the many Calc functions available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T172531Z" creationid="olex" creationdate="20181010T172531Z">
+        <seg>В мастере функций вы можете искать, сортировать и фильтровать множество доступных функций Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>немного сипровизировал, т.к. не совсем понял как перевести - list and narrow</note>
       <tuv lang="EN-US">
         <seg>Inside the function wizard, you can search, list&lt;ts0/&gt;,&lt;te1/&gt; and narrow down the many Calc functions &lt;f2&gt;available&lt;/f2&gt;.</seg>
@@ -23682,6 +23714,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180906T185527Z" creationid="olex" creationdate="20180906T185527Z">
         <seg>Так же будут отображены диалоговые поля, &lt;/f2&gt;&lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;в&lt;/f5&gt;&lt;te6/&gt;&lt;f7&gt; которых вы &lt;/f7&gt;&lt;ts8/&gt;&lt;f9&gt;можете&lt;/f9&gt;&lt;te10/&gt;&lt;tc11/&gt;&lt;f12&gt; ввести информацию, необходимую этой функции, и &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;поля с результатами, &lt;/f14&gt;&lt;/f13&gt;&lt;tc15/&gt;&lt;f16&gt;показывающими&lt;/f16&gt;&lt;ts17/&gt;&lt;f18&gt;&lt;/f18&gt;&lt;te19/&gt;&lt;tc20/&gt;&lt;f21&gt; ожидаемый расчет из введенных данных&lt;/f21&gt;&lt;tc22/&gt;&lt;f23&gt;.&lt;/f23&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It will also display dialog boxes where you can enter the information required by that function and a &lt;f0&gt;result window &lt;/f0&gt;showing the expected calculation from the data entered.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T172904Z" creationid="olex" creationdate="20181010T172904Z">
+        <seg>Также отобразятся диалоговые окна, в которых вы сможете вводить информацию, необходимую этой функции, и &lt;f0&gt;окно результатов&lt;/f0&gt;, отображающее ожидаемый результат расчета на основе введенных данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39492,6 +39532,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To launch the function wizard, click the Function Wizard icon to the right of the &lt;f0&gt;Name box.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T172451Z" creationid="olex" creationdate="20181010T172451Z">
+        <seg>Чтобы запустить мастер функций, щелкните значок Мастер функций справа от поля &lt;f0&gt;Имя&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To learn where the template folders are stored on your computer, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T203900Z" creationid="olex" creationdate="20180312T203900Z">
@@ -44177,6 +44225,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180906T184902Z" creationid="olex" creationdate="20180906T184902Z">
         <seg>Вы также можете выполнить функцию прямо из мастера &lt;tc3/&gt;вместо того, чтобы вводить полные формулы в панель формул.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also choose to complete functions from within the wizard rather than having to type full formulas into the formula bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T172605Z" creationid="olex" creationdate="20181010T172605Z">
+        <seg>Также вы можете выбрать выполнение функций из мастера, а не вводить полные формулы в панель формул.</seg>
       </tuv>
     </tu>
     <tu>
