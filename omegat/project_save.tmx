@@ -424,6 +424,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;5&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Starting Impress&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T181831Z" creationid="olex" creationdate="20181010T181831Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;5&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Запуск Impress&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;5&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;&lt;s5/&gt;| &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;What are styles?&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180919T172548Z" creationid="olex" creationdate="20180919T172548Z">
@@ -4825,6 +4833,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T171609Z" creationid="olex" creationdate="20180326T171609Z">
         <seg>&lt;t0&gt;Печать&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;51&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Running a slide show with Impress Remote&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;37&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T181813Z" creationid="olex" creationdate="20181010T181813Z">
+        <seg>&lt;t0&gt;Запуск слайд-шоу с помощью Impress Remote&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;37&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17148,6 +17164,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information on Pivot Charts and Charts in general, see the &lt;f0&gt;Calc Guide Chapter 3 Charts and Graphs&lt;/f0&gt; and the &lt;f1&gt;Calc Guide Chapter 8 Pivot Tables&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T180257Z" creationid="olex" creationdate="20181010T180257Z">
+        <seg>Для получения дополнительной информации про Сводные таблицы и Диаграммы смотрите &lt;f0&gt;Руководство по Calc, Главу 3 Дианраммы и графики&lt;/f0&gt; и &lt;f1&gt;Руководство по Calc, Главу 8 Сводные таблицы&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information on Pivot Charts and Charts in general, see&lt;ts0/&gt; &lt;f1&gt;the&lt;/f1&gt;&lt;te2/&gt; &lt;f3&gt;&lt;f4&gt;C&lt;/f4&gt;&lt;/f3&gt;&lt;ts5/&gt;&lt;f6&gt;&lt;f7&gt;alc Guide C&lt;/f7&gt;&lt;/f6&gt;&lt;te8/&gt;&lt;f9&gt;&lt;f10&gt;hapter 3&lt;/f10&gt;&lt;/f9&gt;&lt;tc11/&gt;&lt;f12&gt;&lt;f13&gt; Charts and Graphs&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; and&lt;/f14&gt;&lt;ts15/&gt;&lt;f16&gt; the&lt;/f16&gt;&lt;te17/&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;C&lt;/f20&gt;&lt;/f19&gt;&lt;ts21/&gt;&lt;f22&gt;&lt;f23&gt;alc Guide C&lt;/f23&gt;&lt;/f22&gt;&lt;te24/&gt;&lt;f25&gt;&lt;f26&gt;hapter 8&lt;/f26&gt;&lt;/f25&gt;&lt;tc27/&gt;&lt;f28&gt;&lt;f29&gt; Pivot Tables&lt;/f29&gt;&lt;/f28&gt;&lt;tc30/&gt;&lt;f31&gt;.&lt;/f31&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180908T195331Z" creationid="olex" creationdate="20180908T195331Z">
@@ -17168,6 +17192,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180312T071613Z" creationid="User" creationdate="20180312T071613Z">
         <seg>Больше информации о создании формул изложено в разделе “&lt;bf5&gt;Создание формул&lt;/bf5&gt;” на странице &lt;bf6&gt;8&lt;/bf6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on editing print ranges, see the &lt;f0&gt;Calc Guide Chapter 6 Printing, Exporting, and E‑mailing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T180920Z" creationid="olex" creationdate="20181010T180920Z">
+        <seg>Для получения дополнительной информации про редактирование диапазонов печати, смотрите &lt;f0&gt;Руководство по Calc, Главу 6 Печать, экспорт и отправка по электронной почте&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30834,6 +30866,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Row Break&lt;/f0&gt; or &lt;f1&gt;Column Break&lt;/f1&gt; as needed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T181212Z" creationid="olex" creationdate="20181010T181212Z">
+        <seg>Выберите &lt;f0&gt;Разрыв по строке&lt;/f0&gt; или &lt;f1&gt;Разрыв по столбцу&lt;/f1&gt;, по необходимости .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Row Break&lt;/f0&gt; or &lt;f1&gt;Column Break&lt;/f1&gt; depending on your need and break is removed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T185039Z" creationid="olex" creationdate="20180508T185039Z">
@@ -34795,6 +34835,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The contributors to that chapter and subsequent revisions are:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T182020Z" creationid="olex" creationdate="20181010T182020Z">
+        <seg>Авторами этой главы и последующих ее изменений являются:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The contributors to that chapter and subsequent revisions were:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180921T201952Z" creationid="olex" creationdate="20180921T201952Z">
@@ -37297,6 +37345,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T143848Z" creationid="olex" creationdate="20180414T143848Z">
         <seg>Эта область окна активна только в том случае, если в области Тип рядов выбрана опция Дата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This automatically changes &lt;f2&gt;Rows to repeat &lt;s3/&gt;&lt;/f2&gt;from &lt;f4&gt;- none -&lt;/f4&gt; &lt;s5/&gt;to &lt;f6&gt;- user defined -&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T180731Z" creationid="olex" creationdate="20181010T180731Z">
+        <seg>Это автоматически изменит поле &lt;f2&gt;Повторять строки&lt;s3/&gt;&lt;/f2&gt; с &lt;f4&gt; - нет -&lt;/f4&gt;&lt;s5/&gt; на &lt;f6&gt;- пользовательский -&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
