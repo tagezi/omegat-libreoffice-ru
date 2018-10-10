@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;a1&gt;&lt;f2&gt;Figure 1&lt;/f2&gt;&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T185525Z" creationid="olex" creationdate="20181010T185525Z">
+        <seg>(&lt;a1&gt;&lt;f2&gt;Рисунок 1&lt;/f2&gt;&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If you do not have this font on your system, it will not appear in the drop-down list in this box, so you need to type it in.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T180844Z" creationid="olex" creationdate="20180628T180844Z">
@@ -17153,6 +17161,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T083231Z" creationid="tagezi" creationdate="20180306T083231Z">
         <seg>Для более подробной информации обратитесь к руководствам по отдельным модулям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more detailed information about Templates, please read Chapter 3 of this guide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T190132Z" creationid="olex" creationdate="20181010T190132Z">
+        <seg>Для получения дополнительной информации про шаблоны, пожалуйста прочтите Главу 3 этого руководства.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36843,6 +36859,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The workspace views are described in “&lt;bf0&gt;Workspace views&lt;/bf0&gt;” on page &lt;bf1&gt;9&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T190323Z" creationid="olex" creationdate="20181010T190323Z">
+        <seg>Виды рабочей области описаны в разделе «&lt;bf0&gt;Виды рабочей области&lt;/bf0&gt;» на странице &lt;bf1&gt;9&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The&lt;ts0/&gt; &lt;f1&gt;two &lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;small &lt;tc4/&gt;gray triangles&lt;tc5/&gt; on the ruler are used for indenting paragraphs&lt;ts6/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T125502Z" creationid="olex" creationdate="20180818T125502Z">
@@ -43629,6 +43653,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you start Impress for the first time, &lt;s0/&gt;Impress window opens with the Presentation Template dialog displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T185520Z" creationid="olex" creationdate="20181010T185520Z">
+        <seg>Когда вы запускаете Impress в первый раз, открывается окно &lt;s0/&gt;Impress и появляется диалоговое окно Выберите шаблон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you want to remove them, you have to remove each break individually.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T185140Z" creationid="olex" creationdate="20180508T185140Z">
@@ -45704,6 +45736,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T172013Z" creationid="olex" creationdate="20180701T171712Z">
         <seg>Затем вы сможете выбрать опцию &lt;f0&gt;Использовать&lt;/f0&gt;&lt;i1/&gt; &lt;f2&gt;виртуальную машину Java&lt;/f2&gt; и (при необходимости) выбрать одну из перечисленных JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can turn off the option to start Impress with a choice of available templates by unchecking the “&lt;f0&gt;Show this dialog at startup&lt;/f0&gt;” box in the dialog, or through the &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Impress &gt; General&lt;/f1&gt; option and deselecting &lt;f2&gt;Start with Template Selection&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T190047Z" creationid="olex" creationdate="20181010T190047Z">
+        <seg>Вы можете отключить запуск выбора доступных шаблонов при старте Impress, сняв флажок в диалоговом окне с “&lt;f0&gt;Показывать при запуске&lt;/f0&gt;” или выбрав в меню &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Impress &gt; Общие&lt;/f1&gt; и сняв флажок с &lt;f2&gt;Начать с выбора шаблона&lt;/f2&gt; в разделе Создать документ.</seg>
       </tuv>
     </tu>
     <tu>
