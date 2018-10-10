@@ -5503,8 +5503,8 @@
       <tuv lang="EN-US">
         <seg>A fast alternative to the function wizard, the Calc Sidebar contains a &lt;f0&gt;Functions tab&lt;/f0&gt; which allows you to quickly list and narrow down functions and provides brief explanations on their use and syntax, but does not provide the search or data entry functionalities of the full wizard.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181010T173208Z" creationid="olex" creationdate="20181010T173208Z">
-        <seg>Быстрая альтернатива мастеру функций, боковая панель Calc содержит вкладку &lt;f0&gt;Функции&lt;/f0&gt;, которая позволяет быстро сортировать и фильтровать функции, и предоставляет краткие пояснения по их использованию и синтаксису, но не обеспечивает функционала поиска или ввода данных, как в мастер.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T173216Z" creationid="olex" creationdate="20181010T173208Z">
+        <seg>Быстрая альтернатива мастеру функций, боковая панель Calc содержит вкладку &lt;f0&gt;Функции&lt;/f0&gt;, которая позволяет быстро сортировать и фильтровать функции, и предоставляет краткие пояснения по их использованию и синтаксису, но не обеспечивает функционала поиска или ввода данных, как в мастере.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5841,6 +5841,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T185325Z" creationid="olex" creationdate="20180507T185325Z">
         <seg>Сводная таблица - это способ мгновенно организовывать, манипулировать и суммировать большие объемы данных таким образом, чтобы сделать их намного легче читаемыми и понимаемыми, а также позволять вам отвечать на разные вопросы о вашей электронной таблице, переставляя - или сворачивая - - данные, которые вы вводите в нее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A pivot table is a way to organize, manipulate, and summarize large amounts of data to make it much easier to read and understand while also allowing you to answer different questions about your spreadsheet by rearranging --or pivoting-- the data you enter into it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T173609Z" creationid="olex" creationdate="20181010T173609Z">
+        <seg>Сводная таблица - это способ организовать, манипулировать и суммировать большие объемы данных, чтобы облегчить их чтение и понимание, а также позволить вам отвечать на различные вопросы о вашей электронной таблице, упорядочивая или оборачивая данные, которые вы вводите.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6884,6 +6892,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T141303Z" creationid="olex" creationdate="20180414T141303Z">
         <seg>Кроме того, вы можете использовать сочетания клавиш для заполнения ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternatively, you could arrange a pivot table as shown below to make that data easier to organize and read.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T173923Z" creationid="olex" creationdate="20181010T173923Z">
+        <seg>В качестве альтернативы вы можете организовать сводную таблицу, как показано ниже, чтобы упростить организацию и чтение этих данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16487,8 +16503,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>For example, let’s say that you have a spreadsheet containing a list of donations to various charities by a group of recruiters in various months, but you are only interested in how much money each recruiter has collected in total.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180507T185347Z" creationid="olex" creationdate="20180507T185347Z">
-        <seg>Например, предположим, что у вас есть таблица с пожертвованиями различных благотворительных организаций группой рекрутеров в разные месяцы, но вас интересует только то, сколько денег собрал каждый рекрутер.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T173850Z" creationid="olex" creationdate="20180507T185347Z">
+        <seg>Например, предположим, что у вас есть таблица с пожертвованиями в различные благотворительные организации группой рекрутеров в разные месяцы, но вас интересует только то, сколько денег собрал каждый рекрутер.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30314,6 +30330,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the &lt;f0&gt;Calc Guide Chapter 9 Data Analysis&lt;/f0&gt; for more information on the tools available in Calc to analyze your data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T173336Z" creationid="olex" creationdate="20181010T173336Z">
+        <seg>Подробнее об инструментах, доступных в Calc для анализа ваших данных, смотрите в &lt;f0&gt;Руководстве по Calc Главе 9 Анализ данных&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the &lt;f0&gt;Calc Guide Chapter 9: Data Analysis&lt;/f0&gt; for more information on the various tools available in Calc to analyze your data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T184640Z" creationid="olex" creationdate="20180507T184640Z">
@@ -38992,6 +39016,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180929T082526Z" creationid="olex" creationdate="20180929T082438Z">
         <seg>Чтобы опустить элемент на один уровень ниже, расположите курсор в начале строки (после маркера или номера) и нажмите &lt;f0&gt;Tab&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To determine your solution, you could manually calculate that amount by using the sorting and formatting options provided by Calc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T173817Z" creationid="olex" creationdate="20181010T173817Z">
+        <seg>Чтобы определить решение, вы можете вручную вычислить эту сумму, используя параметры сортировки и форматирования, предоставленные Calc.</seg>
       </tuv>
     </tu>
     <tu>
