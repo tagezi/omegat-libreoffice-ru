@@ -15900,6 +15900,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, as the data in the pivot table is altered, the pivot chart will adjust itself automatically to follow suit.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T175452Z" creationid="olex" creationdate="20181010T175429Z">
+        <seg>Во первых, по мере того, как в сводной таблице изменяются данные, сводная диаграмма меняется автоматически, вслед за таблицей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flipping objects</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T155022Z" creationid="olex" creationdate="20180603T155022Z">
@@ -16168,6 +16176,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T180146Z" creationid="olex" creationdate="20180611T180146Z">
         <seg>Более подробный перечень требований смотрите на веб-сайте LibreOffice, &lt;a0&gt;http://www.libreoffice.org/get-help/system-requirements/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a more in-depth explanation of pivot tables, see the &lt;f0&gt;Calc Guide Chapter 8 Pivot Tables&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T175204Z" creationid="olex" creationdate="20181010T175204Z">
+        <seg>Более подробное объяснение сводных таблиц смотрите в &lt;f0&gt;Руководстве по Calc, Главе 8 Сводные таблицы&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18096,6 +18112,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180908T194926Z" creationid="olex" creationdate="20180908T194926Z">
         <seg>Функционально, &lt;f0&gt;сводная диаграммы &lt;/f0&gt;&lt;f1&gt;почти идентичны&lt;/f1&gt; обычным диаграммам&lt;tc2/&gt;, кроме &lt;f3&gt;двух ключевых особенностей&lt;/f3&gt;&lt;ts4/&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;te6/&gt;&lt;tc7/&gt;&lt;f8&gt; Во первых, &lt;/f8&gt;по мере того, как данные в &lt;f9&gt;сводной таблице&lt;/f9&gt; изменяются, &lt;f10&gt;сводная диаграмма &lt;/f10&gt;настраивается автоматически, &lt;f11&gt;вслед за изменениями.&lt;/f11&gt;&lt;tc12/&gt;&lt;f13&gt; Второе отличие, это &lt;/f13&gt;включение &lt;f14&gt;Кнопок поля&lt;/f14&gt;; &lt;f15&gt;графических элементов&lt;/f15&gt;&lt;tc16/&gt;&lt;ts17/&gt;&lt;f18&gt;, которые&lt;/f18&gt;&lt;te19/&gt; позволяют вам фильтровать содержимое &lt;f20&gt;сводной таблицы&lt;/f20&gt; из самой &lt;f21&gt;сводной диаграммы &lt;/f21&gt;, &lt;f22&gt;что является полезной экономией времени, если ваша сводная таблица и сводная диаграмма содержатся на разных листах.&lt;/f22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Functionally, pivot charts are nearly identical to regular charts except in two key areas.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T175335Z" creationid="olex" creationdate="20181010T175335Z">
+        <seg>Функционально, сводные диаграммы почти идентичны обычным диаграммам, за исключением двух ключевых особенностей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36235,6 +36259,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T165923Z" creationid="olex" creationdate="20180409T165826Z">
         <seg>Окно можно разделить по горизонтали, вертикали или по вертикали и горизонтали, одновременно вы можете просматривать до четырех частей таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second difference is the inclusion of &lt;f0&gt;Field Buttons&lt;/f0&gt;; graphical elements that allow you to filter the content of the pivot table from within the pivot chart itself, which is a useful time-saver if your pivot table and pivot chart are contained on different sheets.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T180047Z" creationid="olex" creationdate="20181010T180047Z">
+        <seg>Второе различие заключается во включении &lt;f0&gt;Кнопок полей&lt;/f0&gt;; это графические элементы, которые позволяют вам фильтровать содержимое сводной таблицы из самой сводной диаграммы, что является полезной экономией времени, если ваша сводная таблица и сводная диаграмма содержатся на разных листах.</seg>
       </tuv>
     </tu>
     <tu>
