@@ -7809,6 +7809,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>снова этот АВТОМАКЕТ - разобраться</note>
+      <tuv lang="EN-US">
+        <seg>AutoLayout text boxes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T184639Z" creationid="olex" creationdate="20181010T184639Z">
+        <seg>Текстовые поля Автомакет</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>AutoRecovery</seg>
       </tuv>
@@ -11552,6 +11561,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a new outline level</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T184722Z" creationid="olex" creationdate="20181010T184722Z">
+        <seg>Создание нового уровня контура</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a new presentation using the Presentation Wizard</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T194205Z" creationid="olex" creationdate="20180910T194205Z">
@@ -13414,6 +13431,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T174530Z" creationid="olex" creationdate="20180627T174530Z">
         <seg>Включает и отключает использование языка 3D графики OpenGL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enabling remote control in Impress</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T185250Z" creationid="olex" creationdate="20181010T185250Z">
+        <seg>Включение дистанционного управления в Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -18264,6 +18289,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180404T212959Z" creationid="tagezi" creationdate="20180404T212959Z">
         <seg>Генерация случайных чисел в Calc Tony Richardson richardson.tony@gmail.com Университет Эвансвилла 9 декабря 2013 У приложения электронных таблиц LibreOffice/OpenOffice Calc есть довольно обширный набор статистических функций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Getting Impress Remote</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T185229Z" creationid="olex" creationdate="20181010T185229Z">
+        <seg>Получение Impress Remote</seg>
       </tuv>
     </tu>
     <tu>
@@ -28583,6 +28616,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Presenter Console</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T185158Z" creationid="olex" creationdate="20181010T185158Z">
+        <seg>Консоль презентации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;F11&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;, then right click on the style to open the dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T095627Z" creationid="olex" creationdate="20180815T095627Z">
@@ -29933,6 +29974,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T200250Z" creationid="olex" creationdate="20180910T200250Z">
         <seg>Запуск демонстрации слайдов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running a slide show with Impress Remote</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T185304Z" creationid="olex" creationdate="20181010T185304Z">
+        <seg>Запуск слайд-шоу с помощью Impress Remote</seg>
       </tuv>
     </tu>
     <tu>
@@ -32466,6 +32515,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T080306Z" creationid="olex" creationdate="20180915T080306Z">
         <seg>Смена слайда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slide advance</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T185138Z" creationid="olex" creationdate="20181010T185138Z">
+        <seg>Следующий слайд</seg>
       </tuv>
     </tu>
     <tu>
@@ -42005,6 +42062,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using Impress Remote control</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T185217Z" creationid="olex" creationdate="20181010T185217Z">
+        <seg>Использование Impress Remote control</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using LibreOffice on a macOS</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T094657Z" creationid="tagezi" creationdate="20180305T094657Z">
@@ -45917,8 +45982,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You may also wish to consult the &lt;f2&gt;Draw Guide&lt;/f2&gt; for more details on how to use the drawing tools.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180911T195004Z" creationid="olex" creationdate="20180911T195004Z">
-        <seg>Вы также можете обратиться к &lt;f2&gt; Руководству по Draw&lt;/f2&gt; для получения дополнительной информации о том, как использовать инструменты рисования.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181010T185351Z" creationid="olex" creationdate="20180911T195004Z">
+        <seg>Вы также можете обратиться к &lt;f2&gt;Руководству по Draw&lt;/f2&gt; для получения дополнительной информации о том, как использовать инструменты рисования.</seg>
       </tuv>
     </tu>
     <tu>
