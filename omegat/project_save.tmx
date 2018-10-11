@@ -3408,6 +3408,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;View &gt; &lt;/f0&gt;&lt;f1&gt;Normal view&lt;/f1&gt; is the main view for working with individual slides.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T181101Z" creationid="olex" creationdate="20181011T181101Z">
+        <seg>&lt;f0&gt;Вид &gt; &lt;/f0&gt;&lt;f1&gt;Обычный&lt;/f1&gt; является основным видом для работы с отдельными слайдами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;View&lt;/f0&gt; – contains commands for controlling the display of the document such as Zoom and Web Layout.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T193424Z" creationid="olex" creationdate="20180614T193424Z">
@@ -13227,6 +13235,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each Workspace view displays a different set of toolbars when selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T180907Z" creationid="olex" creationdate="20181011T180837Z">
+        <seg>В каждом виде рабочей области отображается свой набор панелей инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each category has four BAILS (Business Authorization Identification and Labeling Scheme) levels: Non-Business, General Business, Confidential, and Internal Only.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T173634Z" creationid="olex" creationdate="20180828T173527Z">
@@ -13327,6 +13343,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T195629Z" creationid="olex" creationdate="20180418T195629Z">
         <seg>Каждый из методов полезен в различных ситуациях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each of the Workspace views is designed to ease the completion of certain tasks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T180852Z" creationid="olex" creationdate="20181011T180651Z">
+        <seg>Каждый из видов рабочей области предназначен для облегчения выполнения определенных задач.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23834,6 +23858,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T085041Z" creationid="tagezi" creationdate="20180319T085041Z">
         <seg>Достаточно утомительно запускать макрос используя в главном меню &lt;f0&gt;Сервис &gt; Макросы &gt; Выполнить макрос&lt;/f0&gt;, когда макрос может быть запущен из &lt;is1/&gt;IDE&lt;ie2/&gt; (Рисунок &lt;t3&gt;3&lt;/t3&gt; на странице &lt;t4&gt;6&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is therefore useful to familiarize yourself with them in order to accomplish those tasks quickly.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T180729Z" creationid="olex" creationdate="20181011T180729Z">
+        <seg>Поэтому будет полезно ознакомиться с ними, чтобы быстро выполнять эти задачи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37404,6 +37436,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These toolbar sets can be customized by going to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar, then check or uncheck the toolbar you want to add or remove.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T181012Z" creationid="olex" creationdate="20181011T181012Z">
+        <seg>Эти наборы панелей инструментов можно настроить, выбрав в меню &lt;f0&gt;Вид &gt; Панели инструментов&lt;/f0&gt;, затем устанавливая или снимая флажок с панели инструментов, которую вы хотите добавить или удалить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These tools are divided between the Tools and Data menus.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T184144Z" creationid="olex" creationdate="20180507T184144Z">
@@ -40141,6 +40181,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To place a slide in the slide design area (Normal view) (Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;6&lt;/t2&gt;), click the slide thumbnail in the Slides pane or double-click it in the Navigator (see &lt;f3&gt;Chapter 1 Introducing LibreOffice&lt;/f3&gt; and the &lt;f4&gt;Impress Guide&lt;/f4&gt; for more information on the Navigator).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T181512Z" creationid="olex" creationdate="20181011T181512Z">
+        <seg>Чтобы поместить слайд в область дизайна слайда (Обычный вид) (Рисунок &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt; на странице &lt;t2&gt;6&lt;/t2&gt;), нажмите миниатюру слайда на панели Слайды или дважды нажмите на слайд в Навигаторе (смотрите &lt;f3&gt;Глава 1, Знакомство с LibreOffice&lt;/f3&gt; и &lt;f4&gt;Руководство по Impress&lt;/f4&gt; для получения дополнительной информации о Навигаторе).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To preserve leading zeros in a number:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T183114Z" creationid="olex" creationdate="20180411T183114Z">
@@ -41923,6 +41971,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T175515Z" creationid="olex" creationdate="20180707T175515Z">
         <seg>Используйте эту настройку, чтобы назначить по умолчанию сохранение относительных URL-адресов в файловой системе и в Интернете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use this view to format and design and to add text, graphics, and animation effects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T181205Z" creationid="olex" creationdate="20181011T181205Z">
+        <seg>Используйте этот вид для форматирования и разработки, а также для добавления текстовых, графических и анимационных эффектов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45447,6 +45503,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T192118Z" creationid="tagezi" creationdate="20180310T192118Z">
         <seg>Вы можете помочь с разработкой и поддержкой пользователей LibreOffice разными способами, и вам не нужно быть программистом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can hide the Status Bar and its information by going to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and deselecting &lt;f1&gt;Status Bar&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T180536Z" creationid="olex" creationdate="20181011T180536Z">
+        <seg>Вы можете скрыть строку состояния и информацию в ней, отменив выбор в меню &lt;f0&gt;Вид &gt; Строка состояния&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
