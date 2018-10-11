@@ -3416,6 +3416,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;View &gt; &lt;/f0&gt;&lt;f1&gt;Outline view&lt;/f1&gt; (Figure &lt;t2&gt;4&lt;/t2&gt;) contains all the slides of the presentation in their numbered sequence.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T181640Z" creationid="olex" creationdate="20181011T181640Z">
+        <seg>&lt;f0&gt;Вид &gt; &lt;/f0&gt;&lt;f1&gt;Структура&lt;/f1&gt; (Рисунок &lt;t2&gt;4&lt;/t2&gt;) содержит все слайды презентации в порядке их нумерации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;View&lt;/f0&gt; – contains commands for controlling the display of the document such as Zoom and Web Layout.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T193424Z" creationid="olex" creationdate="20180614T193424Z">
@@ -6266,6 +6274,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T184656Z" creationid="olex" creationdate="20180628T184656Z">
         <seg>Добавление надежной метки времени в электронную подпись в формате PDF обеспечивает целостность цифровой печати данных и доверенную дату и время, когда файл был подписан.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding and deleting the text in a slide as in the Normal view.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T182351Z" creationid="olex" creationdate="20181011T182351Z">
+        <seg>Добавление и удаление текста в слайде, как в обычном виде.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9270,6 +9286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing the outline level for any of the paragraphs in a slide using the left and right arrow buttons (Promote or Demote) on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T182818Z" creationid="olex" creationdate="20181011T182513Z">
+        <seg>Изменение уровня структуры для любого из абзацев на слайде с помощью кнопок со стрелками влево и вправо (Повысить или Понизить) на панели инструментов Форматирование текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changing the password</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T195805Z" creationid="olex" creationdate="20180607T195805Z">
@@ -11261,6 +11285,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T192606Z" creationid="olex" creationdate="20180614T192606Z">
         <seg>Общие функции это панель меню, стандартная панель инструментов, панель инструментов форматирования в верхней части окна и строка состояния внизу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comparing slides with your outline (if you have prepared one in advance).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T183023Z" creationid="olex" creationdate="20181011T183023Z">
+        <seg>Выравнивание слайдов по структуре (если вы заранее подготовили ее).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15423,6 +15455,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Outline view</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T181859Z" creationid="olex" creationdate="20181011T181859Z">
+        <seg>Рисунок &lt;seq0&gt;4&lt;/seq0&gt;: Вид Структура</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Symbols dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204727Z" creationid="Роман" creationdate="20180316T204727Z">
@@ -15523,6 +15563,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180924T180054Z" creationid="olex" creationdate="20180924T180054Z">
         <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: Панель инструментов Навигация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Outline level and movement arrows in Text Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T182035Z" creationid="olex" creationdate="20181011T182035Z">
+        <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: Строки уровня и стрелки перемещения в панели инструментов Форматирование текста</seg>
       </tuv>
     </tu>
     <tu>
@@ -21282,6 +21330,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you notice from your outline that another slide is needed, you can create it directly in the Outline view or you can return to the Normal view to create it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T183201Z" creationid="olex" creationdate="20181011T183201Z">
+        <seg>Если вы заметили из своей схемы, что нужен другой слайд, то вы можете создать его непосредственно в режиме Структура или вернуться в режим Обычный, чтобы создать его.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you notice unexpected formatting changes occurring in your document, this is the first place to look for the cause.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T160143Z" creationid="olex" creationdate="20180811T160143Z">
@@ -23967,6 +24023,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It shows topic titles, bulleted lists, and numbered lists for each slide in outline format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T181737Z" creationid="olex" creationdate="20181011T181737Z">
+        <seg>Он отображает заголовки тем, маркированные списки и нумерованные списки для каждого слайда в виде контура.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It takes much longer to read and write the steps than to record the macro.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T072715Z" creationid="tagezi" creationdate="20180319T072715Z">
@@ -25385,6 +25449,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Making changes in the text of a slide:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T182326Z" creationid="olex" creationdate="20181011T182326Z">
+        <seg>Внесение изменений в текст слайда:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage Changes Deck</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T102235Z" creationid="olex" creationdate="20180721T102235Z">
@@ -26395,6 +26467,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moving a paragraph and changing its outline level at the same time using a combination of these four arrow buttons.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T182902Z" creationid="olex" creationdate="20181011T182902Z">
+        <seg>Одновременное перемещение абзаца и изменение его уровня структуры с помощью комбинации этих четырех кнопок со стрелками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moving a slide using Slide Sorter</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T193804Z" creationid="olex" creationdate="20180910T193804Z">
@@ -26447,6 +26527,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T103123Z" creationid="olex" creationdate="20180721T103123Z">
         <seg>Быстрое перемещение по документу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moving the paragraphs of text in the selected slide up or down by using the up and down arrow buttons (Move Up or Move Down) on the Text Formatting toolbar (highlighted in Figure &lt;t0&gt;5&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T182742Z" creationid="olex" creationdate="20181011T182454Z">
+        <seg>Перемещение абзацев текста в выбранном слайде вверх или вниз с помощью кнопок со стрелками (Переместить вверх и Переместить вниз) на панели инструментов Форматирование текста (выделены на рисунке &lt;t0&gt;5&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27692,6 +27780,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T183553Z" creationid="olex" creationdate="20180330T174335Z">
         <seg>Только на панели Навигатор боковой панели нет кнопки &lt;f4&gt;Содержимое&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only the text contained in the default text boxes in each slide is shown, so if your slide includes other text boxes or drawing objects, the text in these objects is not displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T181822Z" creationid="olex" creationdate="20181011T181822Z">
+        <seg>Отображается только текст, содержащийся в текстовых полях по умолчанию на каждом слайде, поэтому, если ваш слайд содержит другие текстовые поля или объекты рисования, то текст в этих объектах не отображается.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29294,6 +29390,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T194902Z" creationid="olex" creationdate="20180910T194902Z">
         <seg>Быстрое изменение размера шрифта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quickly inserting text for fast content creation or editing, when formatting and adding graphic objects is postponed until the final stages of creating the presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T182302Z" creationid="olex" creationdate="20181011T182302Z">
+        <seg>Быстрая вставка текста для быстрого создания или редактирования содержимого, когда форматирование и добавление графических объектов переносится на последние этапы создания презентации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32667,6 +32771,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T195448Z" creationid="olex" creationdate="20180910T195421Z">
         <seg>Мастер-слайды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slide names are not included either.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T181845Z" creationid="olex" creationdate="20181011T181845Z">
+        <seg>Имена слайдов также не отображаются.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41715,6 +41827,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T071654Z" creationid="olex" creationdate="20180308T155046Z">
         <seg>Используйте режим Стилевая заливка, чтобы быстро применяя стили во многих местах, не возвращаться каждый раз к окну Стили и не щелкать дважды мышью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Outline view for the following purposes:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T182141Z" creationid="olex" creationdate="20181011T182141Z">
+        <seg>Используйте вид Структура для следующих целей:</seg>
       </tuv>
     </tu>
     <tu>
