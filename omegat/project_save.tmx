@@ -3416,6 +3416,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;View &gt; &lt;/f0&gt;&lt;f1&gt;Notes view&lt;/f1&gt; (Figure &lt;t2&gt;6&lt;/t2&gt;) to add notes to a slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T183313Z" creationid="olex" creationdate="20181011T183313Z">
+        <seg>&lt;f0&gt;Вид &gt; &lt;/f0&gt;&lt;f1&gt;Примечания&lt;/f1&gt; (Рисунок &lt;t2&gt;6&lt;/t2&gt;) предназначен для добавления примечаний к слайду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;View &gt; &lt;/f0&gt;&lt;f1&gt;Outline view&lt;/f1&gt; (Figure &lt;t2&gt;4&lt;/t2&gt;) contains all the slides of the presentation in their numbered sequence.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181011T181640Z" creationid="olex" creationdate="20181011T181640Z">
@@ -15643,6 +15651,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T171735Z" creationid="olex" creationdate="20180727T171735Z">
         <seg>Рисунок &lt;seq0&gt;6&lt;/seq0&gt;: Панель инструментов Навигация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Notes view</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T183422Z" creationid="olex" creationdate="20181011T183422Z">
+        <seg>Рисунок &lt;seq0&gt;6&lt;/seq0&gt;: Вид Примечания</seg>
       </tuv>
     </tu>
     <tu>
@@ -37480,6 +37496,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T191837Z" creationid="olex" creationdate="20180817T191837Z">
         <seg>Эти элементы лучше всего добавлять в виде полей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These notes are for your information and are not seen by the audience when the presentation is shown.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T183409Z" creationid="olex" creationdate="20181011T183409Z">
+        <seg>Эти примечания несут информацию для вас и не отображаются перед аудиторией при показе презентации.</seg>
       </tuv>
     </tu>
     <tu>
