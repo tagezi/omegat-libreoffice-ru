@@ -2390,6 +2390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Page (slide) style&lt;/f0&gt; – the style associated with the slide, handout, or notes page currently in the Workspace.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T175912Z" creationid="olex" creationdate="20181011T175731Z">
+        <seg>&lt;f0&gt;Стиль страницы (слайда)&lt;/f0&gt; - стиль, связанный со слайдом, тезисами или страницей заметок, находящейся в настоящее время в рабочей области.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Page Down&lt;/f0&gt; moves the cell focus down one complete screen display.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T184824Z" creationid="olex" creationdate="20180402T200306Z">
@@ -3622,6 +3630,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T174856Z" creationid="olex" creationdate="20180611T174856Z">
         <seg>&lt;f0&gt;У вас есть право голоса.&lt;/f0&gt; Усовершенствования, исправления программного обеспечения и даты выпуска поддерживаются сообществом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Zoom percentage&lt;/f0&gt; – indicates the zoom percentage of the Workspace displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T180241Z" creationid="olex" creationdate="20181011T180235Z">
+        <seg>&lt;f0&gt;Масштаб&lt;/f0&gt; - показывает процент масштабирования отображаемой рабочей области.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Zoom slider&lt;/f0&gt; – adjusts the zoom percentage of the Workspace displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T180124Z" creationid="olex" creationdate="20181011T180055Z">
+        <seg>&lt;f0&gt;Ползунок масштаба&lt;/f0&gt; - регулирует процент масштабирования отображаемой рабочей области.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12865,6 +12889,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double-clicking on the style name opens the slide design dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T180105Z" creationid="olex" creationdate="20181011T175852Z">
+        <seg>Двойной щелчок по имени стиля откроет диалоговое окно Дизайн слайда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double-clicking on this flag opens the file save dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181010T191333Z" creationid="olex" creationdate="20181010T191333Z">
@@ -12877,6 +12909,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T174746Z" creationid="olex" creationdate="20180616T174746Z">
         <seg>Двойной щелчок по отображению  масштаба открывает диалог &lt;f0&gt;Масштаб и режимы просмотра&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-clicking on zoom percentage opens the zoom and layout dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181011T180352Z" creationid="olex" creationdate="20181011T180352Z">
+        <seg>Двойное нажатие по Масштабу откроет диалоговое окно Маштаб и режимы просмотра.</seg>
       </tuv>
     </tu>
     <tu>
