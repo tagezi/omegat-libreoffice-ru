@@ -6494,6 +6494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust the number of slides (up to a maximum of 15).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T173739Z" creationid="olex" creationdate="20181013T173739Z">
+        <seg>Настройте количество слайдов (максимум 15).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjusting object size</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T153151Z" creationid="olex" creationdate="20180603T153151Z">
@@ -11095,6 +11103,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the slide and the slide is highlighted (Figure &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T173952Z" creationid="olex" creationdate="20181013T173952Z">
+        <seg>Нажмите на слайд и он будет выделен (Рисунок &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the small triangle on the right of the Font Name box on the Formatting toolbar (highlighted in Figure &lt;t0&gt;30&lt;/t0&gt;) and select a font from the drop-down list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T191238Z" creationid="olex" creationdate="20180424T190800Z">
@@ -13057,6 +13073,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drag and drop the slide to the location you want.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T174035Z" creationid="olex" creationdate="20181013T174035Z">
+        <seg>Перетащите слайд в необходимое место.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drag the Zoom slider, or click on the &lt;f0&gt;+&lt;/f0&gt; and &lt;f1&gt;–&lt;/f1&gt; signs to change the view magnification of your document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T174408Z" creationid="olex" creationdate="20180616T174408Z">
@@ -14200,6 +14224,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T170850Z" creationid="olex" creationdate="20180828T170850Z">
         <seg>Диалоговое окно Поля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;f0&gt;&lt;seq1&gt;10&lt;/seq1&gt;&lt;/f0&gt;: Slide Sorter and Slide View toolbars</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T173805Z" creationid="olex" creationdate="20181013T173805Z">
+        <seg>Рисунок &lt;f0&gt;&lt;seq1&gt;10&lt;/seq1&gt;&lt;/f0&gt;: Панели инструментов Сортировщик слайдов и Слайды</seg>
       </tuv>
     </tu>
     <tu>
@@ -15915,6 +15947,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T184346Z" creationid="olex" creationdate="20180730T184346Z">
         <seg>Рисунок &lt;seq0&gt;9&lt;/seq0&gt;: Значок Выбор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Slide Sorter view</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T173308Z" creationid="olex" creationdate="20181013T173308Z">
+        <seg>Рисунок &lt;seq0&gt;9&lt;/seq0&gt;: Вид Сортировщик слайдов</seg>
       </tuv>
     </tu>
     <tu>
@@ -19070,6 +19110,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204334Z" creationid="Роман" creationdate="20180316T204334Z">
         <seg>Выберите пункт меню &lt;f0&gt;Сервис &gt; Символы&lt;/f0&gt; или щёлкните по значку &lt;f1&gt;Символы&lt;/f1&gt; на панели инструментов, чтобы открыть диалог Символы (Рисунок &lt;t2&gt;4&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; and select &lt;f1&gt;Slide Sorter&lt;/f1&gt; and &lt;f2&gt;Slide View&lt;/f2&gt; to show or hide the Slide Sorter and Slide View toolbars (Figure &lt;t3&gt;10&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T173715Z" creationid="olex" creationdate="20181013T173715Z">
+        <seg>Выберите в меню &lt;f0&gt;Вид &gt; Панели инструментов &gt; Сортировщик слайдов&lt;/f0&gt; и &lt;f1&gt;Вид &gt; Панели инструментов &gt; Слайды&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; для показа или скрытия этих панелей инструментов (Рисунок &lt;t3&gt;10&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39261,6 +39309,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the number of slides per row:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T173323Z" creationid="olex" creationdate="20181013T173323Z">
+        <seg>Чтобы изменить количество слайдов в строке:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change the page style, right-click on this field.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T163141Z" creationid="olex" creationdate="20180721T163141Z">
@@ -40262,6 +40318,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To move a slide in a presentation in the Slide Sorter:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T173844Z" creationid="olex" creationdate="20181013T173844Z">
+        <seg>Чтобы переместить слайд презентации в Сортировщике слайдов:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To move a template from one template category to another, select it in the Templates dialog, and click the &lt;f0&gt;Move&lt;/f0&gt; button in the bottom center of the dialog (see Figure &lt;t1&gt;14&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T182904Z" creationid="olex" creationdate="20180315T182904Z">
@@ -40740,6 +40804,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180926T184837Z" creationid="olex" creationdate="20180926T184837Z">
         <seg>Чтобы искать только в содержимом определенного типа, нажмите кнопку &lt;f0&gt;Страница&lt;/f0&gt; на панели Найти и выберите тип из всплывающего списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To select a group&lt;re0/&gt; of slides, use one of these methods:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T174114Z" creationid="olex" creationdate="20181013T174114Z">
+        <seg>Чтобы выбрать группу&lt;re0/&gt; слайдов, используйте один из этих методов:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42256,6 +42328,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use this view to work with a group of slides or with only one slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T173257Z" creationid="olex" creationdate="20181013T173257Z">
+        <seg>Используйте этот вид для работы с группой слайдов или с одним слайдом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use wildcards &lt;i0/&gt;and regular expressions to fine-tune a search</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T180735Z" creationid="olex" creationdate="20180731T180735Z">
@@ -42776,6 +42856,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T185023Z" creationid="olex" creationdate="20180617T185023Z">
         <seg>Используя команду &lt;bf0&gt; Сохранить как&lt;/bf0&gt;&lt;s1/&gt;, выберите опцию &lt;f2&gt;Сохранить с паролем&lt;/f2&gt; в диалоговом окне Сохранить как или Сохранить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the &lt;f0&gt;Ctrl&lt;/f0&gt; key – click on the first slide and, while pressing the &lt;f1&gt;Ctrl&lt;/f1&gt; key, select the other desired slides.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T174326Z" creationid="olex" creationdate="20181013T174326Z">
+        <seg>Используя клавишу &lt;f0&gt;Ctrl&lt;/f0&gt; – нажмите на первый слайд и, удерживая клавишу &lt;f1&gt;Ctrl&lt;/f1&gt; нажатой, выберите другие необходимые слайды.</seg>
       </tuv>
     </tu>
     <tu>
