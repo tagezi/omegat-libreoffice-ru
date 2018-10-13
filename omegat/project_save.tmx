@@ -1170,6 +1170,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Copy&lt;/f0&gt; – copies the selected slide to the clipboard without removing it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T180200Z" creationid="olex" creationdate="20181013T180124Z">
+        <seg>&lt;f0&gt;Копировать&lt;/f0&gt; – копирует выбранный слайд в буфер обмена, не удаляя его.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Creating &lt;/f0&gt;nested lists</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T165044Z" creationid="olex" creationdate="20180811T165044Z">
@@ -1198,6 +1206,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180916T075609Z" creationid="olex" creationdate="20180916T075609Z">
         <seg>&lt;f0&gt;Положение курсора&lt;/f0&gt; - позиция курсора или левого верхнего угла выделенного объекта, измеряемая от верхнего левого угла слайда, а затем ширина и высота выделения или текстового поля, в котором располагается курсор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Cut&lt;/f0&gt; – removes the selected slide and saves it to the clipboard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T180146Z" creationid="olex" creationdate="20181013T180119Z">
+        <seg>&lt;f0&gt;Вырезать&lt;/f0&gt; – удаляет выбранный слайд и сохраняет его в буфер обмена.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1886,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Hide Slide&lt;/f0&gt; – any slides that are hidden are not shown in the slide show.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T180101Z" creationid="olex" creationdate="20181013T180101Z">
+        <seg>&lt;f0&gt;Скрыть слайд&lt;/f0&gt; – любые скрытые слайды не отображаются в слайд-шоу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Hide&lt;/f0&gt; – the data in the column are not imported.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T194533Z" creationid="olex" creationdate="20180330T194533Z">
@@ -2474,6 +2498,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T172655Z" creationid="olex" creationdate="20180627T172655Z">
         <seg>&lt;f0&gt;Вставка из буфера обмена&lt;/f0&gt; – нажатие средней кнопки мыши вставляет содержимое «&lt;i1/&gt;Буфер обмена» под курсором.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Paste&lt;/f0&gt; – inserts a slide from the clipboard after the selected slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T180220Z" creationid="olex" creationdate="20181013T180130Z">
+        <seg>&lt;f0&gt;Вставить&lt;/f0&gt; – вставляет слайд из буфера обмена после выбранного слайда.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5919,6 +5951,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180927T181219Z" creationid="olex" creationdate="20180927T181219Z">
         <seg>Новая функция в LibreOffice 6.0 - “&lt;f0&gt;Грамматика с” проверкой орфографии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A new presentation contains only one empty slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T180234Z" creationid="olex" creationdate="20181013T180234Z">
+        <seg>Новая презентация содержит только один пустой слайд.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23199,6 +23239,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T082734Z" creationid="tagezi" creationdate="20180315T212006Z">
         <seg>В этом примере есть только одно значение, и оно имеет номер ноль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this section we will start adding new slides and preparing them for the intended contents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T180252Z" creationid="olex" creationdate="20181013T180252Z">
+        <seg>В этом разделе мы начнем добавлять новые слайды и готовить их для предполагаемого содержимого.</seg>
       </tuv>
     </tu>
     <tu>
