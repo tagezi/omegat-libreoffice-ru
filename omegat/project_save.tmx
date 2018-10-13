@@ -3434,8 +3434,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;View &gt; Master &lt;/f0&gt;&lt;f1&gt;Handout view&lt;/f1&gt; is for setting up the layout of your slide for a printed handout.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181013T170534Z" creationid="olex" creationdate="20181013T170534Z">
-        <seg>&lt;f0&gt;Вид &gt; Мастер &lt;/f0&gt;&lt;f1&gt;тезисов&lt;/f1&gt; предназначен для настройки макета слайда к печати тезисов.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T171330Z" creationid="olex" creationdate="20181013T170534Z">
+        <seg>&lt;f0&gt;Вид &gt; Мастер &lt;/f0&gt;&lt;f1&gt;тезисов&lt;/f1&gt; предназначен для настройки макета слайда для вывода на печать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11009,8 +11009,8 @@
       <tuv lang="EN-US">
         <seg>Click the &lt;f2&gt;Handout&lt;/f2&gt; tab in the workspace and the &lt;f3&gt;Layouts&lt;/f3&gt; section opens on the Sidebar (Figure &lt;t4&gt;7&lt;/t4&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181013T170927Z" creationid="olex" creationdate="20181013T170927Z">
-        <seg>Нажмите вкладку &lt;f2&gt;Мастер тезисов&lt;/f2&gt; в рабочем пространстве и на Боковой панели откройте вкладку &lt;f3&gt;Мастер-слайды&lt;/f3&gt; (Рисунок &lt;t4&gt;7&lt;/t4&gt;).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T171559Z" creationid="olex" creationdate="20181013T170927Z">
+        <seg>Нажмите вкладку &lt;f2&gt;Мастер тезисов&lt;/f2&gt; в рабочей области и на Боковой панели откроется вкладка &lt;f3&gt;Макеты&lt;/f3&gt; (Рисунок &lt;t4&gt;7&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18823,6 +18823,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Insert &gt; Page Number,&lt;/f0&gt; &lt;f1&gt;Insert &gt; Fields&lt;/f1&gt;, or &lt;f2&gt;Insert &gt; Header and Footer&lt;/f2&gt; on the Menu bar and the Header and Footer dialog opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T172206Z" creationid="olex" creationdate="20181013T172206Z">
+        <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Номер слайда...&lt;/f0&gt;, &lt;f1&gt;Вставка &gt; Поле&lt;/f1&gt; или &lt;f2&gt;Вставка &gt; Колонтитулы...&lt;/f2&gt;, и откроется диалоговое окно Колонтитулы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Sheet &gt; Fill Cells&lt;/f0&gt; on the Menu bar and select the direction in which you want to copy or create data (&lt;f1&gt;Up&lt;/f1&gt;, &lt;f2&gt;Down&lt;/f2&gt;, &lt;f3&gt;Left&lt;/f3&gt; or &lt;f4&gt;Right&lt;/f4&gt;) or &lt;f5&gt;Series&lt;/f5&gt; and &lt;f6&gt;Random Number...&lt;/f6&gt; from the submenu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T141118Z" creationid="olex" creationdate="20180414T141118Z">
@@ -19365,6 +19373,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180714T072334Z" creationid="olex" creationdate="20180714T072334Z">
         <seg>Здесь вы также можете выбрать, какие пользовательские словари будут активны по умолчанию, а также добавить или удалить словари, установленные пользователем, нажав кнопки &lt;f0&gt;Создать&lt;/f0&gt; или &lt;f1&gt;Удалить&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you can choose to print 1, 2, 3, 4, 6, or 9 slides per page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T171304Z" creationid="olex" creationdate="20181013T171304Z">
+        <seg>Здесь вы можете выбрать печать 1, 2, 3, 4, 6, или 9 слайдов на странице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20501,6 +20517,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T180314Z" creationid="olex" creationdate="20180329T180314Z">
         <seg>Если панель формул не видна, выберите в меню &lt;f2&gt;Вид &gt; Панель формул&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Layouts section does not open, then click on the Properties icon &lt;df5&gt;&lt;di6/&gt;&lt;di7/&gt;&lt;/df5&gt;&lt;s8/&gt;at the side of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T171654Z" creationid="olex" creationdate="20181013T171517Z">
+        <seg>Если панель Макеты не открывается, то нажмите на значок вкладки Свойства &lt;df5&gt;&lt;di6/&gt;&lt;di7/&gt;&lt;/df5&gt;&lt;s8/&gt;на Боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29582,6 +29606,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T134402Z" creationid="tagezi" creationdate="20180312T134402Z">
         <seg>Запись &lt;i0/&gt;макроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to Chapter 10, Printing, E-mailing, Exporting, and Saving Slide Shows, in the &lt;f0&gt;Impress Guide&lt;/f0&gt; for instructions on printing slides, handouts, and notes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T171926Z" creationid="olex" creationdate="20181013T171926Z">
+        <seg>Инструкции по печати слайдов, раздаточных материалов и заметок смотрите в главе 10, Печать, отправка по электронной почте, экспорт и сохранение слайд-шоу в &lt;f0&gt;Руководстве по Impress&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42163,6 +42195,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T175515Z" creationid="olex" creationdate="20180707T175515Z">
         <seg>Используйте эту настройку, чтобы назначить по умолчанию сохранение относительных URL-адресов в файловой системе и в Интернете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use this view also to customize the information printed on the handout.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T171831Z" creationid="olex" creationdate="20181013T171831Z">
+        <seg>Используйте этот вид рабочего пространства также для настройки информации, печатаемой на раздаточном материале.</seg>
       </tuv>
     </tu>
     <tu>
