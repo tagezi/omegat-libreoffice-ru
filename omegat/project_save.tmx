@@ -2814,6 +2814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Slide Sorter&lt;/f0&gt; view (Figure &lt;t1&gt;9&lt;/t1&gt;) contains all of the slide thumbnails.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T173126Z" creationid="olex" creationdate="20181013T173126Z">
+        <seg>Вид &lt;f0&gt;Сортировщик слайдов&lt;/f0&gt; (Рисунок &lt;t1&gt;9&lt;/t1&gt;) содержит миниатюры всех слайдов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Slide number&lt;/f0&gt; – the slide number currently displayed in the Workspace and the total number of slides in the presentation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181010T191802Z" creationid="olex" creationdate="20181010T191802Z">
@@ -10614,6 +10622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the &lt;f3&gt;Notes and Handouts&lt;/f3&gt; tab (Figure &lt;t4&gt;8&lt;/t4&gt;) and select the elements you want to appear on each handout page and their contents.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T172626Z" creationid="olex" creationdate="20181013T172626Z">
+        <seg>Перейдите на вкладку &lt;f3&gt;Примечания и тезисы&lt;/f3&gt; (Рисунок &lt;t4&gt;8&lt;/t4&gt;) и выберите элементы, которые вы хотите отобразить на каждой странице раздаточного материала и их содержимом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the desired sheet and then click &lt;/f35&gt;&lt;f36&gt;&lt;f37&gt;OK&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;.&lt;/f38&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T084815Z" creationid="olex" creationdate="20180901T084815Z">
@@ -15743,6 +15759,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Handout layouts</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T172842Z" creationid="olex" creationdate="20181013T172842Z">
+        <seg>Рисунок &lt;seq0&gt;7&lt;/seq0&gt;: Макет тезисов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Navigating to a macro library</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123416Z" creationid="tagezi" creationdate="20180320T123416Z">
@@ -15779,6 +15803,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T190100Z" creationid="olex" creationdate="20180718T190100Z">
         <seg>Рисунок &lt;seq0&gt;8&lt;/seq0&gt;: Копирование стилей из шаблона в открытый документ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Header and Footer dialog – Notes and Handouts page</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T173032Z" creationid="olex" creationdate="20181013T173032Z">
+        <seg>Рисунок &lt;seq0&gt;8&lt;/seq0&gt;: Диалоговое окно Колонтитулы - вкладка Примечания и тезисы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18822,11 +18854,12 @@ LG:DONE</note>
       </tuv>
     </tu>
     <tu>
+      <note>Убрал Вставка - Поле, оно не работает</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Insert &gt; Page Number,&lt;/f0&gt; &lt;f1&gt;Insert &gt; Fields&lt;/f1&gt;, or &lt;f2&gt;Insert &gt; Header and Footer&lt;/f2&gt; on the Menu bar and the Header and Footer dialog opens.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181013T172206Z" creationid="olex" creationdate="20181013T172206Z">
-        <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Номер слайда...&lt;/f0&gt;, &lt;f1&gt;Вставка &gt; Поле&lt;/f1&gt; или &lt;f2&gt;Вставка &gt; Колонтитулы...&lt;/f2&gt;, и откроется диалоговое окно Колонтитулы.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T172453Z" creationid="olex" creationdate="20181013T172206Z">
+        <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Номер слайда...&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; или &lt;f2&gt;Вставка &gt; Колонтитулы...&lt;/f2&gt;, и откроется диалоговое окно Колонтитулы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26053,6 +26086,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T105631Z" creationid="olex" creationdate="20180715T105631Z">
         <seg>Более подробная информация приведена в руководствах по модулям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More details on how to use this dialog are provided in the &lt;f5&gt;Impress Guide&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T172702Z" creationid="olex" creationdate="20181013T172657Z">
+        <seg>Более подробная информация о том, как использовать это диалоговое окно, приведена в &lt;f5&gt;Руководстве по Impress&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
