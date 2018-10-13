@@ -1242,6 +1242,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Delete Slide&lt;/f0&gt; – deletes the selected slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T175434Z" creationid="olex" creationdate="20181013T175434Z">
+        <seg>&lt;f0&gt;Удалить слайд&lt;/f0&gt; – удаляет выбранный слайд.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Design&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Deck&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180724T193509Z" creationid="olex" creationdate="20180724T193509Z">
@@ -1358,6 +1366,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T091745Z" creationid="olex" creationdate="20180414T142551Z">
         <seg>&lt;f0&gt;Вниз&lt;/f0&gt; – создает нисходящий ряд в выбранном диапазоне ячеек для столбца с использованием заданного приращения до конечного значения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Duplicate Slide&lt;/f0&gt; – creates a duplicate of the selected slide and places the new slide immediately after the selected slide (see “&lt;bf1&gt;Duplicate slide&lt;/bf1&gt;” on page &lt;bf2&gt;14&lt;/bf2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T175403Z" creationid="olex" creationdate="20181013T175403Z">
+        <seg>&lt;f0&gt;Дублировать слайд&lt;/f0&gt; – создает копию выбранного слайда и помещает его сразу после выбранного слайда (смотрите “&lt;bf1&gt;Дублировать слайд&lt;/bf1&gt;” на странице &lt;bf2&gt;14&lt;/bf2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2278,6 +2294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;New Slide&lt;/f0&gt; – adds a new slide after the selected slide (see “&lt;bf1&gt;New slide&lt;/bf1&gt;” on page &lt;bf2&gt;13&lt;/bf2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T175238Z" creationid="olex" creationdate="20181013T175238Z">
+        <seg>&lt;f0&gt;Создать слайд&lt;/f0&gt; – добавляет новый слайд после выбранного слайда (смотрите “&lt;bf1&gt;Создание слайда&lt;/bf1&gt;” на странице &lt;bf2&gt;13&lt;/bf2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;No licensing fees&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T171956Z" creationid="olex" creationdate="20180611T171956Z">
@@ -2538,6 +2562,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T175932Z" creationid="olex" creationdate="20180330T192907Z">
         <seg>&lt;f0&gt;Поля в кавычках как текст&lt;/f0&gt; - когда включена эта опция, то поля или ячейки, данные в которых обозначены строкой (первый и последний символы соответствуют значению в поле Разделитель строк), импортируются как текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Rename Slide&lt;/f0&gt; – allows you to rename the selected slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T175503Z" creationid="olex" creationdate="20181013T175503Z">
+        <seg>&lt;f0&gt;Переименовать слайд&lt;/f0&gt; – позволяет переименовать выбранный слайд.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2814,10 +2846,24 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Slide Layout&lt;/f0&gt; – allows you to change the layout of the selected slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T175644Z" creationid="olex" creationdate="20181013T175644Z">
+        <seg>&lt;f0&gt;Разметка&lt;/f0&gt; – позволяет изменить макет выбранного слайда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Slide Sorter&lt;/f0&gt; view (Figure &lt;t1&gt;9&lt;/t1&gt;) contains all of the slide thumbnails.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T173126Z" creationid="olex" creationdate="20181013T173126Z">
         <seg>Вид &lt;f0&gt;Сортировщик слайдов&lt;/f0&gt; (Рисунок &lt;t1&gt;9&lt;/t1&gt;) содержит миниатюры всех слайдов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>не нашел такого пункта в контекстном меню</note>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Slide Transition&lt;/f0&gt; – allows you to change the transition of one or a group of selected slides.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19662,6 +19708,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T183841Z" creationid="olex" creationdate="20180405T183841Z">
         <seg>Удерживайте клавишу &lt;f0&gt;Shift&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hold down the left mouse button and drag the cursor until all of the slides you want selected are highlighted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T174823Z" creationid="olex" creationdate="20181013T174823Z">
+        <seg>Удерживая левую кнопку мыши, перетащите курсор, пока все необходимые слайды не будут выделены.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38569,6 +38623,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This selects all of the other slides between the first and the last slide selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T174542Z" creationid="olex" creationdate="20181013T174542Z">
+        <seg>При этом будут выбраны все слайды между первым и последним выбранными слайдами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This setup can also be created with page breaks and page styles.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180921T201835Z" creationid="olex" creationdate="20180316T194405Z">
@@ -40270,6 +40332,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To make changes, right-click a slide and choose any of the following from the context menu:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T175125Z" creationid="olex" creationdate="20181013T175125Z">
+        <seg>Чтобы внести изменения, нажмите правой кнопкой мыши на слайд и выберите из контекстного меню любое из следующих действий:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To make changes, select an item in the list shown in Figure &lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;and click &lt;f2&gt;Edit&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T171924Z" creationid="olex" creationdate="20180628T171924Z">
@@ -40306,6 +40376,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T181349Z" creationid="olex" creationdate="20180615T181349Z">
         <seg>Чтобы переместить плавающую панель инструментов, щелкните ее по строке заголовка и перетащите в новое плавающее местоположение или прикрепите вверху или внизу главного окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To move a group of slides, select them and then drag and drop the group to their new location.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T174845Z" creationid="olex" creationdate="20181013T174845Z">
+        <seg>Чтобы переместить группу слайдов, выберите их, а затем перетащите группу в новое место.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42876,6 +42954,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using the &lt;f0&gt;Shift&lt;/f0&gt; key – click on the first slide, and while pressing the &lt;f1&gt;Shift&lt;/f1&gt; key, select the final slide in the group.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T174456Z" creationid="olex" creationdate="20181013T174456Z">
+        <seg>Используя клавишу &lt;f0&gt;Shift&lt;/f0&gt; – нажмите на первый слайд и, нажав клавишу &lt;f1&gt;Shift&lt;/f1&gt;, выберите последний слайд в группе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the Apply Style list</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T170757Z" creationid="olex" creationdate="20180308T151838Z">
@@ -43048,6 +43134,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T174123Z" creationid="olex" creationdate="20180327T174104Z">
         <seg>Используя мышь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the mouse – click slightly to one side (left or right) of the first slide to be selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T174745Z" creationid="olex" creationdate="20181013T174745Z">
+        <seg>С помощью мыши - щелкните сбоку  (слева или справа) от первого слайда, который нужно выбрать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46385,6 +46479,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202231Z" creationid="olex" creationdate="20180404T202231Z">
         <seg>Вы можете проверить правильность выбора, посмотрев в поле Имя на панели формул (Рисунок &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt; на странице &lt;t2&gt;9&lt;/t2&gt;)).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can work with slides in the Slide Sorter view just as you can in the Slide pane.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181013T175037Z" creationid="olex" creationdate="20181013T175037Z">
+        <seg>Вы можете работать со слайдами в виде Сортировщик слайдов так же, как на панели Слайды.</seg>
       </tuv>
     </tu>
     <tu>
