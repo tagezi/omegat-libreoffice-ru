@@ -19063,6 +19063,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Slide&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Duplicate Page/Slide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T174247Z" creationid="olex" creationdate="20181014T174247Z">
+        <seg>Выберите в меню &lt;f0&gt;Слайд &gt; Дублировать слайд&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Cell Contents &gt; AutoCalculate&lt;/f0&gt; on the Menu bar to enable this feature.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T182005Z" creationid="olex" creationdate="20180502T182005Z">
@@ -20732,6 +20740,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T181348Z" creationid="olex" creationdate="20180603T181348Z">
         <seg>Если панель Страницы не отображается, выберите в меню &lt;f1&gt;Вид &gt; Панель страниц&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Presentation toolbar is not visible, go to &lt;f4&gt;View &gt; Toolbars&lt;/f4&gt; on the Menu bar and select &lt;f5&gt;Presentation&lt;/f5&gt; from the list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T173854Z" creationid="olex" creationdate="20181014T173854Z">
+        <seg>Если панель инструментов Презентация не отображается, то выберите в меню &lt;f4&gt;Вид &gt; Панели инструментов &gt; Презентация&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28575,6 +28591,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Or use keyboard : CTRL- M to insert new one.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T174024Z" creationid="olex" creationdate="20181014T174024Z">
+        <seg>Или используйте сочетание клавиш Ctrl+M, чтобы вставить новый слайд.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Or, (c) will be changed to ©.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180927T182334Z" creationid="olex" creationdate="20180927T182334Z">
@@ -28587,6 +28611,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181014T173414Z" creationid="olex" creationdate="20181014T173414Z">
         <seg>Или щелкните правой кнопкой мыши пустом месте в рабочей области и выберите в контекстном меню &lt;f0&gt;Слайд &gt; Создать слайд&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or, right-click on a slide in the Workspace and select &lt;f0&gt;Slide &gt; Duplicate Slide&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T174740Z" creationid="olex" creationdate="20181014T174740Z">
+        <seg>Или нажмите правой кнопкой мыши на слайд в рабочей области и выберите в контекстном меню &lt;f0&gt;Слайд &gt; Дублировать слайд&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or, right-click on the slide in the Slides Pane or Slide Sorter view and select &lt;f0&gt;Duplicate Slide&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T174431Z" creationid="olex" creationdate="20181014T174431Z">
+        <seg>Или нажмите на слайд правой кнопкой мыши на панели Слайды или в виде Сортировщик слайдов и выберите в котекстном меню &lt;f0&gt;Дублировать слайд&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32285,6 +32325,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the slide you want to duplicate from the Slides Pane.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T174201Z" creationid="olex" creationdate="20181014T174201Z">
+        <seg>Выберите на панели Слайды тот слайд, который вы хотите дублировать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the sort criteria from the drop down lists.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T180442Z" creationid="olex" creationdate="20180506T180442Z">
@@ -33427,6 +33475,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T190151Z" creationid="olex" creationdate="20180405T190151Z">
         <seg>Иногда вам может понадобиться скрыть содержимое листа для защиты данных второстепенного  значения или потому, что его содержимое не важно для отображения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes, rather than starting from a new slide you may want to duplicate a slide already included in your presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T174059Z" creationid="olex" creationdate="20181014T174059Z">
+        <seg>Иногда, вместо того, чтобы начинать с нового слайда, вы можете дублировать слайд, уже включенный в презентацию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39928,6 +39984,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T193338Z" creationid="olex" creationdate="20180502T193338Z">
         <seg>Чтобы сделать это:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To duplicate a slide:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T174116Z" creationid="olex" creationdate="20181014T174116Z">
+        <seg>Чтобы дублировать слайд:</seg>
       </tuv>
     </tu>
     <tu>
