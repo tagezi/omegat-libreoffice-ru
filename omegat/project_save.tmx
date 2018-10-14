@@ -5691,6 +5691,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A duplicate slide is inserted after the selected slide in the presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T175220Z" creationid="olex" creationdate="20181014T175220Z">
+        <seg>После выбранного слайда в презентации будет вставлен дубликат слайда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A fast alternative to the function wizard, the Calc Sidebar contains a &lt;f0&gt;Functions tab&lt;/f0&gt; which allows you to quickly list and narrow down functions and provides brief explanations on their use and syntax, but does not provide the search or data entry functionalities of the full wizard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181010T173216Z" creationid="olex" creationdate="20181010T173208Z">
@@ -10708,6 +10716,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the &lt;f0&gt;Slide Layout&lt;/f0&gt; icon on the Presentation Toolbar to open &lt;f1&gt;Layouts&lt;/f1&gt; section and display the available layouts</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T175704Z" creationid="olex" creationdate="20181014T175704Z">
+        <seg>Нажмите значок &lt;f0&gt;Макеты слайдов&lt;/f0&gt; на панели инструментов Презентация, чтобы открыть палитру &lt;f1&gt;Макет по умолчанию&lt;/f1&gt; и отобразить доступные макеты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the &lt;f0&gt;Styles &lt;/f0&gt;&lt;tc1/&gt;tab in the Sidebar to open the Styles &lt;tc2/&gt;deck.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T103234Z" creationid="olex" creationdate="20180815T103234Z">
@@ -10728,6 +10744,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T172626Z" creationid="olex" creationdate="20181013T172626Z">
         <seg>Перейдите на вкладку &lt;f3&gt;Примечания и тезисы&lt;/f3&gt; (Рисунок &lt;t4&gt;8&lt;/t4&gt;) и выберите элементы, которые вы хотите отобразить на каждой странице раздаточного материала и их содержимом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on the Properties icon &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt;at the side of the Sidebar to open &lt;f3&gt;Layouts&lt;/f3&gt; section and display the available layouts (Figure &lt;t4&gt;12&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T175900Z" creationid="olex" creationdate="20181014T175900Z">
+        <seg>Нажмите значок вкладки Свойства &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt; на Боковой панели, чтобы открыть панель &lt;f3&gt;Макеты&lt;/f3&gt; и отобразить доступные макеты (Рисунок &lt;t4&gt;12&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14402,6 +14426,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Available slide layouts</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T175727Z" creationid="olex" creationdate="20181014T175727Z">
+        <seg>Рисунок &lt;seq0&gt;11&lt;/seq0&gt;: Доступные макеты слайдов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Creating a template using a wizard</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T185555Z" creationid="olex" creationdate="20180719T185555Z">
@@ -14454,6 +14486,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T190102Z" creationid="olex" creationdate="20180617T190102Z">
         <seg>Рисунок &lt;seq0&gt;11&lt;/seq0&gt;: Диалоговое окно Задать пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Available slide &lt;i1/&gt;layouts</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T180044Z" creationid="olex" creationdate="20181014T180044Z">
+        <seg>Рисунок &lt;seq0&gt;12&lt;/seq0&gt;: Доступные макеты &lt;i1/&gt;слайдов</seg>
       </tuv>
     </tu>
     <tu>
@@ -20740,6 +20780,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T181348Z" creationid="olex" creationdate="20180603T181348Z">
         <seg>Если панель Страницы не отображается, выберите в меню &lt;f1&gt;Вид &gt; Панель страниц&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Presentation toolbar is not visible, go to &lt;f2&gt;View &gt; Toolbars&lt;/f2&gt; on the Menu bar and select &lt;f3&gt;Presentation&lt;/f3&gt; from the list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T175146Z" creationid="olex" creationdate="20181014T175146Z">
+        <seg>Если панель инструментов Презентация не отображается, то выберите в меню &lt;f4&gt;Вид &gt; Панели инструментов &gt; Презентация&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28583,6 +28631,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Or</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T175731Z" creationid="olex" creationdate="20181014T175731Z">
+        <seg>Или</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Or click the &lt;f0&gt;NewPage/Slide&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt;in the Presentation toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181014T173610Z" creationid="olex" creationdate="20181014T173610Z">
@@ -28593,8 +28649,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Or use keyboard : CTRL- M to insert new one.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181014T174024Z" creationid="olex" creationdate="20181014T174024Z">
-        <seg>Или используйте сочетание клавиш Ctrl+M, чтобы вставить новый слайд.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T174859Z" creationid="olex" creationdate="20181014T174024Z">
+        <seg>Или просто используйте сочетание клавиш Ctrl+M, чтобы вставить новый слайд.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28607,18 +28663,27 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Or, click on the triangle to the right of the &lt;f0&gt;Slide&lt;/f0&gt; icon in the Presentation toolbar and select &lt;f1&gt;Duplicate Page/Slide&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T175113Z" creationid="olex" creationdate="20181014T175113Z">
+        <seg>Или нажмите треугольник справа от значка &lt;f0&gt;Слайд&lt;/f0&gt; на панели инструментов Презентация и выберите в контекстном меню &lt;f1&gt;Дублировать страницу&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>исправил предложение, похоже у автора опечатка</note>
+      <tuv lang="EN-US">
         <seg>Or, right-click in an empty space in the Workspace and select &lt;f0&gt;Slide &gt; New Slide&lt;/f0&gt; from the context menu.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181014T173414Z" creationid="olex" creationdate="20181014T173414Z">
-        <seg>Или щелкните правой кнопкой мыши пустом месте в рабочей области и выберите в контекстном меню &lt;f0&gt;Слайд &gt; Создать слайд&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T174843Z" creationid="olex" creationdate="20181014T173414Z">
+        <seg>Или нажмите левой кнопкой мыши на пустом месте в рабочей области и выберите в меню &lt;f0&gt;Слайд &gt; Создать слайд&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Or, right-click on a slide in the Workspace and select &lt;f0&gt;Slide &gt; Duplicate Slide&lt;/f0&gt; from the context menu.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181014T174740Z" creationid="olex" creationdate="20181014T174740Z">
-        <seg>Или нажмите правой кнопкой мыши на слайд в рабочей области и выберите в контекстном меню &lt;f0&gt;Слайд &gt; Дублировать слайд&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T175000Z" creationid="olex" creationdate="20181014T174740Z">
+        <seg>Или нажмите левой кнопкой мыши на пустое пространство в рабочей области и выберите в меню &lt;f0&gt;Слайд &gt; Дублировать слайд&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36323,6 +36388,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The layouts included in LibreOffice range from a blank slide to a slide with six contents boxes and a title.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T180015Z" creationid="olex" creationdate="20181014T180015Z">
+        <seg>Макеты, включенные в LibreOffice, варьируются от пустого слайда до слайда с шестью блоками текста и заголовком.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The letter indicates the column and the number indicates the row of the selected cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T180739Z" creationid="olex" creationdate="20180329T180739Z">
@@ -39752,6 +39825,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T184428Z" creationid="olex" creationdate="20180311T184428Z">
         <seg>Чтобы создать шаблона с помощью мастера:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To create a title, if one of the title layouts has been selected, click on &lt;f0&gt;Click to add title &lt;/f0&gt;and then type the title text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T180702Z" creationid="olex" creationdate="20181014T180702Z">
+        <seg>Чтобы создать заглавие, когда уже выбран один из макетов заголовков, нажмите на текстовое поле &lt;f0&gt;Для добавления заглавия щелкните мышью&lt;/f0&gt; и затем введите текст заглавия.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43905,6 +43986,14 @@ denkin: исправил на "включает"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>When creating a presentation, the first slide is normally a title slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T175423Z" creationid="olex" creationdate="20181014T175423Z">
+        <seg>При создании презентации первый слайд обычно является заглавным слайдом.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: что то сложновато для вечера в понедельник - не могу понять смысл предложения, что хотел сказать автор?</note>
       <tuv lang="EN-US">
         <seg>When creating spreadsheets for other people to use, validating cell contents ensures that they enter data that is valid and appropriate for the cell.</seg>
@@ -46563,6 +46652,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can use either a blank layout or one of the title layouts as your title slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T175511Z" creationid="olex" creationdate="20181014T175511Z">
+        <seg>Вы можете использовать пустой макет или один из макетов заголовков в качестве заглавного слайда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can use it to create complex equations that include symbols or characters not available in standard font sets.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T203901Z" creationid="olex" creationdate="20180607T203901Z">
@@ -48815,6 +48912,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T200423Z" creationid="olex" creationdate="20180910T200423Z">
         <seg>демонстрация слайдов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>slides</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T180020Z" creationid="olex" creationdate="20181014T180020Z">
+        <seg>слайды</seg>
       </tuv>
     </tu>
     <tu>
