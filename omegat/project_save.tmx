@@ -13577,6 +13577,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each of these content boxes can be configured to contain text, movies, images, charts or tables.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T181835Z" creationid="olex" creationdate="20181014T181835Z">
+        <seg>Каждое из этих полей содержимого может быть сконфигурировано так, чтобы содержать текст, видео, изображения, диаграммы или таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each of these panels has a &lt;f0&gt;More Options&lt;/f0&gt; button, which opens a dialog giving a greater number of options.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T170826Z" creationid="olex" creationdate="20180330T170826Z">
@@ -14606,6 +14614,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T192453Z" creationid="olex" creationdate="20180719T192453Z">
         <seg>Рисунок &lt;seq0&gt;13&lt;/seq0&gt;: Сброс шаблона по умолчанию для текстовых документов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Selecting content type</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T182034Z" creationid="olex" creationdate="20181014T182034Z">
+        <seg>Рисунок &lt;seq0&gt;13&lt;/seq0&gt;: Выбор типа содержимого</seg>
       </tuv>
     </tu>
     <tu>
@@ -21609,6 +21625,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you intend to use the content box for text, click on &lt;f1&gt;Click to add text&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T182015Z" creationid="olex" creationdate="20181014T182015Z">
+        <seg>Если вы намерены использовать поле содержимого для текста, то нажмите &lt;f1&gt;Для добавления текста щелкните мышью&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you know where they are stored, however, you can create a backup, share your macros, or inspect them if there is an error.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T113943Z" creationid="tagezi" creationdate="20180320T113943Z">
@@ -22158,6 +22182,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T161719Z" creationid="tagezi" creationdate="20180320T161719Z">
         <seg>В выпадающем списке &lt;f0&gt;Сохранить в&lt;/f0&gt;, выберите LibreOffice или конкретный документ для сохранения События.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General &gt; Help&lt;/f0&gt;, select the &lt;f1&gt;Extended tips&lt;/f1&gt; option to get more detailed tooltip information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T181558Z" creationid="olex" creationdate="20181014T181558Z">
+        <seg>В меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Общие &gt; Справка&lt;/f0&gt;, выберите опцию &lt;f1&gt;Подробные всплывающие подсказки&lt;/f1&gt;, чтобы получать более подробную информацию во всплывающей подсказке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32935,6 +32967,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Several layouts contain one or more content boxes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T181756Z" creationid="olex" creationdate="20181014T181756Z">
+        <seg>Некоторые макеты содержат одно или несколько полей содержимого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sharing content between sheets</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T173746Z" creationid="olex" creationdate="20180327T173652Z">
@@ -34239,6 +34279,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T182011Z" creationid="tagezi" creationdate="20180304T181923Z">
         <seg>Текст и текст в Юникоде (LibreOffice Writer/Web) (.txt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text and graphical elements can be readjusted at any time during the preparation of the presentation, but changing the layout of a slide that already contains some content can have an effect on the content format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T181104Z" creationid="olex" creationdate="20181014T181104Z">
+        <seg>Текстовые и графические элементы могут быть изменены в любой момент подготовки презентации, но изменение макета слайда, который уже содержит наполнение, может повлиять на формат содержимого.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37764,6 +37812,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, it is recommended that you pay particular attention to the layout you select to prevent any loss of content.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T181134Z" creationid="olex" creationdate="20181014T181134Z">
+        <seg>Поэтому рекомендуется обращать особое внимание на макет, который вы выбрали для предотвращения потери содержимого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, some illustrations will not look exactly like what you see on your computer display.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T082004Z" creationid="tagezi" creationdate="20180310T082004Z">
@@ -39235,10 +39291,26 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To add text content, depending on the slide layout selected, click on &lt;f1&gt;Click to add text&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T180836Z" creationid="olex" creationdate="20181014T180836Z">
+        <seg>Чтобы добавить текстовое содержимое, в зависимости от выбранного макета слайда, нажмите на поле &lt;f1&gt;Для добавления текста щелкните мышью&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To adjust the deck width, drag on the left edge of the sidebar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T175629Z" creationid="olex" creationdate="20180330T175629Z">
         <seg>Чтобы отрегулировать ширину палитры, перетащите левый край боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To adjust the formatting of the title, subtitle or content modify the presentation style; see the &lt;f2&gt;Impress Guide Chapter 2 Using Slide Masters, Styles, and Templates&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T180954Z" creationid="olex" creationdate="20181014T180954Z">
+        <seg>Чтобы настроить форматирование заголовка, субтитров или содержимого, измените стиль презентации; смотрите &lt;f2&gt;Руководство по Impress, Глава 2, Использование мастер-слайдов, стилей и шаблонов&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41215,6 +41287,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To select or change the layout of a slide, select the slide in the Slides Pane so that it appears in the Workspace and select the desired layout from the Layouts section in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T181723Z" creationid="olex" creationdate="20181014T181723Z">
+        <seg>Чтобы выбрать или изменить макет слайда, выберите слайд на панели Слайды, чтобы он отображался в рабочей области, и выберите необходимый макет из раздела Макеты на Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To select the entire sheet, click on the &lt;f0&gt;corner &lt;/f0&gt;box between the column header &lt;f1&gt;A&lt;/f1&gt; and the row header &lt;f2&gt;1 &lt;/f2&gt;(Figure &lt;t3&gt;12&lt;/t3&gt;), or use the key combination &lt;f4&gt;Ctrl+A&lt;/f4&gt; to select the entire sheet, or go to &lt;f5&gt;Edit&lt;/f5&gt; on the Menu bar and select &lt;f6&gt;Select All&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T083710Z" creationid="olex" creationdate="20180901T083710Z">
@@ -41660,6 +41740,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T191219Z" creationid="tagezi" creationdate="20180320T191219Z">
         <seg>Для просмотра Справки для Basic, выберите в выпадающем списке &lt;f1&gt;LibreOffice Basic&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To view the names for the included layouts, use the Tooltip feature: position the cursor on an icon in the Layout section (or on any toolbar icon) and its name will be displayed in a small rectangle.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T181425Z" creationid="olex" creationdate="20181014T181410Z">
+        <seg>Чтобы просмотреть имена включенных макетов, используйте функцию подсказки: поместите курсор на значок в разделе «Макет» (или на любом значке на панели инструментов), и его имя будет отображено в маленьком прямоугольнике.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45855,6 +45943,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T175107Z" creationid="olex" creationdate="20180329T174830Z">
         <seg>Вы можете выбрать как альтернативу однострочную панель инструментов вместо двойной панели инструментов, которая активирована по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can choose the type of content by clicking on the corresponding icon that is displayed in the middle of the content box as shown in Figure &lt;t0&gt;13&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T181917Z" creationid="olex" creationdate="20181014T181917Z">
+        <seg>Вы можете выбрать тип наполнения, нажав соответствующий значок, который отображается в середине окна для содержимого, как показано на Рисунке &lt;t0&gt;13&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
