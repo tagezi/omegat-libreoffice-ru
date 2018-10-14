@@ -5979,6 +5979,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A new slide can be inserted into a presentation after the selected slide as follows:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T172900Z" creationid="olex" creationdate="20181014T172900Z">
+        <seg>Вставить новый слайд после выбранного в презентацию можно следующим образом:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A new, separate selection is added to an existing selection.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180922T132613Z" creationid="olex" creationdate="20180922T132613Z">
@@ -19047,6 +19055,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Slide &lt;/f0&gt;on the Menu bar and select &lt;f1&gt;New Page/Slide&lt;/f1&gt;.Or, right-click on a slide in the Slides Pane or Slide Sorter view and select &lt;f2&gt;New Slide&lt;/f2&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T173312Z" creationid="olex" creationdate="20181014T173312Z">
+        <seg>Выберите в меню &lt;f0&gt;Слайд &gt; Создать слайд&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; или нажмите слайд правой кнопкой мыши на панели Слайды или в виде Сортировщик слайдов и выберите в контекстном меню &lt;f2&gt;Создать слайд&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Tools &gt; Cell Contents &gt; AutoCalculate&lt;/f0&gt; on the Menu bar to enable this feature.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T182005Z" creationid="olex" creationdate="20180502T182005Z">
@@ -28551,10 +28567,26 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Or click the &lt;f0&gt;NewPage/Slide&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt;in the Presentation toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T173610Z" creationid="olex" creationdate="20181014T173610Z">
+        <seg>Или нажмите значок &lt;f0&gt;Создать слайд&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt;на панели инструментов Презентация.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Or, (c) will be changed to ©.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180927T182334Z" creationid="olex" creationdate="20180927T182334Z">
         <seg>Или (c) будет изменено на ©.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or, right-click in an empty space in the Workspace and select &lt;f0&gt;Slide &gt; New Slide&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T173414Z" creationid="olex" creationdate="20181014T173414Z">
+        <seg>Или щелкните правой кнопкой мыши пустом месте в рабочей области и выберите в контекстном меню &lt;f0&gt;Слайд &gt; Создать слайд&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45435,6 +45467,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T194209Z" creationid="olex" creationdate="20180424T194209Z">
         <seg>Вы также можете выбрать кнопку &lt;f1&gt;Дополнительные параметры&lt;/f1&gt; на панели Символы боковой панели, чтобы открыть диалоговое окно Формат ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also select the desired layout of the new slide if you click on the small downward arrow of the icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181014T173725Z" creationid="olex" creationdate="20181014T173725Z">
+        <seg>Так же вы можете выбрать необходимый макет для нового слайда, если нажмете на маленькую стрелку возле значка.</seg>
       </tuv>
     </tu>
     <tu>
