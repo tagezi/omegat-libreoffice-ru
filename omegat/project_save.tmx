@@ -6123,6 +6123,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A slide contains elements that were included in the slide master, as well as those elements included in the selected slide layout.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T152036Z" creationid="olex" creationdate="20181015T152036Z">
+        <seg>Слайд содержит элементы, которые были включены в мастер слайдов, а также те элементы, которые включены в выбранный макет слайдов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A small dialog is displayed indicating that LibreOffice is recording a macro.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T115552Z" creationid="tagezi" creationdate="20180313T115552Z">
@@ -7154,6 +7162,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180908T192222Z" creationid="olex" creationdate="20180908T192222Z">
         <seg>По другому&lt;ts0/&gt;,&lt;te1/&gt; вы можете организовать сводную таблицу, как показано ниже, чтобы упростить организацию и &lt;f2&gt;чтение&lt;/f2&gt; этих данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although Impress does not allow you to create new layouts, you can resize and move the layout elements.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T152317Z" creationid="olex" creationdate="20181015T152317Z">
+        <seg>Хотя Impress не позволяет создавать новые макеты, но вы можете изменять размер и перемещать элементы существующего макета.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20052,6 +20068,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T075233Z" creationid="olex" creationdate="20180915T075210Z">
         <seg>Однако сохранить пользовательские макеты невозможно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, it is unlikely that the predefined layouts will suit all your needs for your presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T152114Z" creationid="olex" creationdate="20181015T152114Z">
+        <seg>Однако маловероятно, чтобы предопределенные макеты соответствовали всем вашим требованиям для презентации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47112,6 +47136,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T182610Z" creationid="olex" creationdate="20180621T182610Z">
         <seg>Вы можете отказаться от всех изменений, внесенных в сеансе редактирования после последнего сохранения документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may want to remove elements that are not required or insert objects such as text and graphics.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T152231Z" creationid="olex" creationdate="20181015T152231Z">
+        <seg>Вы можете удалять элементы, которые вам не требуются, или добавлять свои объекты, такие как текст и графику.</seg>
       </tuv>
     </tu>
     <tu>
