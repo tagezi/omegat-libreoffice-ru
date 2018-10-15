@@ -7936,6 +7936,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attempting any changes by modifying a slide master, although possible, may result in unpredictable results and requires extra care as well as a certain amount of trial and error.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T153326Z" creationid="olex" creationdate="20181015T153059Z">
+        <seg>Попытка любых изменений путем изменения мастера слайдов, хотя это возможно, может привести к непредсказуемым результатам и требует особой осторожности, а также определенного количества проб и ошибок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attempting to rename a sheet with an invalid name will produce an error message.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T162512Z" creationid="olex" creationdate="20180409T162512Z">
@@ -9304,6 +9312,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T155937Z" creationid="olex" creationdate="20180721T155937Z">
         <seg>Отслеживание изменений во время проверок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changes to any of the layouts included in Impress can only be made using &lt;f0&gt;View &gt; Normal&lt;/f0&gt;, which is the default.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T153038Z" creationid="olex" creationdate="20181015T153009Z">
+        <seg>Изменения в любом из макетов, включенных в Impress, могут быть сделаны только в Обычном виде (&lt;f0&gt;Вид &gt; Обычный&lt;/f0&gt;), который является активным по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11201,6 +11217,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T182708Z" creationid="olex" creationdate="20181001T182708Z">
         <seg>Нажмите на комментарий, чтобы отредактировать его, и щелкните правой кнопкой мыши на комментарии, чтобы удалить его.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the element to highlight it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T152748Z" creationid="olex" creationdate="20181015T152748Z">
+        <seg>Нажмите на элемент, чтобы выделить его.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24109,6 +24133,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is also possible to add elements without being limited to the size and position of the layout boxes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T152418Z" creationid="olex" creationdate="20181015T152418Z">
+        <seg>Также можно добавлять элементы без ограничения размера и положения в макете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is also possible to perform the following operations, although there are more efficient methods than using the Slides pane:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T074320Z" creationid="olex" creationdate="20180915T074320Z">
@@ -29485,6 +29517,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181009T174146Z" creationid="olex" creationdate="20181009T174146Z">
         <seg>Нажмите клавишу &lt;f0&gt;Backspace&lt;/f0&gt; или правой кнопкой мыши на ячейке и выберите в контекстном меню &lt;f1&gt;Очистить содержимое...&lt;/f1&gt;, или выберите в меню &lt;f2&gt;Лист &gt; Очистить ячейки...&lt;/f2&gt;, чтобы открыть диалоговое окно &lt;f3&gt;Удалить содержимое&lt;/f3&gt; (Рисунок &lt;t4&gt;27&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the &lt;f0&gt;Delete&lt;/f0&gt; key to remove it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T152901Z" creationid="olex" creationdate="20181015T152901Z">
+        <seg>Нажмите клавишу &lt;f0&gt;Delete&lt;/f0&gt;, чтобы удалить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35148,6 +35188,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Outline styles are automatically applied to the text as you insert it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T153905Z" creationid="olex" creationdate="20181015T153905Z">
+        <seg>Встроенные стили автоматически применяются к тексту при его вставке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Page Count field inserts the total number of pages in the document, as shown on the Statistics tab of the document’s Properties window (&lt;f0&gt;File &gt; Properties&lt;/f0&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T195616Z" creationid="olex" creationdate="20180817T195616Z">
@@ -37044,6 +37092,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T175747Z" creationid="tagezi" creationdate="20180319T175747Z">
         <seg>Запись макроса является относительно простым инструментом для использования, и одни и те же команды, которые переданы, записываются для последующего использования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The resizing handles show that it is selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T152819Z" creationid="olex" creationdate="20181015T152819Z">
+        <seg>Ручки изменения размера показывают, что было выбрано.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39323,6 +39379,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To add text to a slide that contains a text frame, click on &lt;f0&gt;Click to add text&lt;/f0&gt; in the text frame and then type your text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T153610Z" creationid="olex" creationdate="20181015T153610Z">
+        <seg>Чтобы добавить текст в слайд, содержащий текстовый фрейм, нажмите на &lt;f0&gt;Для добавления текста щелкните мышью&lt;/f0&gt; в текстовое поле, а затем введите текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To adjust the deck width, drag on the left edge of the sidebar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T175629Z" creationid="olex" creationdate="20180330T175629Z">
@@ -40765,6 +40829,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To move it, place the mouse cursor on the frame so that the cursor changes shape.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T152648Z" creationid="olex" creationdate="20181015T152613Z">
+        <seg>Чтобы перемещать их, поместите курсор мыши над рамкой так, чтобы курсор изменил свою форму.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To move or copy a sheet into a different spreadsheet, you have to use the &lt;f1&gt;Move/Copy Sheet&lt;/f1&gt; dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180523T184412Z" creationid="olex" creationdate="20180407T220512Z">
@@ -41055,6 +41127,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To remove any unwanted element:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T152725Z" creationid="olex" creationdate="20181015T152725Z">
+        <seg>Чтобы удалить любой нежелательный элемент:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To remove direct formatting, select the text and choose &lt;f0&gt;Format &gt; Clear Direct Formatting &lt;/f0&gt;from the Menu bar, or right-click and choose &lt;f1&gt;Styles &gt;&lt;/f1&gt; &lt;f2&gt;Clear Direct Formatting &lt;/f2&gt;from the context menu, or click the &lt;f3&gt;Clear Direct Formatting&lt;/f3&gt; button on the Formatting toolbar, or press &lt;f4&gt;Ctrl+M&lt;/f4&gt; on the keyboard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180929T071533Z" creationid="olex" creationdate="20180929T071533Z">
@@ -41123,6 +41203,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T173703Z" creationid="olex" creationdate="20180802T173703Z">
         <seg>Введите новый текст для замены в поле &lt;f0&gt;Заменить&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To resize a contents box, click on the outer frame so that the resizing handles are displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T152836Z" creationid="olex" creationdate="20181015T152509Z">
+        <seg>Чтобы изменить размер окна содержимого, нажмите на внешнюю рамку, чтобы отобразились ручки изменения размера.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45945,6 +46033,14 @@ denkin: исправил на "включает"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>You can change the outline level of each paragraph as well as its position within the text by using the arrow buttons on the &lt;f1&gt;Text Formatting&lt;/f1&gt; toolbar (see Figure &lt;t2&gt;5&lt;/t2&gt;&lt;s3/&gt;and “&lt;bf4&gt;Outline view&lt;/bf4&gt;” on page &lt;bf5&gt;9&lt;/bf5&gt;) or using the Tab key while positioning the cursor at the beginning of the paragraph.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T154550Z" creationid="olex" creationdate="20181015T154550Z">
+        <seg>Вы можете изменить уровень структуры для каждого абзаца, а также его положение в тексте, используя кнопки со стрелками на панели инструментов &lt;f1&gt;Форматирование текста&lt;/f1&gt; (смотрите Рисунок &lt;t2&gt;5&lt;/t2&gt;&lt;s3/&gt;и “&lt;bf4&gt;Вид Структура&lt;/bf4&gt;” на странице &lt;bf5&gt;9&lt;/bf5&gt;) или с помощью клавиши Tab, когда вы расположите курсор в начало абзаца.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: попробовал настраивать поведение, в английской локали в том числе - не обрабатывается текстовое число в функциях!</note>
       <tuv lang="EN-US">
         <seg>You can change this feature in &lt;f0&gt;Tools – Options – LibreOffice – Calc – Formula&lt;/f0&gt;, in &lt;f1&gt;Detailed Calculation Settings&lt;/f1&gt;, select &lt;f2&gt;Custom (conversion of text to numbers and more)&lt;/f2&gt; and then select the proper treatment in the &lt;f3&gt;Convert from text to numbers&lt;/f3&gt; drop down list.</seg>
@@ -46456,6 +46552,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T220321Z" creationid="olex" creationdate="20180407T220321Z">
         <seg>Вы можете перемещать или копировать листы в электронной таблице путем перетаскивания или с помощью диалогового окна &lt;f0&gt;Переместить/скопировать лист...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now click and drag the contents box to a new position on the slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T152638Z" creationid="olex" creationdate="20181015T152638Z">
+        <seg>Теперь вы можете нажать и перетащить окно содержимого в новое положение на слайде.</seg>
       </tuv>
     </tu>
     <tu>
