@@ -5635,6 +5635,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A dialog opens asking if the background should be applied to all the slides.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T161750Z" creationid="olex" creationdate="20181015T161750Z">
+        <seg>Откроется диалоговое окно с вопросом, следует ли использовать этот фон для всех слайдов?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A dialog wi&lt;/f30&gt;&lt;ts31/&gt;&lt;f32&gt;ll&lt;/f32&gt;&lt;te33/&gt;&lt;tc34/&gt;&lt;f35&gt; appear with all hidden sheets listed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T084735Z" creationid="olex" creationdate="20180901T084735Z">
@@ -10252,6 +10260,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to apply it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T161656Z" creationid="olex" creationdate="20181015T161656Z">
+        <seg>Нажмите &lt;f0&gt;ОК&lt;/f0&gt;, чтобы применить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close this small dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T133414Z" creationid="tagezi" creationdate="20180312T133414Z">
@@ -10392,6 +10408,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T193710Z" creationid="olex" creationdate="20180311T193710Z">
         <seg>Нажмите &lt;f0&gt;Обновить стили&lt;/f0&gt;, чтобы применить измененные в шаблоне стили к документу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Yes&lt;/f0&gt; if you want all the slides modified and Impress will automatically modify the master page for you.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T161943Z" creationid="olex" creationdate="20181015T161943Z">
+        <seg>Нажмите &lt;f0&gt;Да&lt;/f0&gt;, если вы хотите, чтобы все слайды были изменены и Impress автоматически изменит мастер-страницу для вас.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20588,6 +20612,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180917T211008Z" creationid="olex" creationdate="20180917T211008Z">
         <seg>Если закрыть все документы, не закрывая последнее окно LibreOffice, то будет отображаться Центр запуска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If all you need to do is to change the background, you can use a shortcut:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T161153Z" creationid="olex" creationdate="20181015T161153Z">
+        <seg>Если все, что вам нужно, это изменить фон, то вы можете использовать простой способ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31363,6 +31395,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the &lt;f1&gt;Impress Guide Chapter 2 Using Slide Masters, Styles, and Templates&lt;/f1&gt; for more information on creating and modifying slide masters.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T161049Z" creationid="olex" creationdate="20181015T161049Z">
+        <seg>Смотрите &lt;f1&gt;Руководство по Impress, Главу 2, Использование мастер-слайдов, стилей и шаблонов&lt;/f1&gt; для получения дополнительной информации про создание и редактирование мастер-слайдов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the &lt;f1&gt;Writer Guide&lt;/f1&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T175503Z" creationid="olex" creationdate="20181001T175503Z">
@@ -31767,6 +31807,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T191051Z" creationid="olex" creationdate="20180502T185932Z">
         <seg>Выберите в подменю &lt;f0&gt;Показать&lt;/f0&gt; и строки или столбцы будут отображаться на экране и при печати. По другому, нажмите правой кнопкой мыши на вкладке заголовков выделенных строк или столбцов и выберите в контекстном меню &lt;f0&gt;Показать строки&lt;/f0&gt; или &lt;f0&gt;Показать столбцы&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Slide &gt; Page/Slide Properties...&lt;/f0&gt; and go to the &lt;f1&gt;Background&lt;/f1&gt; tab on the &lt;f2&gt;Page Setup&lt;/f2&gt; dialog that opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T161429Z" creationid="olex" creationdate="20181015T161429Z">
+        <seg>Выберите &lt;f0&gt;Слайд &gt; Свойства...&lt;/f0&gt; и перейдите к владке &lt;f1&gt;Фон&lt;/f1&gt; в открывшемся диалоговом окне &lt;f2&gt;Параметры страницы&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32306,6 +32354,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T192146Z" creationid="olex" creationdate="20180412T192146Z">
         <seg>Выберите формат даты или времени, который вы хотите использовать, в списке &lt;f0&gt;Формат&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the desired background between solid color, gradient, hatching, and bitmap.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T161635Z" creationid="olex" creationdate="20181015T161635Z">
+        <seg>Выберите желаемый тип фона из вариантов: цвет, градиент, текстура, орнамент и штриховка.</seg>
       </tuv>
     </tu>
     <tu>
