@@ -5371,6 +5371,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A &lt;f0&gt;Slide Master&lt;/f0&gt; is a slide with a specified set of characteristics that acts as a template and is used as the starting point for creating other slides.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T155803Z" creationid="olex" creationdate="20181015T155803Z">
+        <seg>&lt;f0&gt;Мастер-слайд&lt;/f0&gt; - это слайд с заданным набором характеристик, который действует как шаблон и используется в качестве отправной точки для создания других слайдов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A &lt;f0&gt;p&lt;/f0&gt;ivot table is a way to &lt;tc1/&gt;&lt;f2&gt;organize&lt;/f2&gt;, manipulate, and summarize large amounts of data &lt;tc3/&gt;&lt;f4&gt;to make&lt;/f4&gt; it much easier to read &lt;f5&gt;and understand &lt;/f5&gt;while also allowing you to answer different questions about your spreadshee&lt;f6&gt;t&lt;/f6&gt; by rearranging --or pivoting-- &lt;f7&gt;the data you enter into it&lt;/f7&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180908T191416Z" creationid="olex" creationdate="20180908T191416Z">
@@ -17845,8 +17853,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>For more information on text, see “&lt;bf6&gt;Adding and formatting text&lt;/bf6&gt;” on page &lt;bf7&gt;18&lt;/bf7&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181015T154827Z" creationid="olex" creationdate="20181015T154827Z">
-        <seg>Дополнительную информацию о тексте смотрите в разделе  “&lt;bf6&gt;Добавление и форматирование текста&lt;/bf6&gt;” на странице &lt;bf7&gt;18&lt;/bf7&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T155325Z" creationid="olex" creationdate="20181015T154827Z">
+        <seg>Дополнительную информацию о тексте смотрите в разделе  “&lt;bf6&gt;Вставка и форматирование текста&lt;/bf6&gt;” на странице &lt;bf7&gt;18&lt;/bf7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17911,6 +17919,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180930T194122Z" creationid="olex" creationdate="20180930T194122Z">
         <seg>Для получения дополнительной информации смотрите &lt;f3&gt;Руководство по Writer&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information, see “&lt;bf1&gt;Adding pictures, tables, charts, and media&lt;/bf1&gt;” on page &lt;bf2&gt;23&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T155316Z" creationid="olex" creationdate="20181015T155316Z">
+        <seg>Для получения дополнительной информации смотрите “&lt;bf1&gt;Вставка изображений, таблиц, диаграмм и медиа&lt;/bf1&gt;” на странице &lt;bf2&gt;23&lt;/bf2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22162,6 +22178,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impress has a range of slide masters and these are found in the &lt;f0&gt;Master Pages&lt;/f0&gt; section of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T160836Z" creationid="olex" creationdate="20181015T160758Z">
+        <seg>Impress имеет ряд мастер-слайдов, и они находятся во вкладке &lt;f0&gt;Мастер-слайды&lt;/f0&gt; на Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Impress includes several designs for Master Pages (slide masters).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T075445Z" creationid="olex" creationdate="20180915T075445Z">
@@ -25292,6 +25316,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T190145Z" creationid="olex" creationdate="20180617T190145Z">
         <seg>LibreOffice использует очень сильный механизм шифрования, который практически не позволяет восстановить содержимое документа, если вы потеряли или забыли пароль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice uses three terms for a slide that is used to create other slides: &lt;f0&gt;master slide&lt;/f0&gt;, &lt;f1&gt;slide master&lt;/f1&gt;, and &lt;f2&gt;master page&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T160505Z" creationid="olex" creationdate="20181015T160505Z">
+        <seg>В LibreOffice используется три термина для слайда, который используется для создания других слайдов: &lt;f0&gt;мастер-слайд&lt;/f0&gt;, &lt;f1&gt;макет слайда&lt;/f1&gt; и &lt;f2&gt;макет страницы&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37964,6 +37996,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These characteristics include slide background, objects in the background, formatting of any text used, and any background graphics.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T160158Z" creationid="olex" creationdate="20181015T160158Z">
+        <seg>Эти характеристики включают в себя фон слайдов, объекты фона, форматирование любого используемого текста и любую фоновую графику.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These checkers are enabled by default if the language is the computer’s default language.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T101920Z" creationid="olex" creationdate="20180715T101920Z">
@@ -38322,6 +38362,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090257Z" creationid="tagezi" creationdate="20180305T090257Z">
         <seg>Эта книга является адаптацией и обновлением &lt;f0&gt;Руководства по началу работы с OpenOffice.org 3.3&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This book uses the &lt;i3/&gt;term &lt;f4&gt;slide master,&lt;/f4&gt; except when describing the user interface.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T160807Z" creationid="olex" creationdate="20181015T160707Z">
+        <seg>В этой книге используется &lt;i3/&gt;термин &lt;f4&gt;мастер-слайд,&lt;/f4&gt;, кроме случаев, когда описывается пользовательский интерфейс.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39664,6 +39712,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T194524Z" creationid="olex" creationdate="20180412T194240Z">
         <seg>Чтобы изменить параметры автозамены, перейдите в меню &lt;f0&gt;Сервис &gt; Параметры автозамены...&lt;/f0&gt;, чтобы открыть диалоговое окно &lt;f1&gt;Автозамена&lt;/f1&gt; (Рисунок &lt;t2&gt;21&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the background and other characteristics of all slides in the presentation, you need to &lt;i0/&gt;modify the master page or choose a different master page as explained in “&lt;bf1&gt;Working with slide masters and styles&lt;/bf1&gt;” on page &lt;bf2&gt;25&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T155623Z" creationid="olex" creationdate="20181015T155623Z">
+        <seg>Чтобы изменить фон и другие характеристики всех слайдов в презентации, вам необходимо &lt;i0/&gt;изменить мастер-слайд или выбрать другой мастер-слайд, как описано в разделе «&lt;bf1&gt;Работа с мастер-слайдами и стилями&lt;/bf1&gt;» на странице &lt;bf2&gt;25&lt;/bf2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45591,6 +45647,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also create and save additional slide masters or add more from other sources.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T160920Z" creationid="olex" creationdate="20181015T160920Z">
+        <seg>Вы также можете создавать и сохранять дополнительные слайды или добавлять их из других источников.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also create your own reference items; see “Setting References” in &lt;tc41/&gt;the &lt;f42&gt;Writer Guide&lt;/f42&gt; for instructions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180823T183944Z" creationid="olex" creationdate="20180823T183944Z">
@@ -49152,6 +49216,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T191132Z" creationid="olex" creationdate="20180711T191132Z">
         <seg>размеры для HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>slide master</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T160209Z" creationid="olex" creationdate="20181015T160209Z">
+        <seg>мастер-слайд</seg>
       </tuv>
     </tu>
     <tu>
