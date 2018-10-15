@@ -8683,6 +8683,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default the slide show will display all the slides in the same order as they appear in the slide sorter, without any transition between slides.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T162354Z" creationid="olex" creationdate="20181015T162354Z">
+        <seg>По умолчанию слайд-шоу покажет все слайды в том же порядке, что и в сортировщике слайдов, без переходов между слайдами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, &lt;f0&gt;all &lt;/f0&gt;cells will be flagged as &lt;f1&gt;Protected &lt;/f1&gt;(Figure &lt;f2&gt;&lt;t3&gt;36&lt;/t3&gt;&lt;/f2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181009T182417Z" creationid="olex" creationdate="20181009T182417Z">
@@ -23735,6 +23743,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T153114Z" creationid="olex" creationdate="20180721T153035Z">
         <seg>Вставка верхнего или нижнего колонтитула</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inserting and correctly formatting a background is beyond the scope of this chapter, but you can find all the information you need in the &lt;f0&gt;Draw Guide Chapter 4 Changing Object Attributes&lt;/f0&gt; or in the &lt;f1&gt;Impress Guide Chapter 6 Formatting Graphic Objects&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T162306Z" creationid="olex" creationdate="20181015T162306Z">
+        <seg>Вставка и правильное форматирование фона выходит за рамки этой главы, но вы можете найти всю необходимую информацию в &lt;f0&gt;Руководстве по Draw, Главе 4, Изменение атрибутов объекта&lt;/f0&gt; или в  &lt;f1&gt;Руководстве по Impress, Глава 6, Форматирование графических объектов&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39884,6 +39900,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the slide transition, animate slides, add a soundtrack to the presentation, and make other enhancements, you need to use functions in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T163103Z" creationid="olex" creationdate="20181015T163103Z">
+        <seg>Чтобы изменить смену слайда, анимацию, добавить звуковую дорожку к презентации и сделать другие улучшения, вам нужно использовать  инструменты на Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change the title for the whole document, go back to &lt;f0&gt;File &gt; Properties &gt; Description&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T194243Z" creationid="olex" creationdate="20180817T194243Z">
@@ -46988,6 +47012,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can use &lt;f0&gt;Slide Show&lt;/f0&gt; on the Menu bar to change the order of the slides, choose which ones are shown, automate moving from one slide to the next, and other settings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T162837Z" creationid="olex" creationdate="20181015T162837Z">
+        <seg>Вы можете использовать меню &lt;f0&gt;Демонстрация&lt;/f0&gt;, чтобы изменить порядок слайдов, выбрать, какие из них отображаются, автоматизировать переход с одного слайда на другой и другие настройки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can use &lt;i0/&gt;&lt;i1/&gt;Calc’s AutoFormat&lt;i2/&gt; feature to format a &lt;f3&gt;table (range&lt;/f3&gt; of cells&lt;f4&gt;)&lt;/f4&gt; quickly and easily.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180905T175655Z" creationid="olex" creationdate="20180905T175655Z">
@@ -47472,6 +47504,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T084735Z" creationid="tagezi" creationdate="20180319T084735Z">
         <seg>Вам нужно сделать их вручную.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to use keyboard input or mouse interaction to move from one slide to the next.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T162510Z" creationid="olex" creationdate="20181015T162510Z">
+        <seg>Вам необходимо будет использовать клавиатуру или мышь для управления переходом от одного слайда к другому.</seg>
       </tuv>
     </tu>
     <tu>
