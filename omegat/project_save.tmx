@@ -8071,6 +8071,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>AutoLayout</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T164312Z" creationid="olex" creationdate="20181015T164312Z">
+        <seg>Авторазметка</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>снова этот АВТОМАКЕТ - разобраться</note>
       <tuv lang="EN-US">
         <seg>AutoLayout text boxes</seg>
@@ -38288,6 +38296,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180929T081512Z" creationid="olex" creationdate="20180929T081512Z">
         <seg>Єти стили используют стили списков Нумерованный 1, Нумерованный 2 и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These text boxes are &lt;i1/&gt;&lt;i2/&gt;called &lt;f3&gt;AutoLayout&lt;/f3&gt; text boxes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T164304Z" creationid="olex" creationdate="20181015T164304Z">
+        <seg>Эти текстовые поля &lt;i1/&gt;&lt;i2/&gt;называются область &lt;f3&gt;Авторазметки&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
