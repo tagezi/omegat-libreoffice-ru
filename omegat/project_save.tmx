@@ -9956,6 +9956,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose a predefined layout from the &lt;f0&gt;Layouts&lt;/f0&gt; section of the Sidebar and do not select any special content type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T164017Z" creationid="olex" creationdate="20181015T164017Z">
+        <seg>Выберите предопределенный макет из панели &lt;f0&gt;Макеты&lt;/f0&gt; на Боковой панели и не выбирайте какой-либо специальный тип содержимого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose spelling options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T153344Z" creationid="olex" creationdate="20180623T153344Z">
@@ -17727,6 +17735,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180908T195331Z" creationid="olex" creationdate="20180908T195331Z">
         <seg>Для получения дополнительной информации о диаграммах и диаграммах сводных данных в общих чертах смотрите&lt;ts0/&gt; &lt;f1&gt;Главу 3&lt;/f1&gt;&lt;te2/&gt; &lt;f3&gt;&lt;f4&gt;Руководства по Calc&lt;/f4&gt;&lt;/f3&gt;&lt;ts5/&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;te8/&gt;&lt;f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;tc11/&gt;&lt;f12&gt;&lt;f13&gt; Диаграммы и графики&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; и&lt;/f14&gt;&lt;ts15/&gt;&lt;f16&gt; Главу 8&lt;/f16&gt;&lt;te17/&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Руководства по Calc&lt;/f20&gt;&lt;/f19&gt;&lt;ts21/&gt;&lt;f22&gt;&lt;f23&gt;&lt;/f23&gt;&lt;/f22&gt;&lt;te24/&gt;&lt;f25&gt;&lt;f26&gt;&lt;/f26&gt;&lt;/f25&gt;&lt;tc27/&gt;&lt;f28&gt;&lt;f29&gt; Сводные таблицы&lt;/f29&gt;&lt;/f28&gt;&lt;tc30/&gt;&lt;f31&gt;.&lt;/f31&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on adding and formatting text, see the &lt;f1&gt;Impress Guide Chapter 3 Adding and Formatting Text&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T163508Z" creationid="olex" creationdate="20181015T163508Z">
+        <seg>Для получения дополнительной информации о вставке и форматировании текста смотрите в &lt;f1&gt;Руководстве по Impress, Главе 3, Вставка и форматирование текста&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26064,6 +26080,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many of your slides are likely to contain some text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T163250Z" creationid="olex" creationdate="20181015T163208Z">
+        <seg>Многие из ваших слайдов, вероятно, содержат текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many people also find AutoInput helpful.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181009T172900Z" creationid="olex" creationdate="20180414T135408Z">
@@ -31419,6 +31443,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the &lt;f1&gt;Impress Guide&lt;/f1&gt; for details on how to use all of these features.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T163136Z" creationid="olex" creationdate="20181015T163136Z">
+        <seg>Подробнее о том, как использовать все эти функции, смотрите в &lt;f1&gt;Руководстве по Impress&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the &lt;f1&gt;Writer Guide&lt;/f1&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T175503Z" creationid="olex" creationdate="20181001T175503Z">
@@ -34503,6 +34535,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T184348Z" creationid="olex" creationdate="20180311T184348Z">
         <seg>Текст для включения в колонтитул (деловой факс)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text used in slides is contained in &lt;f0&gt;text boxes&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T163332Z" creationid="olex" creationdate="20181015T163332Z">
+        <seg>Текст, используемый в слайдах, содержится в &lt;f0&gt;текстовых полях&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39084,6 +39124,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T160032Z" creationid="olex" creationdate="20180624T160032Z">
         <seg>В этом разделе описаны некоторые параметры, которые применяются ко всем компонентам LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This section gives some guidelines on how to add text and change its appearance.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T163259Z" creationid="olex" creationdate="20181015T163240Z">
+        <seg>В этом разделе приведены некоторые рекомендации по добавлению текста и изменению его внешнего вида.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45631,6 +45679,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can add two types of text boxes to a slide:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T163521Z" creationid="olex" creationdate="20181015T163521Z">
+        <seg>Вы можете добавить к слайду два типа текстовых полей:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can add your own corrections or special characters or change those supplied with LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T185330Z" creationid="olex" creationdate="20180805T185330Z">
@@ -49544,6 +49600,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T152502Z" creationid="olex" creationdate="20180630T152502Z">
         <seg>границы текста (показать/скрыть)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>text box</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181015T163749Z" creationid="olex" creationdate="20181015T163749Z">
+        <seg>текстовое поле</seg>
       </tuv>
     </tu>
     <tu>
