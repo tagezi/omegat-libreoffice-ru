@@ -8089,6 +8089,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AutoLayout text boxes can automatically resize fonts to let the box contain all the text you insert.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T183054Z" creationid="olex" creationdate="20181017T183054Z">
+        <seg>Преднастроенные текстовые поля могут автоматически изменять размер шрифтов, чтобы поле вмещало весь текст, который вы вставляете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AutoRecovery</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T170916Z" creationid="olex" creationdate="20180707T170916Z">
@@ -11263,8 +11271,8 @@
       <tuv lang="EN-US">
         <seg>Click the &lt;f1&gt;Vertical Text&lt;/f1&gt; icon &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;s5/&gt;in the Standard toolbar or Text toolbar to create a vertical text box.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181017T182138Z" creationid="olex" creationdate="20181017T181222Z">
-        <seg>Нажмите значок &lt;f1&gt;Вертикальн&lt;/f1&gt; icon &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;s5/&gt;in the Standard toolbar or Text toolbar to create a vertical text box.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T182327Z" creationid="olex" creationdate="20181017T181222Z">
+        <seg>Чтобы создать поле вертикального текста, нажмите значок &lt;f1&gt;Вертикальный текст&lt;/f1&gt; &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;s5/&gt;на панели инструментов Стандартная или Текст.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14946,6 +14954,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Creating and editing text boxes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T182347Z" creationid="olex" creationdate="20181017T182347Z">
+        <seg>Рисунок &lt;seq0&gt;16&lt;/seq0&gt;: Создание и редактирование текстовых полей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Dividing a document into chapters using page styles</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T193450Z" creationid="olex" creationdate="20180316T193450Z">
@@ -15006,6 +15022,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T195829Z" creationid="olex" creationdate="20180719T195829Z">
         <seg>Рисунок &lt;seq0&gt;17&lt;/seq0&gt;: Разделение документа на главы с использованием стилей страниц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Quick font resizing on Text Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T182934Z" creationid="olex" creationdate="20181017T182934Z">
+        <seg>Рисунок &lt;seq0&gt;17&lt;/seq0&gt;: Быстрое изменение размера шрифта на панели инструментов Форматирование текста</seg>
       </tuv>
     </tu>
     <tu>
@@ -21841,6 +21865,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you insert a long piece of text, the font size may shrink to fit into the box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T183140Z" creationid="olex" creationdate="20181017T183140Z">
+        <seg>Если вы вставляете длинный фрагмент текста, то размер шрифта может уменьшаться, чтобы поместить его его в поле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you install or update a Java Runtime Environment (JRE) after you install LibreOffice, or if you have more than one JRE installed on your computer, you can use the &lt;f0&gt;LibreOffice – Advanced options&lt;/f0&gt; page to choose the JRE for LibreOffice to use.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T171909Z" creationid="olex" creationdate="20180701T171025Z">
@@ -22334,6 +22366,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181015T160836Z" creationid="olex" creationdate="20181015T160758Z">
         <seg>Impress имеет ряд мастер-слайдов, и они находятся во вкладке &lt;f0&gt;Мастер-слайды&lt;/f0&gt; на Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impress has an &lt;f0&gt;Increase Font&lt;/f0&gt; icon and a &lt;f1&gt;Decrease Font&lt;/f1&gt; icon on the Text Formatting toolbar (highlighted in Figure &lt;t2&gt;17&lt;/t2&gt;) to increase or decrease the font size of selected text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T182735Z" creationid="olex" creationdate="20181017T182735Z">
+        <seg>У Impress есть значок &lt;f0&gt;Увеличить кегль&lt;/f0&gt; и значок &lt;f1&gt;Уменьшить кегль&lt;/f1&gt; на панели инструментов Форматирование текста (выделена на Рисунке &lt;t2&gt;17&lt;/t2&gt;), чтобы увеличивать или уменьшать размер шрифта выбранного текста.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29096,6 +29136,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Otherwise, the font keeps its default size.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T183212Z" creationid="olex" creationdate="20181017T183212Z">
+        <seg>В обратном случае шрифт сохраняет свой размер по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Outline view</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180908T203013Z" creationid="olex" creationdate="20180908T202930Z">
@@ -29330,8 +29378,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Pasting text</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180721T104905Z" creationid="olex" creationdate="20180721T104905Z">
-        <seg>Вставить текст</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T183311Z" creationid="olex" creationdate="20180721T104905Z">
+        <seg>Вставка текста</seg>
       </tuv>
     </tu>
     <tu>
@@ -35792,6 +35840,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T180949Z" creationid="olex" creationdate="20180707T180949Z">
         <seg>Преимущество будет в том, что документ, содержащий ссылки, может быть перемещен в другие каталоги или папки, и ссылки остаются в силе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The amount by which the font size changes depends on the standard sizes available for the font in use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T182854Z" creationid="olex" creationdate="20181017T182854Z">
+        <seg>Шаг, на который изменяется размер шрифта, зависит от стандартных размеров, доступных для используемого шрифта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48508,6 +48564,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>font resizing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T182402Z" creationid="olex" creationdate="20181017T182402Z">
+        <seg>изменение размера шрифта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>formatting pages</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T110825Z" creationid="olex" creationdate="20180815T110825Z">
@@ -49156,6 +49220,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>pasting</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T183226Z" creationid="olex" creationdate="20181017T183226Z">
+        <seg>вставка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>path options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T171625Z" creationid="olex" creationdate="20180628T171625Z">
@@ -49752,6 +49824,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T132156Z" creationid="olex" creationdate="20180306T175031Z">
         <seg>шаблон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>text</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T183230Z" creationid="olex" creationdate="20181017T183230Z">
+        <seg>текста</seg>
       </tuv>
     </tu>
     <tu>
