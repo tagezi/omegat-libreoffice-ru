@@ -8074,8 +8074,8 @@
       <tuv lang="EN-US">
         <seg>AutoLayout</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181015T164312Z" creationid="olex" creationdate="20181015T164312Z">
-        <seg>Авторазметка</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T181805Z" creationid="olex" creationdate="20181015T164312Z">
+        <seg>Преднастроенное</seg>
       </tuv>
     </tu>
     <tu>
@@ -9966,8 +9966,8 @@
       <tuv lang="EN-US">
         <seg>Choose a predefined layout from the &lt;f0&gt;Layouts&lt;/f0&gt; section of the Sidebar and do not select any special content type.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181015T164017Z" creationid="olex" creationdate="20181015T164017Z">
-        <seg>Выберите предопределенный макет из панели &lt;f0&gt;Макеты&lt;/f0&gt; на Боковой панели и не выбирайте какой-либо специальный тип содержимого.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T181752Z" creationid="olex" creationdate="20181015T164017Z">
+        <seg>Выбирайте предопределенный макет из панели &lt;f0&gt;Макеты&lt;/f0&gt; на Боковой панели и не выбирайте какой-либо специальный тип содержимого.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10846,8 +10846,8 @@
       <tuv lang="EN-US">
         <seg>Click on the &lt;f0&gt;Text&lt;/f0&gt; icon on the Standard or Text toolbar or use the keyboard shortcut &lt;f1&gt;F2&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181017T174518Z" creationid="olex" creationdate="20181017T174518Z">
-        <seg>Нажмите значок &lt;f0&gt;Текст&lt;/f0&gt; на панели инструментов Стандартная или Текст, или нажмите клавишу &lt;f1&gt;F2&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T182018Z" creationid="olex" creationdate="20181017T174518Z">
+        <seg>Нажмите значок &lt;f0&gt;Текстовое поле&lt;/f0&gt; на панели инструментов Стандартная или Текст, или нажмите клавишу &lt;f1&gt;F2&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11257,6 +11257,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T182646Z" creationid="olex" creationdate="20180619T182646Z">
         <seg>Для продолжения нажмите кнопку &lt;f1&gt;Открыть&lt;/f1&gt; или &lt;f2&gt;Сохранить&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f1&gt;Vertical Text&lt;/f1&gt; icon &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;s5/&gt;in the Standard toolbar or Text toolbar to create a vertical text box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T182138Z" creationid="olex" creationdate="20181017T181222Z">
+        <seg>Нажмите значок &lt;f1&gt;Вертикальн&lt;/f1&gt; icon &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;s5/&gt;in the Standard toolbar or Text toolbar to create a vertical text box.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11913,8 +11921,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Create a text box using the &lt;f0&gt;Text&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;di3/&gt;&lt;/df1&gt;&lt;s4/&gt;on the Standard toolbar (Figure &lt;t5&gt;14&lt;/t5&gt;) or the Text toolbar (Figure &lt;t6&gt;15&lt;/t6&gt;), or use the keyboard shortcut &lt;f7&gt;F2&lt;/f7&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181017T173943Z" creationid="olex" creationdate="20181017T173943Z">
-        <seg>Создайте текстовое поле с помощью значка &lt;f0&gt;Текст&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;di3/&gt;&lt;/df1&gt;&lt;s4/&gt;на панели инструментов Стандартная (Рисунок &lt;t5&gt;14&lt;/t5&gt;) или на панели инструментов Текст (Рисунок &lt;t6&gt;15&lt;/t6&gt;), или нажав клавишу клавиш &lt;f7&gt;F2&lt;/f7&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T181946Z" creationid="olex" creationdate="20181017T173943Z">
+        <seg>Создавайте текстовое поле с помощью значка &lt;f0&gt;Текстовое поле&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;di3/&gt;&lt;/df1&gt;&lt;s4/&gt;на панели инструментов Стандартная (Рисунок &lt;t5&gt;14&lt;/t5&gt;) или на панели инструментов Текст (Рисунок &lt;t6&gt;15&lt;/t6&gt;), или нажав клавишу клавиш &lt;f7&gt;F2&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18037,8 +18045,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>For more information, see the &lt;f0&gt;Impress Guide Chapter 3 Adding and Formatting Text&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181017T180547Z" creationid="olex" creationdate="20181017T180547Z">
-        <seg>Для получения дополнительной информации смотрите раздел &lt;f0&gt;Руководство Impress, Главу 3, Добавление и форматирование текста&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T182123Z" creationid="olex" creationdate="20181017T180547Z">
+        <seg>Для получения дополнительной информации смотрите раздел &lt;f0&gt;Руководство по Impress, Главу 3, Добавление и форматирование текста&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22837,6 +22845,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180924T175732Z" creationid="olex" creationdate="20180924T175732Z">
         <seg>В дополнение к функциям навигации в строке состояния (описанным выше) вы можете использовать окно Навигатор и панель инструментов Навигация на панели инструментов Стандартная или на Боковой панели, как описано в Главе 1 Введение в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the normal text boxes where text is horizontally aligned, it is possible to insert text boxes where the text is aligned vertically.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T180646Z" creationid="olex" creationdate="20181017T180646Z">
+        <seg>В дополнение к обычным текстовым полям, где текст выравнивается по горизонтали, можно вставлять текстовые поля, где текст выровнен по вертикали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38406,8 +38422,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>These text boxes are &lt;i1/&gt;&lt;i2/&gt;called &lt;f3&gt;AutoLayout&lt;/f3&gt; text boxes.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181015T164304Z" creationid="olex" creationdate="20181015T164304Z">
-        <seg>Эти текстовые поля &lt;i1/&gt;&lt;i2/&gt;называются область &lt;f3&gt;Авторазметки&lt;/f3&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T181516Z" creationid="olex" creationdate="20181015T164304Z">
+        <seg>Эти текстовые поля &lt;i1/&gt;&lt;i2/&gt;называются &lt;f3&gt;преднастроенные текстовые поля&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43360,8 +43376,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>Using AutoLayout text boxes</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181017T175844Z" creationid="olex" creationdate="20181010T184526Z">
-        <seg>Использование текстовых полей макета</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T180704Z" creationid="olex" creationdate="20181010T184526Z">
+        <seg>Использование преднастроенных текстовых полей</seg>
       </tuv>
     </tu>
     <tu>
@@ -44039,6 +44055,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T194842Z" creationid="olex" creationdate="20180910T194842Z">
         <seg>Вертикальный текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical text is available only when Asian languages are enabled in &lt;f0&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T181122Z" creationid="olex" creationdate="20181017T180932Z">
+        <seg>Вертикальный текст доступен только в том случае, если в &lt;f0&gt;Сервис &gt; Параметры &gt;Настройки языка &gt; Языки&lt;/f0&gt; доступны азиатские языки.</seg>
       </tuv>
     </tu>
     <tu>
