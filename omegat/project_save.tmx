@@ -10628,6 +10628,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click and drag to draw a box for the text on the slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T175015Z" creationid="olex" creationdate="20181017T175015Z">
+        <seg>Нажмите и протащите курсор мыши на слайде, чтобы нарисовать поле для текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click back on the cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T184504Z" creationid="olex" creationdate="20180411T184504Z">
@@ -13043,6 +13051,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T192600Z" creationid="olex" creationdate="20180306T195708Z">
         <seg>Разделение документа на главы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not worry about the vertical size and position as the text box will expand if needed as you type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T175215Z" creationid="olex" creationdate="20181017T175215Z">
+        <seg>Не беспокойтесь о высоте текстового поля, поскольку оно будет расширяться при необходимости по мере ввода текста.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30294,6 +30310,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T175842Z" creationid="olex" creationdate="20180707T175621Z">
         <seg>Относительные ссылки возможны только в том случае, если исходный документ и документ к которому ведет ссылка находятся на одном диске.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release the mouse button when finished.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T175833Z" creationid="olex" creationdate="20181017T175833Z">
+        <seg>Отпустите кнопку мыши, когда закончите.</seg>
       </tuv>
     </tu>
     <tu>
