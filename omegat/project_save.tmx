@@ -10718,8 +10718,8 @@
       <tuv lang="EN-US">
         <seg>Click in the text box that reads &lt;f0&gt;Click to add text&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181017T174320Z" creationid="olex" creationdate="20181017T174320Z">
-        <seg>Нажмите в текстовом поле, в котором написано &lt;f0&gt;Для добавления текста щелкните мышью&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T175902Z" creationid="olex" creationdate="20181017T174320Z">
+        <seg>Нажмите на текстовом поле, в котором написано &lt;f0&gt;Для добавления текста щелкните мышью&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11033,6 +11033,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T181727Z" creationid="olex" creationdate="20180616T181656Z">
         <seg>Щелкните один из значков, чтобы открыть новый документ необходимого типа, или щелкните значок &lt;f3&gt;Шаблоны&lt;/f3&gt;, чтобы создать новый документ с помощью шаблона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click outside the text box to deselect it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T180358Z" creationid="olex" creationdate="20181017T180358Z">
+        <seg>Нажмите вне текстового поля, чтобы отменить выбор.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18023,6 +18031,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T180914Z" creationid="olex" creationdate="20180817T180914Z">
         <seg>Для получения дополнительной информации смотрите &lt;tc11/&gt;&lt;f12&gt;Руководство по Writer&lt;/f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information, see the &lt;f0&gt;Impress Guide Chapter 3 Adding and Formatting Text&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T180547Z" creationid="olex" creationdate="20181017T180547Z">
+        <seg>Для получения дополнительной информации смотрите раздел &lt;f0&gt;Руководство Impress, Главу 3, Добавление и форматирование текста&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36020,6 +36036,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The cursor appears in the text box, which is now in edit mode (a colored border shown in Figure &lt;t0&gt;16&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T180328Z" creationid="olex" creationdate="20181017T180328Z">
+        <seg>В текстовом поле, которое теперь находится в режиме редактирования (цветная рамка, показанная на рисунке &lt;t0&gt;16&lt;/t0&gt;), появится курсор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cursor is positioned at the start of the formula in the Formula Editor.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T205018Z" creationid="Роман" creationdate="20180320T205018Z">
@@ -43336,8 +43360,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>Using AutoLayout text boxes</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181010T184526Z" creationid="olex" creationdate="20181010T184526Z">
-        <seg>Использование текстовых полей Автомакета</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T175844Z" creationid="olex" creationdate="20181010T184526Z">
+        <seg>Использование текстовых полей макета</seg>
       </tuv>
     </tu>
     <tu>
@@ -46872,6 +46896,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T220321Z" creationid="olex" creationdate="20180407T220321Z">
         <seg>Вы можете перемещать или копировать листы в электронной таблице путем перетаскивания или с помощью диалогового окна &lt;f0&gt;Переместить/скопировать лист...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can move, resize, and delete text boxes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T180456Z" creationid="olex" creationdate="20181017T180456Z">
+        <seg>Вы можете перемещать, изменять размер и удалять текстовые поля.</seg>
       </tuv>
     </tu>
     <tu>
