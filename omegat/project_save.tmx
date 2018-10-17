@@ -10708,6 +10708,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click in the text box that reads &lt;f0&gt;Click to add text&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T174320Z" creationid="olex" creationdate="20181017T174320Z">
+        <seg>Нажмите в текстовом поле, в котором написано &lt;f0&gt;Для добавления текста щелкните мышью&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click in the text where you want to position the cursor; click in a cell to make it the active cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T154220Z" creationid="olex" creationdate="20180722T154220Z">
@@ -10824,6 +10832,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180930T192258Z" creationid="olex" creationdate="20180930T192258Z">
         <seg>Нажмите кнопку &lt;f0&gt;Стили&lt;/f0&gt; на Боковой панели, чтобы открыть вкладку Стили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on the &lt;f0&gt;Text&lt;/f0&gt; icon on the Standard or Text toolbar or use the keyboard shortcut &lt;f1&gt;F2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T174518Z" creationid="olex" creationdate="20181017T174518Z">
+        <seg>Нажмите значок &lt;f0&gt;Текст&lt;/f0&gt; на панели инструментов Стандартная или Текст, или нажмите клавишу &lt;f1&gt;F2&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11875,6 +11891,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T211334Z" creationid="olex" creationdate="20180309T211334Z">
         <seg>Создайте таблицу и настройте вид ячеек, фона, границ и других элементов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a text box using the &lt;f0&gt;Text&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;di3/&gt;&lt;/df1&gt;&lt;s4/&gt;on the Standard toolbar (Figure &lt;t5&gt;14&lt;/t5&gt;) or the Text toolbar (Figure &lt;t6&gt;15&lt;/t6&gt;), or use the keyboard shortcut &lt;f7&gt;F2&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T173943Z" creationid="olex" creationdate="20181017T173943Z">
+        <seg>Создайте текстовое поле с помощью значка &lt;f0&gt;Текст&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;di3/&gt;&lt;/df1&gt;&lt;s4/&gt;на панели инструментов Стандартная (Рисунок &lt;t5&gt;14&lt;/t5&gt;) или на панели инструментов Текст (Рисунок &lt;t6&gt;15&lt;/t6&gt;), или нажав клавишу клавиш &lt;f7&gt;F2&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14786,6 +14810,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Standard toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T173957Z" creationid="olex" creationdate="20181017T173957Z">
+        <seg>Рисунок &lt;seq0&gt;14&lt;/seq0&gt;: Панель инструментов Стандартная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: The Special Characters insert dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180927T171230Z" creationid="olex" creationdate="20180927T171230Z">
@@ -14830,6 +14862,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T153153Z" creationid="olex" creationdate="20180630T153153Z">
         <seg>Рисунок &lt;seq0&gt;15&lt;/seq0&gt;: Отображение или скрытие границ текста, объекта и таблицы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Text toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T174008Z" creationid="olex" creationdate="20181017T174008Z">
+        <seg>Рисунок &lt;seq0&gt;15&lt;/seq0&gt;: Панель инструментов Текст</seg>
       </tuv>
     </tu>
     <tu>
@@ -20960,6 +21000,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Standard or Text toolbars are not visible, go to &lt;f2&gt;View &gt; Toolbars&lt;/f2&gt; on the Menu bar and select &lt;f3&gt;Standard&lt;/f3&gt; or &lt;f4&gt;Text&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T174750Z" creationid="olex" creationdate="20181017T174750Z">
+        <seg>Если панель инструментов Стандартная или Текст не видна, то выберите в меню &lt;f2&gt;Вид &gt; Панели инструментов &gt; Стандартная&lt;/f2&gt; или &lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;Вид &gt; Панели инструментов &gt; Text&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the current language does not have a thesaurus installed, this feature is disabled.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T184506Z" creationid="olex" creationdate="20180805T184506Z">
@@ -25860,6 +25908,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T164623Z" creationid="lera" creationdate="20180303T164623Z">
         <seg>Обновления основных версий для OpenOffice.org включали версию 2.0 в октябре 2005 и версию 3.0 в октябре 2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure Normal view is selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T174037Z" creationid="olex" creationdate="20181017T174037Z">
+        <seg>Убедитесь, что выбран вид Обычный.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42270,6 +42326,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135016Z" creationid="tagezi" creationdate="20180320T135016Z">
         <seg>Тип макроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type or paste your text in the text box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181017T174352Z" creationid="olex" creationdate="20181017T174352Z">
+        <seg>Введите или вставьте текст в текстовое поле.</seg>
       </tuv>
     </tu>
     <tu>
