@@ -8087,6 +8087,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>AutoLayout &lt;i0/&gt;text boxes</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T190651Z" creationid="olex" creationdate="20181019T190651Z">
+        <seg>Преднастроенные &lt;i0/&gt;текстовые блоки</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>снова этот АВТОМАКЕТ - разобраться</note>
       <tuv lang="EN-US">
         <seg>AutoLayout text boxes</seg>
@@ -8101,6 +8109,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181019T181816Z" creationid="olex" creationdate="20181017T183054Z">
         <seg>Преднастроенные текстовые блоки могут автоматически изменять размер шрифтов, чтобы поле вмещало весь текст, который вы вставляете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AutoLayout text boxes included in the available layouts are already formatted as a bulleted list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T190726Z" creationid="olex" creationdate="20181019T190726Z">
+        <seg>Преднастроенные текстовые блоки, включенные в доступные макеты, уже отформатированы как маркированный список.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11923,6 +11939,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T151100Z" creationid="lera" creationdate="20180303T151100Z">
         <seg>Авторское право</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a slide with a bulleted list as follows:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T190821Z" creationid="olex" creationdate="20181019T190821Z">
+        <seg>Создайте слайд с маркированным списком следующим образом:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18131,6 +18155,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For normal text boxes an additional step is required to create a bulleted list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T190628Z" creationid="olex" creationdate="20181019T190628Z">
+        <seg>В обычных текстовых полях требуются дополнительные шаги для создания маркированного списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For other methods of inserting dashes, see &lt;tc0/&gt;the &lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T170525Z" creationid="olex" creationdate="20180804T170525Z">
@@ -18687,6 +18719,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T193811Z" creationid="olex" creationdate="20180502T193744Z">
         <seg>На вкладке Защита ячейки диалогового окна Формат ячеек можно включить или отключить статус Защищено для выбранных ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the Layout pane, choose a slide design that contains a text box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T190936Z" creationid="olex" creationdate="20181019T190936Z">
+        <seg>На панели Макеты выберите слайд-дизайн, содержащий текстовое поле.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22538,6 +22578,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In AutoLayout text boxes, the outline styles available are, by default, bulleted lists.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T190551Z" creationid="olex" creationdate="20181019T190551Z">
+        <seg>В Преднастроенных текстовых блоках доступными стилями по умолчанию являются маркированные списки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Calc it shows Sheets, Range Names, Database Ranges, Graphics, Drawing Objects, and other items.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T180111Z" creationid="olex" creationdate="20180621T180111Z">
@@ -23663,6 +23711,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T165654Z" creationid="olex" creationdate="20181013T165654Z">
         <seg>В текстовом поле под слайдом нажмите на слова &lt;f0&gt;Для добавления примечания щелкните мышью&lt;/f0&gt;, и начинайте вводить текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the text box, click on &lt;f0&gt;Click to add text.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T191152Z" creationid="olex" creationdate="20181019T191152Z">
+        <seg>В текстовом поле нажмите надпись &lt;f0&gt;Для добавления текста щелкните мышью&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37528,6 +37584,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The procedure to create &lt;i0/&gt;a bulleted or numbered list is quite different depending on the type of text box used, although the tools to manage the list and customize the appearance are the same.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T190458Z" creationid="olex" creationdate="20181019T190458Z">
+        <seg>Процедура создания &lt;i0/&gt;маркированного или нумерованного списка сильно отличается в зависимости от типа используемого текстового поля, хотя инструменты для управления списками и настройки внешнего вида одинаковы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The protected sheets has a lock icon in its tab, as indicated in Figure &lt;t2&gt;37&lt;/t2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180503T191813Z" creationid="olex" creationdate="20180503T191813Z">
@@ -42710,6 +42774,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T195309Z" creationid="olex" creationdate="20180817T195309Z">
         <seg>Введите слово «страница» и пробел, затем вставьте номер страницы, как указано выше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type your text and press the &lt;f0&gt;Enter&lt;/f0&gt; key to start a new bulleted point.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T191259Z" creationid="olex" creationdate="20181019T191259Z">
+        <seg>Введите текст и нажмите клавишу &lt;f0&gt;Enter&lt;/f0&gt;, чтобы начать новый маркированный абзац.</seg>
       </tuv>
     </tu>
     <tu>
