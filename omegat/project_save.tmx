@@ -24445,6 +24445,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is normally good practice to paste text without formatting and apply the formatting later.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T182703Z" creationid="olex" creationdate="20181019T182703Z">
+        <seg>Хорошей практикой является вставка текста без форматирования и последующее его форматирование.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is not intended to give instruction about how to make those changes.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180606T190358Z" creationid="olex" creationdate="20180606T190026Z">
@@ -28995,6 +29003,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181014T175731Z" creationid="olex" creationdate="20181014T175731Z">
         <seg>Или</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or click on the small triangle next to the &lt;f0&gt;Paste&lt;/f0&gt; icon in the Standard toolbar and select &lt;f1&gt;Unformatted text&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T183052Z" creationid="olex" creationdate="20181019T183052Z">
+        <seg>Или нажмите на маленький треугольник рядом со значком &lt;f0&gt;Вставить&lt;/f0&gt; на панели инструментов Стандартная и выберите в контекстном меню &lt;f1&gt;Только текст &lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37915,6 +37931,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The unformatted text will be formatted with the outline or paragraph style at the cursor position in an AutoLayout text box or with the default graphic style in a normal text box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T183356Z" creationid="olex" creationdate="20181019T183356Z">
+        <seg>Неформатированный текст будет отформатирован в стиле абзаца в позиции курсора в Преднастроенном текстовое блоке или в стиле по умолчанию в обычном текстовом поле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The upper left corner of the LibreOffice help system contains a drop-down list that determines which help set is displayed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T191128Z" creationid="tagezi" creationdate="20180320T191128Z">
@@ -38160,6 +38184,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T172327Z" creationid="olex" creationdate="20180611T172327Z">
         <seg>Нет никаких скрытых платежей в настоящее время или в будущем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are several ways to ensure consistency in your presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T182622Z" creationid="olex" creationdate="20181019T182622Z">
+        <seg>Существует несколько способов обеспечения последовательности стиля в презентации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39148,6 +39180,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T205234Z" creationid="User" creationdate="20180307T205234Z">
         <seg>Язык разметки разработан для легкого чтения где только возможно, например, a over b производит дробь&lt;f0&gt;&lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;формула&lt;/s4&gt;&lt;/df1&gt;&lt;/f0&gt;при использовании в формуле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This may be what you want on some occasions; however, in most cases you want to make sure that the presentation style is consistent and does not become a patchwork of different paragraph styles, font types, bullet points and so on.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T182555Z" creationid="olex" creationdate="20181019T182555Z">
+        <seg>Иногда это может быть именно то, что вы хотите; однако в большинстве случаев вы хотите, чтобы презентация выполнена в едином стиле и не является лоскутным одеялом из различных стилей абзаца, типов шрифтов, маркеров списков и тому подобное.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41365,6 +41405,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To paste text without formatting:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T182721Z" creationid="olex" creationdate="20181019T182721Z">
+        <seg>Чтобы вставить текст без форматирования:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To perform a combined spelling and grammar check on the document (or a text selection), click the &lt;ts0/&gt;&lt;f1&gt;Check &lt;/f1&gt;&lt;te2/&gt;&lt;f3&gt;Spelling&lt;/f3&gt;&lt;tc4/&gt;&lt;tc5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;f9&gt; bu&lt;/f9&gt;&lt;/f8&gt;&lt;te10/&gt;tton on the Standard toolbar, or choose &lt;f11&gt;Tools &gt; Spelling&lt;/f11&gt;&lt;tc12/&gt;&lt;tc13/&gt;&lt;ts14/&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;te16/&gt; This checks the document or selection and opens the Spelling &lt;tc17/&gt;dialog if any unrecognized words are found.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T181813Z" creationid="olex" creationdate="20180804T181813Z">
@@ -43163,6 +43211,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T183955Z" creationid="olex" creationdate="20180617T183955Z">
         <seg>Используйте сочетание клавиш &lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Shift+V&lt;/f0&gt; and select &lt;f1&gt;Unformatted text&lt;/f1&gt; from the Paste Special dialog that opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T182921Z" creationid="olex" creationdate="20181019T182921Z">
+        <seg>Используйте сочетание клавиш &lt;f0&gt;Ctrl+Shift+V&lt;/f0&gt; и выберите в открывшемся диалоговом окне Вставить как &lt;f1&gt;Только текст&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
