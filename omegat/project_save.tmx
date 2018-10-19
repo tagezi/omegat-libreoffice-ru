@@ -24926,6 +24926,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Left arrow promotes a list entry by one level (for example from Outline 3 to Outline 2).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T185016Z" creationid="olex" creationdate="20181019T184848Z">
+        <seg>Стрелка влево поднимает строку списка на один уровень выше (например, из Схемы 3 в Схему 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Left-click in the cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202021Z" creationid="olex" creationdate="20180404T202021Z">
@@ -29416,6 +29424,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paste the text in the desired position.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T184359Z" creationid="olex" creationdate="20181019T184359Z">
+        <seg>Вставьте текст в необходимое место.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pasting into another document</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T173445Z" creationid="olex" creationdate="20180627T173445Z">
@@ -29853,6 +29869,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T194203Z" creationid="olex" creationdate="20180418T194203Z">
         <seg>Нажмите клавишу &lt;f0&gt;F2&lt;/f0&gt;, и в конце ячейки появится курсор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the &lt;f0&gt;Tab&lt;/f0&gt; key to get the same result after placing the cursor at the beginning of the paragraph.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T185200Z" creationid="olex" creationdate="20181019T185200Z">
+        <seg>Нажатие клавиши &lt;f0&gt;Tab&lt;/f0&gt;, после размещения курсора в начале абзаца, дает тот же результат.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30742,6 +30766,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T064038Z" creationid="tagezi" creationdate="20180305T064038Z">
         <seg>Текст с форматированием (.rtf)&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right arrow button demotes a list entry by one level.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T185051Z" creationid="olex" creationdate="20181019T185010Z">
+        <seg>Кнопка со стрелкой вправо понижает строку списка на один уровень.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31915,6 +31947,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Format &gt; Default formatting&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T184533Z" creationid="olex" creationdate="20181019T184533Z">
+        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Очистить форматирование&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Greek&lt;/f0&gt; from the &lt;f1&gt;Symbol set&lt;/f1&gt; drop-down list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204432Z" creationid="Роман" creationdate="20180316T204432Z">
@@ -32890,6 +32930,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180921T195659Z" creationid="olex" creationdate="20180315T183801Z">
         <seg>Выберите шаблон, который вам необходимо удалить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the text you have just pasted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T184427Z" creationid="olex" creationdate="20181019T184427Z">
+        <seg>Выделите текст, который вы только что вставили.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42802,6 +42850,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Up arrow moves a list entry up in the list order.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T185241Z" creationid="olex" creationdate="20181019T185241Z">
+        <seg>Стрелка вверх перемещает абзац выше по тексту списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: Update - это обновить. "по выделению" как-то ухо режет, но это может быть лично мой баг... медицинское образование сказывается
 &lt;--
 denkin: это практически официальное название кнопки на панели</note>
@@ -43195,6 +43251,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T104437Z" creationid="tagezi" creationdate="20180312T104437Z">
         <seg>Для создания библиотеки, содержащей ваш макрос, выполните следующие действия:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the four arrow buttons on &lt;i0/&gt;the Text Formatting toolbar (highlighted in Figure &lt;t1&gt;5&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;10&lt;/t3&gt;) to move the text to the appropriate position and give it the appropriate outline level.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T184804Z" creationid="olex" creationdate="20181019T184804Z">
+        <seg>Используйте четыре кнопки со стрелками на панели инструментов &lt;i0/&gt;Форматирование текста (выделена на рисунке &lt;t1&gt;5&lt;/t1&gt;&lt;s2/&gt;на странице &lt;t3&gt;10&lt;/t3&gt;), чтобы переместить текст в необходимое место и установить его на соответствующий уровень структуры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46919,6 +46983,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T183808Z" creationid="olex" creationdate="20180402T193254Z">
         <seg>Вы можете использовать любой предпочтительный для вас метод.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can get the same result by placing the cursor at the beginning of the paragraph and pressing the &lt;f0&gt;Shift + Tab&lt;/f0&gt; keys.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T184931Z" creationid="olex" creationdate="20181019T184931Z">
+        <seg>Вы можете сделать то же самое, поместив курсор в начало абзаца и нажав клавиши &lt;f0&gt;Shift+Tab&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
