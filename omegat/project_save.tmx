@@ -15074,6 +15074,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Sidebar Character section</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T184118Z" creationid="olex" creationdate="20181019T184118Z">
+        <seg>Рисунок &lt;seq0&gt;18&lt;/seq0&gt;: Панель Символы на Боковой панели</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Split screen window borders</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T172723Z" creationid="olex" creationdate="20180409T172723Z">
@@ -20952,6 +20960,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the &lt;f5&gt;Character&lt;/f5&gt; and &lt;f6&gt;Paragraph&lt;/f6&gt; sections do not automatically open after selecting some text, click on the Properties icon &lt;df7&gt;&lt;di8/&gt;&lt;/df7&gt;&lt;s9/&gt;at the side of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T184049Z" creationid="olex" creationdate="20181019T184049Z">
+        <seg>Если панели &lt;f5&gt;Символы&lt;/f5&gt; и &lt;f6&gt;Абзац&lt;/f6&gt; не открываются автоматически после выбора текста, то нажмите на значок Свойства &lt;df7&gt;&lt;di8/&gt;&lt;/df7&gt;&lt;s9/&gt; справа от Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the &lt;i0/&gt;&lt;f1&gt;Download updates automatically&lt;/f1&gt; option is selected, the download starts when you click the icon.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T175311Z" creationid="olex" creationdate="20180701T175311Z">
@@ -21444,6 +21460,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100204Z" creationid="lera" creationdate="20180303T163429Z">
         <seg>Если вы только начали использовать LibreOffice, Приложение B предоставит вам информацию о истории пакета, его сообществе и некоторых технических характеристиках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are pasting the text into an &lt;f0&gt;AutoLayout&lt;/f0&gt; text box, you need to apply the appropriate &lt;f1&gt;outline style&lt;/f1&gt; to the text to give it the same look and feel as the rest of the presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T184325Z" creationid="olex" creationdate="20181019T184325Z">
+        <seg>Если вы вставляете текст в &lt;f0&gt;Преднастроенный текстовый блок&lt;/f0&gt;, то вам необходимо применить к тексту &lt;f1&gt;соответствующий стиль&lt;/f1&gt;, чтобы придать ему такой же вид, как и в остальной части презентации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44704,6 +44728,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T191316Z" creationid="olex" creationdate="20180412T191231Z">
         <seg>При вводе времени разделяйте элементы времени двоеточиями, например 10:43:45.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When formatting pasted text, you can use the tools available on the Text Formatting toolbar (Figure &lt;t0&gt;Error: Reference source not found&lt;/t0&gt;), or the tools available in the &lt;f1&gt;Character&lt;/f1&gt; and &lt;f2&gt;Paragraph&lt;/f2&gt; sections of the &lt;f3&gt;Properties&lt;/f3&gt; deck in the Sidebar (Figure &lt;t4&gt;18&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T183916Z" creationid="olex" creationdate="20181019T183916Z">
+        <seg>При форматировании вставленного текста вы можете использовать инструменты, доступные на панели инструментов Форматирование текста  (Рисунок &lt;t0&gt;17&lt;/t0&gt;), или инструменты доступные на панели &lt;f1&gt;Символы&lt;/f1&gt; и &lt;f2&gt;Абзац&lt;/f2&gt; вкладки &lt;f3&gt;Свойства&lt;/f3&gt; на Боковой панели (Рисунок &lt;t4&gt;18&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
