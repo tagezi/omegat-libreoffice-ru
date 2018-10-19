@@ -11109,6 +11109,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Bullets On/Off&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt;on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T192312Z" creationid="olex" creationdate="20181019T192312Z">
+        <seg>Нажмите значок &lt;f0&gt;Маркированный список&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt;на панели инструментов Форматирование текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;f0&gt;Cell Protection&lt;/f0&gt; tab (Figure &lt;t1&gt;35&lt;/t1&gt;) and deselect the hide options for the cells.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180503T190706Z" creationid="olex" creationdate="20180503T190514Z">
@@ -11263,8 +11271,8 @@
       <tuv lang="EN-US">
         <seg>Click the &lt;f0&gt;Text&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;di3/&gt;&lt;/df1&gt;&lt;s4/&gt;on the Standard toolbar and draw a text box on your slide.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181019T192224Z" creationid="olex" creationdate="20181019T192224Z">
-        <seg>Нажмите значок &lt;f0&gt;Текст&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;di3/&gt;&lt;/df1&gt;&lt;s4/&gt;на панели инструментов Стандартная и очертите текстовое поле на вашем слайде.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T192423Z" creationid="olex" creationdate="20181019T192224Z">
+        <seg>Нажмите значок &lt;f0&gt;Текстовое поле&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;di3/&gt;&lt;/df1&gt;&lt;s4/&gt;на панели инструментов Стандартная и очертите текстовое поле на вашем слайде.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42814,6 +42822,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T091224Z" creationid="olex" creationdate="20180415T091224Z">
         <seg>Введите ряд для нового списка в поле &lt;f0&gt;Элементы&lt;/f0&gt; (по одному элементу в строке).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type the text and press &lt;f0&gt;Enter&lt;/f0&gt; to start a new bulleted line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T192549Z" creationid="olex" creationdate="20181019T192549Z">
+        <seg>Введите текст и нажмите клавишу &lt;f0&gt;Enter&lt;/f0&gt; чтобы создать новый маркированный абзац.</seg>
       </tuv>
     </tu>
     <tu>
