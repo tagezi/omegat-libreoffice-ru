@@ -7648,6 +7648,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply any necessary manual formatting to the text to change font attributes, tabs, and so on.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T185955Z" creationid="olex" creationdate="20181019T185955Z">
+        <seg>Применяйте любое необходимое ручное форматирование к тексту, чтобы изменить атрибуты шрифта, табуляцию и тд.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply any of the data types in the &lt;f0&gt;Category&lt;/f0&gt; list to the data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T190124Z" creationid="olex" creationdate="20180424T185846Z">
@@ -13299,6 +13307,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181011T180352Z" creationid="olex" creationdate="20181011T180352Z">
         <seg>Двойное нажатие по Масштабу откроет диалоговое окно Маштаб и режимы просмотра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Down arrow moves a list entry down in the list order.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T185352Z" creationid="olex" creationdate="20181019T185352Z">
+        <seg>Стрелка вниз перемещает абзац списка вниз по тексту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21464,6 +21480,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are pasting text in a &lt;f0&gt;text box&lt;/f0&gt;, you can still use styles to &lt;i1/&gt;&lt;i2/&gt;format the text quickly.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T190100Z" creationid="olex" creationdate="20181019T190100Z">
+        <seg>Если вы вставляете текст в &lt;f0&gt;текстовое поле&lt;/f0&gt;, то вы все равно можете использовать стили для быстрого форматирования текста &lt;i1/&gt;&lt;i2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are pasting the text into an &lt;f0&gt;AutoLayout&lt;/f0&gt; text box, you need to apply the appropriate &lt;f1&gt;outline style&lt;/f1&gt; to the text to give it the same look and feel as the rest of the presentation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181019T184325Z" creationid="olex" creationdate="20181019T184325Z">
@@ -24928,8 +24952,8 @@ Denkin: все верно, есть такая настройка</note>
       <tuv lang="EN-US">
         <seg>Left arrow promotes a list entry by one level (for example from Outline 3 to Outline 2).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181019T185016Z" creationid="olex" creationdate="20181019T184848Z">
-        <seg>Стрелка влево поднимает строку списка на один уровень выше (например, из Схемы 3 в Схему 2).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T185306Z" creationid="olex" creationdate="20181019T184848Z">
+        <seg>Стрелка влево поднимает абзац списка на один уровень выше (например, из Схемы 3 в Схему 2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28511,6 +28535,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only one graphic style can be applied to the pasted text, as follows:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T190120Z" creationid="olex" creationdate="20181019T190120Z">
+        <seg>Только один графический стиль может применяться к вставленному тексту следующим образом:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only one section at a time can be open.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T183746Z" creationid="olex" creationdate="20180603T183746Z">
@@ -30772,8 +30804,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Right arrow button demotes a list entry by one level.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181019T185051Z" creationid="olex" creationdate="20181019T185010Z">
-        <seg>Кнопка со стрелкой вправо понижает строку списка на один уровень.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T185314Z" creationid="olex" creationdate="20181019T185010Z">
+        <seg>Кнопка со стрелкой вправо понижает абзац списка на один уровень.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32674,6 +32706,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T162634Z" creationid="tagezi" creationdate="20180320T162634Z">
         <seg>Выберите нужное событие и нажмите кнопку &lt;f0&gt;Макрос&lt;/f0&gt; для открытия диалогового окна Выбор макроса (Рисунок &lt;t1&gt;4&lt;/t1&gt; на странице &lt;t2&gt;7&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the desired graphical style to format the text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T190142Z" creationid="olex" creationdate="20181019T190142Z">
+        <seg>Выберите необходимый графический стиль для форматирования текста.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48164,6 +48204,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>bulleted or numbered list</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T190208Z" creationid="olex" creationdate="20181019T190208Z">
+        <seg>маркированный или нумерованный список</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>cells</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202251Z" creationid="olex" creationdate="20180328T173550Z">
@@ -48824,6 +48872,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153843Z" creationid="tagezi" creationdate="20180304T153843Z">
         <seg>графических файлов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>graphic styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T190010Z" creationid="olex" creationdate="20181019T190010Z">
+        <seg>графические стили</seg>
       </tuv>
     </tu>
     <tu>
