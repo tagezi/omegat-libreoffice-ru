@@ -8083,8 +8083,8 @@
       <tuv lang="EN-US">
         <seg>AutoLayout text boxes</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181010T184639Z" creationid="olex" creationdate="20181010T184639Z">
-        <seg>Текстовые поля Автомакет</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T175058Z" creationid="olex" creationdate="20181010T184639Z">
+        <seg>Текстовые поля Автомакета</seg>
       </tuv>
     </tu>
     <tu>
@@ -21778,8 +21778,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If you have a working knowledge of how to create slide shows, we recommend you use the &lt;f1&gt;Impress Guide&lt;/f1&gt; for your source of information.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180910T201320Z" creationid="olex" creationdate="20180910T201320Z">
-        <seg>Если вы знаете, как создавать презентации, то рекомендуем вам использовать &lt;f1&gt;Руководство по Impress&lt;/f1&gt;, как источник информации.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T175211Z" creationid="olex" creationdate="20180910T201320Z">
+        <seg>Если вы уже знаете, как создавать презентации, то рекомендуем вам обратиться к &lt;f1&gt;Руководству по Impress&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34691,6 +34691,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Text may be inserted into the text box by copying it from another document &lt;i0/&gt;and pasting it into Impress.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T175020Z" creationid="olex" creationdate="20181019T175020Z">
+        <seg>Можно вставлять текст в текстовое поле Imoress, предварительно скопировав его из другого документа &lt;i0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Text pasted from Web sites and other sources may also be placed into frames or tables.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T174617Z" creationid="olex" creationdate="20180731T174617Z">
@@ -43432,8 +43440,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>Using AutoLayout text boxes</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181017T180704Z" creationid="olex" creationdate="20181010T184526Z">
-        <seg>Использование преднастроенных текстовых полей</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T175044Z" creationid="olex" creationdate="20181010T184526Z">
+        <seg>Использование преднастроенных текстовых блоков</seg>
       </tuv>
     </tu>
     <tu>
@@ -46605,8 +46613,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can create slides that contain many different elements, including text, bulleted and numbered lists, tables, charts, and a wide range of graphic objects such as clipart, drawings, and photographs.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180910T200728Z" creationid="olex" creationdate="20180910T200728Z">
-        <seg>Вы можете создавать слайды, которые содержат много разных элементов, включая текстовые, маркированные и нумерованные списки, таблицы, диаграммы, широкий спектр графических объектов, таких как рисунки и фотографии.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T175124Z" creationid="olex" creationdate="20180910T200728Z">
+        <seg>Вы можете создавать слайды, которые содержат много разных элементов, включая текст, маркированные и нумерованные списки, таблицы, диаграммы, широкий спектр графических объектов, таких как рисунки и фотографии.</seg>
       </tuv>
     </tu>
     <tu>
