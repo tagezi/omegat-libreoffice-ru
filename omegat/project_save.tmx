@@ -8091,8 +8091,8 @@
       <tuv lang="EN-US">
         <seg>AutoLayout text boxes can automatically resize fonts to let the box contain all the text you insert.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181017T183054Z" creationid="olex" creationdate="20181017T183054Z">
-        <seg>Преднастроенные текстовые поля могут автоматически изменять размер шрифтов, чтобы поле вмещало весь текст, который вы вставляете.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T181816Z" creationid="olex" creationdate="20181017T183054Z">
+        <seg>Преднастроенные текстовые блоки могут автоматически изменять размер шрифтов, чтобы поле вмещало весь текст, который вы вставляете.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11929,8 +11929,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Create a text box using the &lt;f0&gt;Text&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;di3/&gt;&lt;/df1&gt;&lt;s4/&gt;on the Standard toolbar (Figure &lt;t5&gt;14&lt;/t5&gt;) or the Text toolbar (Figure &lt;t6&gt;15&lt;/t6&gt;), or use the keyboard shortcut &lt;f7&gt;F2&lt;/f7&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181017T181946Z" creationid="olex" creationdate="20181017T173943Z">
-        <seg>Создавайте текстовое поле с помощью значка &lt;f0&gt;Текстовое поле&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;di3/&gt;&lt;/df1&gt;&lt;s4/&gt;на панели инструментов Стандартная (Рисунок &lt;t5&gt;14&lt;/t5&gt;) или на панели инструментов Текст (Рисунок &lt;t6&gt;15&lt;/t6&gt;), или нажав клавишу клавиш &lt;f7&gt;F2&lt;/f7&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T181430Z" creationid="olex" creationdate="20181017T173943Z">
+        <seg>Создавайте текстовый блок с помощью значка &lt;f0&gt;Текстовое поле&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;di3/&gt;&lt;/df1&gt;&lt;s4/&gt;на панели инструментов Стандартная (Рисунок &lt;t5&gt;14&lt;/t5&gt;) или на панели инструментов Текст (Рисунок &lt;t6&gt;15&lt;/t6&gt;), или нажав клавишу клавиш &lt;f7&gt;F2&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20312,6 +20312,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, pasted text will probably not match the formatting of the surrounding text on the slide or that of the other slides in the presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T182251Z" creationid="olex" creationdate="20181019T182251Z">
+        <seg>Однако, вставленный текст, возможно не будет соответствовать форматированию окружающего текста на слайде или других слайдов в презентации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, recorded macros in LibreOffice always create subroutines, not functions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T123508Z" creationid="tagezi" creationdate="20180315T123508Z">
@@ -25530,8 +25538,8 @@ Denkin: все верно, есть такая настройка</note>
       <tuv lang="EN-US">
         <seg>LibreOffice uses three terms for a slide that is used to create other slides: &lt;f0&gt;master slide&lt;/f0&gt;, &lt;f1&gt;slide master&lt;/f1&gt;, and &lt;f2&gt;master page&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181015T160505Z" creationid="olex" creationdate="20181015T160505Z">
-        <seg>В LibreOffice используется три термина для слайда, который используется для создания других слайдов: &lt;f0&gt;мастер-слайд&lt;/f0&gt;, &lt;f1&gt;макет слайда&lt;/f1&gt; и &lt;f2&gt;макет страницы&lt;/f2&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T182130Z" creationid="olex" creationdate="20181015T160505Z">
+        <seg>В LibreOffice используется три термина для слайда, который используется для создания других слайдов: &lt;f0&gt;мастер-слайд&lt;/f0&gt;, &lt;f1&gt;слайд-мастер&lt;/f1&gt; и &lt;f2&gt;мастер-страница&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34693,8 +34701,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>Text may be inserted into the text box by copying it from another document &lt;i0/&gt;and pasting it into Impress.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181019T175020Z" creationid="olex" creationdate="20181019T175020Z">
-        <seg>Можно вставлять текст в текстовое поле Imoress, предварительно скопировав его из другого документа &lt;i0/&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T181839Z" creationid="olex" creationdate="20181019T175020Z">
+        <seg>Можно вставлять текст в текстовый блок Imoress, предварительно скопировав его из другого документа &lt;i0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34717,8 +34725,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>Text used in slides is contained in &lt;f0&gt;text boxes&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181015T163332Z" creationid="olex" creationdate="20181015T163332Z">
-        <seg>Текст, используемый в слайдах, содержится в &lt;f0&gt;текстовых полях&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T181330Z" creationid="olex" creationdate="20181015T163332Z">
+        <seg>Текст, используемый в слайдах, содержится в &lt;f0&gt;текстовых блоках&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38486,8 +38494,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>These text boxes are &lt;i1/&gt;&lt;i2/&gt;called &lt;f3&gt;AutoLayout&lt;/f3&gt; text boxes.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181017T181516Z" creationid="olex" creationdate="20181015T164304Z">
-        <seg>Эти текстовые поля &lt;i1/&gt;&lt;i2/&gt;называются &lt;f3&gt;преднастроенные текстовые поля&lt;/f3&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T181408Z" creationid="olex" creationdate="20181015T164304Z">
+        <seg>Эти текстовые поля &lt;i1/&gt;&lt;i2/&gt;называются &lt;f3&gt;преднастроенные текстовые блоки&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42460,8 +42468,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>Type or paste your text in the text box.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181017T174352Z" creationid="olex" creationdate="20181017T174352Z">
-        <seg>Введите или вставьте текст в текстовое поле.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T181453Z" creationid="olex" creationdate="20181017T174352Z">
+        <seg>Введите или вставьте текст в текстовый блок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45897,8 +45905,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can add two types of text boxes to a slide:</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181015T163521Z" creationid="olex" creationdate="20181015T163521Z">
-        <seg>Вы можете добавить к слайду два типа текстовых полей:</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T181346Z" creationid="olex" creationdate="20181015T163521Z">
+        <seg>Вы можете добавить к слайду два типа текстовых блоков:</seg>
       </tuv>
     </tu>
     <tu>
