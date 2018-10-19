@@ -11261,6 +11261,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Text&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;di3/&gt;&lt;/df1&gt;&lt;s4/&gt;on the Standard toolbar and draw a text box on your slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T192224Z" creationid="olex" creationdate="20181019T192224Z">
+        <seg>Нажмите значок &lt;f0&gt;Текст&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;di3/&gt;&lt;/df1&gt;&lt;s4/&gt;на панели инструментов Стандартная и очертите текстовое поле на вашем слайде.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;f1&gt;Find Next&lt;/f1&gt; or &lt;f2&gt;Find Previous&lt;/f2&gt; buttons as needed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180926T184422Z" creationid="olex" creationdate="20180926T184422Z">
@@ -11939,6 +11947,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T151100Z" creationid="lera" creationdate="20180303T151100Z">
         <seg>Авторское право</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a bulleted list in a text box as follows:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T192024Z" creationid="olex" creationdate="20181019T192024Z">
+        <seg>Создайте маркированный список в текстовом поле следующим образом:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21152,6 +21168,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Text Formatting toolbar is not displayed, go to &lt;f6&gt;View &gt; Toolbar &gt; Text Formatting&lt;/f6&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T192007Z" creationid="olex" creationdate="20181019T192007Z">
+        <seg>Если панель инструментов Форматирование текста не отображается, то выберите в меню &lt;f6&gt;Вид &gt; Панели инструментов &gt; Форматирование текста&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the current language does not have a thesaurus installed, this feature is disabled.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T184506Z" creationid="olex" creationdate="20180805T184506Z">
@@ -26616,6 +26640,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Methods for changing the appearance of a list are explained in “&lt;bf0&gt;Changing list appearance&lt;/bf0&gt;” on page &lt;bf1&gt;22&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T191404Z" creationid="olex" creationdate="20181019T191404Z">
+        <seg>Способы изменения внешнего вида списка описаны в разделе «&lt;bf0&gt;Изменение внешнего вида списка&lt;/bf0&gt;» на странице &lt;bf1&gt;22&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Microsoft Excel 4.x–5.0/95 (.xls, .xlw, and .xlt)&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153703Z" creationid="tagezi" creationdate="20180304T153703Z">
@@ -29876,6 +29908,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T174230Z" creationid="olex" creationdate="20180627T174230Z">
         <seg>Нажмите &lt;f0&gt;Shift+Ctrl+R&lt;/f0&gt;, чтобы восстановить или обновить представление текущего документа после изменения параметров сглаживания, чтобы увидеть эффект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;Shift+Enter&lt;/f0&gt; to start a new line without creating a new bullet point.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T191517Z" creationid="olex" creationdate="20181019T191517Z">
+        <seg>Нажмите клавиши &lt;f0&gt;Shift+Enter&lt;/f0&gt;для создания нового абзаца без маркировки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36380,6 +36420,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default list type is a bulleted list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T191323Z" creationid="olex" creationdate="20181019T191323Z">
+        <seg>Тип списка по умолчанию - это маркированный список.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default locale is based on that of the computer’s operating system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T180649Z" creationid="olex" creationdate="20180712T180649Z">
@@ -37355,6 +37403,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T193415Z" creationid="olex" creationdate="20180418T193415Z">
         <seg>Новый ввод заменит данные, ранее содержавшиеся в ячейке, но форматирование ячейки сохранится.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The new line will have the same indentation as the previous line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T191604Z" creationid="olex" creationdate="20181019T191604Z">
+        <seg>Новый абзац будет иметь тот же отступ, что и предыдущая строка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42227,6 +42283,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T180355Z" creationid="olex" creationdate="20180808T180355Z">
         <seg>Чтобы записать какой либе текст, как Автотекст:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To switch off bullets altogether, click the &lt;f1&gt;Bullets On/Off&lt;/f1&gt; icon &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;s5/&gt;on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181019T191918Z" creationid="olex" creationdate="20181019T191918Z">
+        <seg>Чтобы полностью отключить маркеры, нажмите значок &lt;f1&gt;Маркированный список&lt;/f1&gt; &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;s5/&gt;на панели инструментов Форматирование текста.</seg>
       </tuv>
     </tu>
     <tu>
