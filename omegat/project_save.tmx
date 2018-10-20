@@ -23411,6 +23411,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the AutoLayout text boxes, promoting or demoting an item in the list corresponds to applying a different outline style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T093759Z" creationid="olex" creationdate="20181020T093759Z">
+        <seg>В преднастроенных текстовых блоках поднятие или понижение абзаца в списке соответствует применению другого стиля структуры списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the AutoText dialog, type a name for the AutoText in the &lt;f0&gt;Name&lt;/f0&gt; box.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T180612Z" creationid="olex" creationdate="20180808T180612Z">
@@ -37148,10 +37156,18 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The list entry moves to the left and is indented at the next higher level.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T092634Z" creationid="olex" creationdate="20181020T092546Z">
+        <seg>Абзац списка перемещается влево, с отступом более высокого уровня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The list entry moves to the right and is indented to the next outline level.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181020T092204Z" creationid="olex" creationdate="20181020T092204Z">
-        <seg>Абзац списка переместится вправо и с отступом до следующего уровня структуры.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T092643Z" creationid="olex" creationdate="20181020T092204Z">
+        <seg>Абзац списка переместится вправо, с отступом следующего уровня структуры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40661,6 +40677,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To create a new list entry at the same level as the previous one, press &lt;f0&gt;Enter&lt;/f0&gt; again.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T092738Z" creationid="olex" creationdate="20181020T092738Z">
+        <seg>Чтобы создать новый абзац списка на том же уровне, что и предыдущий, снова нажмите &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To create a new style using &lt;i0/&gt;the New Style dialog, open the sidebar Styles deck and select the category of style (eg.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180919T184402Z" creationid="olex" creationdate="20180919T184251Z">
@@ -40831,8 +40855,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To demote a list entry (move it to the right), press the &lt;f0&gt;Tab&lt;/f0&gt; key or click the Demote (right arrow) icon on the Text Formatting toolbar or use the keyboard shortcut &lt;f1&gt;Alt+Shift+Right&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181020T092046Z" creationid="olex" creationdate="20181020T091817Z">
-        <seg>Чтобы понизить абзац списка (переместить его вправо), нажмите клавишу &lt;f0&gt;Tab&lt;/f0&gt; или нажмите на значок Понизить (стрелка вправо) на панели инструментов Форматирование текста, или используйте сочетание клавиш &lt;f1&gt;Alt+Shift+Право&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T092413Z" creationid="olex" creationdate="20181020T091817Z">
+        <seg>Чтобы понизить абзац списка (переместить его вправо), нажмите клавишу &lt;f0&gt;Tab&lt;/f0&gt; или нажмите на значок Понизить (стрелка вправо) на панели инструментов Форматирование текста, или используйте сочетание клавиш &lt;f1&gt;Alt+Shift+Стрелка враво&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
