@@ -8652,6 +8652,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bullets and Numbering dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T100736Z" creationid="olex" creationdate="20181020T100736Z">
+        <seg>Диалоговое окно Маркеры и нумерация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bullets and Numbering&lt;ts0/&gt; &lt;f1&gt;dialog&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180813T173702Z" creationid="olex" creationdate="20180813T173639Z">
@@ -15195,6 +15203,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Bullets and Numbering dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T100724Z" creationid="olex" creationdate="20181020T100724Z">
+        <seg>Рисунок &lt;seq0&gt;19&lt;/seq0&gt;: Диалоговое окно Маркеры и нумерация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Changing the measurement unit for a ruler</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T101243Z" creationid="olex" creationdate="20180815T101243Z">
@@ -20769,6 +20785,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a bullet list is needed, select the desired bullet style from the default styles available on the &lt;f0&gt;Bullets&lt;/f0&gt; page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T101143Z" creationid="olex" creationdate="20181020T101020Z">
+        <seg>Если вам необходим маркированный список, то выберите желаемый стиль маркера из стилей по умолчанию, доступных на странице &lt;f0&gt;Маркеры&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a dialog is opened, a command to open the dialog is likely to be generated.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T180559Z" creationid="tagezi" creationdate="20180319T180559Z">
@@ -20849,6 +20873,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a graphics style is needed, select one from those available on the &lt;f0&gt;Image&lt;/f0&gt; page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T101117Z" creationid="olex" creationdate="20181020T101117Z">
+        <seg>Если вам необходим графический стиль, то выберите один из тех, которые доступны на странице &lt;f0&gt;Изображение&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a macro is contained in a document, then a recorded macro will attempt to work on that document; because it primarily uses “ThisComponent” for its actions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103438Z" creationid="tagezi" creationdate="20180320T103438Z">
@@ -20861,6 +20893,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T183054Z" creationid="olex" creationdate="20180411T183054Z">
         <seg>Если вводить число с ведущими нулями, например 01481, без предварительной настройки параметра Ведущие нули, то по умолчанию Calc автоматически отбрасывает незначащие 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a numbered list is needed, select one of the default numbering styles on the &lt;f0&gt;Numbering type&lt;/f0&gt; page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T101228Z" creationid="olex" creationdate="20181020T101136Z">
+        <seg>Если вам необходим нумерованный список, то выберите один из стилей нумерации по умолчанию на странице &lt;f0&gt;Нумерация&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35438,6 +35478,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Bullets and Numbering dialog (Figure &lt;t0&gt;19&lt;/t0&gt;) contains five pages: Bullets, Numbering type, Image, Position, and Customize.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T100922Z" creationid="olex" creationdate="20181020T100922Z">
+        <seg>Диалоговое окно Маркеры и нумерация (Рисунок &lt;t0&gt;19&lt;/t0&gt;) содержит пять вкладок: Маркеры, Нумерация, Изображение, Положение и Настройка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Calc Fill tool is used to duplicate existing content or create a series in a range of cells in your spreadsheet (Figure &lt;t0&gt;22&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T141142Z" creationid="olex" creationdate="20180414T140002Z">
@@ -43489,6 +43537,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the &lt;f0&gt;Customize&lt;/f0&gt; page to customize the numbering, color, relative size, and character used for your list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T101625Z" creationid="olex" creationdate="20181020T101625Z">
+        <seg>Используйте вкладку &lt;f0&gt;Настройка&lt;/f0&gt;, чтобы настроить нумерацию, цвет, масштаб и символы, используемые для вашего списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the &lt;f0&gt;Font Effects&lt;/f0&gt; tab on the Format Cells dialog to set other font characteristics.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T194547Z" creationid="olex" creationdate="20180424T194547Z">
@@ -43501,6 +43557,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T222024Z" creationid="olex" creationdate="20180407T222024Z">
         <seg>Используйте диалоговое окно &lt;f0&gt;Переместить/скопировать лист...&lt;/f0&gt; (Рисунок &lt;t1&gt;15&lt;/t1&gt;), чтобы точно указать, хотите ли вы, чтобы лист находился в той же электронной таблице или переместился в другую, его положение в электронной таблице, имя листа при перемещении или копировании листа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the &lt;f0&gt;Position&lt;/f0&gt; page to set the indent and numbering spacing and alignment of your list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T101451Z" creationid="olex" creationdate="20181020T101451Z">
+        <seg>Используйте вкладку &lt;f0&gt;Положение&lt;/f0&gt; для установки отступов, ширины нумерации и выравнивания в вашем списка.</seg>
       </tuv>
     </tu>
     <tu>
