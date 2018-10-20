@@ -6859,6 +6859,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>намостил сложную текстовую конструкцию, чтобы полно описать правильную последовательность нажатия кнопок на панели инструментов, в оригинале - ошибка, неполное описание</note>
+      <tuv lang="EN-US">
+        <seg>All of the changes can be made using the Bullets and Numbering dialog (Figure &lt;t0&gt;19&lt;/t0&gt;), which is accessed by going to &lt;f1&gt;Format &gt; Bullets and Numbering&lt;/f1&gt; on the Menu bar or by clicking on the &lt;f2&gt;Bullets Icon &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;di6/&gt;&lt;di7/&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f8&gt;or the Numbering&lt;/f8&gt; icon &lt;df9&gt;&lt;di10/&gt;&lt;di11/&gt;&lt;/df9&gt;&lt;s12/&gt;on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T095805Z" creationid="olex" creationdate="20181020T094529Z">
+        <seg>Все изменения можно сделать в диалоговом окне Маркеры и нумерация (Рисунок &lt;t0&gt;19&lt;/t0&gt;), которое можно открыть из меню &lt;f1&gt;Формат &gt; Маркеры и нумерация...&lt;/f1&gt;, или нажать на панели инструментов Форматирование текста маленький треугольник рядом со значком &lt;f2&gt;Маркированный список&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;di6/&gt;&lt;di7/&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;или &lt;f8&gt;Нумерованный список&lt;/f8&gt; &lt;df9&gt;&lt;di10/&gt;&lt;di11/&gt;&lt;/df9&gt;&lt;s12/&gt;и выбрать &lt;f8&gt;Еще маркеры...&lt;/f8&gt; или &lt;f8&gt;Еще нумерация...&lt;/f8&gt;, соответственно.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>All or some of the cells in a spreadsheet can be password protected to prevent changes being made by unauthorized users.</seg>
       </tuv>
@@ -13151,6 +13160,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not try to change the outline level by selecting the text and then clicking the desired outline style as you would in Writer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T094321Z" creationid="olex" creationdate="20181020T094321Z">
+        <seg>Не пытайтесь изменять уровень структуры, выбрав текст, а затем нажав желаемый стиль структуры, как в Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not worry about the vertical size and position as the text box will expand if needed as you type.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181017T175215Z" creationid="olex" creationdate="20181017T175215Z">
@@ -13629,6 +13646,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T152647Z" creationid="tagezi" creationdate="20180310T152647Z">
         <seg>Выпадающий список, из которого, выбирается значение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Due to the way that presentation styles work in Impress, it is not possible to change the level in this way.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T094416Z" creationid="olex" creationdate="20181020T094416Z">
+        <seg>Стили презентации работают в Impress так, что невозможно изменить уровень структуры таким образом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18255,6 +18280,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T195737Z" creationid="olex" creationdate="20180424T195737Z">
         <seg>Чтобы изменить цвет линий границ ячейки выберите значок Цвет обрамления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the entire list:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T095820Z" creationid="olex" creationdate="20181020T095820Z">
+        <seg>Для всего списка:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32130,6 +32163,15 @@ denkin: не понял? чего не видно?</note>
       </tuv>
     </tu>
     <tu>
+      <note>упростил, чтобы не повторять многоэтажную фразу, в оригинале снова ошибка описания процесса</note>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Format &gt; Bullets and Numbering&lt;/f0&gt; on the Menu bar or click on the &lt;f1&gt;Bullets &lt;/f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;di5/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;f6&gt;or Numbering&lt;/f6&gt; icon &lt;df7&gt;&lt;di8/&gt;&lt;di9/&gt;&lt;/df7&gt;&lt;s10/&gt;on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T100709Z" creationid="olex" creationdate="20181020T100051Z">
+        <seg>Выберите в меню &lt;f0&gt;Формат &gt; Маркеры и нумерация...&lt;/f0&gt; или с помощью значков &lt;f1&gt;Маркированный список&lt;/f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;di5/&gt;&lt;/df3&gt;&lt;/f2&gt; или &lt;f6&gt;Нумерованный список&lt;/f6&gt; &lt;df7&gt;&lt;di8/&gt;&lt;di9/&gt;&lt;/df7&gt;&lt;s10/&gt;на панели инструментов Форматирование текста, как описано выше.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Format &gt; Default formatting&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
@@ -32882,6 +32924,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T201417Z" creationid="olex" creationdate="20180404T201417Z">
         <seg>Выберите направление перемещения фокуса ячейки из раскрывающегося списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the entire list or click on the border of the text box so that the resizing handles are displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T095919Z" creationid="olex" creationdate="20181020T095919Z">
+        <seg>Выберите весь список или нажмите на границу текстового поля так, чтобы отображались ручки изменения размера.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47263,6 +47313,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T181343Z" creationid="olex" creationdate="20180327T181343Z">
         <seg>Вы можете вводить в электронную таблицу данные (обычно числовые), а затем манипулировать этими данными для получения определенных результатов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can fully customize list appearance by changing the bullet type or numbering for the entire list or for only a single entry.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T094518Z" creationid="olex" creationdate="20181020T094518Z">
+        <seg>Вы можете полностью настроить внешний вид списка, изменив тип маркеров или нумерации для всего списка или только для одного уровня.</seg>
       </tuv>
     </tu>
     <tu>
