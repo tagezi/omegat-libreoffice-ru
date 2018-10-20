@@ -5515,6 +5515,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A change in level and style produces other changes, for example, to font size, bullet type, and so on.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T094031Z" creationid="olex" creationdate="20181020T094031Z">
+        <seg>Изменение уровня и стиля приводит и к другим изменениям, например, другой размер шрифта, тип маркера и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A color palette is displayed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T195751Z" creationid="olex" creationdate="20180424T195751Z">
@@ -23267,6 +23275,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In text boxes, a new outline level can only be created by using the &lt;f0&gt;Tab&lt;/f0&gt; key to demote the list entry and the &lt;f1&gt;Shift+Tab&lt;/f1&gt; key combination to promote the list entry.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T094232Z" creationid="olex" creationdate="20181020T094232Z">
+        <seg>В текстовых полях новый уровень структуры может быть создан только с помощью клавиши &lt;f0&gt;Tab&lt;/f0&gt;, чтобы понизить абзац списка и комбинацию клавиш &lt;f1&gt;Shift+Tab&lt;/f1&gt;, чтобы повысить абзац списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In that case, the text on each page is scaled down to make space for the comments.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T182848Z" creationid="olex" creationdate="20181001T182848Z">
@@ -37868,6 +37884,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181010T180047Z" creationid="olex" creationdate="20181010T180047Z">
         <seg>Второе различие заключается во включении &lt;f0&gt;Кнопок полей&lt;/f0&gt;; это графические элементы, которые позволяют вам фильтровать содержимое сводной таблицы из самой сводной диаграммы, что является полезной экономией времени, если ваша сводная таблица и сводная диаграмма содержатся на разных листах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second outline level corresponds to Outline 2 style, the third outline level to Outline 3 style, and so on.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T093926Z" creationid="olex" creationdate="20181020T093926Z">
+        <seg>Второй уровень структуры соответствует стилю Структура 2, третий уровень стилю Структура 3 и т.д.</seg>
       </tuv>
     </tu>
     <tu>
