@@ -12031,6 +12031,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a &lt;i0/&gt;new outline level</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T091457Z" creationid="olex" creationdate="20181020T091457Z">
+        <seg>Создание &lt;i0/&gt;нового уровня структуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a document from a template in the Start Center</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194944Z" creationid="olex" creationdate="20180306T194944Z">
@@ -20944,6 +20952,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If necessary, press &lt;f0&gt;Enter&lt;/f0&gt; to begin a new list entry.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T091713Z" creationid="olex" creationdate="20181020T091713Z">
+        <seg>Если необходимо, то нажмите &lt;f0&gt;Enter&lt;/f0&gt;, чтобы начать новый абзац списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If necessary, select &lt;f1&gt;View &gt; Sidebar&lt;/f1&gt; from the Menu bar to display it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T161358Z" creationid="olex" creationdate="20180722T161358Z">
@@ -22606,6 +22622,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T183729Z" creationid="olex" creationdate="20180402T191404Z">
         <seg>В секции &lt;f1&gt;Формат файла по умолчанию и настройки ODF&lt;/f1&gt;&lt;f2&gt; &gt; Тип документа&lt;/f2&gt; выберите &lt;f3&gt;Электронная таблица&lt;/f3&gt;, а затем в поле &lt;f4&gt;Всегда сохранять как&lt;/f4&gt;, выберите предпочтительный для вас формат файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In AutoLayout text boxes, create a new outline level as follows:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T091559Z" creationid="olex" creationdate="20181020T091559Z">
+        <seg>В преднастроенных текстовых блоках, новый уровень структуры создается так:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37124,6 +37148,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The list entry moves to the right and is indented to the next outline level.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T092204Z" creationid="olex" creationdate="20181020T092204Z">
+        <seg>Абзац списка переместится вправо и с отступом до следующего уровня структуры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The list in the left-hand box of the Options – LibreOffice dialog varies depending on which component of LibreOffice is open.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T160311Z" creationid="olex" creationdate="20180624T160311Z">
@@ -40797,6 +40829,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To demote a list entry (move it to the right), press the &lt;f0&gt;Tab&lt;/f0&gt; key or click the Demote (right arrow) icon on the Text Formatting toolbar or use the keyboard shortcut &lt;f1&gt;Alt+Shift+Right&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T092046Z" creationid="olex" creationdate="20181020T091817Z">
+        <seg>Чтобы понизить абзац списка (переместить его вправо), нажмите клавишу &lt;f0&gt;Tab&lt;/f0&gt; или нажмите на значок Понизить (стрелка вправо) на панели инструментов Форматирование текста, или используйте сочетание клавиш &lt;f1&gt;Alt+Shift+Право&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To demote an item one level, position the cursor at the beginning of the line (after the bullet or number) and press &lt;f0&gt;Tab&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180929T082526Z" creationid="olex" creationdate="20180929T082438Z">
@@ -41705,6 +41745,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T162854Z" creationid="olex" creationdate="20180804T162754Z">
         <seg>Чтобы не разделять два слова в конце строки, нажмите &lt;f0&gt;Ctrl+Shift&lt;/f0&gt;, а затем введите пробел между двумя словами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To promote a list entry (move it to the left), press &lt;f0&gt;Shift+Tab &lt;/f0&gt;or click the Promote (left arrow) icon on the Text Formatting toolbar or use the keyboard shortcut &lt;f1&gt;Alt+Shift+Left&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T092404Z" creationid="olex" creationdate="20181020T092404Z">
+        <seg>Чтобы повысить абзац списка (переместить его влево), нажмите &lt;f0&gt;Shift+Tab&lt;/f0&gt; или нажмите на значок Повысить (стрелка влево) на панели инструментов Форматирование текста, или используйте сочетание клавиш &lt;f1&gt;Alt+Shift+Стрелка влево&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49536,6 +49584,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T193527Z" creationid="olex" creationdate="20180316T193527Z">
         <seg>ориентация страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>outline level</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T091434Z" creationid="olex" creationdate="20181020T091434Z">
+        <seg>уровень структуры</seg>
       </tuv>
     </tu>
     <tu>
