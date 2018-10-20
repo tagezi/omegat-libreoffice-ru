@@ -5571,6 +5571,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A contents box can contain pictures, tables, charts, or media as well as text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T102141Z" creationid="olex" creationdate="20181020T102141Z">
+        <seg>Поле содержимого может включать изображения, таблицы, диаграммы или медиа, а также текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A context menu can be the easiest way to reach a function, especially if you are not sure where the function is located in the menus or toolbars.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T171245Z" creationid="olex" creationdate="20180616T171245Z">
@@ -9401,6 +9409,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T155937Z" creationid="olex" creationdate="20180721T155937Z">
         <seg>Отслеживание изменений во время проверок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changes made to the outline style will apply to all the slides using them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T101919Z" creationid="olex" creationdate="20181020T101919Z">
+        <seg>Изменения, внесенные в стили Структура, будут применяться ко всем слайдам, использующим эти стили.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16988,6 +17004,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a single list entry, click anywhere in the text and then follow steps 2 and 3 above.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T101757Z" creationid="olex" creationdate="20181020T101757Z">
+        <seg>Для отдельного абзаца списка нажмите в любом месте абзаца, а затем выполните шаги 2 и 3, описанные выше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a vertical split, drag the new vertical window border across to the right of the column where you want the vertical split positioned.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T172641Z" creationid="olex" creationdate="20180409T172445Z">
@@ -17976,6 +18000,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181015T163508Z" creationid="olex" creationdate="20181015T163508Z">
         <seg>Для получения дополнительной информации о вставке и форматировании текста смотрите в &lt;f1&gt;Руководстве по Impress, Главе 3, Вставка и форматирование текста&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on adding pictures, tables, charts, or media, please refer to the &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T102303Z" creationid="olex" creationdate="20181020T102303Z">
+        <seg>Для получения дополнительной информации про добавление изображений, таблиц, диаграмм или медиа, обратитесь к &lt;f0&gt;Руководству по Impress&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20875,8 +20907,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If a graphics style is needed, select one from those available on the &lt;f0&gt;Image&lt;/f0&gt; page.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181020T101117Z" creationid="olex" creationdate="20181020T101117Z">
-        <seg>Если вам необходим графический стиль, то выберите один из тех, которые доступны на странице &lt;f0&gt;Изображение&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T102049Z" creationid="olex" creationdate="20181020T101117Z">
+        <seg>Если вам необходим графический стиль маркеров, то выберите один из тех, которые доступны на странице &lt;f0&gt;Изображение&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21349,6 +21381,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180927T172923Z" creationid="olex" creationdate="20180927T172602Z">
         <seg>Если в списке нет подходящего слова, то нажмите &lt;f1&gt;Проверка орфографии&lt;/f1&gt;, чтобы открыть диалоговое окно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the list was created in an AutoLayout text box, then an alternative way to change the entire list is to modify the Outline styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T101840Z" creationid="olex" creationdate="20181020T101840Z">
+        <seg>Если список был создан в преднастроенном текстовом блоке, то альтернативным способом изменения всего списка является изменение стилей Структура.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39794,6 +39834,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This section provides a quick overview of how to work with these objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T102158Z" creationid="olex" creationdate="20181020T102158Z">
+        <seg>В этом разделе приведен краткий обзор того, как работать с этими объектами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This section provides some advice on how to layout complex formulas in Math or in a LibreOffice document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T102731Z" creationid="asus" creationdate="20180813T102731Z">
@@ -40159,6 +40207,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T190314Z" creationid="olex" creationdate="20180805T190044Z">
         <seg>Чтобы добавить новую запись в список, введите ее в поля &lt;f2&gt;Заменять&lt;/f2&gt; и &lt;f3&gt;На&lt;/f3&gt; на вкладке Заменить, и нажмите &lt;f4&gt;Создать&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To add a picture to a contents box:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181020T102324Z" creationid="olex" creationdate="20181020T102324Z">
+        <seg>Чтобы добавить изображение в поле содержимого:</seg>
       </tuv>
     </tu>
     <tu>
