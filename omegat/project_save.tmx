@@ -19444,6 +19444,15 @@ LG:DONE</note>
       </tuv>
     </tu>
     <tu>
+      <note>В оригина описано явно неправильно, перевел по факту</note>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Insert &gt; Image&lt;/f0&gt; on the Menu bar and then select either &lt;f1&gt;From file&lt;/f1&gt; or &lt;f2&gt;Scan&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T174705Z" creationid="olex" creationdate="20181022T174705Z">
+        <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Изображение...&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: в оригинале неправильный пункт меню</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Insert &gt; Page Break&lt;/f0&gt; on the Menu bar.</seg>
