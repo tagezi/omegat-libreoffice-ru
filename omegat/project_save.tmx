@@ -6772,6 +6772,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the table is created, you can modify it by adding and deleting rows and columns, adjusting width and spacing, adding borders, background colors and so on.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T183705Z" creationid="olex" creationdate="20181022T183705Z">
+        <seg>После создания таблицы вы можете изменять ее, добавляя и удаляя строки и столбцы, изменяя ширину и интервал, добавляя обрамление, цвета фона и так далее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After you have added information, you then carry out a sort to update the spreadsheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T175643Z" creationid="olex" creationdate="20180506T175643Z">
@@ -21210,6 +21218,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the &lt;f1&gt;Table Design&lt;/f1&gt; section does not automatically open after inserting or selecting a table, click on the Properties icon at the side of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T182855Z" creationid="olex" creationdate="20181022T182855Z">
+        <seg>Если панель &lt;f1&gt;Дизайн таблицы&lt;/f1&gt; не открывается автоматически после вставки или выбора таблицы, то нажмите значок Свойства справа на Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the &lt;f2&gt;default currency&lt;/f2&gt; is changed, all dialogs involving currency and all currency icons will be changed in all open documents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T174419Z" creationid="olex" creationdate="20180712T174419Z">
@@ -21918,6 +21934,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T212639Z" creationid="olex" creationdate="20180312T212639Z">
         <seg>Если вы создаете документ, выбрав в меню &lt;f0&gt;Файл &gt; Создать &gt; Текстовый документ&lt;/f0&gt; (или &lt;f1&gt;Таблицу&lt;/f1&gt;, &lt;f2&gt;Презентацию&lt;/f2&gt;, &lt;f3&gt;Рисунок&lt;/f3&gt;), то LibreOffice создает документ на основе шаблона по умолчанию для этого типа документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you create a table by another method, you can still apply a style of your choice later.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T183218Z" creationid="olex" creationdate="20181022T183146Z">
+        <seg>Если вы создаете таблицу другим методом, то вы всегда можете изменить ее стиль позже.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33561,6 +33585,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selecting from any of the styles in the Table Design section in the Sidebar creates a table based on that style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T183055Z" creationid="olex" creationdate="20181022T183055Z">
+        <seg>Выбор любого из стилей на панели Дизайн таблицы (на Боковой панели) изменяет таблицу соответственно этому стиля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selecting hidden objects</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T152855Z" creationid="olex" creationdate="20180603T152855Z">
@@ -36299,6 +36331,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180319T191121Z" creationid="olex" creationdate="20180307T204427Z">
         <seg>В окне Стили отображается предварительный просмотр доступных стилей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Table toolbar in Impress offers the same functions as the Table toolbar in Writer, with the exception of the calculation functions Sort and Sum.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T183449Z" creationid="olex" creationdate="20181022T183203Z">
+        <seg>Панель инструментов Таблица в Impress предлагает те же функции, что и панель инструментов Таблица в Writer, за исключением функций Сортировать и Sum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42863,6 +42903,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180911T194641Z" creationid="olex" creationdate="20180910T201432Z">
         <seg>Чтобы использовать Impress более, чем для простых презентаций, требуется некоторое знание элементов, которые содержат слайды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To use Sum and Sort in your presentation, you have to insert a Calc spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T183532Z" creationid="olex" creationdate="20181022T183532Z">
+        <seg>Чтобы использовать Sum и Сортировать в презентации, вы должны вставить электронную таблицу из Calc.</seg>
       </tuv>
     </tu>
     <tu>
