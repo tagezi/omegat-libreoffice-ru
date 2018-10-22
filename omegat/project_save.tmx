@@ -7053,6 +7053,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively and after inserting a new slide, click on the &lt;f0&gt;Insert Chart&lt;/f0&gt; icon (Figure &lt;t1&gt;13&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;16&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T185258Z" creationid="olex" creationdate="20181022T185258Z">
+        <seg>По другому, после вставки нового слайда, нажмите значок &lt;f0&gt;Вставить диаграмму&lt;/f0&gt; (Рисунок &lt;t1&gt;13&lt;/t1&gt;&lt;s2/&gt;на странице &lt;t3&gt;16&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively however, you could arrange a pivot table as shown below to make that data easier to organize and read.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T185519Z" creationid="olex" creationdate="20180507T185519Z">
@@ -10813,6 +10821,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click in the cell you wish to add data to and begin typing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T184150Z" creationid="olex" creationdate="20181022T184150Z">
+        <seg>Нажмите на ячейку, в которую вы хотите добавить данные, и начните вводить текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click in the column or header to select the column or row.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T213320Z" creationid="olex" creationdate="20180407T213107Z">
@@ -14267,6 +14283,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Entering data into table cells is similar to working with text box objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T184117Z" creationid="olex" creationdate="20181022T184117Z">
+        <seg>Ввод данных в ячейки таблицы похож на работу с содержимым текстовых полей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Entire sheet</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T182634Z" creationid="olex" creationdate="20180326T182634Z">
@@ -15409,6 +15433,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T182944Z" creationid="olex" creationdate="20180411T182944Z">
         <seg>Рисунок &lt;seq0&gt;20&lt;/seq0&gt;: Установка ведущих нулей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Sidebar Table Design section</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T183919Z" creationid="olex" creationdate="20181022T183919Z">
+        <seg>Рисунок &lt;seq0&gt;20&lt;/seq0&gt;: Панель Дизайн таблицы на Боковой панели</seg>
       </tuv>
     </tu>
     <tu>
@@ -18228,6 +18260,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information on working with tables see the &lt;f0&gt;Impress Guide Chapter 3 Adding and Formatting Text&lt;/f0&gt; and the &lt;f1&gt;Writer Guide Chapter 9 Working with Tables&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T183844Z" creationid="olex" creationdate="20181022T183844Z">
+        <seg>Для получения дополнительной информации про работу с таблицами смотрите &lt;f0&gt;Руководство по Impress, Главу 3, Вставка и форматирование текста&lt;/f0&gt; и &lt;f1&gt;Руководство по Writer, Главу 9, Работа с таблицами&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information refer to the &lt;f0&gt;LibreOffice Writer guide, Chapter 9: &lt;s1/&gt;Working with Tables.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T205153Z" creationid="olex" creationdate="20180316T205153Z">
@@ -19489,6 +19529,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T185631Z" creationid="olex" creationdate="20180502T185522Z">
         <seg>Пройдите в меню &lt;f0&gt;Формат &gt; Строки&lt;/f0&gt; или &lt;f1&gt;Формат &gt; Столбцы&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Insert &gt; Chart&lt;/f0&gt; on the Menu bar or click on the &lt;f1&gt;Chart&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;di4/&gt;&lt;/df2&gt;&lt;s5/&gt;in the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T185005Z" creationid="olex" creationdate="20181022T185005Z">
+        <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Диаграмма&lt;/f0&gt; или нажмите значок &lt;f1&gt;Вставить диаграмму&lt;/f1&gt; &lt;df2&gt;&lt;di3/&gt;&lt;di4/&gt;&lt;/df2&gt;&lt;s5/&gt;на панели инструментов Стандартная.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22752,6 +22800,15 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T202019Z" creationid="olex" creationdate="20180607T202019Z">
         <seg>Impress предоставляет все распространенные мультимедийные средства презентаций, такие как специальные эффекты, анимация и инструменты рисования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Не открывается диалоговое окно Диаграмма, как обещает вторая часть фразы</note>
+      <tuv lang="EN-US">
+        <seg>Impress will insert a default chart and open the Chart dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T185641Z" creationid="olex" creationdate="20181022T185641Z">
+        <seg>Impress вставит диаграмму по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30271,6 +30328,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181019T185200Z" creationid="olex" creationdate="20181019T185200Z">
         <seg>Нажатие клавиши &lt;f0&gt;Tab&lt;/f0&gt;, после размещения курсора в начале абзаца, дает тот же результат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the &lt;f0&gt;Tab&lt;/f0&gt; key to move to the next cell on the right and press &lt;f1&gt;Shift+Tab&lt;/f1&gt; to move to the next cell on the left.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T184610Z" creationid="olex" creationdate="20181022T184610Z">
+        <seg>Нажимайте клавишу &lt;f0&gt;Tab&lt;/f0&gt;, чтобы перейти к ячейке справа или нажимайте &lt;f1&gt;Shift+Tab&lt;/f1&gt;, чтобы перейти к ячейке слева.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the &lt;f0&gt;arrow&lt;/f0&gt; keys to move the cursor to another cell if the cell is empty, or to the next character if the cell already contains text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T184416Z" creationid="olex" creationdate="20181022T184416Z">
+        <seg>Нажимайте клавиши &lt;f0&gt;со стрелками&lt;/f0&gt;, чтобы перемещать курсор в другую ячейку, если ячейка пуста, или к следующему символу, если ячейка уже содержит текст.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41688,6 +41761,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To insert a chart in a slide:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T184639Z" creationid="olex" creationdate="20181022T184639Z">
+        <seg>Чтобы вставить диаграмму в слайд:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To insert a comment, select the text, or place the cursor in the place the comment refers to, and choose &lt;f0&gt;Insert &gt; Comment&lt;/f0&gt; or press &lt;f1&gt;Ctrl+Alt+C&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T182006Z" creationid="olex" creationdate="20181001T182006Z">
@@ -41864,6 +41945,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To modify the chart type, insert your own data and change the formatting, refer to the &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T185744Z" creationid="olex" creationdate="20181022T185744Z">
+        <seg>Чтобы узнать как изменять тип диаграммы, вставлять свои собственные данные и изменять форматирование, обратитесь к &lt;f0&gt;Руководству по Impress&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To move a floating toolbar, click on its title bar and drag it to a new floating location or dock the toolbar at the top or bottom of the main window.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T181349Z" creationid="olex" creationdate="20180615T181349Z">
@@ -41916,6 +42005,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180921T194933Z" creationid="olex" creationdate="20180921T194933Z">
         <seg>Чтобы переместить шаблон из одной категории в другую, выберите его в диалоговом окне Шаблоны и нажмите кнопку &lt;f0&gt;Переместить&lt;/f0&gt; в нижней части диалогового окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To move around cells quickly, use the following keyboard options:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T184237Z" creationid="olex" creationdate="20181022T184237Z">
+        <seg>Чтобы быстро перемещаться по ячейкам, используйте следующие сочетания клавиатуры:</seg>
       </tuv>
     </tu>
     <tu>
