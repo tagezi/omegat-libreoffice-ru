@@ -5882,6 +5882,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Снова в оригинале неточность, постарался описать яснее и правильнее</note>
+      <tuv lang="EN-US">
+        <seg>A media player will open at the bottom of the screen and you can preview the media.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T190552Z" creationid="olex" creationdate="20181022T190552Z">
+        <seg>После вставки файла на Боковой панели откроется мультимедийный проигрыватель, и вы сможете проиграть файл.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>A menu displays the default styles.</seg>
       </tuv>
@@ -7049,6 +7058,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T175425Z" creationid="olex" creationdate="20180506T175425Z">
         <seg>Кроме того, сортировка полезна, когда вы добавляете в электронную таблицу новую информацию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternatively and after inserting a new slide, click on the &lt;f0&gt;Insert Audio or Video&lt;/f0&gt; icon (Figure &lt;t1&gt;13&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;16&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T190259Z" creationid="olex" creationdate="20181022T190259Z">
+        <seg>По другому, после вставки нового слайда нажмите значок &lt;f0&gt;Вставить видео или звук&lt;/f0&gt; (Рисунок &lt;t1&gt;13&lt;/t1&gt;&lt;s2/&gt;на странице &lt;t3&gt;16&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19529,6 +19546,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T185631Z" creationid="olex" creationdate="20180502T185522Z">
         <seg>Пройдите в меню &lt;f0&gt;Формат &gt; Строки&lt;/f0&gt; или &lt;f1&gt;Формат &gt; Столбцы&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Insert &gt; Audio or Video&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T190138Z" creationid="olex" creationdate="20181022T190104Z">
+        <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Видео и звук...&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41841,6 +41866,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To insert media files, such as music and movie clips, in a slide:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T190110Z" creationid="olex" creationdate="20181022T190021Z">
+        <seg>Чтобы вставить в слайд медиа-файлы, такие как музыка и видеоклипы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To install individual templates:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T202622Z" creationid="olex" creationdate="20180312T202622Z">
@@ -45459,6 +45492,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180503T190824Z" creationid="olex" creationdate="20180503T190824Z">
         <seg>Когда все нужные ячейки отмечены как защищенные или как незащищенные:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When an audio file is inserted, the contents box will show a loudspeaker image.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T190820Z" creationid="olex" creationdate="20181022T190820Z">
+        <seg>Если вставлен звуковой файл, то в окне содержимого появится изображение громкоговорителя.</seg>
       </tuv>
     </tu>
     <tu>
