@@ -7077,6 +7077,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, and after inserting a new slide into your presentation, click the &lt;f0&gt;Insert Table&lt;/f0&gt; icon (Figure &lt;t1&gt;13&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;16&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T182159Z" creationid="olex" creationdate="20181022T182159Z">
+        <seg>По другому, после добавления нового слайда в презентацию нажмите значок &lt;f0&gt;Вставить таблицу&lt;/f0&gt; (Рисунок &lt;t1&gt;13&lt;/t1&gt;&lt;s2/&gt;на странице &lt;t3&gt;16&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternatively, click the small triangle to the right of the &lt;f0&gt;Table&lt;/f0&gt; icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;di4/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s5/&gt;and select the number of rows and columns by dragging the cursor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T182528Z" creationid="olex" creationdate="20181022T182528Z">
+        <seg>По другому, нажмите маленький треугольник справа от значка  &lt;f0&gt;Таблица&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;di4/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s5/&gt; и выберите необходимое количество строк и столбцов, перетащив курсор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; on the main menu bar to open the LibreOffice Basic Macros dialog, select your macro and click &lt;f1&gt;Run&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T061718Z" creationid="tagezi" creationdate="20180314T172642Z">
@@ -32622,6 +32638,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select a design style from the available options for your table in the Table Design deck in the Properties section of the Sidebar (Figure &lt;t0&gt;20&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T182738Z" creationid="olex" creationdate="20181022T182738Z">
+        <seg>Выберите стиль таблицы из доступных для вашей таблицы на панели Дизайн таблицы на вкладке Свойства Боковой панели (Рисунок &lt;t0&gt;20&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select a document rather than a directory on disk to import libraries contained in a document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123345Z" creationid="tagezi" creationdate="20180320T123345Z">
@@ -33165,6 +33189,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T122954Z" creationid="tagezi" creationdate="20180320T122954Z">
         <seg>Для импорта библиотеки макросов, выберите контейнер библиотек для использования, а затем нажмите кнопку &lt;f0&gt;Импорт&lt;/f0&gt; (Рисунок &lt;t1&gt;2&lt;/t1&gt; на странице &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the number of rows and columns required from the Insert Table dialog that opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T182316Z" creationid="olex" creationdate="20181022T182316Z">
+        <seg>Выберите необходимое количество строк и столбцов, в открывшемся диалоговом окне Вставить таблицу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36273,8 +36305,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The Table toolbar is only visible after selecting &lt;f5&gt;View &gt; Toolbars &gt; Table&lt;/f5&gt; on the Menu bar and when a table is selected.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181022T181055Z" creationid="olex" creationdate="20181022T181055Z">
-        <seg>The Table toolbar is only visible after selecting &lt;f5&gt;View &gt; Toolbars &gt; Table&lt;/f5&gt; on the Menu bar and when a table is selected. Панель инструментов «Таблица» видна только после выбора «Вид»&gt; «Панели инструментов»&gt; «Таблица» на панели меню и при выборе таблицы.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T181956Z" creationid="olex" creationdate="20181022T181055Z">
+        <seg>Панель инструментов Таблица видна только если выбрать в меню &lt;f5&gt;Вид &gt; Панели инструментов &gt; Таблица&lt;/f5&gt; или если выбрана таблица.</seg>
       </tuv>
     </tu>
     <tu>
