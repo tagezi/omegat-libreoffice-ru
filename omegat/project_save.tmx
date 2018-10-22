@@ -7069,6 +7069,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, after inserting a new slide, click the &lt;f0&gt;Insert Image&lt;/f0&gt; icon (Figure &lt;t1&gt;13&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;16&lt;/t3&gt;) on the new slide and select the file from the Insert Image dialog that opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T175333Z" creationid="olex" creationdate="20181022T175333Z">
+        <seg>По другому, после вставки нового слайда нажмите значок &lt;f0&gt;Вставить изображение&lt;/f0&gt; (Рисунок &lt;t1&gt;13&lt;/t1&gt;&lt;s2/&gt;на странице &lt;t3&gt;16&lt;/t3&gt;) и выберите файл в открывшемся диалоговом окне Вставить изображение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; on the main menu bar to open the LibreOffice Basic Macros dialog, select your macro and click &lt;f1&gt;Run&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T061718Z" creationid="tagezi" creationdate="20180314T172642Z">
@@ -27252,6 +27260,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the picture to the desired location.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T175529Z" creationid="olex" creationdate="20181022T175521Z">
+        <seg>Разместите изображение в необходимом месте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moves cell focus &lt;f0&gt;up one cell (unless changed by user).&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T082454Z" creationid="olex" creationdate="20180901T082454Z">
@@ -37835,6 +37851,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The picture will automatically resize to fill the area of the content box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T175738Z" creationid="olex" creationdate="20181022T175738Z">
+        <seg>Изображение будет автоматически изменять размер, чтобы заполнить область содержимого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The pointer turns into a double-headed arrow and displays the current setting in a tool-tip.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T125000Z" creationid="olex" creationdate="20180818T125000Z">
@@ -42246,6 +42270,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180926T184837Z" creationid="olex" creationdate="20180926T184837Z">
         <seg>Чтобы искать только в содержимом определенного типа, нажмите кнопку &lt;f0&gt;Страница&lt;/f0&gt; на панели Найти и выберите тип из всплывающего списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To see a preview of the picture, select &lt;f4&gt;Preview&lt;/f4&gt; at the bottom of the Insert Image dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T175430Z" creationid="olex" creationdate="20181022T175430Z">
+        <seg>Чтобы увидеть предварительный просмотр изображения, выберите &lt;f4&gt;Предварительный просмотр&lt;/f4&gt; в нижней части диалогового окна Вставить изображение.</seg>
       </tuv>
     </tu>
     <tu>
