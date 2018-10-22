@@ -7881,6 +7881,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you adjust one dimension, both dimensions will change to keep the width and height ratio the same, ensuring that the picture will not become distorted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T180329Z" creationid="olex" creationdate="20181022T180329Z">
+        <seg>При установке одного значения будут меняться оба размера, сохраняя одинаковое соотношение ширины и высоты и гарантируя, что изображение не будет искажено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you create your macros, you must decide where to store them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T104055Z" creationid="tagezi" creationdate="20180320T104055Z">
@@ -16756,6 +16764,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Follow the directions in the note below when manually resizing a graphic.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T175810Z" creationid="olex" creationdate="20181022T175810Z">
+        <seg>Следуйте указаниям в примечании ниже при изменении размера изображения вручную.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Follow the instructions on the pages of the wizard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T184803Z" creationid="olex" creationdate="20180311T184803Z">
@@ -19476,6 +19492,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T172453Z" creationid="olex" creationdate="20181013T172206Z">
         <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Номер слайда...&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; или &lt;f2&gt;Вставка &gt; Колонтитулы...&lt;/f2&gt;, и откроется диалоговое окно Колонтитулы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Insert &gt; Table&lt;/f0&gt; on the Menu bar, or click the &lt;f1&gt;Table&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;di4/&gt;&lt;/df2&gt;&lt;s5/&gt;on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T180914Z" creationid="olex" creationdate="20181022T180914Z">
+        <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Таблица&lt;/f0&gt; или нажмите значок &lt;f1&gt;Таблица&lt;/f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;di4/&gt;&lt;/df2&gt; &lt;s5/&gt; на панели инструментов Стандартная.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30812,6 +30836,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember also that resizing a bitmap image will reduce its quality; it is better to create an image of the desired size outside of Impress.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T180429Z" creationid="olex" creationdate="20181022T180429Z">
+        <seg>Помните также, что изменение размера растрового изображения может ухудшить его качество; лучше создать изображение желаемого размера вне Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove personal information on saving</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T145549Z" creationid="olex" creationdate="20180630T145549Z">
@@ -32370,6 +32402,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T194055Z" creationid="olex" creationdate="20180310T193526Z">
         <seg>Поставьте отметку &lt;f0&gt;Перезаписать&lt;/f0&gt;, если вы хотите заменить стили в исходном документе, на стили с тем же именем из документа из которого вы импортируете их.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Position and Size&lt;/f0&gt; from the context menu and make sure that &lt;f1&gt;Keep ratio &lt;/f1&gt;is selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T180126Z" creationid="olex" creationdate="20181022T180126Z">
+        <seg>Выберите из контекстного меню &lt;f0&gt;Положение и размер&lt;/f0&gt; и убедитесь, что выбрана опция &lt;f1&gt;Пропорционально&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38534,6 +38574,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then adjust the height or width to the size you need.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T180201Z" creationid="olex" creationdate="20181022T180201Z">
+        <seg>Затем установите высоту или ширину необходимого размера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then choose &lt;f0&gt;File &gt; Save As&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T175133Z" creationid="olex" creationdate="20180727T175133Z">
@@ -40264,6 +40312,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181015T155150Z" creationid="olex" creationdate="20181015T155150Z">
         <seg>Чтобы добавить какие-либо объекты к слайду, например изображение, рисунок, графику, фотографию или таблицу, нажмите в меню &lt;f0&gt;Вставка&lt;/f0&gt; и выберите, какой тип объекта вы хотите вставить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To add basic tables to a slide:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T180636Z" creationid="olex" creationdate="20181022T180636Z">
+        <seg>Чтобы добавить таблицы в слайд:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45372,6 +45428,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T200126Z" creationid="olex" creationdate="20180616T200126Z">
         <seg>При открытии файлов, которые хранятся на удаленном сервере, вам может потребоваться ввести ваше имя пользователя и пароль для входа на сервер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When resizing a graphic, right-click the picture.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181022T175917Z" creationid="olex" creationdate="20181022T175917Z">
+        <seg>Для изменении размера графического объекта нажмите изображение правой кнопкой мыши.</seg>
       </tuv>
     </tu>
     <tu>
