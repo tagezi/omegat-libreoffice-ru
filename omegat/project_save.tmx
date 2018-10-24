@@ -17965,6 +17965,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For image styles, you can modify the prepackaged styles and also create new image styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T185834Z" creationid="olex" creationdate="20181024T185813Z">
+        <seg>Для стилей изображений вы можете изменять предопределенные стили, а также создавать новые стили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For important information about using paragraph styles to format documents, see Chapter 3 of this book and the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180929T070635Z" creationid="olex" creationdate="20180929T070635Z">
@@ -30244,6 +30252,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Presentation styles affect three elements of a slide master: background, background objects (such as icons, decorative lines, and text frames), and text placed on the slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T185911Z" creationid="olex" creationdate="20181024T185911Z">
+        <seg>Стили презентации влияют на три элемента слайд-мастера: фон, фоновые объекты (например, значки, декоративные линии и текстовые рамки) и текст, помещенный на слайде.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Presentations in LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180908T201729Z" creationid="olex" creationdate="20180908T201729Z">
@@ -34380,6 +34396,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slide masters have two types of styles associated with them: &lt;f0&gt;presentation styles&lt;/f0&gt; and &lt;f1&gt;image styles&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T185557Z" creationid="olex" creationdate="20181024T185557Z">
+        <seg>Слайд-мастера имеют два типа стилей, связанных с ними: &lt;f0&gt;стили презентации&lt;/f0&gt; и &lt;f1&gt;стили изображений&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Slide names are not included either.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181011T181845Z" creationid="olex" creationdate="20181011T181845Z">
@@ -35476,6 +35500,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T174617Z" creationid="olex" creationdate="20180731T174617Z">
         <seg>Текст, вставленный с веб-сайтов и других источников, также может быть помещен в рамки или таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text styles are further divided into &lt;f0&gt;Notes&lt;/f0&gt;,&lt;f1&gt; Outline 1 &lt;/f1&gt;through &lt;f2&gt;Outline 9&lt;/f2&gt;,&lt;f3&gt; Subtitle&lt;/f3&gt;, and &lt;f4&gt;Title&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T190410Z" creationid="olex" creationdate="20181024T190410Z">
+        <seg>Стили текста далее подразделяются на &lt;f0&gt;Примечания&lt;/f0&gt;, от &lt;f1&gt;Структура 1&lt;/f1&gt; до &lt;f2&gt;Структура 9&lt;/f2&gt;, &lt;f3&gt;Подзаголовок&lt;/f3&gt; и &lt;f4&gt;Заглавие&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38209,6 +38241,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T125000Z" creationid="olex" creationdate="20180818T125000Z">
         <seg>Указатель превратится в двойную стрелку и отобразит текущую настройку в подсказке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The prepackaged presentation styles can be modified, but new presentation styles cannot be created.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T185824Z" creationid="olex" creationdate="20181024T185657Z">
+        <seg>Предопределенные стили презентации могут быть изменены, но нельзя создавать новые стили.</seg>
       </tuv>
     </tu>
     <tu>
