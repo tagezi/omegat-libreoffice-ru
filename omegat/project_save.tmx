@@ -11247,6 +11247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the + sign next to the name of a subsection to expand it to show thumbnails of the slides, or click the – sign to collapse the subsection to hide the thumbnails.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T191701Z" creationid="olex" creationdate="20181024T191701Z">
+        <seg>Нажмите значок + рядом с названием подраздела, чтобы развернуть его и отобразить миниатюры слайдов, или щелкните знак -, чтобы свернуть подраздел и скрыть миниатюры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;More Options&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; button to open the Page Style dialog where you can enter exact margin distances.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T131200Z" creationid="olex" creationdate="20180818T131200Z">
@@ -13991,6 +13999,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181011T180852Z" creationid="olex" creationdate="20181011T180651Z">
         <seg>Каждый из видов рабочей области предназначен для облегчения выполнения определенных задач.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each of the slide masters shown in the &lt;f0&gt;Available for Use&lt;/f0&gt; list is from a template of the same name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T191752Z" creationid="olex" creationdate="20181024T191752Z">
+        <seg>Каждый из слайд-мастеров, показанных в списке &lt;f0&gt;Доступные&lt;/f0&gt;, относится к шаблону с тем же именем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22311,6 +22327,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T183107Z" creationid="olex" creationdate="20180804T183107Z">
         <seg>Если вы создавали новый словарь, то вам будет предоставлен выбор словарей для добавления слова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have created your own templates, or added templates from other sources, slide masters from those templates will also appear in this list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T191818Z" creationid="olex" creationdate="20181024T191818Z">
+        <seg>Если вы создали свои собственные шаблоны или добавили шаблоны из других источников, то слайд-мастера из этих шаблонов также появятся в этом списке.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39405,6 +39429,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173839Z" creationid="Роман" creationdate="20180317T173839Z">
         <seg>Эти заполнители должны быть затем заменены на настоящие числа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These slide masters are shown in &lt;i0/&gt;the Master Pages section of the Sidebar (Figure &lt;t1&gt;21&lt;/t1&gt;), which has three subsections: &lt;f2&gt;Used in This Presentation&lt;/f2&gt;, &lt;f3&gt;Recently Used&lt;/f3&gt;, and &lt;f4&gt;Available for Use&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T191601Z" creationid="olex" creationdate="20181024T191601Z">
+        <seg>Эти слайд-мастера показаны во &lt;i0/&gt;вкладке Мастер-слайды на Боковой панели (Рисунок &lt;t1&gt;21&lt;/t1&gt;), который состоит из трех подразделов: &lt;f2&gt;Используемые в этой презентации&lt;/f2&gt;, &lt;f3&gt;Недавние&lt;/f3&gt; и &lt;f4&gt;Доступные&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
