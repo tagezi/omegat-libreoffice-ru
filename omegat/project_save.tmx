@@ -18333,6 +18333,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information, see the &lt;f0&gt;Draw Guide Chapter 7 Getting Started with Draw&lt;/f0&gt;, or the &lt;f1&gt;Impress Guide Chapters 4, 5&lt;/f1&gt;, and 6.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T180049Z" creationid="olex" creationdate="20181024T180049Z">
+        <seg>Для получения дополнительной информации смотрите &lt;f0&gt;Руководство по Draw, Глава 7, Начало работы с Draw&lt;/f0&gt; или &lt;f1&gt;Руководство по Impress, Главы 4, 5 и 6&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information, see the &lt;f0&gt;Impress Guide Chapter 3 Adding and Formatting Text&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181017T182123Z" creationid="olex" creationdate="20181017T180547Z">
@@ -19927,6 +19935,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T173729Z" creationid="olex" creationdate="20180627T173729Z">
         <seg>Графический вывод - Использовать аппаратное ускорение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Graphics, such as shapes, callouts, and arrows, are often useful to complement the text on a slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T175527Z" creationid="olex" creationdate="20181024T175527Z">
+        <seg>Графические объекты, такие как фигуры, выноски и стрелки, часто полезны как дополнение текста на слайде.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22336,6 +22352,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181002T183432Z" creationid="olex" creationdate="20181002T183432Z">
         <seg>Если вы вручную устанавливаете перекрестные ссылки на другие части документа, то эти ссылки могут легко устаревать, когда вы изменяете порядок тем, добавляете или удаляете материал или изменяете заголовок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you need to analyze your data or apply formulas, these operations are best performed in a Calc spreadsheet and the results displayed in an embedded Calc spreadsheet or even better in an Impress table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T180244Z" creationid="olex" creationdate="20181024T180244Z">
+        <seg>Если вам нужно проанализировать данные или применить формулы, то эти операции лучше всего выполнять в электронной таблице Calc и результатах, отображаемых во встроенной электронной таблице Calc или даже лучше в таблице Impress.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34758,6 +34782,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spreadsheets embedded in Impress include most of the functionality of Calc spreadsheets and are capable of performing extremely complex calculations and data analysis.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T180149Z" creationid="olex" creationdate="20181024T180149Z">
+        <seg>Таблицы в Impress включают большую часть функциональных возможностей электронных таблиц Calc и способны производить достаточно сложные вычисления и анализ данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spreadsheets, sheets, and cells</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T173551Z" creationid="olex" creationdate="20180326T173551Z">
@@ -39173,6 +39205,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181011T183409Z" creationid="olex" creationdate="20181011T183409Z">
         <seg>Эти примечания несут информацию для вас и не отображаются перед аудиторией при показе презентации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These objects are handled much the same way as graphics in Draw.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T175746Z" creationid="olex" creationdate="20181024T175746Z">
+        <seg>Эти объекты управляются так же, как графические объекты в Draw.</seg>
       </tuv>
     </tu>
     <tu>
