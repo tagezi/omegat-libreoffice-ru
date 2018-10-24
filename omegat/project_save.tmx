@@ -17285,6 +17285,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, Outline 2 is used for the sub-points of Outline 1, and Outline 3 is used for the sub-points of Outline 2, and so on.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T190551Z" creationid="olex" creationdate="20181024T190551Z">
+        <seg>Например, Структура 2 используется для подпунктов Структура 1, а Структура 3 используется для подпунктов Структура 2 и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, Writer relies on heading styles (or other styles you specify) when it compiles a table of contents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T183351Z" creationid="olex" creationdate="20180306T202113Z">
@@ -22773,6 +22781,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Image styles are not restricted and can affect many of the elements of a slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T190809Z" creationid="olex" creationdate="20181024T190809Z">
+        <seg>Стили рисунков не ограничены и могут влиять на многие элементы слайда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T190256Z" creationid="olex" creationdate="20180330T190256Z">
@@ -22881,6 +22897,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180723Z" creationid="tagezi" creationdate="20180304T180723Z">
         <seg>Impress также может экспортировать в MacroMedia Flash (.swf) и некоторые другие формат, перечисленные для Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impress comes with a collection of slide masters.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T191134Z" creationid="olex" creationdate="20181024T191134Z">
+        <seg>Impress поставляется с коллекцией слайд-мастеров.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26934,8 +26958,8 @@ Denkin: все верно, есть такая настройка</note>
       <tuv lang="EN-US">
         <seg>Master Pages</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180915T075259Z" creationid="olex" creationdate="20180915T075259Z">
-        <seg>Мастер-слайды</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T191114Z" creationid="olex" creationdate="20180915T075259Z">
+        <seg>Мастер-страницы</seg>
       </tuv>
     </tu>
     <tu>
@@ -28298,6 +28322,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T172212Z" creationid="olex" creationdate="20180628T172212Z">
         <seg>Обратите внимание, что некоторые элементы могут содержать как минимум два указанных пути: один - в общую папку (которая может быть сетевой), а другой - в пользовательскую папку (обычно на персональном компьютере пользователя).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that text styles exist in both the presentation and image style selections.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T190938Z" creationid="olex" creationdate="20181024T190938Z">
+        <seg>Обратите внимание, что стили текста существуют как в стиле презентации, так и в стиле рисунков.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34390,8 +34422,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Slide masters</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195448Z" creationid="olex" creationdate="20180910T195421Z">
-        <seg>Мастер-слайды</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T190950Z" creationid="olex" creationdate="20180910T195421Z">
+        <seg>Слайд-мастера</seg>
       </tuv>
     </tu>
     <tu>
@@ -38185,6 +38217,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T150150Z" creationid="olex" creationdate="20180630T150150Z">
         <seg>Другие варианты в этом диалоговом окне должны быть интуитивно понятны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The outline styles are used for the different levels of the outline to which they belong.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T190503Z" creationid="olex" creationdate="20181024T190503Z">
+        <seg>Стили Структура используются для разных уровней структуры списка, к которым они принадлежат.</seg>
       </tuv>
     </tu>
     <tu>
