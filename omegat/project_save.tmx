@@ -7126,6 +7126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, go to &lt;f0&gt;Insert &gt; Object &gt; OLE Object &lt;/f0&gt;on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T180736Z" creationid="olex" creationdate="20181024T180736Z">
+        <seg>Для этого, выберите в меню &lt;f0&gt;Вставка &gt; Объект &gt; Объект OLE...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; on the main menu bar to open the LibreOffice Basic Macros dialog, select your macro and click &lt;f1&gt;Run&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T061718Z" creationid="tagezi" creationdate="20180314T172642Z">
@@ -22358,8 +22366,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If you need to analyze your data or apply formulas, these operations are best performed in a Calc spreadsheet and the results displayed in an embedded Calc spreadsheet or even better in an Impress table.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181024T180244Z" creationid="olex" creationdate="20181024T180244Z">
-        <seg>Если вам нужно проанализировать данные или применить формулы, то эти операции лучше всего выполнять в электронной таблице Calc и результатах, отображаемых во встроенной электронной таблице Calc или даже лучше в таблице Impress.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T180450Z" creationid="olex" creationdate="20181024T180244Z">
+        <seg>Но если вам нужно проанализировать данные или применить формулы, то лучше эти операции выполнять в электронной таблице Calc, а результаты отображать во встроенной электронной таблице Calc или в таблице Impress.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34784,8 +34792,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Spreadsheets embedded in Impress include most of the functionality of Calc spreadsheets and are capable of performing extremely complex calculations and data analysis.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181024T180149Z" creationid="olex" creationdate="20181024T180149Z">
-        <seg>Таблицы в Impress включают большую часть функциональных возможностей электронных таблиц Calc и способны производить достаточно сложные вычисления и анализ данных.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T180255Z" creationid="olex" creationdate="20181024T180149Z">
+        <seg>Электронные таблицы в Impress включают большую часть функциональных возможностей электронных таблиц Calc и способны производить достаточно сложные вычисления и анализ данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40017,6 +40025,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T202343Z" creationid="olex" creationdate="20180309T202343Z">
         <seg>Этот новый стиль применяется только к текущему документу; он не будет сохранен в шаблоне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This opens a spreadsheet in the middle of the slide and the menus and toolbars change to those used in Calc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T181005Z" creationid="olex" creationdate="20181024T181005Z">
+        <seg>После этого внутри слайда откроется таблица, а меню и панели инструментов поменяются на те, которые используются в Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47085,6 +47101,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also insert an existing spreadsheet and use the viewport to select the data that you want to display on your slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T181252Z" creationid="olex" creationdate="20181024T181252Z">
+        <seg>Вы также можете вставить существующую электронную таблицу и использовать окно просмотра, чтобы выбрать данные, которые вы хотите отобразить на слайде.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also maximize the &lt;f0&gt;Workspace&lt;/f0&gt; area by clicking on the Hide/Show marker in the middle of the vertical separator line (highlighted in Figure &lt;t1&gt;2&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180911T201702Z" creationid="olex" creationdate="20180911T201702Z">
@@ -48137,6 +48161,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can select from options that include a LibreOffice 5.0 Spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T180848Z" creationid="olex" creationdate="20181024T180848Z">
+        <seg>Вам необходимо выбрать из доступных вариантов Электронная таблица LibreOffice 6.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can select multiple changes and undo them at the same time.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T181614Z" creationid="olex" creationdate="20180621T181614Z">
@@ -48261,6 +48293,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T181237Z" creationid="olex" creationdate="20180616T181237Z">
         <seg>Вы можете запустить новый пустой документ в LibreOffice несколькими способами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can start adding data, though you may have to resize the visible area on the slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T181042Z" creationid="olex" creationdate="20181024T181042Z">
+        <seg>Вы можете начать добавлять данные, при этом может потребоваться изменить размер видимой области на слайде.</seg>
       </tuv>
     </tu>
     <tu>
