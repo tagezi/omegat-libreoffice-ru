@@ -6172,6 +6172,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A slide master has a defined set of characteristics, including background colors, graphics, gradients; and other objects (such as logos, decorative lines and so on), headers and footers, placement and size of text frames, and text format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T182106Z" creationid="olex" creationdate="20181024T182106Z">
+        <seg>Слайд-мастер имеет определенный набор характеристик, включая цвет фона, графику, градиенты; и другие объекты (например, логотипы, декоративные линии и т.д.), верхние и нижние колонтитулы, размещение и размер текстовых фреймов и формат текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A slide master is a slide that is used as the starting point for other slides.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T181750Z" creationid="olex" creationdate="20181024T181628Z">
+        <seg>Слайд-мастер - это слайд, который используется в качестве основы для других слайдов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A slide show can have more than one slide master.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T181912Z" creationid="olex" creationdate="20181024T181912Z">
+        <seg>В слайд-шоу может быть несколько слайдов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A small dialog is displayed indicating that LibreOffice is recording a macro.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T115552Z" creationid="tagezi" creationdate="20180313T115552Z">
@@ -6890,6 +6914,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181020T095805Z" creationid="olex" creationdate="20181020T094529Z">
         <seg>Все изменения можно сделать в диалоговом окне Маркеры и нумерация (Рисунок &lt;t0&gt;19&lt;/t0&gt;), которое можно открыть из меню &lt;f1&gt;Формат &gt; Маркеры и нумерация...&lt;/f1&gt;, или нажать на панели инструментов Форматирование текста маленький треугольник рядом со значком &lt;f2&gt;Маркированный список&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;di6/&gt;&lt;di7/&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;или &lt;f8&gt;Нумерованный список&lt;/f8&gt; &lt;df9&gt;&lt;di10/&gt;&lt;di11/&gt;&lt;/df9&gt;&lt;s12/&gt;и выбрать &lt;f8&gt;Еще маркеры...&lt;/f8&gt; или &lt;f8&gt;Еще нумерация...&lt;/f8&gt;, соответственно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All of the characteristics of slide masters are controlled by styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T182218Z" creationid="olex" creationdate="20181024T182218Z">
+        <seg>Все характеристики слайд-мастеров контролируются стилями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9530,6 +9562,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T202733Z" creationid="olex" creationdate="20180817T202733Z">
         <seg>Изменение &lt;i0/&gt;полей страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changing a style in a slide master results in changes to all slides based on that slide master, but you can modify individual slides without affecting the slide master.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T183505Z" creationid="olex" creationdate="20181024T183505Z">
+        <seg>Изменение стиля в слайд-мастере приводит к изменениям во всех слайдах, созданных на основе этого слайд-мастера, но вы можете изменять отдельные слайды, не затрагивая слайд-мастер.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17189,6 +17229,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For details on using these objects, refer to the &lt;f0&gt;Impress Guide Chapter 7 Including Spreadsheets, Charts, and Other Objects&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T181559Z" creationid="olex" creationdate="20181024T181559Z">
+        <seg>Подробнее об использовании таких объектов смотрите &lt;f0&gt;Руководство по Impress, Главу 7, Вставка электронных таблиц, диаграмм и других объектов&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For details, consult the Help or the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T160444Z" creationid="olex" creationdate="20180722T160444Z">
@@ -22853,6 +22901,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impress offers the capability of inserting into a slide various other types of objects such as Writer documents, Math formulas, Draw drawings, or another presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T181436Z" creationid="olex" creationdate="20181024T181436Z">
+        <seg>Impress предлагает возможность вставлять в слайд другие типы объектов, такие как документы Writer, математические формулы, рисунки Draw и другие.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Impress provides all the common multimedia presentation tools, such as special effects, animation, and drawing tools.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T202019Z" creationid="olex" creationdate="20180607T202019Z">
@@ -25053,6 +25109,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T192946Z" creationid="olex" creationdate="20180616T172211Z">
         <seg>Она похожа в Writer, Calc, Impress и Draw, но каждый модуль LibreOffice имеет некоторые особенности, относящиеся к его возможностям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is similar to a page style in Writer and it controls the basic formatting of all slides based on it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T181854Z" creationid="olex" creationdate="20181024T181854Z">
+        <seg>Он подобен стилю страницы в Writer и управляет основным форматированием всех слайдов, созданных на его основе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28010,6 +28074,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T194331Z" creationid="olex" creationdate="20180910T194312Z">
         <seg>Создать слайд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New slides that you create using a slide master have styles that are inherited from the slide master which was used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T182447Z" creationid="olex" creationdate="20181024T182447Z">
+        <seg>Новые слайды, созданные с помощью слайд-мастера, наследуют стили от слайд-мастера, на основе которого они созданы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46574,8 +46646,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>Working with slide masters and styles</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195439Z" creationid="olex" creationdate="20180910T195405Z">
-        <seg>Работа с мастер-слайдами и стилями</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T181732Z" creationid="olex" creationdate="20180910T195405Z">
+        <seg>Работа со слайд-мастерами и стилями</seg>
       </tuv>
     </tu>
     <tu>
@@ -50691,8 +50763,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>slide master</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181015T160209Z" creationid="olex" creationdate="20181015T160209Z">
-        <seg>мастер-слайд</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181024T181924Z" creationid="olex" creationdate="20181015T160209Z">
+        <seg>слайд-мастер</seg>
       </tuv>
     </tu>
     <tu>
