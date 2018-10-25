@@ -6036,6 +6036,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A new slide master appears in the Slides pane.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T182706Z" creationid="olex" creationdate="20181025T182706Z">
+        <seg>На панели Слайды появится новый слайд-мастер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A new, separate selection is added to an existing selection.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180922T132613Z" creationid="olex" creationdate="20180922T132613Z">
@@ -12217,6 +12225,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a &lt;i0/&gt;new slide master is similar to modifying the default slide master.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T182136Z" creationid="olex" creationdate="20181025T182136Z">
+        <seg>Создание нового слайд-мастера&lt;i0/&gt; подобно редактированию слайд-мастера по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a document from a template in the Start Center</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194944Z" creationid="olex" creationdate="20180306T194944Z">
@@ -14191,6 +14207,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T172421Z" creationid="olex" creationdate="20180701T172421Z">
         <seg>Включить экспериментальные возможности (нестабильны)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable editing of slide masters by selecting &lt;f0&gt;View &gt; Master Slide&lt;/f0&gt; on the Menu bar and the &lt;f1&gt;Master View&lt;/f1&gt; toolbar opens (Figure &lt;t2&gt;22&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T182341Z" creationid="olex" creationdate="20181025T182341Z">
+        <seg>Включите редактирование слайд-мастера, выбрав в меню &lt;f0&gt;Вид &gt; Мастер-слайд&lt;/f0&gt;, откроется панель инструментов &lt;f1&gt;Режим мастера&lt;/f1&gt; (Рисунок &lt;t2&gt; 22 &lt;/ t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21515,6 +21539,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Master View toolbar does not appear, go to &lt;f3&gt;View &gt; Toolbars&lt;/f3&gt; and select &lt;f4&gt;Master View.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T182513Z" creationid="olex" creationdate="20181025T182513Z">
+        <seg>Если панель инструментов Режим мастера не отображается, то выберите в меню &lt;f3&gt;Вид &gt; Панели инструментов &gt; Режим мастера&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Options dialog is not already open, click &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180706T174913Z" creationid="olex" creationdate="20180706T174913Z">
@@ -25017,6 +25049,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is also recommended that you rename this new slide master.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T182824Z" creationid="olex" creationdate="20181025T182824Z">
+        <seg>Также рекомендуется переименовать этот новый слайд-мастер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is also recommended to save relatively if you want to create a directory structure on an Internet server.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T180838Z" creationid="olex" creationdate="20180707T180838Z">
@@ -27276,6 +27316,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modify this slide master to suit your requirements.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T182805Z" creationid="olex" creationdate="20181025T182805Z">
+        <seg>Измените этот слайд-мастер в соответствии с вашими потребностями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modifying a slide master</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T195613Z" creationid="olex" creationdate="20180910T195613Z">
@@ -28910,6 +28958,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T190038Z" creationid="olex" creationdate="20180718T190038Z">
         <seg>В диалоговом окне Загрузить стили (Рисунок &lt;t0&gt;8&lt;/t0&gt;) найдите либо шаблон, либо обычный документ, из которого необходимо скопировать стили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Master View toolbar, click the &lt;f0&gt;New Master&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T182638Z" creationid="olex" creationdate="20181025T182638Z">
+        <seg>На панели инструментов Режим мастера нажмите значок &lt;f0&gt;Новый мастер&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31658,6 +31714,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T215920Z" creationid="olex" creationdate="20180407T215631Z">
         <seg>Щелкните правой кнопкой мыши на вкладке листа, рядом с которым хотите вставить новый лист, и выберите &lt;f0&gt;Вставить лист...&lt;/f0&gt; из контекстного меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-click on the slide in the Slides pane and select &lt;f0&gt;Rename master&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T182939Z" creationid="olex" creationdate="20181025T182939Z">
+        <seg>Нажмите слайд на панели Слайды правой кнопкой мыши и выберите в контекстном меню &lt;f0&gt;Переименовать мастер&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50221,6 +50285,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T202510Z" creationid="olex" creationdate="20180817T202510Z">
         <seg>поля (Writer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>master pages</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T182043Z" creationid="olex" creationdate="20181025T182043Z">
+        <seg>мастер-страницы</seg>
       </tuv>
     </tu>
     <tu>
