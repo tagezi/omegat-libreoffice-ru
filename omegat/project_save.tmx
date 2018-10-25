@@ -15678,6 +15678,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Slide Design dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T185632Z" creationid="olex" creationdate="20181025T185632Z">
+        <seg>Рисунок &lt;seq0&gt;23&lt;/seq0&gt;: Диалоговое окно Дизайн слайда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Choosing HTML compatibility options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T191039Z" creationid="olex" creationdate="20180711T191039Z">
@@ -15698,6 +15706,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T183451Z" creationid="olex" creationdate="20180918T183451Z">
         <seg>Рисунок &lt;seq0&gt;24&lt;/seq0&gt;: Настройки языка LibreOffice, без и с азиатскими и CTL-настройками</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Load Slide Design dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T185720Z" creationid="olex" creationdate="20181025T185720Z">
+        <seg>Рисунок &lt;seq0&gt;24&lt;/seq0&gt;: Диалоговое окно Загрузка дизайна</seg>
       </tuv>
     </tu>
     <tu>
@@ -21787,6 +21803,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the slide master was not used in the presentation, it is removed from the list of available slide masters.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T185904Z" creationid="olex" creationdate="20181025T185904Z">
+        <seg>Если слайд-мастер не использовался в презентации, то он удаляется из списка доступных слайд-мастеров.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the style is in use, you receive a warning message asking you to confirm deletion.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T200919Z" creationid="olex" creationdate="20180310T200919Z">
@@ -22745,6 +22769,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180917T211958Z" creationid="olex" creationdate="20180917T211958Z">
         <seg>Если вы хотите создать новый файл документа, то измените имя файла и/или формат файла, или сохраните файл в другом месте на вашем компьютере:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to delete the unused slide masters, click the corresponding checkbox in the Slide Design dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T185831Z" creationid="olex" creationdate="20181025T185831Z">
+        <seg>Если вы хотите удалить неиспользуемые слайд-мастера, то установите соответствующий флажок в диалоговом окне Дизайн слайда.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38758,6 +38790,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The slide masters you have loaded will also be available the next time you load the presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T185753Z" creationid="olex" creationdate="20181025T185753Z">
+        <seg>Слайд-мастера, которые вы загрузили, также будут доступны при следующей загрузке презентации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The software has been translated into many languages and runs on all major operating systems.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T200641Z" creationid="lera" creationdate="20180303T200641Z">
@@ -42350,6 +42390,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T191711Z" creationid="olex" creationdate="20180719T191711Z">
         <seg>Чтобы узнать, где хранятся папки шаблонов на вашем компьютере, перейдите в &lt;f2&gt; Сервис &gt; Параметры &gt; LibreOffice &gt; Пути&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To limit the size of the presentation file, you may want to minimize the number of slide masters used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T185947Z" creationid="olex" creationdate="20181025T185947Z">
+        <seg>Чтобы уменьшить размер файла презентации, вам может потребоваться свести к минимуму количество используемых слайд-мастеров.</seg>
       </tuv>
     </tu>
     <tu>
