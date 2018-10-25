@@ -10462,6 +10462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; again to close the Slide Design dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T185439Z" creationid="olex" creationdate="20181025T185439Z">
+        <seg>Снова нажмите &lt;f0&gt;OK&lt;/f0&gt;, чтобы закрыть диалоговое окно Дизайн слайда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; and the dialog closes.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T185943Z" creationid="olex" creationdate="20180617T185943Z">
@@ -14221,8 +14229,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Enable editing of slide masters by selecting &lt;f0&gt;View &gt; Master Slide&lt;/f0&gt; on the Menu bar and the &lt;f1&gt;Master View&lt;/f1&gt; toolbar opens (Figure &lt;t2&gt;22&lt;/t2&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181025T182341Z" creationid="olex" creationdate="20181025T182341Z">
-        <seg>Включите редактирование слайд-мастера, выбрав в меню &lt;f0&gt;Вид &gt; Мастер-слайд&lt;/f0&gt;, откроется панель инструментов &lt;f1&gt;Режим мастера&lt;/f1&gt; (Рисунок &lt;t2&gt; 22 &lt;/ t2&gt;).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T184448Z" creationid="olex" creationdate="20181025T182341Z">
+        <seg>Включите редактирование слайд-мастера, выбрав в меню &lt;f0&gt;Вид &gt; Мастер-слайд&lt;/f0&gt;, откроется панель инструментов &lt;f1&gt;Режим мастера&lt;/f1&gt; (Рисунок &lt;t2&gt;22&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17920,6 +17928,14 @@ denkin: по смыслу как то не могу вписать "озадач
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, you may need a completely different layout for the first slide of &lt;t0/&gt;the presentation, or you may want to add to your presentation a slide from a different presentation (based on a template available on the hard disk).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T184728Z" creationid="olex" creationdate="20181025T184728Z">
+        <seg>Например, может потребоваться совершенно другой макет для первого слайда &lt;t0/&gt;презентации, или вы можете добавить в презентацию слайд из другой презентации (основанный на шаблоне, доступном на жестком диске).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, you might have one template category for report templates and another for letter templates.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T203851Z" creationid="olex" creationdate="20180313T203851Z">
@@ -19814,6 +19830,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181014T173312Z" creationid="olex" creationdate="20181014T173312Z">
         <seg>Выберите в меню &lt;f0&gt;Слайд &gt; Создать слайд&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; или нажмите слайд правой кнопкой мыши на панели Слайды или в виде Сортировщик слайдов и выберите в контекстном меню &lt;f2&gt;Создать слайд&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Slide &gt; Slide Design&lt;/f0&gt; on the Menu bar or right-click on a slide in the Slides Pane and select &lt;f1&gt;Slide Design&lt;/f1&gt; from the context menu to open the Slide Design dialog (Figure &lt;t2&gt;23&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T185136Z" creationid="olex" creationdate="20181025T185136Z">
+        <seg>Выберите в меню &lt;f0&gt;Слайд &gt; Мастер-слайд&lt;/f0&gt; или нажмите правой кнопкой мыши слайд в области слайдов и выберите в контекстном меню &lt;f1&gt;Мастер-слайд&lt;/f1&gt;, чтобы открыть диалоговое окно Дизайн слайда (Рисунок &lt;t2&gt;23&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23991,6 +24015,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Master Pages section on the Sidebar, right-click on the slide master you want to apply to the selected slides, and select &lt;f0&gt;Apply to Selected Slides&lt;/f0&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T184307Z" creationid="olex" creationdate="20181025T184307Z">
+        <seg>Во вкладке Мастер-слайды на Боковой панели нажмите правой кнопкой мыши на слайд-мастер, который вы хотите применить к выбранным слайдам и выберите в контекстном меню &lt;f0&gt;Применить к выбранным слайдам&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Numbering drop-down list, choose the appropriate list style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180929T081824Z" creationid="olex" creationdate="20180929T081824Z">
@@ -24019,6 +24051,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T195503Z" creationid="olex" creationdate="20180711T195503Z">
         <seg>В диалоговом окне Параметры щелкните символ расширения (знак + или треугольник) справа от строки &lt;f0&gt;Настройки языка&lt;/f0&gt; и выберите Языки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Slide Pane, select the slide or slides where you want to use a new slide master.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T184127Z" creationid="olex" creationdate="20181025T184127Z">
+        <seg>На панели Слайды выберите один или несколько слайдов, к которым вы хотите применить новый слайд-мастер.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26486,8 +26526,8 @@ Denkin: все верно, есть такая настройка</note>
       <tuv lang="EN-US">
         <seg>Loading additional slide masters</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180910T195559Z" creationid="olex" creationdate="20180910T195559Z">
-        <seg>Загрузка дополнительных мастер-слайдов</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T184346Z" creationid="olex" creationdate="20180910T195559Z">
+        <seg>Загрузка дополнительных слайд-мастеров</seg>
       </tuv>
     </tu>
     <tu>
@@ -33122,6 +33162,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select in the Load Slide Design dialog the template from which to load the slide master and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T185345Z" creationid="olex" creationdate="20181025T185322Z">
+        <seg>Выберите в диалоговом окне Загрузка дизайна слайдов шаблон, из которого можно загрузить слайд-мастер, и нажмите &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select it and click the &lt;f0&gt;Delete&lt;/f0&gt; button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T210108Z" creationid="olex" creationdate="20180313T205636Z">
@@ -34889,6 +34937,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T190151Z" creationid="olex" creationdate="20180405T190151Z">
         <seg>Иногда вам может понадобиться скрыть содержимое листа для защиты данных второстепенного  значения или потому, что его содержимое не важно для отображения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes, in the same set of slides, you may need to mix multiple slide masters that may belong to different templates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T184623Z" creationid="olex" creationdate="20181025T184623Z">
+        <seg>Иногда в одном и том же наборе слайдов может потребоваться смешивать несколько слайд-мастеров, которые могут принадлежать различным шаблонам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38694,6 +38750,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The slide masters in the template you selected to use are now shown in the &lt;f0&gt;Available for use&lt;/f0&gt; subsection of Master Pages.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T185612Z" creationid="olex" creationdate="20181025T185612Z">
+        <seg>Слайд-мастер в шаблоне, который вы выбрали для использования, теперь отображается в подразделе &lt;f0&gt;Доступные&lt;/f0&gt; на вкладке Мастер-слайды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The software has been translated into many languages and runs on all major operating systems.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T200641Z" creationid="lera" creationdate="20180303T200641Z">
@@ -40027,6 +40091,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This dialog shows the slide masters already available for use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T185157Z" creationid="olex" creationdate="20181025T185157Z">
+        <seg>В этом диалоговом окне отображаются слайд-мастера, которые уже доступны для использования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This document is Copyright © 2017 by the LibreOffice Documentation Team.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T151721Z" creationid="lera" creationdate="20180303T151721Z">
@@ -40860,6 +40932,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181009T180655Z" creationid="olex" creationdate="20180430T174024Z">
         <seg>Чтобы добавить стили по умолчанию для ячейки или группы ячеек, выберите в меню Стили &gt; Создать стиль...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To add more slide masters, click the &lt;f0&gt;Load&lt;/f0&gt; button to open the Load Slide Design dialog (Figure &lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181025T185309Z" creationid="olex" creationdate="20181025T185309Z">
+        <seg>Чтобы добавить больше слайд-мастеров, нажмите кнопку &lt;f0&gt;Загрузить&lt;/f0&gt;, чтобы открыть диалоговое окно Загрузка дизайна слайдов (Рисунок &lt;t1&gt;24&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
