@@ -10878,6 +10878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click and drag in the master page to draw a text object and then type or paste your text into the text object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T164530Z" creationid="olex" creationdate="20181027T164530Z">
+        <seg>Нажмите и перетащите в мастер-странице, чтобы нарисовать текстовый блок, а затем введите текст или вставьте его из буфера обмена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click and drag to draw a box for the text on the slide.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181017T175015Z" creationid="olex" creationdate="20181017T175015Z">
@@ -19813,6 +19821,15 @@ LG:DONE</note>
       </tuv>
     </tu>
     <tu>
+      <note>Не могу осилить содержание фразы, или косяк в оригинале</note>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Insert &gt; Field&lt;/f0&gt; or &lt;f1&gt;Insert &gt; Page Number&lt;/f1&gt; on the Menu bar and time to open the Header and Footer dialog (Figure &lt;t2&gt;27&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T170004Z" creationid="olex" creationdate="20181027T170004Z">
+        <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Поле&lt;/f0&gt; или &lt;f1&gt;Вставка &gt;  Номер слайда&lt;/f1&gt; в строке меню и время, чтобы открыть диалоговое окно Колонтитулы (Рисунок &lt;t2&gt;27&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>В оригина описано явно неправильно, перевел по факту</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Insert &gt; Image&lt;/f0&gt; on the Menu bar and then select either &lt;f1&gt;From file&lt;/f1&gt; or &lt;f2&gt;Scan&lt;/f2&gt;.</seg>
@@ -20087,6 +20104,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181027T164024Z" creationid="olex" creationdate="20181027T164024Z">
         <seg>Выберите в меню &lt;f0&gt;Вид &gt; Мастер-слайд&lt;/f0&gt;, чтобы открыть вид Мастер-слайд (Рисунок &lt;t1&gt;26&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;View &gt; Normal&lt;/f0&gt; on the Menu bar or click on &lt;f1&gt;Close Master View&lt;/f1&gt; on the Master View toolbar when you have finished entering text objects that you want to appear on every slide in your presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T164807Z" creationid="olex" creationdate="20181027T164807Z">
+        <seg>Выберите в меню &lt;f0&gt;Вид &gt; Обычный&lt;/f0&gt; или нажмите &lt;f1&gt;Закрыть режим мастера&lt;/f1&gt; на панели инструментов Режим мастера, когда закончите вводить текстовые блоки, которые вы хотите отображать на каждом слайде вашей презентации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41074,6 +41099,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T131502Z" creationid="olex" creationdate="20180818T131502Z">
         <seg>Чтобы добавить &lt;te0/&gt;&lt;ts1/&gt;&lt;f2&gt;водяной знак к фону страницы:&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To add a footer to your slides:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T164853Z" creationid="olex" creationdate="20181027T164853Z">
+        <seg>Чтобы добавить нижний колонтитул на слайды:</seg>
       </tuv>
     </tu>
     <tu>
