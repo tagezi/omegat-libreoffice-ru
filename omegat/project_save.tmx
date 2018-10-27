@@ -6180,6 +6180,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A slide master can have text, footers, or fields added so that they appear on every slide in your presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T163647Z" creationid="olex" creationdate="20181027T163647Z">
+        <seg>Слайд-мастер может содержать текст, нижние колонтитулы или поля, которые отображаются на каждом слайде презентации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A slide master has a defined set of characteristics, including background colors, graphics, gradients; and other objects (such as logos, decorative lines and so on), headers and footers, placement and size of text frames, and text format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181024T182106Z" creationid="olex" creationdate="20181024T182106Z">
@@ -20075,6 +20083,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;View &gt; Master Slide&lt;/f0&gt; on the Menu bar to open Master View (Figure &lt;t1&gt;26&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T164024Z" creationid="olex" creationdate="20181027T164024Z">
+        <seg>Выберите в меню &lt;f0&gt;Вид &gt; Мастер-слайд&lt;/f0&gt;, чтобы открыть вид Мастер-слайд (Рисунок &lt;t1&gt;26&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; and select &lt;f1&gt;Slide Sorter&lt;/f1&gt; and &lt;f2&gt;Slide View&lt;/f2&gt; to show or hide the Slide Sorter and Slide View toolbars (Figure &lt;t3&gt;10&lt;/t3&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T173715Z" creationid="olex" creationdate="20181013T173715Z">
@@ -20335,6 +20351,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T185342Z" creationid="olex" creationdate="20180508T185342Z">
         <seg>Верхние и нижние колонтитулы устанавливаются и определяются одним и тем же способом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Headers are not normally added to slides.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T163738Z" creationid="olex" creationdate="20181027T163738Z">
+        <seg>Верхние колонтитулы в слайдах обычно не используются.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29094,6 +29118,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T130706Z" creationid="olex" creationdate="20180818T130706Z">
         <seg>На &lt;tc0/&gt;Боковой панели (&lt;f1&gt;Вид &gt; Боковая панель&lt;/f1&gt;) &lt;ts2/&gt;&lt;f3&gt;открыть &lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt; &lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;f9&gt;складку Страница&lt;/f9&gt;&lt;/f8&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Drawing toolbar, select the &lt;f0&gt;Text&lt;/f0&gt; icon or press the &lt;f1&gt;F2&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T164359Z" creationid="olex" creationdate="20181027T164359Z">
+        <seg>На панели инструментов Рисование выберите значок &lt;f0&gt;Текст&lt;/f0&gt; или нажмите клавишу &lt;f1&gt;F2&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
