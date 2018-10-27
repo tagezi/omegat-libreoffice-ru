@@ -15846,6 +15846,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Example master view</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T170534Z" creationid="olex" creationdate="20181027T170534Z">
+        <seg>Рисунок &lt;seq0&gt;26&lt;/seq0&gt;: Пример вида Мастер-слайд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Moving the margins</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T180734Z" creationid="olex" creationdate="20181001T180734Z">
@@ -15874,6 +15882,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T135522Z" creationid="olex" creationdate="20180818T135522Z">
         <seg>Рисунок &lt;seq0&gt;27&lt;/seq0&gt;: Пример комментариев</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Footer dialog in Impress</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T170555Z" creationid="olex" creationdate="20181027T170555Z">
+        <seg>Рисунок &lt;seq0&gt;27&lt;/seq0&gt;: Диалоговое окно Колонтитулы в Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -41847,6 +41863,15 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T210202Z" creationid="User" creationdate="20180307T210202Z">
         <seg>Для создания формулы, как отдельного документа или файла, используйте один из следующих методов, чтобы открыть пустой документ в LibreOffice Math (Рисунок &lt;t0&gt;1&lt;/t0&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>разобраться - что за раздел точно имеется ввиду</note>
+      <tuv lang="EN-US">
+        <seg>To create a header, you can use a text box as explained in “&lt;bf0&gt;Text&lt;/bf0&gt;” on page &lt;bf1&gt;30&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T170831Z" creationid="olex" creationdate="20181027T170445Z">
+        <seg>Чтобы создать верхний колонтитул, вы можете использовать текстовый блок, как описано в разделе “&lt;bf0&gt;Текст&lt;/bf0&gt;” на странице &lt;bf1&gt;34&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
