@@ -15758,6 +15758,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Editing a master &lt;f1&gt;slide&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T161301Z" creationid="olex" creationdate="20181027T161301Z">
+        <seg>Рисунок &lt;seq0&gt;25&lt;/seq0&gt;: Редактирование &lt;f1&gt;мастер-слайда&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: LibreOffice language options, without and with Asian and CTL options enabled</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T200155Z" creationid="olex" creationdate="20180711T200155Z">
@@ -37121,6 +37129,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The changes made to one of the slides in Normal view (for example, changes to the bullet point style, the color of the title area, and so on) will not be overridden by subsequent changes to the slide master.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T161043Z" creationid="olex" creationdate="20181027T161043Z">
+        <seg>Изменения, внесенные в один из слайдов в Обычном виде (например, изменения стиля маркера списка, цвета области заголовка и т.п.), не будут переопределять исходный слайд-мастер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The check mark to the right of the &lt;f0&gt;Replace with&lt;/f0&gt; box turns green.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T181114Z" creationid="olex" creationdate="20180628T181114Z">
@@ -39405,6 +39421,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T114537Z" creationid="tagezi" creationdate="20180315T114537Z">
         <seg>Существуют сложные темы, выходящие за рамки настоящего руководства, но знание о которых может представлять интерес:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are cases, however, where it is desirable to revert a manually modified element of the slide to the style defined in the slide master.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T161144Z" creationid="olex" creationdate="20181027T161144Z">
+        <seg>Однако бывают случаи, когда желательно вернуть измененный вручную элемент слайда в стиль, определенный в мастер-слайде.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43112,6 +43136,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T181041Z" creationid="olex" creationdate="20180411T181041Z">
         <seg>Чтобы установить минимальное количество отображаемых разрядов целых чисел в ячейке при вводе, когда задается формат числа, например 1234 и 0012, необходимо добавить отображение начальных нулей одним из следующих способов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To revert back to default formatting, select the element and select &lt;f0&gt;Format &gt; Default Formatting&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T161237Z" creationid="olex" creationdate="20181027T161237Z">
+        <seg>Чтобы вернуться к форматированию по умолчанию, выберите элемент и выберите в меню &lt;f0&gt;Формат &gt; Очистить форматирование&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
