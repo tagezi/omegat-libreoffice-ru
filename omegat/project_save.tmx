@@ -8412,10 +8412,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Background (color, gradient, hatching, or bitmap)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T155029Z" creationid="olex" creationdate="20181027T155029Z">
+        <seg>Фон (цвет, градиент, текстура, орнамент или штриховка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Background Color (with a palette of colors)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T182256Z" creationid="olex" creationdate="20180809T182247Z">
         <seg>Цвет фона (с палитрой цветов)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background objects (for example, a logo or decorative graphics)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T155112Z" creationid="olex" creationdate="20181027T155112Z">
+        <seg>Фоновые объекты (например, логотип или декоративная графика)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18393,6 +18409,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T183923Z" creationid="olex" creationdate="20180508T183923Z">
         <seg>Для получения дополнительной информации о разрыве страницы смотрите &lt;f0&gt;Руководство Calc Глава 6 Печать, экспорт и отправка по электронной почте &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on modifying slide masters, see the &lt;f0&gt;Impress Guide Chapter 2 Using Slide Masters, Styles, and Templates&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T155456Z" creationid="olex" creationdate="20181027T155456Z">
+        <seg>Для получения дополнительной информации об изменении слайд-мастеров смотрите раздел &lt;f0&gt;Руководство по Impress, Глава 2, Использование слайд-мастеров, стилей и шаблонов&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32992,6 +33016,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;View &gt; Slide Master&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T155551Z" creationid="olex" creationdate="20181027T155551Z">
+        <seg>Выберите в меню &lt;f0&gt;Вид &gt; Мастер-слайд&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;View &gt; Styles&lt;/f0&gt; or &lt;f1&gt;Styles &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Manage &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Styles&lt;/f4&gt; from the Menu bar, or press &lt;f5&gt;F11&lt;/f5&gt; (&lt;f6&gt;⌘+T &lt;/f6&gt;on a Mac), or click the Styles tab in the Sidebar (&lt;f7&gt;View &gt; Sidebar&lt;/f7&gt; to open it).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180717T181800Z" creationid="olex" creationdate="20180717T181800Z">
@@ -33143,12 +33175,28 @@ denkin: не понял? чего не видно?</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Select a slide master in &lt;f0&gt;Master Pages&lt;/f0&gt; in the Slides pane.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T155731Z" creationid="olex" creationdate="20181027T155731Z">
+        <seg>Выберите слайд-мастер в &lt;f0&gt;Мастер-страницах&lt;/f0&gt; на панели Слайды.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>У меня в ЛО нет таких пунктов</note>
       <tuv lang="EN-US">
         <seg>Select additional grammar checking rules through &lt;f0&gt;Tools &gt; Options &gt; Language Settings &gt; English sentence checking&lt;/f0&gt;, or through &lt;f1&gt;Tools &gt; Extension Manager &gt; English spelling dictionaries &gt; Options&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180927T181110Z" creationid="olex" creationdate="20180927T181110Z">
         <seg>Выберите дополнительные правила проверки грамматики с помощью &lt;f0&gt;Сервис &gt; Параметры &gt; Настройки языка &gt; Проверка английских предложений&lt;/f0&gt;, или с помощью &lt;f1&gt;Сервис &gt; Управление расширениями &gt; Английские словари &gt; Параметры&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select an object on the slide master in the Workspace and the Sidebar will display the property options that can be changed for the selected object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T155828Z" creationid="olex" creationdate="20181027T155828Z">
+        <seg>Выберите объект на слайд-мастере в рабочей области и на боковой панели отобразятся свойства выбранного объекта, которые могут быть изменены.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34576,6 +34624,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T194659Z" creationid="olex" creationdate="20180418T194659Z">
         <seg>Выделите ячейку одним щелчком мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Size and placement of default frames for slide titles and content</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T155338Z" creationid="olex" creationdate="20181027T155235Z">
+        <seg>Размер и размещение по умолчанию для полей заголовков слайдов и содержимого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Size, placement, and contents of header and footer elements to appear on every slide</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T155248Z" creationid="olex" creationdate="20181027T155205Z">
+        <seg>Размер, положение и содержание верхнего и нижнего колонтитулов для отображения на каждом слайде</seg>
       </tuv>
     </tu>
     <tu>
@@ -37557,6 +37621,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T212203Z" creationid="tagezi" creationdate="20180315T212203Z">
         <seg>Ниже приведено объяснение кода, используемого в макросе EnterMyName.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following items can be changed on a slide master:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T154906Z" creationid="olex" creationdate="20181027T154906Z">
+        <seg>В слайд-мастере могут быть изменены следующие элементы:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40617,6 +40689,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T173937Z" creationid="olex" creationdate="20180828T173937Z">
         <seg>Эта панель инструментов содержит список&lt;ts10/&gt;&lt;te11/&gt;, чтобы помочь в выборе безопасности документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This unlocks the properties of a slide master so you can edit it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T155631Z" creationid="olex" creationdate="20181027T155631Z">
+        <seg>Это разблокирует свойства слайд-мастера, и вы сможете его редактировать.</seg>
       </tuv>
     </tu>
     <tu>
