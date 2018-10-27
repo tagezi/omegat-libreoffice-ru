@@ -7239,6 +7239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, you can add the date/time, footer text and slide number directly into their respective areas as shown in Figure &lt;t0&gt;26&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T170330Z" creationid="olex" creationdate="20181027T170330Z">
+        <seg>Кроме того, вы можете добавить дату/время, текст в нижний колонтитул и номер слайда непосредственно в соответствующие блоки, как показано на рисунке &lt;t0&gt;26&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, you can choose &lt;f0&gt;Insert &gt; Header and Footer &gt; Header &gt; Default Style&lt;/f0&gt; (or some other page style, if not Default Style).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T173713Z" creationid="olex" creationdate="20181001T173713Z">
@@ -10378,6 +10386,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T181609Z" creationid="olex" creationdate="20180430T181609Z">
         <seg>Нажмите &lt;f0&gt;Добавить&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Apply to All&lt;/f0&gt; to apply your changes to all the slide masters in your presentation, or click &lt;f1&gt;Apply&lt;/f1&gt; to apply your changes to the selected slide master in your presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T170246Z" creationid="olex" creationdate="20181027T170246Z">
+        <seg>Нажмите &lt;f0&gt;Применить ко всем&lt;/f0&gt;, чтобы применить изменения ко всем слайд-мастерам в презентации, или нажмите &lt;f1&gt;Применить&lt;/f1&gt;, чтобы применить изменения только к выбранному слайд-мастеру.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28495,6 +28511,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Normally only footers are used on a slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T170352Z" creationid="olex" creationdate="20181027T170352Z">
+        <seg>Обычно на слайде используются только нижние колонтитулы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Normally, when you use brackets within a matrix, the brackets do not scale as the matrix increases in size.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T114402Z" creationid="asus" creationdate="20180813T114402Z">
@@ -34016,6 +34040,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T183636Z" creationid="olex" creationdate="20180430T183636Z">
         <seg>Выберите тему, которую вы хотите применить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the type of date and time and type in the footer text and slide number from the available options in the dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181027T170144Z" creationid="olex" creationdate="20181027T170144Z">
+        <seg>Выберите тип даты и времени и введите текст нижнего колонтитула и номер слайда из доступных параметров в диалоговом окне.</seg>
       </tuv>
     </tu>
     <tu>
