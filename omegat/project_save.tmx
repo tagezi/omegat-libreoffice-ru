@@ -16901,6 +16901,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T185001Z" creationid="olex" creationdate="20181029T185001Z">
+        <seg>Имя файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File formats LibreOffice can open</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180304T071805Z" creationid="lera" creationdate="20180304T071805Z">
@@ -30213,10 +30221,26 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page Count: the number of slides in your presentation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T184946Z" creationid="olex" creationdate="20181029T184946Z">
+        <seg>Количество слайдов: количество слайдов в презентации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page Deck</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T102024Z" creationid="olex" creationdate="20180721T102018Z">
         <seg>Вкладка Страница</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page Number: the slide number in Impress</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T184929Z" creationid="olex" creationdate="20181029T184929Z">
+        <seg>Номер слайда: номер слайда в Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -41538,6 +41562,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change a paragraph style throughout your presentation, open the Styles and Formatting dialog and modify the appropriate presentation style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T185922Z" creationid="olex" creationdate="20181029T185922Z">
+        <seg>Чтобы изменить стиль абзаца для всей презентации, откройте диалоговое окно Стили и измените соответствующий стиль презентации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change an existing style using &lt;i0/&gt;the Style dialog, right-click on the required style in the Styles window and select &lt;f1&gt;Modify&lt;/f1&gt; from the pop-up menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180341Z" creationid="olex" creationdate="20180308T180341Z">
@@ -41614,6 +41646,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T191356Z" creationid="olex" creationdate="20180508T191356Z">
         <seg>Чтобы изменить внешний вид верхнего или нижнего колонтитула, нажмите &lt;f0&gt;Еще...&lt;/f0&gt;, для открытия диалогового окна Обрамление / Фон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the author information, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T185124Z" creationid="olex" creationdate="20181029T185124Z">
+        <seg>Чтобы изменить информацию об авторе, выберите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Пользователь&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41718,6 +41758,15 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T105259Z" creationid="olex" creationdate="20180815T105259Z">
         <seg>Чтобы изменить минимальное количество символов для переносов или минимальное количество символов до или после разрыва строки, выберите элемент, а затем нажмите кнопку &lt;f0&gt;Изменить&lt;/f0&gt; в разделе Параметры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>снова несоответствие, видимо не исправлено предложение составленное для более старых версий</note>
+      <tuv lang="EN-US">
+        <seg>To change the number format (1,2,3 or a,b,c or i,ii,iii, and so on) for the number field, go to &lt;f0&gt;Slide &gt; Properties...&lt;/f0&gt; on the Menu bar and then select a format from the &lt;f1&gt;Format&lt;/f1&gt; list in the &lt;f2&gt;Layout Settings&lt;/f2&gt; area.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T185537Z" creationid="olex" creationdate="20181029T185537Z">
+        <seg>Чтобы изменить формат нумерации (1,2,3 или a, b, c или I, II, III и т.д.) для числовых полей, выберите в меню &lt;f0&gt;Слайд &gt; Свойства ...&lt;/f0&gt;, а затем выберите формат из списка &lt;f1&gt;Номера страниц&lt;/f1&gt; во вкладке &lt;f2&gt; Страница&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
