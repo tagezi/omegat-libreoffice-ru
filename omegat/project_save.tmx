@@ -10150,6 +10150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose &lt;f0&gt;Insert &gt; Media &gt; Photo Album&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T191921Z" creationid="olex" creationdate="20181029T191921Z">
+        <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Медиа &gt; Фотоальбом...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose &lt;f0&gt;Insert &gt; Special Character&lt;/f0&gt; &lt;tc1/&gt;&lt;s2/&gt;to open the Special Characters dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T175649Z" creationid="olex" creationdate="20180802T175649Z">
@@ -20244,6 +20252,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to the slide that precedes the photo album.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T191832Z" creationid="olex" creationdate="20181029T191832Z">
+        <seg>Перейдите к слайду, который предшествует фотоальбому.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Grammar checking</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T153410Z" creationid="olex" creationdate="20180623T153410Z">
@@ -21576,6 +21592,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T173148Z" creationid="olex" creationdate="20180712T173148Z">
         <seg>Если в LibreOffice установлено несколько языков, то вы можете выбрать, какой язык будет использоваться для меню, диалоговых окон и файлов справки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If more than one person edits the document, each author is automatically allocated a different background color for their comments.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T191424Z" creationid="olex" creationdate="20181029T191424Z">
+        <seg>Если документ редактируют несколько человек, то каждому автору автоматически присваивается другой цвет фона для комментариев.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23238,6 +23262,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impress can create a photo album from a set of images, usually with one photo per slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T191520Z" creationid="olex" creationdate="20181029T191520Z">
+        <seg>Impress может создавать фотоальбом из набора изображений, обычно с одной фотографией на слайд.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Impress comes with a collection of slide masters.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181024T191134Z" creationid="olex" creationdate="20181024T191134Z">
@@ -24204,6 +24236,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T180612Z" creationid="olex" creationdate="20180808T180612Z">
         <seg>В диалоговом окне Автотекст введите название для автотекста в поле &lt;f0&gt;Имя&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Create Photo Album dialog (Figure &lt;t0&gt;29&lt;/t0&gt;), click &lt;f1&gt;Add&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T192121Z" creationid="olex" creationdate="20181029T192121Z">
+        <seg>В диалоговом окне Создать фотоальбом (Рисунок &lt;t0&gt;29&lt;/t0&gt;), нажмите &lt;f1&gt;Добавить&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29620,6 +29660,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open an existing or blank presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T191806Z" creationid="olex" creationdate="20181029T191806Z">
+        <seg>Откройте существующую или пустую презентацию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open menu &lt;f0&gt;Table &gt; AutoFormat Styles&lt;/f0&gt; and click the &lt;f1&gt;Add&lt;/f1&gt; button (Figure &lt;t2&gt;6&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180322T194835Z" creationid="olex" creationdate="20180309T212530Z">
@@ -33253,6 +33301,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T184607Z" creationid="olex" creationdate="20180411T184341Z">
         <seg>Выберите &lt;f0&gt;Текстовый&lt;/f0&gt; в выпадающем списке &lt;f1&gt;Выбор категории содержимого&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Tools &gt; Options &gt; User Data&lt;/f0&gt; to configure the name you want to appear in the comment.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T191331Z" creationid="olex" creationdate="20181029T191331Z">
+        <seg>Выберите &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Пользователь&lt;/f0&gt;, чтобы настроить имя, которое вы хотите отображать в комментарии.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40846,6 +40902,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This photo album can source multimedia shows with graphics and images or even collect your latest vacation pictures into a presentation file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T191652Z" creationid="olex" creationdate="20181029T191652Z">
+        <seg>Этот фотоальбом может воспроизводить мультимедийные шоу с графикой и изображениями или даже собирать фотографии ваших последних каникул в файл презентации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This process is slightly different for each type of template, but the format is &lt;tc0/&gt;similar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T185656Z" creationid="olex" creationdate="20180719T185656Z">
@@ -42757,6 +42821,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To insert a photo album into your presentation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T191737Z" creationid="olex" creationdate="20181029T191737Z">
+        <seg>Чтобы вставить фотоальбом в презентацию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To insert a special character:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T175501Z" creationid="olex" creationdate="20180802T175501Z">
@@ -43723,6 +43795,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T152816Z" creationid="olex" creationdate="20180630T152644Z">
         <seg>Чтобы отобразить или скрыть элементы, такие как границы текста &lt;i0/&gt;, установите или снимите флажок слева от имени элемента.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To show or hide the comment markers, choose &lt;f0&gt;View &gt; Comments&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T191213Z" creationid="olex" creationdate="20181029T191213Z">
+        <seg>Чтобы показать или скрыть значки комментариев, выберите &lt;f0&gt;Вид &gt; Комментарии&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
