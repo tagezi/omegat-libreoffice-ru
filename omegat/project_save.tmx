@@ -6244,6 +6244,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A standard file browser opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T192207Z" creationid="olex" creationdate="20181029T192207Z">
+        <seg>Откроется стандартное окно поиска файлов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A standard file browser window opens.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T185052Z" creationid="olex" creationdate="20180315T185052Z">
@@ -10662,6 +10670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Open&lt;/f0&gt; to add the files to the Photo Album.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T192505Z" creationid="olex" creationdate="20181029T192505Z">
+        <seg>Нажмите &lt;f0&gt;Открыть&lt;/f0&gt;, чтобы добавить файлы в фотоальбом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Organizer&lt;/f0&gt; to open the Basic Macro Organizer dialog (Figure &lt;t1&gt;2&lt;/t1&gt;) and select the &lt;f2&gt;Libraries&lt;/f2&gt; tab.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T122534Z" creationid="tagezi" creationdate="20180312T104854Z">
@@ -11066,6 +11082,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T115301Z" creationid="asus" creationdate="20180813T115301Z">
         <seg>Щелкните по выпадающему списку &lt;f1&gt;Категории&lt;/f1&gt;, выберите элемент &lt;f2&gt;Скобки&lt;/f2&gt; из выпадающего списка и затем отметьте галочкой опцию &lt;f3&gt;Масштабировать все скобки&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on a file name to display it in the Preview area.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T192608Z" creationid="olex" creationdate="20181029T192608Z">
+        <seg>Нажмите на имя файла, чтобы отобразить его в области предварительного просмотра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12293,6 +12317,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180922T135331Z" creationid="olex" creationdate="20180723T171248Z">
         <seg>Создавайте или обновляйте стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create the required sequence by removing images or moving them up or down in the list of images.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T192928Z" creationid="olex" creationdate="20181029T192928Z">
+        <seg>Создайте необходимую последовательность, удаляя изображения или перемещая их вверх или вниз в списке изображений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16010,6 +16042,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181002T191101Z" creationid="olex" creationdate="20181002T191101Z">
         <seg>Рисунок &lt;seq0&gt;29&lt;/seq0&gt;: Вкладка Перекрестные ссылки &lt;i1/&gt;диалогового окна Поля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: The photo album dialog box with photo preview</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T192545Z" creationid="olex" creationdate="20181029T192545Z">
+        <seg>Рисунок &lt;seq0&gt;29&lt;/seq0&gt;: Диалоговое окно создания фотоальбома с предварительным просмотром фотографий</seg>
       </tuv>
     </tu>
     <tu>
@@ -21684,6 +21724,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If several images are in the same folder, you can select a group of photos using the &lt;f0&gt;Shift&lt;/f0&gt; or &lt;f1&gt;Ctrl&lt;/f1&gt; keys while clicking on their filenames.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T192426Z" creationid="olex" creationdate="20181029T192426Z">
+        <seg>Если в одной папке находятся несколько изображений, то вы можете выбрать группу фотографий, удерживая клавишу &lt;f0&gt;Shift&lt;/f0&gt; или &lt;f1&gt;Ctrl&lt;/f1&gt; при выборе файлов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the &lt;f0&gt;Decimal separator key&lt;/f0&gt; option is selected, LibreOffice uses the character defined by the default locale.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T173631Z" creationid="olex" creationdate="20180712T173631Z">
@@ -26833,6 +26881,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T195619Z" creationid="olex" creationdate="20180326T192530Z">
         <seg>Национальные</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locate the files you want to insert.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T192225Z" creationid="olex" creationdate="20181029T192225Z">
+        <seg>Найдите файлы, которые вы хотите вставить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33635,6 +33691,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the &lt;f0&gt;Add caption to each slide&lt;/f0&gt; option, if necessary, to insert a text box for the caption.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T192820Z" creationid="olex" creationdate="20181029T192820Z">
+        <seg>Выберите &lt;f0&gt;Добавить название каждому слайду&lt;/f0&gt;, если необходимо, чтобы вставить текстовое поле для подписи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the &lt;f0&gt;Apply &lt;/f0&gt;&lt;i1/&gt;&lt;i2/&gt;&lt;f3&gt;replacement table&lt;/f3&gt; option.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T173208Z" creationid="olex" creationdate="20180628T173208Z">
@@ -34008,6 +34072,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T122954Z" creationid="tagezi" creationdate="20180320T122954Z">
         <seg>Для импорта библиотеки макросов, выберите контейнер библиотек для использования, а затем нажмите кнопку &lt;f0&gt;Импорт&lt;/f0&gt; (Рисунок &lt;t1&gt;2&lt;/t1&gt; на странице &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the number of images per slide in the &lt;f0&gt;Slide layout&lt;/f0&gt; list box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T192721Z" creationid="olex" creationdate="20181029T192721Z">
+        <seg>Выберите количество изображений на слайде в списке &lt;f0&gt;Разметка слайда&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46826,6 +46898,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T191743Z" creationid="olex" creationdate="20180719T191743Z">
         <seg>Когда установка пакета завершена&lt;o0/&gt;, перезапустите LibreOffice&lt;ts1/&gt;&lt;o2/&gt;&lt;te3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the sequence of images is ready, click &lt;f0&gt;Insert Slides&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T193122Z" creationid="olex" creationdate="20181029T193122Z">
+        <seg>Когда последовательность изображений будет готова, нажмите &lt;f0&gt;Вставить слайд&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
