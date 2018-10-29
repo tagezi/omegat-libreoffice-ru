@@ -6212,6 +6212,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A small box containing your initials appears in the upper left-hand corner of the slide, with a larger text box beside it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T190330Z" creationid="olex" creationdate="20181029T190330Z">
+        <seg>В верхнем левом углу слайда появится небольшой прямоугольник, содержащий ваши инициалы, с большим текстовым полем рядом с ним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A small dialog is displayed indicating that LibreOffice is recording a macro.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T115552Z" creationid="tagezi" creationdate="20180313T115552Z">
@@ -15950,6 +15958,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Inserting comments</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T190741Z" creationid="olex" creationdate="20181029T190741Z">
+        <seg>Рисунок &lt;seq0&gt;28&lt;/seq0&gt;: Вставка комментариев</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: The &lt;i1/&gt;Cross-references tab of the Fields dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T170941Z" creationid="olex" creationdate="20180828T170941Z">
@@ -23206,6 +23222,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impress automatically adds your name and the current date at the bottom of the text box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T190359Z" creationid="olex" creationdate="20181029T190359Z">
+        <seg>Impress автоматически добавляет ваше имя и текущую дату в нижней части текстового поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Impress can also export to MacroMedia Flash (.swf) and any of the graphics formats listed for Draw.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T180723Z" creationid="tagezi" creationdate="20180304T180723Z">
@@ -23266,6 +23290,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T202019Z" creationid="olex" creationdate="20180607T202019Z">
         <seg>Impress предоставляет все распространенные мультимедийные средства презентаций, такие как специальные эффекты, анимация и инструменты рисования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impress supports comments similar to those in Writer and Calc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T190032Z" creationid="olex" creationdate="20181029T190032Z">
+        <seg>Impress поддерживает комментарии, подобные комментариям в Writer и Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23528,6 +23560,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180308T135542Z" creationid="User" creationdate="20180308T135542Z">
         <seg>В Math используйте сочетание клавиш &lt;f0&gt;Ctrl+N&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Normal View, go to &lt;f0&gt;Insert &gt; Comment &lt;/f0&gt;on the Menu bar to open a blank comment (Figure &lt;t1&gt;28&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T190147Z" creationid="olex" creationdate="20181029T190147Z">
+        <seg>В режиме Обычный выберите в меню &lt;f0&gt;Вставка &gt; Комментарий&lt;/f0&gt;, чтобы открыть пустой комментарий (Рисунок &lt;t1&gt;28&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40694,6 +40734,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This menu allows you to apply formatting to selected text, delete the current comment, delete all comments from the same author, or delete all comments in the presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T190726Z" creationid="olex" creationdate="20181029T190726Z">
+        <seg>Это меню позволяет применять форматирование к выбранному тексту, удалять текущий комментарий, удалять все комментарии от его автора или удалять все комментарии в презентации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This menu is also found in the English dictionaries extension installed by default by LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180714T073153Z" creationid="olex" creationdate="20180714T073153Z">
@@ -44210,6 +44258,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type or paste your comment into the text box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T190420Z" creationid="olex" creationdate="20181029T190420Z">
+        <seg>Введите или вставьте свой комментарий в текстовое поле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type or paste your text in the text box.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181019T181453Z" creationid="olex" creationdate="20181017T174352Z">
@@ -44310,6 +44366,15 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181019T191259Z" creationid="olex" creationdate="20181019T191259Z">
         <seg>Введите текст и нажмите клавишу &lt;f0&gt;Enter&lt;/f0&gt;, чтобы начать новый маркированный абзац.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>немного обобщил, убрав указательный тон, как мне кажется - правильно</note>
+      <tuv lang="EN-US">
+        <seg>Typically you might place it on or near an object you refer to in the comment.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T191134Z" creationid="olex" creationdate="20181029T191134Z">
+        <seg>Обычно его размещают на объекте, на который ссылаются в комментарии, или рядом с ним.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48852,6 +48917,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can move the small comment markers to anywhere you wish on the slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T190845Z" creationid="olex" creationdate="20181029T190836Z">
+        <seg>Вы можете перемещать небольшой значок комментария в любое место на слайде.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can move, resize, and delete text boxes.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181017T180456Z" creationid="olex" creationdate="20181017T180456Z">
@@ -48872,6 +48945,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T171332Z" creationid="olex" creationdate="20180308T171332Z">
         <seg>Вы можете открыть этот список и выбрать нужный стиль мышью или использовать клавиши со стрелками вверх и вниз для перемещения по списку, а затем нажать &lt;f0&gt;Enter&lt;/f0&gt;, чтобы применить выбранный стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can optionally apply some basic formatting to the comment by selecting it, right-clicking, and choosing from the context menu that opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T190624Z" creationid="olex" creationdate="20181029T190624Z">
+        <seg>При необходимости, вы можете применить некоторое базовое форматирование к комментарию, выбрав комментарий, нажав правой кнопкой мыши и выбрав форматирование в открывшемся контекстном меню.</seg>
       </tuv>
     </tu>
     <tu>
