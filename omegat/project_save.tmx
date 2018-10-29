@@ -8154,6 +8154,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Author: first and last names listed in the LibreOffice user data</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T184849Z" creationid="olex" creationdate="20181029T184849Z">
+        <seg>Автор: имена и фамилии, указанные в данных пользователя LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authors and reviewers often use &lt;i0/&gt;comments to exchange ideas, ask for suggestions, or mark items needing attention.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T134008Z" creationid="olex" creationdate="20180818T134008Z">
@@ -12749,6 +12757,22 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T160004Z" creationid="olex" creationdate="20180721T160004Z">
         <seg>Интеграция с базами данных, включая базу данных библиографии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date (fixed)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T184549Z" creationid="olex" creationdate="20181029T184549Z">
+        <seg>Дата (фиксированная)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date (variable): updates automatically when you reload a file</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T184658Z" creationid="olex" creationdate="20181029T184658Z">
+        <seg>Дата (изменяемая): автоматически обновляется при повторном открытии файла</seg>
       </tuv>
     </tu>
     <tu>
@@ -19857,8 +19881,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Insert &gt; Field&lt;/f0&gt; or &lt;f1&gt;Insert &gt; Page Number&lt;/f1&gt; on the Menu bar and time to open the Header and Footer dialog (Figure &lt;t2&gt;27&lt;/t2&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181027T170004Z" creationid="olex" creationdate="20181027T170004Z">
-        <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Поле&lt;/f0&gt; или &lt;f1&gt;Вставка &gt;  Номер слайда&lt;/f1&gt; в строке меню и время, чтобы открыть диалоговое окно Колонтитулы (Рисунок &lt;t2&gt;27&lt;/t2&gt;).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T184245Z" creationid="olex" creationdate="20181027T170004Z">
+        <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Колонтитулы...&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;, чтобы открыть диалоговое окно Колонтитулы (Рисунок &lt;t2&gt;27&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22914,6 +22938,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181025T185831Z" creationid="olex" creationdate="20181025T185831Z">
         <seg>Если вы хотите удалить неиспользуемые слайд-мастера, то установите соответствующий флажок в диалоговом окне Дизайн слайда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to edit this field in your slide, see the &lt;f1&gt;Impress Guide Chapter 3 Adding and Formatting Text&lt;/f1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T184452Z" creationid="olex" creationdate="20181029T184452Z">
+        <seg>Если вы хотите отредактировать это поле на слайде, обратитесь к &lt;f1&gt;Руководство по Impress, Глава 3, Вставка и форматирование текста&lt;/f1&gt; для получения дополнительной информации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37714,6 +37746,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The fields you can use in Impress are as follows:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T184527Z" creationid="olex" creationdate="20181029T184527Z">
+        <seg>Вы можете использовать в Impress, следующие типы полей:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The file browser window closes and the template appears in the selected category.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T185811Z" creationid="olex" creationdate="20180315T185811Z">
@@ -40919,6 +40959,22 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Time (fixed)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T184712Z" creationid="olex" creationdate="20181029T184712Z">
+        <seg>Время (фиксированное)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time (variable): updates automatically when you reload a file</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T184803Z" creationid="olex" creationdate="20181029T184803Z">
+        <seg>Время (изменяемое): автоматически обновляется при повторном открытии файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tip</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T170217Z" creationid="tagezi" creationdate="20180304T170217Z">
@@ -41147,6 +41203,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T131502Z" creationid="olex" creationdate="20180818T131502Z">
         <seg>Чтобы добавить &lt;te0/&gt;&lt;ts1/&gt;&lt;f2&gt;водяной знак к фону страницы:&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To add a field into an object or as a separate object on a slide, select &lt;f0&gt;Insert &gt; Fields&lt;/f0&gt; on the Menu bar and select the required field from the submenu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T184121Z" creationid="olex" creationdate="20181029T184121Z">
+        <seg>Чтобы добавить поле в объект или как отдельный объект на слайде, выберите в меню&lt;f0&gt;Вставить &gt; Поля&lt;/f0&gt; и выберите нужное поле в подменю.</seg>
       </tuv>
     </tu>
     <tu>
