@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You can change the sequence and remove or insert images later, as you can with any slides.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T193233Z" creationid="olex" creationdate="20181029T193233Z">
+        <seg>(Вы можете изменять последовательность и удалять или добавлять изображения позже, так же как с любыми слайдами.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You need to have a document open for this menu item to appear.) In Writer, this dialog has five tabs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T105246Z" creationid="olex" creationdate="20180715T105246Z">
@@ -22949,6 +22957,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you selected &lt;f0&gt;Add caption to each slide&lt;/f0&gt;, there will be a placeholder for the image caption (title) on each slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T193855Z" creationid="olex" creationdate="20181029T193855Z">
+        <seg>Если вы выбрали &lt;f0&gt;Добавить название каждому слайду&lt;/f0&gt;, то на каждом слайде будет добавлено поле для названия изображения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you type the name of a named range and press the &lt;f1&gt;Enter&lt;/f1&gt; key, the named range is selected and displayed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T181806Z" creationid="olex" creationdate="20180329T181415Z">
@@ -23378,6 +23394,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181029T190032Z" creationid="olex" creationdate="20181029T190032Z">
         <seg>Impress поддерживает комментарии, подобные комментариям в Writer и Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impress will create a presentation with as many pages as determined by the Slide layout number of slides per page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T193527Z" creationid="olex" creationdate="20181029T193527Z">
+        <seg>Impress создаст презентацию с таким количеством страниц, как определено в поле Разметка слайда (изображений на странице).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45220,6 +45244,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180917T211521Z" creationid="olex" creationdate="20180917T211521Z">
         <seg>Используйте пункт меню &lt;f0&gt;Файл &gt; Сохранить&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the slide sorter (see page &lt;bf0&gt;12&lt;/bf0&gt;) to reorder your photo album.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181029T194027Z" creationid="olex" creationdate="20181029T194027Z">
+        <seg>Используйте режим Сортировщик слайдов (смотрите страницу &lt;bf0&gt;12&lt;/bf0&gt;) для упорядочивания вашего фотоальбома.</seg>
       </tuv>
     </tu>
     <tu>
