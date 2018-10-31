@@ -11158,6 +11158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the &lt;f0&gt;Apply to All Slides&lt;/f0&gt; button to apply the same display time to all slides.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T190209Z" creationid="olex" creationdate="20181031T190209Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Применить переход ко всем слайдам&lt;/f0&gt; чтобы прменить назначенное время показа ко всем слайдам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the &lt;f0&gt;Freeze Rows and Columns&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;in the main toolbar or go to &lt;f3&gt;View&lt;/f3&gt; on the Menu bar and select &lt;f4&gt;Freeze Cells &gt; Freeze Rows and Columns&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180523T192236Z" creationid="olex" creationdate="20180409T164741Z">
@@ -20139,6 +20147,22 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Slide Show &gt; Rehearse Timings&lt;/f0&gt; on the Menu bar and the slide show starts.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T190728Z" creationid="olex" creationdate="20181031T190454Z">
+        <seg>Выберите в меню &lt;f0&gt;Демонстрация &gt; Показывать таймер&lt;/f0&gt; и начнется демонстрацию слайдов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Slide Show &gt; Slide Show Settings&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T191122Z" creationid="olex" creationdate="20181031T191122Z">
+        <seg>Выберите в меню &lt;f0&gt;Демонстрация &gt; Параметры демонстрации...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Slide&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Duplicate Page/Slide&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181014T174247Z" creationid="olex" creationdate="20181014T174247Z">
@@ -23499,6 +23523,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181022T185641Z" creationid="olex" creationdate="20181022T185641Z">
         <seg>Impress вставит диаграмму по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impress will memorize the timings for each slide and will advance to the next slide automatically using these timings when you run the slide show.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T190955Z" creationid="olex" creationdate="20181031T190955Z">
+        <seg>Impress запоминает время для каждого слайда и автоматически переместится к следующему слайду, используя эти настройки, когда вы запустите слайд-шоу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33232,6 +33264,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Auto&lt;/f0&gt; and the timing of the pause between slide shows.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T191411Z" creationid="olex" creationdate="20181031T191411Z">
+        <seg>Выберите &lt;f0&gt;Цикл и повтор после&lt;/f0&gt; и определите время паузы между показами слайдов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Column Break&lt;/f0&gt; to create a page break to the left of the selected cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T184617Z" creationid="olex" creationdate="20180508T184617Z">
@@ -41802,6 +41842,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To apply a different display time to each slide in your presentation:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T190231Z" creationid="olex" creationdate="20181031T190231Z">
+        <seg>Чтобы применить разное время показа к каждому слайду в презентации:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To apply a different slide master to one or more selected slides:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181025T184031Z" creationid="olex" creationdate="20181025T184031Z">
@@ -43716,6 +43764,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181015T152836Z" creationid="olex" creationdate="20181015T152509Z">
         <seg>Чтобы изменить размер окна содержимого, нажмите на внешнюю рамку, чтобы отобразились ручки изменения размера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To restart a slide show automatically after the last slide has been displayed:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T191026Z" creationid="olex" creationdate="20181031T191026Z">
+        <seg>Чтобы перезапустить показ слайдов автоматически после отображения последнего слайда:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47211,6 +47267,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T174155Z" creationid="olex" creationdate="20180731T174155Z">
         <seg>Когда вы &lt;i0/&gt;вставляете текст, результат зависит от источника текста и того, как вы его вставляете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you are ready to advance to the next slide, mouse click on the display background or press the right arrow or space bar on your keyboard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T190802Z" creationid="olex" creationdate="20181031T190802Z">
+        <seg>Когда вы будете готовы перейти к следующему слайду, нажмите мышью на фоне дисплея или нажмите стрелку вправо или пробел на клавиатуре.</seg>
       </tuv>
     </tu>
     <tu>
