@@ -10438,6 +10438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Apply to All Slides&lt;/f0&gt; to apply the transition for all of your presentation or continue selecting transitions to place between each slide in your presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T184851Z" creationid="olex" creationdate="20181031T184851Z">
+        <seg>Нажмите &lt;f0&gt;Применить ко всем слайдам&lt;/f0&gt;, чтобы применить переход для всей презентации или продолжайте выбирать переход после каждого слайда в презентации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Apply to All&lt;/f0&gt; to apply your changes to all the slide masters in your presentation, or click &lt;f1&gt;Apply&lt;/f1&gt; to apply your changes to the selected slide master in your presentation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181027T170246Z" creationid="olex" creationdate="20181027T170246Z">
@@ -34092,6 +34100,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the desired transition, the speed of the animation, and whether the transition should happen when you click the mouse (preferred) or automatically after a certain number of seconds.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T184710Z" creationid="olex" creationdate="20181031T184710Z">
+        <seg>Выберите желаемый эффект, скорость анимации и должна ли смена слайда произойти, когда вы нажимаете мышью (предпочтительно) или автоматически через определенное количество секунд.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the direction cell focus moves from the drop-down list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T201417Z" creationid="olex" creationdate="20180404T201417Z">
@@ -37279,6 +37295,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T161439Z" creationid="olex" creationdate="20180722T161439Z">
         <seg>На боковой панели также есть кнопка Скрыть/Показать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Slide Transition section has a very useful choice: Automatic preview.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T185227Z" creationid="olex" creationdate="20181031T185227Z">
+        <seg>Вкладка Смена слайда имеет очень полезную настройку: автоматический просмотр.</seg>
       </tuv>
     </tu>
     <tu>
