@@ -11214,6 +11214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the New button to create a new sequence of slides and save it with a different name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T182625Z" creationid="olex" creationdate="20181031T182544Z">
+        <seg>Нажмите кнопку Создать, чтобы создать новую последовательность слайдов и сохранить ее под другим именем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the Properties icon &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt;at the side of the Sidebar to open &lt;f3&gt;Layouts&lt;/f3&gt; section and display the available layouts (Figure &lt;t4&gt;12&lt;/t4&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181014T175900Z" creationid="olex" creationdate="20181014T175900Z">
@@ -20075,10 +20083,26 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Slide &gt; Hide Slide&lt;/f0&gt; on the Menu bar or right-click on the slide thumbnail and select &lt;f1&gt;Hide Slide&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T182147Z" creationid="olex" creationdate="20181031T182147Z">
+        <seg>Выберите в меню &lt;f0&gt;Слайд &gt; Скрыть слайд&lt;/f0&gt; или нажмите правой кнопкой мыши на миниатюре слайда и выберите в контекстном меню &lt;f1&gt;Скрыть слайд&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Slide &gt; Slide Design&lt;/f0&gt; on the Menu bar or right-click on a slide in the Slides Pane and select &lt;f1&gt;Slide Design&lt;/f1&gt; from the context menu to open the Slide Design dialog (Figure &lt;t2&gt;23&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181025T185136Z" creationid="olex" creationdate="20181025T185136Z">
         <seg>Выберите в меню &lt;f0&gt;Слайд &gt; Мастер-слайд&lt;/f0&gt; или нажмите правой кнопкой мыши слайд в области слайдов и выберите в контекстном меню &lt;f1&gt;Мастер-слайд&lt;/f1&gt;, чтобы открыть диалоговое окно Дизайн слайда (Рисунок &lt;t2&gt;23&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Slide Show &gt; Custom Slide Show&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T182451Z" creationid="olex" creationdate="20181031T182451Z">
+        <seg>Выберите в меню &lt;f0&gt;Демонстрация слайдов &gt; Настраиваемая демонстрация...&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20720,6 +20744,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T083941Z" creationid="olex" creationdate="20180901T083941Z">
         <seg>&lt;f0&gt;Скрытие&lt;/f0&gt; и &lt;tc1/&gt;&lt;ts2/&gt;&lt;f3&gt;&lt;/f3&gt;&lt;te4/&gt;&lt;f5&gt;показ&lt;/f5&gt; листов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hidden slides are marked by a diagonal bars across the slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T182215Z" creationid="olex" creationdate="20181031T182215Z">
+        <seg>Скрытые слайды отмечаются диагональными полосами на слайде.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23054,6 +23086,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to create a custom slide show from the same presentation:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T182251Z" creationid="olex" creationdate="20181031T182251Z">
+        <seg>Если вы хотите создать собственное слайд-шоу на основе презентации:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to create a new document file, change the filename and/or file format, or save the file in a different location on your computer:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180917T211958Z" creationid="olex" creationdate="20180917T211958Z">
@@ -24084,6 +24124,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180917T213432Z" creationid="olex" creationdate="20180917T213432Z">
         <seg>В macOS – &lt;f0&gt;Command ⌘+Q&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In many situations, you may find that you have more slides than the time available to present them or you may want to provide a rapid overview without dwelling on the details.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T181746Z" creationid="olex" creationdate="20181031T181738Z">
+        <seg>Часто вы можете обнаружить, что у вас больше слайдов, чем времени на их показ, или вы можете предоставить более быстрый обзор, не останавливаясь на деталях.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31567,6 +31615,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rather than having to create a new presentation, you can use two tools that Impress offers: hiding slides and custom slide shows.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T182511Z" creationid="olex" creationdate="20181031T181830Z">
+        <seg>Вместо того, чтобы создавать новую презентацию, вы можете использовать два инструмента, которые предлагает Impress: скрытие слайдов и настраиваемая демонстрация слайдов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rather, they &lt;f0&gt;are designed to be &lt;/f0&gt;&lt;s1/&gt;attached to paragraph style&lt;f2&gt;s&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T165024Z" creationid="olex" creationdate="20180811T165024Z">
@@ -34256,6 +34312,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181014T174201Z" creationid="olex" creationdate="20181014T174201Z">
         <seg>Выберите на панели Слайды тот слайд, который вы хотите дублировать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the slide you want to hide in the Slide Pane or Slide Sorter view on the Workspace area.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T181957Z" creationid="olex" creationdate="20181031T181957Z">
+        <seg>Выберите слайд, который вы хотите скрыть, на панели Слайды или на рабочей области в режиме Сортировщик слайдов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the slides you want to use in your custom slide show.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T182550Z" creationid="olex" creationdate="20181031T182305Z">
+        <seg>Определите слайды, которые вы хотите использовать в своем пользовательском слайд-шоу.</seg>
       </tuv>
     </tu>
     <tu>
