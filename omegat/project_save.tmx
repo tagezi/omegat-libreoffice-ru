@@ -11216,8 +11216,8 @@
       <tuv lang="EN-US">
         <seg>Click on the New button to create a new sequence of slides and save it with a different name.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181031T182625Z" creationid="olex" creationdate="20181031T182544Z">
-        <seg>Нажмите кнопку Создать, чтобы создать новую последовательность слайдов и сохранить ее под другим именем.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T182946Z" creationid="olex" creationdate="20181031T182544Z">
+        <seg>Определите слайды, которые вы хотите использовать в своем пользовательском слайд-шоу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20101,8 +20101,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Slide Show &gt; Custom Slide Show&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181031T182451Z" creationid="olex" creationdate="20181031T182451Z">
-        <seg>Выберите в меню &lt;f0&gt;Демонстрация слайдов &gt; Настраиваемая демонстрация...&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T182953Z" creationid="olex" creationdate="20181031T182451Z">
+        <seg>Нажмите кнопку Создать, чтобы создать новую последовательность слайдов и сохранить ее под другим именем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34326,8 +34326,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Select the slides you want to use in your custom slide show.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181031T182550Z" creationid="olex" creationdate="20181031T182305Z">
-        <seg>Определите слайды, которые вы хотите использовать в своем пользовательском слайд-шоу.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T182959Z" creationid="olex" creationdate="20181031T182959Z">
+        <seg>Выберите в меню &lt;f0&gt;Демонстрация слайдов &gt; Настраиваемая демонстрация...&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49092,6 +49092,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can have as many slide shows as you want from a single presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T182723Z" creationid="olex" creationdate="20181031T182723Z">
+        <seg>Из одной презентации вы можете создавать столько слайд-шоу, сколько хотите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can help with the development and user support of LibreOffice in many ways, and you do not need to be a programmer.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T192118Z" creationid="tagezi" creationdate="20180310T192118Z">
@@ -52209,6 +52217,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180823T172737Z" creationid="olex" creationdate="20180823T172737Z">
         <seg>отслеживание изменений</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>transitions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T182816Z" creationid="olex" creationdate="20181031T182816Z">
+        <seg>переходы</seg>
       </tuv>
     </tu>
     <tu>
