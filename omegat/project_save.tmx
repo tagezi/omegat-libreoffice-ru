@@ -20099,6 +20099,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Slide &gt; Slide Transition&lt;/f0&gt; on the Menu bar or click on the Slide Transition icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;di4/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s5/&gt;on the Sidebar to open the options available for slide transitions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T184248Z" creationid="olex" creationdate="20181031T184248Z">
+        <seg>Выберите в меню &lt;f0&gt;Слайд &gt; Смена слайда&lt;/f0&gt; или нажмите значок Смена слайда &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;di4/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s5/&gt; на Боковой панели, чтобы открыть параметры, доступные для настройки переходов между слайдами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Slide Show &gt; Custom Slide Show&lt;/f0&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181031T182953Z" creationid="olex" creationdate="20181031T182451Z">
@@ -34323,11 +34331,12 @@ denkin: не понял? чего не видно?</note>
       </tuv>
     </tu>
     <tu>
+      <note>поменял порядок пунктов, поскольку в оригинале явное несоответствие, на практике: сперва необходимо создать Настраиваемую презентацию, а потом назначить слайды для нее</note>
       <tuv lang="EN-US">
         <seg>Select the slides you want to use in your custom slide show.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181031T182959Z" creationid="olex" creationdate="20181031T182959Z">
-        <seg>Выберите в меню &lt;f0&gt;Демонстрация слайдов &gt; Настраиваемая демонстрация...&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T183225Z" creationid="olex" creationdate="20181031T182959Z">
+        <seg>Выберите в меню Демонстрация слайдов &gt; Настраиваемая демонстрация....</seg>
       </tuv>
     </tu>
     <tu>
@@ -35193,6 +35202,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181011T181845Z" creationid="olex" creationdate="20181011T181845Z">
         <seg>Имена слайдов также не отображаются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slide transition is the animation that is played when a slide is changed for the next slide in your presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T183502Z" creationid="olex" creationdate="20181031T183502Z">
+        <seg>Переход слайда - это анимация, которая воспроизводится при переходе в презентации от одного слайда к другому слайда.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48760,6 +48777,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180911T201236Z" creationid="olex" creationdate="20180911T200643Z">
         <seg>Вы можете закрыть &lt;f0&gt;панель Слайды&lt;/f0&gt; или &lt;f1&gt;Боковую панель&lt;/f1&gt;, нажав значок &lt;f2&gt;X&lt;/f2&gt; в верхнем правом углу каждой панели или выбрав в меню &lt;f3&gt;Вид &gt; Панель слайдов&lt;/f3&gt; или &lt;f4&gt;Вид &gt; Боковая панель&lt;/f4&gt;, чтобы снять выделение с панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can configure the slide transition from the Slide Transition section in the Tasks Pane.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181031T183905Z" creationid="olex" creationdate="20181031T183905Z">
+        <seg>Вы можете настроить переход между слайдами во вкладке Смена слайда на Боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
