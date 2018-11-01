@@ -12162,6 +12162,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configuring the grid</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T201238Z" creationid="olex" creationdate="20181101T201238Z">
+        <seg>Настройка сетки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connecting the mobile device to the computer</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T200355Z" creationid="olex" creationdate="20180910T200355Z">
@@ -13574,6 +13582,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T195419Z" creationid="olex" creationdate="20180607T195419Z">
         <seg>Отображение или скрытие панелей инструментов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Displaying the grid</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T201226Z" creationid="olex" creationdate="20181101T201226Z">
+        <seg>Отображение сетки</seg>
       </tuv>
     </tu>
     <tu>
@@ -16255,6 +16271,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Rulers showing size of a selected object</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T202009Z" creationid="olex" creationdate="20181101T202009Z">
+        <seg>Рисунок &lt;seq0&gt;2&lt;/seq0&gt;: Линейки, показывающие размер выбранного объекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Setting general options for LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T162713Z" creationid="olex" creationdate="20180624T162713Z">
@@ -16507,6 +16531,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T160853Z" creationid="olex" creationdate="20180721T160853Z">
         <seg>Рисунок &lt;seq0&gt;3&lt;/seq0&gt;: Правая часть строки состояния</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Ruler units</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T202136Z" creationid="olex" creationdate="20181101T202136Z">
+        <seg>Рисунок &lt;seq0&gt;3&lt;/seq0&gt;: Единицы измерения линейки</seg>
       </tuv>
     </tu>
     <tu>
@@ -17917,7 +17949,7 @@ DONE</note>
       </tuv>
     </tu>
     <tu>
-      <note>denkin: позволил себе полносью переделать предложение, чтобы лучше передать смысл</note>
+      <note>denkin: позволил себе полностью переделать предложение, чтобы лучше передать смысл</note>
       <tuv lang="EN-US">
         <seg>For example, if you create an image in Draw, reusing it in a Writer document is as simple as copying and pasting the image.</seg>
       </tuv>
@@ -31030,6 +31062,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Permanent grouping</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T201313Z" creationid="olex" creationdate="20181101T201313Z">
+        <seg>Постоянная группировка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Personalization</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T152646Z" creationid="olex" creationdate="20180623T152646Z">
@@ -36587,6 +36627,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temporary grouping</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T201259Z" creationid="olex" creationdate="20181101T201259Z">
+        <seg>Временная группировка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Text</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T191852Z" creationid="olex" creationdate="20180326T191852Z">
@@ -39696,6 +39744,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rulers show the size of a selected object on the page using double lines (highlighted in Figure &lt;t2&gt;2&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T201920Z" creationid="olex" creationdate="20181101T201920Z">
+        <seg>Линейки показывают размер выбранного объекта на странице, двойными линиями (выделено на Рисунке &lt;t2&gt;2&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The screen can be split horizontally, vertically, or both, giving you up to four portions of the spreadsheet in view at any one time.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T165923Z" creationid="olex" creationdate="20180409T165826Z">
@@ -42532,6 +42588,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the measurement units of the rulers, which can be defined independently, right-click on a ruler and select the measurement unit from the drop down list, as illustrated for the horizontal ruler in Figure &lt;t0&gt;3&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T202118Z" creationid="olex" creationdate="20181101T202118Z">
+        <seg>Чтобы изменить единицы измерения линейки, которые могут быть определены независимо от настроек документа, нажмите правой кнопкой мыши на линейке и выберите единицы измерения из выпадающего списка, как показано для горизонтальной линейки на Рисунке &lt;t0&gt;3&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change the minimum number of characters for hyphenation, or the minimum number of characters before or after a line break, select the item, and then click the &lt;f0&gt;Edit&lt;/f0&gt; button in the Options section.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T105259Z" creationid="olex" creationdate="20180815T105259Z">
@@ -45302,6 +45366,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ungrouping</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T201334Z" creationid="olex" creationdate="20181101T201334Z">
+        <seg>Разгруппировка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unified Office Format presentation (.uop)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T065721Z" creationid="tagezi" creationdate="20180305T065721Z">
@@ -47434,8 +47506,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>When no object is selected, they show the location of the mouse pointer, which helps to position drawing objects more accurately.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180604T192042Z" creationid="olex" creationdate="20180604T192042Z">
-        <seg>Когда не выбрано ни одного объекта, они показывают местоположение указателя мыши, что помогает более точно позиционировать объекты чертежа.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T201935Z" creationid="olex" creationdate="20180604T192042Z">
+        <seg>Когда не выбрано ни одного объекта, то они показывают местоположение указателя мыши, что помогает более точно позиционировать объекты чертежа.</seg>
       </tuv>
     </tu>
     <tu>
