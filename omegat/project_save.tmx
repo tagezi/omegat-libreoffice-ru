@@ -11784,6 +11784,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the mouse to move to the next slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T192803Z" creationid="olex" creationdate="20181101T192729Z">
+        <seg>Щелкните мышью, чтобы перейти к следующему слайду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the slide and the slide is highlighted (Figure &lt;t0&gt;9&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T173952Z" creationid="olex" creationdate="20181013T173952Z">
@@ -16231,6 +16239,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Impress Presenter Console</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T193427Z" creationid="olex" creationdate="20181101T193427Z">
+        <seg>Рисунок &lt;seq0&gt;30&lt;/seq0&gt;: Консоль презентации Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: LibreOffice Safe Mode</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T185220Z" creationid="olex" creationdate="20180918T185220Z">
@@ -18490,6 +18506,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T192916Z" creationid="olex" creationdate="20180507T192916Z">
         <seg>Дополнительные сведения об использовании диапазонов печати смотрите в разделе &lt;f0&gt;Руководство по Calc Глава 6 Печать, экспорт и отправка по электронной почте&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information and details about using the Presenter Console, see the &lt;f0&gt;Impress Guide Chapter 9 Slide Shows&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T193408Z" creationid="olex" creationdate="20181101T193408Z">
+        <seg>Для получения дополнительной информации об использовании Консоли презентации смотрите &lt;f0&gt;Руководство по Impress, Главу 9, Демонстрация слайдов&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23455,6 +23479,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impress Remote is a mobile application developed by the community for Android and iOS systems that allows you to control a live presentation with a mobile device such as a phone or tablet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T193720Z" creationid="olex" creationdate="20181101T193720Z">
+        <seg>Impress Remote - это мобильное приложение, разработанное сообществом для Android и iOS, которое позволяет вам управлять живой презентацией с помощью мобильного устройства, такого как телефон или планшет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Impress also includes a spelling checker, a thesaurus, text styles, and background styles.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T200759Z" creationid="olex" creationdate="20180910T200759Z">
@@ -26312,6 +26344,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T202159Z" creationid="tagezi" creationdate="20180307T200051Z">
         <seg>Сертификация LibreOffice распространяется на членов FSF в 2017, с использованием тех же профессиональных предпосылок что и для членов TDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice Impress has a Presenter Console function that can be used when an extra display for presentation has been connected to your computer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T193029Z" creationid="olex" creationdate="20181101T193029Z">
+        <seg>LibreOffice Impress имеет функцию Консоль презентации, которая может использоваться, когда к вашему компьютеру подключен дополнительный дисплей для презентации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31287,6 +31327,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press the spacebar on the keyboard to advance to the next slide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T192743Z" creationid="olex" creationdate="20181101T192743Z">
+        <seg>Нажмите клавишу пробела на клавиатуре, чтобы перейти к следующему слайду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pressing &lt;f1&gt;Shift+Tab&lt;/f1&gt; moves the focus to the left in a row to the previous column.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T195054Z" creationid="olex" creationdate="20180402T195054Z">
@@ -32260,6 +32308,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T130329Z" creationid="olex" creationdate="20180818T130329Z">
         <seg>Щелкните правой кнопкой мыши в любом месте области текста на странице и выберите в контекстном меню &lt;f0&gt;Страница...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-click anywhere on the screen to open a context menu where you can navigate through the slides and set other options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T192844Z" creationid="olex" creationdate="20181101T192844Z">
+        <seg>Нажмите правой кнопкой мыши в любом месте экрана, чтобы открыть контекстное меню, в котором вы можете перемещаться по слайдам и устанавливать другие параметры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37300,6 +37356,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Presenter Console (Figure &lt;t0&gt;30&lt;/t0&gt;) provides extra control over slide shows by using different views on your computer display and on the display that the audience sees.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T193205Z" creationid="olex" creationdate="20181101T193205Z">
+        <seg>Консоль презентации (Рисунок &lt;t0&gt;30&lt;/t0&gt;) обеспечивает дополнительный контроль над слайд-шоу, используя разные отображения на экране вашего компьютера и на дисплее, который видит аудитория.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Print dialog also has options for placing comments at the end of the page or at the end of the document, or for printing only the comments.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T182917Z" creationid="olex" creationdate="20181001T182917Z">
@@ -39839,6 +39903,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T114820Z" creationid="tagezi" creationdate="20180315T114627Z">
         <seg>Эти значения называются аргументами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The view you see on your computer display includes the current slide, the upcoming slide, any slide notes, and a presentation timer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T193225Z" creationid="olex" creationdate="20181101T193225Z">
+        <seg>Вид, который вы видите на экране вашего компьютера, включает текущий слайд, предстоящий слайд, любые слайд-заметки и таймер презентации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42883,6 +42955,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180924T175147Z" creationid="olex" creationdate="20180924T175147Z">
         <seg>Чтобы выйти из режима Во весь экран и вернуться к Обычному виду, нажмите клавишу &lt;f0&gt;Esc&lt;/f0&gt; или нажмите кнопку Во весь экран на плавающей панели инструментов в верхнем&lt;bs1/&gt; левом углу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To exit the slide show at any time including when the slide show has ended, press the &lt;f0&gt;Esc&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T192931Z" creationid="olex" creationdate="20181101T192931Z">
+        <seg>Чтобы выйти из режима демонстрации в любое время, в том числе, когда слайд-шоу закончилось, нажмите клавишу &lt;f0&gt;Esc&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
