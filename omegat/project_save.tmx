@@ -4723,6 +4723,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0&gt;34&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Inserting comments in a drawing&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T200433Z" creationid="olex" creationdate="20181101T200433Z">
+        <seg>&lt;t0&gt;34&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Вставка комментариев в рисунок&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0&gt;38&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 4 Getting Started with Writer&lt;/t4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T180818Z" creationid="olex" creationdate="20180828T180818Z">
@@ -4991,6 +4999,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T144741Z" creationid="olex" creationdate="20180603T144741Z">
         <seg>&lt;t0&gt;Вставка и редактирование изображений&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;33&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t0&gt;Inserting comments in a drawing&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;35&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T200408Z" creationid="olex" creationdate="20181101T200408Z">
+        <seg>&lt;t0&gt;Вставка комментариев в рисунок&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;35&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12754,6 +12770,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Curves</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T200743Z" creationid="olex" creationdate="20181101T200743Z">
+        <seg>Кривые</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom Animation</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T080048Z" creationid="olex" creationdate="20180915T080048Z">
@@ -13818,6 +13842,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double-tap the slide thumbnail or use the phone’s physical volume down button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195957Z" creationid="olex" creationdate="20181101T195957Z">
+        <seg>Дважды нажмите миниатюру слайда или используйте аппаратную кнопку уменьшения громкости телефона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Down arrow moves a list entry down in the list order.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181019T185352Z" creationid="olex" creationdate="20181019T185352Z">
@@ -14046,8 +14078,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Drawing curves or polygons</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180603T151849Z" creationid="olex" creationdate="20180603T151849Z">
-        <seg>Hисования кривых или многоугольников</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T200728Z" creationid="olex" creationdate="20180603T151849Z">
+        <seg>Рисования кривых или многоугольников</seg>
       </tuv>
     </tu>
     <tu>
@@ -14064,6 +14096,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T150721Z" creationid="olex" creationdate="20180603T150721Z">
         <seg>Рисование прямоугольников или квадратов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drawing toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T200644Z" creationid="olex" creationdate="20181101T200644Z">
+        <seg>Панель инструментов Рисование</seg>
       </tuv>
     </tu>
     <tu>
@@ -19410,6 +19450,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T205148Z" creationid="lera" creationdate="20180303T205148Z">
         <seg>Свобода перераспределять программное обеспечение бесплатно или за определенную плату.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freeform lines</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T201150Z" creationid="olex" creationdate="20181101T201150Z">
+        <seg>Линии произвольной формы</seg>
       </tuv>
     </tu>
     <tu>
@@ -30509,6 +30557,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Options toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T200712Z" creationid="olex" creationdate="20181101T200712Z">
+        <seg>Панель инструментов Параметры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Or</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181014T175731Z" creationid="olex" creationdate="20181014T175731Z">
@@ -31106,6 +31162,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T193217Z" creationid="olex" creationdate="20180313T193217Z">
         <seg>Наведите указатель на &lt;f0&gt;Восстановить шаблон по умолчанию&lt;/f0&gt; и в раскрывшемся меню нажмите &lt;f1&gt;Текстовый документ&lt;/f1&gt; (или другой тип шаблона, который надо восстановить).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Polygons</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T200844Z" creationid="olex" creationdate="20181101T200844Z">
+        <seg>Многоугольники</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Polygons 45°</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T200854Z" creationid="olex" creationdate="20181101T200854Z">
+        <seg>Многоугольники 45°</seg>
       </tuv>
     </tu>
     <tu>
@@ -36017,6 +36089,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Standard toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T200612Z" creationid="olex" creationdate="20181101T200612Z">
+        <seg>Панель инструментов Стандартная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>StarCalc formats (.sdc and .vor)&lt;br9/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T071419Z" creationid="tagezi" creationdate="20180304T153736Z">
@@ -36239,6 +36319,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T182034Z" creationid="olex" creationdate="20180809T182034Z">
         <seg>Верхний индекс, Нижний индекс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swipe left to go to the next slide, or swipe right to go backwards.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T200103Z" creationid="olex" creationdate="20181101T200103Z">
+        <seg>Проведите пальцем влево, чтобы перейти к следующему слайду, или проведите пальцем вправо, чтобы вернуться назад.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38016,6 +38104,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T094925Z" creationid="tagezi" creationdate="20180311T094925Z">
         <seg>Авторы той книги:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The contributors to that chapter and previous revisions are:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T200529Z" creationid="olex" creationdate="20181101T200529Z">
+        <seg>Авторы этой главы и предыдущих версий:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42045,8 +42141,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To advance the presentation</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195815Z" creationid="olex" creationdate="20181101T195815Z">
-        <seg>Чтобы перемещаться по презентации</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195922Z" creationid="olex" creationdate="20181101T195815Z">
+        <seg>Чтобы перемещаться вперед по презентации</seg>
       </tuv>
     </tu>
     <tu>
@@ -43055,6 +43151,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To end the presentation, use the Back button of the phone, or open the menu and select &lt;f0&gt;Stop slide show&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T200153Z" creationid="olex" creationdate="20181101T200153Z">
+        <seg>Чтобы завершить презентацию, используйте кнопку Назад на телефоне или откройте меню и выберите &lt;f0&gt;Остановить демонстрацию слайдов&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To enter a negative number, either type a minus (–) sign in front of the number or enclose the number in parentheses (), for example (1234).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T180108Z" creationid="olex" creationdate="20180411T180108Z">
@@ -43227,6 +43331,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T195057Z" creationid="olex" creationdate="20180316T195057Z">
         <seg>Чтобы вернуться к книжному стилю страницы, вставьте другой разрыв страницы и выберите для вашего документа стиль страницы по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To go backwards</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195932Z" creationid="olex" creationdate="20181101T195932Z">
+        <seg>тобы вернуться назад</seg>
       </tuv>
     </tu>
     <tu>
@@ -44437,6 +44549,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T160116Z" creationid="olex" creationdate="20180722T160116Z">
         <seg>Чтобы подписать документ или просмотреть сертификат, щелкните значок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To skip slide animations and transitions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T200045Z" creationid="olex" creationdate="20181101T200045Z">
+        <seg>Чтобы отменить анимацию слайдов и переходов</seg>
       </tuv>
     </tu>
     <tu>
