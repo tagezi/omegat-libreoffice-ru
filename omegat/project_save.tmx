@@ -16295,6 +16295,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: LibreOffice &lt;s1/&gt;settings for Impress remote control</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195102Z" creationid="olex" creationdate="20181101T195102Z">
+        <seg>Рисунок &lt;seq0&gt;31&lt;/seq0&gt;: LibreOffice &lt;s1/&gt;настройки для дистанционного управления в Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: LibreOffice Safe Mode</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T111813Z" creationid="olex" creationdate="20180715T111813Z">
@@ -16311,10 +16319,34 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: Bluetooth visible device</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195509Z" creationid="olex" creationdate="20181101T195509Z">
+        <seg>Рисунок &lt;seq0&gt;32&lt;/seq0&gt;: Видимые устройства Bluetooth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Impress presentation as seen in mobile device</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195551Z" creationid="olex" creationdate="20181101T195551Z">
+        <seg>Рисунок &lt;seq0&gt;33&lt;/seq0&gt;: Как презентация Impress выглядит на мобильном устройстве</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Theme Selection dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T184232Z" creationid="olex" creationdate="20180430T184232Z">
         <seg>Рисунок &lt;seq0&gt;33&lt;/seq0&gt;: Диалоговое окно Выбор тем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: All slides</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195607Z" creationid="olex" creationdate="20181101T195607Z">
+        <seg>Рисунок &lt;seq0&gt;34&lt;/seq0&gt;: Все слайды</seg>
       </tuv>
     </tu>
     <tu>
@@ -29442,6 +29474,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On both devices, make sure Bluetooth is already enabled and configured.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195257Z" creationid="olex" creationdate="20181101T195222Z">
+        <seg>Убедитесь, что Bluetooth уже включен и настроен на обоих устройствах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On completion, the dispatcher variable contains a reference to a DispatchHelper.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153356Z" creationid="tagezi" creationdate="20180318T153356Z">
@@ -29788,6 +29828,22 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On your computer, open the presentation you would like to present.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195254Z" creationid="olex" creationdate="20181101T195254Z">
+        <seg>Откройте презентацию, которую вы хотели бы представить на своем компьютере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On your phone:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195307Z" creationid="olex" creationdate="20181101T195307Z">
+        <seg>На вашем телефоне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once the connection is defined, click &lt;f0&gt;OK&lt;/f0&gt; to connect.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T181600Z" creationid="olex" creationdate="20180619T181550Z">
@@ -29945,6 +30001,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T132337Z" creationid="tagezi" creationdate="20180313T132337Z">
         <seg>Откройте &lt;i0/&gt;контейнер библиотек &lt;f1&gt;Мои макросы&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Impress Remote from the main menu (Figure &lt;t0&gt;32&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195330Z" creationid="olex" creationdate="20181101T195330Z">
+        <seg>Откройте Impress Remote из главного меню (Рисунок &lt;t0&gt;32&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32594,8 +32658,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Running a slide show with Impress Remote</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181010T185304Z" creationid="olex" creationdate="20181010T185304Z">
-        <seg>Запуск слайд-шоу с помощью Impress Remote</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195120Z" creationid="olex" creationdate="20181010T185304Z">
+        <seg>Запуск демонстрации слайдов с помощью Impress Remote</seg>
       </tuv>
     </tu>
     <tu>
@@ -36395,6 +36459,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tap the slide thumbnail or use the phone’s physical volume up button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195901Z" creationid="olex" creationdate="20181101T195901Z">
+        <seg>Нажмите миниатюру слайда или используйте аппаратную кнопку увеличения громкости телефона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Technical details about the release can be found in the change logs: &lt;a0&gt;https://wiki.documentfoundation.org/Releases/5.4.6/RC1&lt;/a0&gt; (fixed in RC1) and &lt;a1&gt;https://wiki.documentfoundation.org/Releases/5.4.6/RC2&lt;/a1&gt; (fixed in RC2).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T052056Z" creationid="tagezi" creationdate="20180321T052056Z">
@@ -39344,6 +39416,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The presentation opened on the computer begins automatically (Figures &lt;t0&gt;33&lt;/t0&gt;&lt;s1/&gt;and &lt;t2&gt;34&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195441Z" creationid="olex" creationdate="20181101T195441Z">
+        <seg>Демонстрация презентации, открытой на компьютере, начнется автоматически (Рисунок &lt;t0&gt;33&lt;/t0&gt;&lt;s1/&gt;и &lt;t2&gt;34&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The primary offender is related to the dispatch framework and its relationship to the macro recorder.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T172845Z" creationid="tagezi" creationdate="20180319T172845Z">
@@ -41963,6 +42043,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To advance the presentation</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195815Z" creationid="olex" creationdate="20181101T195815Z">
+        <seg>Чтобы перемещаться по презентации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To also identify potential grammar problems, check the &lt;f2&gt;Check grammar&lt;/f2&gt; box.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180927T173516Z" creationid="olex" creationdate="20180927T173516Z">
@@ -44017,6 +44105,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To run a slide show using Impress Remote, follow these steps:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195146Z" creationid="olex" creationdate="20181101T195146Z">
+        <seg>Чтобы запустить демонстрацию слайдов с помощью Impress Remote, выполните следующие действия:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To run a slide show, do one of the following:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181101T191714Z" creationid="olex" creationdate="20181101T191714Z">
@@ -44213,6 +44309,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T181028Z" creationid="olex" creationdate="20180508T181028Z">
         <seg>Чтобы выбрать параметры печати, &lt;i0/&gt;порядок страниц, детали и масштаб, которые будут использоваться при печати электронной таблицы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To select your computer, tap its name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195349Z" creationid="olex" creationdate="20181101T195349Z">
+        <seg>Чтобы выбрать свой компьютер, коснитесь его имени.</seg>
       </tuv>
     </tu>
     <tu>
