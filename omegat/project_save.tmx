@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Refer to the manuals for your mobile device and computer operating system for instructions on enabling, setting up a Bluetooth identifier, and pairing.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T194537Z" creationid="olex" creationdate="20181101T194537Z">
+        <seg>(Инструкции по включению, настройке идентификатора Bluetooth и соединения смотрите в руководствах для вашего мобильного устройства и операционной системы компьютера.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You can change the sequence and remove or insert images later, as you can with any slides.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181029T193233Z" creationid="olex" creationdate="20181029T193233Z">
@@ -6397,6 +6405,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activate Bluetooth on both devices, then pair the devices.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T194621Z" creationid="olex" creationdate="20181101T194455Z">
+        <seg>Включите Bluetooth на обоих устройствах, затем соедините устройства между собой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Activating Quickstarter</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T195022Z" creationid="olex" creationdate="20180607T195022Z">
@@ -7485,6 +7501,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T182404Z" creationid="olex" creationdate="20180611T182404Z">
         <seg>Файлы Excel (*.xls или *.xlsx) откроются в Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An Impress slide show with remote control is not enabled by default.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T194829Z" creationid="olex" creationdate="20181101T194829Z">
+        <seg>Демонстрация слайдов в Impress с помощью дистанционного управления не включена по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29780,6 +29804,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once the pairing is established, your mobile device is ready to control your presentation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T194733Z" creationid="olex" creationdate="20181101T194733Z">
+        <seg>После установления соединения ваше мобильное устройство будет готово управлять вашей презентацией.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once you have created the macro in the LibreOffice Basic IDE, it appears in the source text of the HTML document in the header.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T193505Z" creationid="olex" creationdate="20180711T193505Z">
@@ -32757,6 +32789,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T181958Z" creationid="olex" creationdate="20180628T181958Z">
         <seg>Флажок Экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search for “Impress Remote” and select the one that is from The Document Foundation and install it in your device.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T194340Z" creationid="olex" creationdate="20181101T194340Z">
+        <seg>Ищите приложение «Impress Remote» и выберите то, которое от Document Foundation, и установите его на свое устройство.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37884,6 +37924,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The connection between your mobile device and the computer running your presentation is made through a Bluetooth pairing or a local network connection between the two.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T193822Z" creationid="olex" creationdate="20181101T193822Z">
+        <seg>Связь между вашим мобильным устройством и компьютером, на котором выполняется презентация, осуществляется через Bluetooth-соединение или через соединение по локальной сети.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The contributors to that appendix are:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T152626Z" creationid="lera" creationdate="20180303T152626Z">
@@ -42895,6 +42943,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To enable it, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Impress &gt; General&lt;/f0&gt; and select &lt;f1&gt;Enable Remote Control&lt;/f1&gt; checkbox in the Presentation area of the dialog (Figure &lt;t2&gt;31&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T195031Z" creationid="olex" creationdate="20181101T195031Z">
+        <seg>Чтобы включить его, выберите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice Impress &gt; Общие&lt;/f0&gt; и установите флажок &lt;f1&gt;Включить дистанционное управление&lt;/f1&gt; в области Презентация диалогового окна (Рисунок &lt;t2&gt;31&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To enable it, select MediaWiki in the Internet options, then click the &lt;f0&gt;Add&lt;/f0&gt; button to open the dialog shown in Figure &lt;t1&gt;29&lt;/t1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T184822Z" creationid="olex" creationdate="20180918T184733Z">
@@ -43067,6 +43123,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T191220Z" creationid="olex" creationdate="20180507T191220Z">
         <seg>Чтобы получить быстрое визуальное представление данных, содержащихся в сводной таблице, можно сгенерировать диаграмму &lt;f0&gt;Сводная диаграмма&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To get the software, access your mobile device application store, either Google Play Store for Android devices or Apple Store for IOs devices.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T193857Z" creationid="olex" creationdate="20181101T193857Z">
+        <seg>Чтобы получить программное обеспечение, обратитесь в магазин приложений для мобильных устройств либо в Google Play Store для устройств Android, либо в Apple Store для устройств с IOs.</seg>
       </tuv>
     </tu>
     <tu>
