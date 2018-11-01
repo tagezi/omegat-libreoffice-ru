@@ -10750,6 +10750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Slide Show &gt; Start from first Slide&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T191847Z" creationid="olex" creationdate="20181101T191847Z">
+        <seg>Выберите в меню &lt;f0&gt;Демонстрация &gt; Демонстрация с первого слайда&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Stop Recording&lt;/f0&gt; on the small Recording dialog to stop recording &lt;i1/&gt;and the LibreOffice Basic Macros dialog opens (Figure &lt;t2&gt;1&lt;/t2&gt; on page &lt;t3&gt;5&lt;/t3&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060605Z" creationid="tagezi" creationdate="20180313T120301Z">
@@ -11627,6 +11635,15 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180917T211609Z" creationid="olex" creationdate="20180917T211609Z">
         <seg>Нажмите значок &lt;f0&gt;Сохранить&lt;/f0&gt; на панели инструментов Стандартная.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>В оригинале видимо ошибка в названии панели </note>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Start from first Slide&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;di3/&gt;&lt;/df1&gt;&lt;s4/&gt;on the Presentation toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T192203Z" creationid="olex" creationdate="20181101T191918Z">
+        <seg>Нажмите значок &lt;f0&gt;Демонстрация с первого слайда&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;di3/&gt;&lt;/df1&gt;&lt;s4/&gt;на панели инструментов Стандартная.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22180,6 +22197,22 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the slide advance is set to &lt;f0&gt;Automatically after X sec&lt;/f0&gt;, let the slide show run by itself.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T192408Z" creationid="olex" creationdate="20181101T192408Z">
+        <seg>Если для смены слайда установлено значение &lt;f0&gt;Автоматически через X с&lt;/f0&gt;, то демонстрация слайдов выполняется сама по себе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the slide advance is set to &lt;f0&gt;On mouse click&lt;/f0&gt;, do one of the following to move from one slide to the next:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T192548Z" creationid="olex" creationdate="20181101T192533Z">
+        <seg>Если установлено &lt;f0&gt;По щелчку мыши&lt;/f0&gt;, выполняйте одно из следующих действий, для перехода от слайда к слайду:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the slide master was not used in the presentation, it is removed from the list of available slide masters.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181025T185904Z" creationid="olex" creationdate="20181025T185904Z">
@@ -31097,6 +31130,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T180752Z" creationid="olex" creationdate="20180730T180752Z">
         <seg>Нажмите клавишу &lt;f0&gt;Esc&lt;/f0&gt; чтобы выйти из этого режима.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press &lt;f0&gt;F5&lt;/f0&gt; on the keyboard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T192223Z" creationid="olex" creationdate="20181101T192223Z">
+        <seg>Нажмите клавишу &lt;f0&gt;F5&lt;/f0&gt; на клавиатуре.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43832,6 +43873,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To run a slide show, do one of the following:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T191714Z" creationid="olex" creationdate="20181101T191714Z">
+        <seg>Чтобы запустить демонстрацию слайдов, выполните одно из следующих действий:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To save a document if you are keeping the document’s current filename and location, do one of the following:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T182653Z" creationid="olex" creationdate="20180617T182653Z">
@@ -45357,6 +45406,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T102315Z" creationid="olex" creationdate="20180715T102315Z">
         <seg>Используйте страницу Прокси (если она доступна), чтобы сохранить настройки прокси для использования в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the arrow keys on the keyboard to go to the next slide or to go back to the previous one.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181101T192640Z" creationid="olex" creationdate="20181101T192640Z">
+        <seg>Используйте клавиши со стрелками на клавиатуре, чтобы переходить к следующему слайду или возвращаться к предыдущему.</seg>
       </tuv>
     </tu>
     <tu>
