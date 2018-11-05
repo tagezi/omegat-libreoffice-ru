@@ -1186,6 +1186,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Controls&lt;/f0&gt;: This layer is always on the top of any other.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T184443Z" creationid="olex" creationdate="20181105T184443Z">
+        <seg>&lt;f0&gt;Элементы управления&lt;/f0&gt;: этот слой всегда находится выше любого другого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Copy&lt;/f0&gt; – copies the selected slide to the clipboard without removing it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T180200Z" creationid="olex" creationdate="20181013T180124Z">
@@ -2162,6 +2170,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T190539Z" creationid="olex" creationdate="20180330T190539Z">
         <seg>&lt;f0&gt;Язык&lt;/f0&gt; – определяет, как будут импортироваться числовые строки.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Layout&lt;/f0&gt;: Here you place title, text, and object placeholders on your page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T184213Z" creationid="olex" creationdate="20181105T184131Z">
+        <seg>&lt;f0&gt;Разметка&lt;/f0&gt;: здесь вы помещаете заголовки, текст и объекты на странице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5459,6 +5475,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Draw document contains three default layers that you cannot delete or rename.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T184033Z" creationid="olex" creationdate="20181105T184033Z">
+        <seg>Рисунок Draw по умолчанию содержит три слоя, которые нельзя удалить или переименовать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A LibreOffice document contains certain settings that are read from the user’s system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180706T175747Z" creationid="olex" creationdate="20180706T175708Z">
@@ -5823,6 +5847,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T180703Z" creationid="olex" creationdate="20180712T180703Z">
         <seg>Раскладка клавиатуры обычно основана на языке, используемом операционной системой, но может быть изменена пользователем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A layer can be set to visible or hidden, it can be printable or not.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T183914Z" creationid="olex" creationdate="20181105T183914Z">
+        <seg>Слой можно сделать видимым или скрытым, его можно печатать или нет.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20933,6 +20965,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here are the common ways of using them:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T184046Z" creationid="olex" creationdate="20181105T184046Z">
+        <seg>Вот общие способы их использования:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here is one common &lt;ts12/&gt;&lt;f13&gt;way to use fields &lt;/f13&gt;&lt;te14/&gt;&lt;tc15/&gt;&lt;tc16/&gt;&lt;ts17/&gt;&lt;f18&gt;t&lt;/f18&gt;&lt;te19/&gt;o insert the document title into the header:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T192802Z" creationid="olex" creationdate="20180817T192448Z">
@@ -26400,6 +26440,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180823T173803Z" creationid="olex" creationdate="20180823T173803Z">
         <seg>Позже вы или другое лицо можете просмотреть и принять или отклонить каждое изменение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Layers are common to all pages of the drawing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T183938Z" creationid="olex" creationdate="20181105T183938Z">
+        <seg>Слои являются общими для всех страниц рисунка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38148,6 +38196,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The area of a layer that does not contain an object is transparent.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T183722Z" creationid="olex" creationdate="20181105T183722Z">
+        <seg>Область слоя, которая не содержит объектов, прозрачна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The background does not show when printed and can be turned off in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Application Colors&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T175239Z" creationid="olex" creationdate="20181001T175239Z">
@@ -45946,6 +46002,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use layers to create a complex drawing by stacking simpler drawings in each layer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T183700Z" creationid="olex" creationdate="20181105T183700Z">
+        <seg>Используйте слои для создания сложного рисунка, размещая более простые рисунки на разных уровнях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use numbers, dates or times.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T144926Z" creationid="olex" creationdate="20180414T144926Z">
@@ -48942,6 +49006,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T172858Z" creationid="olex" creationdate="20180809T172858Z">
         <seg>Вы можете &lt;f0&gt;вручную&lt;/f0&gt; применять разное &lt;f1&gt;прямое&lt;/f1&gt; форматирование к абзацам, используя кнопки на панели инструментов Форматирование и используя панель Абзац на вкладке Свойства Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can add any number of layers in a drawing document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T183754Z" creationid="olex" creationdate="20181105T183754Z">
+        <seg>Вы можете добавить любое количество слоев в рисунок Draw.</seg>
       </tuv>
     </tu>
     <tu>
