@@ -9118,6 +9118,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, it is docked vertically on the left side of the Draw window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T182017Z" creationid="olex" creationdate="20181105T182017Z">
+        <seg>По умолчанию она закреплена вертикально в левой части окна Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, it is located just under the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T181552Z" creationid="olex" creationdate="20181105T181552Z">
+        <seg>По умолчанию она находится под панелью меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, numbers are right aligned in a cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180524T182739Z" creationid="olex" creationdate="20180409T174053Z">
@@ -18558,6 +18574,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more about working with toolbars, see Chapter 1, Introducing LibreOffice, in this guide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T181155Z" creationid="olex" creationdate="20181105T181155Z">
+        <seg>Подробнее о работе с панелями инструментов смотрите в Главе 1, Введение в LibreOffice, этого руководства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more about zoom, see &lt;f1&gt;Chapter 1 Introducing LibreOffice&lt;/f1&gt; in this guide.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180523T185708Z" creationid="olex" creationdate="20180409T162925Z">
@@ -25727,6 +25751,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180714T074230Z" creationid="olex" creationdate="20180714T074230Z">
         <seg>Он проверяет количество пробелов между словами, указывая экземпляры двойных или тройных пробелов, но не больше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It contains all the necessary functions for drawing various geometric and freehand shapes and for organizing them on the page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T181809Z" creationid="olex" creationdate="20181105T181757Z">
+        <seg>Она содержит все необходимые функции для рисования различных геометрических и произвольных фигур и для их размещения на странице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36867,6 +36899,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Drawing&lt;/f0&gt; toolbar is the most important toolbar in &lt;f1&gt;Draw&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T181710Z" creationid="olex" creationdate="20181105T181710Z">
+        <seg>Панель инструментов &lt;f0&gt;Рисование&lt;/f0&gt; это самая важная панель в &lt;f1&gt;Draw&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;f0&gt;Format&lt;/f0&gt; menu also contains a quick access to direct text formatting in cells (Figure &lt;f1&gt;&lt;t2&gt;31&lt;/t2&gt;&lt;/f1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181009T175531Z" creationid="olex" creationdate="20181009T175531Z">
@@ -36944,6 +36984,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T073149Z" creationid="olex" creationdate="20180915T073149Z">
         <seg>Панель &lt;f0&gt;Слайды&lt;/f0&gt; содержит миниатюрные изображения слайдов презентации в том порядке, в котором они будут показаны, если вы не измените их порядок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Standard&lt;/f0&gt; toolbar is the same for all LibreOffice components and is not described in detail in this chapter.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T181513Z" creationid="olex" creationdate="20181105T181513Z">
+        <seg>Панель инструментов &lt;f0&gt;Стандартная&lt;/f0&gt; одинакова во всех модулях LibreOffice не описывается и подробно в этой главе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38008,6 +38056,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T183318Z" creationid="olex" creationdate="20180411T183318Z">
         <seg>Апостроф автоматически скроется, ведущие нули сохранятся, но число преобразуется в текст и выравнивается влево.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The appearance of the toolbar icons may vary depending on your operating system and the selection of icon size and style in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T181405Z" creationid="olex" creationdate="20181105T181405Z">
+        <seg>Внешний вид значков на панелях инструментов может меняться в зависимости от вашей операционной системы и выбора размеров и стиля значков в &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Вид&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40150,6 +40206,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T181217Z" creationid="olex" creationdate="20180615T181217Z">
         <seg>Панель инструментов можно закрепить в новом положении сверху, сбоку или внизу главного окна или оставить как плавающую панель инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tools available in the Draw toolbars are described below.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T181227Z" creationid="olex" creationdate="20181105T181227Z">
+        <seg>Инструменты, доступные в панелях инструментов Draw, описаны ниже.</seg>
       </tuv>
     </tu>
     <tu>
