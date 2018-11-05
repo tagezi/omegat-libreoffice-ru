@@ -16616,6 +16616,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Draw status bar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T180432Z" creationid="olex" creationdate="20181105T180432Z">
+        <seg>Рисунок &lt;seq0&gt;4&lt;/seq0&gt;: Строка состояние Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Font list (Left) with preview; (Right) without preview</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T175619Z" creationid="olex" creationdate="20180627T175619Z">
@@ -17722,6 +17730,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T084238Z" creationid="olex" creationdate="20180915T084238Z">
         <seg>Подробнее о содержании и использовании этих полей смотрите в разделе &lt;f2&gt;Глава 1, Введение в LibreOffice&lt;/f2&gt; в этом руководстве и в &lt;f3&gt;Руководстве по Impress, Глава 1, Введение в Impress&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For details on the contents and use of these fields, see Chapter 1, Introducing LibreOffice, in this guide and Chapter 1, Introducing Draw, in the &lt;f0&gt;Draw Guide.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T180412Z" creationid="olex" creationdate="20181105T180412Z">
+        <seg>Подробнее о содержании и использовании этих полей смотрите в Главе 1 Введение в LibreOffice этого руководства в Главе 1 Введение в Draw в &lt;f0&gt;Руководстве по Draw&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25771,6 +25787,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It includes several Draw-specific fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T180156Z" creationid="olex" creationdate="20181105T180156Z">
+        <seg>Она включает в себя несколько специфичных для Draw полей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It initially shows the number of the current page and the number of pages in the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180924T181128Z" creationid="olex" creationdate="20180924T181128Z">
@@ -29880,6 +29904,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T201645Z" creationid="olex" creationdate="20180817T201645Z">
         <seg>На вкладке Положение на странице диалогового окна Абзац (Рисунок &lt;t0&gt;21&lt;/t0&gt;&lt;s1/&gt;на странице &lt;t2&gt;30&lt;/t2&gt;) в разделе &lt;f3&gt;Разрывы&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the View menu, select which toolbars you want to display.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T181055Z" creationid="olex" creationdate="20181105T181055Z">
+        <seg>Там выберите панели инструментов, которые вы хотите отобразить.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37756,6 +37788,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Status bar is located at the bottom of the workspace in all LibreOffice components.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T180105Z" creationid="olex" creationdate="20181105T180105Z">
+        <seg>Строка состояния расположена в нижней части рабочей области во всех компонентах LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Style dialog displayed depends on the type of style selected.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T180505Z" creationid="olex" creationdate="20180308T180505Z">
@@ -39183,6 +39223,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The measurement unit on the Status bar is defined in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; General&lt;/f0&gt;, where you can also change the scale of the page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T180907Z" creationid="olex" creationdate="20181105T180907Z">
+        <seg>Единица измерения в строке состояния определена в &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice Draw &gt; Общие&lt;/f0&gt;, также можно изменить масштаб рисунка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The menus and toolbars are described in Chapter 1, Introducing LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T160618Z" creationid="olex" creationdate="20180721T160618Z">
@@ -39861,6 +39909,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T084612Z" creationid="olex" creationdate="20180915T084612Z">
         <seg>Размеры указаны в текущих единицах измерения (не путать с единицами измерения линеек).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sizes are given in the current measurement unit.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T180605Z" creationid="olex" creationdate="20181105T180605Z">
+        <seg>Размеры указаны в текущих единицах измерения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40882,6 +40938,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T135634Z" creationid="olex" creationdate="20180414T135634Z">
         <seg>Эти инструменты: заполнение, списки выбора и возможность ввода информации на нескольких листах одновременно для одного и того же документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They might not be the same as the ruler units.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T180701Z" creationid="olex" creationdate="20181105T180701Z">
+        <seg>Они могут отличаться от единиц измерения на линейках.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43043,6 +43107,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180921T203038Z" creationid="olex" creationdate="20180921T203038Z">
         <seg>Чтобы отобразить расширенную статистику, например такую как количество символов, без учета пробелов, дважды щелкните по количеству слов в строке состояния или выберите в меню &lt;f0&gt;Сервис &gt; Количество слов...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To display or hide the various &lt;i0/&gt;Draw toolbars&lt;i1/&gt;, go to &lt;f2&gt;View &gt; Toolbars&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T181021Z" creationid="olex" creationdate="20181105T181021Z">
+        <seg>Чтобы отобразить или скрыть различные панели инструментов в &lt;i0/&gt;Draw&lt;i1/&gt;, выберите в меню &lt;f2&gt;Вид &gt; Панели инструментов&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
