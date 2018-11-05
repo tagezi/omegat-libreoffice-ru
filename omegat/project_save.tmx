@@ -9174,6 +9174,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, the Line and Filling toolbar is not shown, but you can display it from the &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T182831Z" creationid="olex" creationdate="20181105T182831Z">
+        <seg>По умолчанию панель инструментов Линия и заливка не отображается, но вы можете отобразить ее, выбрав в меню &lt;f0&gt;Вид &gt; Панели инструментов&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, the Options toolbar is not shown, but you can display it from the &lt;f1&gt;View &gt; Toolbars&lt;/f1&gt; menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T183525Z" creationid="olex" creationdate="20181105T183525Z">
+        <seg>Панель инструментов «Параметры» не отображается по умолчанию, но вы можете отобразить ее, выбрав в меню &lt;f1&gt;Вид &gt; Панели инструментов&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, the Text Formatting toolbar is not shown, but you can display it from the &lt;f1&gt;View &gt; Toolbars&lt;/f1&gt; menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T183230Z" creationid="olex" creationdate="20181105T183230Z">
+        <seg>Панель инструментов Форматирование текста не отображается по умолчанию, но вы можете отобразить ее, выбрав в меню &lt;f1&gt;Вид &gt; Панели инструментов&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, the name for each new sheet added is &lt;f0&gt;Sheet&lt;/f0&gt;X, where &lt;f1&gt;X&lt;/f1&gt; is the number of the next sheet to be added.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T161134Z" creationid="olex" creationdate="20180409T161036Z">
@@ -18151,6 +18175,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, to change the style of a line, click on the up and down arrows for Line Style and select the required style.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T182530Z" creationid="olex" creationdate="20181105T182530Z">
+        <seg>Например, чтобы изменить стиль линии, нажмите стрелки вверх и вниз для стиля линии и выберите нужный стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, to repeat column A, type &lt;f1&gt;$A&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T182559Z" creationid="olex" creationdate="20180508T182559Z">
@@ -23052,6 +23084,14 @@ LG:DONE</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If you have enabled both the Line and Filling toolbar and the Text Formatting toolbar, Draw switches between them depending on what object is selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T183345Z" creationid="olex" creationdate="20181105T183345Z">
+        <seg>Если вы включили панель инструментов Линия и заливка и панель инструментов Форматирование текста, то Draw будет переключаться между ними в зависимости от того, какой объект был выбран.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: не нашел кнопки Репозитории, проверял в английской версии интерфейса</note>
       <tuv lang="EN-US">
         <seg>If you have enabled experimental features in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f0&gt;, the Templates dialog shows a &lt;f1&gt;Repository&lt;/f1&gt; button that you can use to add other template repositories.</seg>
@@ -23531,6 +23571,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T172113Z" creationid="olex" creationdate="20180403T172113Z">
         <seg>Если ваша таблица содержит большое количество листов, то некоторые вкладки листа могут быть не видны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If&lt;i0/&gt; the selected object is text, the Sidebar shows relevant formatting choices in the Properties pane.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T183031Z" creationid="olex" creationdate="20181105T183031Z">
+        <seg>Если&lt;i0/&gt; выбранный объект является текстом, то на Боковой панели во вкладке Свойства отобразятся соответствующие инструменты форматирования.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38860,6 +38908,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The functions on this toolbar are also provided in the Properties pane of the sidebar when a drawing object is selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T182737Z" creationid="olex" creationdate="20181105T182737Z">
+        <seg>Функции на этой панели инструментов также дублируются во вкладке Свойства на Боковой панели, если выбран объект рисования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The generated macro code in Listing &lt;t0&gt;4&lt;/t0&gt; has been modified to contain the step number in the comments to match the code to the step above.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T073933Z" creationid="tagezi" creationdate="20180319T073933Z">
@@ -38960,6 +39016,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181008T181022Z" creationid="olex" creationdate="20181008T181022Z">
         <seg>Значки &lt;f8&gt;&lt;df9&gt;&lt;di10/&gt;&lt;/df9&gt;&lt;/f8&gt;&lt;f11&gt;&lt;s12/&gt;на панели формул эквивалентны нажатию клавиш &lt;/f11&gt;&lt;f13&gt;Enter&lt;/f13&gt; и &lt;f14&gt;Esc&lt;/f14&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The icons and pull-down lists vary according to the type of object selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T182438Z" creationid="olex" creationdate="20181105T182438Z">
+        <seg>Значки и выпадающие меню различаются в зависимости от типа объекта, который выбран.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45785,6 +45849,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use &lt;i0/&gt;the &lt;f1&gt;Line and Filling&lt;/f1&gt; toolbar to modify the main properties of a drawing object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T182321Z" creationid="olex" creationdate="20181105T182321Z">
+        <seg>Используйте панель инструментов&lt;i0/&gt; &lt;f1&gt;Линия и заливка&lt;/f1&gt;, чтобы изменять основные свойства объектов рисования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use &lt;i0/&gt;the zoom function to show more or fewer cells in the window when you are working on a spreadsheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T162817Z" creationid="olex" creationdate="20180409T162817Z">
@@ -45926,6 +45998,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T222024Z" creationid="olex" creationdate="20180407T222024Z">
         <seg>Используйте диалоговое окно &lt;f0&gt;Переместить/скопировать лист...&lt;/f0&gt; (Рисунок &lt;t1&gt;15&lt;/t1&gt;), чтобы точно указать, хотите ли вы, чтобы лист находился в той же электронной таблице или переместился в другую, его положение в электронной таблице, имя листа при перемещении или копировании листа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the &lt;f0&gt;Options&lt;/f0&gt; toolbar to activate or deactivate various drawing aids.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T183417Z" creationid="olex" creationdate="20181105T183417Z">
+        <seg>Используйте панель инструментов &lt;f0&gt;Параметры&lt;/f0&gt;, чтобы активировать или деактивировать различные вспомогательные средства рисования.</seg>
       </tuv>
     </tu>
     <tu>
