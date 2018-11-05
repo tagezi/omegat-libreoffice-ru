@@ -1706,6 +1706,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;For a more detailed description of color palettes and their options, &lt;/f0&gt;as well as more on the difference between the CMYK and RGB color schemes, refer to Chapter 11:Advanced Draw Techniques, in the LibreOffice &lt;f1&gt;Draw Guide.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T192659Z" creationid="olex" creationdate="20181105T192659Z">
+        <seg>&lt;f0&gt;Более подробное описание цветовых палитр и их параметров&lt;/f0&gt;, а также многое другое о различиях между цветовыми схемами CMYK и RGB смотрите в Главе 11 Дополнительные возможности рисования в LibreOffice, &lt;f1&gt;Руководства по Draw.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;For a&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt; more in-depth explanation of pivot tables&lt;ts3/&gt;,&lt;te4/&gt;&lt;tc5/&gt; &lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;see&lt;/f8&gt;&lt;te9/&gt;&lt;ts10/&gt;&lt;f11&gt; the&lt;/f11&gt;&lt;te12/&gt; &lt;f13&gt;C&lt;/f13&gt;&lt;ts14/&gt;&lt;f15&gt;&lt;f16&gt;alc Guide C&lt;/f16&gt;&lt;/f15&gt;&lt;te17/&gt;&lt;f18&gt;hapter 8&lt;/f18&gt;&lt;tc19/&gt;&lt;f20&gt; Pivot Tables&lt;/f20&gt;&lt;tc21/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180908T193737Z" creationid="olex" creationdate="20180908T193737Z">
@@ -4535,6 +4543,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T113005Z" creationid="olex" creationdate="20180715T113005Z">
         <seg>&lt;s2/&gt;В случае общих для всех или предустановленных расширений параметр будет работать только в том случае, если у пользователя есть надлежащие права доступа к системе и это необходимо выполняться с осторожностью&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;s2/&gt;In the color selection dialog, you can change any color by either dragging the round cursor to different locations on the visible color palette, or by modifying the numerical values in the fields provided to the right of the color palette in either CMYK or RGB color schemes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T192454Z" creationid="olex" creationdate="20181105T192454Z">
+        <seg>&lt;s2/&gt;В диалоговом окне Выбор цвета вы можете выбрать любой цвет, перетащив круглый курсор в разные места на видимой цветовой палитре или изменив числовые значения в полях справа от цветовой палитры в цветовых схемах CMYK или RGB ,</seg>
       </tuv>
     </tu>
     <tu>
@@ -17076,6 +17092,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130158Z" creationid="tagezi" creationdate="20180320T130158Z">
         <seg>Рисунок &lt;seq0&gt;8&lt;/seq0&gt;: Выбор параметров импорта библиотеки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Color Selection Dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T192510Z" creationid="olex" creationdate="20181105T192510Z">
+        <seg>Рисунок &lt;seq0&gt;8&lt;/seq0&gt;: Диалоговое окно Выбор цвета</seg>
       </tuv>
     </tu>
     <tu>
