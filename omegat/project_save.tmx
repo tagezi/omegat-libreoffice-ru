@@ -1314,6 +1314,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Dimension lines&lt;/f0&gt;: Here you place the dimension lines for your object, if relevant.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T184605Z" creationid="olex" creationdate="20181105T184605Z">
+        <seg>&lt;f0&gt;Размерные линии&lt;/f0&gt;: здесь вы размещаете размерные линии для своего объекта, если необходимо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Direct (or &lt;/f0&gt;&lt;f1&gt;Manual&lt;/f1&gt;&lt;f2&gt;)&lt;/f2&gt;&lt;f3&gt; formatting&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T181847Z" creationid="olex" creationdate="20180808T181847Z">
@@ -5843,6 +5851,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A hidden layer still shows in the Layers bar, but its name is in blue.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T185445Z" creationid="olex" creationdate="20181105T185427Z">
+        <seg>Скрытый слой по-прежнему отображается на панели Слои, но его имя будет показано синим цветом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A keyboard layout is normally based on the language used by the operating system but can be changed by the user.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T180703Z" creationid="olex" creationdate="20180712T180703Z">
@@ -6489,6 +6505,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T174944Z" creationid="olex" creationdate="20181001T174944Z">
         <seg>Добавьте колонтитул из меню &lt;f0&gt;Вставка &gt; Колонтитулы &gt; Верхний колонтитул &gt; Базовый&lt;/f0&gt; (или соответствующий стиль страницы).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a name, title, and description of the layer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T185145Z" creationid="olex" creationdate="20181105T185145Z">
+        <seg>Добавьте имя, заглавие и описание слоя.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18894,6 +18918,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information on layers, see Chapter 11, Advanced Draw Techniques, in the &lt;f0&gt;Draw Guide.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T184712Z" creationid="olex" creationdate="20181105T184712Z">
+        <seg>Для получения дополнительной информации о слоях смотрите Главу 11, Дополнительные способы рисования, в &lt;f0&gt;Руководстве по Draw.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information on macros, refer to Chapter 12 Calc Macros in the LibreOffice Calc guide.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180515T174642Z" creationid="olex" creationdate="20180327T185546Z">
@@ -21089,6 +21121,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T075339Z" creationid="olex" creationdate="20180915T075339Z">
         <seg>Здесь вы определяете стиль страницы (слайда) для вашей презентации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you put buttons and other controls of your drawing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T184508Z" creationid="olex" creationdate="20181105T184508Z">
+        <seg>Здесь вы помещаете кнопки и другие элементы управления вашего рисунка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34252,6 +34292,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select if you want it printable or not, visible or hidden, or locked to prevent further changes or accidental edits.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T185254Z" creationid="olex" creationdate="20181105T185254Z">
+        <seg>Выберите, хотите ли вы его печатать или нет, сделать его видимым, или скрытым, или заблокированным, чтобы предотвратить дальнейшие или случайные изменения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select in the Load Slide Design dialog the template from which to load the slide master and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181025T185345Z" creationid="olex" creationdate="20181025T185322Z">
@@ -42309,6 +42357,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181027T164853Z" creationid="olex" creationdate="20181027T164853Z">
         <seg>Чтобы добавить нижний колонтитул на слайды:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To add a layer to your drawing, select &lt;f0&gt;Insert &gt; Layer...&lt;/f0&gt; from the menu bar or right-click any layer tab in the Layers bar on the bottom of the workspace (Figure &lt;t1&gt;1&lt;/t1&gt;) and choose &lt;f2&gt;Insert Layer...&lt;/f2&gt; The Insert Layer dialog opens (Figure &lt;t3&gt;5&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T185008Z" creationid="olex" creationdate="20181105T185008Z">
+        <seg>Чтобы добавить слой к рисунку, выберите в меню &lt;f0&gt;Вставка &gt; Слой...&lt;/f0&gt; или нажмите правой кнопкой мыши на вкладке любого слоя на панели Слои в нижней части рабочей области (Рисунок &lt;t1&gt;1&lt;/t1&gt;) и выберите &lt;f2&gt;Вставить слой...&lt;/f2&gt;. Откроется диалоговое окно Вставка слоя (Рисунок &lt;t3&gt;5&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
