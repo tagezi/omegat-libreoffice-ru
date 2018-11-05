@@ -9214,6 +9214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, the Color Bar is displayed below the workspace.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T190734Z" creationid="olex" creationdate="20181105T190718Z">
+        <seg>По умолчанию панель цветов отображается внизу рабочей области.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, the Find toolbar is shown docked at the bottom of the LibreOffice window (just above the Status Bar) &lt;ts0/&gt;&lt;f1&gt;as shown &lt;/f1&gt;&lt;te2/&gt;in Figure &lt;t3&gt;12&lt;/t3&gt;, but you can float it or dock it in another location.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T181216Z" creationid="olex" creationdate="20180731T181216Z">
@@ -16904,6 +16912,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Color bar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T191104Z" creationid="olex" creationdate="20181105T191104Z">
+        <seg>Рисунок &lt;seq0&gt;6&lt;/seq0&gt;: Панель цветов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Confirm File Format dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T190116Z" creationid="olex" creationdate="20180402T190116Z">
@@ -16972,6 +16988,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T172358Z" creationid="olex" creationdate="20180628T172345Z">
         <seg>Рисунок &lt;seq0&gt;6&lt;/seq0&gt;: Просмотр путей к файлам, используемым LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Area Dialog - Color</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T192132Z" creationid="olex" creationdate="20181105T192132Z">
+        <seg>Рисунок &lt;seq0&gt;7&lt;/seq0&gt;: Диалоговое окно Область - Цвет</seg>
       </tuv>
     </tu>
     <tu>
@@ -21081,6 +21105,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T190605Z" creationid="olex" creationdate="20180604T190605Z">
         <seg>Здесь вы можете редактировать и применять стили изображений к объектам в рисунке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you can rapidly choose the color of objects in your drawing (lines, areas, and 3D effects).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T190929Z" creationid="olex" creationdate="20181105T190929Z">
+        <seg>Здесь вы можете быстро выбрать цвет для объектов рисунка (линии, области и 3D-объекта).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38828,6 +38860,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first box corresponds to none (no color).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T191008Z" creationid="olex" creationdate="20181105T191008Z">
+        <seg>Первый флажок означает Нет (без цвета).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first column in the table should contain a numeric value, the second column the name, and the third column the description.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T203124Z" creationid="tagezi" creationdate="20180318T203124Z">
@@ -42369,6 +42409,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To add a custom color to the custom palette, first select your color by pressing the &lt;f0&gt;Pick&lt;/f0&gt; button and adjusting your color using the color selection dialog that appears (Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T192410Z" creationid="olex" creationdate="20181105T192410Z">
+        <seg>Чтобы добавить пользовательский цвет в пользовательскую палитру, сначала выберите свой цвет, нажав кнопку &lt;f0&gt;Выбрать&lt;/f0&gt; и настройте цвет, используя появившееся диалоговое окно Выбор цвета (Рисунок &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To add a field into an object or as a separate object on a slide, select &lt;f0&gt;Insert &gt; Fields&lt;/f0&gt; on the Menu bar and select the required field from the submenu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181029T184121Z" creationid="olex" creationdate="20181029T184121Z">
@@ -43062,6 +43110,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To choose another palette, click on the &lt;f0&gt;Palette&lt;/f0&gt; drop down list and select one of the available LibreOffice palettes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T192211Z" creationid="olex" creationdate="20181105T192211Z">
+        <seg>Чтобы выбрать другую палитру, нажмите на раскрывающийся список &lt;f0&gt;Палитра&lt;/f0&gt; и выберите одну из доступных палитр LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To choose new information to display, or to alter the layout of the existing information, right click anywhere in the existing pivot table to bring up the context menu and choose &lt;f0&gt;Edit Layout.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T190917Z" creationid="olex" creationdate="20180507T190917Z">
@@ -43361,8 +43417,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To display &lt;i0/&gt;the color palette currently in use (Figure &lt;t1&gt;6&lt;/t1&gt;), select &lt;f2&gt;View &gt; Toolbars &gt; Color Bar&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181105T190550Z" creationid="olex" creationdate="20181105T190550Z">
-        <seg>Чтобы отобразить &lt;i0/&gt;цветовую панель для постоянного использования (Рисунок &lt;t1&gt;6&lt;/t1&gt;), выберите в м &lt;f2&gt;View &gt; Toolbars &gt; Color Bar&lt;/f2&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T190702Z" creationid="olex" creationdate="20181105T190550Z">
+        <seg>Чтобы отобразить &lt;i0/&gt;Панель цветов для постоянного использования (Рисунок &lt;t1&gt;6&lt;/t1&gt;), выберите в меню &lt;f2&gt;Вид &gt; Панели инструментов &gt; Панель цветов&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43467,6 +43523,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180903T185047Z" creationid="olex" creationdate="20180903T185047Z">
         <seg>Чтобы сделать это, выберите параметр &lt;f0&gt;Уменьшать по размеру ячейки&lt;/f0&gt; в разделе &lt;f1&gt;Свойства&lt;/f1&gt; в диалоговом окне Формат ячеек (Рисунок &lt;t2&gt;27&lt;/t2&gt;) на вкладке &lt;f3&gt;Выравнивание&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do this, use the Area dialog by selecting &lt;f1&gt;Format &gt; Area&lt;/f1&gt; on the Menu bar or clicking the &lt;f2&gt;Area&lt;/f2&gt; icon on the Sidebar, then selecting the &lt;f3&gt;Colors&lt;/f3&gt; tab (Figure &lt;t4&gt;7&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T192046Z" creationid="olex" creationdate="20181105T192046Z">
+        <seg>Для этого используйте диалоговое окно Область, выбрав в меню &lt;f1&gt;Формат &gt; Область...&lt;/f1&gt; или выбрав панель &lt;f2&gt;Область&lt;/f2&gt; во вкладке Свойства на Боковой панели, а затем нажав &lt;f3&gt;Выберите цвет&lt;/f3&gt; (Рисунок &lt;t4&gt;7&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49098,6 +49162,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can access several &lt;i0/&gt;specialized color palettes in Draw, as well as change individual colors to your own taste.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T191310Z" creationid="olex" creationdate="20181105T191310Z">
+        <seg>Вы можете получить доступ к нескольким специализированным цветовым палитрам &lt;i0/&gt;в Draw, а также изменить отдельные цвета по своему вкусу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can add any number of layers in a drawing document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181105T183754Z" creationid="olex" creationdate="20181105T183754Z">
@@ -50122,6 +50194,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T192118Z" creationid="tagezi" creationdate="20180310T192118Z">
         <seg>Вы можете помочь с разработкой и поддержкой пользователей LibreOffice разными способами, и вам не нужно быть программистом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can hide or show it by clicking on its Hide/Show button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T190822Z" creationid="olex" creationdate="20181105T190822Z">
+        <seg>Вы можете скрыть или показать ее, нажав на кнопку Скрыть/Показать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51396,6 +51476,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T172517Z" creationid="olex" creationdate="20180627T172517Z">
         <seg>буфер обмена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>color palette</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T191224Z" creationid="olex" creationdate="20181105T191224Z">
+        <seg>цветовая палитра</seg>
       </tuv>
     </tu>
     <tu>
