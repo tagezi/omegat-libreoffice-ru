@@ -16888,6 +16888,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: The Insert Layer dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T190408Z" creationid="olex" creationdate="20181105T190408Z">
+        <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: Диалоговое окно Вставить слой</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: &lt;f1&gt;Keyboard s&lt;/f1&gt;hortcuts in context menus</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T171949Z" creationid="olex" creationdate="20180616T171851Z">
@@ -26496,6 +26504,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T150226Z" creationid="olex" creationdate="20180603T150226Z">
         <seg>Панель слоев</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Layers do not determine the stacking order of objects on the page, except for the Controls layer which is always in front of other layers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T185633Z" creationid="olex" creationdate="20181105T185627Z">
+        <seg>Слои не определяют порядок укладки объектов на странице, за исключением слоя Элементы управления, который всегда находится над другими слоями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40185,6 +40201,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The stacking order of objects is determined by the sequence in which you add the objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T185743Z" creationid="olex" creationdate="20181105T185720Z">
+        <seg>Порядок укладки объектов определяется последовательностью, с которой вы добавляете объекты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The status bar has a quick way to do some math operations on selected cells in the spreadsheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T191331Z" creationid="olex" creationdate="20180329T191331Z">
@@ -43331,6 +43355,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181010T173817Z" creationid="olex" creationdate="20181010T173817Z">
         <seg>Чтобы определить решение, вы можете вручную вычислить эту сумму, используя параметры сортировки и форматирования, предоставленные Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To display &lt;i0/&gt;the color palette currently in use (Figure &lt;t1&gt;6&lt;/t1&gt;), select &lt;f2&gt;View &gt; Toolbars &gt; Color Bar&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T190550Z" creationid="olex" creationdate="20181105T190550Z">
+        <seg>Чтобы отобразить &lt;i0/&gt;цветовую панель для постоянного использования (Рисунок &lt;t1&gt;6&lt;/t1&gt;), выберите в м &lt;f2&gt;View &gt; Toolbars &gt; Color Bar&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50286,6 +50318,15 @@ denkin: исправил на "включает"</note>
       </tuv>
     </tu>
     <tu>
+      <note>Написать Оливье - неправильно указан путь в меню, правильно: Shape &gt; Arrange</note>
+      <tuv lang="EN-US">
+        <seg>You can rearrange the stacking order by &lt;f0&gt;Modify &gt; Arrange&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T190334Z" creationid="olex" creationdate="20181105T185736Z">
+        <seg>Вы можете изменить порядок укладки в &lt;f0&gt;Фигура &gt; Расположить&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>You can remove any user-defined (custom) styles; but before you do, you should make sure the styles are not in use in the current document.</seg>
       </tuv>
@@ -50803,6 +50844,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T200356Z" creationid="olex" creationdate="20180310T200356Z">
         <seg>Вы не можете удалить любой предопределенный стиль LibreOffice из документа или шаблона, даже если он не используется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot reorder layers in the Layers bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T185508Z" creationid="olex" creationdate="20181105T185508Z">
+        <seg>Вы не можете изменять порядок слоев на панели Слои.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51355,6 +51404,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T152938Z" creationid="olex" creationdate="20180630T152938Z">
         <seg>цветовая схема</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>colors</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181105T190416Z" creationid="olex" creationdate="20181105T190416Z">
+        <seg>цвета</seg>
       </tuv>
     </tu>
     <tu>
