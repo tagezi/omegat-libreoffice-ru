@@ -21551,8 +21551,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>However, if the &lt;f1&gt;Snap to Grid&lt;/f1&gt; option on the &lt;f2&gt;View &gt; Grid&lt;/f2&gt; menu has been selected, the &lt;f3&gt;Ctrl&lt;/f3&gt; key deactivates the snap to grid activity.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181106T191802Z" creationid="olex" creationdate="20181106T191802Z">
-        <seg>Однако, если была выбрана опция &lt;f1&gt;Привязка к сетке&lt;/f1&gt; в меню &lt;f2&gt;Вид &gt; Сетка и вспомогательные линии&lt;/f2&gt;, то клавиша &lt;f3&gt;Ctrl&lt;/f3&gt; отключает привязку к узлам сетки.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T192839Z" creationid="olex" creationdate="20181106T191802Z">
+        <seg>Однако, если в меню &lt;f1&gt;Вид &gt; Сетка и вспомогательные линии&lt;/f1&gt; была выбрана опция &lt;f2&gt;Привязка к сетке&lt;/f2&gt;, то клавиша &lt;f3&gt;Ctrl&lt;/f3&gt; наоборот, отключает привязку к узлам сетки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21561,6 +21561,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130435Z" creationid="tagezi" creationdate="20180320T130435Z">
         <seg>Однако, если импортируемая библиотека имеет уже существующее имя и вы импортируете ее в то же место, она не будет скопирована.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, if the option &lt;f1&gt;When creating or moving objects&lt;/f1&gt; in the &lt;f2&gt;Snap position&lt;/f2&gt; section of &lt;f3&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f3&gt; has been selected, the action of the &lt;f4&gt;Shift&lt;/f4&gt; key is the opposite.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T193435Z" creationid="olex" creationdate="20181106T192734Z">
+        <seg>Однако, если в меню&lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Draw &gt; Сетка&lt;/f1&gt; в разделе &lt;f2&gt;Опорные объекты&lt;/f2&gt;  выбрана опция &lt;f3&gt;При создании или перемещении объектов&lt;/f3&gt;, то действие клавиши &lt;f4&gt;Shift&lt;/f4&gt; обратное.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41891,6 +41899,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181106T191552Z" creationid="olex" creationdate="20181106T191552Z">
         <seg>Это поведение по умолчанию для клавиши &lt;f0&gt;Ctrl&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the default behavior of the &lt;f0&gt;Shift&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T192717Z" creationid="olex" creationdate="20181106T192717Z">
+        <seg>Это поведение по умолчанию для клавиши &lt;f0&gt;Shift&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
