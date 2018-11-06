@@ -6933,6 +6933,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After drawing the line, you can change the arrow style by clicking on the &lt;f0&gt;Arrowheads&lt;/f0&gt; icon in the Line and Filling toolbar and select the arrow start and end options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T200502Z" creationid="olex" creationdate="20181106T200502Z">
+        <seg>После рисования линии вы можете изменить стиль стрелки, нажав значок &lt;f0&gt;Стиль стрелок&lt;/f0&gt; на панели инструментов Линия и заполнение и выбрав варианты начала и окончания линии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After selecting the additional grammar checks, you must restart LibreOffice, or reload the document, for them to take effect.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180714T073510Z" creationid="olex" creationdate="20180714T073510Z">
@@ -7347,6 +7355,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T114517Z" creationid="tagezi" creationdate="20180320T114517Z">
         <seg>Или же, Выберите в меню &lt;f3&gt;Сервис &gt; Макросы &gt; Управление макросами &gt; LibreOffice Basic&lt;/f3&gt;, чтобы открыть диалоговое окно Макросы LibreOffice Basic (Рисунок &lt;t4&gt;1&lt;/t4&gt; на странице &lt;t5&gt;5&lt;/t5&gt;), а затем нажмите кнопку &lt;f6&gt;Управление&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternatively, go to &lt;f3&gt;View &gt; Toolbars &gt; Arrows&lt;/f3&gt; to open the Arrows toolbar as a floating toolbar (Figure &lt;t4&gt;11&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T200052Z" creationid="olex" creationdate="20181106T200052Z">
+        <seg>По другому, выберите в меню &lt;f3&gt;Вид &gt; Панели инструментов &gt; Стрелки&lt;/f3&gt;, чтобы открыть панель инструментов Стрелки в виде плавающей панели инструментов (Рисунок &lt;t4&gt;11&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11424,8 +11440,8 @@
       <tuv lang="EN-US">
         <seg>Click on the &lt;f2&gt;Line Ends with Arrow&lt;/f2&gt; icon on the Drawing toolbar or the &lt;f3&gt;Insert Shapes&lt;/f3&gt; sub-section in Sidebar Properties to draw an arrow.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181106T195217Z" creationid="olex" creationdate="20181106T195217Z">
-        <seg>Нажмите на значок &lt;f2&gt;Линия со стрелкой на конце&lt;/ f2&gt; на панели инструментов Рисование или на вкладке &lt;f3&gt;Фигуры&lt;/f3&gt; на Боковой панели, чтобы нарисовать стрелку.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T195520Z" creationid="olex" creationdate="20181106T195217Z">
+        <seg>Нажмите на значок &lt;f2&gt;Линия со стрелкой на конце&lt;/f2&gt; на панели инструментов Рисование или на вкладке &lt;f3&gt;Фигуры&lt;/f3&gt; на Боковой панели, чтобы нарисовать стрелку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11554,6 +11570,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T191249Z" creationid="olex" creationdate="20180424T191220Z">
         <seg>Нажмите на маленький треугольник справа от поля Кегль на панели инструментов Форматирования и выберите в раскрывающемся списке размер шрифта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on the small triangle to the right of the &lt;f0&gt;Lines and Arrows&lt;/f0&gt; icon on the Drawing toolbar or the &lt;f1&gt;Insert Shapes&lt;/f1&gt; sub-section in Sidebar Properties to open a tool palette containing tools for &lt;i2/&gt;drawing lines and arrows.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T195938Z" creationid="olex" creationdate="20181106T195938Z">
+        <seg>Нажмите на маленький треугольник справа от значка &lt;f0&gt;Линии и стрелки&lt;/f0&gt; на панели инструментов Рисование или на вкладке &lt;f1&gt;Фигуры&lt;/ f1&gt; на Боковой панели, чтобы открыть палитру инструментов, содержащую инструменты для &lt;i2/&gt;рисования линий и стрелок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15401,6 +15425,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T175952Z" creationid="olex" creationdate="20180918T175952Z">
         <seg>Рисунок &lt;seq0&gt;11&lt;/seq0&gt;: &lt;f1&gt;Диалоговое окно Персонализация&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Arrows toolbar and available tools</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T200550Z" creationid="olex" creationdate="20181106T200550Z">
+        <seg>Рисунок &lt;seq0&gt;11&lt;/seq0&gt;: Панель инструментов Стрелки и доступные инструменты</seg>
       </tuv>
     </tu>
     <tu>
@@ -35751,6 +35783,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Several types of line endings (arrows, circles, squares, and others) are available in Draw.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T195649Z" creationid="olex" creationdate="20181106T195649Z">
+        <seg>В Draw доступно несколько типов окончаний линии (стрелки, круги, квадраты и другие).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sharing content between sheets</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T173746Z" creationid="olex" creationdate="20180327T173652Z">
@@ -38492,6 +38532,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The arrowhead is drawn at the end point of the arrow when you release the mouse button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T195424Z" creationid="olex" creationdate="20181106T195424Z">
+        <seg>Стрелка будет расположена в конце линии, когда вы отпустите кнопку мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The background does not show when printed and can be turned off in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Application Colors&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T175239Z" creationid="olex" creationdate="20181001T175239Z">
@@ -39320,6 +39368,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T173707Z" creationid="olex" creationdate="20180616T173707Z">
         <seg>Этот значок не изменяется, но если вы наводите указатель мыши на это поле, то всплывающая подсказка подскажет, какой режим выбора активен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The icon for the tool used most recently will be shown on the Drawing toolbar to make it easier to use the same tool again.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T200308Z" creationid="olex" creationdate="20181106T200308Z">
+        <seg>На панели инструментов Рисование будет показан значок последнего использованного инструмента, чтобы упростить его повторное использование.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52588,6 +52644,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T141402Z" creationid="tagezi" creationdate="20180316T141402Z">
         <seg>контейнеры библиотек</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lines and arrows</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T195438Z" creationid="olex" creationdate="20181106T195438Z">
+        <seg>линии и стрелки</seg>
       </tuv>
     </tu>
     <tu>
