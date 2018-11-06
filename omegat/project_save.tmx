@@ -7302,6 +7302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, click on the Properties icon on the Sidebar and open the Line sub-section.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T194331Z" creationid="olex" creationdate="20181106T194331Z">
+        <seg>По другому, нажмите значок Свойства на боковой панели и разверните панель Линия.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, click the small triangle to the right of the &lt;f0&gt;Table&lt;/f0&gt; icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;di4/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s5/&gt;and select the number of rows and columns by dragging the cursor.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181022T182528Z" creationid="olex" creationdate="20181022T182528Z">
@@ -8054,6 +8062,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T161718Z" creationid="olex" creationdate="20180603T161718Z">
         <seg>Расположение, выравнивание и распределение объектов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arrows are drawn like lines.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T194617Z" creationid="olex" creationdate="20181106T194617Z">
+        <seg>Стрелки рисуются как линии.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11406,6 +11422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the &lt;f2&gt;Line Ends with Arrow&lt;/f2&gt; icon on the Drawing toolbar or the &lt;f3&gt;Insert Shapes&lt;/f3&gt; sub-section in Sidebar Properties to draw an arrow.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T195217Z" creationid="olex" creationdate="20181106T195217Z">
+        <seg>Нажмите на значок &lt;f2&gt;Линия со стрелкой на конце&lt;/ f2&gt; на панели инструментов Рисование или на вкладке &lt;f3&gt;Фигуры&lt;/f3&gt; на Боковой панели, чтобы нарисовать стрелку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the &lt;f3&gt;Notes and Handouts&lt;/f3&gt; tab (Figure &lt;t4&gt;8&lt;/t4&gt;) and select the elements you want to appear on each handout page and their contents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T172626Z" creationid="olex" creationdate="20181013T172626Z">
@@ -14140,6 +14164,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw &lt;i0/&gt;classifies &lt;f1&gt;arrows&lt;/f1&gt; as a subgroup of lines: lines with arrowheads.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T194711Z" creationid="olex" creationdate="20181106T194711Z">
+        <seg>Draw &lt;i0/&gt;классифицирует &lt;f1&gt;стрелки&lt;/f1&gt; как подгруппу линий: линии со стрелками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw can import graphics from many common formats and save them in over 20 formats, including PNG, HTML &lt;f0&gt;and&lt;/f0&gt; PDF.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T203144Z" creationid="olex" creationdate="20180607T203144Z">
@@ -14190,8 +14222,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Draw provides a wide range of shapes, located in palettes accessed from the Drawing toolbar.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181106T190051Z" creationid="olex" creationdate="20181106T190051Z">
-        <seg>Draw обеспечивает широкий диапазон фигур, расположенных в палитрах, доступных на панели инструментов Рисование.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T194908Z" creationid="olex" creationdate="20181106T190051Z">
+        <seg>Draw предоставляет широкий диапазон фигур, расположенных в палитрах, доступных на панели инструментов Рисование.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15321,6 +15353,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T183726Z" creationid="olex" creationdate="20180617T183726Z">
         <seg>Рисунок &lt;seq0&gt;10&lt;/seq0&gt;: Пример диалогового окна LibreOffice Сохранить как</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Line dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T194544Z" creationid="olex" creationdate="20181106T194544Z">
+        <seg>Рисунок &lt;seq0&gt;10&lt;/seq0&gt;: Диалоговое окно Линия</seg>
       </tuv>
     </tu>
     <tu>
@@ -27438,6 +27478,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Line style, line width, and line color can also be changed using the controls in the Line and Filling toolbar at the top of the workspace.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T194534Z" creationid="olex" creationdate="20181106T194534Z">
+        <seg>Стиль линии, толщина линии и цвет линии также можно изменить с помощью элементов управления на панели Линия и заливка в верхней части рабочей области.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lines will automatically be drawn at a multiple of 45 degrees &lt;f5&gt;unless&lt;/f5&gt; the &lt;f6&gt;Shift&lt;/f6&gt; key is pressed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181106T193602Z" creationid="olex" creationdate="20181106T193602Z">
@@ -39364,6 +39412,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The information field on the status bar shows them only as lines.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T194857Z" creationid="olex" creationdate="20181106T194857Z">
+        <seg>Информационное поле в строке состояния показывает их только как линии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The intellectual property of the standard is made irrevocably available on a royalty-free basis.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T213951Z" creationid="lera" creationdate="20180303T213151Z">
@@ -42976,6 +43032,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180919T183129Z" creationid="olex" creationdate="20180919T183129Z">
         <seg>Чтобы изменить существующий стиль с помощью &lt;i0/&gt;вкладки Стили, откройте вкладку Стили на Боковой панели, затем нажмите правой кнопкой мыши на необходимый стиль и выберите во всплывающем меню &lt;f1&gt;Изменить&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change any of these attributes, select a line by clicking on it, then &lt;f0&gt;right-click&lt;/f0&gt; and select &lt;f1&gt;Line&lt;/f1&gt; from the context menu or go to &lt;f2&gt;Format &gt; Line&lt;/f2&gt; on the Menu bar to open the &lt;f3&gt;Line&lt;/f3&gt; dialog (Figure &lt;t4&gt;10&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T194233Z" creationid="olex" creationdate="20181106T194233Z">
+        <seg>Чтобы изменить любой из этих атрибутов, выберите линию, нажав на нее, затем &lt;f0&gt;нажмите правую кнопку мыши&lt;/f0&gt; и выберите в контекстном меню &lt;f1&gt;Линия...&lt;/f1&gt; или выберите в меню &lt;f2&gt;Формат &gt; Линия...&lt;/f2&gt;, чтобы открыть диалоговое окно &lt;f3&gt;Линия&lt;/f3&gt; (Рисунок &lt;t4&gt;10&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51576,6 +51640,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>arrows</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T194549Z" creationid="olex" creationdate="20181106T194549Z">
+        <seg>стрелки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>automatically advance</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181031T185615Z" creationid="olex" creationdate="20181031T185615Z">
@@ -52060,6 +52132,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T132215Z" creationid="tagezi" creationdate="20180320T132215Z">
         <seg>загрузка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>drawing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T194556Z" creationid="olex" creationdate="20181106T194556Z">
+        <seg>рисование</seg>
       </tuv>
     </tu>
     <tu>
