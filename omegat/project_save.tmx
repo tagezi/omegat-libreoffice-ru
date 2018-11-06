@@ -6244,6 +6244,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A selection handle appears at each end of the line, showing that this object is the currently selected object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T191305Z" creationid="olex" creationdate="20181106T191238Z">
+        <seg>На каждом конце линии появятся ручки выбора, показывающие, что этот объект в данный момент выбран.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A short &lt;is0/&gt;history of LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T163510Z" creationid="lera" creationdate="20180303T163510Z">
@@ -11350,6 +11358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the &lt;f0&gt;Line&lt;/f0&gt; icon and place the cursor at the point where you want to start the line (Figure &lt;t1&gt;9&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T191021Z" creationid="olex" creationdate="20181106T191021Z">
+        <seg>Нажмите значок &lt;f0&gt;Линия&lt;/f0&gt; и поместите курсор в точку, где вы хотите начать рисовать линию (Рисунок &lt;t1&gt;9&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the &lt;f0&gt;Remote Files&lt;/f0&gt; button in the Start Center</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T180933Z" creationid="olex" creationdate="20180619T180933Z">
@@ -14062,6 +14078,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T140758Z" creationid="olex" creationdate="20180414T140758Z">
         <seg>Перетащите мышь в любом направлении или, удерживая клавишу &lt;f0&gt;Shift&lt;/f0&gt;, щелкните последнюю ячейку в диапазоне, который вы хотите заполнить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag the mouse while keeping the mouse button pressed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T191049Z" creationid="olex" creationdate="20181106T191049Z">
+        <seg>Перетащите мышь, удерживая кнопку мыши нажатой.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17180,6 +17204,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T181510Z" creationid="olex" creationdate="20180628T181510Z">
         <seg>Рисунок &lt;seq0&gt;9&lt;/seq0&gt;: Определение шрифта для замены другого шрифта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Drawing a straight line</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T191344Z" creationid="olex" creationdate="20181106T191344Z">
+        <seg>Рисунок &lt;seq0&gt;9&lt;/seq0&gt;: Рисование прямой линии</seg>
       </tuv>
     </tu>
     <tu>
@@ -21513,6 +21545,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T183034Z" creationid="tagezi" creationdate="20180312T183034Z">
         <seg>Однако, если что-то еще будет скопировано в буфер обмена, содержимое в буфере обмена изменяется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, if the &lt;f1&gt;Snap to Grid&lt;/f1&gt; option on the &lt;f2&gt;View &gt; Grid&lt;/f2&gt; menu has been selected, the &lt;f3&gt;Ctrl&lt;/f3&gt; key deactivates the snap to grid activity.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T191802Z" creationid="olex" creationdate="20181106T191802Z">
+        <seg>Однако, если была выбрана опция &lt;f1&gt;Привязка к сетке&lt;/f1&gt; в меню &lt;f2&gt;Вид &gt; Сетка и вспомогательные линии&lt;/f2&gt;, то клавиша &lt;f3&gt;Ctrl&lt;/f3&gt; отключает привязку к узлам сетки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26496,6 +26536,22 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103954Z" creationid="tagezi" creationdate="20180320T103954Z">
         <seg>Так же, как имеет смысл придать вашим библиотекам значимые имена, разумно использовать значимые имена для ваших модулей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep the &lt;f0&gt;Ctrl&lt;/f0&gt; key pressed while drawing a line to enable the end of the line to snap to the nearest grid point.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T191524Z" creationid="olex" creationdate="20181106T191524Z">
+        <seg>Удерживайте нажатой клавишу &lt;f0&gt;Ctrl&lt;/f0&gt; при рисовании линии, чтобы конец линии привязывался к ближайшей точке сетки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep the &lt;f0&gt;Shift&lt;/f0&gt; key pressed while you draw a line to restrict the drawing angle of the line to a multiple of 45 degrees (0, 45, 90, 135, and so on).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T191918Z" creationid="olex" creationdate="20181106T191918Z">
+        <seg>Удерживайте нажатой клавишу &lt;f0&gt;Shift&lt;/f0&gt;, во время рисования линии, чтобы ограничить угол рисования линии кратно 45 градусам (0, 45, 90, 135 и т.д.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32412,6 +32468,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T175842Z" creationid="olex" creationdate="20180707T175621Z">
         <seg>Относительные ссылки возможны только в том случае, если исходный документ и документ к которому ведет ссылка находятся на одном диске.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release the mouse button at the point where you want to end the line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T191103Z" creationid="olex" creationdate="20181106T191103Z">
+        <seg>Отпустите кнопку мыши в точке, где вы хотите закончить линию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40217,6 +40281,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The selection handle at the starting point of the line is slightly larger than the other selection handle.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T191401Z" creationid="olex" creationdate="20181106T191259Z">
+        <seg>Ручка выбора в начальной точке линии немного больше по размеру, чем в конечной точке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sentence boundary detection depends on abbreviations.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180714T073836Z" creationid="olex" creationdate="20180714T073836Z">
@@ -41811,6 +41883,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180924T180450Z" creationid="olex" creationdate="20180727T172237Z">
         <seg>Это особенно полезно для поиска элементов, таких как записи указателя, которые может быть трудно увидеть в тексте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the default behavior of the &lt;f0&gt;Ctrl&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T191552Z" creationid="olex" creationdate="20181106T191552Z">
+        <seg>Это поведение по умолчанию для клавиши &lt;f0&gt;Ctrl&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
