@@ -21309,6 +21309,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold down the &lt;f0&gt;Alt&lt;/f0&gt; key while drawing a line to cause the line to extend outwards symmetrically in both directions from the start point.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T193814Z" creationid="olex" creationdate="20181106T193814Z">
+        <seg>Удерживайте нажатой клавишу &lt;f0&gt;Alt&lt;/f0&gt;, рисуя линию, чтобы линия вытягивалась симметрично в обоих направлениях от начальной точки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and click on the sheet tab.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T185640Z" creationid="olex" creationdate="20180405T185640Z">
@@ -27426,6 +27434,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T153528Z" creationid="olex" creationdate="20180603T153528Z">
         <seg>Панель инструментов Линия и заливка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lines will automatically be drawn at a multiple of 45 degrees &lt;f5&gt;unless&lt;/f5&gt; the &lt;f6&gt;Shift&lt;/f6&gt; key is pressed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T193602Z" creationid="olex" creationdate="20181106T193602Z">
+        <seg>Линии будут автоматически рисоваться под углом кратным 45 градусам, &lt;f5&gt;если&lt;/f5&gt; не нажата клавиша &lt;f6&gt;Shift&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41944,6 +41960,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This lets you draw lines by starting from the middle of the line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T193842Z" creationid="olex" creationdate="20181106T193842Z">
+        <seg>Это позволяет рисовать линии, начиная со средней точки линии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This markup language is designed to be easily read wherever possible, for example, a over b produces the fraction&lt;f0&gt;&lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;formula&lt;/s4&gt;&lt;/df1&gt;&lt;/f0&gt;when used in a formula.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T205234Z" creationid="User" creationdate="20180307T205234Z">
@@ -47866,6 +47890,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T132100Z" creationid="tagezi" creationdate="20180320T132100Z">
         <seg>Когда библиотека используется в качестве ссылки, она остается в текущем местоположении и является только для чтения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a line is drawn, it uses default attributes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T193938Z" creationid="olex" creationdate="20181106T193938Z">
+        <seg>Когда рисуется линия, то для нее используются атрибуты по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
