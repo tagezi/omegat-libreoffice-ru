@@ -14164,6 +14164,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw provides a wide range of shapes, located in palettes accessed from the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T190051Z" creationid="olex" creationdate="20181106T190051Z">
+        <seg>Draw обеспечивает широкий диапазон фигур, расположенных в палитрах, доступных на панели инструментов Рисование.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw/Impress</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T210049Z" creationid="olex" creationdate="20180309T210049Z">
@@ -21809,6 +21817,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T142509Z" creationid="tagezi" creationdate="20180306T142509Z">
         <seg>Значки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Icons with tool palettes available are indicated by a small triangle to the right of the icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T190422Z" creationid="olex" creationdate="20181106T190355Z">
+        <seg>Значки с доступными палитрами инструментов обозначены маленьким треугольником справа от значка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33577,6 +33593,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the &lt;f0&gt;Draw Guide&lt;/f0&gt; for a complete description of the shapes available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T190237Z" creationid="olex" creationdate="20181106T190237Z">
+        <seg>Смотрите в &lt;f0&gt;Руководстве по Draw&lt;/f0&gt; полное описание доступных фигур.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the &lt;f0&gt;Writer Guide Chapter 3 Working with Text&lt;/f0&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T090728Z" creationid="tagezi" creationdate="20180313T090728Z">
@@ -36108,6 +36132,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100303Z" creationid="lera" creationdate="20180303T195405Z">
         <seg>В состав наших корпоративных сторонников входят Canonical, GNOME Foundation, Google, Novell и Red Hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some of the icons on the Drawing toolbar will change according to the shape that has been selected from the choices available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T190446Z" creationid="olex" creationdate="20181106T190325Z">
+        <seg>Некоторые значки на панели инструментов Рисование будут меняться в соответствии с фигурой, выбранной из доступных вариантов в палитре.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42044,6 +42076,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T160032Z" creationid="olex" creationdate="20180624T160032Z">
         <seg>В этом разделе описаны некоторые параметры, которые применяются ко всем компонентам LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This section describes only a few of the basic shapes, including text, which are treated as objects in Draw.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T190131Z" creationid="olex" creationdate="20181106T190131Z">
+        <seg>В этом разделе описываются только некоторые из основных фигур, включая текст, которые рассматриваются как объекты в Draw.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48276,6 +48316,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181002T180225Z" creationid="olex" creationdate="20181002T180059Z">
         <seg>При создании документа используйте следующие стили абзаца для иерархических уровней заголовков (например, названия разделов и подразделов): &lt;f0&gt;Заголовок 1&lt;/f0&gt;, &lt;f1&gt;Заголовок 2&lt;/f1&gt;, &lt;f2&gt;Заголовок 3&lt;/f2&gt; и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you draw a basic shape or select one for editing, the &lt;f0&gt;Info&lt;/f0&gt; field at the left side in the status bar changes to reflect the present action: for example &lt;f1&gt;Line created&lt;/f1&gt;, &lt;f2&gt;Text frame xxyy selected&lt;/f2&gt;, and so on.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181106T190909Z" creationid="olex" creationdate="20181106T190909Z">
+        <seg>Когда вы рисуете основную фигуру или выбираете ее для редактирования, поле &lt;f0&gt;Информации&lt;/f0&gt; в левой части строки состояния изменяется, отражая текущее действие: например, &lt;f1&gt;Создать Линия&lt;/f1&gt;, &lt;f2&gt;Создать Врезка&lt;/f2&gt; и т.д.</seg>
       </tuv>
     </tu>
     <tu>
