@@ -7720,6 +7720,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Не смог перевести буквально, немного перезелал концовку</note>
+      <tuv lang="EN-US">
+        <seg>An object can have as many dimension lines as necessary to indicate measures of its sides, edges, and distances.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T193123Z" creationid="olex" creationdate="20181108T193123Z">
+        <seg>Объект может иметь столько размерных линий, сколько необходимо для указания его длины, ширины и других размеров.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>An open standard meets the following requirements:</seg>
       </tuv>
@@ -13642,6 +13651,22 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dimension lines automatically calculate and display linear dimensions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T193259Z" creationid="olex" creationdate="20181108T193259Z">
+        <seg>Размерные линии автоматически определяют и отображают линейные размеры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dimension lines display a measurement of an object in the drawing (Figure &lt;t0&gt;12&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T192626Z" creationid="olex" creationdate="20181108T192626Z">
+        <seg>Размерные линии отображают размеры объекта на рисунке (Рисунок &lt;t0&gt;12&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Direct (or Manual) formatting</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180929T064651Z" creationid="olex" creationdate="20180929T064651Z">
@@ -15521,6 +15546,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T191407Z" creationid="olex" creationdate="20180719T191407Z">
         <seg>Рисунок &lt;seq0&gt;12&lt;/seq0&gt;: Получение дополнительных шаблонов для LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Measuring an object with dimension lines</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T193219Z" creationid="olex" creationdate="20181108T193219Z">
+        <seg>Рисунок &lt;seq0&gt;12&lt;/seq0&gt;: Размеры объекта с размерными линиями</seg>
       </tuv>
     </tu>
     <tu>
@@ -38948,6 +38981,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The dimension line does not belong to the object itself but it is usually placed close to it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T192752Z" creationid="olex" creationdate="20181108T192752Z">
+        <seg>Размерная линия не относится к самому объекту, но обычно располагается вплотную к нему.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The discussion starts with features near the top of the macro listing and describes them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T090235Z" creationid="tagezi" creationdate="20180315T090235Z">
@@ -43843,6 +43884,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T193338Z" creationid="olex" creationdate="20180502T193338Z">
         <seg>Чтобы сделать это:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To draw a dimension line, open the &lt;f0&gt;Arrows&lt;/f0&gt; toolbar (Figure &lt;t1&gt;11&lt;/t1&gt;) and click the &lt;f2&gt;Dimension Line&lt;/f2&gt; icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T193517Z" creationid="olex" creationdate="20181108T193517Z">
+        <seg>Чтобы нарисовать размерную линию, откройте панель инструментов &lt;f0&gt;Стрелки&lt;/f0&gt; (Рисунок &lt;t1&gt;11&lt;/t1&gt;) и нажмите значок &lt;f2&gt;Размерная линия&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
