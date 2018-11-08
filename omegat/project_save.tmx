@@ -13653,8 +13653,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Dimension lines automatically calculate and display linear dimensions.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181108T193259Z" creationid="olex" creationdate="20181108T193259Z">
-        <seg>Размерные линии автоматически определяют и отображают линейные размеры.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T193557Z" creationid="olex" creationdate="20181108T193259Z">
+        <seg>Размерные линии автоматически определяют и отображают значение линейных размеров.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15618,6 +15618,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T212751Z" creationid="olex" creationdate="20180407T212751Z">
         <seg>Рисунок &lt;seq0&gt;13&lt;/seq0&gt;: Диалоговое окно Удалить ячейки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Dimension line settings dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T194140Z" creationid="olex" creationdate="20181108T194140Z">
+        <seg>Рисунок &lt;seq0&gt;13&lt;/seq0&gt;: Диалоговое окно Размерная линия</seg>
       </tuv>
     </tu>
     <tu>
@@ -22710,6 +22718,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the option &lt;f0&gt;When creating or moving objects&lt;/f0&gt; has been selected in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; General&lt;/f1&gt;, the action of the &lt;f2&gt;Shift&lt;/f2&gt; key is reversed: the Rectangle tool draws a square.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T194917Z" creationid="olex" creationdate="20181108T194917Z">
+        <seg>Если в &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Draw &gt; Сетка&lt;/f1&gt; выбрана опция &lt;f0&gt;При создании или перемещении объектов&lt;/f0&gt;, то действие клавиши &lt;f2&gt;Shift&lt;/f2&gt; отменяется: инструмент Прямоугольник будет рисовать квадрат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the original cell contained a number, a series will be created.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T141741Z" creationid="olex" creationdate="20180414T141741Z">
@@ -28897,6 +28913,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move your pointer to where you want the line to start and drag to draw the dimension line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T193730Z" creationid="olex" creationdate="20181108T193730Z">
+        <seg>Нажмите указателем мыши там, где вы хотите начать линию, и перетаскивайте его, чтобы нарисовать размерную линию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moves cell focus &lt;f0&gt;up one cell (unless changed by user).&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T082454Z" creationid="olex" creationdate="20180901T082454Z">
@@ -32629,6 +32653,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T181232Z" creationid="olex" creationdate="20180615T181232Z">
         <seg>Отпустите кнопку мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release when finished.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T193751Z" creationid="olex" creationdate="20181108T193751Z">
+        <seg>Отпустите кнопку мыши, когда закончите.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50227,6 +50259,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T181838Z" creationid="olex" creationdate="20181001T181838Z">
         <seg>Вы можете вставить комментарий к нескольким абзацам или в одном месте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can control the display of the dimension line’s components and appearance by selecting it, right-clicking, and choosing &lt;f0&gt;Dimensions...&lt;/f0&gt;&lt;f1&gt; in the context menu to display the Dimension line dialog &lt;s2/&gt;(Figure &lt;/f1&gt;&lt;f3&gt;&lt;t4&gt;13&lt;/t4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T194118Z" creationid="olex" creationdate="20181108T194118Z">
+        <seg>Вы можете управлять отображением элементов и внешним видом размерной линии, выбрав ее, нажав правой кнопкой мыши и выбрав в контекстном меню &lt;f0&gt;Размерная линия...&lt;/f0&gt;&lt;f1&gt;, чтобы отобразить диалоговое окно Размерная линия &lt;s2/&gt;(Рисунок &lt;/f1&gt;&lt;f3&gt;&lt;t4&gt;13&lt;/t4&gt;&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
