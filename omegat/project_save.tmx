@@ -14285,10 +14285,26 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drawing &lt;i0/&gt;rectangles or squares</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T195320Z" creationid="olex" creationdate="20181108T195320Z">
+        <seg>Рисование &lt;i0/&gt;прямоугольников или квадратов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drawing a dimension line</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T150655Z" creationid="olex" creationdate="20180603T150655Z">
         <seg>Рисование размерной линии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drawing a rectangle is similar to drawing a straight line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T195351Z" creationid="olex" creationdate="20181108T195351Z">
+        <seg>Рисование прямоугольника аналогично рисованию прямой линии.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22717,6 +22733,7 @@ LG:DONE</note>
       </tuv>
     </tu>
     <tu>
+      <note>в оригинале ошибка в пути меню, надо Tools &gt; Options &gt; LibreOffice Draw &gt; Grid</note>
       <tuv lang="EN-US">
         <seg>If the option &lt;f0&gt;When creating or moving objects&lt;/f0&gt; has been selected in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; General&lt;/f1&gt;, the action of the &lt;f2&gt;Shift&lt;/f2&gt; key is reversed: the Rectangle tool draws a square.</seg>
       </tuv>
@@ -41583,6 +41600,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This &lt;f4&gt;Shift&lt;/f4&gt; key reversal also applies when drawing ellipses and circles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T195223Z" creationid="olex" creationdate="20181108T195223Z">
+        <seg>Такой "реверс" клавиши &lt;f4&gt;Shift&lt;/f4&gt; также действует при рисовании эллипсов и кругов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This allows multiple, separate areas of the same sheet to be printed while not printing the whole sheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T194249Z" creationid="olex" creationdate="20180507T194249Z">
@@ -43924,6 +43949,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181108T193517Z" creationid="olex" creationdate="20181108T193517Z">
         <seg>Чтобы нарисовать размерную линию, откройте панель инструментов &lt;f0&gt;Стрелки&lt;/f0&gt; (Рисунок &lt;t1&gt;11&lt;/t1&gt;) и нажмите значок &lt;f2&gt;Размерная линия&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To draw a rectangle, you have to press the &lt;f3&gt;Shift&lt;/f3&gt; key when drawing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T195010Z" creationid="olex" creationdate="20181108T195010Z">
+        <seg>Чтобы нарисовать прямоугольник, необходимо нажать клавишу &lt;f3&gt;Shift&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53205,6 +53238,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T181658Z" creationid="tagezi" creationdate="20180312T181658Z">
         <seg>запись</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rectangle, drawing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T195301Z" creationid="olex" creationdate="20181108T195301Z">
+        <seg>прямоугольник, рисунок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rectangles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T195234Z" creationid="olex" creationdate="20181108T195234Z">
+        <seg>прямоугольники</seg>
       </tuv>
     </tu>
     <tu>
