@@ -23416,6 +23416,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you first press and hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and then click on one of the icons for Line, Rectangle, Ellipse, or Text, a standard sized object is drawn automatically in the work area; the size, shape, and color are all standard values.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T201416Z" creationid="olex" creationdate="20181108T201416Z">
+        <seg>Если вы нажмете и будете удерживать клавишу &lt;f0&gt;Ctrl&lt;/f0&gt;, а затем нажмете на один из значков Линия, Прямоугольник, Эллипс или Текст, то в рабочей области будет автоматически нарисован объект стандартной величины; размер, форма и цвет - все стандартного значения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you followed all of the above steps, the Standard library now contains a module named Recorded and this module contains the EnterMyName macro.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T151650Z" creationid="tagezi" creationdate="20180313T151650Z">
@@ -33956,6 +33964,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the &lt;f1&gt;Draw Guide&lt;/f1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T201501Z" creationid="olex" creationdate="20181108T201501Z">
+        <seg>Смотрите &lt;f1&gt;Руководство по Draw&lt;/f1&gt; для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the &lt;f1&gt;Impress Guide Chapter 2 Using Slide Masters, Styles, and Templates&lt;/f1&gt; for more information on creating and modifying slide masters.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181015T161049Z" creationid="olex" creationdate="20181015T161049Z">
@@ -39159,6 +39175,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ellipse or circle uses the start point (where you first clicked the mouse button) as the center.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T201057Z" creationid="olex" creationdate="20181108T201057Z">
+        <seg>Эллипс или круг будут использовать начальную точку (там, где вы впервые нажали кнопку мыши) в качестве центра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The end of a subroutine is indicated by the words END SUB.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T113821Z" creationid="tagezi" creationdate="20180315T113821Z">
@@ -41291,6 +41315,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T202301Z" creationid="olex" creationdate="20180311T202301Z">
         <seg>Они устанавливаются несколько иначе, как - описано ниже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These attributes can be changed later, if desired.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T201440Z" creationid="olex" creationdate="20181108T201440Z">
+        <seg>При необходимости эти атрибуты можно будет изменить позже.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44030,6 +44062,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181108T200658Z" creationid="olex" creationdate="20181108T200658Z">
         <seg>Чтобы нарисовать эллипс (также называемый овалом), нажмите значок &lt;f0&gt;Эллипс&lt;/f0&gt; на панели инструментов Рисование или во вкладке &lt;f1&gt;Фигуры&lt;/f1&gt; на Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To draw an ellipse or circle from its center, position your cursor on the drawing, press the mouse button and then hold down the &lt;f0&gt;Alt&lt;/f0&gt; key while dragging with the cursor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T201017Z" creationid="olex" creationdate="20181108T201017Z">
+        <seg>Чтобы нарисовать эллипс или круг из его центра, поместите курсор на чертеж, нажмите кнопку мыши, а затем нажмите и удерживайте клавишу &lt;f0&gt;Alt&lt;/f0&gt; при перетаскивании курсора.</seg>
       </tuv>
     </tu>
     <tu>
