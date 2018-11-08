@@ -5603,6 +5603,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A circle is an ellipse with both axes the same length.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T200733Z" creationid="olex" creationdate="20181108T200733Z">
+        <seg>Круг - это эллипс у которого обе оси одинаковой длины.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A color palette is displayed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T195751Z" creationid="olex" creationdate="20180424T195751Z">
@@ -8223,6 +8231,15 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T104055Z" creationid="tagezi" creationdate="20180320T104055Z">
         <seg>Когда вы создаете свои макросы, вы должны решить, где их хранить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Как то коряво получается, посмотреть потом</note>
+      <tuv lang="EN-US">
+        <seg>As you draw the rectangle with the mouse cursor, the rectangle appears with its bottom right corner attached to the cursor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T200006Z" creationid="olex" creationdate="20181108T195817Z">
+        <seg>Когда вы рисуете прямоугольник с помощью курсора мыши, то нижний правый угол прямоугольника появится, возле курсора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11403,6 +11420,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181106T191021Z" creationid="olex" creationdate="20181106T191021Z">
         <seg>Нажмите значок &lt;f0&gt;Линия&lt;/f0&gt; и поместите курсор в точку, где вы хотите начать рисовать линию (Рисунок &lt;t1&gt;9&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on the &lt;f0&gt;Rectangle&lt;/f0&gt; icon in the Drawing toolbar or the &lt;f1&gt;Insert Shapes&lt;/f1&gt; sub-section in Sidebar Properties.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T195555Z" creationid="olex" creationdate="20181108T195555Z">
+        <seg>Нажмите на значок &lt;f0&gt;Прямоугольник&lt;/f0&gt; на панели инструментов Рисование или во вкладке &lt;f1&gt;Фигуры&lt;/f1&gt; на Боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36691,6 +36716,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Squares are &lt;i0/&gt;rectangles with all sides of equal length.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T200103Z" creationid="olex" creationdate="20181108T200103Z">
+        <seg>Квадраты, это &lt;i0/&gt;прямоугольники со сторонами равной длины.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Standard selection</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T154343Z" creationid="olex" creationdate="20180722T154141Z">
@@ -40310,6 +40343,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T175747Z" creationid="tagezi" creationdate="20180319T175747Z">
         <seg>Запись макроса является относительно простым инструментом для использования, и одни и те же команды, которые переданы, записываются для последующего использования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rectangle or square uses the start point (where you first clicked the mouse button) as the center.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T200545Z" creationid="olex" creationdate="20181108T200545Z">
+        <seg>Прямоугольник или квадрат используют начальную точку (там, где вы нажали кнопкой мыши) в качестве центра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43945,6 +43986,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To draw a circle, click on the &lt;f2&gt;Ellipse&lt;/f2&gt; icon and hold down the &lt;f3&gt;Shift&lt;/f3&gt; key whilst you draw a circle.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T200844Z" creationid="olex" creationdate="20181108T200844Z">
+        <seg>Чтобы нарисовать круг, нажмите значок &lt;f2&gt;Эллипс&lt;/f2&gt; и удерживайте клавишу &lt;f3&gt;Shift&lt;/f3&gt;, пока вы рисуете круг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To draw a dimension line, open the &lt;f0&gt;Arrows&lt;/f0&gt; toolbar (Figure &lt;t1&gt;11&lt;/t1&gt;) and click the &lt;f2&gt;Dimension Line&lt;/f2&gt; icon.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181108T193517Z" creationid="olex" creationdate="20181108T193517Z">
@@ -43953,10 +44002,34 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To draw a rectangle or square from its center rather than the bottom right corner, position your cursor on the drawing, press the mouse button and then hold down the &lt;f0&gt;Alt&lt;/f0&gt; key while dragging with the cursor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T200435Z" creationid="olex" creationdate="20181108T200435Z">
+        <seg>Чтобы нарисовать прямоугольник или квадрат от его центра, а не нижнего правого угла, поместите курсор на рисунок, нажмите кнопку мыши, а затем нажмите и удерживайте клавишу &lt;f0&gt;Alt&lt;/f0&gt; при перетаскивании курсора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To draw a rectangle, you have to press the &lt;f3&gt;Shift&lt;/f3&gt; key when drawing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181108T195010Z" creationid="olex" creationdate="20181108T195010Z">
         <seg>Чтобы нарисовать прямоугольник, необходимо нажать клавишу &lt;f3&gt;Shift&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To draw a square, click on the &lt;f1&gt;Rectangle&lt;/f1&gt; icon and hold down the &lt;f2&gt;Shift &lt;/f2&gt;key while you draw a square.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T200146Z" creationid="olex" creationdate="20181108T200146Z">
+        <seg>Чтобы нарисовать квадрат, нажмите значок &lt;f1&gt;Прямоугольник&lt;/f1&gt; и удерживайте клавишу &lt;f2&gt;Shift&lt;/f2&gt;, пока рисуете квадрат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To draw an ellipse (also called an oval), click on the &lt;f0&gt;Ellipse&lt;/f0&gt; icon on the Drawing toolbar or the &lt;f1&gt;Insert Shapes&lt;/f1&gt; sub-section in Sidebar Properties.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T200658Z" creationid="olex" creationdate="20181108T200658Z">
+        <seg>Чтобы нарисовать эллипс (также называемый овалом), нажмите значок &lt;f0&gt;Эллипс&lt;/f0&gt; на панели инструментов Рисование или во вкладке &lt;f1&gt;Фигуры&lt;/f1&gt; на Боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53702,6 +53775,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201437Z" creationid="Роман" creationdate="20180316T201437Z">
         <seg>sqrt {a}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>squares</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181108T195830Z" creationid="olex" creationdate="20181108T195830Z">
+        <seg>квадраты</seg>
       </tuv>
     </tu>
     <tu>
