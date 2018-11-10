@@ -11624,6 +11624,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the triangle to the right of the icon to open the tool palette containing tools that are available for drawing curves and polygons (Figure &lt;t5&gt;14&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T104007Z" creationid="olex" creationdate="20181110T104007Z">
+        <seg>Нажмите треугольник справа от значка, чтобы открыть палитру инструментов, доступных для рисования кривых и полигонов (Рисунок &lt;t5&gt;14&lt;/t5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the unsaved changes icon to save the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T155801Z" creationid="olex" creationdate="20180722T155801Z">
@@ -15731,6 +15739,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T193436Z" creationid="olex" creationdate="20180719T193436Z">
         <seg>Рисунок &lt;seq0&gt;14&lt;/seq0&gt;: Создание новой категории</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Curves (Lines) toolbar and available tools</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T104451Z" creationid="olex" creationdate="20181110T104451Z">
+        <seg>Рисунок &lt;seq0&gt;14&lt;/seq0&gt;: Панель инструментов Линии и доступные инструменты</seg>
       </tuv>
     </tu>
     <tu>
@@ -28915,6 +28931,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the mouse cursor over one of the icons to show a tooltip with a description of the function.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T104300Z" creationid="olex" creationdate="20181110T104300Z">
+        <seg>Поместите курсор мыши над одним из значков, чтобы отобразить всплывающую подсказку с описанием функции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the mouse cursor over the toolbar handle, which is the small vertical bar to the left of a docked toolbar and highlighted in Figure &lt;t0&gt;4&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T181018Z" creationid="olex" creationdate="20180615T181018Z">
@@ -39519,6 +39543,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The icon for the tool used most recently is on the Drawing toolbar to make it easier to use the same tool again.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T104129Z" creationid="olex" creationdate="20181110T104129Z">
+        <seg>Значок инструмента, который использовался последним, будет отображен на панели инструментов Рисование, чтобы упростить повторное использования того же инструмента.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The icon for the tool used most recently will be shown on the Drawing toolbar to make it easier to use the same tool again.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181106T200308Z" creationid="olex" creationdate="20181106T200308Z">
@@ -42720,6 +42752,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180930T191624Z" creationid="olex" creationdate="20180930T190324Z">
         <seg>Чтобы &lt;i0/&gt;определить отступы и настройки табуляции для одного или нескольких выделенных абзацев, дважды щелкните по части линейки, которая не находится между левыми и правыми отступами, чтобы открыть вкладку &lt;f1&gt;Отступы и интервалы&lt;/f1&gt; диалогового окна Абзац.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To &lt;i0/&gt;draw&lt;i1/&gt;&lt;i2/&gt; a curve or polygon, click the &lt;f3&gt;Curve&lt;/f3&gt; icon on the Drawing toolbar or the &lt;f4&gt;Insert Shapes&lt;/f4&gt; sub-section in Sidebar Properties.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T103819Z" creationid="olex" creationdate="20181110T103819Z">
+        <seg>Чтобы &lt;i0/&gt;нарисовать&lt;i1/&gt;&lt;i2/&gt; кривую или многоугольник, нажмите значок &lt;f3&gt;Кривая&lt;/f3&gt; на панели инструментов Рисование или во вкладке &lt;f4&gt;Фигуры&lt;/f4&gt; на Боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52235,6 +52275,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>curve</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T103526Z" creationid="olex" creationdate="20181110T103526Z">
+        <seg>кривая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>custom</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180321T190955Z" creationid="olex" creationdate="20180309T193744Z">
@@ -53287,6 +53335,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T165821Z" creationid="olex" creationdate="20180603T165821Z">
         <seg>пиксели</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>polygon</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T103550Z" creationid="olex" creationdate="20181110T103550Z">
+        <seg>многоугольник</seg>
       </tuv>
     </tu>
     <tu>
