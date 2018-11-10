@@ -12292,6 +12292,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clicking on the triangle to the right of the icon on the Drawing toolbar opens a floating toolbar giving access to the tools for that shape.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T192356Z" creationid="olex" creationdate="20181110T192215Z">
+        <seg>По нажатию на треугольник справа от значка Основные фигуры на панели инструментов Рисование, откроется плавающая панели инструментов, предоставляющая доступ к инструментам рисования фигур.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clicking the &lt;f4&gt;More Options&lt;/f4&gt; button on the &lt;f5&gt;Cell Appearance&lt;/f5&gt; title bar, or clicking &lt;f6&gt;More&lt;/f6&gt; in the panel’s line style drop-down list, opens the Format Cells dialog at the &lt;f7&gt;Borders&lt;/f7&gt; page.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180528T091829Z" creationid="olex" creationdate="20180424T200826Z">
@@ -12535,8 +12543,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Connectors are especially useful in drawing organization charts, flow diagrams, and mind-maps.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181110T190444Z" creationid="olex" creationdate="20181110T190444Z">
-        <seg>Соединительные линии особенно полезны для рисования организационных диаграмм, блок-схем и схем процессов.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T192241Z" creationid="olex" creationdate="20181110T190444Z">
+        <seg>Соединительные линии особенно полезны для рисования организационных диаграмм, блок-схем и диаграмм связей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16236,6 +16244,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T101243Z" creationid="olex" creationdate="20180815T101243Z">
         <seg>Рисунок &lt;seq0&gt;19&lt;/seq0&gt;: Изменение единицы измерения для линейки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Connectors toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T191313Z" creationid="olex" creationdate="20181110T191313Z">
+        <seg>Рисунок &lt;seq0&gt;19&lt;/seq0&gt;: Панель инструментов Соединительная линия</seg>
       </tuv>
     </tu>
     <tu>
@@ -39888,6 +39904,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The geometric shapes are explained in the following sections.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T191732Z" creationid="olex" creationdate="20181110T191732Z">
+        <seg>Геометрические фигуры описываются в следующих разделах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The grammar checker in combination with the spelling checker.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180927T172351Z" creationid="olex" creationdate="20180927T172351Z">
@@ -40012,6 +40036,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181105T182438Z" creationid="olex" creationdate="20181105T182438Z">
         <seg>Значки и выпадающие меню различаются в зависимости от типа объекта, который выбран.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The icons for drawing geometric shapes are located on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T191531Z" creationid="olex" creationdate="20181110T191531Z">
+        <seg>Значки для рисования геометрических фигур расположены на панели инструментов Рисование.</seg>
       </tuv>
     </tu>
     <tu>
