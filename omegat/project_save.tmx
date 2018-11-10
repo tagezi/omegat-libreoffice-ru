@@ -21127,6 +21127,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Graphic styles affect all of the text within a text frame.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T114129Z" creationid="olex" creationdate="20181110T114129Z">
+        <seg>Графические стили влияют на весь текст в текстовой врезке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Graphics</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T193917Z" creationid="olex" creationdate="20180307T193917Z">
@@ -34493,6 +34501,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Format &gt; Styles and Formatting &lt;/f0&gt;or press &lt;f1&gt;F11&lt;/f1&gt; to open the Styles and Formatting dialog, or click on the Styles and Formatting icon on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T114104Z" creationid="olex" creationdate="20181110T114104Z">
+        <seg>Выберите &lt;f0&gt;Формат &gt; Стили &gt; Управление стилями&lt;/f0&gt; или нажмите &lt;f1&gt;F11&lt;/f1&gt;, чтобы открыть диалоговое окно Стили, или нажмите значок Стили на боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Greek&lt;/f0&gt; from the &lt;f1&gt;Symbol set&lt;/f1&gt; drop-down list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204432Z" creationid="Роман" creationdate="20180316T204432Z">
@@ -37594,6 +37610,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T174617Z" creationid="olex" creationdate="20180731T174617Z">
         <seg>Текст, вставленный с веб-сайтов и других источников, также может быть помещен в рамки или таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text properties can also be changed during text input, with any changes taking effect from the cursor position onwards.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T113341Z" creationid="olex" creationdate="20181110T113341Z">
+        <seg>Свойства текста также можно менять во время ввода, при этом любые изменения вступают в силу с позиции курсора и далее.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43760,6 +43784,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the properties for all of the text in the text frame, you have to highlight all text in the text frame.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T113430Z" creationid="olex" creationdate="20181110T113422Z">
+        <seg>Чтобы изменить свойства всего текста в текстовой врезке, вы должны выделить весь текст внутри.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change the slide transition, animate slides, add a soundtrack to the presentation, and make other enhancements, you need to use functions in the Sidebar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181015T163103Z" creationid="olex" creationdate="20181015T163103Z">
@@ -45094,6 +45126,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T140236Z" creationid="olex" creationdate="20180818T140236Z">
         <seg>Чтобы перейти от одного комментария к другому, откройте Навигатор (&lt;f0&gt;F5&lt;/f0&gt;), разверните область Комментарии и нажмите текст комментария, чтобы переместить курсор на опорную точку комментария в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To only format parts of the text, use direct formatting with the Text Formatting toolbar or the &lt;f2&gt;Character&lt;/f2&gt; and &lt;f3&gt;Paragraph&lt;/f3&gt; sub-sections in Sidebar Properties.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T114255Z" creationid="olex" creationdate="20181110T114255Z">
+        <seg>Чтобы форматировать только части текста, используйте прямое форматирование с помощью панели инструментов Форматирование текста или панелей &lt;f2&gt;Символы&lt;/f2&gt; и &lt;f3&gt;Абзац&lt;/f3&gt; во вкладке Свойства на Боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50733,6 +50773,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T192253Z" creationid="olex" creationdate="20180310T192253Z">
         <seg>Вы можете копировать стили в документ, загружая их из шаблона или из другого документа:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can create Graphic styles that you can reuse for other text frames.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T113528Z" creationid="olex" creationdate="20181110T113528Z">
+        <seg>Вы можете создавать графические стили, которые можно повторно использовать для других текстовых врезок.</seg>
       </tuv>
     </tu>
     <tu>
