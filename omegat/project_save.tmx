@@ -5899,6 +5899,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A graphic object is not dynamic and does not behave like a text frame.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T114946Z" creationid="olex" creationdate="20181110T114946Z">
+        <seg>Графический объект не является динамическим и не ведет себя как текстовая врезка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A header is an area that appears at the top of a page above the margin.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T182056Z" creationid="olex" creationdate="20180817T182056Z">
@@ -19152,6 +19160,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information about text, see Chapter 2, Drawing Basic Shapes, and Chapter 9, Adding and Formatting Text, in the &lt;f0&gt;Draw Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T115223Z" creationid="olex" creationdate="20181110T115223Z">
+        <seg>Для получения дополнительной информации про текст смотрите Главу 2, Рисование основных фигур, и Главу 9, Вставка и форматирование текста, в &lt;f0&gt;Руководстве по Draw&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information about using print ranges, see the &lt;f0&gt;Calc Guide Chapter 6 Printing, Exporting, and E-mailing&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T192916Z" creationid="olex" creationdate="20180507T192916Z">
@@ -23596,6 +23612,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T175056Z" creationid="olex" creationdate="20180727T175056Z">
         <seg>Если вы этого не сделаете, то любые изменения, внесенные вами с момента последнего сохранения, будут отображаться только в версии документа Microsoft Word. &lt;ts1/&gt;&lt;f2&gt;Кроме того,&lt;/f2&gt; сохранение в формате ODF &lt;f3&gt;позволяет вам&lt;/f3&gt; &lt;f4&gt;повторно сохранить или изменить &lt;/f4&gt;документ, если получатель вашего документа испытывает проблемы с форматом Microsoft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you double-click on a graphic object, or press &lt;f0&gt;F2&lt;/f0&gt; or click on the &lt;f1&gt;Text&lt;/f1&gt; icon when an object is selected, you can add text to the graphic object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T114900Z" creationid="olex" creationdate="20181110T114900Z">
+        <seg>Если вы дважды нажмете на графический объект или нажмите &lt;f0&gt;F2&lt;/f0&gt; или нажмете значок &lt;f1&gt;Текст&lt;/f1&gt;, когда выбран объект, то можете добавить текст к графическому объекту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37590,6 +37614,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Text frames can also have fill colors, shadows, and other attributes, just like any other Draw object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T114339Z" creationid="olex" creationdate="20181110T114339Z">
+        <seg>Текстовые врезки могут также иметь цвет заливки, тень и другие атрибуты, как и любой другой объект Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Text is entered between quotation marks; numbers are entered without quotation marks.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T184611Z" creationid="olex" creationdate="20180330T184611Z">
@@ -41759,6 +41791,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These options are available by right-clicking on the text frame itself.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T114701Z" creationid="olex" creationdate="20181110T114701Z">
+        <seg>Эти параметры доступны, по нажатию правой кнопкой мыши на самой текстовой врезке в контекстном меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These options are for macro programmers and are not discussed here.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T174505Z" creationid="olex" creationdate="20180701T174505Z">
@@ -42839,6 +42879,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T180531Z" creationid="olex" creationdate="20180416T180531Z">
         <seg>При этом способе автоматически перезаписывается без предупреждения любая информация, которая была записана ранее в ячейках выбранных листов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This text then becomes part of the graphic object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T114921Z" creationid="olex" creationdate="20181110T114921Z">
+        <seg>Затем этот текст становится частью графического объекта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44894,6 +44942,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T161547Z" creationid="olex" creationdate="20180721T161547Z">
         <seg>Чтобы перейти к определенной странице в документе, дважды щелкните по этому полю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To keep text within the borders of the object, you have to use paragraphs, line breaks, or smaller text size, increase the object size, or combine all four methods.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T115058Z" creationid="olex" creationdate="20181110T115047Z">
+        <seg>Чтобы сохранить текст в рамках объекта, вы должны использовать абзацы, переносы строк или меньший размер текста, увеличить размер объекта или комбинировать все четыре метода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51383,6 +51439,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T183441Z" creationid="olex" creationdate="20180628T183441Z">
         <seg>Вы сможете получать пароли из списка после ввода мастер-пароля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can rotate the frame and write the text at any angle.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T114414Z" creationid="olex" creationdate="20181110T114414Z">
+        <seg>Вы можете поворачивать врезку и писать текст под любым углом.</seg>
       </tuv>
     </tu>
     <tu>
