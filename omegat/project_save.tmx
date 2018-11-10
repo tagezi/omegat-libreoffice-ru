@@ -12531,6 +12531,23 @@ denkin: так лучше?</note>
       </tuv>
     </tu>
     <tu>
+      <note>Перевел пока как "схем процессов"</note>
+      <tuv lang="EN-US">
+        <seg>Connectors are especially useful in drawing organization charts, flow diagrams, and mind-maps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T190444Z" creationid="olex" creationdate="20181110T190444Z">
+        <seg>Соединительные линии особенно полезны для рисования организационных диаграмм, блок-схем и схем процессов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connectors are lines or arrows whose ends automatically snap to a glue point of an object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T185645Z" creationid="olex" creationdate="20181110T185645Z">
+        <seg>Соединительные линии - это линии или линии со стрелками, концы которых автоматически привязываются к точке соединения объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Contains images and diagrams included in the Gallery themes.</seg>
       </tuv>
@@ -16115,6 +16132,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T195829Z" creationid="olex" creationdate="20180719T195829Z">
         <seg>Рисунок &lt;seq0&gt;17&lt;/seq0&gt;: Разделение документа на главы с использованием стилей страниц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Glue Points toolbar and available tools</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T185224Z" creationid="olex" creationdate="20181110T185224Z">
+        <seg>Рисунок &lt;seq0&gt;17&lt;/seq0&gt;: Панель инструментов Точки соединения и доступные инструменты</seg>
       </tuv>
     </tu>
     <tu>
@@ -52639,6 +52664,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T175551Z" creationid="olex" creationdate="20180502T175551Z">
         <seg>условное форматирование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>connectors</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T185238Z" creationid="olex" creationdate="20181110T185238Z">
+        <seg>соединительные линии</seg>
       </tuv>
     </tu>
     <tu>
