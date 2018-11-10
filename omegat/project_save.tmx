@@ -5803,6 +5803,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A double click ends the drawing of your line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T105351Z" creationid="olex" creationdate="20181110T105351Z">
+        <seg>Двойное нажатие заканчивает рисование вашей линии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A drop-down list appears listing any cell in the same column that either has at least one text character or whose format is defined as text.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T093810Z" creationid="olex" creationdate="20180415T093810Z">
@@ -5839,6 +5847,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T171944Z" creationid="olex" creationdate="20180603T171944Z">
         <seg>Несколько примеров функций рисования: управление слоями, система привязки к сетке, размеры и показ измерений, соединители для создания организационных диаграмм, функции трехмерного рисования, которые позволяют создавать небольшие трехмерные рисунки (с текстурой и световыми эффектами), рисование и интеграция в стиль страницы, а также кривые Безье.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A filled curve automatically joins the last point to the first point to close off the figure and fills it with the current standard fill color.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T105447Z" creationid="olex" creationdate="20181110T105447Z">
+        <seg>Заполненная кривая автоматически соединяет последнюю точку с первой точкой, чтобы замкнуть фигуру и заполняет ее текущим стандартным цветом заливки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11216,6 +11232,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click and hold the left mouse button to create the starting point of your curve, then, while holding down the left mouse button, drag from the starting point to draw a line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T105024Z" creationid="olex" creationdate="20181110T105024Z">
+        <seg>Нажмите и удерживайте левую кнопку мыши, чтобы создать начальную точку кривой, затем, удерживая левую кнопку мыши, перетащите ее из начальной точки, чтобы нарисовать линию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click back on the cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T184504Z" creationid="olex" creationdate="20180411T184504Z">
@@ -12118,6 +12142,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T152035Z" creationid="olex" creationdate="20180722T152035Z">
         <seg>Нажмите здесь, чтобы открыть меню, в котором вы можете выбрать другой язык для выбранного текста или для того абзаца, где находится курсор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to set the end point of the curve and fix the line on the page.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T105209Z" creationid="olex" creationdate="20181110T105209Z">
+        <seg>Нажмите, чтобы установить конечную точку кривой и зафиксировать форму линии на странице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14594,6 +14626,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T195629Z" creationid="olex" creationdate="20180418T195629Z">
         <seg>Каждый из методов полезен в различных ситуациях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each mouse click sets a corner point and allows you to continue drawing another straight line from the corner point.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T105408Z" creationid="olex" creationdate="20181110T105332Z">
+        <seg>Каждое нажатие мышью устанавливает угловую точку и позволяет продолжить рисование другой прямой или кривой линии.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21543,6 +21583,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key when drawing lines with the Curve or Polygon tools to restrict the angles between the lines to 45 or 90 degrees.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T104947Z" creationid="olex" creationdate="20181110T104947Z">
+        <seg>Удерживайте клавишу &lt;f0&gt;Shift&lt;/f0&gt; при рисовании кривых с помощью инструментов Кривая или Многоугольник, чтобы ограничить рисования линий под углом 45 или 90 градусов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T183841Z" creationid="olex" creationdate="20180405T183841Z">
@@ -21579,6 +21627,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T154338Z" creationid="olex" creationdate="20180811T154338Z">
         <seg>Горизонтальные линии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hovering the mouse pointer over this icon gives a tooltip of &lt;f0&gt;Curve&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T104743Z" creationid="olex" creationdate="20181110T104648Z">
+        <seg>Наведение указателя мыши на этот значок даст подсказку &lt;f0&gt;Кривая&lt;/f0&gt;,</seg>
       </tuv>
     </tu>
     <tu>
@@ -23653,6 +23709,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T160143Z" creationid="olex" creationdate="20180811T160143Z">
         <seg>Если вы заметили нежелательные изменения форматирования, происходящие в вашем документе, то это искать причину в первую очередь необходимо здесь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you open the floating toolbar, the title is &lt;f1&gt;Lines&lt;/f1&gt;, as shown in Figure &lt;t2&gt;14&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T104746Z" creationid="olex" creationdate="20181110T104731Z">
+        <seg>если вы открываете плавающую панель инструментов &lt;f1&gt;Линии&lt;/f1&gt;, как показано на Рисунке &lt;t2&gt;14&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32703,6 +32767,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T175842Z" creationid="olex" creationdate="20180707T175621Z">
         <seg>Относительные ссылки возможны только в том случае, если исходный документ и документ к которому ведет ссылка находятся на одном диске.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release the left mouse button and continue to drag the cursor to bend the line into a curve.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T105122Z" creationid="olex" creationdate="20181110T105122Z">
+        <seg>Отпустите левую кнопку мыши и продолжайте перетаскивать курсор, чтобы сделать линию кривой.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43701,6 +43773,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T184846Z" creationid="olex" creationdate="20180416T184846Z">
         <seg>Чтобы полностью заменить данные в ячейке новой информацией, выберите ячейку и введите новые данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To continue with your line, drag the mouse cursor to draw a straight line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T105252Z" creationid="olex" creationdate="20181110T105252Z">
+        <seg>Чтобы продолжить рисование линии, перетащите указатель мыши, рисуя прямую линию.</seg>
       </tuv>
     </tu>
     <tu>
