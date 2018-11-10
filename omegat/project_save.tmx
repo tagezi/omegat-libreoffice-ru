@@ -7109,6 +7109,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Draw objects have glue points, which are not normally displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T183159Z" creationid="olex" creationdate="20181110T183159Z">
+        <seg>Все объекты Draw имеют точки соединения, которые обычно не отображаются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All available library containers are shown in the &lt;f3&gt;Macro from&lt;/f3&gt; list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T090757Z" creationid="tagezi" creationdate="20180320T090757Z">
@@ -20504,6 +20512,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Glue points become visible when the &lt;f0&gt;Connectors&lt;/f0&gt; icon is selected on the Drawing toolbar or the &lt;f1&gt;Insert Shapes&lt;/f1&gt; sub‑section in Sidebar Properties.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T183625Z" creationid="olex" creationdate="20181110T183625Z">
+        <seg>Точки соединения становятся видимыми, если на панели инструментов Рисование или во вкладке &lt;f1&gt;Фигуры&lt;/f1&gt; на Боковой панели выбрать один из значков &lt;f0&gt;Соединительная линия&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;&lt;f1&gt;Edit &gt; Select&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &gt; Select Sheets... &lt;/f2&gt;on the Menu bar to open the &lt;f3&gt;Select Sheets&lt;/f3&gt; dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181009T173432Z" creationid="olex" creationdate="20181009T173432Z">
@@ -21123,6 +21139,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T093803Z" creationid="Роман" creationdate="20180316T093725Z">
         <seg>Выберите пункт меню &lt;f0&gt;Вид &gt; Элементы&lt;/f0&gt;, чтобы отобразилась панель &lt;f1&gt;Элементы&lt;/f1&gt; &lt;i2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f5&gt;View &gt; Toolbars &gt; Glue Points&lt;/f5&gt; on to open the toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T184042Z" creationid="olex" creationdate="20181110T184042Z">
+        <seg>Выберите в меню &lt;f5&gt;Вид &gt; Панели инструментов &gt; Точки соединения&lt;/f5&gt;, чтобы открыть панель инструментов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28991,6 +29015,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T190357Z" creationid="olex" creationdate="20180312T220411Z">
         <seg>Большинство настроек по умолчанию, таких как размер страницы и поля страницы, можно изменить в &lt;f0&gt;Стили &gt; Управление стилями&lt;/f0&gt;, но эти изменения относятся только к документу, над которым вы работаете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most objects have four glue points (Figure &lt;t2&gt;16&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T183846Z" creationid="olex" creationdate="20181110T183846Z">
+        <seg>Большинство объектов имеют четыре точки соединения (Рисунок &lt;t2&gt;16&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -50129,6 +50161,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T172327Z" creationid="olex" creationdate="20180828T172327Z">
         <seg>Вы можете добавить шаблоны составных документов в LibreOffice так же, как шаблоны обычных документов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can add more glue points and customize glue points, using the &lt;f3&gt;Glue Points&lt;/f3&gt; toolbar (Figure &lt;t4&gt;17&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T183940Z" creationid="olex" creationdate="20181110T183934Z">
+        <seg>Вы можете добавить больше точек соединения и настроить их, используя панель инструментов &lt;f3&gt;Точки соединения&lt;/f3&gt; (Рисунок &lt;t4&gt;17&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
