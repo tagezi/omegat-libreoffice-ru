@@ -16079,6 +16079,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Glue points</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T184050Z" creationid="olex" creationdate="20181110T184050Z">
+        <seg>Рисунок &lt;seq0&gt;16&lt;/seq0&gt;: Точки соединения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: &lt;f1&gt;Basic IDE Options dialog&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T180857Z" creationid="olex" creationdate="20180918T180857Z">
@@ -18124,6 +18132,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T203122Z" creationid="Роман" creationdate="20180316T202539Z">
         <seg>Для ввода греческих символов в нижнем регистре ведите знак процента (%), а затем английское имя символа в нижнем регистре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a more detailed description on the use of glue points, see Chapter 3, Working with Objects and Object Points, and Chapter 8, Connections, Flowcharts, and Organization Charts, &lt;f0&gt;in &lt;s1/&gt;the &lt;/f0&gt;&lt;f2&gt;Draw Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T185034Z" creationid="olex" creationdate="20181110T185034Z">
+        <seg>Более подробное описание использования точек соединения смотрите в Главе 3, Работа с объектами и точками объектов и Главе 8, Соединительные линии, Блок-схемы и Схемы организации, &lt;f0&gt;в&lt;s1/&gt;&lt;/f0&gt; &lt;f2&gt;Руководстве по Draw&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20508,6 +20524,22 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T151426Z" creationid="olex" creationdate="20180603T151426Z">
         <seg>Точки соединения и соединительные линии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glue points are not the same as the selection handles of an object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T184149Z" creationid="olex" creationdate="20181110T184149Z">
+        <seg>Точки соединения - это не то же самое, что и ручки выделения объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glue points are used to fix or glue a connector to an object so that when the object moves, the connector stays fixed to the object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T184615Z" creationid="olex" creationdate="20181110T184615Z">
+        <seg>Точки соединения используются для скрепления соединительной линии с объектом, так что когда объект перемещается, то соединительная линия остается прикрепленной к объекту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39803,6 +39835,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T124636Z" creationid="olex" creationdate="20180818T124636Z">
         <seg>Серые участки линеек - это поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The handles are for moving or changing the shape of an object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T184206Z" creationid="olex" creationdate="20181110T184206Z">
+        <seg>Ручки предназначены для перемещения или изменения формы объекта.</seg>
       </tuv>
     </tu>
     <tu>
