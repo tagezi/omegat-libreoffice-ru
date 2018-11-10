@@ -5707,6 +5707,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A curve without filling will not be closed at the end of the drawing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T110140Z" creationid="olex" creationdate="20181110T105556Z">
+        <seg>Кривая без заливки не будет автоматически закрыта после окончания рисования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A decimal number string can have digits 0-9, thousands separators, and a decimal separator.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T193621Z" creationid="olex" creationdate="20180330T193621Z">
@@ -5811,6 +5819,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A double-click ends the drawing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T105916Z" creationid="olex" creationdate="20181110T105916Z">
+        <seg>Двойное нажатие завершает рисование.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A drop-down list appears listing any cell in the same column that either has at least one text character or whose format is defined as text.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T093810Z" creationid="olex" creationdate="20180415T093810Z">
@@ -5853,8 +5869,16 @@
       <tuv lang="EN-US">
         <seg>A filled curve automatically joins the last point to the first point to close off the figure and fills it with the current standard fill color.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181110T105447Z" creationid="olex" creationdate="20181110T105447Z">
-        <seg>Заполненная кривая автоматически соединяет последнюю точку с первой точкой, чтобы замкнуть фигуру и заполняет ее текущим стандартным цветом заливки.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T105511Z" creationid="olex" creationdate="20181110T105447Z">
+        <seg>Кривая с заливкой автоматически соединяет последнюю точку с первой точкой, чтобы замкнуть фигуру и заполняет ее текущим стандартным цветом заливки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A filled polygon automatically joins the last point to the first point to close off the figure and fills it with the current standard fill color.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T110001Z" creationid="olex" creationdate="20181110T110001Z">
+        <seg>Многоугольник с заливкой автоматически соединяет последнюю точку с первой точкой, чтобы замкнуть фигуру и заполняет ее текущим стандартным цветом заливки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6232,6 +6256,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181010T173609Z" creationid="olex" creationdate="20181010T173609Z">
         <seg>Сводная таблица - это способ организовать, манипулировать и суммировать большие объемы данных, чтобы облегчить их чтение и понимание, а также позволить вам отвечать на различные вопросы о вашей электронной таблице, упорядочивая или оборачивая данные, которые вы вводите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A polygon without filling will not be closed at the end of the drawing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T110130Z" creationid="olex" creationdate="20181110T110130Z">
+        <seg>Полигон без заливки не будет закрыт автоматически после окончания рисования.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8183,6 +8215,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181031T181139Z" creationid="olex" creationdate="20181031T181139Z">
         <seg>Как указано в «&lt;bf0&gt;Изменение демонстрации слайдов&lt;/bf0&gt;» на странице &lt;bf1&gt;17&lt;/bf1&gt;, Impress назначает умеренные настройки по умолчанию для демонстрации слайдов и в то же время позволяет пользователю настраивать многие аспекты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As soon as you release the mouse button, a line between the first and second points is drawn.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T105710Z" creationid="olex" creationdate="20181110T105710Z">
+        <seg>Как только вы отпустите кнопку мыши, будет нарисована линия между первой и второй точками.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11228,6 +11268,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181017T175015Z" creationid="olex" creationdate="20181017T175015Z">
         <seg>Нажмите и протащите курсор мыши на слайде, чтобы нарисовать поле для текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click and draw the first line from the start point with the left mouse button held down.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T105636Z" creationid="olex" creationdate="20181110T105636Z">
+        <seg>Нажмите и нарисуйте первую линию из начальной точки, удерживая нажатой левую кнопку мыши.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14632,8 +14680,16 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Each mouse click sets a corner point and allows you to continue drawing another straight line from the corner point.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181110T105408Z" creationid="olex" creationdate="20181110T105332Z">
-        <seg>Каждое нажатие мышью устанавливает угловую точку и позволяет продолжить рисование другой прямой или кривой линии.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T105846Z" creationid="olex" creationdate="20181110T105332Z">
+        <seg>Каждое нажатие мышью устанавливает узловую точку и позволяет продолжить рисование следующей прямой или кривой линии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each mouse click sets a corner point and allows you to draw another line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T105833Z" creationid="olex" creationdate="20181110T105805Z">
+        <seg>Каждый щелчок мыши устанавливает узловую точку и позволяет нарисовать следующую линию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19930,8 +19986,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Freeform lines</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181101T201150Z" creationid="olex" creationdate="20181101T201150Z">
-        <seg>Линии произвольной формы</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T110627Z" creationid="olex" creationdate="20181101T201150Z">
+        <seg>Полилинии</seg>
       </tuv>
     </tu>
     <tu>
@@ -22123,6 +22179,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T205530Z" creationid="olex" creationdate="20180309T205530Z">
         <seg>Если активны стили символов, то в список будет добавлен новый стиль символа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If Freeform Line Filled is selected, the end point is joined automatically to the start point and the object is filled with the appropriate color.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T111147Z" creationid="olex" creationdate="20181110T111101Z">
+        <seg>Если выбрана Полилиния с заливкой, то конечная точка автоматически соединится с начальной точкой, и объект будет заполнен установленным цветом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26454,6 +26518,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is not necessary to end the drawing with a double-click, just release the mouse button and the drawing is completed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T111015Z" creationid="olex" creationdate="20181110T111015Z">
+        <seg>Нет необходимости завершать рисование двойным нажатием мыши, просто отпустите кнопку мыши, и рисование будет завершено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is not obvious which tab goes with what.&lt;/f2&gt;&lt;/t1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T161722Z" creationid="olex" creationdate="20180722T161722Z">
@@ -27669,6 +27741,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153336Z" creationid="User" creationdate="20180311T153336Z">
         <seg>Родной формат файла для формул LibreOffice Math - это ODF Formula с расширением *.odf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like ordinary polygons, these are formed from lines, but the angles between lines are restricted to 45 or 90 degrees.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T110524Z" creationid="olex" creationdate="20181110T110524Z">
+        <seg>Подобно обычным многоугольникам, они формируются из линий, но углы между линиями ограничены 45 или 90 градусами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28975,6 +29055,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T141534Z" creationid="olex" creationdate="20180414T141534Z">
         <seg>Поместите курсор над маленьким квадратом в нижнем правом углу выбранной ячейки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the cursor to draw the next line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T105727Z" creationid="olex" creationdate="20181110T105727Z">
+        <seg>Переместите курсор, чтобы нарисовать следующую линию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32109,6 +32197,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202529Z" creationid="olex" creationdate="20180404T202529Z">
         <seg>Нажмите и удерживайте левую кнопку мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press and hold the left mouse button and drag the cursor to the line shape you require.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T110926Z" creationid="olex" creationdate="20181110T110926Z">
+        <seg>Нажмите и удерживайте левую кнопку мыши, а затем перетаскивайте курсор, рисуя нужную вам форму линии.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42972,6 +43068,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To activate the text tool, click on the &lt;f0&gt;Text&lt;/f0&gt; icon for horizontal text or the &lt;f1&gt;Vertical Text&lt;/f1&gt; icon for vertical script.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T111503Z" creationid="olex" creationdate="20181110T111503Z">
+        <seg>Чтобы активировать инструмент текста, нажмите значок &lt;f0&gt;Текстовое поле&lt;/f0&gt; для горизонтального текста или значок &lt;f1&gt;Вертикальный текст&lt;/f1&gt; для вертикального написания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To add a &lt;i0/&gt;menu item, &lt;i1/&gt;keyboard shortcut, or &lt;i2/&gt;toolbar icon that calls a macro, use &lt;i3/&gt;the Customize dialog (Figure &lt;t4&gt;9&lt;/t4&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T140441Z" creationid="tagezi" creationdate="20180320T140345Z">
@@ -47837,6 +47941,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T185220Z" creationid="olex" creationdate="20180403T172218Z">
         <seg>Используя четыре кнопки слева от вкладок листа, вы можете перемещать вкладки (смотрите Рисунок &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the freeform line tools is similar to drawing with a pencil on paper.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T110732Z" creationid="olex" creationdate="20181110T110614Z">
+        <seg>Использование инструментов Полилиния подобно рисованию с помощью карандаша на бумаге.</seg>
       </tuv>
     </tu>
     <tu>
