@@ -6396,6 +6396,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A small text frame appears, containing only the cursor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T112235Z" creationid="olex" creationdate="20181110T112235Z">
+        <seg>Появится небольшая текстовая рамка, содержащая только курсор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A specific document type</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T135100Z" creationid="tagezi" creationdate="20180320T135100Z">
@@ -6961,6 +6969,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T184211Z" creationid="olex" creationdate="20180817T184211Z">
         <seg>После того, как верхний &lt;ts0/&gt;&lt;f1&gt;или нижний колонтитул&lt;/f1&gt;&lt;te2/&gt; будет создан, на маркере появится стрелка вниз&lt;tc3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After activating the Text command, click at the location where you want to position the text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T112102Z" creationid="olex" creationdate="20181110T112102Z">
+        <seg>После нажатия кнопки Текстовое поле щелкните по месту, где вы хотите поместить текст.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22795,6 +22811,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181019T192007Z" creationid="olex" creationdate="20181019T192007Z">
         <seg>Если панель инструментов Форматирование текста не отображается, то выберите в меню &lt;f6&gt;Вид &gt; Панели инструментов &gt; Форматирование текста&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Vertical Text icon is not visible, check that &lt;f2&gt;Asian &lt;/f2&gt;has been selected in &lt;f3&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T111723Z" creationid="olex" creationdate="20181110T111723Z">
+        <seg>Если значок Вертикальный текст не отображается, то убедитесь, что в &lt;f3&gt;Сервис &gt; Параметры &gt; Настройки языка &gt; Языки&lt;/f3&gt; выбрано &lt;f2&gt;Восточноазиатские&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50837,6 +50861,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180929T074544Z" creationid="olex" creationdate="20180929T074544Z">
         <seg>Вы можете напрямую применять многие форматы к символам с помощью кнопок на панели инструментов Форматирование и на панели Символ, на вкладке Свойства Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can display the Text Formatting toolbar (&lt;f4&gt;View &gt; Toolbars&lt;/f4&gt;) or use the Character section in the Properties pane of the Sidebar to select font type, font size, and other text properties before you start typing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T112025Z" creationid="olex" creationdate="20181110T112025Z">
+        <seg>Вы можете отобразить панель инструментов Форматирование текста (&lt;f4&gt;Вид &gt; Панели инструментов&lt;/f4&gt;) или использовать панель Символы во вкладке Свойства на Боковой панели, чтобы выбрать гарнитуру шрифта, кегль шрифта и другие свойства текста прежде, чем начинать вводить текст.</seg>
       </tuv>
     </tu>
     <tu>
