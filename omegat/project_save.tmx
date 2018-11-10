@@ -14439,6 +14439,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw offers a range of different connectors and connector functions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T190756Z" creationid="olex" creationdate="20181110T190756Z">
+        <seg>Draw предлагает ряд различных соединительных линий и их функций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw provides a wide range of shapes, located in palettes accessed from the Drawing toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181106T194908Z" creationid="olex" creationdate="20181106T190051Z">
@@ -16176,6 +16184,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: A connector between two objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T191255Z" creationid="olex" creationdate="20181110T191255Z">
+        <seg>Рисунок &lt;seq0&gt;18&lt;/seq0&gt;: Соединительная линия между двумя объектами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Basic IDE Options dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T174549Z" creationid="olex" creationdate="20180701T174549Z">
@@ -17707,6 +17723,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;t2&gt;18&lt;/t2&gt;&lt;s3/&gt;shows an example of two objects and a connector.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T190659Z" creationid="olex" creationdate="20181110T190659Z">
+        <seg>Рисунок &lt;t2&gt;18&lt;/t2&gt;&lt;s3/&gt;показывает пример двух объектов скрепленных соединительной линией.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;t5&gt;34&lt;/t5&gt;&lt;s6/&gt;shows the styles added by the &lt;f7&gt;&lt;f8&gt;Pastel&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;theme.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180905T183238Z" creationid="olex" creationdate="20180905T183238Z">
@@ -18157,6 +18181,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T203122Z" creationid="Роман" creationdate="20180316T202539Z">
         <seg>Для ввода греческих символов в нижнем регистре ведите знак процента (%), а затем английское имя символа в нижнем регистре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a more detailed description of the use of connectors, see Chapter 8, Connections, Flowcharts, and Organization Charts, in the &lt;f8&gt;Draw Guide&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T191230Z" creationid="olex" creationdate="20181110T191230Z">
+        <seg>Более подробное описание использования соединительных линий приведено в Главе 8, Соединительные линии, Блок-схемы и Схемы организации в &lt;f8&gt; Руководстве по Draw&lt;/f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30628,6 +30660,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T130706Z" creationid="olex" creationdate="20180818T130706Z">
         <seg>На &lt;tc0/&gt;Боковой панели (&lt;f1&gt;Вид &gt; Боковая панель&lt;/f1&gt;) &lt;ts2/&gt;&lt;f3&gt;открыть &lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt; &lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;f9&gt;складку Страница&lt;/f9&gt;&lt;/f8&gt;&lt;te10/&gt;&lt;ts11/&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the Drawing toolbar or the &lt;f0&gt;Insert Shapes&lt;/f0&gt; sub-section in Sidebar Properties, click on the triangle next to the &lt;f1&gt;Connector&lt;/f1&gt; icon &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;s5/&gt;to open the &lt;f6&gt;Connectors&lt;/f6&gt; toolbar (Figure &lt;t7&gt;19&lt;/t7&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T191045Z" creationid="olex" creationdate="20181110T191045Z">
+        <seg>На панели инструментов Рисование или во вкладке &lt;f0&gt;Фигуры&lt;/f0&gt; на Боковой панели нажмите треугольник рядом с значком &lt;f1&gt;Соединительная линия&lt;/f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;s5/&gt;, чтобы открыть панель инструментов &lt;f6&gt;Соединительная линия&lt;/f6&gt; (Рисунок &lt;t7&gt;19&lt;/t7&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -48968,6 +49008,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181101T201935Z" creationid="olex" creationdate="20180604T192042Z">
         <seg>Когда не выбрано ни одного объекта, то они показывают местоположение указателя мыши, что помогает более точно позиционировать объекты чертежа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When objects are moved or reordered, &lt;i0/&gt;&lt;i1/&gt;the connectors remain attached to a glue point.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T190608Z" creationid="olex" creationdate="20181110T190608Z">
+        <seg>Когда объекты перемещаются или переупорядочиваются, &lt;i0/&gt;&lt;i1/&gt; соединительные линии остаются прикрепленными к точкам соединения.</seg>
       </tuv>
     </tu>
     <tu>
