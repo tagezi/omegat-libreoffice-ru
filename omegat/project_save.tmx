@@ -6398,8 +6398,8 @@
       <tuv lang="EN-US">
         <seg>A small text frame appears, containing only the cursor.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181110T112235Z" creationid="olex" creationdate="20181110T112235Z">
-        <seg>Появится небольшая текстовая рамка, содержащая только курсор.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T112953Z" creationid="olex" creationdate="20181110T112235Z">
+        <seg>Появится небольшое текстовое поле (врезка), содержащее только курсор.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6432,6 +6432,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T175239Z" creationid="olex" creationdate="20180616T175239Z">
         <seg>Панель вкладок с правой стороны боковой панели позволяет переключаться между различными вкладками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A text frame is also dynamic and grows as you enter text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T113006Z" creationid="olex" creationdate="20181110T112327Z">
+        <seg>Врезка также динамично увеличивается по мере ввода текста.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15955,6 +15963,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T153153Z" creationid="olex" creationdate="20180630T153153Z">
         <seg>Рисунок &lt;seq0&gt;15&lt;/seq0&gt;: Отображение или скрытие границ текста, объекта и таблицы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Text information on the Status Bar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T112627Z" creationid="olex" creationdate="20181110T112627Z">
+        <seg>Рисунок &lt;seq0&gt;15&lt;/seq0&gt;: Информация о тексте в Строке состояния</seg>
       </tuv>
     </tu>
     <tu>
@@ -39839,10 +39855,26 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The information field in the status bar shows that you are editing text and also provides details about the current cursor location using paragraph, row, and column numbers (Figure &lt;t0&gt;15&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T112555Z" creationid="olex" creationdate="20181110T112555Z">
+        <seg>Информационное поле в строке состояния показывает, что вы изменяете текст, а также предоставляет сведения о текущем местоположении курсора с указанием количества абзацев, строк и столбцов (Рисунок &lt;t0&gt;15&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The information field on the status bar shows them only as lines.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181106T194857Z" creationid="olex" creationdate="20181106T194857Z">
         <seg>Информационное поле в строке состояния показывает их только как линии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The insertion of line breaks or new paragraphs does not terminate text editing or deselect the text frame.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T113029Z" creationid="olex" creationdate="20181110T112833Z">
+        <seg>Вставка переносов строк или новых абзацев не прерывает редактирование текста и не отменяет выбор врезки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42326,6 +42358,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T165615Z" creationid="lera" creationdate="20180303T165615Z">
         <seg>Этот фонд является краеугольным камнем новой экосистемы, в которой отдельные лица и организации могут вносить свой вклад и получать доступ к наличию по-настоящему свободного офисного пакета.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This frame can be moved like any other object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T112934Z" creationid="olex" creationdate="20181110T112305Z">
+        <seg>Эту врезку можно перемещать, как и любой другой объект.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49091,6 +49131,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you have finished typing text, click outside the text frame to cancel adding or editing text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T113153Z" creationid="olex" creationdate="20181110T113153Z">
+        <seg>Когда вы закончите ввод текста, нажмите вне текстовой врезки, чтобы закончить создание или редактирование текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you have finished, click away from the cell to deselect it and your editing changes are saved.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T195102Z" creationid="olex" creationdate="20180418T195102Z">
@@ -51053,6 +51101,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T183820Z" creationid="olex" creationdate="20180508T183820Z">
         <seg>Вы можете вставить горизонтальный разрыв страницы выше или вертикальный разрыв страницы слева от активной ячейки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can insert a line break with the &lt;f0&gt;Shift+Enter&lt;/f0&gt; key combination or start a new paragraph with the &lt;f1&gt;Enter&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181110T112744Z" creationid="olex" creationdate="20181110T112744Z">
+        <seg>Вы можете вставить перенос строки с помощью комбинации клавиш &lt;f0&gt;Shift+Enter&lt;/f0&gt; или начать новый абзац с помощью клавиши &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
