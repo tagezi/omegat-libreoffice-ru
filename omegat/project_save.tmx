@@ -15248,6 +15248,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even if objects are located behind others and not visible, they can still be selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T192410Z" creationid="olex" creationdate="20181113T192410Z">
+        <seg>Даже если объекты расположены за другими объектами и не видны, то их все равно можно выбрать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even if you do not select this option, some settings are taken from your LibreOffice installation:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180706T180104Z" creationid="olex" creationdate="20180706T180104Z">
@@ -21879,6 +21887,15 @@ LG:DONE</note>
       </tuv>
     </tu>
     <tu>
+      <note>что то у меня это никак не работает(((</note>
+      <tuv lang="EN-US">
+        <seg>Hold down the &lt;f0&gt;Alt&lt;/f0&gt; key and click on the object at the front of where the hidden object is located, then click again to select the hidden object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T192649Z" creationid="olex" creationdate="20181113T192649Z">
+        <seg>Удерживая нажатой клавишу &lt;f0&gt;Alt&lt;/f0&gt;, сначала нажмите на объект, под которым находится скрытый объект, а затем нажмите еще раз, чтобы выбрать скрытый объект.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Hold down the &lt;f0&gt;Alt&lt;/f0&gt; key while drawing a line to cause the line to extend outwards symmetrically in both directions from the start point.</seg>
       </tuv>
@@ -23317,6 +23334,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T070114Z" creationid="olex" creationdate="20180329T183016Z">
         <seg>Если выше выбранной ячейки нет чисел, то складываться будут числа из ячеек слева от выбранной.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there are several hidden objects, keep holding down the &lt;f1&gt;Alt key&lt;/f1&gt; and clicking until you reach the object you want.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T192748Z" creationid="olex" creationdate="20181113T192748Z">
+        <seg>Если там есть несколько скрытых объектов, то продолжайте удерживать клавишу &lt;f1&gt;Alt&lt;/f1&gt; и нажимайте, пока не выберете необходимый вам объект.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53578,6 +53603,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T185208Z" creationid="olex" creationdate="20180508T185208Z">
         <seg>верхние и нижние колонтитулы, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hidden</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T192321Z" creationid="olex" creationdate="20181113T192321Z">
+        <seg>скрытый</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>hidden objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T192335Z" creationid="olex" creationdate="20181113T192335Z">
+        <seg>скрытые объекты</seg>
       </tuv>
     </tu>
     <tu>
