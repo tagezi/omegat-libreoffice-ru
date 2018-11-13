@@ -11744,6 +11744,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the triangle to the right of the &lt;f0&gt;Flowcharts&lt;/f0&gt; icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;to open the &lt;f5&gt;Flowchart&lt;/f5&gt; toolbar for symbols used in drawing flowcharts.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T183415Z" creationid="olex" creationdate="20181113T183415Z">
+        <seg>Нажмите треугольник справа от значка &lt;f0&gt;Блок-схемы&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;, чтобы открыть панель инструментов &lt;f5&gt;Блок-схемы&lt;/f5&gt; с символами, используемыми в рисовании блок-схем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the triangle to the right of the &lt;f0&gt;Symbol Shapes&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt;to open the &lt;f4&gt;Symbol Shapes&lt;/f4&gt; toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181113T182549Z" creationid="olex" creationdate="20181113T182447Z">
@@ -16478,6 +16486,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T104858Z" creationid="olex" creationdate="20180815T104858Z">
         <seg>Рисунок &lt;seq0&gt;21&lt;/seq0&gt;: Включение автоматической расстановки переносов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Block Arrows toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T182949Z" creationid="olex" creationdate="20181113T182949Z">
+        <seg>Рисунок &lt;seq0&gt;22&lt;/seq0&gt;: Панель инструментов Блочные стрелки</seg>
       </tuv>
     </tu>
     <tu>
@@ -39364,6 +39380,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153641Z" creationid="tagezi" creationdate="20180318T153641Z">
         <seg>У созданного массива одно свойство с нулевым индексом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The creation of flowcharts, organization charts, and similar planning tools is further described in Chapter 8, Connections, Flowcharts, and Organization Charts in the &lt;f6&gt;Draw Guide&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T184025Z" creationid="olex" creationdate="20181113T184025Z">
+        <seg>Создание блок-схем, организационных диаграмм и аналогичных инструментов планирования далее описано далее в Главе 8, Соединительные линии, блок-схемы и организационные диаграммы в &lt;f6&gt;Руководстве по Draw&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
