@@ -11744,10 +11744,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the triangle to the right of the &lt;f0&gt;Callouts&lt;/f0&gt; icon &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;s5/&gt;to open the &lt;f6&gt;Callouts&lt;/f6&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T184240Z" creationid="olex" creationdate="20181113T184240Z">
+        <seg>Нажмите треугольник справа от значка &lt;f0&gt;Выноски&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;s5/&gt;, чтобы открыть панель инструментов &lt;f6&gt;Выноски&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the triangle to the right of the &lt;f0&gt;Flowcharts&lt;/f0&gt; icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;to open the &lt;f5&gt;Flowchart&lt;/f5&gt; toolbar for symbols used in drawing flowcharts.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181113T183415Z" creationid="olex" creationdate="20181113T183415Z">
         <seg>Нажмите треугольник справа от значка &lt;f0&gt;Блок-схемы&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;, чтобы открыть панель инструментов &lt;f5&gt;Блок-схемы&lt;/f5&gt; с символами, используемыми в рисовании блок-схем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on the triangle to the right of the &lt;f0&gt;Stars&lt;/f0&gt; icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;to open the &lt;f5&gt;Stars and Banners&lt;/f5&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T184531Z" creationid="olex" creationdate="20181113T184531Z">
+        <seg>Нажмите треугольник справа от значка &lt;f0&gt;Звезды&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;, чтобы открыть панель инструментов &lt;f5&gt;Звезды и свитки&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16554,6 +16570,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Flowcharts toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T184057Z" creationid="olex" creationdate="20181113T184057Z">
+        <seg>Рисунок &lt;seq0&gt;23&lt;/seq0&gt;: Панель инструментов Блок-схемы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Header marker at top of text area</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T183926Z" creationid="olex" creationdate="20180817T183926Z">
@@ -16566,6 +16590,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181025T185632Z" creationid="olex" creationdate="20181025T185632Z">
         <seg>Рисунок &lt;seq0&gt;23&lt;/seq0&gt;: Диалоговое окно Дизайн слайда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Callouts toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T184252Z" creationid="olex" creationdate="20181113T184252Z">
+        <seg>Рисунок &lt;seq0&gt;24&lt;/seq0&gt;: Панель инструментов Выноски</seg>
       </tuv>
     </tu>
     <tu>
@@ -16646,6 +16678,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T174747Z" creationid="olex" creationdate="20180416T174747Z">
         <seg>Рисунок &lt;seq0&gt;25&lt;/seq0&gt;: Диалоговое окно Выбрать листы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Stars and Banners toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T184546Z" creationid="olex" creationdate="20181113T184546Z">
+        <seg>Рисунок &lt;seq0&gt;25&lt;/seq0&gt;: Панель инструментов Звезды и свитки</seg>
       </tuv>
     </tu>
     <tu>
@@ -19633,6 +19673,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information, see Chapter 2, Drawing Basic Shapes, and Chapter 11, Advanced Draw Techniques, in the &lt;f0&gt;Draw Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T184816Z" creationid="olex" creationdate="20181113T184816Z">
+        <seg>Для получения дополнительной информации смотрите Главу 2, Рисование основных фигур и Главу 11, Дополнительные возможности Draw, в &lt;f0&gt;Руководстве по Draw&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information, see page &lt;t0&gt;14&lt;/t0&gt;&lt;s1/&gt;and Chapter 2, Drawing Basic Shapes, in the &lt;f2&gt;Draw Guide&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T192526Z" creationid="olex" creationdate="20181110T192526Z">
@@ -19693,6 +19741,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181019T190628Z" creationid="olex" creationdate="20181019T190628Z">
         <seg>В обычных текстовых полях требуются дополнительные шаги для создания маркированного списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For objects that are not filled, click on the object outline to select it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T185035Z" creationid="olex" creationdate="20181113T185035Z">
+        <seg>Чтобы выбрать объекты, которые не заполнены, нажмите на контур объекта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30983,6 +31039,15 @@ denkin: не понял? чего не видно?</note>
       </tuv>
     </tu>
     <tu>
+      <note>по моему - ошибка, второе нажатие переключает в режим вращения</note>
+      <tuv lang="EN-US">
+        <seg>One click selects; a second click deselects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T185536Z" creationid="olex" creationdate="20181113T185115Z">
+        <seg>Одно нажатие выделяет объект, а второе - отменяет выбор.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>One document</seg>
       </tuv>
@@ -36154,6 +36219,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selection &lt;i0/&gt;by framing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T185526Z" creationid="olex" creationdate="20181113T185526Z">
+        <seg>Выделение &lt;i0/&gt;рамкой</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selection by framing</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T152833Z" creationid="olex" creationdate="20180603T152833Z">
@@ -37257,6 +37330,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T063037Z" creationid="tagezi" creationdate="20180305T063037Z">
         <seg>Форматы StarWriter (.sdw, .sgl, .vor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stars &lt;i0/&gt;and banners</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T184424Z" creationid="olex" creationdate="20181113T184424Z">
+        <seg>Звезды &lt;i0/&gt;и свитки</seg>
       </tuv>
     </tu>
     <tu>
@@ -39660,6 +39741,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181009T183511Z" creationid="olex" creationdate="20181009T183511Z">
         <seg>Самый простой способ вставить комментарий - нажать правой кнопкой мыши по необходимой ячейке и выбрать &lt;f0&gt;Добавить комментарий&lt;/f0&gt; в отобразившемся &lt;f1&gt;контекстном меню&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The easiest way to select an object is to click directly on it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T184937Z" creationid="olex" creationdate="20181113T184937Z">
+        <seg>Самый простой способ выбрать объект - нажать прямо на него.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42510,6 +42599,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180924T182034Z" creationid="olex" creationdate="20180924T182034Z">
         <seg>Это создаст отдельный документ с другим расширением файла (например, .DOCX).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This cursor dragging draws a rectangle around the objects and only objects that lie entirely within the rectangle will be selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T191151Z" creationid="olex" creationdate="20181113T191151Z">
+        <seg>Такое перемещение курсора нарисует прямоугольник вокруг объектов, и будут выбраны только те объекты, которые целиком лежат внутри прямоугольника.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46041,6 +46138,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181014T181723Z" creationid="olex" creationdate="20181014T181723Z">
         <seg>Чтобы выбрать или изменить макет слайда, выберите слайд на панели Слайды, чтобы он отображался в рабочей области, и выберите необходимый макет из раздела Макеты на Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To select or deselect more than one object, hold the shift button down while clicking.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T185449Z" creationid="olex" creationdate="20181113T185449Z">
+        <seg>Чтобы выбрать или отменить выбор нескольких объектов, удерживайте нажатой кнопку Shift.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50422,6 +50527,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can add text to all of these geometric shapes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T184610Z" creationid="olex" creationdate="20181113T184610Z">
+        <seg>Вы можете добавлять текст ко всем этим геометрическим фигурам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can add two types of text boxes to a slide:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181019T181346Z" creationid="olex" creationdate="20181015T163521Z">
@@ -50771,6 +50884,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T185324Z" creationid="olex" creationdate="20180330T182603Z">
         <seg>Вы также можете выбрать одновременно несколько листов, удерживая клавишу &lt;f1&gt;Ctrl&lt;/f1&gt; и последовательно нажимая на вкладки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also select several objects at once by dragging the mouse cursor around the objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T185659Z" creationid="olex" creationdate="20181113T185659Z">
+        <seg>Вы также можете выбрать сразу несколько объектов, протащив курсор мыши вокруг них.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52660,6 +52781,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>banners</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T184334Z" creationid="olex" creationdate="20181113T184334Z">
+        <seg>свитки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>blank</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T182057Z" creationid="olex" creationdate="20180628T182057Z">
@@ -53364,6 +53493,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>framing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T185507Z" creationid="olex" creationdate="20181113T185507Z">
+        <seg>рамка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>freezing</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T163007Z" creationid="olex" creationdate="20180409T163007Z">
@@ -53880,6 +54017,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T173301Z" creationid="olex" creationdate="20180409T173301Z">
         <seg>числа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T185512Z" creationid="olex" creationdate="20181113T185512Z">
+        <seg>объекты</seg>
       </tuv>
     </tu>
     <tu>
