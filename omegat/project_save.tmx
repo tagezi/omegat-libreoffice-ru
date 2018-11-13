@@ -46126,6 +46126,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To select multiple objects by framing, the &lt;f0&gt;Select&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt;on the Drawing toolbar must be active.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T191815Z" creationid="olex" creationdate="20181113T191528Z">
+        <seg>Для выбора несколько объектов рамкой, должен быть нажат значок &lt;f0&gt;Выделить&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt;на панели инструментов Рисование.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To select nonconsecutive items using the keyboard:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T180200Z" creationid="olex" creationdate="20180730T180200Z">
@@ -49168,6 +49176,15 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180528T095658Z" creationid="olex" creationdate="20180502T183359Z">
         <seg>Если в ячейках электронной таблицы скрыть данные, то остаются видимыми пустые ячейки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>перевел marquee, как навес, пока</note>
+      <tuv lang="EN-US">
+        <seg>When dragging the mouse cursor to select multiple objects, the selection rectangle being drawn is also known as a marquee.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T192300Z" creationid="olex" creationdate="20181113T191539Z">
+        <seg>Когда перетаскивается курсор мыши для выбора нескольких объектов, выделяющий прямоугольник выбора также известен как навес.</seg>
       </tuv>
     </tu>
     <tu>
