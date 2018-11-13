@@ -11736,6 +11736,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the triangle to the right of the &lt;f0&gt;Basic Shapes&lt;/f0&gt; icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;to open the &lt;f5&gt;Basic Shapes&lt;/f5&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T182500Z" creationid="olex" creationdate="20181113T182203Z">
+        <seg>Нажмите треугольник справа от значка &lt;f0&gt;Основные фигуры&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;, чтобы открыть панель &lt;f5&gt;Основные фигуры&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on the triangle to the right of the &lt;f0&gt;Symbol Shapes&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt;to open the &lt;f4&gt;Symbol Shapes&lt;/f4&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T182549Z" creationid="olex" creationdate="20181113T182447Z">
+        <seg>Нажмите треугольник справа от значка &lt;f0&gt;Символы&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt;, чтобы открыть панель инструментов &lt;f4&gt;Символы&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on the triangle to the right of the &lt;i0/&gt;&lt;i1/&gt;&lt;f2&gt;Block Arrows&lt;/f2&gt; icon &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;s6/&gt;to open the &lt;f7&gt;Block Arrows&lt;/f7&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T182902Z" creationid="olex" creationdate="20181113T182902Z">
+        <seg>Нажмите треугольник справа от значка &lt;i0/&gt;&lt;i1/&gt;&lt;f2&gt;Стрелки&lt;/f2&gt; &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;s6/&gt;, чтобы открыть панель инструментов &lt;f7&gt;Блочные стрелки&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the triangle to the right of the icon to open the tool palette containing tools that are available for drawing curves and polygons (Figure &lt;t5&gt;14&lt;/t5&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T104007Z" creationid="olex" creationdate="20181110T104007Z">
@@ -16370,6 +16394,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Basic Shapes toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T182314Z" creationid="olex" creationdate="20181113T182314Z">
+        <seg>Рисунок &lt;seq0&gt;20&lt;/seq0&gt;: Панель инструментов Основные фигуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Modifying a style</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T104111Z" creationid="olex" creationdate="20180815T104111Z">
@@ -16430,6 +16462,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181025T183333Z" creationid="olex" creationdate="20181025T183333Z">
         <seg>Рисунок &lt;seq0&gt;21&lt;/seq0&gt;: Вкладка Мастер-слайды на Боковой панели</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Symbol Shapes toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T182622Z" creationid="olex" creationdate="20181113T182622Z">
+        <seg>Рисунок &lt;seq0&gt;21&lt;/seq0&gt;: Панель инструментов Символы</seg>
       </tuv>
     </tu>
     <tu>
@@ -43084,6 +43124,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This toolbar also includes a rectangle tool identical to the one on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T182254Z" creationid="olex" creationdate="20181113T182254Z">
+        <seg>Эта панель инструментов также включает инструмент прямоугольника, аналогичный инструменту на панели инструментов Рисование.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This toolbar contains list boxes to help in selecting the security of the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181002T192430Z" creationid="olex" creationdate="20181002T192430Z">
@@ -52592,6 +52640,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T182057Z" creationid="olex" creationdate="20180628T182057Z">
         <seg>пусто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>block arrows</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181113T182704Z" creationid="olex" creationdate="20181113T182704Z">
+        <seg>блочные стрелки</seg>
       </tuv>
     </tu>
     <tu>
