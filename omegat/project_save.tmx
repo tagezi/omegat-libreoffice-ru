@@ -14655,6 +14655,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>During movement, a ghost image of the object appears to help with repositioning (Figure &lt;t0&gt;28&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T195125Z" creationid="olex" creationdate="20181116T195125Z">
+        <seg>Во время перемещения появляется призрачное изображение объекта, помогающее его перемещать (Рисунок &lt;t0&gt;28&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dynamic charts; a wide range of 2D and 3D charts.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T182652Z" creationid="olex" creationdate="20180327T182652Z">
@@ -16782,6 +16790,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T200448Z" creationid="olex" creationdate="20180418T200448Z">
         <seg>Рисунок &lt;seq0&gt;27&lt;/seq0&gt;: Диалоговое окно Формат ячеек - вкладка Выравнивание</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Left end of status bar when moving or adjusting an object</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T194637Z" creationid="olex" creationdate="20181116T194637Z">
+        <seg>Рисунок &lt;seq0&gt;27&lt;/seq0&gt;: Левая часть строки состояния при перемещении или настройке объекта</seg>
       </tuv>
     </tu>
     <tu>
@@ -45476,6 +45492,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To locate the object at its new location, release the mouse button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T195514Z" creationid="olex" creationdate="20181116T195514Z">
+        <seg>Чтобы переместить объект в новое место, отпустите кнопку мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To make changes in the text style, click on the Styles and Formatting icon &lt;df0&gt;&lt;di1/&gt;&lt;di2/&gt;&lt;/df0&gt;&lt;s3/&gt;on the Sidebar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T170311Z" creationid="olex" creationdate="20181013T170236Z">
@@ -45592,6 +45616,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180921T194933Z" creationid="olex" creationdate="20180921T194933Z">
         <seg>Чтобы переместить шаблон из одной категории в другую, выберите его в диалоговом окне Шаблоны и нажмите кнопку &lt;f0&gt;Переместить&lt;/f0&gt; в нижней части диалогового окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To move an object (or a group of objects), select it and then click within the object borders and hold down the left mouse button while dragging the mouse.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T195020Z" creationid="olex" creationdate="20181116T195020Z">
+        <seg>Чтобы переместить объект (или группу объектов), выберите его, а затем нажмите границу объекта и удерживайте левую кнопку мыши во время перетаскивания.</seg>
       </tuv>
     </tu>
     <tu>
