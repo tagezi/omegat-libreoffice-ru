@@ -8331,6 +8331,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you change the size of the object, a ghosted outline of the object appears (Figure &lt;t0&gt;29&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T200118Z" creationid="olex" creationdate="20181116T200118Z">
+        <seg>По мере изменения размера объекта появится фантомное изображение объекта (Рисунок &lt;t0&gt;29&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you create your macros, you must decide where to store them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T104055Z" creationid="tagezi" creationdate="20180320T104055Z">
@@ -14657,8 +14665,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>During movement, a ghost image of the object appears to help with repositioning (Figure &lt;t0&gt;28&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181116T195125Z" creationid="olex" creationdate="20181116T195125Z">
-        <seg>Во время перемещения появляется призрачное изображение объекта, помогающее его перемещать (Рисунок &lt;t0&gt;28&lt;/t0&gt;).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T195736Z" creationid="olex" creationdate="20181116T195125Z">
+        <seg>Во время перемещения появляется фантомное изображение объекта, помогающее его перемещать (Рисунок &lt;t0&gt;28&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16830,6 +16838,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181029T190741Z" creationid="olex" creationdate="20181029T190741Z">
         <seg>Рисунок &lt;seq0&gt;28&lt;/seq0&gt;: Вставка комментариев</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Moving an object</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T195529Z" creationid="olex" creationdate="20181116T195529Z">
+        <seg>Рисунок &lt;seq0&gt;28&lt;/seq0&gt;: Перемещение объекта</seg>
       </tuv>
     </tu>
     <tu>
@@ -40740,6 +40756,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The mouse cursor will change shape to indicate the direction of movement for that selection handle.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T195911Z" creationid="olex" creationdate="20181116T195911Z">
+        <seg>Курсор мыши изменит форму на стрелку, указывающую направление движения для этого маркера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The mouse pointer may change to include a plus sign depending on the setup of your operating system.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T221628Z" creationid="olex" creationdate="20180407T221628Z">
@@ -41161,6 +41185,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T202616Z" creationid="olex" creationdate="20180313T202616Z">
         <seg>Конечный документ будет содержать только измененный текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The results depend on which selection handle you use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T200246Z" creationid="olex" creationdate="20181116T200246Z">
+        <seg>Результат зависит от того, какой метод выделения вы используете.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44322,6 +44354,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the size of a selected object (or a group of selected objects), move the mouse cursor to one of the selection handles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T195724Z" creationid="olex" creationdate="20181116T195724Z">
+        <seg>Чтобы изменить размер выбранного объекта (или группы выбранных объектов), поместите курсор мыши над одним из маркеров выделения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change the slide transition, animate slides, add a soundtrack to the presentation, and make other enhancements, you need to use functions in the Sidebar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181015T163103Z" creationid="olex" creationdate="20181015T163103Z">
@@ -46067,6 +46107,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181015T152836Z" creationid="olex" creationdate="20181015T152509Z">
         <seg>Чтобы изменить размер окна содержимого, нажмите на внешнюю рамку, чтобы отобразились ручки изменения размера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To resize an object along one axis, use a side handle.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T200302Z" creationid="olex" creationdate="20181116T200302Z">
+        <seg>Чтобы изменить размер объекта вдоль одной оси, используйте боковой ручку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49835,6 +49883,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T194445Z" creationid="olex" creationdate="20180418T194445Z">
         <seg>Когда вы закончите, нажмите клавишу &lt;f0&gt;Enter&lt;/f0&gt;, и ваши изменения будут сохранены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you have reached the desired size of the object, release the mouse button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T200220Z" creationid="olex" creationdate="20181116T200220Z">
+        <seg>Когда вы получите желаемый размер объекта, отпустите кнопку мыши.</seg>
       </tuv>
     </tu>
     <tu>
