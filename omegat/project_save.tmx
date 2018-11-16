@@ -22288,6 +22288,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, if &lt;f1&gt;When creating or moving objects&lt;/f1&gt; has been selected in&lt;f2&gt; Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f2&gt;, the action of the &lt;f3&gt;Shift&lt;/f3&gt; key is reversed and rotation will be restricted to 15° of movement &lt;f4&gt;unless&lt;/f4&gt; the &lt;f5&gt;Shift&lt;/f5&gt; key is pressed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T204634Z" creationid="olex" creationdate="20181116T204634Z">
+        <seg>Однако, если в &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Draw &gt; Сетка&lt;/f1&gt; было выбрано &lt;f2&gt;При создании или перемещении объектов&lt;/f2&gt;, то действие клавиши &lt;f3&gt;Shift&lt;/f3&gt; становится обратным и вращение с шагом 15° будет производиться, &lt;f4&gt;если&lt;/f4&gt; клавиша &lt;f5&gt;Shift&lt;/f5&gt; не нажата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, if &lt;f1&gt;When creating or moving objects&lt;/f1&gt; has been selected in&lt;f2&gt; Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f2&gt;, the action of the &lt;f3&gt;Shift&lt;/f3&gt; key is reversed and the aspect ratio will be preserved &lt;f4&gt;unless&lt;/f4&gt; the &lt;f5&gt;Shift&lt;/f5&gt; key is pressed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181116T201213Z" creationid="olex" creationdate="20181116T201213Z">
@@ -24294,6 +24302,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181116T200642Z" creationid="olex" creationdate="20181116T200642Z">
         <seg>Если вы нажмете клавишу &lt;f0&gt;Shift&lt;/f0&gt; во время изменения размера объекта, то изменение размера будет выполняться пропорционально относительно двух осей, сохраняя соотношение сторон объекта неизменным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you press the &lt;f0&gt;Shift&lt;/f0&gt; key while rotating an object, rotation will be restricted to 15° of movement.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T204239Z" creationid="olex" creationdate="20181116T204239Z">
+        <seg>Если вы нажмете клавишу &lt;f0&gt;Shift&lt;/f0&gt; во время вращения объекта, то объект будет вращаться с шагом 15°.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43433,6 +43449,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180924T181723Z" creationid="olex" creationdate="20180924T181723Z">
         <seg>Это уменьшает вероятность ошибок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This rotation point can even be outside of the object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T204120Z" creationid="olex" creationdate="20181116T204120Z">
+        <seg>Точка вращения может быть даже вне объекта.</seg>
       </tuv>
     </tu>
     <tu>
