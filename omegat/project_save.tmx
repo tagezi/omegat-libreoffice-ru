@@ -11640,6 +11640,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the Rotate icon &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt;on the Line and Filling toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T202156Z" creationid="olex" creationdate="20181116T202156Z">
+        <seg>Нажмите на значок Повернуть &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt;на панели инструментов Линия и заливка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the desired sheet and then click &lt;/f35&gt;&lt;f36&gt;&lt;f37&gt;OK&lt;/f37&gt;&lt;/f36&gt;&lt;f38&gt;.&lt;/f38&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T084815Z" creationid="olex" creationdate="20180901T084815Z">
@@ -16866,6 +16874,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Adjusting object size</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T200437Z" creationid="olex" creationdate="20181116T200437Z">
+        <seg>Рисунок &lt;seq0&gt;29&lt;/seq0&gt;: Изменение размера объекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Internet options, showing E-mail page available to Linux users</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T102447Z" creationid="olex" creationdate="20180715T102447Z">
@@ -19657,6 +19673,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information on rotating and slanting an object, see Chapter 3, Working with Objects and Object Points, in the &lt;f0&gt;Draw Guide.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T201447Z" creationid="olex" creationdate="20181116T201447Z">
+        <seg>Для получения дополнительной информации про вращение и наклон объектов, смотрите Главу 3, Работа с объектами и точками объектов, в &lt;f0&gt;Руководстве по Draw&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information on setting and defining headers and footers, see the &lt;f0&gt;Calc Guide Chapter 6 Printing, Exporting, and E‑mailing&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T185423Z" creationid="olex" creationdate="20180508T185423Z">
@@ -21384,6 +21408,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;View &gt; Toolbars &gt; Mode&lt;/f0&gt; and select the Rotate icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T202318Z" creationid="olex" creationdate="20181116T202318Z">
+        <seg>Выберите в меню &lt;f0&gt;Вид &gt; Панели инструментов &gt; Преобразование&lt;/f0&gt; и выберите значок Повернуть &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; and select &lt;f1&gt;Slide Sorter&lt;/f1&gt; and &lt;f2&gt;Slide View&lt;/f2&gt; to show or hide the Slide Sorter and Slide View toolbars (Figure &lt;t3&gt;10&lt;/t3&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T173715Z" creationid="olex" creationdate="20181013T173715Z">
@@ -22204,6 +22236,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T182500Z" creationid="olex" creationdate="20180502T182439Z">
         <seg>При этом скрытые данные будут доступны для копирования, если выбрать элементы вокруг них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, if &lt;f1&gt;When creating or moving objects&lt;/f1&gt; has been selected in&lt;f2&gt; Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f2&gt;, the action of the &lt;f3&gt;Shift&lt;/f3&gt; key is reversed and the aspect ratio will be preserved &lt;f4&gt;unless&lt;/f4&gt; the &lt;f5&gt;Shift&lt;/f5&gt; key is pressed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T201213Z" creationid="olex" creationdate="20181116T201213Z">
+        <seg>Однако, если в &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Draw &gt; Сетка&lt;/f1&gt; было выбрано &lt;f2&gt;При создании или перемещении объектов&lt;/f2&gt;, то действие клавиши &lt;f3&gt;Shift&lt;/f3&gt; становится обратным и соотношение сторон будет сохранено &lt;f4&gt;, если&lt;/f4&gt; клавиша &lt;f5&gt;Shift&lt;/f5&gt; не нажата.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24198,6 +24238,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T180910Z" creationid="olex" creationdate="20180707T180910Z">
         <seg>Если вы предпочитаете абсолютные пути, то все ссылки на другие файлы также будут определены как абсолютные, на основе соответствующего диска, тома или корневого каталога.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you press the &lt;f0&gt;Shift&lt;/f0&gt; key while resizing an object, the change in size will be carried out symmetrically with respect to the two axes so that the aspect ratio of the object remains the same.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T200642Z" creationid="olex" creationdate="20181116T200642Z">
+        <seg>Если вы нажмете клавишу &lt;f0&gt;Shift&lt;/f0&gt; во время изменения размера объекта, то изменение размера будет выполняться пропорционально относительно двух осей, сохраняя соотношение сторон объекта неизменным.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41191,8 +41239,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>The results depend on which selection handle you use.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181116T200246Z" creationid="olex" creationdate="20181116T200246Z">
-        <seg>Результат зависит от того, какой метод выделения вы используете.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T200316Z" creationid="olex" creationdate="20181116T200246Z">
+        <seg>Результат зависит от того, какой маркер выделения вы используете.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42471,6 +42519,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181105T180701Z" creationid="olex" creationdate="20181105T180701Z">
         <seg>Они могут отличаться от единиц измерения на линейках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This &lt;f1&gt;Shift&lt;/f1&gt; key behavior works on all selection handles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T200814Z" creationid="olex" creationdate="20181116T200814Z">
+        <seg>Такое влияние клавиши &lt;f1&gt;Shift&lt;/f1&gt; работает одинаково на всех маркерах выделения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46111,10 +46167,18 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To resize along both axes, use a corner handle.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T200410Z" creationid="olex" creationdate="20181116T200410Z">
+        <seg>Чтобы изменить размер вдоль обеих осей, используйте угловой маркер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To resize an object along one axis, use a side handle.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181116T200302Z" creationid="olex" creationdate="20181116T200302Z">
-        <seg>Чтобы изменить размер объекта вдоль одной оси, используйте боковой ручку.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T200335Z" creationid="olex" creationdate="20181116T200302Z">
+        <seg>Чтобы изменить размер объекта только вдоль одной оси, используйте боковой маркер.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46171,6 +46235,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181027T161237Z" creationid="olex" creationdate="20181027T161237Z">
         <seg>Чтобы вернуться к форматированию по умолчанию, выберите элемент и выберите в меню &lt;f0&gt;Формат &gt; Очистить форматирование&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To rotate an object (or a group of objects), select the object, then go to rotation mode using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T201922Z" creationid="olex" creationdate="20181116T201922Z">
+        <seg>Чтобы повернуть объект (или группу объектов), выберите объект, а затем перейдите в режим вращения одним из следующих способов:</seg>
       </tuv>
     </tu>
     <tu>
