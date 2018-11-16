@@ -16740,8 +16740,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Position toolbar and available tools</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181116T193315Z" creationid="olex" creationdate="20181116T193315Z">
-        <seg>Рисунок &lt;seq0&gt;26&lt;/seq0&gt;: Панель инструментов Положение</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T193443Z" creationid="olex" creationdate="20181116T193315Z">
+        <seg>Рисунок &lt;seq0&gt;26&lt;/seq0&gt;: Панель инструментов Положение и доступные инструменты</seg>
       </tuv>
     </tu>
     <tu>
@@ -19581,6 +19581,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181027T155456Z" creationid="olex" creationdate="20181027T155456Z">
         <seg>Для получения дополнительной информации об изменении слайд-мастеров смотрите раздел &lt;f0&gt;Руководство по Impress, Глава 2, Использование слайд-мастеров, стилей и шаблонов&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on moving and adjusting object size, see Chapter 3, Working with Objects and Object Points, in the &lt;f0&gt;Draw Guide.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T194600Z" creationid="olex" creationdate="20181116T194600Z">
+        <seg>Для получения дополнительной информации про перемещение объектов и изменении их размеров, смотрите Главу 3, Работа с объектами и точками объектов, &lt;f0&gt;Руководства по Draw&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39297,10 +39305,18 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The area on the left of the Status bar, from left to right, shows what object is selected, its position on the drawing in X/Y coordinates and dimensions of the object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T193724Z" creationid="olex" creationdate="20181116T193724Z">
+        <seg>Область слева в строке состояния слева направо показывает, какой объект выбран, его положение на чертеже в координатах X и Y, размеры объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The arrange options are also available by clicking on the small triangle to the right of the &lt;f0&gt;Arrange&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt;on the Line and Filling toolbar.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181116T193151Z" creationid="olex" creationdate="20181116T193151Z">
-        <seg>Настройки расположения так же доступны на панели инструментов Положение, которая станет доступна, если нажать значок &lt;f0&gt;Расположить&lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt; на панели инструментов Линия и заливка. </seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T193426Z" creationid="olex" creationdate="20181116T193151Z">
+        <seg>Настройки расположения так же доступны, если нажать маленький треугольник рядом со значком &lt;f0&gt;Расположить&lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt; на панели инструментов Линия и заливка. </seg>
       </tuv>
     </tu>
     <tu>
@@ -41632,6 +41648,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The units of measurement are those selected in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; General&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T193829Z" creationid="olex" creationdate="20181116T193829Z">
+        <seg>Единицы измерения - те, которые выбраны в &lt;f1&gt;Сервис &gt; Параметры &gt; LibreOffice Draw &gt; Общие&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The upper left corner of the LibreOffice help system contains a drop-down list that determines which help set is displayed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T191128Z" creationid="tagezi" creationdate="20180320T191128Z">
@@ -43111,8 +43135,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>This opens the &lt;f4&gt;Position&lt;/f4&gt; toolbar giving access to the various arrangement options (Figure &lt;t5&gt;26&lt;/t5&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181116T193241Z" creationid="olex" creationdate="20181116T193241Z">
-        <seg>Откроется панель инструментов &lt;f4&gt;Расположить&lt;/f4&gt;, предоставляющая доступ к различным параметрам компоновки (Рисунок &lt;t5&gt;26&lt;/t5&gt;).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T193322Z" creationid="olex" creationdate="20181116T193241Z">
+        <seg>Откроется панель инструментов &lt;f4&gt;Положение&lt;/f4&gt;, предоставляющая доступ к различным параметрам компоновки (Рисунок &lt;t5&gt;26&lt;/t5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49354,6 +49378,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T191657Z" creationid="olex" creationdate="20180711T191628Z">
         <seg>При импорте чисел с HTML-страницы десятичные и разделительные символы разделителей различаются в зависимости от локального стандарта HTML-страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When moving an object or changing its size, check the left-hand area of the status bar at the bottom of the Draw window (Figure &lt;t0&gt;27&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T193625Z" creationid="olex" creationdate="20181116T193625Z">
+        <seg>При перемещении объекта или изменении его размера проверьте левую область строки состояния в нижней части окна Draw (рисунок &lt;t0&gt;27&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
