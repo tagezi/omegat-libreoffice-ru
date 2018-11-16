@@ -23339,8 +23339,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>If there are several hidden objects, keep holding down the &lt;f1&gt;Alt key&lt;/f1&gt; and clicking until you reach the object you want.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181116T180302Z" creationid="olex" creationdate="20181113T192748Z">
-        <seg>Если там есть несколько скрытых объектов, то продолжайте удерживать клавишу &lt;f1&gt;Alt&lt;/f1&gt; и нажимайте, пока не выберете необходимый вам объект. В Linux для этого необходимо выделить объект, а затем выбирать спрятанные за ним объекты, нажимая клавишу Tab.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T191011Z" creationid="olex" creationdate="20181113T192748Z">
+        <seg>Если там есть несколько скрытых объектов, то продолжайте удерживать клавишу &lt;f1&gt;Alt&lt;/f1&gt; и нажимайте, пока не выберете необходимый вам объект.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25070,6 +25070,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T171823Z" creationid="olex" creationdate="20180628T171823Z">
         <seg>Например, в системе Windows вы можете хранить документы по умолчанию в месте отличном от Мои документы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a complex drawing, several objects may be stacked on top of one another.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T191933Z" creationid="olex" creationdate="20181116T191933Z">
+        <seg>В сложном рисунке несколько объектов могут быть наложены друг на друга.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30626,6 +30634,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180917T204440Z" creationid="olex" creationdate="20180917T204440Z">
         <seg>На компьютере, использующем операционные системы Linux или Windows, установка LibreOffice по умолчанию не активирует автоматическую загрузку Быстрого запуска.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On a computer using a Linux operating system the &lt;f1&gt;Tab&lt;/f1&gt; key method, described below, has to be used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T191241Z" creationid="olex" creationdate="20181116T191241Z">
+        <seg>На компьютерах, использующих операционную систему Linux, используется метод нажатия клавиши &lt;f1&gt;Tab&lt;/f1&gt;, описанный ниже.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42852,6 +42868,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is a very quick way to reach an object, but it may not be practical if there a large number of objects in a drawing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T191844Z" creationid="olex" creationdate="20181116T191844Z">
+        <seg>Это довольно быстрый способ выбрать необходимый объект, но он может быть непрактичным, если на рисунке слишком большое количество объектов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is also useful for numbering the first page of a document with a page number greater than 1.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T180247Z" creationid="olex" creationdate="20181001T180247Z">
@@ -44540,6 +44564,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To cycle through the objects in reverse order, press &lt;f1&gt;Shift+Tab&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T191648Z" creationid="olex" creationdate="20181116T191648Z">
+        <seg>Чтобы циклически перемещаться по объектам в обратном порядке, нажмите &lt;f1&gt;Shift+Tab&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To define a new print range or modify an existing print range:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180601T182356Z" creationid="olex" creationdate="20180507T193114Z">
@@ -45797,6 +45829,15 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
     </tu>
     <tu>
+      <note>Указать авторам, что путь в меню неправильный</note>
+      <tuv lang="EN-US">
+        <seg>To rearrange the stacking order by moving an object forward or backward, select an object, click &lt;f0&gt;Modify &gt; Arrange&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Bring Forward&lt;/f1&gt; or &lt;f2&gt;Send Backward&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T192430Z" creationid="olex" creationdate="20181116T192430Z">
+        <seg>Чтобы изменить порядок укладки, перемещая объекты вперед или назад, выберите объект, перейдите в меню &lt;f0&gt;Фигура &gt; Расположить&lt;/f0&gt; и выберите &lt;f1&gt;Переместить&lt;/ f1&gt; или &lt;f2&gt; Отправить назад &lt; / f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>To redo a change use the keyboard shortcut &lt;f0&gt;Ctrl+Y&lt;/f0&gt;, or click the &lt;f1&gt;Redo&lt;/f1&gt; icon, or go to &lt;f2&gt;Edit &gt; Redo&lt;/f2&gt; on the Menu bar.</seg>
       </tuv>
@@ -46114,6 +46155,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T183706Z" creationid="olex" creationdate="20180405T183706Z">
         <seg>Чтобы выбрать одну строку, щелкните заголовок строки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To select an object that is covered by another object using the keyboard, use the &lt;f0&gt;Tab&lt;/f0&gt; key to cycle through the objects, stopping at the object you want to select.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T191537Z" creationid="olex" creationdate="20181116T191537Z">
+        <seg>Чтобы выбрать объект, который закрыт другим объектом с помощью клавиатуры, нажимайте клавишу &lt;f0&gt;Tab&lt;/f0&gt;, перебирая объекты пока не дойдете до объекта, который вы хотели выбрать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48331,6 +48380,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using the &lt;f0&gt;Alt&lt;/f0&gt; key method works on computers using a Windows or Mac operating systems.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T191137Z" creationid="olex" creationdate="20181116T191137Z">
+        <seg>Использование клавиши &lt;f0&gt;Alt&lt;/f0&gt; работает на компьютерах с использованием операционных систем Windows или Mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the &lt;f0&gt;Ctrl&lt;/f0&gt; key – click on the first slide and, while pressing the &lt;f1&gt;Ctrl&lt;/f1&gt; key, select the other desired slides.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T174326Z" creationid="olex" creationdate="20181013T174326Z">
@@ -49578,6 +49635,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T180711Z" creationid="olex" creationdate="20181001T180711Z">
         <seg>Если вы изменяете поля, то также изменяется и стиль страницы, а изменения в полях применяются ко &lt;f0&gt;всем&lt;/f0&gt; страницам, использующим этот стиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you click on the selected object, its outline will appear briefly through the objects covering it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T190951Z" creationid="olex" creationdate="20181116T190951Z">
+        <seg>Когда вы нажимаете на выбранный объект, его контур будет отображаться сквозь объекты, скрывающие его.</seg>
       </tuv>
     </tu>
     <tu>
