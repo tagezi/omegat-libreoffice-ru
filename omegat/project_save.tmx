@@ -21887,11 +21887,10 @@ LG:DONE</note>
       </tuv>
     </tu>
     <tu>
-      <note>что то у меня это никак не работает(((</note>
       <tuv lang="EN-US">
         <seg>Hold down the &lt;f0&gt;Alt&lt;/f0&gt; key and click on the object at the front of where the hidden object is located, then click again to select the hidden object.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181113T192649Z" creationid="olex" creationdate="20181113T192649Z">
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T180236Z" creationid="olex" creationdate="20181113T192649Z">
         <seg>Удерживая нажатой клавишу &lt;f0&gt;Alt&lt;/f0&gt;, сначала нажмите на объект, под которым находится скрытый объект, а затем нажмите еще раз, чтобы выбрать скрытый объект.</seg>
       </tuv>
     </tu>
@@ -44533,6 +44532,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To cycle through the objects in reverse order, hold down the &lt;f2&gt;Alt+Shift keys&lt;/f2&gt; and click.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T175616Z" creationid="olex" creationdate="20181116T175616Z">
+        <seg>Чтобы циклически переключать объекты в обратном порядке, удерживайте клавиши &lt;f2&gt;Alt+Shift&lt;/f2&gt; и нажимайте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To define a new print range or modify an existing print range:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180601T182356Z" creationid="olex" creationdate="20180507T193114Z">
@@ -49204,12 +49211,12 @@ denkin: исправил на "включает"</note>
       </tuv>
     </tu>
     <tu>
-      <note>перевел marquee, как навес, пока</note>
+      <note>по совету Компилайненна - убрал маркю</note>
       <tuv lang="EN-US">
         <seg>When dragging the mouse cursor to select multiple objects, the selection rectangle being drawn is also known as a marquee.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181113T192300Z" creationid="olex" creationdate="20181113T191539Z">
-        <seg>Когда перетаскивается курсор мыши для выбора нескольких объектов, выделяющий прямоугольник выбора также известен как навес.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T175706Z" creationid="olex" creationdate="20181113T191539Z">
+        <seg>Когда перетаскивается курсор мыши для выбора нескольких объектов, виден выделяющий прямоугольник выбора.</seg>
       </tuv>
     </tu>
     <tu>
