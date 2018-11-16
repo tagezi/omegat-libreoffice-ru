@@ -5899,6 +5899,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A ghost image of the object being rotated appears and the current angle of rotation is shown in the status bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T203210Z" creationid="olex" creationdate="20181116T203210Z">
+        <seg>Появится фантомное изображение повернутого объекта, и в строке состояния отобразится текущий угол поворота.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A graphic object is not dynamic and does not behave like a text frame.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T114946Z" creationid="olex" creationdate="20181110T114946Z">
@@ -7310,6 +7318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also a rotation point will appear in the center of the object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T202521Z" creationid="olex" creationdate="20181116T202521Z">
+        <seg>Также в центре объекта появится точка вращения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also specify the position and spacing for each level on the Position page.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T165606Z" creationid="olex" creationdate="20180811T165606Z">
@@ -8360,6 +8376,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153059Z" creationid="User" creationdate="20180311T153021Z">
         <seg>Во время ввода формулы на языке разметки в Редакторе формул формула отображается в Области предварительного просмотра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As you move the mouse cursor over the handles, the cursor changes shape.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T202557Z" creationid="olex" creationdate="20181116T202557Z">
+        <seg>Если поместить курсор мыши над маркером, то курсор меняет форму.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11340,6 +11364,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T105024Z" creationid="olex" creationdate="20181110T105024Z">
         <seg>Нажмите и удерживайте левую кнопку мыши, чтобы создать начальную точку кривой, затем, удерживая левую кнопку мыши, перетащите ее из начальной точки, чтобы нарисовать линию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click and hold the mouse button, then start to move the cursor to rotate the object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T203109Z" creationid="olex" creationdate="20181116T203109Z">
+        <seg>Нажмите и удерживайте кнопку мыши, а затем начните перемещать курсор, чтобы повернуть объект.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17042,6 +17074,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Rotating an object</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T202717Z" creationid="olex" creationdate="20181116T202717Z">
+        <seg>Рисунок &lt;seq0&gt;30&lt;/seq0&gt;: Вращение объекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Specifying a MediaWiki server account</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T103819Z" creationid="olex" creationdate="20180715T103819Z">
@@ -19765,6 +19805,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181113T184816Z" creationid="olex" creationdate="20181113T184816Z">
         <seg>Для получения дополнительной информации смотрите Главу 2, Рисование основных фигур и Главу 11, Дополнительные возможности Draw, в &lt;f0&gt;Руководстве по Draw&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information, see Chapter 7, Working with 3D Objects, in the &lt;f0&gt;Draw Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T203705Z" creationid="olex" creationdate="20181116T203705Z">
+        <seg>Для получения дополнительной информации, смотрите Главу 7, Работа с 3D объектами, в &lt;f0&gt;Руководстве по Draw&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29564,6 +29612,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the mouse cursor to one of the corner handles and it normally changes to an arc with an arrow at each end.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T203028Z" creationid="olex" creationdate="20181116T203028Z">
+        <seg>Поместите курсор мыши над одним из угловых маркеров, и он должен измениться на дугу со стрелками на концх.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the mouse pointer over the sheet tab for the last desired sheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T185034Z" creationid="olex" creationdate="20180405T185034Z">
@@ -33985,6 +34041,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T153229Z" creationid="olex" creationdate="20180603T153229Z">
         <seg>Вращение и наклон объекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotation works differently for 3D objects because rotation occurs around global axes and not around a single axis.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T203555Z" creationid="olex" creationdate="20181116T203555Z">
+        <seg>Для 3D объектов вращение работает по другому, потому что вращение происходит в трехмерном пространстве, а не в одной плоскости.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39617,6 +39681,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The corner handles are for rotating an object and the top, bottom and side handles are to slant an object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T202652Z" creationid="olex" creationdate="20181116T202652Z">
+        <seg>Угловые маркеры предназначены для вращения объекта, а верхний, нижний и боковые маркеры - для наклона объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The created array has one property at index zero.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153641Z" creationid="tagezi" creationdate="20180318T153641Z">
@@ -41277,6 +41349,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The rotation point is normally located at the center of an object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T203751Z" creationid="olex" creationdate="20181116T203722Z">
+        <seg>Обычно точка вращения расположена в центре объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The row headers use a numerical character starting at 1 and go down.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T181247Z" creationid="olex" creationdate="20180330T181125Z">
@@ -41402,6 +41482,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181106T191401Z" creationid="olex" creationdate="20181106T191259Z">
         <seg>Ручка выбора в начальной точке линии немного больше по размеру, чем в конечной точке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selection handles will change shape and color (Figure &lt;t0&gt;30&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T202402Z" creationid="olex" creationdate="20181116T202402Z">
+        <seg>Маркеры выбора изменят форму и цвет (Рисунок &lt;t0&gt;30&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44398,6 +44486,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T163141Z" creationid="olex" creationdate="20180721T163141Z">
         <seg>Чтобы изменить стиль страницы, щелкните по этому полю правой кнопкой мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the position of the rotation point, click on the object with the mouse cursor and drag the object until the rotation point is at the desired position.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T204022Z" creationid="olex" creationdate="20181116T204022Z">
+        <seg>Чтобы изменить положение точки вращения, нажмите на объект и с помощью курсора мыши перетаскивайте объект до тех пор, пока точка вращения не окажется в необходимом вам месте.</seg>
       </tuv>
     </tu>
     <tu>
