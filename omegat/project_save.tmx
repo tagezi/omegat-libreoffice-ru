@@ -7479,6 +7479,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, right-click the object, select &lt;f3&gt;Arrange&lt;/f3&gt; from the context menu, then &lt;f4&gt;Bring Forward&lt;/f4&gt; or &lt;f5&gt;Send Backward&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T192712Z" creationid="olex" creationdate="20181116T192712Z">
+        <seg>По другому, нажмите объект правой кнопкой мыши, выберите в контекстном меню &lt;f3&gt;Расположить&lt;/f3&gt;, а затем &lt;f4&gt;Переместить вперед&lt;/f4&gt; или &lt;f5&gt;Переместить назад&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, select the cell and click in the Input Line on the Formula Bar (Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;9&lt;/t2&gt;), then double-click on the data to highlight it completely and type the new data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T193643Z" creationid="olex" creationdate="20180418T193552Z">
@@ -16726,6 +16734,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T180734Z" creationid="olex" creationdate="20181001T180734Z">
         <seg>Рисунок &lt;seq0&gt;26&lt;/seq0&gt;: Перемещение полей страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Position toolbar and available tools</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T193315Z" creationid="olex" creationdate="20181116T193315Z">
+        <seg>Рисунок &lt;seq0&gt;26&lt;/seq0&gt;: Панель инструментов Положение</seg>
       </tuv>
     </tu>
     <tu>
@@ -39281,6 +39297,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The arrange options are also available by clicking on the small triangle to the right of the &lt;f0&gt;Arrange&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt;on the Line and Filling toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T193151Z" creationid="olex" creationdate="20181116T193151Z">
+        <seg>Настройки расположения так же доступны на панели инструментов Положение, которая станет доступна, если нажать значок &lt;f0&gt;Расположить&lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt; на панели инструментов Линия и заливка. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The arrowhead is drawn at the end point of the arrow when you release the mouse button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181106T195424Z" creationid="olex" creationdate="20181106T195424Z">
@@ -43085,6 +43109,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This opens the &lt;f4&gt;Position&lt;/f4&gt; toolbar giving access to the various arrangement options (Figure &lt;t5&gt;26&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T193241Z" creationid="olex" creationdate="20181116T193241Z">
+        <seg>Откроется панель инструментов &lt;f4&gt;Расположить&lt;/f4&gt;, предоставляющая доступ к различным параметрам компоновки (Рисунок &lt;t5&gt;26&lt;/t5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This opens the New Module dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T133833Z" creationid="tagezi" creationdate="20180313T133833Z">
@@ -45833,8 +45865,8 @@ denkin: попробовал - не получается, ведь кнопку 
       <tuv lang="EN-US">
         <seg>To rearrange the stacking order by moving an object forward or backward, select an object, click &lt;f0&gt;Modify &gt; Arrange&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Bring Forward&lt;/f1&gt; or &lt;f2&gt;Send Backward&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181116T192430Z" creationid="olex" creationdate="20181116T192430Z">
-        <seg>Чтобы изменить порядок укладки, перемещая объекты вперед или назад, выберите объект, перейдите в меню &lt;f0&gt;Фигура &gt; Расположить&lt;/f0&gt; и выберите &lt;f1&gt;Переместить&lt;/ f1&gt; или &lt;f2&gt; Отправить назад &lt; / f2&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181116T192509Z" creationid="olex" creationdate="20181116T192430Z">
+        <seg>Чтобы изменить порядок укладки, перемещая объекты вперед или назад, выберите объект, перейдите в меню &lt;f0&gt;Фигура &gt; Расположить&lt;/f0&gt; и выберите &lt;f1&gt;Переместить вперед&lt;/f1&gt; или &lt;f2&gt;Переместить назад&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
