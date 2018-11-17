@@ -7198,6 +7198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All of these methods open the &lt;f7&gt;Line&lt;/f7&gt; dialog (Figure &lt;t8&gt;11&lt;/t8&gt;&lt;s9/&gt;on page 13), where you can set line properties.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T102921Z" creationid="olex" creationdate="20181117T102921Z">
+        <seg>Всеми этими способами откроется диалоговое окно &lt;f7&gt;Линия&lt;/f7&gt; (Рисунок &lt;t8&gt;11&lt;/t8&gt;&lt;s9/&gt;на странице 13), в котором вы сможете установить свойства линии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All or some of the cells in a spreadsheet can be password protected to prevent changes being made by unauthorized users.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T192617Z" creationid="olex" creationdate="20180502T192617Z">
@@ -7515,6 +7523,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T193643Z" creationid="olex" creationdate="20180418T193552Z">
         <seg>Другой способ: выберите ячейку и щелкните по строке ввода на панели формул (Рисунок &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt; на странице &lt;t2&gt;9&lt;/t2&gt;), затем дважды щелкните по содержимому, чтобы выделить его полностью и введите новые данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternatively, use the &lt;f13&gt;Line&lt;/f13&gt; sub-section in Sidebar Properties to change the appearance of a line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T103240Z" creationid="olex" creationdate="20181117T103240Z">
+        <seg>По другому, используйте раздел &lt;f13&gt;Линия&lt;/f13&gt; во вкладке Свойства на Боковой панели, чтобы изменять внешний вид линии.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43127,6 +43143,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180924T171345Z" creationid="olex" creationdate="20180924T171345Z">
         <seg>Эта вкладка похожа на плавающую панель инструментов, которую можно открыть из меню &lt;f1&gt;Вид &gt; Навигатор&lt;/f1&gt;, или нажав кнопку &lt;f2&gt;Навигатор&lt;/f2&gt; на панели инструментов Стандартная, или нажав клавишу &lt;f3&gt;F5&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This dialog consists of three pages: &lt;f10&gt;Line&lt;/f10&gt;, &lt;f11&gt;Line Styles&lt;/f11&gt;, and &lt;f12&gt;Arrow Styles&lt;/f12&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T103113Z" creationid="olex" creationdate="20181117T103113Z">
+        <seg>Это диалоговое окно содержит три вкладки: &lt;f10&gt;Линия&lt;/f10&gt;, &lt;f11&gt;Стили линий&lt;/f11&gt; и &lt;f12&gt;Стили стрелок&lt;/f12&gt;.</seg>
       </tuv>
     </tu>
     <tu>
