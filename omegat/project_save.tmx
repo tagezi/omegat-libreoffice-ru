@@ -17162,10 +17162,26 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: Line and Filling toolbar and its available tools</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T095958Z" creationid="olex" creationdate="20181117T095958Z">
+        <seg>Рисунок &lt;seq0&gt;32&lt;/seq0&gt;: Инструменты, доступные на панели инструментов Линия и заливка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Impress presentation as seen in mobile device</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181101T195551Z" creationid="olex" creationdate="20181101T195551Z">
         <seg>Рисунок &lt;seq0&gt;33&lt;/seq0&gt;: Как презентация Impress выглядит на мобильном устройстве</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Text Formatting toolbar and its available tools</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T100148Z" creationid="olex" creationdate="20181117T100148Z">
+        <seg>Рисунок &lt;seq0&gt;33&lt;/seq0&gt;: Инструменты, доступные на панели инструментов Форматирование текста</seg>
       </tuv>
     </tu>
     <tu>
@@ -41878,6 +41894,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The tools on this toolbar will not become active until text has been selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T100120Z" creationid="olex" creationdate="20181117T100120Z">
+        <seg>Инструменты на этой панели инструментов будут неактивными до тех пор, пока не будет выбран текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: у меня не включется OpenCL и не показывает никаких списков - переводил буквально - что написано, без проверки</note>
       <tuv lang="EN-US">
         <seg>The two boxes below list the OpenCL drivers whitelist and blacklist.</seg>
@@ -50271,6 +50295,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you select an object in your drawing, the sub-sections in Sidebar Properties become active (Figure &lt;t0&gt;34&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T100326Z" creationid="olex" creationdate="20181117T100326Z">
+        <seg>Когда вы выбираете объект на рисунке, то становятся активными соответствующие разделы вкладки Свойства на Боковой панели (Рисунок &lt;t0&gt;34&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you select one of the menus listed below, a sub-menu drops down to show commands.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T192757Z" creationid="olex" creationdate="20180614T192757Z">
@@ -51394,6 +51426,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also open the Line dialog by clicking on the &lt;f3&gt;Line&lt;/f3&gt; icon &lt;f4&gt;&lt;df5&gt;&lt;di6/&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;s7/&gt;and the Area dialog by clicking on the &lt;f8&gt;Area&lt;/f8&gt; icon &lt;f9&gt;&lt;df10&gt;&lt;di11/&gt;&lt;/df10&gt;&lt;/f9&gt;&lt;s12/&gt;for access to more formatting options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T095915Z" creationid="olex" creationdate="20181117T095915Z">
+        <seg>Так же вы можете открыть диалоговое окно Линия, нажав значок &lt;f3&gt;Линия&lt;/f3&gt; &lt;f4&gt;&lt;df5&gt;&lt;di6/&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;s7/&gt;и диалоговое окно Область, нажав значок &lt;f8&gt;Область&lt;/f8&gt; &lt;f9&gt;&lt;df10&gt;&lt;di11/&gt;&lt;/df10&gt;&lt;/f9&gt;&lt;s12/&gt;, чтобы получить доступ к дополнительным параметрам форматирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also open the Templates dialog from the Start Center.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T192303Z" creationid="olex" creationdate="20180311T192303Z">
@@ -51704,6 +51744,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181015T154550Z" creationid="olex" creationdate="20181015T154550Z">
         <seg>Вы можете изменить уровень структуры для каждого абзаца, а также его положение в тексте, используя кнопки со стрелками на панели инструментов &lt;f1&gt;Форматирование текста&lt;/f1&gt; (смотрите Рисунок &lt;t2&gt;5&lt;/t2&gt;&lt;s3/&gt;и “&lt;bf4&gt;Вид Структура&lt;/bf4&gt;” на странице &lt;bf5&gt;9&lt;/bf5&gt;) или с помощью клавиши Tab, когда вы расположите курсор в начало абзаца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can change the properties or options of an object without having to open a dialog or use any of the available tools on the various toolbars provided by Draw.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T100606Z" creationid="olex" creationdate="20181117T100606Z">
+        <seg>Вы можете изменять свойства объекта, не открывая диалоговых окон и без использования любого из доступных инструментов на различных панелях, предоставленных в Draw.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52314,6 +52362,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181015T152638Z" creationid="olex" creationdate="20181015T152638Z">
         <seg>Теперь вы можете нажать и перетащить окно содержимого в новое положение на слайде.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can open the Text Formatting toolbar by selecting &lt;f0&gt;View &gt; Toolbars &gt; Text Formatting&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T100043Z" creationid="olex" creationdate="20181117T100043Z">
+        <seg>Вы можете открыть панель инструментов Форматирование текста, выбрав в меню &lt;f0&gt;Вид &gt; Панели инструментов &gt; Форматирование текста&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
