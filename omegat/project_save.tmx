@@ -17226,6 +17226,22 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;35&lt;/seq0&gt;: Example of a context menu</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T101558Z" creationid="olex" creationdate="20181117T101558Z">
+        <seg>Рисунок &lt;seq0&gt;35&lt;/seq0&gt;: Пример контекстного меню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: Common line properties (style, color, width)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T102213Z" creationid="olex" creationdate="20181117T102213Z">
+        <seg>Рисунок &lt;seq0&gt;36&lt;/seq0&gt;: Общие свойства линии (стиль, цвет, толщина)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: Protect Sheet dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180503T190948Z" creationid="olex" creationdate="20180503T190948Z">
@@ -24330,6 +24346,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you need to fine tune the appearance of a line, choose &lt;f0&gt;Format &gt; Line&lt;/f0&gt; from the Menu bar, or right-click on the line and select &lt;f1&gt;Line&lt;/f1&gt; from the context menu, or select the &lt;f2&gt;Line&lt;/f2&gt; icon &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;s6/&gt;from the Line and Filling toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T102659Z" creationid="olex" creationdate="20181117T102659Z">
+        <seg>Если вам необходимо более тонко настроить внешний вид линии, то выберите в меню &lt;f0&gt;Формат &gt; Линия...&lt;/f0&gt; или щелкните правой кнопкой мыши по строке и выберите в контекстном меню &lt;f1&gt;Линия...&lt;/f1&gt;, или выберите значок &lt;f2&gt;Линия&lt;/f2&gt; &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;s6/&gt;на панели инструментов Линия и заливка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you notice from your outline that another slide is needed, you can create it directly in the Outline view or you can return to the Normal view to create it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181011T183201Z" creationid="olex" creationdate="20181011T183201Z">
@@ -25169,6 +25193,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In LibreOffice the term &lt;f0&gt;line&lt;/f0&gt; indicates both a freestanding segment (line), outer edge of a shape (border), or an arrow.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T101845Z" creationid="olex" creationdate="20181117T101845Z">
+        <seg>В LibreOffice термин &lt;f0&gt;линия&lt;/f0&gt; означает: отдельный отрезок (линия), внешний край фигуры (граница) и стрелку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In LibreOffice, macros are &lt;i0/&gt;grouped in modules, modules are grouped in &lt;i1/&gt;libraries, and libraries are grouped &lt;i2/&gt;in&lt;i3/&gt; library containers.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T085442Z" creationid="tagezi" creationdate="20180320T085442Z">
@@ -25633,6 +25665,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T160248Z" creationid="olex" creationdate="20180811T160248Z">
         <seg>В большинстве случаев операция отмены (&lt;f0&gt;Ctrl+Z&lt;/f0&gt;) устраняет проблему.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In most cases the properties of the line you can modify are its style (solid, dashed, invisible, and so on), its width, and its color.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T102020Z" creationid="olex" creationdate="20181117T102020Z">
+        <seg>В большинстве случаев свойства линии, которые вы можете изменить, это стиль линии (сплошной, пунктирный, невидимый и т.д.), толщина и цвет.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29238,6 +29278,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T174243Z" creationid="olex" creationdate="20180326T174243Z">
         <seg>Панель меню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Menu entries with a small arrow on the right-hand side contain a submenu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T101458Z" creationid="olex" creationdate="20181117T101412Z">
+        <seg>Элементы меню с маленькой стрелкой справа содержат подменю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36030,6 +36078,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T122954Z" creationid="tagezi" creationdate="20180320T122954Z">
         <seg>Для импорта библиотеки макросов, выберите контейнер библиотек для использования, а затем нажмите кнопку &lt;f0&gt;Импорт&lt;/f0&gt; (Рисунок &lt;t1&gt;2&lt;/t1&gt; на странице &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the line you need to format and then use the controls on the Line and Filling toolbar to change the most common options (highlighted in Figure &lt;t0&gt;36&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T102139Z" creationid="olex" creationdate="20181117T102139Z">
+        <seg>Выберите линию, которую необходимо изменить, а затем используйте инструменты на панели Линия и заполнение, чтобы изменить наиболее распространенные свойства (выделены на Рисунке &lt;t0&gt;36&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51742,8 +51798,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can change object attributes without having to open a dialog.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181117T101357Z" creationid="olex" creationdate="20181117T101357Z">
-        <seg>Вы можете изменять свойства объектов, не открывая диалоговых окон.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T101434Z" creationid="olex" creationdate="20181117T101357Z">
+        <seg>В нем вы можете изменять свойства объектов, не открывая диалоговых окон.</seg>
       </tuv>
     </tu>
     <tu>
