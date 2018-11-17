@@ -5907,6 +5907,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A ghost image of the object being slanted appears (Figure &lt;t0&gt;31&lt;/t0&gt;) and the current angle of slant is shown in the status bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T093840Z" creationid="olex" creationdate="20181117T093840Z">
+        <seg>Появится фантомное изображение наклоняемого объекта (Рисунок &lt;t0&gt;31&lt;/t0&gt;), а текущий угол наклона будет отображаться в строке состояния.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A graphic object is not dynamic and does not behave like a text frame.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T114946Z" creationid="olex" creationdate="20181110T114946Z">
@@ -9432,6 +9440,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, the &lt;f0&gt;Line and Filling&lt;/f0&gt; toolbar is not shown in Draw.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T095109Z" creationid="olex" creationdate="20181117T095109Z">
+        <seg>Панель инструментов &lt;f0&gt;Линия и заливка&lt;/f0&gt; не отображается в Draw по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, the Color Bar is displayed below the workspace.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181105T190734Z" creationid="olex" creationdate="20181105T190718Z">
@@ -11364,6 +11380,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T105024Z" creationid="olex" creationdate="20181110T105024Z">
         <seg>Нажмите и удерживайте левую кнопку мыши, чтобы создать начальную точку кривой, затем, удерживая левую кнопку мыши, перетащите ее из начальной точки, чтобы нарисовать линию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click and hold the mouse button, then move the cursor to shear the object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T093741Z" creationid="olex" creationdate="20181117T093741Z">
+        <seg>Нажмите и удерживайте кнопку мыши, затем переместите курсор, чтобы наклонить объект.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17114,6 +17138,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Slanting an object</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T094324Z" creationid="olex" creationdate="20181117T094324Z">
+        <seg>Рисунок &lt;seq0&gt;31&lt;/seq0&gt;: Наклон объекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: AutoFormat dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T181056Z" creationid="olex" creationdate="20180430T181056Z">
@@ -19557,6 +19589,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180312T071613Z" creationid="User" creationdate="20180312T071613Z">
         <seg>Больше информации о создании формул изложено в разделе “&lt;bf5&gt;Создание формул&lt;/bf5&gt;” на странице &lt;bf6&gt;8&lt;/bf6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on editing objects and changing attributes, see Chapter 4, Changing Object Attributes, in the &lt;f0&gt;Draw Guide.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T094957Z" creationid="olex" creationdate="20181117T094957Z">
+        <seg>Дополнительные сведения про редактирование объектов и изменение их атрибутов смотрите в Главе 4 Изменение свойств объекта, в &lt;f0&gt;Руководстве по Draw&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22304,6 +22344,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, if &lt;f2&gt;When creating or moving objects&lt;/f2&gt; has been selected in&lt;f3&gt; Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f3&gt;, the action of the &lt;f4&gt;Shift&lt;/f4&gt; key is reversed and slanting will be restricted to 15° of movement &lt;f5&gt;unless&lt;/f5&gt; the &lt;f6&gt;Shift&lt;/f6&gt; key is pressed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T094303Z" creationid="olex" creationdate="20181117T094303Z">
+        <seg>Однако, если в &lt;f2&gt;Сервис &gt; Параметры &gt; LibreOffice Draw &gt; Сетка&lt;/f2&gt; было выбрано &lt;f3&gt;При создании или перемещении объектов&lt;/f3&gt;, то действие клавиши &lt;f4&gt;Shift&lt;/f4&gt; становится обратным и наклон с шагом 15° будет производиться, &lt;f5&gt;если&lt;/f5&gt; клавиша &lt;f6&gt;Shift&lt;/f6&gt; не нажата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, if something else is copied to the clipboard, the contents on the clipboard are changed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T183034Z" creationid="tagezi" creationdate="20180312T183034Z">
@@ -24310,6 +24358,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181116T204239Z" creationid="olex" creationdate="20181116T204239Z">
         <seg>Если вы нажмете клавишу &lt;f0&gt;Shift&lt;/f0&gt; во время вращения объекта, то объект будет вращаться с шагом 15°.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you press the &lt;f0&gt;Shift&lt;/f0&gt; key while slanting an object, slanting will be restricted to 15° of movement.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T093959Z" creationid="olex" creationdate="20181117T093959Z">
+        <seg>Если вы нажмете клавишу &lt;f0&gt;Shift&lt;/f0&gt;, когда наклоняете объект, то наклон будет производиться с шагом 15°.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40868,6 +40924,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The most common object attributes can be edited using this toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T095443Z" creationid="olex" creationdate="20181117T095443Z">
+        <seg>С помощью этой панели инструментов можно редактировать наиболее часто используемые свойства объектов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The most common use is to add a control, such as a button, into a document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T175944Z" creationid="tagezi" creationdate="20180320T175944Z">
@@ -43220,6 +43284,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is the default behavior of the &lt;f1&gt;Shift&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T094023Z" creationid="olex" creationdate="20181117T094023Z">
+        <seg>Это поведение по умолчанию клавиши &lt;f1&gt;Shift&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the essence of an “open source” community!</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100311Z" creationid="lera" creationdate="20180303T195735Z">
@@ -45020,6 +45092,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To display it, go to &lt;f1&gt;View &gt; Toolbars &gt; Line and Filling&lt;/f1&gt; on the Menu bar to open the toolbar (Figure &lt;t2&gt;32&lt;/t2&gt;) at the top of the workspace.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T095308Z" creationid="olex" creationdate="20181117T095308Z">
+        <seg>Выберите в меню &lt;f1&gt;Вид &gt; Панели инструментов &gt; Линия и заливка&lt;/f1&gt; (Рисунок &lt;t2&gt;32&lt;/t2&gt;), чтобы отобразить ее в верхней части рабочей области.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To display or hide the various &lt;i0/&gt;Draw toolbars&lt;i1/&gt;, go to &lt;f2&gt;View &gt; Toolbars&lt;/f2&gt; on the Menu bar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181105T181021Z" creationid="olex" creationdate="20181105T181021Z">
@@ -45192,6 +45272,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T191839Z" creationid="olex" creationdate="20180311T191839Z">
         <seg>Чтобы изменить шаблон:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To edit an object or change attributes such as color or border width, the Line and Filling toolbar, the Text Formatting toolbar, the Sidebar Properties section, or a context menu can be used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T094810Z" creationid="olex" creationdate="20181117T094810Z">
+        <seg>Для правки объекта или изменения его атрибутов, таких как цвет или ширина линии, можно использовать панель инструментов Линия и заливка, панель инструментов Форматирование текста, вкладку Свойства на Боковой панели или контекстное меню.</seg>
       </tuv>
     </tu>
     <tu>
