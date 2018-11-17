@@ -39489,6 +39489,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The axis used for slanting an object is the object edge directly opposite the midpoint handle being used to slant the object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T093458Z" creationid="olex" creationdate="20181117T093458Z">
+        <seg>Ось, используемая как основание для наклона объекта, это край объекта, противоположный маркеру, который используется для наклона объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The background does not show when printed and can be turned off in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Application Colors&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T175239Z" creationid="olex" creationdate="20181001T175239Z">
@@ -40888,6 +40896,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T175026Z" creationid="tagezi" creationdate="20180310T175026Z">
         <seg>Наиболее значительной является движок реляционной базы данных HSQLDB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The mouse cursor changes when it hovers over one of these midpoint handles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T093139Z" creationid="olex" creationdate="20181117T093139Z">
+        <seg>Курсор мыши изменяется, если расположить его над одним из этих маркеров.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42703,6 +42719,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T182900Z" creationid="olex" creationdate="20180508T182225Z">
         <seg>Это автоматически изменит значение поля &lt;f2&gt;Повторять строки&lt;/f2&gt; &lt;s3/&gt; &lt;f4&gt;- нет -&lt;/f4&gt; &lt;s5/&gt;на &lt;f6&gt;- пользовательский -&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This axis stays fixed in location while the other sides of the object move in relation to it as you drag the mouse cursor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T093659Z" creationid="olex" creationdate="20181117T093659Z">
+        <seg>Эта ось остается неподвижной, а остальные стороны объекта движутся относительно нее при перетаскивании курсора мыши.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46731,6 +46755,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181101T200045Z" creationid="olex" creationdate="20181101T200045Z">
         <seg>Чтобы отменить анимацию слайдов и переходов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To slant an object, use the handles located at the midpoints on the top, bottom and sides of a selected object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181117T092859Z" creationid="olex" creationdate="20181117T092859Z">
+        <seg>Чтобы наклонить объект, используйте маркеры, расположенные посередине между углами сверху, снизу и по бокам выбранного объекта.</seg>
       </tuv>
     </tu>
     <tu>
