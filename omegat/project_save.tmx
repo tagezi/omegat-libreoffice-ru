@@ -7793,6 +7793,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An area fill can be made partly or wholly transparent.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T212335Z" creationid="olex" creationdate="20181119T212221Z">
+        <seg>Заливка может быть полностью или частично прозрачной.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example is shown in Figure &lt;t0&gt;3&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T094359Z" creationid="Роман" creationdate="20180316T094359Z">
@@ -8231,6 +8239,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T161718Z" creationid="olex" creationdate="20180603T161718Z">
         <seg>Расположение, выравнивание и распределение объектов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arrowheads are only applicable to lines and they have no effect on the border of an object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T211814Z" creationid="olex" creationdate="20181119T211814Z">
+        <seg>Стили стрелок применимы только к линиям, и они не влияют на границу объекта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20195,8 +20211,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Formatting area fill</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180603T154353Z" creationid="olex" creationdate="20180603T154353Z">
-        <seg>Форматирование заливки фигуры</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T212115Z" creationid="olex" creationdate="20180603T154353Z">
+        <seg>Форматирование заливки области</seg>
       </tuv>
     </tu>
     <tu>
@@ -25745,6 +25761,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T153005Z" creationid="tagezi" creationdate="20180310T153005Z">
         <seg>В большинстве случаев, пока диалоговое окно остается открытым, возможно взаимодействовать только с ним (а не с самим документом).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In most cases, you will choose one of the standard fill options, which are all available from the Line and Filling toolbar, or the &lt;f2&gt;Area&lt;/f2&gt; sub-section in Sidebar Properties.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T212456Z" creationid="olex" creationdate="20181119T212456Z">
+        <seg>В большинстве случаев вы выберете одну из стандартных опций заполнения, которые доступны на панели инструментов Линия и заливка, или в разделе &lt;f2&gt;Область&lt;/f2&gt; вкладки Свойства на Боковой панели.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41931,6 +41955,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T191932Z" creationid="olex" creationdate="20180719T191932Z">
         <seg>Шаблоны будут доступны для использования в &lt;f4&gt;Файл &gt; Шаблоны &gt; Управление шаблонами&lt;/f4&gt; и &lt;f5&gt; Файл &gt; Создать &gt; Шаблоны...&lt;/f5&gt;, а расширение будет указано в Управление расширениями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The term &lt;f0&gt;area fill&lt;/f0&gt; refers to the inside of an object, which can be a uniform color, gradient, hatching pattern, or bitmap (Figure &lt;t1&gt;38&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T212232Z" creationid="olex" creationdate="20181119T212043Z">
+        <seg>Термин &lt;f0&gt;заливка области&lt;/f0&gt; относится к внутренней части объекта, которая может быть заполнена однородным цветом, градиентом, штрихованным рисунком или растровым изображением (Рисунок &lt;t1&gt;38&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
