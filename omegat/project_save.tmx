@@ -17338,6 +17338,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;38&lt;/seq0&gt;: Different types of area fill</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T212907Z" creationid="olex" creationdate="20181119T212907Z">
+        <seg>Рисунок &lt;seq0&gt;38&lt;/seq0&gt;: Различные типы заливки области</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;38&lt;/seq0&gt;: Sort Criteria dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T175952Z" creationid="olex" creationdate="20180506T175952Z">
@@ -19681,6 +19689,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information on area fill, see Chapter 4, Changing Object Attributes, in the &lt;f3&gt;Draw Guide.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T212725Z" creationid="olex" creationdate="20181119T212725Z">
+        <seg>Для получения дополнительной информации про заливку области, смотрите Главу 4, Изменение свойств объекта, в &lt;f3&gt;Руководстве по Draw&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information on creating formulas, see “&lt;bf1&gt;Creating formulas&lt;/bf1&gt;” on page &lt;bf2&gt;8&lt;/bf2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153238Z" creationid="User" creationdate="20180311T153238Z">
@@ -19869,6 +19885,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T185423Z" creationid="olex" creationdate="20180508T185423Z">
         <seg>Дополнительные сведения о настройке и определении верхних и нижних колонтитулов смотрите в разделе &lt;f0&gt;Руководство по Calc Глава 6 Печать, экспорт и отправка по электронной почте&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on styles, see Chapter 3, Using Styles and Templates, in this guide; Chapter 8, Introduction to Styles, in the &lt;f0&gt;Writer Guide; &lt;/f0&gt;and Chapter 4, Changing Object Attributes, in the &lt;f1&gt;Draw Guide.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T213508Z" creationid="olex" creationdate="20181119T213508Z">
+        <seg>Для получения дополнительной информации про стили, смотрите Главу 3, Использование стилей и шаблонов, этого руководства; Главу 8, Введение в стили, в &lt;f0&gt;Руководстве по Writer; &lt;/f0&gt;и Главу 4, Изменение свойств объекта, в &lt;f1&gt;Руководстве по Draw&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21764,6 +21788,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204204Z" creationid="Роман" creationdate="20180316T204204Z">
         <seg>Греческие символы также могут быть введены в формулу, используя диалог Символы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grid points, snap &lt;i0/&gt;points and lines, object frames, individual points on objects, or page edges can all be used with the snap function.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T214145Z" creationid="olex" creationdate="20181119T214145Z">
+        <seg>С помощью функции привязки можно использовать точки сетки, &lt;i0/&gt;точки и линии, рамки объектов, отдельные точки на объектах или края страниц.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25192,6 +25224,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T154333Z" creationid="User" creationdate="20180311T154333Z">
         <seg>В Draw и Impress формула вставляется в центре рисунка или слайда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Draw, objects can be accurately and consistently positioned using the snap function.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T213656Z" creationid="olex" creationdate="20181119T213656Z">
+        <seg>В Draw объекты могут быть точно и последовательно расположены с помощью функции привязки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37902,6 +37942,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Styles allow you to define a format (a style) and then apply that format to multiple objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T213234Z" creationid="olex" creationdate="20181119T213234Z">
+        <seg>Стили позволяют определить формат (стиль), а затем применять этот формат к многим объектам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Styles and Formatting</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T190436Z" creationid="olex" creationdate="20180604T190436Z">
@@ -37988,6 +38036,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T182034Z" creationid="olex" creationdate="20180809T182034Z">
         <seg>Верхний индекс, Нижний индекс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suppose that you want to apply the same area fill, line thickness, and border to a set of objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T213101Z" creationid="olex" creationdate="20181119T213101Z">
+        <seg>Предположим, что вы хотите применить ту же заливку области, толщину и стиль линии к группе объектов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43737,6 +43793,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180924T181723Z" creationid="olex" creationdate="20180924T181723Z">
         <seg>Это уменьшает вероятность ошибок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This repetitive process can be greatly simplified by the use of styles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T213152Z" creationid="olex" creationdate="20181119T213152Z">
+        <seg>Этот повторяющийся процесс можно значительно упростить, используя стили.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51465,6 +51529,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also define your own area fills.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T212606Z" creationid="olex" creationdate="20181119T212606Z">
+        <seg>Вы также можете установить свою собственную заливку области.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also directly select a range of cells using the Name Box.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T204356Z" creationid="olex" creationdate="20180404T204326Z">
@@ -54375,6 +54447,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>grid points</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T213624Z" creationid="olex" creationdate="20181119T213624Z">
+        <seg>точки сетки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>header</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T195552Z" creationid="olex" creationdate="20180316T195552Z">
@@ -55423,6 +55503,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>snap function</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T213611Z" creationid="olex" creationdate="20181119T213611Z">
+        <seg>работа привязки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>sorting records</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180503T191900Z" creationid="olex" creationdate="20180503T191900Z">
@@ -55577,8 +55665,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>styles</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180320T191730Z" creationid="olex" creationdate="20180306T183621Z">
-        <seg>стилей</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T212918Z" creationid="olex" creationdate="20180306T183621Z">
+        <seg>стили</seg>
       </tuv>
     </tu>
     <tu>
