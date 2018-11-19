@@ -8243,10 +8243,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arrows, &lt;i0/&gt;arrowheads, and line endings</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T205310Z" creationid="olex" creationdate="20181119T205310Z">
+        <seg>Стрелки, &lt;i0/&gt;окончания стрелок и окончания линии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Arrows, arrowheads, and line endings</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T154232Z" creationid="olex" creationdate="20180603T154232Z">
         <seg>Стрелки, указатели и окончания линий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arrows, arrowheads, and other line endings are usually referred to as arrows and can be treated the same as lines when editing and changing attributes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T205739Z" creationid="olex" creationdate="20181119T205739Z">
+        <seg>Стрелки, окончания стрелок и другие концы линии обычно называются стрелками и могут обрабатываться так же, как линии при редактировании и изменении атрибутов.</seg>
       </tuv>
     </tu>
     <tu>
