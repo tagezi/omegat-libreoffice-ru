@@ -19601,6 +19601,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more detailed information about the snap function, see Chapter 3, Working with Objects and Object Points, and Chapter 11, Advanced Draw Techniques, in the &lt;f0&gt;Draw Guide.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T215004Z" creationid="olex" creationdate="20181119T215004Z">
+        <seg>Для получения дополнительной информациипро функции привязки смотрите Главу 3, Работа с объектами и точками объектов, и Главу 11, Дополнительные возможности Draw, в &lt;f0&gt;Руководстве по Draw&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information about keyboard selection of text, see the topic “Navigating and selecting with the keyboard” in LibreOffice Help (&lt;f0&gt;F1&lt;/f0&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T181945Z" creationid="olex" creationdate="20180730T181022Z">
@@ -21794,8 +21802,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Grid points, snap &lt;i0/&gt;points and lines, object frames, individual points on objects, or page edges can all be used with the snap function.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181119T214145Z" creationid="olex" creationdate="20181119T214145Z">
-        <seg>С помощью функции привязки можно использовать точки сетки, &lt;i0/&gt;точки и линии, рамки объектов, отдельные точки на объектах или края страниц.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T214547Z" creationid="olex" creationdate="20181119T214145Z">
+        <seg>Для привязки можно использовать точки сетки, вспомогательные &lt;i0/&gt;точки и линии, рамки объектов, отдельные точки на объектах или края страниц.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25230,8 +25238,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>In Draw, objects can be accurately and consistently positioned using the snap function.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181119T213656Z" creationid="olex" creationdate="20181119T213656Z">
-        <seg>В Draw объекты могут быть точно и последовательно расположены с помощью функции привязки.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T214238Z" creationid="olex" creationdate="20181119T213656Z">
+        <seg>В Draw объекты могут быть точно и последовательно расположены с помощью функций привязки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27363,6 +27371,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T173115Z" creationid="olex" creationdate="20180403T173115Z">
         <seg>Рекомендуется переименовывать листы в электронной таблице, чтобы сделать их более узнаваемыми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is recommended, however, to activate only the functions that you really need.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T214728Z" creationid="olex" creationdate="20181119T214728Z">
+        <seg>Однако рекомендуется использовать только те функции, которые вам действительно нужны.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37294,8 +37310,16 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Snap function</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180603T154538Z" creationid="olex" creationdate="20180603T154523Z">
-        <seg>Работа привязки</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T214221Z" creationid="olex" creationdate="20180603T154523Z">
+        <seg>Функции привязки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Snap function is easier to work with at the highest zoom values that are practical for your display.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T214645Z" creationid="olex" creationdate="20181119T214207Z">
+        <seg>С привязками легче работать при максимальных значениями масштабирования, которые являются удобными для вашего монитора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47552,6 +47576,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Two different snap functions can be used at the same time; for example snapping to a guide line and to the page edge.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T214630Z" creationid="olex" creationdate="20181119T214630Z">
+        <seg>Одновременно можно использовать две различные привязки; например, привязка к направляющей линии и к краю страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Two notable examples are cross-references to headings and the formatting of numbered lists.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T181625Z" creationid="olex" creationdate="20180707T181625Z">
@@ -55505,8 +55537,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>snap function</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181119T213611Z" creationid="olex" creationdate="20181119T213611Z">
-        <seg>работа привязки</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T214227Z" creationid="olex" creationdate="20181119T213611Z">
+        <seg>функции привязки</seg>
       </tuv>
     </tu>
     <tu>
