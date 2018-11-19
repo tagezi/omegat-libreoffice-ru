@@ -8245,8 +8245,8 @@
       <tuv lang="EN-US">
         <seg>Arrows, &lt;i0/&gt;arrowheads, and line endings</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181119T205310Z" creationid="olex" creationdate="20181119T205310Z">
-        <seg>Стрелки, &lt;i0/&gt;окончания стрелок и окончания линии</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T210244Z" creationid="olex" creationdate="20181119T205310Z">
+        <seg>Стрелки, &lt;i0/&gt;стили стрелок и концов линии</seg>
       </tuv>
     </tu>
     <tu>
@@ -8261,8 +8261,8 @@
       <tuv lang="EN-US">
         <seg>Arrows, arrowheads, and other line endings are usually referred to as arrows and can be treated the same as lines when editing and changing attributes.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181119T205739Z" creationid="olex" creationdate="20181119T205739Z">
-        <seg>Стрелки, окончания стрелок и другие концы линии обычно называются стрелками и могут обрабатываться так же, как линии при редактировании и изменении атрибутов.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T210311Z" creationid="olex" creationdate="20181119T205739Z">
+        <seg>Стрелки, стили стрелок и других концов линии обычно называются стрелками и могут обрабатываться так же, как линии при редактировании и изменении свойств.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17278,6 +17278,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180503T190948Z" creationid="olex" creationdate="20180503T190948Z">
         <seg>Рисунок &lt;seq0&gt;36&lt;/seq0&gt;: Диалоговое окно Защитить лист</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;37&lt;/seq0&gt;: Arrowheads menu</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T210358Z" creationid="olex" creationdate="20181119T210358Z">
+        <seg>Рисунок &lt;seq0&gt;37&lt;/seq0&gt;: Меню Стили стрелок</seg>
       </tuv>
     </tu>
     <tu>
@@ -35535,6 +35543,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select a line and click on the &lt;f0&gt;Arrow Style&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt;from the Line and Filling toolbar to open the &lt;f4&gt;Arrowheads&lt;/f4&gt; menu (Figure &lt;t5&gt;14&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T210221Z" creationid="olex" creationdate="20181119T210221Z">
+        <seg>Выберите линию и нажмите на значок &lt;f0&gt;Стиль стрелок&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt; на панели инструментов Линия и заливка, чтобы открыть меню &lt;f4&gt;Стили стрелок&lt;/f4&gt; (Рисунок &lt;t5&gt;14&lt;/t5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select a macro and then click &lt;f0&gt;Run&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T134017Z" creationid="tagezi" creationdate="20180312T134017Z">
@@ -36848,6 +36864,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181014T181756Z" creationid="olex" creationdate="20181014T181756Z">
         <seg>Некоторые макеты содержат одно или несколько полей содержимого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Several types of arrowheads are available.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181119T210423Z" creationid="olex" creationdate="20181119T210423Z">
+        <seg>Доступны несколько типов стилей стрелок.</seg>
       </tuv>
     </tu>
     <tu>
