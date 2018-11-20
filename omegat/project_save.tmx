@@ -11600,6 +11600,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on a graphic object and the selection handles will show.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T203538Z" creationid="olex" creationdate="20181120T203538Z">
+        <seg>Нажмите на графический объект, чтобы стали видны маркеры выделения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on a word or phrase in the submenu to have it replace the highlighted word or phrase in the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T184320Z" creationid="olex" creationdate="20180805T184320Z">
@@ -34157,6 +34165,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click and select &lt;f0&gt;Flip &gt; Vertically&lt;/f0&gt; or &lt;f1&gt;Horizontally&lt;/f1&gt;, or go to &lt;f2&gt;Modify &gt; Flip &gt; Vertically&lt;/f2&gt; or &lt;f3&gt;Horizontally&lt;/f3&gt; on the Menu bar and the selected object will be flipped to face the other direction.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T204020Z" creationid="olex" creationdate="20181120T204020Z">
+        <seg>Нажмите правую кнопку мыши и выберите &lt;f0&gt;Отразить &gt; По вертикали&lt;/f0&gt; или &lt;f1&gt;По горизонтали&lt;/f1&gt;, или выберите в меню &lt;f2&gt;Фигура &gt; Отразить &gt; По вертикали&lt;/f2&gt; или &lt;f3&gt;По горизонтали&lt;/f3&gt; и выбранный объект будет повернут в обратном направлении.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click and select &lt;f0&gt;Selection Lists&lt;/f0&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T093532Z" creationid="olex" creationdate="20180415T093532Z">
@@ -41681,6 +41697,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T173304Z" creationid="tagezi" creationdate="20180319T173304Z">
         <seg>Назначение &lt;i0/&gt;&lt;i1/&gt;фреймворка отправки — обеспечить единообразный доступ к компонентам (документам) для команд, которые обычно соответствуют элементам меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The quickest and easiest method to flip an object horizontally or vertically is as follows:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T203450Z" creationid="olex" creationdate="20181120T203450Z">
+        <seg>Самый быстрый и простой способ отразить объект по горизонтали или по вертикали:</seg>
       </tuv>
     </tu>
     <tu>
