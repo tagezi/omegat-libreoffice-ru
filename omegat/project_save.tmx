@@ -8532,6 +8532,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the moment no mirror command exists in Draw.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T204729Z" creationid="olex" creationdate="20181120T204729Z">
+        <seg>В настоящее время в Draw нет команды Зеркальные копии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the time of writing this chapter, LibreOffice has no direct method of changing the template that a document uses; the Template Changer extension has not been updated for this version of LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T194747Z" creationid="olex" creationdate="20180313T194747Z">
@@ -17507,6 +17515,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;41&lt;/seq0&gt;: Mode toolbar and its tools</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T204649Z" creationid="olex" creationdate="20181120T204624Z">
+        <seg>Рисунок &lt;seq0&gt;41&lt;/seq0&gt;: Панель инструментов Преобразования и ее инструменты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;41&lt;/seq0&gt;: Page Style dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T181517Z" creationid="olex" creationdate="20180508T181517Z">
@@ -22648,6 +22664,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, mirroring an object can be emulated by using the &lt;f0&gt;Flip&lt;/f0&gt; tool, as described in Chapter 4, Changing Object Attributes, in the &lt;f1&gt;Draw Guide.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T204831Z" creationid="olex" creationdate="20181120T204831Z">
+        <seg>Однако зеркальное отображение объекта можно эмулировать с помощью инструмента &lt;f0&gt;Отразить&lt;/f0&gt;, как описано в Главе 4 Изменение свойств объекта в &lt;f1&gt;Руководстве по Draw&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, other users can import the new AutoFormat selecting the table range in the spreadsheet document and defining it as new AutoFormat.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T182110Z" creationid="olex" creationdate="20180430T182110Z">
@@ -22700,6 +22724,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180601T182345Z" creationid="olex" creationdate="20180507T192129Z">
         <seg>Однако некоторые детали печати в Calc отличаются, особенно в части подготовки к печати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the &lt;f0&gt;Flip&lt;/f0&gt; tool on the Mode or Drawing toolbar provides greater control over the flipping process.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T204635Z" creationid="olex" creationdate="20181120T204119Z">
+        <seg>Однако инструмент &lt;f0&gt;Отразить&lt;/f0&gt; на панели инструментов Преобразования или Рисование обеспечивает больший контроль над процессом отражения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53283,6 +53315,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180823T172801Z" creationid="olex" creationdate="20180823T172801Z">
         <seg>Вы можете использовать несколько методов, чтобы сохранить &lt;i0/&gt; отслеживание изменений, внесенных в документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use the Flip tool to change the position and angle that the object flips over, as described in Chapter 4, Changing Object Attributes, in the &lt;f1&gt;Draw Guide.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T204558Z" creationid="olex" creationdate="20181120T204558Z">
+        <seg>Вы можете использовать инструмент Отразить, чтобы изменить положение и угол линии, относительно которой объект будет отражен, как описано в Главе 4 Изменение свойств объекта в &lt;f1&gt;Руководстве по Draw&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
