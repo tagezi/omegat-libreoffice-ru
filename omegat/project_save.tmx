@@ -21688,6 +21688,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f1&gt;View &gt; Grid &gt; Snap to Grid&lt;/f1&gt; on the Menu bar or click on the &lt;f2&gt;Snap to Grid&lt;/f2&gt; icon on the &lt;f3&gt;Options&lt;/f3&gt; toolbar to turn on or off the snap to grid function.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T192305Z" creationid="olex" creationdate="20181120T192305Z">
+        <seg>Выберите в меню &lt;f1&gt;Вид &gt; Сетка и вспомогательные линии &gt; Привязка к сетке&lt;/f1&gt; или нажмите значок &lt;f2&gt;Привязка к сетке&lt;/f2&gt; на панели инструментов &lt;f3&gt;Параметры&lt;/f3&gt; для включения или отключения функции привязки к сетке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f5&gt;View &gt; Toolbars &gt; Glue Points&lt;/f5&gt; on to open the toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T184042Z" creationid="olex" creationdate="20181110T184042Z">
@@ -23412,6 +23420,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180706T174913Z" creationid="olex" creationdate="20180706T174913Z">
         <seg>Если диалоговое окно Параметры еще не открыто, то нажмите &lt;f0&gt;Сервис &gt; Параметры&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Options toolbar is not visible, go to &lt;f4&gt;View &gt; Toolbars &gt; Options&lt;/f4&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T192358Z" creationid="olex" creationdate="20181120T192358Z">
+        <seg>Если панель инструментов Параметры не отображается, то выберите в меню &lt;f4&gt;Вид &gt; Панели инструментов &gt; Параметры&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48236,6 +48252,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181011T182141Z" creationid="olex" creationdate="20181011T182141Z">
         <seg>Используйте вид Структура для следующих целей:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Snap &lt;i0/&gt;to grid to position an object to a grid point.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T191902Z" creationid="olex" creationdate="20181120T191902Z">
+        <seg>Используйте Привязку&lt;i0/&gt; к сетке, чтобы размещать объект в точку сетки.</seg>
       </tuv>
     </tu>
     <tu>
