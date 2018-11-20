@@ -14599,6 +14599,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw has help lines to easily allow you to position an object using the rulers at the top and left side of the workspace.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T195936Z" creationid="olex" creationdate="20181120T195936Z">
+        <seg>В Draw есть вспомогательные линии, которые позволяют вам легко позиционировать объект, используя линейки в верхней и левой частях рабочего пространства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw is a vector drawing tool that can produce everything from simple diagrams or flowcharts to 3D artwork.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T202335Z" creationid="olex" creationdate="20180607T202335Z">
@@ -17467,6 +17475,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;40&lt;/seq0&gt;: Configuring the grid</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T195820Z" creationid="olex" creationdate="20181120T195820Z">
+        <seg>Рисунок &lt;seq0&gt;40&lt;/seq0&gt;: Настройка сетки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;40&lt;/seq0&gt;: Pivot Table dialog with raw data and results</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T185815Z" creationid="olex" creationdate="20180507T185815Z">
@@ -19901,6 +19917,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T185423Z" creationid="olex" creationdate="20180508T185423Z">
         <seg>Дополнительные сведения о настройке и определении верхних и нижних колонтитулов смотрите в разделе &lt;f0&gt;Руководство по Calc Глава 6 Печать, экспорт и отправка по электронной почте&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information on special effects, see Chapter 4, Changing Object Attributes,&lt;f0&gt; in the Draw Guide.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T201041Z" creationid="olex" creationdate="20181120T201041Z">
+        <seg>Для получения дополнительной информации о специальных эффектах смотрите Главу 4, Изменение свойств объекта,&lt;f0&gt; в Руководстве по Draw&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40153,6 +40177,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default color of the grid is light gray.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T195654Z" creationid="olex" creationdate="20181120T195654Z">
+        <seg>По умолчанию цвет сетки светло-серый.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default currency determines the proper formatting of fields formatted as currency.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T174050Z" creationid="olex" creationdate="20180712T174025Z">
@@ -41561,6 +41593,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181022T175738Z" creationid="olex" creationdate="20181022T175738Z">
         <seg>Изображение будет автоматически изменять размер, чтобы заполнить область содержимого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The pixel size of the snap area defines how close you need to bring an object to a snap point or line before it will snap to it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T195628Z" creationid="olex" creationdate="20181120T195628Z">
+        <seg>Размер в пикселях области привязки определяет, насколько близко вам нужно будет довести объект до точки привязки или линии до того, как он будет привязан к ней.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43949,6 +43989,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This section is an introduction to some of these effects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T200916Z" creationid="olex" creationdate="20181120T200916Z">
+        <seg>В этом разделе представлено введение в некоторые из эффектов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This section provides a quick overview of how to work with these objects.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181020T102158Z" creationid="olex" creationdate="20181020T102158Z">
@@ -44853,6 +44901,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T185745Z" creationid="olex" creationdate="20180330T183426Z">
         <seg>Чтобы изменить цвет вкладки листа, щелкните правой кнопкой мыши на вкладке и выберите в контекстном меню &lt;f0&gt;Цвет ярлычка...&lt;/f0&gt;, откроется диалоговое окно &lt;f1&gt;Цвет ярлыка&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the color of the grid points, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Appearance&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T195804Z" creationid="olex" creationdate="20181120T195804Z">
+        <seg>Чтобы изменить цвет точек сетки, выберите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Внешний вид&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47372,6 +47428,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180524T185057Z" creationid="olex" creationdate="20180414T134748Z">
         <seg>Чтобы отключить или включить Автозамену в Calc, выберите в меню &lt;f0&gt;Сервис &gt; Автоввод&lt;/f0&gt;, чтобы снять или установить активацию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To turn on or off the help lines, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; View&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Snap Lines when moving&lt;/f1&gt; option or go to the Options toolbar and click on the &lt;f2&gt;Helplines While Moving&lt;/f2&gt; icon &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T200806Z" creationid="olex" creationdate="20181120T200806Z">
+        <seg>Чтобы включить или отключить вспомогательные линии, выберите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice Draw &gt; Вид&lt;/f0&gt; и выберите опцию &lt;f1&gt;Линии при перемещении&lt;/f1&gt; или нажмите значок &lt;f2&gt;Линии при перемещении&lt;/f2&gt; &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt; на панели инструментов Параметры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50940,6 +51004,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T153233Z" creationid="lera" creationdate="20180303T153233Z">
         <seg>Windows или Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With Draw, you can apply many special effects to objects and groups of objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T200832Z" creationid="olex" creationdate="20181120T200832Z">
+        <seg>С помощью Draw вы можете применить множество специальных эффектов к объектам и группам объектов.</seg>
       </tuv>
     </tu>
     <tu>
