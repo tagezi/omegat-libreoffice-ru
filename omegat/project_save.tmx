@@ -19611,8 +19611,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>For more detailed information about the snap function, see Chapter 3, Working with Objects and Object Points, and Chapter 11, Advanced Draw Techniques, in the &lt;f0&gt;Draw Guide.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181119T215004Z" creationid="olex" creationdate="20181119T215004Z">
-        <seg>Для получения дополнительной информациипро функции привязки смотрите Главу 3, Работа с объектами и точками объектов, и Главу 11, Дополнительные возможности Draw, в &lt;f0&gt;Руководстве по Draw&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T195144Z" creationid="olex" creationdate="20181119T215004Z">
+        <seg>Для получения дополнительной информации про функции привязки смотрите Главу 3, Работа с объектами и точками объектов, и Главу 11, Дополнительные возможности Draw, в &lt;f0&gt;Руководстве по Draw&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21588,6 +21588,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T090745Z" creationid="olex" creationdate="20180415T090745Z">
         <seg>Перейдите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice Calc &gt; Списки сортировки&lt;/f0&gt;, чтобы открыть диалоговое окно Списки сортировки (Рисунок &lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f0&gt; on the Menu bar to open the options dialog for the grid.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T194611Z" creationid="olex" creationdate="20181120T194611Z">
+        <seg>Выберите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice Draw &gt; Сетка&lt;/f0&gt;, чтобы открыть диалоговое окно параметров сетки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23637,6 +23645,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T074225Z" creationid="olex" creationdate="20180915T074225Z">
         <seg>Если положение слайда не видно в области слайдов, то список слайдов будет прокручиваться вверх или вниз соответственно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the resolution is 1 cm horizontal and 2 cm vertical, the grid consists of rectangles 2 cm high and 1 cm wide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T195058Z" creationid="olex" creationdate="20181120T195058Z">
+        <seg>Если разрешение 1 см по горизонтали и 2 см по вертикали, то сетка будет состоять из прямоугольников 2 см в высоту и 1 см в ширину.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30942,6 +30958,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Objects can snap to subdivisions as well as to the corners of the grid.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T195515Z" creationid="olex" creationdate="20181120T195515Z">
+        <seg>Объекты могут привязываться к дополнительным узлам, а также к углам сетки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Obtaining resources for additional languages</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T104333Z" creationid="olex" creationdate="20180721T104333Z">
@@ -38080,6 +38104,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subdivisions are additional points that appear along the sides of each rectangle or square in the grid.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T195339Z" creationid="olex" creationdate="20181120T195339Z">
+        <seg>Дополнительные узлы - это дополнительные точки, которые появляются вдоль сторон каждого прямоугольника или квадрата в сетке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Superscript, Subscript</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T182034Z" creationid="olex" creationdate="20180809T182034Z">
@@ -41645,10 +41677,18 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The resolution is the size of the squares or rectangles in the grid.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T194936Z" creationid="olex" creationdate="20181120T194936Z">
+        <seg>Разрешение - это размер квадратов или прямоугольников в сетке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The resolution, snap and snap position of the grid points can be configured.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181120T194501Z" creationid="olex" creationdate="20181120T194501Z">
-        <seg>Для сетки можно настроить разрешение, привязку и дополнительные точки привязки.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T195238Z" creationid="olex" creationdate="20181120T194501Z">
+        <seg>Для сетки можно настроить разрешение, привязку и дополнительные узлы привязки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45462,8 +45502,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>To display the grid in Draw or to switch off the grid, go to &lt;f0&gt;View &gt; Grid &gt; Display Grid&lt;/f0&gt; on the Menu bar or click on the &lt;f1&gt;Display Grid&lt;/f1&gt; icon on the Options toolbar.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181120T194036Z" creationid="olex" creationdate="20181120T194036Z">
-        <seg>Чтобы отобразить сетку или скрыть сетку в Draw, выберите в меню &lt;f0&gt;Вид &gt; Сетка и вспомогательные линии &gt; Показать сетку&lt;/f0&gt; или нажмите значок &lt;f1&gt;Показать сетку&lt;/f1&gt; на панели инструментов Параметры.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T195218Z" creationid="olex" creationdate="20181120T194036Z">
+        <seg>Чтобы отобразить или скрыть сетку в Draw, выберите в меню &lt;f0&gt;Вид &gt; Сетка и вспомогательные линии &gt; Показать сетку&lt;/f0&gt; или нажмите значок &lt;f1&gt;Показать сетку&lt;/f1&gt; на панели инструментов Параметры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48282,8 +48322,8 @@ denkin: это практически официальное название к
       <tuv lang="EN-US">
         <seg>Use Snap &lt;i0/&gt;to grid to position an object to a grid point.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181120T191902Z" creationid="olex" creationdate="20181120T191902Z">
-        <seg>Используйте Привязку&lt;i0/&gt; к сетке, чтобы размещать объект в точку сетки.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T195157Z" creationid="olex" creationdate="20181120T191902Z">
+        <seg>Используйте Привязку&lt;i0/&gt; к сетке, чтобы размещать объект в точках сетки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49528,6 +49568,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T180325Z" creationid="olex" creationdate="20180611T180325Z">
         <seg>Версии LibreOffice для Windows, Linux и Mac OS X можно скачать бесплатно с &lt;a0&gt;http://www.libreoffice.org/download&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical and horizontal spacing of the dots in the grid.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T194720Z" creationid="olex" creationdate="20181120T194720Z">
+        <seg>Вертикальное и горизонтальное разрешение сетки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51517,6 +51565,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T183857Z" creationid="olex" creationdate="20180329T183857Z">
         <seg>Вы можете также настроить диапазон с помощью мыши, перетащив цветную рамку или её края, чтобы установить диапазон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also change the unit of measurement used in the general Draw options by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T194915Z" creationid="olex" creationdate="20181120T194915Z">
+        <seg>Также вы можете изменить единицы измерения по умолчанию для Draw, выбрав &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice Draw &gt; Общие&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
