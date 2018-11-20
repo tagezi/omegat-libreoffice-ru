@@ -41645,6 +41645,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The resolution, snap and snap position of the grid points can be configured.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181120T194501Z" creationid="olex" creationdate="20181120T194501Z">
+        <seg>Для сетки можно настроить разрешение, привязку и дополнительные точки привязки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The rest, including numbers formatted in scientific notation, will be imported as text.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T193533Z" creationid="olex" creationdate="20180330T193533Z">
