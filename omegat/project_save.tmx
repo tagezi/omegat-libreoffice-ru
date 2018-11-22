@@ -9230,6 +9230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both types of gradient can be used together.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T191902Z" creationid="olex" creationdate="20181122T191902Z">
+        <seg>Оба типа градиента могут использоваться одновременно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brackets and matrices</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T111342Z" creationid="asus" creationdate="20180813T111342Z">
@@ -14841,8 +14849,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Dynamic &lt;i0/&gt;transparency gradients</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181122T190430Z" creationid="olex" creationdate="20181122T190430Z">
-        <seg>Динамические &lt;i0/&gt;прозрачные градиенты</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T191919Z" creationid="olex" creationdate="20181122T190430Z">
+        <seg>Динамические &lt;i0/&gt;градиенты прозрачности</seg>
       </tuv>
     </tu>
     <tu>
@@ -51176,6 +51184,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With a transparency gradient, the direction and degree of object fill color changes from opaque to transparent.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T192012Z" creationid="olex" creationdate="20181122T192012Z">
+        <seg>С градиентом прозрачности направление и степень цвета заливки объекта изменяются от непрозрачного до прозрачного.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With its open source software license, LibreOffice is key in the drive to provide an office suite that is available to anyone, anywhere, for commercial or personal use.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T200558Z" creationid="lera" creationdate="20180303T200501Z">
@@ -51691,8 +51707,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can &lt;i0/&gt;control transparency gradients in the same manner as color gradients.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181122T191642Z" creationid="olex" creationdate="20181122T191642Z">
-        <seg>Вы можете &lt;i0 /&gt; управлять градиентами прозрачности таким же образом, как цветовые градиенты.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T191932Z" creationid="olex" creationdate="20181122T191642Z">
+        <seg>Вы можете &lt;i0/&gt;управлять градиентами прозрачности таким же образом, как и цветовыми градиентами.</seg>
       </tuv>
     </tu>
     <tu>
