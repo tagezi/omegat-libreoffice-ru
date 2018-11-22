@@ -21233,6 +21233,15 @@ LG:DONE</note>
       </tuv>
     </tu>
     <tu>
+      <note>Снова неправильный адрес меню в оригинале</note>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Edit &gt; Cross-fading&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Cross-fading&lt;/f1&gt; dialog (Figure &lt;t2&gt;44&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T201105Z" creationid="olex" creationdate="20181122T200825Z">
+        <seg>Выберите в меню &lt;f0&gt;Правка &gt; Морфинг...&lt;/f0&gt;, чтобы открыть диалоговое окно &lt;f1&gt;Морфинг&lt;/f1&gt; (Рисунок &lt;t2&gt;44&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: в оригинале неправильный пункт меню</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Edit &gt; Delete Page Break&lt;/f0&gt; on the Menu bar.</seg>
@@ -35455,6 +35464,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Cross-fading attributes&lt;/f0&gt; to apply a gradual change of line and fill properties between the two objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T201327Z" creationid="olex" creationdate="20181122T201327Z">
+        <seg>Выберите &lt;f0&gt;Атрибуты морфинга&lt;/f0&gt; для плавного изменения свойств линии и заливки между двумя объектами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Date&lt;/f0&gt; in the &lt;f1&gt;Category&lt;/f1&gt; list box.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T192929Z" creationid="olex" creationdate="20180412T192929Z">
@@ -35548,6 +35565,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T184513Z" creationid="olex" creationdate="20180502T184513Z">
         <seg>Выберите &lt;f0&gt;Скрыть&lt;/f0&gt; из подменю и строка или столбец не будут видны на экране и при печати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Increments&lt;/f0&gt; to determine the number of shapes between the two objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T201221Z" creationid="olex" creationdate="20181122T201221Z">
+        <seg>Выберите &lt;f0&gt;Шаги&lt;/f0&gt;, чтобы определить количество фигур между двумя объектами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35684,6 +35709,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T190426Z" creationid="olex" creationdate="20180508T190426Z">
         <seg>Выберите &lt;f0&gt; Одинаковое содержимое слева/справа&lt;/f0&gt;, если вы хотите, чтобы на всех печатаемых страницах отображался один и тот же верхний или нижний колонтитул.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Same orientation&lt;/f0&gt; to apply a smooth transition between the two objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T201516Z" creationid="olex" creationdate="20181122T201516Z">
+        <seg>Выберите &lt;f0&gt;Та же ориентация&lt;/f0&gt;, чтобы применить плавный переход между двумя объектами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36806,8 +36839,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Select two differently shaped objects.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181122T200813Z" creationid="olex" creationdate="20181122T200813Z">
-        <seg>Выберите два объекта различной формы</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T200834Z" creationid="olex" creationdate="20181122T200813Z">
+        <seg>Выделите два объекта различной формы</seg>
       </tuv>
     </tu>
     <tu>
