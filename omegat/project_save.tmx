@@ -8058,6 +8058,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any editing of a combined object affects all the objects that were used when combination was carried out.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T202755Z" creationid="olex" creationdate="20181122T202654Z">
+        <seg>Любое редактирование объединенного объекта влияет на все объекты, которые использовались при выполнении объединения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any number less than four characters will have leading zeros added, for example 12 becomes 0012.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T181823Z" creationid="olex" creationdate="20180411T181823Z">
@@ -12641,6 +12649,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T161424Z" creationid="olex" creationdate="20180603T161424Z">
         <seg>Объединение объектов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Combining objects is a permanent merging of objects that creates a new object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T202548Z" creationid="olex" creationdate="20181122T202548Z">
+        <seg>Объединение объектов - это постоянное слияние объектов, создающих новый объект.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41750,6 +41766,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The objects within a group also retain their own individual properties.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T202529Z" creationid="olex" creationdate="20181122T202529Z">
+        <seg>Объекты внутри группы также сохраняют свои собственные индивидуальные свойства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The one or two hyphens will be replaced by an en-dash.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T170331Z" creationid="olex" creationdate="20180804T164907Z">
@@ -41810,6 +41834,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180625T175110Z" creationid="olex" creationdate="20180625T175110Z">
         <seg>Параметры на странице &lt;f0&gt;LibreOffice - Вид&lt;/f0&gt; влияют на то, как выглядит и ведет себя окно документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The original objects are no longer available as individual entities and cannot be edited as individual objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T202610Z" creationid="olex" creationdate="20181122T202610Z">
+        <seg>Исходные объекты больше не будут доступны как отдельные объекты и не смогут быть отредактированы как отдельные объекты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55053,6 +55085,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181119T213624Z" creationid="olex" creationdate="20181119T213624Z">
         <seg>точки сетки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>grouping</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T202835Z" creationid="olex" creationdate="20181122T202810Z">
+        <seg>группирование</seg>
       </tuv>
     </tu>
     <tu>
