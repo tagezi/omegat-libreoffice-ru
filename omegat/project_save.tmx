@@ -1354,6 +1354,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Distort tool &lt;/f0&gt;distorts an object in perspective.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T185357Z" creationid="olex" creationdate="20181122T185335Z">
+        <seg>&lt;f0&gt;Искажение &lt;/f0&gt;искажает объект в перспективе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Document type.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T182032Z" creationid="olex" creationdate="20180707T182032Z">
@@ -2890,6 +2898,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180717T175728Z" creationid="olex" creationdate="20180717T175728Z">
         <seg>&lt;f0&gt;Задание&lt;/f0&gt;&lt;te1/&gt; Стиля абзаца &lt;ts2/&gt;&lt;f3&gt;из списка&lt;/f3&gt;&lt;te4/&gt;&lt;tc5/&gt; &lt;f6&gt;на панели инструментов Форматирование&lt;/f6&gt;&lt;ts7/&gt; &lt;f8&gt;в Writer&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Set in Circle (perspective) &lt;/f0&gt;creates a pseudo three-dimensional effect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T185628Z" creationid="olex" creationdate="20181122T185628Z">
+        <seg>&lt;f0&gt;По кругу (в перспективе) &lt;/f0&gt;создает псевдо-трехмерный эффект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Set to Circle (slant) &lt;/f0&gt;creates a pseudo three-dimensional effect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T185600Z" creationid="olex" creationdate="20181122T185600Z">
+        <seg>&lt;f0&gt;По кругу (под наклоном) &lt;/f0&gt;создает псевдо-трехмерный эффект.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25813,6 +25837,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In all three cases you are initially asked if you want to transform the object to a curve.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T185817Z" creationid="olex" creationdate="20181122T185817Z">
+        <seg>Во всех трех случаях вам сначала будет задан вопрос, хотите ли вы преобразовать объект в кривую.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In cases where you do not want the hyphen to appear at the end of a line, for example in a number such as 123‑4567, you can press &lt;f0&gt;Shift+Ctrl+minus sign&lt;/f0&gt; to insert &lt;i1/&gt;a non-breaking hyphen.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T170056Z" creationid="olex" creationdate="20180804T163228Z">
@@ -42593,6 +42625,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then you can move the object handles to produce the desired effect.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T185954Z" creationid="olex" creationdate="20181122T185954Z">
+        <seg>Затем вы можете перемещать маркеры объекта для получения желаемого эффекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, go to &lt;f0&gt;Insert &gt; Object &gt; Formula&lt;/f0&gt; on the menu bar to open the Formula Editor.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T064155Z" creationid="User" creationdate="20180311T154515Z">
@@ -43660,6 +43700,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is a necessary first step, so click &lt;f0&gt;Yes&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T185919Z" creationid="olex" creationdate="20181122T185919Z">
+        <seg>Это необходимо сделать, поэтому нажмите &lt;f0&gt;Да&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is a very quick way to reach an object, but it may not be practical if there a large number of objects in a drawing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181116T191844Z" creationid="olex" creationdate="20181116T191844Z">
@@ -44194,6 +44242,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T180843Z" creationid="olex" creationdate="20180330T193708Z">
         <seg>Разделители тысяч и десятичные разделители могут быть различными в зависимости от выбранного языка и региона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Three tools on the Mode toolbar let you drag the corners and edges of an object to distort the image.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T185145Z" creationid="olex" creationdate="20181122T185145Z">
+        <seg>Три инструмента на панели инструментов Преобразования позволяют перетаскивать углы и края объекта, чтобы исказить изображение.</seg>
       </tuv>
     </tu>
     <tu>
