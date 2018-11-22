@@ -13350,6 +13350,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cross-fading transforms one object shape to another object shape and only works when two objects are selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T194052Z" creationid="olex" creationdate="20181122T194052Z">
+        <seg>Морфинг преобразует форму одного объекта в форму другого объекта и работает только если выбрано два объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ctrl-click required to follow hyperlinks</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T145911Z" creationid="olex" creationdate="20180630T145911Z">
@@ -17588,10 +17596,26 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Duplicate dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T193808Z" creationid="olex" creationdate="20181122T193808Z">
+        <seg>Рисунок &lt;seq0&gt;42&lt;/seq0&gt;: Диалоговое окно Размножить</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Edit Print Ranges dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T183027Z" creationid="olex" creationdate="20180508T183027Z">
         <seg>Рисунок &lt;seq0&gt;42&lt;/seq0&gt;: Диалоговое окно Изменение диапазонов печати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;43&lt;/seq0&gt;: Duplication result</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T193825Z" creationid="olex" creationdate="20181122T193825Z">
+        <seg>Рисунок &lt;seq0&gt;43&lt;/seq0&gt;: Результат размножения</seg>
       </tuv>
     </tu>
     <tu>
@@ -19295,6 +19319,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T175456Z" creationid="olex" creationdate="20180615T175456Z">
         <seg>Например, когда курсор находится на графике, то панель Форматирование предоставляет инструменты для форматирования графики; когда курсор находится в тексте, то инструменты предназначенные для форматирования текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, when the options in the dialog are applied to a rectangle, they produce the result shown in Figure &lt;t0&gt;43&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T193753Z" creationid="olex" creationdate="20181122T193753Z">
+        <seg>Например, если параметры в диалоговом окне применить к прямоугольнику, то они приводят к результату, показанному на Рисунке &lt;t0&gt;43&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36768,6 +36800,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T193118Z" creationid="olex" creationdate="20180711T193118Z">
         <seg>Выберите этот вариант, чтобы при экспорте в формат HTML включить макросы LibreOffice Basic (скрипты).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select two differently shaped objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T200813Z" creationid="olex" creationdate="20181122T200813Z">
+        <seg>Выберите два объекта различной формы</seg>
       </tuv>
     </tu>
     <tu>
