@@ -5955,6 +5955,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A group can always be undone and the objects that make up the group can always be manipulated separately.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T202516Z" creationid="olex" creationdate="20181122T202516Z">
+        <seg>Группа всегда может быть разгруппирована, а объектами, входящие в группу, всегда можно манипулировать по отдельности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A header is an area that appears at the top of a page above the margin.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T182056Z" creationid="olex" creationdate="20180817T182056Z">
@@ -11620,6 +11628,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T164409Z" creationid="olex" creationdate="20180409T164409Z">
         <seg>Выделите ячейку, которая находится под строками, которые вы хотите зафиксировать, и справа от столбцов, которые вы хотите зафиксировать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on &lt;f0&gt;OK&lt;/f0&gt; and the result is a new group of objects with the first object selected as the start object and the second object selected as the end object.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T201816Z" creationid="olex" creationdate="20181122T201816Z">
+        <seg>Нажмите &lt;f0&gt;OK&lt;/f0&gt;, и в результате будет создана группа объектов в которой начальным объектом будет тот, что был выбран первым, и конечным объектом тот, который был выбран вторым.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17628,6 +17644,22 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;44&lt;/seq0&gt;: Cross-fading dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T201857Z" creationid="olex" creationdate="20181122T201857Z">
+        <seg>Рисунок &lt;seq0&gt;44&lt;/seq0&gt;: Диалоговое окно Морфинг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;45&lt;/seq0&gt;: Cross-fading result</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T201918Z" creationid="olex" creationdate="20181122T201901Z">
+        <seg>Рисунок &lt;seq0&gt;45&lt;/seq0&gt;: Результат морфинга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: &lt;f1&gt;Default &lt;/f1&gt;Properties panel of Sidebar in Writer</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180922T133204Z" creationid="olex" creationdate="20180922T133204Z">
@@ -19323,6 +19355,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, when the options in the dialog are applied to a rectangle and a triangle, the cross fade produces the result shown in Figure &lt;t1&gt;45&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T201846Z" creationid="olex" creationdate="20181122T201846Z">
+        <seg>Например, когда параметры в диалоговом окне применяются к прямоугольнику и треугольнику, то перекрестное затухание приводит к результату, показанному на рисунке &lt;t1&gt;45&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, when the options in the dialog are applied to a rectangle, they produce the result shown in Figure &lt;t0&gt;43&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181122T193753Z" creationid="olex" creationdate="20181122T193753Z">
@@ -20134,6 +20174,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181113T184816Z" creationid="olex" creationdate="20181113T184816Z">
         <seg>Для получения дополнительной информации смотрите Главу 2, Рисование основных фигур и Главу 11, Дополнительные возможности Draw, в &lt;f0&gt;Руководстве по Draw&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information, see Chapter 5, Combining Multiple Objects, in the &lt;f0&gt;Draw Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T202305Z" creationid="olex" creationdate="20181122T202305Z">
+        <seg>Для получения дополнительной информации, смотрите Главу 5, Объединение нескольких объектов, в &lt;f0&gt;Руководстве по Draw&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21990,6 +22038,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T161132Z" creationid="olex" creationdate="20180603T161132Z">
         <seg>Группирование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grouping of objects is similar to putting objects into a container.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T202332Z" creationid="olex" creationdate="20181122T202332Z">
+        <seg>Группирование объектов подобно размещению объектов в контейнере.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49249,6 +49305,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using Draw, you can group or combine objects together allowing you to treat multiple objects as one unit, or to merge objects to form a new shape.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T202209Z" creationid="olex" creationdate="20181122T202209Z">
+        <seg>Используя Draw, вы можете группировать или объединять объекты, позволяя обрабатывать несколько объектов как единое целое или объединять объекты для формирования новой фигуры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using Draw, you can quickly create a wide variety of graphical images.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T165808Z" creationid="olex" creationdate="20180603T165808Z">
@@ -53100,6 +53164,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T220321Z" creationid="olex" creationdate="20180407T220321Z">
         <seg>Вы можете перемещать или копировать листы в электронной таблице путем перетаскивания или с помощью диалогового окна &lt;f0&gt;Переместить/скопировать лист...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can move the objects as a group and apply global changes to the objects within the group.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181122T202407Z" creationid="olex" creationdate="20181122T202407Z">
+        <seg>Вы можете перемещать объекты как группу и применять глобальные изменения ко всем объектам внутри группы.</seg>
       </tuv>
     </tu>
     <tu>
