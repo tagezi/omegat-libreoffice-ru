@@ -6468,6 +6468,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A small box containing your initials appears in the upper left-hand corner of your drawing with a larger text box beside it (Figure &lt;t1&gt;46&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T173000Z" creationid="olex" creationdate="20181124T172948Z">
+        <seg>В верхнем левом углу рисунка появится маленький прямоугольник с вашими инициалами и с большим текстовым полем рядом с ним (Рисунок &lt;t1&gt;46&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A small dialog is displayed indicating that LibreOffice is recording a macro.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T115552Z" creationid="tagezi" creationdate="20180313T115552Z">
@@ -14777,6 +14785,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw automatically adds your name and the date at the bottom of this text box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T173059Z" creationid="olex" creationdate="20181124T173059Z">
+        <seg>Draw автоматически добавляет ваше имя, дату и время в нижней части этого текстового поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw can import graphics from many common formats and save them in over 20 formats, including PNG, HTML &lt;f0&gt;and&lt;/f0&gt; PDF.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T203144Z" creationid="olex" creationdate="20180607T203144Z">
@@ -21123,6 +21139,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From this menu, you can also delete the current comment, all the comments from the same author, or all the comments in the document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T173428Z" creationid="olex" creationdate="20181124T173428Z">
+        <seg>Также из этого меню вы можете удалить текущий комментарий, все комментарии от того же автора или все комментарии в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From this menu, you can also reply to a comment and open a dialog to apply some basic formatting to the text.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T182648Z" creationid="olex" creationdate="20181001T182648Z">
@@ -21657,6 +21681,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181022T185005Z" creationid="olex" creationdate="20181022T185005Z">
         <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Диаграмма&lt;/f0&gt; или нажмите значок &lt;f1&gt;Вставить диаграмму&lt;/f1&gt; &lt;df2&gt;&lt;di3/&gt;&lt;di4/&gt;&lt;/df2&gt;&lt;s5/&gt;на панели инструментов Стандартная.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Insert &gt; Comment&lt;/f0&gt; on the menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T172638Z" creationid="olex" creationdate="20181124T172638Z">
+        <seg>Выберите в меню &lt;f0&gt;Вставка &gt; Комментарий&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35748,8 +35780,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>See&lt;f0&gt; &lt;/f0&gt;Chapter 7, Working with 3D Objects, in the &lt;f1&gt;Draw Guide &lt;/f1&gt;for more information.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181124T132248Z" creationid="olex" creationdate="20181124T132139Z">
-        <seg>Смотрите&lt;f0&gt; &lt;/f0&gt;Главу 7, Работа с 3D объектами, в &lt;f1&gt;Руководстве по Draw&lt;/f1&gt;для получения дополнительной информации.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T172806Z" creationid="olex" creationdate="20181124T132139Z">
+        <seg>Смотрите&lt;f0&gt; &lt;/f0&gt;Главу 7, Работа с 3D объектами, в &lt;f1&gt;Руководстве по Draw&lt;/f1&gt; для получения дополнительной информации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47917,6 +47949,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To show or hide the comment markers, go to &lt;f0&gt;View &gt; Comments&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T173655Z" creationid="olex" creationdate="20181124T173655Z">
+        <seg>Чтобы показать или скрыть маркеры комментариев, выберите в меню &lt;f0&gt;Вид &gt; Комментарии&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To sign the document, or to view the certificate, click the icon.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T160116Z" creationid="olex" creationdate="20180722T160116Z">
@@ -52908,6 +52948,14 @@ denkin: исправил на "включает"</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>You can apply basic formatting to parts of the text by selecting it, right-clicking, and choosing from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T173340Z" creationid="olex" creationdate="20181124T173340Z">
+        <seg>Вы можете применять базовое форматирование к частям текста: выберите текст, нажмите правой кнопкой мыши и выберите вариант из контекстного меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: очевидно ошибка в оригинале - вместо рисунок 10 должен быть рисунок 3.</note>
       <tuv lang="EN-US">
         <seg>You can calculate average and sum, count elements, and more on the selection by right-clicking &lt;t0/&gt;over the cell information area of the status bar and selecting the operations you want to display in the status bar (Figure &lt;t1&gt;10&lt;/t1&gt;).</seg>
@@ -53471,6 +53519,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can insert comments into your drawing in a similar process to the one used in Writer and Calc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T172554Z" creationid="olex" creationdate="20181124T172554Z">
+        <seg>Вы можете вставлять комментарии в свой рисунок таким же образом, как в Writer и Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can insert elements into a formula using one of the following methods:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180314T182812Z" creationid="User" creationdate="20180314T182812Z">
@@ -53572,6 +53628,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181122T202407Z" creationid="olex" creationdate="20181122T202407Z">
         <seg>Вы можете перемещать объекты как группу и применять глобальные изменения ко всем объектам внутри группы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can move the small comment markers to anywhere you wish on the drawing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T173548Z" creationid="olex" creationdate="20181124T173548Z">
+        <seg>Вы можете перемещать маленькие маркеры комментариев в любое место на рисунке.</seg>
       </tuv>
     </tu>
     <tu>
