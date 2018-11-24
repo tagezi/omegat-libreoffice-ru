@@ -32815,6 +32815,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PDF export for modules of LibreOffice is described in Chapter 10, Printing, Exporting, and E-mailing, in this guide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T134528Z" creationid="olex" creationdate="20181124T134528Z">
+        <seg>Модуль экспорта LibreOffice описан в Главе 10, Печать, экспорт и отправка по электронной почте, этого руководства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PDF is the well known export format since &lt;f0&gt;OpenOffice.org&lt;/f0&gt; 1.5 and EPUB is a new format for export since LibreOffice 6.0.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T075934Z" creationid="tagezi" creationdate="20180305T070620Z">
@@ -52504,6 +52512,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153424Z" creationid="User" creationdate="20180311T153424Z">
         <seg>Также можно встраивать формулы в другие документы, такие как презентации, электронные таблицы или текстовые документы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also export Draw files to HTML, XHTML, PDF, or Flash.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T133924Z" creationid="olex" creationdate="20181124T133924Z">
+        <seg>Вы также можете экспортировать файлы Draw в форматы HTML, XHTML, PDF или Flash.</seg>
       </tuv>
     </tu>
     <tu>
