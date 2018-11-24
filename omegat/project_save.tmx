@@ -14253,6 +14253,15 @@ denkin: так лучше?</note>
       </tuv>
     </tu>
     <tu>
+      <note>неправильный путь в меню, Надо Вставка - Медиа - ...</note>
+      <tuv lang="EN-US">
+        <seg>Directly from a scanner (&lt;f0&gt;Insert &gt; Picture &gt; Scan&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T125518Z" creationid="olex" creationdate="20181124T125451Z">
+        <seg>Непосредственно со сканера (&lt;f0&gt;Вставка &gt; Медиа &gt; Сканировать &gt; ...&lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Directly manipulating LibreOffice internal objects is an advanced topic that is beyond the scope of this chapter.</seg>
       </tuv>
@@ -14338,6 +14347,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T155428Z" creationid="olex" creationdate="20180603T155428Z">
         <seg>Искажение объекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distribute objects so that the space between each of the objects is the same.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T124434Z" creationid="olex" creationdate="20181124T124434Z">
+        <seg>Распределяйте объекты так, чтобы пространство между каждым из объектов было одинаковым.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14760,10 +14777,26 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw contains a number of functions for editing pictures &lt;i0/&gt;or&lt;i1/&gt; raster graphics (bitmaps); for example, photos and scanned images.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T124958Z" creationid="olex" creationdate="20181124T124958Z">
+        <seg>Draw содержит ряд функций для редактирования изображений &lt;i0/&gt;или&lt;i1/&gt; растровых графических объектов (растровых изображений); например фотографии и сканированные изображения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw has help lines to easily allow you to position an object using the rulers at the top and left side of the workspace.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181120T195936Z" creationid="olex" creationdate="20181120T195936Z">
         <seg>В Draw есть вспомогательные линии, которые позволяют вам легко позиционировать объект, используя линейки в верхней и левой частях рабочего пространства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw includes a large range of graphic filters so that it can read and display several graphic file formats.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T125130Z" creationid="olex" creationdate="20181124T125130Z">
+        <seg>Draw включает в себя широкий спектр графических фильтров, чтобы читать и отображать несколько графических форматов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25222,6 +25255,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Images created by another program, including photographs from a digital camera (&lt;f0&gt;Insert &gt; Picture &gt; From File&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T125703Z" creationid="olex" creationdate="20181124T125608Z">
+        <seg>Изображения, созданные другой программой, включая фотографии с цифровой камеры (&lt;f0&gt;Вставка &gt; Изображение...&lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T190256Z" creationid="olex" creationdate="20180330T190256Z">
@@ -27398,6 +27439,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T185131Z" creationid="olex" creationdate="20180805T185131Z">
         <seg>Он также содержит коды для вставки специальных символов, смайлов и других символов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also includes several tools for working with raster graphics, but does not have the same functionality as specialized graphic programs like Gimp or Adobe Photoshop.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T125227Z" creationid="olex" creationdate="20181124T125227Z">
+        <seg>Draw также содержит несколько инструментов для работы с растровой графикой, но не имеет такой же функциональности, как специализированные графические программы, такие как Gimp или Adobe Photoshop.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35225,10 +35274,26 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See Chapter 5, Combining Multiple Objects, in the &lt;f0&gt;Draw Guide &lt;/f0&gt;for more information on arranging and aligning objects in relation to each other.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T124605Z" creationid="olex" creationdate="20181124T124605Z">
+        <seg>Смотрите Главу 5, Объединение нескольких объектов, в &lt;f0&gt;Руководстве по Draw&lt;/f0&gt; для про расположение и выравнивание объектов относительно друг друга.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See Chapter 5, Combining Multiple Objects, in the &lt;f3&gt;Draw Guide &lt;/f3&gt;for more information on these functions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181124T123451Z" creationid="olex" creationdate="20181124T123451Z">
         <seg>Смотрите Главу 5, Объединение нескольких объектов, в &lt;f3&gt;Руководстве по Draw&lt;/f3&gt; для получения дополнительной информации про эти функции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Chapter 6, Editing Pictures, in the &lt;f0&gt;Draw Guide &lt;/f0&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T125316Z" creationid="olex" creationdate="20181124T125316Z">
+        <seg>Смотрите Главу 6, Редактирование растровых изображений, в &lt;f0&gt;Руководстве по Draw&lt;/f0&gt;для получения дополнительной информации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39458,6 +39523,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T170637Z" creationid="lera" creationdate="20180303T170637Z">
         <seg>Миссия The Document Foundation:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Draw Gallery; see Chapter 11, Graphics, the Gallery, and Fontwork, in this guide for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T125919Z" creationid="olex" creationdate="20181124T125919Z">
+        <seg>Галерея рисунков; смотрите Главу 11, Графические объекты, Галерея и Текстовые эффекты в этом руководстве для получения дополнительной информации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44021,6 +44094,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180924T170116Z" creationid="olex" creationdate="20180924T170116Z">
         <seg>Это включает применение существующих стилей, их модификацию или создание новых.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This includes the import and export of graphics, &lt;i2/&gt;and &lt;i3/&gt;conversion from one graphic format to another.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T125044Z" creationid="olex" creationdate="20181124T125044Z">
+        <seg>В том числе импорт и экспорт графических объектов, преобразование &lt;i2/&gt;и&lt;i3/&gt; из одного графического формата в другой.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52122,6 +52203,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can add pictures from several sources:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T125329Z" creationid="olex" creationdate="20181124T125329Z">
+        <seg>Вы можете добавлять изображения из нескольких источников:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can add several wikis to the list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T103509Z" creationid="olex" creationdate="20180715T103450Z">
@@ -54480,6 +54569,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>bitmaps</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T124707Z" creationid="olex" creationdate="20181124T124707Z">
+        <seg>растровые изображения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>blank</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T182057Z" creationid="olex" creationdate="20180628T182057Z">
@@ -54676,6 +54773,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T185238Z" creationid="olex" creationdate="20181110T185238Z">
         <seg>соединительные линии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>conversion</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T124715Z" creationid="olex" creationdate="20181124T124715Z">
+        <seg>преобразовать</seg>
       </tuv>
     </tu>
     <tu>
@@ -55988,6 +56093,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202242Z" creationid="olex" creationdate="20180404T202242Z">
         <seg>диапазон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>raster graphics</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T124631Z" creationid="olex" creationdate="20181124T124631Z">
+        <seg>растровые графические объекты</seg>
       </tuv>
     </tu>
     <tu>
