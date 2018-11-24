@@ -14054,6 +14054,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on which type you choose, there are different methods of editing of a 3D object (rotation, illumination, perspective, and so on) with 3D shapes being simpler to set up and edit than 3D bodies.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T131951Z" creationid="olex" creationdate="20181124T131853Z">
+        <seg>В зависимости от того, какой тип вы выбираете, существуют различные методы редактирования 3D-объекта (вращение, освещение, перспектива и т.д.), 3D-фигуры проще настраивать и редактировать, чем 3D-тела.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T133351Z" creationid="tagezi" creationdate="20180320T133351Z">
@@ -14851,7 +14859,7 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Draw offers two types of 3D objects: &lt;f0&gt;3D bodies&lt;/f0&gt; and &lt;f1&gt;3D shapes&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181124T131441Z" creationid="olex" creationdate="20181124T131441Z">
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T131925Z" creationid="olex" creationdate="20181124T131441Z">
         <seg>Draw предлагает два типа 3D-объектов: &lt;f0&gt;3D-тела&lt;/f0&gt; и &lt;f1&gt;3D-фигуры&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
@@ -22800,6 +22808,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T204228Z" creationid="Роман" creationdate="20180320T145306Z">
         <seg>Каком образом редактировать формулу и переключаться в режим редактирования формулы зависит от того, находится ли формула в Math или в ином модуле LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, 3D bodies currently allow for more customization.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T132104Z" creationid="olex" creationdate="20181124T132104Z">
+        <seg>Тем не менее и для 3D-тел в настоящее время доступна дополнительная настройка.</seg>
       </tuv>
     </tu>
     <tu>
