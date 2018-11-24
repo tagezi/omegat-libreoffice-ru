@@ -47915,6 +47915,15 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
     </tu>
     <tu>
+      <note>неправильная ссылка на меню в оригинале</note>
+      <tuv lang="EN-US">
+        <seg>To ungroup or break apart a group of objects, select the group then go to &lt;f0&gt;Modify &gt; Ungroup&lt;/f0&gt; on the Menu bar, or right-click and select &lt;f1&gt;Ungroup&lt;/f1&gt; from the context menu or use the keyboard shortcut C&lt;f2&gt;trl+Alt+Shift+G&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T122333Z">
+        <seg>Чтобы разгруппировать группу объектов, выделите ее, а затем выберите в меню &lt;f0&gt;Фигура &gt; Разгруппировать&lt;/f0&gt; или нажмите правой кнопкой мыши и выберите в контекстном меню &lt;f1&gt;Разгруппировать&lt;/f1&gt;, или используйте сочетание клавиш &lt;f2&gt;Ctrl+ Alt + Shift + G &lt;/ f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>To update a style from a selection:</seg>
       </tuv>
@@ -51090,11 +51099,13 @@ denkin: исправил на "включает"</note>
       </tuv>
     </tu>
     <tu>
+      <note>неправильная ссылка на меню в оригинале
+в Убунту Линукс Shift+F3 не работает</note>
       <tuv lang="EN-US">
         <seg>When you have finished editing an individual member of a group, go to &lt;f0&gt;Modify &gt; Exit Group&lt;/f0&gt;, or right-click and select &lt;f1&gt;Exit Group&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;Shift+F3&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181124T120739Z" creationid="olex" creationdate="20181124T120739Z">
-        <seg>Когда вы закончите редактирование отдельного объекта группы, выберите в меню &lt;f0&gt;Фигура &gt; Выйти из группы&lt;/f0&gt; или нажмите правой кнопкой мыши и выберите в контекстном меню &lt;f1&gt; Exit Group &lt;/ f1&gt; из контекстного меню или используйте клавиатуру shortcut &lt;f2&gt; Shift + F3 &lt;/ f2&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T120912Z" creationid="olex" creationdate="20181124T120739Z">
+        <seg>Когда вы закончите редактирование отдельного объекта группы, выберите в меню &lt;f0&gt;Фигура &gt; Выйти из группы&lt;/f0&gt; или нажмите правой кнопкой мыши и выберите в контекстном меню &lt;f1&gt;Выйти из группы&lt;/f1&gt;, или используйте сочетание клавиш &lt;f2&gt;Shift+F3&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53051,8 +53062,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can edit an individual member of a group without ungrouping or breaking the group.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181124T120216Z" creationid="olex" creationdate="20181124T120216Z">
-        <seg>Вы можете редактировать отдельный объект группы не разбивая группы.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T122135Z" creationid="olex" creationdate="20181124T120216Z">
+        <seg>Вы можете редактировать отдельный объект группы не разгруппировывая ее.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56567,6 +56578,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T132038Z" creationid="olex" creationdate="20180306T183637Z">
         <seg>поддерживаемые типы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ungrouping</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T121053Z" creationid="olex" creationdate="20181124T121053Z">
+        <seg>разгруппировка</seg>
       </tuv>
     </tu>
     <tu>
