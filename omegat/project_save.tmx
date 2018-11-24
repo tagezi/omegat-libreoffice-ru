@@ -9110,6 +9110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base creates &lt;f0&gt;relational databases&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T184959Z" creationid="olex" creationdate="20181124T184959Z">
+        <seg>Base создает &lt;f0&gt;реляционные базы данных&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base incorporates two relational database engines, HSQLDB and PostgreSQL.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T203632Z" creationid="olex" creationdate="20180607T203632Z">
@@ -13010,6 +13018,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T185645Z" creationid="olex" creationdate="20181110T185645Z">
         <seg>Соединительные линии - это линии или линии со стрелками, концы которых автоматически привязываются к точке соединения объекта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consider an employment database for the same library.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T185543Z" creationid="olex" creationdate="20181124T185517Z">
+        <seg>Рассмотрим базу данных сотрудников для той же библиотеки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19035,6 +19051,22 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For Linux, you can download it from the same website or you can use openjdk-7-jre, available from the repository of your Linux version.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T184847Z" creationid="olex" creationdate="20181124T184847Z">
+        <seg>Для Linux вы можете загрузить его с того же веб-сайта или использовать openjdk-7-jre, доступный из репозитория вашей версии Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For Windows, you need to get Java from &lt;a0&gt;www.java.com&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T184814Z" creationid="olex" creationdate="20181124T184814Z">
+        <seg>Для Windows вам необходимо получить Java от &lt;a0&gt;www.java.com&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a closing tag, an HTML_OFF will be created.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T192401Z" creationid="olex" creationdate="20180711T192334Z">
@@ -19991,6 +20023,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T085836Z" creationid="olex" creationdate="20180915T085836Z">
         <seg>Например:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example: Consider a database for a library.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T185117Z" creationid="olex" creationdate="20181124T185117Z">
+        <seg>Например: рассмотрим базу данных для библиотеки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23636,6 +23676,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a JRE is not already installed, you will need to download and install one.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T184748Z" creationid="olex" creationdate="20181124T184748Z">
+        <seg>Если JRE еще не установлено, то вам необходимо загрузить и установить его.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a bullet list is needed, select the desired bullet style from the default styles available on the &lt;f0&gt;Bullets&lt;/f0&gt; page.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181020T101143Z" creationid="olex" creationdate="20181020T101020Z">
@@ -24577,6 +24625,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T171423Z" creationid="olex" creationdate="20180701T171423Z">
         <seg>Если вы являетесь системным администратором, программистом или другим человеком, который настраивает установки JRE, то вы можете настроить параметры и пути класса (доступные на странице Java), чтобы указать эту информацию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are acquainted with mathematical sets, a relational database can easily be explained in terms of sets: elements, subsets, unions, and intersections.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T185729Z" creationid="olex" creationdate="20181124T185729Z">
+        <seg>Если вы знакомы с математическими множествами, то реляционную базу данных можно легко объяснить в терминах множеств: элементы, подмножества, объединения и пересечения.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28340,6 +28396,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It will contain a field for the names of the authors and another field for the names of the books.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T185222Z" creationid="olex" creationdate="20181124T185222Z">
+        <seg>Она будет содержать поле для имен авторов и другое поле для названий книг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Its Smart Connectors feature allows you to define your own connection points.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T202932Z" creationid="olex" creationdate="20180607T202402Z">
@@ -30488,6 +30552,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most if not all the relationships in such a database are one-to-many relationships.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T185437Z" creationid="olex" creationdate="20181124T185437Z">
+        <seg>Большинство, если не все связи в такой базе данных, являются отношениями один ко многим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most objects have four glue points (Figure &lt;t2&gt;16&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T183846Z" creationid="olex" creationdate="20181110T183846Z">
@@ -32325,6 +32397,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One of the fields contains the names of the employees while others contain the social security numbers, and other personal data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T185531Z" creationid="olex" creationdate="20181124T185531Z">
+        <seg>В одном из полей содержатся имена сотрудников, а в других - номера социального страхования и другие персональные данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One of the most useful &lt;f0&gt;tools for analyzing data i&lt;/f0&gt;s the &lt;f1&gt;Pivot Table&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180908T190900Z" creationid="olex" creationdate="20180908T190900Z">
@@ -33559,6 +33639,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f0&gt; to select a JRE from those installed on your computer.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T184654Z" creationid="olex" creationdate="20181124T184654Z">
+        <seg>Выберите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Расширенные возможности&lt;/f0&gt;, чтобы выбрать JRE из установленных на вашем компьютере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Point to &lt;f0&gt;Reset Default Template&lt;/f0&gt; on the drop-down menu, and click &lt;f1&gt;Text Document&lt;/f1&gt; (or other template type).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T193217Z" creationid="olex" creationdate="20180313T193217Z">
@@ -34509,6 +34597,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181124T174623Z" creationid="olex" creationdate="20181124T174623Z">
         <seg>Реляционные базы данных в LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relationships are defined in terms of unions and intersections of the subsets (tables).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T185848Z" creationid="olex" creationdate="20181124T185848Z">
+        <seg>Связи определяются в терминах объединений и пересечений подмножеств (таблиц).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41375,6 +41471,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The fields of a database are the elements.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T185739Z" creationid="olex" creationdate="20181124T185739Z">
+        <seg>Поля базы данных являются элементами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fields you can use in Impress are as follows:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181029T184527Z" creationid="olex" creationdate="20181029T184527Z">
@@ -41939,6 +42043,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T180739Z" creationid="olex" creationdate="20180329T180739Z">
         <seg>Буква указывает столбец, а число указывает номер строки выбранной ячейки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The library may contain more than one book by the same author.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T185304Z" creationid="olex" creationdate="20181124T185304Z">
+        <seg>Библиотека может содержать более одной книги одного и того же автора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42651,6 +42763,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The relationship between the names and social security numbers is one-to-one: only one social security number for each name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T185631Z" creationid="olex" creationdate="20181124T185617Z">
+        <seg>Связь между именами и номерами социального обеспечения является взаимно однозначной: только один номер социального страхования для каждого имени.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The resizing handles show that it is selected.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181015T152819Z" creationid="olex" creationdate="20181015T152819Z">
@@ -43033,6 +43153,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T100007Z" creationid="lera" creationdate="20180303T153122Z">
         <seg>В таблице ниже приведены некоторые общие соответствия для инструкций в этой главе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tables are subsets.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T185751Z" creationid="olex" creationdate="20181124T185751Z">
+        <seg>Таблицы - это подмножества.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43587,6 +43715,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180929T070503Z" creationid="olex" creationdate="20180929T070503Z">
         <seg>Существует также возможность открыть панель инструментов стилей из меню &lt;f0&gt;Вид &gt; Панели инструментов &gt; Форматирование (стили)&lt;/f0&gt; &lt;s1/&gt;(Рисунок &lt;f2&gt;&lt;t3&gt;16&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is an obvious relationship between the authors and the books they have written.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T185237Z" creationid="olex" creationdate="20181124T185237Z">
+        <seg>Существует очевидная связь между авторами и написанными ими книгами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44683,6 +44819,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is what is known as a one-to-many relationship: one author and more than one book.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T185403Z" creationid="olex" creationdate="20181124T185403Z">
+        <seg>Это известно как связь один ко многим: один автор и более одной книги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is where the magic happens.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T160448Z" creationid="tagezi" creationdate="20180318T160448Z">
@@ -44695,6 +44839,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181106T193842Z" creationid="olex" creationdate="20181106T193842Z">
         <seg>Это позволяет рисовать линии, начиная со средней точки линии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This makes it fairly easy to create a database in which the fields of the database have relationships with each other.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T185049Z" creationid="olex" creationdate="20181124T185049Z">
+        <seg>Это упрощает создание базы данных, в которой поля данных связаны друг с другом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46858,6 +47010,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To explain how a database works and how to to use it, we will create one for automobile expenses.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T185922Z" creationid="olex" creationdate="20181124T185922Z">
+        <seg>Чтобы объяснить, как работает база данных и как ее использовать, мы создадим ее для расходов на автомобиль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To export a template from a template category to another location in your computer or network:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T185919Z" creationid="olex" creationdate="20180315T185919Z">
@@ -48532,6 +48692,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T193307Z" creationid="olex" creationdate="20180311T193307Z">
         <seg>Чтобы обновить этот документ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To use Base, you need to use a Java Runtime Environment (JRE).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T184532Z" creationid="olex" creationdate="20181124T184450Z">
+        <seg>Чтобы использовать Base, вам необходимо применить Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55562,6 +55730,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>database</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T185939Z" creationid="olex" creationdate="20181124T185939Z">
+        <seg>база данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>decks</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T180141Z" creationid="olex" creationdate="20180329T193709Z">
@@ -56282,6 +56458,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>macOS users can install a JRE from Apple Inc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T184915Z" creationid="olex" creationdate="20181124T184915Z">
+        <seg>Пользователи MacOS могут установить JRE от Apple Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>macro recording</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T172717Z" creationid="olex" creationdate="20180701T172717Z">
@@ -56646,6 +56830,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T165821Z" creationid="olex" creationdate="20180603T165821Z">
         <seg>пиксели</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>planning</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T185930Z" creationid="olex" creationdate="20181124T185930Z">
+        <seg>проектирование</seg>
       </tuv>
     </tu>
     <tu>
