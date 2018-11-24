@@ -7189,6 +7189,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Align objects with respect to each other using &lt;f0&gt;Left&lt;/f0&gt;, &lt;f1&gt;Centered&lt;/f1&gt;, or &lt;f2&gt;Right&lt;/f2&gt; for horizontal alignment and &lt;f3&gt;Top&lt;/f3&gt;, &lt;f4&gt;Center&lt;/f4&gt;, or &lt;f5&gt;Bottom&lt;/f5&gt; for vertical alignment.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T124309Z" creationid="olex" creationdate="20181124T124309Z">
+        <seg>Выравнивание объектов относительно друг друга с помощью инструментов &lt;f0&gt;По левому краю&lt;/f0&gt;, &lt;f1&gt;По центру&lt;/f1&gt; или &lt;f2&gt;По правому краю&lt;/f2&gt; для горизонтального выравнивания и &lt;f3&gt;По верхнему краю&lt;/f3&gt;, &lt;f4&gt;Посередине&lt;/f4&gt; или &lt;f5&gt;По нижнему краю&lt;/f5&gt; для вертикального выравнивания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All Draw objects have glue points, which are not normally displayed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T183159Z" creationid="olex" creationdate="20181110T183159Z">
@@ -8307,10 +8315,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arrange the position of an object by moving it either forward or backward in relation to the order of objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T124001Z" creationid="olex" creationdate="20181124T124001Z">
+        <seg>Изменяйте расположение объекта, перемещая его вперед или назад относительно других объектов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Arranging objects</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T153001Z" creationid="olex" creationdate="20180603T153001Z">
         <seg>Расположение объектов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arranging, aligning, &lt;i0/&gt;&lt;i1/&gt;&lt;i2/&gt;and distributing objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T123626Z" creationid="olex" creationdate="20181124T123626Z">
+        <seg>Расположение, выравнивание, &lt;i0/&gt;&lt;i1/&gt;&lt;i2/&gt;и распределение объектов</seg>
       </tuv>
     </tu>
     <tu>
@@ -25575,6 +25599,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Draw you can arrange, align, and distribute selected objects in relation to each other:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T123805Z" creationid="olex" creationdate="20181124T123805Z">
+        <seg>В Draw вы можете распологать, выравнивать и распределять выбранные объекты относительно друг друга:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Draw, objects can be accurately and consistently positioned using the snap function.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181119T214238Z" creationid="olex" creationdate="20181119T213656Z">
@@ -35189,6 +35221,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181122T192456Z" creationid="olex" creationdate="20181122T192456Z">
         <seg>Смотрите Главу 4, Изменение свойств объекта, в &lt;f2&gt;Руководстве по Draw&lt;/f2&gt; для получения дополнительной информации о том, как создавать прозрачность и градиент в объекте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Chapter 5, Combining Multiple Objects, in the &lt;f3&gt;Draw Guide &lt;/f3&gt;for more information on these functions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T123451Z" creationid="olex" creationdate="20181124T123451Z">
+        <seg>Смотрите Главу 5, Объединение нескольких объектов, в &lt;f3&gt;Руководстве по Draw&lt;/f3&gt; для получения дополнительной информации про эти функции.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54376,6 +54416,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>aligning</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T123542Z" creationid="olex" creationdate="20181124T123542Z">
+        <seg>выравнивание</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>antialiasing screen font</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T171512Z" creationid="olex" creationdate="20180627T171501Z">
@@ -54388,6 +54436,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T151825Z" creationid="olex" creationdate="20180630T151825Z">
         <seg>Внешний вид</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>arranging</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T123549Z" creationid="olex" creationdate="20181124T123549Z">
+        <seg>расположение</seg>
       </tuv>
     </tu>
     <tu>
@@ -54876,6 +54932,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T172914Z" creationid="tagezi" creationdate="20180319T172903Z">
         <seg>фреймворк отправки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>distributing</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T123536Z" creationid="olex" creationdate="20181124T123536Z">
+        <seg>распределение</seg>
       </tuv>
     </tu>
     <tu>
