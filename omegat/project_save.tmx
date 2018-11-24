@@ -17821,6 +17821,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;46&lt;/seq0&gt;: Inserting comments</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T173711Z" creationid="olex" creationdate="20181124T173711Z">
+        <seg>Рисунок &lt;seq0&gt;46&lt;/seq0&gt;: Вставка комментария</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: &lt;f1&gt;Default &lt;/f1&gt;Properties panel of Sidebar in Writer</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180922T133204Z" creationid="olex" creationdate="20180922T133204Z">
@@ -48641,7 +48649,7 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
     </tu>
     <tu>
-      <note>немного обобщил, убрав указательный тон, как мне кажется - правильно</note>
+      <note>денкин: немного обобщил, убрав указательный тон, как мне кажется - правильно</note>
       <tuv lang="EN-US">
         <seg>Typically you might place it on or near an object you refer to in the comment.</seg>
       </tuv>
@@ -53451,6 +53459,15 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T191349Z" creationid="olex" creationdate="20180719T191212Z">
         <seg>Вы можете попасть в официальный репозиторий шаблонов, используя кнопку &lt;tc0/&gt;&lt;f1&gt;&lt;s2/&gt;&lt;/f1&gt;&lt;ts3/&gt;&lt;f4&gt;&lt;f5&gt;Обзор шаблонов онлайн&lt;/f5&gt;&lt;/f4&gt;&lt;te6/&gt; &lt;f7&gt;&lt;/f7&gt;&lt;tc8/&gt;&lt;f9&gt;&lt;/f9&gt;&lt;tc10/&gt;&lt;ts11/&gt;&lt;f12&gt;в&lt;/f12&gt;&lt;te13/&gt; &lt;ts14/&gt;&lt;f15&gt;левом нижнем углу&lt;/f15&gt;&lt;te16/&gt;&lt;tc17/&gt; диалогового окна Шаблоны, как показано на Рисунке &lt;t18&gt;12&lt;/t18&gt;, или набрав &lt;ts19/&gt; &lt;a20&gt;&lt;f21&gt;https://extensions.libreoffice.org/templates&lt;/f21&gt;&lt;/a20&gt;&lt;te22/&gt;&lt;tc23/&gt; в адресной строке вашего браузера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>денкин: неточно указан адрес меню в оригинале</note>
+      <tuv lang="EN-US">
+        <seg>You can go to &lt;f0&gt;Tools &gt; Options &gt; User Data&lt;/f0&gt; to enter the name you want to appear in the Author field of the comment.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T173937Z" creationid="olex" creationdate="20181124T173937Z">
+        <seg>Вам необходимо перейти в &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Пользователь&lt;/f0&gt;, чтобы ввести имя, которое вы хотите отображать в комментарии в поле Автор.</seg>
       </tuv>
     </tu>
     <tu>
