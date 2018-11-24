@@ -4161,6 +4161,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f3&gt;Forms&lt;/f3&gt; are for data entry into the fields of one or more tables which have been associated with the form.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T183932Z" creationid="olex" creationdate="20181124T183932Z">
+        <seg>&lt;f3&gt;Формы&lt;/f3&gt; предназначены для ввода данных в поля одной или нескольких таблиц, которые были связаны с формой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f3&gt;To determine your solution, &lt;/f3&gt;you &lt;f4&gt;could &lt;/f4&gt;manually calculate that amount by using the sorting and formatting options provided by Calc.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180908T191953Z" creationid="olex" creationdate="20180908T191953Z">
@@ -5507,6 +5515,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A &lt;f0&gt;database&lt;/f0&gt; consists of a number of &lt;f1&gt;fields&lt;/f1&gt; that contain the individual pieces of data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T183759Z" creationid="olex" creationdate="20181124T183759Z">
+        <seg>&lt;f0&gt;База данных&lt;/f0&gt; состоит из нескольких &lt;f1&gt;полей&lt;/f1&gt;, которые содержат отдельные фрагменты данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A &lt;f0&gt;p&lt;/f0&gt;ivot table is a way to &lt;tc1/&gt;&lt;f2&gt;organize&lt;/f2&gt;, manipulate, and summarize large amounts of data &lt;tc3/&gt;&lt;f4&gt;to make&lt;/f4&gt; it much easier to read &lt;f5&gt;and understand &lt;/f5&gt;while also allowing you to answer different questions about your spreadshee&lt;f6&gt;t&lt;/f6&gt; by rearranging --or pivoting-- &lt;f7&gt;the data you enter into it&lt;/f7&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180908T191416Z" creationid="olex" creationdate="20180908T191416Z">
@@ -5527,6 +5543,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180307T084929Z" creationid="olex" creationdate="20180306T185609Z">
         <seg>&lt;f0&gt;Стиль&lt;/f0&gt; — это набор форматов, которые вы можете применить к выбранным страницам, тексту, рамкам и другим элементам в вашем документе, чтобы быстро изменять их внешний вид.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A &lt;f4&gt;query&lt;/f4&gt; creates a new table from the existing tables based upon how you create the query.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T184323Z" creationid="olex" creationdate="20181124T184323Z">
+        <seg>&lt;f4&gt;Запрос&lt;/f4&gt; создает новую таблицу из существующих на основе того, как вы составите этот запрос.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A &lt;f5&gt;report&lt;/f5&gt; organizes the information from the fields of a query into a document according to your requirements.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T184404Z" creationid="olex" creationdate="20181124T184404Z">
+        <seg>&lt;f5&gt;Отчет&lt;/f5&gt; организует информацию из полей запроса в документ в соответствии с вашими требованиями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15229,6 +15261,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T102510Z" creationid="olex" creationdate="20180715T102510Z">
         <seg>Параметры электронной почты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each &lt;f2&gt;table&lt;/f2&gt; of the database is a group of fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T183833Z" creationid="olex" creationdate="20181124T183833Z">
+        <seg>Каждая &lt;f2&gt;таблица&lt;/f2&gt; базы данных представляет собой группу полей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29162,6 +29202,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T190145Z" creationid="olex" creationdate="20180617T190145Z">
         <seg>LibreOffice использует очень сильный механизм шифрования, который практически не позволяет восстановить содержимое документа, если вы потеряли или забыли пароль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LibreOffice uses the terms “Data Source” and “Database” to refer to the same thing, which could be a database such as &lt;is0/&gt;MySQL&lt;ie1/&gt; or dBase or a spreadsheet or text document holding data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T183700Z" creationid="olex" creationdate="20181124T183700Z">
+        <seg>LibreOffice использует термины «Источник данных» и «База данных», имея ввиду одно и то же, что может быть базой данных, такой как &lt;is0/&gt;MySQL&lt;ie1/&gt; или dBase, или таблицей или текстовыми документами, содержащими данные.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43961,6 +44009,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They can also be used for viewing fields from one or more tables associated with the form.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T183951Z" creationid="olex" creationdate="20181124T183951Z">
+        <seg>Они также могут использоваться для просмотра полей из одной или нескольких таблиц, связанных с формой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They can be displayed or hidden by going to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and selecting from the context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T083255Z" creationid="olex" creationdate="20180915T083255Z">
@@ -44173,6 +44229,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T182354Z" creationid="olex" creationdate="20180621T182354Z">
         <seg>Это может избавить от нескольких лишних щелчков навигации по меню или сочетаний клавиш, особенно если команда взята из подменю.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chapter covers creating a database, showing what is contained in a database and how the different parts are used by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T183525Z" creationid="olex" creationdate="20181124T183525Z">
+        <seg>В этой главе рассказывается о создании базы данных, о том, что содержится в базе данных и как ее различные части используются в LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51200,6 +51264,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181014T175423Z" creationid="olex" creationdate="20181014T175423Z">
         <seg>При создании презентации первый слайд обычно является заглавным слайдом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When creating a table, you also determine the characteristics of each field within it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T183852Z" creationid="olex" creationdate="20181124T183852Z">
+        <seg>При создании таблицы вы также определяете характеристики каждого поля внутри нее.</seg>
       </tuv>
     </tu>
     <tu>
