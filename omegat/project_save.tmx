@@ -7141,6 +7141,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After you have selected your objects, the &lt;f0&gt;Merge&lt;/f0&gt;, &lt;f1&gt;Subtract&lt;/f1&gt;, and &lt;f2&gt;Intersect&lt;/f2&gt; functions also become available so that you can create a new object from your selected objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T123347Z" creationid="olex" creationdate="20181124T123347Z">
+        <seg>После того, как вы выбрали свои объекты, так же становятся доступными функции &lt;f0&gt;Сложить&lt;/f0&gt;, &lt;f1&gt;Вычесть&lt;/f1&gt; и &lt;f2&gt;Пересечь&lt;/f2&gt;, так что вы можете создать новый объект из выбранных объектов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After you have used a paragraph style at least once in a &lt;ts0/&gt;&lt;f1&gt;Writer &lt;/f1&gt;&lt;te2/&gt;document, the style name appears on the &lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;Set Paragraph&lt;/f5&gt;&lt;te6/&gt; Style list near the left-hand end of the Formatting toolbar&lt;ts7/&gt; &lt;f8&gt;(Figure &lt;/f8&gt;&lt;f9&gt;&lt;t10&gt;2&lt;/t10&gt;&lt;/f9&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;te12/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180717T183039Z" creationid="olex" creationdate="20180717T182935Z">
@@ -36203,6 +36211,15 @@ denkin: не понял? чего не видно?</note>
       </tuv>
     </tu>
     <tu>
+      <note>неправильная ссылка на меню в оригинале</note>
+      <tuv lang="EN-US">
+        <seg>Select several objects, then go to &lt;f0&gt;Modify &gt; Combine&lt;/f0&gt; on the Menu bar, or right-click on the objects and select &lt;f1&gt;Combine&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;Ctrl+Shift+K&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T123051Z" creationid="olex" creationdate="20181124T122725Z">
+        <seg>Выделите несколько объектов, затем выберите в меню &lt;f0&gt;Фигура &gt; Объединить&lt;/f0&gt; или нажмите правой кнопкой мыши на объектах и выберите в контекстном меню &lt;f1&gt;Фигуры &gt; Объединить&lt;/f1&gt;, или воспользуйтесь сочетанием клавиш &lt;f2&gt;Ctrl+Shift+K&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Select some text and drag it to the Styles deck.</seg>
       </tuv>
@@ -47915,12 +47932,13 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
     </tu>
     <tu>
-      <note>неправильная ссылка на меню в оригинале</note>
+      <note>неправильная ссылка на меню в оригинале
+Сочетание клавиш у меня в Иксубунту не работает</note>
       <tuv lang="EN-US">
         <seg>To ungroup or break apart a group of objects, select the group then go to &lt;f0&gt;Modify &gt; Ungroup&lt;/f0&gt; on the Menu bar, or right-click and select &lt;f1&gt;Ungroup&lt;/f1&gt; from the context menu or use the keyboard shortcut C&lt;f2&gt;trl+Alt+Shift+G&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181124T122333Z">
-        <seg>Чтобы разгруппировать группу объектов, выделите ее, а затем выберите в меню &lt;f0&gt;Фигура &gt; Разгруппировать&lt;/f0&gt; или нажмите правой кнопкой мыши и выберите в контекстном меню &lt;f1&gt;Разгруппировать&lt;/f1&gt;, или используйте сочетание клавиш &lt;f2&gt;Ctrl+ Alt + Shift + G &lt;/ f2&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T122529Z">
+        <seg>Чтобы разгруппировать группу объектов, выделите ее, а затем выберите в меню &lt;f0&gt;Фигура &gt; Разгруппировать&lt;/f0&gt; или нажмите правой кнопкой мыши и выберите в контекстном меню &lt;f1&gt;Разгруппировать&lt;/f1&gt;, или используйте сочетание клавиш &lt;f2&gt;Ctrl+Alt+Shift+G&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
