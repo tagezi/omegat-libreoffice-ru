@@ -6669,6 +6669,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accessing other data sources</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T182539Z" creationid="olex" creationdate="20181124T182539Z">
+        <seg>Доступ к другим источникам данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acknowledgments</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T152400Z" creationid="lera" creationdate="20180303T152400Z">
@@ -13246,6 +13254,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a database form</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T180935Z" creationid="olex" creationdate="20181124T180935Z">
+        <seg>Создание формы базы данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a document from a template in the Start Center</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194944Z" creationid="olex" creationdate="20180306T194944Z">
@@ -13342,10 +13358,26 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a report: Example</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T181730Z" creationid="olex" creationdate="20181124T181730Z">
+        <seg>Создание отчета: Пример</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a slide master</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T195513Z" creationid="olex" creationdate="20180910T195513Z">
         <seg>Создание мастер-слайда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a table by copying an existing table</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T180530Z" creationid="olex" creationdate="20181124T180530Z">
+        <seg>Создание таблицы, как копии существующей таблицы</seg>
       </tuv>
     </tu>
     <tu>
@@ -13422,6 +13454,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating database tables</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T180428Z" creationid="olex" creationdate="20181124T180428Z">
+        <seg>Создание таблиц базы данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating drawings in Impress is similar to the Draw program included in LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180911T194805Z" creationid="olex" creationdate="20180911T194805Z">
@@ -13434,6 +13474,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T155024Z" creationid="olex" creationdate="20180721T155024Z">
         <seg>Создание форм для заполнения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating forms and sub forms in Design View</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T181136Z" creationid="olex" creationdate="20181124T181136Z">
+        <seg>Создание форм и суб-форм в режиме дизайна</seg>
       </tuv>
     </tu>
     <tu>
@@ -13490,6 +13538,30 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T194718Z" creationid="olex" creationdate="20180306T194718Z">
         <seg>Создание новых (пользовательских) стилей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating queries</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T181527Z" creationid="olex" creationdate="20181124T181527Z">
+        <seg>Создание запросов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating reports</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T181708Z" creationid="olex" creationdate="20181124T181708Z">
+        <seg>Создание отчетов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating tables in Design View</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T180847Z" creationid="olex" creationdate="20181124T180847Z">
+        <seg>Создание таблиц в режиме дизайна</seg>
       </tuv>
     </tu>
     <tu>
@@ -13890,6 +13962,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T200120Z" creationid="olex" creationdate="20180306T200120Z">
         <seg>Определение последовательности стилей абзаца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defining relationships</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T180923Z" creationid="olex" creationdate="20181124T180923Z">
+        <seg>Определение связей</seg>
       </tuv>
     </tu>
     <tu>
@@ -15653,6 +15733,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T171708Z" creationid="olex" creationdate="20180627T171708Z">
         <seg>Введите минимальный размер шрифта, к которому будет применяться сглаживание.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Entering data in a form</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T181325Z" creationid="olex" creationdate="20181124T181325Z">
+        <seg>Ввод данных в форму</seg>
       </tuv>
     </tu>
     <tu>
@@ -30174,6 +30262,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modifying a form</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T181005Z" creationid="olex" creationdate="20181124T181005Z">
+        <seg>Изменение формы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modifying a slide master</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T195613Z" creationid="olex" creationdate="20180910T195613Z">
@@ -34065,6 +34161,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quickly populate a table with data from a spreadsheet</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T181513Z" creationid="olex" creationdate="20181124T181513Z">
+        <seg>Быстрое заполнение таблицы данными из электронной таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quickstarter</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T195003Z" creationid="olex" creationdate="20180607T195003Z">
@@ -34525,6 +34629,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T173931Z" creationid="olex" creationdate="20180327T173931Z">
         <seg>Замена данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Report Builder: another way to create reports</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T182213Z" creationid="olex" creationdate="20181124T182213Z">
+        <seg>Report Builder: другой способ создания отчетов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Report wizard vs Report Design View</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T181845Z" creationid="olex" creationdate="20181124T181845Z">
+        <seg>Сравнение мастера отчетов и режима дизайна</seg>
       </tuv>
     </tu>
     <tu>
@@ -50108,6 +50228,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using the Design View to create a query</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T181653Z" creationid="olex" creationdate="20181124T181653Z">
+        <seg>Создание запроса в режиме дизайна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the Elements window or the context menus to insert a formula provides a convenient way to learn the markup language used by LibreOffice Math.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180315T194027Z" creationid="Роман" creationdate="20180315T194027Z">
@@ -50244,6 +50372,30 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using the Wizard to create a form</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T180951Z" creationid="olex" creationdate="20181124T180951Z">
+        <seg>Использование мастера для создания формы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the Wizard to create a query</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T181609Z" creationid="olex" creationdate="20181124T181609Z">
+        <seg>Использование мастреа для создания запроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the Wizard to create a table</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T180439Z" creationid="olex" creationdate="20181124T180439Z">
+        <seg>Использование мастера для создания таблицы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the default tab spacing can cause formatting problems if you share documents with other people.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180930T191534Z" creationid="olex" creationdate="20180813T181106Z">
@@ -50352,6 +50504,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T182002Z" creationid="olex" creationdate="20180707T182002Z">
         <seg>Параметры загрузки/сохранения VBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vacations table report</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T182136Z" creationid="olex" creationdate="20181124T182136Z">
+        <seg>Отчет о питании в отпуске</seg>
       </tuv>
     </tu>
     <tu>
