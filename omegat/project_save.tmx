@@ -6316,6 +6316,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A permanent grouping of objects can be created after you have selected your objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T115351Z" creationid="olex" creationdate="20181124T115351Z">
+        <seg>После того, как вы выбрали объекты, можно создать постоянную группировку объектов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A pivot table is a way to instantly organize, manipulate and summarize large amounts of data in such a way so as to make it much easier to read and understand while also allowing you to answer different questions about your spreadsheet by rearranging --or pivoting-- the data you enter into it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T185325Z" creationid="olex" creationdate="20180507T185325Z">
@@ -21584,6 +21592,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to &lt;f0&gt;Modify &gt; Group&lt;/f0&gt; on the Menu bar, or right-click on the selection and select &lt;f1&gt;Group&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;Ctrl+Shift+G&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T115619Z" creationid="olex" creationdate="20181124T115619Z">
+        <seg>Выберите в меню &lt;f0&gt;Фигура &gt; Сгруппировать&lt;/f0&gt; или нажмите правой кнопкой мыши по области выделения и выберите в контекстном меню &lt;f1&gt;Сгруппировать&lt;/f1&gt;, или воспользуйтесь сочетанием клавиш &lt;f2&gt;Ctrl+Shift+G&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Sheet &gt; Fill Cells&lt;/f0&gt; on the Menu bar and select the direction in which you want to copy or create data (&lt;f1&gt;Up&lt;/f1&gt;, &lt;f2&gt;Down&lt;/f2&gt;, &lt;f3&gt;Left&lt;/f3&gt; or &lt;f4&gt;Right&lt;/f4&gt;) or &lt;f5&gt;Series&lt;/f5&gt; and &lt;f6&gt;Random Number...&lt;/f6&gt; from the submenu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T141118Z" creationid="olex" creationdate="20180414T141118Z">
@@ -24343,6 +24359,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T174643Z" creationid="olex" creationdate="20180802T174643Z">
         <seg>Если вы нажмете &lt;f0&gt;Найти все&lt;/f0&gt;, то LibreOffice выберет все экземпляры искомого текста в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you click on one member of the group, the whole group is selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T120112Z" creationid="olex" creationdate="20181124T120112Z">
+        <seg>Если вы нажмете на один объект группы, то будет выбрана вся группа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36568,6 +36592,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T192222Z" creationid="olex" creationdate="20180402T192222Z">
         <seg>Выберите формат графического файла в списке &lt;f0&gt;Тип файла&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the group and go to &lt;f0&gt;Modify &gt; Enter Group&lt;/f0&gt;, or right-click and select &lt;f1&gt;Enter Group&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;F3&lt;/f2&gt;, or double-click on the group.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T120319Z" creationid="olex" creationdate="20181124T120319Z">
+        <seg>Выделите группу и выберите в меню &lt;f0&gt;Фигура &gt; Зайти в группу&lt;/f0&gt; или щелкните правой кнопкой мыши и выберите &lt;f1&gt; Ввести группу &lt;/ f1&gt; из контекстного меню или воспользуйтесь сочетанием клавиш &lt;f2&gt; F3 &lt;/ f2 &gt; или дважды щелкните по группе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50681,6 +50713,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When objects are permanently grouped, any editing operations carried out on that group are applied to all members of the group.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T120045Z" creationid="olex" creationdate="20181124T120045Z">
+        <seg>Если объекты находятся в постоянной группировке, то любые операции редактирования, применяемые к этой группе, применяются ко всем объектам группы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When opening .htm or .html files (used for web pages), LibreOffice customizes Writer for working with these files.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153334Z" creationid="tagezi" creationdate="20180304T153334Z">
@@ -50997,6 +51037,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181002T180225Z" creationid="olex" creationdate="20181002T180059Z">
         <seg>При создании документа используйте следующие стили абзаца для иерархических уровней заголовков (например, названия разделов и подразделов): &lt;f0&gt;Заголовок 1&lt;/f0&gt;, &lt;f1&gt;Заголовок 2&lt;/f1&gt;, &lt;f2&gt;Заголовок 3&lt;/f2&gt; и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you deselect your selection, the objects remain grouped together.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T115701Z" creationid="olex" creationdate="20181124T115701Z">
+        <seg>Когда вы отмените выделение, объекты останутся сгруппированными вместе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52987,6 +53035,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180324T170627Z" creationid="olex" creationdate="20180311T191659Z">
         <seg>Вы можете редактировать стили и содержимое шаблона, а затем, если хотите, вы можете повторно применить стили шаблона к документам, которые были созданы на основе этого шаблона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can edit an individual member of a group without ungrouping or breaking the group.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T120216Z" creationid="olex" creationdate="20181124T120216Z">
+        <seg>Вы можете редактировать отдельный объект группы не разбивая группы.</seg>
       </tuv>
     </tu>
     <tu>
