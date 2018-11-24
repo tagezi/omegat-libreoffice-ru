@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3D objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T125925Z" creationid="olex" creationdate="20181124T125925Z">
+        <seg>3D объекты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;Pages styles define basic layout, including page size, margins, headers and footers, borders, backgrounds, etc. &lt;s4/&gt;Changes to these settings automatically change the page style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T175901Z" creationid="olex" creationdate="20180817T175901Z">
@@ -7704,6 +7712,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although Draw does not match the functionality of the leading drawing or picture editing programs, it is capable of producing and editing very good 3D drawings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T130507Z" creationid="olex" creationdate="20181124T130507Z">
+        <seg>Хотя Draw не соответствует по функциональности ведущим программ для рисования или редактирования изображений, в нем можно создавать и редактировать очень хорошие 3D-рисунки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although Impress does not allow you to create new layouts, you can resize and move the layout elements.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181019T180716Z" creationid="olex" creationdate="20181015T152317Z">
@@ -14829,6 +14845,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T190756Z" creationid="olex" creationdate="20181110T190756Z">
         <seg>Draw предлагает ряд различных соединительных линий и их функций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw offers two types of 3D objects: &lt;f0&gt;3D bodies&lt;/f0&gt; and &lt;f1&gt;3D shapes&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T131441Z" creationid="olex" creationdate="20181124T131441Z">
+        <seg>Draw предлагает два типа 3D-объектов: &lt;f0&gt;3D-тела&lt;/f0&gt; и &lt;f1&gt;3D-фигуры&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51787,6 +51811,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Working &lt;i0/&gt;&lt;i1/&gt;with 3D objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T125953Z" creationid="olex" creationdate="20181124T125953Z">
+        <seg>Работа &lt;i0/&gt;&lt;i1/&gt;с 3D объектами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Working in Slide Sorter view</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T193859Z" creationid="olex" creationdate="20180910T193859Z">
@@ -55101,6 +55133,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181106T194556Z" creationid="olex" creationdate="20181106T194556Z">
         <seg>рисование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>drawing objects</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T125936Z" creationid="olex" creationdate="20181124T125936Z">
+        <seg>объекты рисунков</seg>
       </tuv>
     </tu>
     <tu>
