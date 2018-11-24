@@ -5515,6 +5515,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A &lt;i0/&gt;temporary grouping is when several objects are selected using the Select icon on the Drawing toolbar or using the mouse to drag a rectangle around the objects (also known as a marquee).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T114955Z" creationid="olex" creationdate="20181124T114606Z">
+        <seg>Временная группировка &lt;i0/&gt;- это когда несколько объектов выбраны с помощью значка Выделить на панели инструментов Рисование (удерживая клавишу Shift) или выделяющим прямоугольником вокруг объектов с помощью мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Comments button is also added to the right of the horizontal ruler at the top of the page; you can click this button to toggle the display of the comments.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T182155Z" creationid="olex" creationdate="20181001T182155Z">
@@ -8030,6 +8038,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T202459Z" creationid="olex" creationdate="20180313T202459Z">
         <seg>Любые отслеживания изменений, записанные в исходном документе, будут потеряны во время этого процесса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any changes to object parameters you carry out are applied to all of the objects within the temporary group.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T115028Z" creationid="olex" creationdate="20181124T115028Z">
+        <seg>Любые изменения параметров объекта, которые вы выполняете, применяются ко всем объектам во временной группе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19451,6 +19467,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, you can rotate a temporary group of objects in its entirety.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T115144Z" creationid="olex" creationdate="20181124T115144Z">
+        <seg>Например, вы можете вращать временную группу объектов, как одно целое.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, you can select a word, then click on a button on the Formatting toolbar to format the text as bold or italics.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180929T064829Z" creationid="olex" creationdate="20180929T064829Z">
@@ -22052,8 +22076,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Grouping</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20180603T161132Z" creationid="olex" creationdate="20180603T161132Z">
-        <seg>Группирование</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T114617Z" creationid="olex" creationdate="20180603T161132Z">
+        <seg>Группировка</seg>
       </tuv>
     </tu>
     <tu>
@@ -45131,6 +45155,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To cancel a temporary grouping of objects simply click outside of the selection handles displayed around the objects.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T115329Z" creationid="olex" creationdate="20181124T115329Z">
+        <seg>Чтобы отменить временную группировку объектов, просто нажмите мышью за пределами прямоугольника из маркеров выбора, отображаемых вокруг объектов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change a paragraph style throughout your presentation, open the Styles and Formatting dialog and modify the appropriate presentation style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181029T185922Z" creationid="olex" creationdate="20181029T185922Z">
@@ -55091,8 +55123,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>grouping</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181122T202835Z" creationid="olex" creationdate="20181122T202810Z">
-        <seg>группирование</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T114626Z" creationid="olex" creationdate="20181122T202810Z">
+        <seg>группировка</seg>
       </tuv>
     </tu>
     <tu>
