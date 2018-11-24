@@ -5539,6 +5539,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A &lt;i0/&gt;data source, or database, is a collection of pieces of information that can be accessed or managed by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T183147Z" creationid="olex" creationdate="20181124T183147Z">
+        <seg>Источник &lt;i0/&gt;данных или базы данных представляет собой набор фрагментов информации, доступ к которым или управление ими можно осуществлять в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A &lt;i0/&gt;temporary grouping is when several objects are selected using the Select icon on the Drawing toolbar or using the mouse to drag a rectangle around the objects (also known as a marquee).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181124T114955Z" creationid="olex" creationdate="20181124T114606Z">
@@ -6412,6 +6420,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A shop stock list could be a data source managed through LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T183343Z" creationid="olex" creationdate="20181124T183343Z">
+        <seg>Список ассортимента товаров в магазине может быть источником данных, управляемым через LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A short &lt;is0/&gt;history of LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T163510Z" creationid="lera" creationdate="20180303T163510Z">
@@ -6665,6 +6681,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T153839Z" creationid="olex" creationdate="20180630T153839Z">
         <seg>Поддержка специальных возможностей зависит от среды выполнения Java Runtime Environment для связи с инструментами вспомогательных технологий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accessing a spreadsheet as a data source</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T182553Z" creationid="olex" creationdate="20181124T182553Z">
+        <seg>Доступ к электронной таблице в качестве источника данных</seg>
       </tuv>
     </tu>
     <tu>
@@ -9908,6 +9932,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T195243Z" creationid="olex" creationdate="20180402T193200Z">
         <seg>Calc предоставляет множество способов &lt;i0/&gt;перемещения внутри электронной таблицы от ячейки к ячейке и от листа к листу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calc spreadsheets</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T183024Z" creationid="olex" creationdate="20181124T183024Z">
+        <seg>Электронные таблицы Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -15465,6 +15497,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Editing data sources</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T182718Z" creationid="olex" creationdate="20181124T182718Z">
+        <seg>Редактирование источников данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Editing formulas</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T145257Z" creationid="Роман" creationdate="20180320T145257Z">
@@ -19239,6 +19279,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T180025Z" creationid="olex" creationdate="20180311T180025Z">
         <seg>К примеру, шаблон письма может содержать ваше имя, адрес и приветствие.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, a list of names and addresses is a data source that could be used for producing a mail merge letter.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T183239Z" creationid="olex" creationdate="20181124T183239Z">
+        <seg>Например, список имен и адресов является источником данных, который можно использовать для создания списка рассылки писем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28404,6 +28452,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Launching Base to work on data sources</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T182741Z" creationid="olex" creationdate="20181124T182741Z">
+        <seg>Запуск базы для работы с источниками данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Layers are common to all pages of the drawing.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181105T183938Z" creationid="olex" creationdate="20181105T183938Z">
@@ -34389,6 +34445,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T194846Z" creationid="tagezi" creationdate="20180318T194846Z">
         <seg>Отформатируйте заново текст с табуляцией между столбцами, чтобы его можно было преобразовать в таблицу, выбрав в меню &lt;f0&gt;Таблица &gt; Преобразовать &gt; Текст в Таблицу&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Registering *.odb databases</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T182635Z" creationid="olex" creationdate="20181124T182635Z">
+        <seg>Регистрация базы данных *.odb</seg>
       </tuv>
     </tu>
     <tu>
@@ -50039,6 +50103,22 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using data sources in LibreOffice</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T182654Z" creationid="olex" creationdate="20181124T182654Z">
+        <seg>Использование источников данных в LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using data sources in Writer and Calc</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T182952Z" creationid="olex" creationdate="20181124T182952Z">
+        <seg>Использование источников данных в Writer и Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using direct formatting</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T103631Z" creationid="olex" creationdate="20180721T103631Z">
@@ -50640,6 +50720,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T184257Z" creationid="olex" creationdate="20180326T184257Z">
         <seg>Внешний вид Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Viewing data sources</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T182709Z" creationid="olex" creationdate="20181124T182709Z">
+        <seg>Просмотр источников данных</seg>
       </tuv>
     </tu>
     <tu>
@@ -52327,6 +52415,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180929T065630Z" creationid="olex" creationdate="20180929T065630Z">
         <seg>Writer определяет шесть типов стилей: &lt;s0/&gt; абзацев, символов, страниц, врезок, списков и таблиц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writer documents</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T183017Z" creationid="olex" creationdate="20181124T183017Z">
+        <seg>Документы Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -55374,6 +55470,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T140050Z" creationid="olex" creationdate="20180414T134844Z">
         <seg>ввод данных, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>data source</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T183037Z" creationid="olex" creationdate="20181124T183037Z">
+        <seg>источник данных</seg>
       </tuv>
     </tu>
     <tu>
