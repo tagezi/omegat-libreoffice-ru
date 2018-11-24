@@ -13064,8 +13064,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Control+click and/or right-click depending on computer setup</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T154445Z" creationid="lera" creationdate="20180303T154445Z">
-        <seg>Control+click и/или щелчок правой кнопкой мыши в зависимости от настроек ОС</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T180107Z" creationid="lera" creationdate="20180303T154445Z">
+        <seg>Control+click и/или нажатие правой кнопки мыши в зависимости от настроек ОС</seg>
       </tuv>
     </tu>
     <tu>
@@ -13266,6 +13266,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T141922Z" creationid="tagezi" creationdate="20180316T141922Z">
         <seg>Создание макроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a new database</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T180414Z" creationid="olex" creationdate="20181124T180414Z">
+        <seg>Создание новой базы данных</seg>
       </tuv>
     </tu>
     <tu>
@@ -33335,6 +33343,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Planning a database</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T180218Z" creationid="olex" creationdate="20181124T180218Z">
+        <seg>Проектирование базы данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: &lt;a0&gt;documentation@global.libreoffice.org&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T230716Z" creationid="lera" creationdate="20180303T152036Z">
@@ -34651,8 +34667,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Right-click</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="lera" changedate="20180303T172728Z" creationid="lera" creationdate="20180303T154347Z">
-        <seg>Щелчок правой кнопкой мыши</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T180053Z" creationid="lera" creationdate="20180303T154347Z">
+        <seg>Нажатие правой кнопки мыши</seg>
       </tuv>
     </tu>
     <tu>
