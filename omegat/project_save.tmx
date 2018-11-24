@@ -21591,6 +21591,7 @@ LG:DONE</note>
       </tuv>
     </tu>
     <tu>
+      <note>неправильная ссылка на меню в оригинале</note>
       <tuv lang="EN-US">
         <seg>Go to &lt;f0&gt;Modify &gt; Group&lt;/f0&gt; on the Menu bar, or right-click on the selection and select &lt;f1&gt;Group&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;Ctrl+Shift+G&lt;/f2&gt;.</seg>
       </tuv>
@@ -36595,11 +36596,12 @@ denkin: не понял? чего не видно?</note>
       </tuv>
     </tu>
     <tu>
+      <note>неправильная ссылка на меню в оригинале</note>
       <tuv lang="EN-US">
         <seg>Select the group and go to &lt;f0&gt;Modify &gt; Enter Group&lt;/f0&gt;, or right-click and select &lt;f1&gt;Enter Group&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;F3&lt;/f2&gt;, or double-click on the group.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181124T120319Z" creationid="olex" creationdate="20181124T120319Z">
-        <seg>Выделите группу и выберите в меню &lt;f0&gt;Фигура &gt; Зайти в группу&lt;/f0&gt; или щелкните правой кнопкой мыши и выберите &lt;f1&gt; Ввести группу &lt;/ f1&gt; из контекстного меню или воспользуйтесь сочетанием клавиш &lt;f2&gt; F3 &lt;/ f2 &gt; или дважды щелкните по группе.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T120539Z" creationid="olex" creationdate="20181124T120319Z">
+        <seg>Выделите группу и выберите в меню &lt;f0&gt;Фигура &gt; Зайти в группу&lt;/f0&gt; или нажмите правой кнопкой мыши и выберите в контекстном меню &lt;f1&gt;Зайти в группу&lt;/f1&gt;, или нажмите клавишу &lt;f2&gt;F3&lt;/f2&gt;, или нажмите по группе дважды.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51085,6 +51087,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180312T101909Z" creationid="User" creationdate="20180312T101909Z">
         <seg>После завершения ввода формулы на языке разметки закройте Редактор формул , нажав клавишу &lt;f0&gt;Esc&lt;/f0&gt; или щёлкнув мышью в документе вне области формулы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you have finished editing an individual member of a group, go to &lt;f0&gt;Modify &gt; Exit Group&lt;/f0&gt;, or right-click and select &lt;f1&gt;Exit Group&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;Shift+F3&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T120739Z" creationid="olex" creationdate="20181124T120739Z">
+        <seg>Когда вы закончите редактирование отдельного объекта группы, выберите в меню &lt;f0&gt;Фигура &gt; Выйти из группы&lt;/f0&gt; или нажмите правой кнопкой мыши и выберите в контекстном меню &lt;f1&gt; Exit Group &lt;/ f1&gt; из контекстного меню или используйте клавиатуру shortcut &lt;f2&gt; Shift + F3 &lt;/ f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
