@@ -7714,8 +7714,8 @@
       <tuv lang="EN-US">
         <seg>Although Draw does not match the functionality of the leading drawing or picture editing programs, it is capable of producing and editing very good 3D drawings.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181124T130507Z" creationid="olex" creationdate="20181124T130507Z">
-        <seg>Хотя Draw не соответствует по функциональности ведущим программ для рисования или редактирования изображений, в нем можно создавать и редактировать очень хорошие 3D-рисунки.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T132149Z" creationid="olex" creationdate="20181124T130507Z">
+        <seg>Хотя Draw не соответствует по функциональности ведущим программ для рисования или редактирования изображений, в нем можно создавать и редактировать очень хорошие 3D рисунки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14056,8 +14056,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Depending on which type you choose, there are different methods of editing of a 3D object (rotation, illumination, perspective, and so on) with 3D shapes being simpler to set up and edit than 3D bodies.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181124T131951Z" creationid="olex" creationdate="20181124T131853Z">
-        <seg>В зависимости от того, какой тип вы выбираете, существуют различные методы редактирования 3D-объекта (вращение, освещение, перспектива и т.д.), 3D-фигуры проще настраивать и редактировать, чем 3D-тела.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T132208Z" creationid="olex" creationdate="20181124T131853Z">
+        <seg>В зависимости от того, какой тип вы выбираете, существуют различные методы редактирования 3D объекта (вращение, освещение, перспектива и т.д.), 3D фигуры проще настраивать и редактировать, чем 3D тела.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14859,8 +14859,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Draw offers two types of 3D objects: &lt;f0&gt;3D bodies&lt;/f0&gt; and &lt;f1&gt;3D shapes&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181124T131925Z" creationid="olex" creationdate="20181124T131441Z">
-        <seg>Draw предлагает два типа 3D-объектов: &lt;f0&gt;3D-тела&lt;/f0&gt; и &lt;f1&gt;3D-фигуры&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T132156Z" creationid="olex" creationdate="20181124T131441Z">
+        <seg>Draw предлагает два типа 3D-объектов: &lt;f0&gt;3D тела&lt;/f0&gt; и &lt;f1&gt;3D фигуры&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14869,6 +14869,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181106T194908Z" creationid="olex" creationdate="20181106T190051Z">
         <seg>Draw предоставляет широкий диапазон фигур, расположенных в палитрах, доступных на панели инструментов Рисование.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw saves graphics and images in the open source format *.odg.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T132417Z" creationid="olex" creationdate="20181124T132417Z">
+        <seg>Draw сохраняет графические объекты и изображения в формате с открытым исходным кодом *.odg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22814,8 +22822,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>However, 3D bodies currently allow for more customization.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181124T132104Z" creationid="olex" creationdate="20181124T132104Z">
-        <seg>Тем не менее и для 3D-тел в настоящее время доступна дополнительная настройка.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T132219Z" creationid="olex" creationdate="20181124T132104Z">
+        <seg>Тем не менее, для 3D тел в настоящее время доступна дополнительная настройка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35714,6 +35722,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See&lt;f0&gt; &lt;/f0&gt;Chapter 7, Working with 3D Objects, in the &lt;f1&gt;Draw Guide &lt;/f1&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T132248Z" creationid="olex" creationdate="20181124T132139Z">
+        <seg>Смотрите&lt;f0&gt; &lt;/f0&gt;Главу 7, Работа с 3D объектами, в &lt;f1&gt;Руководстве по Draw&lt;/f1&gt;для получения дополнительной информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See&lt;ts14/&gt; “&lt;f15&gt;Using built-in language tools&lt;/f15&gt;&lt;te16/&gt;&lt;ts17/&gt;&lt;f18&gt;” on Page &lt;/f18&gt;&lt;te19/&gt;&lt;ts20/&gt;&lt;f21&gt;&lt;bf22&gt;14&lt;/bf22&gt;&lt;/f21&gt;&lt;te23/&gt;&lt;s24/&gt;&lt;tc25/&gt;&lt;ts26/&gt;&lt;f27&gt;or &lt;/f27&gt;&lt;te28/&gt;&lt;ts29/&gt;&lt;f30&gt;refer to &lt;/f30&gt;&lt;te31/&gt;the &lt;f32&gt;Writer Guide&lt;/f32&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T180602Z" creationid="olex" creationdate="20180805T180602Z">
@@ -41259,6 +41275,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180927T172351Z" creationid="olex" creationdate="20180927T172351Z">
         <seg>Проверка грамматики в сочетании с проверкой орфографии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The graphic formats that Draw can export and save to are listed in Appendix B, Open Source, Open Standards, OpenDocument in this guide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T133839Z" creationid="olex" creationdate="20181124T133839Z">
+        <seg>Графические форматы, в которые Draw может экспортировать и сохранять, перечислены в Приложении B, Открытые исходные тексты, Открытые стандарты, Открытые форматы документов в этом руководстве.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47529,6 +47553,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T182653Z" creationid="olex" creationdate="20180617T182653Z">
         <seg>Чтобы сохранить документ, не меняя текущее имя и местоположение документа, выполните одно из следующих действий:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To save a graphic or the entire file in another format, use &lt;f0&gt;File &gt; Export&lt;/f0&gt; and select a format from the list displayed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T132548Z" creationid="olex" creationdate="20181124T132548Z">
+        <seg>Чтобы сохранить графический объект или весь файл в другом формате, используйте пункт меню &lt;f0&gt;Файл &gt; Экспорт&lt;/f0&gt; и выберите формат из выпадающего списка.</seg>
       </tuv>
     </tu>
     <tu>
