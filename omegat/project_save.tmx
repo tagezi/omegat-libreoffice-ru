@@ -22268,6 +22268,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HTML export uses &lt;i0/&gt;a conversion wizard that creates as many web pages as there are pages in your &lt;is1/&gt;Draw&lt;ie2/&gt; document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181124T172107Z" creationid="olex" creationdate="20181124T172107Z">
+        <seg>Для экспорта в HTML используется &lt;i0/&gt;мастер преобразования, который создает столько веб-страниц, сколько страниц в вашем документе &lt;is1/&gt;Draw&lt;ie2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HTML, XML, and ODF are examples of open standards for documents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T212449Z" creationid="lera" creationdate="20180303T212449Z">
