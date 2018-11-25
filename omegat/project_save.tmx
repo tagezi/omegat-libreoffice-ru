@@ -8627,6 +8627,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you create a database, you should save your work regularly.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T191214Z" creationid="olex" creationdate="20181125T191214Z">
+        <seg>Когда вы создаете базу данных, вы должны регулярно сохранять результаты работы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you create your macros, you must decide where to store them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T104055Z" creationid="tagezi" creationdate="20180320T104055Z">
@@ -9567,6 +9575,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But it is only when you save the database file that the table is written to disk.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T191433Z" creationid="olex" creationdate="20181125T191433Z">
+        <seg>Но это происходит только при сохранении файла базы данных, которое записывает таблицу на диск.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But it would be nice if there was a way to write notes.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T183125Z" creationid="olex" creationdate="20181125T182947Z">
@@ -10324,6 +10340,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T155937Z" creationid="olex" creationdate="20180721T155937Z">
         <seg>Отслеживание изменений во время проверок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changes can then be made to the database.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T191047Z" creationid="olex" creationdate="20181125T191047Z">
+        <seg>Затем можно вносить изменения в базу данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13890,6 +13914,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T165439Z" creationid="olex" creationdate="20180707T165439Z">
         <seg>Источник данных, связанный с документом и его видом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Database files in Open Document Format are stored with the &lt;f0&gt;*.odb&lt;/f0&gt; extension.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T191531Z" creationid="olex" creationdate="20181125T191531Z">
+        <seg>Файлы базы данных в формате Open Document Format документа хранятся с расширением &lt;f0&gt;*.odb&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19896,6 +19928,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181122T193753Z" creationid="olex" creationdate="20181122T193753Z">
         <seg>Например, если параметры в диалоговом окне применить к прямоугольнику, то они приводят к результату, показанному на Рисунке &lt;t0&gt;43&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, when you create your first table, you must save it before you can close it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T191316Z" creationid="olex" creationdate="20181125T191316Z">
+        <seg>Например, когда вы создаете свою первую таблицу, ее необходимо сохранить, прежде чем вы сможете ее закрыть.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43196,6 +43236,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The same format can also store a connection to an external database server instead of the local data, for example, to access a MySQL or PostgresSQL database server in your network.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T191613Z" creationid="olex" creationdate="20181125T191613Z">
+        <seg>Тот же формат может также хранить соединение с внешним сервером базы данных вместо локальных данных, например, для доступа к серверу баз данных MySQL или PostgresSQL в вашей сети.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The screen can be split horizontally, vertically, or both, giving you up to four portions of the spreadsheet in view at any one time.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T165923Z" creationid="olex" creationdate="20180409T165826Z">
@@ -43570,6 +43618,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T191359Z" creationid="olex" creationdate="20180412T191359Z">
         <seg>Формат времени автоматически изменяется на формат, используемый в Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The title for this window is always &lt;database name&gt; – LibreOffice Base.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T191136Z" creationid="olex" creationdate="20181125T191136Z">
+        <seg>Заголовок для этого окна всегда будет: &lt;имя базы данных&gt;.odb - база LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44931,6 +44987,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This file format is actually a container of all elements of the database, including forms, reports, tables, and the data itself.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T191550Z" creationid="olex" creationdate="20181125T191550Z">
+        <seg>Этот формат файла фактически является контейнером всех элементов базы данных, включая формы, отчеты, таблицы и сами данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This format has a number of advantages over Postscript.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T171122Z" creationid="olex" creationdate="20180628T171122Z">
@@ -45148,6 +45212,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This makes it part of the database in memory.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T191335Z" creationid="olex" creationdate="20181125T191335Z">
+        <seg>Это делает ее частью базы данных в памяти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This markup language is designed to be easily read wherever possible, for example, a over b produces the fraction&lt;f0&gt;&lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;formula&lt;/s4&gt;&lt;/df1&gt;&lt;/f0&gt;when used in a formula.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T205234Z" creationid="User" creationdate="20180307T205234Z">
@@ -45160,6 +45232,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181019T182555Z" creationid="olex" creationdate="20181019T182555Z">
         <seg>Иногда это может быть именно то, что вы хотите; однако в большинстве случаев вы хотите, чтобы презентация выполнена в едином стиле и не является лоскутным одеялом из различных стилей абзаца, типов шрифтов, маркеров списков и тому подобное.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means more than saving what you have just created.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T191235Z" creationid="olex" creationdate="20181125T191235Z">
+        <seg>Это означает больше, чем просто сохранение того, что вы только что создали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45262,8 +45342,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>This opens the Automobile – LibreOffice Base window.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181125T190622Z" creationid="olex" creationdate="20181125T190622Z">
-        <seg>Откроется окно Автомобиль - LibreOffice Base.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T191018Z" creationid="olex" creationdate="20181125T190622Z">
+        <seg>Откроется окно Автомобиль.odb - LibreOffice Base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55483,6 +55563,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must save the whole database as well.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T191259Z" creationid="olex" creationdate="20181125T191259Z">
+        <seg>Вы также должны сохранять всю базу данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must use &lt;is0/&gt;&lt;i1/&gt;braces&lt;ie2/&gt; (also known as curly brackets) to state the order of operations that occur within a formula.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T103047Z" creationid="asus" creationdate="20180813T103047Z">
@@ -56039,6 +56127,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180321T190944Z" creationid="olex" creationdate="20180309T193635Z">
         <seg>создание новых</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>creating tables</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T191627Z" creationid="olex" creationdate="20181125T191627Z">
+        <seg>создание таблиц</seg>
       </tuv>
     </tu>
     <tu>
@@ -57871,6 +57967,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180820T180010Z" creationid="olex" creationdate="20180820T180010Z">
         <seg>оглавление, автоматизированное</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tables</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T191634Z" creationid="olex" creationdate="20181125T191634Z">
+        <seg>таблицы</seg>
       </tuv>
     </tu>
     <tu>
