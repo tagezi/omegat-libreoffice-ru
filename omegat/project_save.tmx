@@ -9414,6 +9414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both methods open the Database Wizard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T185507Z" creationid="olex" creationdate="20181125T185446Z">
+        <seg>Оба метода запускают Мастер баз данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both methods take you to the same tab on the Page Style dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T185851Z" creationid="olex" creationdate="20180817T185851Z">
@@ -11564,6 +11572,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T170716Z" creationid="olex" creationdate="20180828T170716Z">
         <seg>Нажмите &lt;f20&gt;Вставить&lt;/f20&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f2&gt;Finish&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T185847Z" creationid="olex" creationdate="20181125T185847Z">
+        <seg>Нажмите &lt;f2&gt;Готово&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16026,6 +16042,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every time the &lt;f0&gt;Automobile&lt;/f0&gt; database is opened, the &lt;f1&gt;Automobile – LibreOffice Base &lt;/f1&gt;window opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T191010Z" creationid="olex" creationdate="20181125T191010Z">
+        <seg>Каждый раз при открытии базы данных &lt;f0&gt;Автомобиль&lt;/f0&gt; открывается окно &lt;f1&gt;Автомобиль.odb - LibreOffice Base&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T090647Z" creationid="tagezi" creationdate="20180305T090647Z">
@@ -17054,6 +17078,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T175039Z" creationid="olex" creationdate="20180328T175039Z">
         <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: Главное окно Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Creating database tables &lt;f1&gt;using HSQLDB&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T190835Z" creationid="olex" creationdate="20181125T190835Z">
+        <seg>Рисунок &lt;seq0&gt;1&lt;/seq0&gt;: Создание таблиц базы данных &lt;f1&gt;с использованием HSQLDB&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18697,6 +18729,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T180832Z" creationid="olex" creationdate="20180615T180611Z">
         <seg>Рисунок &lt;t0&gt;3&lt;/t0&gt;&lt;s1/&gt; показывает пример палитры инструментов из панели инструментов Рисование, превращенной в плавающую панель инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;t1&gt;1&lt;/t1&gt;&lt;s2/&gt;shows part of this window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T190659Z" creationid="olex" creationdate="20181125T190659Z">
+        <seg>Рисунок &lt;t1&gt;1&lt;/t1&gt;&lt;s2/&gt;показывает часть этого окна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23804,6 +23844,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a database is not registered, this window will not contain it, so you cannot access the database in Writer or Calc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T190446Z" creationid="olex" creationdate="20181125T190446Z">
+        <seg>Если база данных не зарегистрирована, то она не будет отображена в этом окне, поэтому вы не сможете получать доступ к базе данных в Writer или Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a dialog is opened, a command to open the dialog is likely to be generated.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T180559Z" creationid="tagezi" creationdate="20180319T180559Z">
@@ -26119,6 +26167,15 @@ LG:DONE</note>
       </tuv>
     </tu>
     <tu>
+      <note>денкин: у меня в калк и в райтер открывает одно и то же: список зарегистрированных БД</note>
+      <tuv lang="EN-US">
+        <seg>In Calc, press &lt;f1&gt;Ctrl+Shift+F4&lt;/f1&gt; to open the Data Source window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T190323Z" creationid="olex" creationdate="20181125T190323Z">
+        <seg>В Calc, нажмите &lt;f1&gt;Ctrl+Shift+F4&lt;/f1&gt;, чтобы открыть окно Источник данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>In Calc, you can have more than one sheet in a spreadsheet.</seg>
       </tuv>
@@ -26353,6 +26410,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T154230Z" creationid="User" creationdate="20180311T154230Z">
         <seg>В Writer щёлкните мышью в абзаце, где хотите вставить формулу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Writer, the &lt;f0&gt;Ctrl+Shift+F4&lt;/f0&gt; key opens and closes the Data Source window containing the list of registered databases.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T190045Z" creationid="olex" creationdate="20181125T190045Z">
+        <seg>В Writer, сочетание клавиш &lt;f0&gt;Ctrl+Shift+F4&lt;/f0&gt; открывает и закрывает окно источника данных, содержащее список зарегистрированных баз данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26753,6 +26818,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In other tables such as the payment type, an additional field for the primary key must be created.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T185024Z" creationid="olex" creationdate="20181125T185024Z">
+        <seg>В других таблицах, таких как тип оплаты, необходимо создать дополнительное поле для первичного ключа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In other words, it is a name/value pair.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153555Z" creationid="tagezi" creationdate="20180318T153555Z">
@@ -26781,6 +26854,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T175522Z" creationid="olex" creationdate="20180615T175522Z">
         <seg>В некоторых случаях удобно уменьшить количество отображаемых панелей инструментов и получить больше места для отображения документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In some tables, a suitable field for the primary key has already been listed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T185007Z" creationid="olex" creationdate="20181125T185007Z">
+        <seg>В некоторых таблицах уже указано подходящее поле для первичного ключа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29950,6 +30031,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure the choice for the first question is &lt;f0&gt;Yes, register the database for me&lt;/f0&gt; and the choice for the second question is &lt;f1&gt;Open the database for editing&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T185824Z" creationid="olex" creationdate="20181125T185824Z">
+        <seg>Убедитесь, что для первого вопроса выбрано &lt;f0&gt;Да, зарегистрировать базу данных&lt;/f0&gt;, а для второго вопроса - &lt;f1&gt;Открыть базу для редактирования&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure the cursor is flashing in the Formula Editor, then select the category &lt;f0&gt;Unary/Binary Operators&lt;/f0&gt; and symbol &lt;f1&gt;Multiplication&lt;/f1&gt; using one of the following methods:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180317T173045Z" creationid="Роман" creationdate="20180317T173045Z">
@@ -32416,6 +32505,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181105T181055Z" creationid="olex" creationdate="20181105T181055Z">
         <seg>Там выберите панели инструментов, которые вы хотите отобразить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the first page of the Database Wizard, select &lt;f0&gt;Create a new database&lt;/f0&gt; and then click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T185631Z" creationid="olex" creationdate="20181125T185631Z">
+        <seg>На первой странице Мастера баз данных выберите &lt;f0&gt;Создать новую базу данных&lt;/f0&gt;, а затем нажмите &lt;f1&gt;Далее&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35502,6 +35599,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T195709Z" creationid="olex" creationdate="20180607T195638Z">
         <seg>Команда Сохранить</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save the new database with the name &lt;f0&gt;Automobile&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T190513Z" creationid="olex" creationdate="20181125T190513Z">
+        <seg>Сохраните новую базу данных под именем &lt;f0&gt;Automobile&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43115,6 +43220,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The second page has two questions.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T185708Z" creationid="olex" creationdate="20181125T185708Z">
+        <seg>На второй странице будет задано два вопроса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The second toolbar at the top, in a default LibreOffice installation, is the &lt;f0&gt;Formatting&lt;/f0&gt; bar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T175212Z" creationid="olex" creationdate="20180615T175212Z">
@@ -45147,6 +45260,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This opens the Automobile – LibreOffice Base window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T190622Z" creationid="olex" creationdate="20181125T190622Z">
+        <seg>Откроется окно Автомобиль - LibreOffice Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This opens the New Module dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T133833Z" creationid="tagezi" creationdate="20180313T133833Z">
@@ -46598,6 +46719,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181027T170831Z" creationid="olex" creationdate="20181027T170445Z">
         <seg>Чтобы создать верхний колонтитул, вы можете использовать текстовый блок, как описано в разделе “&lt;bf0&gt;Текст&lt;/bf0&gt;” на странице &lt;bf1&gt;34&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To create a new database, select &lt;f0&gt;File &gt; New &gt; Database&lt;/f0&gt; from the menu bar, or click the arrow next to the &lt;f1&gt;New&lt;/f1&gt; icon on the Standard toolbar and select &lt;f2&gt;Database&lt;/f2&gt; from the drop-down menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T185425Z" creationid="olex" creationdate="20181125T185425Z">
+        <seg>Чтобы создать новую базу данных, выберите в меню &lt;f0&gt;Файл &gt; Создать &gt; Базу данных&lt;/f0&gt; или нажмите маленький треугольник рядом со значком &lt;f1&gt;Создать&lt;/f1&gt; на панели инструментов Стандартная и выберите из выпадающего меню &lt;f2&gt;Базу данных&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52494,6 +52623,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T161243Z" creationid="olex" creationdate="20180409T161243Z">
         <seg>Это работает для небольшой таблицы с несколькими листами, но может оказаться трудно идентифицировать листы, если таблица содержит много листов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While we have listed fields we will create in the tables of the database, there is one more field that may be needed in a table: the field for the primary key, an identifier unique to each record.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T184945Z" creationid="olex" creationdate="20181125T184945Z">
+        <seg>Хотя мы указали поля, которые мы создадим в таблицах базы данных, в таблице может понадобиться еще одно поле: поле для первичного ключа, уникального для каждой записи.</seg>
       </tuv>
     </tu>
     <tu>
