@@ -9446,6 +9446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Breakfast, lunch, supper, and snacks seem to fit.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T183851Z" creationid="olex" creationdate="20181125T183559Z">
+        <seg>Завтрак, обед, ужин и легкие закуски, похоже подходят.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bring up the Format Cells dialog by right-clicking and selecting &lt;f0&gt;Format Cells&lt;/f0&gt; or by selecting &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; from the &lt;f2&gt;Main Menu&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T193637Z" creationid="olex" creationdate="20180502T193637Z">
@@ -9553,8 +9561,8 @@
       <tuv lang="EN-US">
         <seg>But it would be nice if there was a way to write notes.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181125T182947Z" creationid="olex" creationdate="20181125T182947Z">
-        <seg>Но было бы неплохо, если бы был способ писать заметки.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T183125Z" creationid="olex" creationdate="20181125T182947Z">
+        <seg>Но было бы неплохо, если бы был способ писать примечания.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13934,6 +13942,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Date, odometer reading, fuel (including all the fields of the fuel table), food (including meals and snacks), motel, total tolls, and miscellaneous.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T183819Z" creationid="olex" creationdate="20181125T183410Z">
+        <seg>Дата, показания одометра, топливо (включая все поля топливной таблицы), питание (включая основную еду и легкие закуски), мотель, общие пошлины и прочее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deactivating automatic changes</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T192728Z" creationid="olex" creationdate="20180326T192728Z">
@@ -14635,6 +14651,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T192600Z" creationid="olex" creationdate="20180306T195708Z">
         <seg>Разделение документа на главы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do I list all the snacks individually or list the total cost for snacks for the day?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T183910Z" creationid="olex" creationdate="20181125T183742Z">
+        <seg>Я перечисляю все легкие закуски отдельно или перечисляю общую их стоимость в течение дня?</seg>
       </tuv>
     </tu>
     <tu>
@@ -31282,8 +31306,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>My expenses divided into three broad areas: fuel purchases, maintenance, and vacations.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181125T182553Z" creationid="olex" creationdate="20181125T182254Z">
-        <seg>Мои расходы разделены на три части: закупки топлива, обслуживание и отпуск.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T183226Z" creationid="olex" creationdate="20181125T182254Z">
+        <seg>Мои расходы разделены на три части: закупки топлива, обслуживание и досуг.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38298,6 +38322,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since these purchases are made by one of two bank cards or with cash, I want a field to state which payment type was used for each item.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T183456Z" creationid="olex" creationdate="20181125T183456Z">
+        <seg>Поскольку эти покупки совершаются одной из двух банковских карточек или наличными, я хочу, чтобы в поле указывалось, какой тип платежа использовался в каждом случае.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Single cell</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T182849Z" creationid="olex" creationdate="20180326T181717Z">
@@ -38462,6 +38494,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T154601Z" creationid="olex" creationdate="20180603T154601Z">
         <seg>Привязка к сетке</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So a field for notes was added to the list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T183131Z" creationid="olex" creationdate="20181125T183006Z">
+        <seg>Итак, поле для примечаний было добавлено в список.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51140,6 +51180,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What fields fit into the food category?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T183510Z" creationid="olex" creationdate="20181125T183510Z">
+        <seg>Какие поля вписываются в категорию продуктов питания?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What fields fit the fuel purchases area?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T182411Z" creationid="olex" creationdate="20181125T182411Z">
@@ -51152,6 +51200,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T182537Z" creationid="olex" creationdate="20181125T182537Z">
         <seg>Какие поля подходят для части обслуживания?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What fields fit the vacations area?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T183232Z" creationid="olex" creationdate="20181125T183157Z">
+        <seg>Какие поля подходят для досуга?</seg>
       </tuv>
     </tu>
     <tu>
