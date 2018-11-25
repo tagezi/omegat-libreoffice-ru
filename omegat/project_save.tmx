@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Fuel economy need not be included, as it can be calculated using a query.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T182512Z" creationid="olex" creationdate="20181125T182512Z">
+        <seg>(Экономию топлива включать не обязательно, поскольку ее можно рассчитать с помощью запроса.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If you do not have this font on your system, it will not appear in the drop-down list in this box, so you need to type it in.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T180844Z" creationid="olex" creationdate="20180628T180844Z">
@@ -9543,6 +9551,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But it would be nice if there was a way to write notes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T182947Z" creationid="olex" creationdate="20181125T182947Z">
+        <seg>Но было бы неплохо, если бы был способ писать заметки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But undoing each change or remembering where the changes took place can be a difficult task.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T182722Z" creationid="olex" creationdate="20180621T182722Z">
@@ -13898,6 +13914,22 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T191901Z" creationid="olex" creationdate="20180326T191901Z">
         <seg>Дата и время</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date of service, odometer reading, type of service, cost of service, and next scheduled service of this type (for example, for oil changes, list when the next oil change should be).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T182831Z" creationid="olex" creationdate="20181125T182831Z">
+        <seg>Дата сервисного обслуживания, показания одометра, тип обслуживания, стоимость обслуживания и следующее запланированное обслуживание этого типа (например - замена масла, укажите, когда произойдет следующая замена).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date purchased, odometer reading, fuel cost, fuel quantity, and payment method for it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T182437Z" creationid="olex" creationdate="20181125T182437Z">
+        <seg>Дата покупки, показания одометра, стоимость топлива, количество топлива и способ оплаты за него.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28420,6 +28452,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It will be a table of its own: license fees.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T182346Z" creationid="olex" creationdate="20181125T182346Z">
+        <seg>Это будет отдельная таблица: лицензионные сборы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It will contain a field for the names of the authors and another field for the names of the books.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181124T185222Z" creationid="olex" creationdate="20181124T185222Z">
@@ -31242,8 +31282,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>My expenses divided into three broad areas: fuel purchases, maintenance, and vacations.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181125T182254Z" creationid="olex" creationdate="20181125T182254Z">
-        <seg>Мои расходы разделены на три части: закупки топлива, содержание и отпуск.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T182553Z" creationid="olex" creationdate="20181125T182254Z">
+        <seg>Мои расходы разделены на три части: закупки топлива, обслуживание и отпуск.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40819,6 +40859,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T182023Z" creationid="olex" creationdate="20180818T134631Z">
         <seg>Точка привязки комментария будет соединена пунктирной линией с полем справа от страницы, где вы можете ввести текст комментария.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The annual cost for the car’s license plate and driver’s license every four years did not fit into any of these.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T182326Z" creationid="olex" creationdate="20181125T182326Z">
+        <seg>Ежегодная стоимость автомобильного номерного знака и водительских прав каждые четыре года не вписывалась ни в одну из них.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51088,6 +51136,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T160557Z" creationid="lera" creationdate="20180303T160522Z">
         <seg>Что такое “открытые стандарты”?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What fields fit the fuel purchases area?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T182411Z" creationid="olex" creationdate="20181125T182411Z">
+        <seg>Какие поля соответствуют части закупок топлива?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What fields fit the maintenance area?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T182537Z" creationid="olex" creationdate="20181125T182537Z">
+        <seg>Какие поля подходят для части обслуживания?</seg>
       </tuv>
     </tu>
     <tu>
