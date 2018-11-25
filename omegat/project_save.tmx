@@ -9448,8 +9448,8 @@
       <tuv lang="EN-US">
         <seg>Breakfast, lunch, supper, and snacks seem to fit.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181125T183851Z" creationid="olex" creationdate="20181125T183559Z">
-        <seg>Завтрак, обед, ужин и легкие закуски, похоже подходят.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T184037Z" creationid="olex" creationdate="20181125T183559Z">
+        <seg>Завтрак, обед, ужин и закуски, вполне подходят.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13922,6 +13922,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T191901Z" creationid="olex" creationdate="20180326T191901Z">
         <seg>Дата и время</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date appears in all of the areas as does odometer reading and payment type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T184230Z" creationid="olex" creationdate="20181125T184230Z">
+        <seg>Дата Во всех частях отображается дата, показания одометра и тип оплаты.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23204,6 +23212,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How will I use this information about these three fields?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T184307Z" creationid="olex" creationdate="20181125T184307Z">
+        <seg>Как я буду использовать эту информацию в этих трех частях?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How you edit a formula and switch into formula editing mode depends on whether the formula is in Math or another LibreOffice component.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180320T204228Z" creationid="Роман" creationdate="20180320T145306Z">
@@ -23604,6 +23620,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I also need a payment type for each of these: breakfast, lunch, supper, and total cost of snacks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T184024Z" creationid="olex" creationdate="20181125T184024Z">
+        <seg>Мне также нужен тип оплаты для каждого из них: завтрак, обед, ужин и общая стоимость закусок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I am &lt;f0&gt;develop&lt;/f0&gt;ing software .</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T185223Z" creationid="olex" creationdate="20180607T185223Z">
@@ -23616,6 +23640,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T164725Z" creationid="tagezi" creationdate="20180310T164725Z">
         <seg>Я пишу компьютерную программу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I chose to divide snacks into two fields: number of snacks and total cost of snacks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T184055Z" creationid="olex" creationdate="20181125T183956Z">
+        <seg>Я решил разделить закуски на два поля: количество закусок и  их общую стоимость.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38506,6 +38538,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So we will create a table with a field for the type of payment and use it in list boxes in the forms.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T184908Z" creationid="olex" creationdate="20181125T184908Z">
+        <seg>Таким образом, мы создадим таблицу с полем для типа платежа и используем его в списках форм.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some AutoCorrect settings are applied when you press the spacebar after you enter data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T134403Z" creationid="olex" creationdate="20180414T134403Z">
@@ -41279,6 +41319,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The date fields suggest a relationship between the vacation table and the dates in each of these tables: fuel and food, This means that the date fields in these tables will be linked as we create the database.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T184727Z" creationid="olex" creationdate="20181125T184727Z">
+        <seg>Поля даты предполагают связь между таблицей каникул и датами в каждой из этих таблиц: топливо и продукты питания. Это означает, что поля даты в этих таблицах будут связаны с созданием базы данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The date format automatically changes to the selected format used by Calc.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T191240Z" creationid="olex" creationdate="20180412T191218Z">
@@ -43490,6 +43538,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T193342Z" creationid="olex" creationdate="20180616T182224Z">
         <seg>Тип создаваемого документа зависит от того, какой модуль LibreOffice открыт и активен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The type of payment includes two bank cards and cash.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T184801Z" creationid="olex" creationdate="20181125T184801Z">
+        <seg>Типы оплаты включают в себя две банковские карты и наличные деньги.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51172,6 +51228,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What are the fields that are common to more than one area?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T184141Z" creationid="olex" creationdate="20181125T184141Z">
+        <seg>Какие поля, общие для более чем одной части?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What are “open standards”?</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T160557Z" creationid="lera" creationdate="20180303T160522Z">
@@ -52390,6 +52454,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180921T200734Z" creationid="olex" creationdate="20180921T200734Z">
         <seg>Хотя необязательно использовать для хранения ваших шаблонов одну из папок, перечисленных как пути к шаблонам, в &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Пути&lt;/f0&gt; до того, как вы станете использовать эти  шаблоны, &lt;f1&gt;но&lt;/f1&gt; это самый простой и удобный способ управления шаблонами..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While on vacation, I want the expenses for each day to be listed together.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181125T184436Z" creationid="olex" creationdate="20181125T184436Z">
+        <seg>Я хочу, чтобы расходы во время отдыха за каждый день были перечислены вместе.</seg>
       </tuv>
     </tu>
     <tu>
