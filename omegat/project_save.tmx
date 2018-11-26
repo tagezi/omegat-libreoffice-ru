@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(What this field does will be explained later.) We will use this field to number our entries and want that number to automatically increase as we add each entry.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T183833Z" creationid="olex" creationdate="20181126T183833Z">
+        <seg>(Про это поле будет написано ниже). Мы будем использовать это поле для подсчета наших записей и хотим, чтобы это число автоматически увеличивалось по мере добавления каждой записи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You can change the sequence and remove or insert images later, as you can with any slides.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181029T193233Z" creationid="olex" creationdate="20181029T193233Z">
@@ -16102,6 +16110,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180930T193827Z" creationid="olex" creationdate="20180930T193827Z">
         <seg>Каждая страница в Writer основана на стиле страницы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every table requires a &lt;f0&gt;Primary key field&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T183747Z" creationid="olex" creationdate="20181126T183239Z">
+        <seg>Для каждой таблицы требуется &lt;f0&gt;Поле с первичным ключом&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38579,6 +38595,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since none of the fields we need for our Automobile database are contained in any of the sample wizard tables, we will create a simple table using the wizard that has nothing to do with our database.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T183026Z" creationid="olex" creationdate="20181126T183026Z">
+        <seg>Поскольку ни одно из полей, которые нам нужны для нашей базы данных Автомобиль, не содержится ни в одной из таблиц примеров мастера, то мы создадим простую таблицу, используя мастер, которая не имеет ничего общего с нашей базой данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since these purchases are made by one of two bank cards or with cash, I want a field to state which payment type was used for each item.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T183456Z" creationid="olex" creationdate="20181125T183456Z">
@@ -41108,6 +41132,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T073030Z" creationid="olex" creationdate="20180915T073030Z">
         <seg>На этом изображении видны Кнопки просмотра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Wizard permits the fields of the table to come from more than one suggested table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T183146Z" creationid="olex" creationdate="20181126T183146Z">
+        <seg>Мастер позволяет использовать поля таблицы из нескольких предложенных таблиц.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45624,6 +45656,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181120T200916Z" creationid="olex" creationdate="20181120T200916Z">
         <seg>В этом разделе представлено введение в некоторые из эффектов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This section is merely an exercise in explaining how the Wizard works.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T183054Z" creationid="olex" creationdate="20181126T183054Z">
+        <seg>Этот раздел представляет собой просто упражнение для объяснения того, как работает Мастер.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51517,6 +51557,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We will create a table with fields from three different suggested tables in the Wizard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T183201Z" creationid="olex" creationdate="20181126T183201Z">
+        <seg>Мы создадим таблицу с полями из трех разных предложенных таблиц в Мастере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We will protect past investments by building on the solid achievements of our first decade, encourage wide participation in the Community, and co-ordinate activity across the Community.”</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T061600Z" creationid="tagezi" creationdate="20180305T061600Z">
@@ -56371,6 +56419,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>databasa</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T183918Z" creationid="olex" creationdate="20181126T183918Z">
+        <seg>база данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>database</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181124T185939Z" creationid="olex" creationdate="20181124T185939Z">
@@ -58111,6 +58167,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180930T191432Z" creationid="olex" creationdate="20180813T174643Z">
         <seg>табуляция</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>table (database)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T183931Z" creationid="olex" creationdate="20181126T183931Z">
+        <seg>таблица (база данных)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>table Wizard</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T183904Z" creationid="olex" creationdate="20181126T183904Z">
+        <seg>Мастер таблицы</seg>
       </tuv>
     </tu>
     <tu>
