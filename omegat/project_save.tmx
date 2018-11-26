@@ -5827,6 +5827,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A database must have at least one table and may have several.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T181450Z" creationid="olex" creationdate="20181126T181450Z">
+        <seg>В базе данных должна быть как минимум одна таблица, а может быть и несколько.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A decimal number string can have digits 0-9, thousands separators, and a decimal separator.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T193621Z" creationid="olex" creationdate="20180330T193621Z">
@@ -15513,6 +15521,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each field of a table contains information of a single type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T181509Z" creationid="olex" creationdate="20181126T181509Z">
+        <seg>Каждое поле таблицы содержит информацию одного типа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each function, when selected, will display a brief explanation of its use and acceptable syntax.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181010T172711Z" creationid="olex" creationdate="20181010T172711Z">
@@ -19539,6 +19555,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, a table might hold an address book, a stock list, a phone book or a price list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T181222Z" creationid="olex" creationdate="20181126T181222Z">
+        <seg>Например, таблица может содержать адресную книгу, список товаров, телефонную книгу или прейскурант.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, after saving a new document, the list of recent files is updated.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T174052Z" creationid="tagezi" creationdate="20180319T174052Z">
@@ -19752,6 +19776,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153831Z" creationid="User" creationdate="20180311T153831Z">
         <seg>Например код MathML в левой части таблицы &lt;t1&gt;1&lt;/t1&gt;&lt;s2/&gt; отображает формулу в правой части таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, the Phone field of an address book would only contain phone numbers.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T181540Z" creationid="olex" creationdate="20181126T181540Z">
+        <seg>Например, поле Телефон в адресной книге будет содержать только номера телефонов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26483,6 +26515,14 @@ TODO: Сообщить Оливье. На скриншоте "All Style"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181116T191933Z" creationid="olex" creationdate="20181116T191933Z">
         <seg>В сложном рисунке несколько объектов могут быть наложены друг на друга.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In a database, a table stores information in a group of things we call fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T181103Z" creationid="olex" creationdate="20181126T181103Z">
+        <seg>В базе данных таблица хранит информацию в группе ячеек, которые мы называем полями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38475,6 +38515,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Similarly, a price list table could contain two fields: Name and Price.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T181645Z" creationid="olex" creationdate="20181126T181616Z">
+        <seg>Аналогично, таблица прайс-листа может содержать два поля: Название и Цена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Similarly, if you click &lt;f1&gt;Replace All&lt;/f1&gt;, LibreOffice replaces all matches, without stopping for you to accept each instance.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T174807Z" creationid="olex" creationdate="20180802T174807Z">
@@ -40644,6 +40692,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180516T190823Z" creationid="olex" creationdate="20180329T184721Z">
         <seg>В поле имени, при этом, отображаются наиболее часто используемые функции, для быстрого доступа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Name field would contain the names of the items; &lt;s0/&gt;the Price field would contain the amount of each item.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T181822Z" creationid="olex" creationdate="20181126T181637Z">
+        <seg>Поле Название будет содержать имена элементов; &lt;s0/&gt;поле Цена будет содержать стоимость каждого элемента.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49205,6 +49261,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181014T181425Z" creationid="olex" creationdate="20181014T181410Z">
         <seg>Чтобы просмотреть имена включенных макетов, используйте функцию подсказки: поместите курсор на значок в разделе «Макет» (или на любом значке на панели инструментов), и его имя будет отображено в маленьком прямоугольнике.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To work with tables, click the &lt;f0&gt;Tables&lt;/f0&gt; icon in the &lt;f1&gt;Database&lt;/f1&gt; list, or press &lt;f2&gt;Alt+a&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T182130Z" creationid="olex" creationdate="20181126T182130Z">
+        <seg>Для работы с таблицами нажмите значок &lt;f0&gt;Таблицы&lt;/f0&gt; в списке &lt;f1&gt;База данных&lt;/f1&gt; или нажмите &lt;f2&gt;Alt+a&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
