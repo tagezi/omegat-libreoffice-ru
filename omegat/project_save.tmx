@@ -5987,6 +5987,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A field in a table is one bit of information.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T182828Z" creationid="olex" creationdate="20181126T182828Z">
+        <seg>Поле в таблице - это один бит информации.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A filled curve automatically joins the last point to the first point to close off the figure and fills it with the current standard fill color.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T105511Z" creationid="olex" creationdate="20181110T105447Z">
@@ -15441,6 +15449,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each category contains sample tables from which to choose.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T182730Z" creationid="olex" creationdate="20181126T182648Z">
+        <seg>Каждая категория содержит примеры таблиц, из которых можно выбрать необходимый.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each category has four BAILS (Business Authorization Identification and Labeling Scheme) levels: Non-Business, General Business, Confidential, and Internal Only.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T173634Z" creationid="olex" creationdate="20180828T173527Z">
@@ -15629,6 +15645,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T174005Z" creationid="olex" creationdate="20180328T173839Z">
         <seg>Каждая таблица может содержать несколько листов, и каждый лист состоит из множества отдельных ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each table has a list of available fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T182745Z" creationid="olex" creationdate="20181126T182745Z">
+        <seg>Каждая таблица имеет список доступных полей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19543,6 +19567,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180929T065228Z" creationid="olex" creationdate="20180929T065228Z">
         <seg>Например, стиль абзаца определяет множество параметров, таких как тип и размер шрифта, нужен ли отступ для абзацев, интервалы между строками, как абзацы должны выравниваться на странице и многое другое.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, a price list table might have one field for item name, one for the description, and a third for the price.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T182912Z" creationid="olex" creationdate="20181126T182912Z">
+        <seg>Например, таблица прайс-листа может иметь одно поле для названия элемента, другое для описания и третье для цены.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39020,6 +39052,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sometimes this is not sufficient for what we want; in those cases we can use a wizard as a starting point and then build upon what it produces.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T182556Z" creationid="olex" creationdate="20181126T182556Z">
+        <seg>Иногда их недостаточно для достижения необходимого результата; в таких случаях можно использовать мастер для создания основы, а затем дорабатывать таблицу самому.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sometimes you may want to hide the contents of a sheet to preserve data from accidental editing or because its contents are not important to display.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181008T184022Z" creationid="olex" creationdate="20181008T184022Z">
@@ -41028,6 +41068,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180319T191121Z" creationid="olex" creationdate="20180307T204427Z">
         <seg>В окне Стили отображается предварительный просмотр доступных стилей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Table Wizard in Base contains two categories of suggested tables: business and personal.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T182713Z" creationid="olex" creationdate="20181126T182633Z">
+        <seg>Мастер таблиц в базе содержит две категории типов таблиц: деловую и личную.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43666,6 +43714,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T184353Z" creationid="olex" creationdate="20180805T184353Z">
         <seg>Тезаурус дает более обширный список альтернативных слов и фраз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The three tasks that you can perform on a table are in the &lt;f3&gt;Tasks&lt;/f3&gt; list (see Figure &lt;t4&gt;1&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T182224Z" creationid="olex" creationdate="20181126T182224Z">
+        <seg>Три задачи, которые вы можете выполнять в таблице, находятся в списке &lt;f3&gt;Задачи&lt;/f3&gt; (смотрите Рисунок &lt;t4&gt;1&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -50997,6 +51053,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using the &lt;i0/&gt;Wizard to create a table</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T182312Z" creationid="olex" creationdate="20181126T182312Z">
+        <seg>Использование Мастера &lt;i0/&gt;для создания таблицы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the Apply Style list</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T170757Z" creationid="olex" creationdate="20180308T151838Z">
@@ -51433,6 +51497,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T182612Z" creationid="olex" creationdate="20180615T182612Z">
         <seg>Видимые значки на панели инструментов обозначаются контуром вокруг значка (Рисунок &lt;t1&gt;5&lt;/t1&gt;) или галочкой рядом с иконкой в зависимости от вашей операционной системы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can delete some of these fields and add other fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T182812Z" creationid="olex" creationdate="20181126T182812Z">
+        <seg>Мы можем удалить некоторые из этих полей и добавить другие поля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52944,6 +53016,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T195933Z" creationid="tagezi" creationdate="20180318T195933Z">
         <seg>С учетом двух приведенных выше вопросов ознакомьтесь с текстом, чтобы узнать, можно ли записать макрос для форматирования текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wizards are designed to do the basic work.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T182331Z" creationid="olex" creationdate="20181126T182331Z">
+        <seg>Мастера предназначены для выполнения основной работы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56295,6 +56375,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181124T185939Z" creationid="olex" creationdate="20181124T185939Z">
         <seg>база данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>database table</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T182241Z" creationid="olex" creationdate="20181126T182241Z">
+        <seg>таблица базы данных</seg>
       </tuv>
     </tu>
     <tu>
