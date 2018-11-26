@@ -1064,6 +1064,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Category&lt;/f0&gt;: Select &lt;f1&gt;Personal&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T184303Z" creationid="olex" creationdate="20181126T184303Z">
+        <seg>&lt;f0&gt;Категория&lt;/f0&gt;: выберите &lt;f1&gt;Личные&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Cell Appearance:&lt;/f0&gt; Controls to set the appearance options, including cell background color, cell border formats including line color and style, and grid lines.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T182923Z" creationid="olex" creationdate="20180330T170716Z">
@@ -11548,6 +11556,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T193710Z" creationid="olex" creationdate="20180311T193710Z">
         <seg>Нажмите &lt;f0&gt;Обновить стили&lt;/f0&gt;, чтобы применить измененные в шаблоне стили к документу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Use Wizard to Create Table&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T184015Z" creationid="olex" creationdate="20181126T184015Z">
+        <seg>Нажмите &lt;f0&gt;Использовать мастер для создания таблицы...&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39381,6 +39397,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 1: Select fields</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T184114Z" creationid="olex" creationdate="20181126T184114Z">
+        <seg>Шаг 1: Выбрать поля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stop recording the macro and save the macro, see “&lt;bf0&gt;Recording a macro&lt;/bf0&gt;” on page &lt;bf1&gt;6&lt;/bf1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T072549Z" creationid="tagezi" creationdate="20180319T072549Z">
@@ -45464,6 +45488,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T202343Z" creationid="olex" creationdate="20180309T202343Z">
         <seg>Этот новый стиль применяется только к текущему документу; он не будет сохранен в шаблоне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This opens &lt;i1/&gt;the &lt;i2/&gt;Table Wizard (Figure &lt;t3&gt;2&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T184055Z" creationid="olex" creationdate="20181126T184055Z">
+        <seg>Откроется &lt;i1/&gt;Мастер таблиц&lt;i2/&gt; (Рисунок &lt;t3&gt;2&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51569,6 +51601,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T061600Z" creationid="tagezi" creationdate="20180305T061600Z">
         <seg>Мы будем защищать прошлые инвестиции, основываясь на прочных достижениях нашего первого десятилетия, поощрять широкое участие в Сообществе и координировать деятельность в рамках Сообщества”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will use the &lt;f0&gt;CD-Collection&lt;/f0&gt; Sample table in the Personal category and Employees in the Business category to select the fields we need.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T184234Z" creationid="olex" creationdate="20181126T184234Z">
+        <seg>Мы будем использовать таблицу примеров &lt;f0&gt;Коллекция CD&lt;/f0&gt;, в категории Личные, и Служащие, в категории Бизнес, для выбора полей, которые нам нужны.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58447,6 +58487,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T180629Z" creationid="olex" creationdate="20180731T180629Z">
         <seg>подстановочные знаки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>wizard</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181126T183944Z" creationid="olex" creationdate="20181126T183944Z">
+        <seg>мастер</seg>
       </tuv>
     </tu>
     <tu>
