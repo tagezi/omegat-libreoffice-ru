@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See Figure &lt;t0&gt;3&lt;/t0&gt;.) You can then make changes to meet your needs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T191601Z" creationid="olex" creationdate="20181128T191601Z">
+        <seg>(Смотрите Рисунок &lt;t0&gt;3&lt;/t0&gt;.) Затем вы можете внести изменения в соответствии с вашими потребностями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(What this field does will be explained later.) We will use this field to number our entries and want that number to automatically increase as we add each entry.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181126T183833Z" creationid="olex" creationdate="20181126T183833Z">
@@ -5735,6 +5743,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180930T190731Z" creationid="olex" creationdate="20180930T190731Z">
         <seg>Лучшим вариантом стратегии является определения табуляции для &lt;f0&gt;стиля&lt;/f0&gt; абзаца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A blank field will then not be allowed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T191936Z" creationid="olex" creationdate="20181128T191936Z">
+        <seg>В этом случае пустое для поля не будет разрешено.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11868,6 +11884,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T184504Z" creationid="olex" creationdate="20180411T184504Z">
         <seg>Нажмите на ячейку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click each field, one at a time, and make the changes listed below.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T191641Z" creationid="olex" creationdate="20181128T191641Z">
+        <seg>Нажимайте поля по одному, и вносите изменения, перечисленные ниже.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24236,6 +24260,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If any of these fields requires a mandatory entry, set &lt;f0&gt;Entry required&lt;/f0&gt; to &lt;f1&gt;Yes&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T191902Z" creationid="olex" creationdate="20181128T191902Z">
+        <seg>Если для любого из этих полей требуется обязательная запись, то установите значение &lt;f0&gt;Обязательное&lt;/f0&gt; на &lt;f1&gt;Да&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If both options are selected and you edit the disabled code in LibreOffice, the original Microsoft Basic code will be saved when saving in a Microsoft Office format.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T184903Z" creationid="olex" creationdate="20180707T184903Z">
@@ -26958,6 +26990,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T180418Z" creationid="tagezi" creationdate="20180319T180418Z">
         <seg>Фактически, сгенерированный код комментируется, так что он даже не будет запущен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In general, only set &lt;f2&gt;Entry required&lt;/f2&gt; to &lt;f3&gt;Yes&lt;/f3&gt; if something must always be put in that field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T192306Z" creationid="olex" creationdate="20181128T192306Z">
+        <seg>В общем случае установите &lt;f2&gt;Обязательное&lt;/f2&gt; на &lt;f3&gt;Да&lt;/f3&gt;, если что-то всегда должно быть помещено в это поле.</seg>
       </tuv>
     </tu>
     <tu>
