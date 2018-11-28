@@ -1898,6 +1898,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Format&lt;/f0&gt;: Only change the &lt;f1&gt;Entry Required&lt;/f1&gt; setting: from &lt;f2&gt;No&lt;/f2&gt; to &lt;f3&gt;Yes&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T194025Z" creationid="olex" creationdate="20181128T194025Z">
+        <seg>&lt;f0&gt;Формат&lt;/f0&gt;: Измените настройку &lt;f1&gt;Обязательное&lt;/f1&gt; с &lt;f2&gt;Нет&lt;/f2&gt; на &lt;f3&gt;Да&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Frame styles&lt;/f0&gt; are used to format graphic and text frames, including text wrap, borders, backgrounds, and columns.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180307T183901Z" creationid="olex" creationdate="20180307T183901Z">
@@ -2518,10 +2526,27 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Notes&lt;/f0&gt;: No changes are required.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T194552Z" creationid="olex" creationdate="20181128T194117Z">
+        <seg>&lt;f0&gt;Примечания&lt;/f0&gt;: Изменения не требуются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Number Format:&lt;/f0&gt; Quickly change the format of numbers including decimals, currency, dates, or numeric text.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T165537Z" creationid="olex" creationdate="20180330T165300Z">
         <seg>&lt;f0&gt;Формат чисел:&lt;/f0&gt; Быстрое изменение формата чисел, включая количество десятичных знаков, формат валюты, даты или числовой формат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>денкин: неправильно написан тип поля в оригинале</note>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;NumberofTracks&lt;/f0&gt;: Change the &lt;f1&gt;Field Type&lt;/f1&gt; to &lt;f2&gt;Tiny Integer [TINYINT]&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T194344Z" creationid="olex" creationdate="20181128T194344Z">
+        <seg>&lt;f0&gt;КоличествоКомпозиций&lt;/f0&gt;: Измените &lt;f1&gt;Тип поля&lt;/f1&gt; на &lt;f2&gt;Короткое целое [SMALLINT]&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2674,6 +2699,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T180220Z" creationid="olex" creationdate="20181013T180130Z">
         <seg>&lt;f0&gt;Вставить&lt;/f0&gt; – вставляет слайд из буфера обмена после выбранного слайда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Photo&lt;/f0&gt;: Use the default settings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T194545Z" creationid="olex" creationdate="20181128T194545Z">
+        <seg>&lt;f0&gt;Фотография&lt;/f0&gt;: Используйте настройки по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9314,6 +9347,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T203311Z" creationid="olex" creationdate="20180607T203311Z">
         <seg>Base предоставляет инструменты для повседневной работы базы данных в рамках простого интерфейса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base uses VARCHAR as the field format for text fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T193649Z" creationid="olex" creationdate="20181128T193649Z">
+        <seg>База использует VARCHAR в качестве формата поля для текстовых полей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39019,6 +39060,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Small Integer [SMALLINT] would allow 32768 tracks if you needed more than 127 tracks.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T194508Z" creationid="olex" creationdate="20181128T194508Z">
+        <seg>Короткое целое [SMALLINT] позволит 32768 треков, если вам понадобится более 127 треков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Snap function</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181119T214221Z" creationid="olex" creationdate="20180603T154523Z">
@@ -45435,6 +45484,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This format uses only the actual number of characters in a field up to the limit set, so a field containing 20 characters will occupy only 20 characters even if the limit is set at 100.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T193756Z" creationid="olex" creationdate="20181128T193756Z">
+        <seg>Этот формат использует только фактическое количество символов в поле, поэтому поле, содержащее 20 символов, будет занимать всего 20 символов, даже если предел установить равным 100.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This foundation is the cornerstone of a new ecosystem where individuals and organizations can contribute to and benefit from the availability of a truly free office suite.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T165615Z" creationid="lera" creationdate="20180303T165615Z">
@@ -49765,6 +49822,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T104338Z" creationid="olex" creationdate="20180815T104338Z">
         <seg>Включение переносов для абзаца в стиле Базовый влияет на все остальные стили абзаца, основанные на этом стиле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two album titles containing 25 and 32 characters respectively will use space for 25 and 32 characters and not 100 characters.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T193937Z" creationid="olex" creationdate="20181128T193937Z">
+        <seg>Названия альбомов, содержащие 25 и 32 символа, будут занимать место в 25 и в 32 символа, а не по 100 символов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56167,6 +56232,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180310T195746Z" creationid="olex" creationdate="20180310T195704Z">
         <seg>Вам необходимо будет исправить их обратно на ваши стили заголовков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your allowable number of tracks will be 127.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T194405Z" creationid="olex" creationdate="20181128T194405Z">
+        <seg>Допустимое количество дорожек - 127.</seg>
       </tuv>
     </tu>
     <tu>
