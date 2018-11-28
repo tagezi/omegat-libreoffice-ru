@@ -86,10 +86,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You may not know the date.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T193540Z" creationid="olex" creationdate="20181128T193540Z">
+        <seg>(Возможно, вы не знаете дату.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You need to have a document open for this menu item to appear.) In Writer, this dialog has five tabs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180715T105246Z" creationid="olex" creationdate="20180715T105246Z">
         <seg>(Для отображения этого пункта меню должен быть открыт документ.) В Writer это диалоговое окно содержит пять вкладок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(example of a mandatory entry)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T192604Z" creationid="olex" creationdate="20181128T192604Z">
+        <seg>(пример обязательной записи)</seg>
       </tuv>
     </tu>
     <tu>
@@ -848,6 +864,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;AlbumTitle&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T192737Z" creationid="olex" creationdate="20181128T192737Z">
+        <seg>&lt;f0&gt;НазваниеАльбома&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Alignment&lt;/f0&gt;: Controls to align the text in various ways, including horizontal and vertical alignment, wrapping, indenting, merging, text orientation, and vertical stacking.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180517T182854Z" creationid="olex" creationdate="20180330T170525Z">
@@ -908,6 +932,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T172259Z" creationid="olex" creationdate="20180723T172259Z">
         <seg>&lt;f0&gt;Область:&lt;/f0&gt; Измените режим заполнения графической области и прозрачность.&lt;ts1/&gt;&lt;f2&gt; Дополнительные цвета, градиенты, штриховка, шаблоны и выбор и импорт растровых изображений доступны в разделе &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Дополнительные параметры&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Artist&lt;/f0&gt;: Use the Default setting.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T193109Z" creationid="olex" creationdate="20181128T193109Z">
+        <seg>&lt;f0&gt;Артист&lt;/f0&gt;: Используйте настройки по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1186,6 +1218,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;CollectionID&lt;/f0&gt;: Change &lt;f1&gt;AutoValue&lt;/f1&gt; from &lt;f2&gt;No&lt;/f2&gt; to &lt;f3&gt;Yes&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T192529Z" creationid="olex" creationdate="20181128T192529Z">
+        <seg>&lt;f0&gt;КодКоллекции&lt;/f0&gt;: измените &lt;f1&gt;Автозначение&lt;/f1&gt; с &lt;f2&gt;Нет&lt;/f2&gt; на &lt;f3&gt;Да&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Column type&lt;/f0&gt; – select a column in the preview window and select the data type to be applied the imported data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T181303Z" creationid="olex" creationdate="20180330T194022Z">
@@ -1302,6 +1342,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T184233Z" creationid="olex" creationdate="20180328T184233Z">
         <seg>&lt;f0&gt;Данные&lt;/f0&gt; - содержит команды для управления данными в электронной таблице; например, &lt;f1&gt;Выбрать диапазон...&lt;/f1&gt;, &lt;f2&gt;Сортировка...&lt;/f2&gt;, Фильтры, &lt;f3&gt;Статистика, Сводная таблица, Объединить, Форма..., Группа и структура.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Date Purchased&lt;/f0&gt;: &lt;f1&gt;Field type&lt;/f1&gt;: default date setting.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T193425Z" creationid="olex" creationdate="20181128T193425Z">
+        <seg>&lt;f0&gt;ДатаЗаказа&lt;/f0&gt;: &lt;f1&gt;Тип поля&lt;/f1&gt;: установите Дата по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1566,6 +1614,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T080147Z" creationid="olex" creationdate="20180901T080147Z">
         <seg>&lt;f0&gt;Введите имя для изображения в поле &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Имя файла&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Entry required&lt;/f0&gt;: Leave &lt;f1&gt;Entry required&lt;/f1&gt; as &lt;f2&gt;No&lt;/f2&gt;, unless all of your music is in albums.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T192940Z" creationid="olex" creationdate="20181128T192940Z">
+        <seg>&lt;f0&gt;Обязательное&lt;/f0&gt;: оставьте &lt;f1&gt;Обязательное&lt;/f1&gt; как &lt;f2&gt;Нет&lt;/f2&gt;, если только ваша музыка не находится в альбомах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2258,6 +2314,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T091855Z" creationid="olex" creationdate="20180414T142733Z">
         <seg>&lt;f0&gt;Влево&lt;/f0&gt; – создает ряд, идущий справа налево в выбранном диапазоне ячеек с использованием заданного приращения до конечного значения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Length&lt;/f0&gt;: Unless you have an album title that exceeds 100 characters counting the spaces, do not change the length.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T193044Z" creationid="olex" creationdate="20181128T193044Z">
+        <seg>&lt;f0&gt;Длина&lt;/f0&gt;: Если у вас нет названия альбома, которое превышает 100 символов, включая пробелы, то не изменяйте длину.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3086,8 +3150,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Step 2: &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Set field types and formats&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181128T190456Z" creationid="olex" creationdate="20181128T190456Z">
-        <seg>&lt;f0&gt;Шаг 2: &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Set field types and formats&lt;/f2&gt;</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T192721Z" creationid="olex" creationdate="20181128T190456Z">
+        <seg>&lt;f0&gt;Шаг 2: &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Задать типы и форматы полей&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4189,6 +4253,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180829T185603Z" creationid="olex" creationdate="20180829T185603Z">
         <seg>&lt;f2&gt;&lt;/f2&gt;Хотя язык программирования&lt;f3&gt;&lt;/f3&gt; &lt;f4&gt;&lt;/f4&gt; один и тот же, но объекты и методы различны  &lt;f5&gt;и поэтому они не полностью совместимы.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f2&gt;Entry required&lt;/f2&gt; should be No.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T193518Z" creationid="olex" creationdate="20181128T193518Z">
+        <seg>&lt;f2&gt;Обязательное&lt;/f2&gt; должно быть Нет.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9723,6 +9795,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180502T193053Z" creationid="olex" creationdate="20180502T193053Z">
         <seg>По умолчанию, &lt;f0&gt;все&lt;/f0&gt; ячейки помечены флажком &lt;f1&gt;Защищено&lt;/f1&gt; (Рисунок &lt;t2&gt;35&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, &lt;f4&gt;Entry required&lt;/f4&gt; is set to &lt;f5&gt;No&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T192420Z" creationid="olex" creationdate="20181128T192420Z">
+        <seg>По умолчанию, &lt;f4&gt;Обязательное&lt;/f4&gt; установлено на &lt;f5&gt;Нет&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26376,6 +26456,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Base the maximum length of each field must be specified on creation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T193602Z" creationid="olex" creationdate="20181128T193602Z">
+        <seg>В базе максимальная длина каждого поля должна быть указана при создании.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Calc it shows Sheets, Range Names, Database Ranges, Graphics, Drawing Objects, and other items.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T180111Z" creationid="olex" creationdate="20180621T180111Z">
@@ -28552,6 +28640,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181019T182703Z" creationid="olex" creationdate="20181019T182703Z">
         <seg>Хорошей практикой является вставка текста без форматирования и последующее его форматирование.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is not easy to change this later, so if in doubt specify a greater length.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T193629Z" creationid="olex" creationdate="20181128T193629Z">
+        <seg>Нелегко изменить это позже, поэтому, если сомневаетесь, то укажите большую длину.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38751,6 +38847,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T071240Z" creationid="olex" creationdate="20180915T071240Z">
         <seg>Начиная с LibreOffice 5.1, Кнопки просмотра не отображаются по умолчанию; но их можно активировать, выбрав в меню &lt;f7&gt;Вид &gt; Вкладки режимов&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since music always has artists, set &lt;f1&gt;Entry Required&lt;/f1&gt; to &lt;f2&gt;Yes&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T193234Z" creationid="olex" creationdate="20181128T193234Z">
+        <seg>Поскольку у музыки всегда есть авторы, то установите &lt;f1&gt;Обязательное&lt;/f1&gt; на &lt;f2&gt;Да&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
