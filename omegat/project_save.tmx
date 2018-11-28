@@ -25518,6 +25518,22 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you make a mistake in selecting fields, click on the field name in the &lt;f0&gt;Selected fields&lt;/f0&gt; list and use the &lt;f1&gt;&lt;&lt;/f1&gt; button to move it from the &lt;f2&gt;Selected fields&lt;/f2&gt; list back to the &lt;f3&gt;Available fields&lt;/f3&gt; list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T185904Z" creationid="olex" creationdate="20181128T185904Z">
+        <seg>Если вы допустили ошибку при выборе полей, щелкните имя поля в списке &lt;f0&gt;Выбранные поля&lt;/f0&gt; и используйте кнопку &lt;f1&gt;&lt;&lt;/f1&gt; , чтобы переместить его из списка &lt;f2&gt;Выбранные поля&lt;/f2&gt; обратно, в список &lt;f3&gt;Доступные поля&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you make a mistake in the order of the selected fields, &lt;f0&gt;click&lt;/f0&gt; on the field name that is in the wrong order and use the &lt;f1&gt;Up&lt;/f1&gt; or &lt;f2&gt;Down arrow&lt;/f2&gt; on the right side of the Selected fields list to move the field name to the correct position.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T190255Z" creationid="olex" creationdate="20181128T190255Z">
+        <seg>Если вы допустили ошибку в порядке выбранных полей, &lt;f0&gt;нажмите&lt;/f0&gt; на имя поля, которое находится в не по порядку, и используйте стрелки &lt;f1&gt;Вверх&lt;/f1&gt; или &lt;f2&gt;Вниз&lt;/f2&gt;, чтобы переместить имя поля в правильное положение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you make any changes to a template and its styles, the next time you open a document that was created from the template before the changes, a confirmation message is displayed.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T193251Z" creationid="olex" creationdate="20180311T193251Z">
