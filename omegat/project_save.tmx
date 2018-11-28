@@ -3076,6 +3076,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Step 2: &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Set field types and formats&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T190456Z" creationid="olex" creationdate="20181128T190456Z">
+        <seg>&lt;f0&gt;Шаг 2: &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Set field types and formats&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Style&lt;/f0&gt; are a set of formats that you can apply to selected pages, text, frames, and other elements in your document to quickly change their appearance.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180919T173925Z" creationid="olex" creationdate="20180919T173925Z">
@@ -11360,6 +11368,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Next&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T190316Z" creationid="olex" creationdate="20181128T190316Z">
+        <seg>Нажмите &lt;f0&gt;Далее &gt;&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;OK.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T181348Z" creationid="olex" creationdate="20180508T181348Z">
@@ -17828,6 +17844,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Selecting fields for the table</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T190355Z" creationid="olex" creationdate="20181128T190355Z">
+        <seg>Рисунок &lt;seq0&gt;2&lt;/seq0&gt;: Выбранные поля для таблицы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Setting general options for LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T162713Z" creationid="olex" creationdate="20180624T162713Z">
@@ -18120,6 +18144,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T191217Z" creationid="olex" creationdate="20180329T191217Z">
         <seg>Рисунок &lt;seq0&gt;3&lt;/seq0&gt;: Строка состояния Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Changing field types</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T190555Z" creationid="olex" creationdate="20181128T190555Z">
+        <seg>Рисунок &lt;seq0&gt;3&lt;/seq0&gt;: Изменение типов полей</seg>
       </tuv>
     </tu>
     <tu>
@@ -27638,6 +27670,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T180252Z" creationid="olex" creationdate="20181013T180252Z">
         <seg>В этом разделе мы начнем добавлять новые слайды и готовить их для предполагаемого содержимого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this step you give the fields their properties.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T191016Z" creationid="olex" creationdate="20181128T191016Z">
+        <seg>На этом этапе вы задаете полям их свойства.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52608,6 +52648,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you click a field, the information on the right changes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T191451Z" creationid="olex" creationdate="20181128T191451Z">
+        <seg>Когда вы нажимаете поле, то информация справа изменяется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you click on the selected object, its outline will appear briefly through the objects covering it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181116T190951Z" creationid="olex" creationdate="20181116T190951Z">
@@ -56855,6 +56903,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T182011Z" creationid="olex" creationdate="20180327T181749Z">
         <seg>возможности</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>field types and formats</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T190411Z" creationid="olex" creationdate="20181128T190411Z">
+        <seg>типы полей и форматы</seg>
       </tuv>
     </tu>
     <tu>
