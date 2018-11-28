@@ -15754,6 +15754,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each field has a &lt;f0&gt;Field Type&lt;/f0&gt;, which must be specified.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T194943Z" creationid="olex" creationdate="20181128T194943Z">
+        <seg>Каждое поле имеет &lt;f0&gt;Тип поля&lt;/f0&gt;, который должен быть указан.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each field of a table contains information of a single type.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181126T181509Z" creationid="olex" creationdate="20181126T181509Z">
@@ -24777,6 +24785,22 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T183735Z" creationid="olex" creationdate="20180621T183735Z">
         <seg>Если документ не был сохранен после внесения последнего изменения, то отобразится окно сообщения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the field is going to have general information in it (for example, a name or a description), use text.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T195126Z" creationid="olex" creationdate="20181128T195126Z">
+        <seg>Если в этом поле будет содержаться общая информация (например, имя или описание), то используйте тип поля Текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the field will always contain a number (for example, a price), the type should be decimal or another numerical field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T195207Z" creationid="olex" creationdate="20181128T195207Z">
+        <seg>Если поле всегда будет содержать число (например, цена), то тип поля должен быть десятичным или другим числовым полем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44280,6 +44304,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The wizard picks the right field type, so to get an idea of how this works, see what the wizard has chosen for different fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T195233Z" creationid="olex" creationdate="20181128T195233Z">
+        <seg>Мастер выбирает правильный тип поля, поэтому, чтобы понять, как это работает, посмотрите, что мастер выбрал для разных полей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The word and character count of the document is shown in the Status Bar, and is kept up to date as you &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;work&lt;/f2&gt;&lt;te3/&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T161840Z" creationid="olex" creationdate="20180721T161840Z">
@@ -50043,6 +50075,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Types include text, integer, date, and decimal.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T195024Z" creationid="olex" creationdate="20181128T195024Z">
+        <seg>Типы включают текст, целое число, дату и десятичное.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>денкин: немного обобщил, убрав указательный тон, как мне кажется - правильно</note>
       <tuv lang="EN-US">
         <seg>Typically you might place it on or near an object you refer to in the comment.</seg>
@@ -52967,6 +53007,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T115300Z" creationid="olex" creationdate="20181110T113153Z">
         <seg>Когда вы закончите ввод текста, нажмите вне текстовой врезки, чтобы закончить вставку или редактирование текста.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you have finished, click &lt;f0&gt;Next&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T194738Z" creationid="olex" creationdate="20181128T194738Z">
+        <seg>Когда вы закончите, нажмите &lt;f0&gt;Далее &gt;&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
