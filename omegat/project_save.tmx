@@ -1066,8 +1066,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Category&lt;/f0&gt;: Select &lt;f1&gt;Personal&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181126T184303Z" creationid="olex" creationdate="20181126T184303Z">
-        <seg>&lt;f0&gt;Категория&lt;/f0&gt;: выберите &lt;f1&gt;Личные&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T183356Z" creationid="olex" creationdate="20181126T184303Z">
+        <seg>В &lt;f0&gt;Категория&lt;/f0&gt;: выберите &lt;f1&gt;Личные&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2798,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Sample tables&lt;/f0&gt;: Select &lt;f1&gt;CD-Collection&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T183418Z" creationid="olex" creationdate="20181128T183352Z">
+        <seg>В &lt;f0&gt;Примеры таблиц&lt;/f0&gt;: выберите &lt;f1&gt;CD-Коллекция&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Save All&lt;/f0&gt; - use to save all the files open in your current session.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T182621Z" creationid="olex" creationdate="20180617T182621Z">
@@ -2874,6 +2882,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180718T184501Z" creationid="olex" creationdate="20180718T184501Z">
         <seg>&lt;f0&gt;Выберите в меню&lt;/f0&gt;&lt;te1/&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Таблица &gt; Стили автоформата...&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;ts6/&gt;&lt;f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Selected fields&lt;/f0&gt;: Using the &lt;f1&gt;&gt;&lt;/f1&gt; button, move the following fields from the &lt;f2&gt;Available fields &lt;/f2&gt;window to the &lt;f3&gt;Selected fields&lt;/f3&gt; window in this order: &lt;f4&gt;CollectionID, AlbumTitle, Artist, DatePurchased, Format, Notes, &lt;/f4&gt;and &lt;f5&gt;NumberofTracks&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T184232Z" creationid="olex" creationdate="20181128T184232Z">
+        <seg>&lt;f0&gt;Выбранные поля&lt;/f0&gt;: с помощью кнопки &lt;f1&gt;&gt;&lt;/f1&gt;, переместите следующие поля из окна &lt;f2&gt;Доступные поля&lt;/f2&gt; в окно &lt;f3&gt;Выбранные поля&lt;/f3&gt; в следующем порядке: &lt;f4&gt;КодКоллекции, НазваниеАльбома, Артист, ДатаЗаказа, Формат, Примечания, &lt;/f4&gt;и &lt;f5&gt;КоличествоКомпозиций&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40280,6 +40296,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;f2&gt;Available fields&lt;/f2&gt; box changes to a list of available fields for this table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T183610Z" creationid="olex" creationdate="20181128T183610Z">
+        <seg>Список &lt;f2&gt;Доступные поля&lt;/f2&gt; покажет поля доступные для этой таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;f2&gt;Enter&lt;/f2&gt; key can also be used to switch into and out of editing mode.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T201557Z" creationid="olex" creationdate="20180404T201557Z">
@@ -44019,6 +44043,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181010T190323Z" creationid="olex" creationdate="20181010T190323Z">
         <seg>Виды рабочей области описаны в разделе «&lt;bf0&gt;Виды рабочей области&lt;/bf0&gt;» на странице &lt;bf1&gt;9&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The&lt;f2&gt; Sample Tables&lt;/f2&gt; drop down list changes to a list of personal sample tables.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T183335Z" creationid="olex" creationdate="20181128T182714Z">
+        <seg>Выпадающий список &lt;f2&gt;Примеры таблиц&lt;/f2&gt; изменится на список примеров личных таблиц.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51607,8 +51639,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>We will use the &lt;f0&gt;CD-Collection&lt;/f0&gt; Sample table in the Personal category and Employees in the Business category to select the fields we need.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181126T184234Z" creationid="olex" creationdate="20181126T184234Z">
-        <seg>Мы будем использовать таблицу примеров &lt;f0&gt;Коллекция CD&lt;/f0&gt;, в категории Личные, и Служащие, в категории Бизнес, для выбора полей, которые нам нужны.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T183157Z" creationid="olex" creationdate="20181126T184234Z">
+        <seg>Мы будем использовать таблицы из примеров: &lt;f0&gt;CD-Коллекция&lt;/f0&gt;, в категории Личные, и &lt;f0&gt;Работники&lt;/f0&gt;, в категории Деловые, для выбора полей, которые нам нужны.</seg>
       </tuv>
     </tu>
     <tu>
