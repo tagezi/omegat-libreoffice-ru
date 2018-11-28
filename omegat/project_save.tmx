@@ -2886,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Selected Fields from another sample &lt;/f0&gt;table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T184321Z" creationid="olex" creationdate="20181128T184321Z">
+        <seg>&lt;f0&gt;Выбранные поля из другой таблицы-примера&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Selected fields&lt;/f0&gt;: Using the &lt;f1&gt;&gt;&lt;/f1&gt; button, move the following fields from the &lt;f2&gt;Available fields &lt;/f2&gt;window to the &lt;f3&gt;Selected fields&lt;/f3&gt; window in this order: &lt;f4&gt;CollectionID, AlbumTitle, Artist, DatePurchased, Format, Notes, &lt;/f4&gt;and &lt;f5&gt;NumberofTracks&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181128T184232Z" creationid="olex" creationdate="20181128T184232Z">
@@ -11748,6 +11756,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T104037Z" creationid="olex" creationdate="20180815T104037Z">
         <seg>Нажмите &lt;f7&gt;ОК&lt;/f7&gt;, чтобы сохранить изменения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Business as the Category.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T184354Z" creationid="olex" creationdate="20181128T184354Z">
+        <seg>Нажмите категорию Деловые</seg>
       </tuv>
     </tu>
     <tu>
@@ -28757,6 +28773,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It will be at the bottom of the list directly below the &lt;f6&gt;NumberofTracks&lt;/f6&gt; field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T185157Z" creationid="olex" creationdate="20181128T185157Z">
+        <seg>Он будет расположен в нижней части списка непосредственно под полем &lt;f6&gt;КоличествоКомпозиций&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It will contain a field for the names of the authors and another field for the names of the books.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181124T185222Z" creationid="olex" creationdate="20181124T185222Z">
@@ -36920,6 +36944,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180319T190857Z" creationid="olex" creationdate="20180307T204101Z">
         <seg>Выберите &lt;f0&gt;Вид &gt; Стили&lt;/f0&gt; или &lt;f1&gt;Стили &gt; Управление стилями&lt;/f1&gt; на панели меню, или нажмите &lt;f2&gt;F11&lt;/f2&gt; (&lt;f3&gt;⌘+T &lt;/f3&gt;для Mac), или нажмите значок Стили на боковой панели (&lt;f4&gt;Вид &gt; Боковая панель&lt;/f4&gt; чтобы открыть ее).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f1&gt;Employees&lt;/f1&gt; from the drop down list of sample tables.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T184459Z" creationid="olex" creationdate="20181128T184459Z">
+        <seg>Выберите &lt;f1&gt;Работники&lt;/f1&gt; из выпадающего списка таблиц-примеров.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50325,6 +50357,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T175533Z" creationid="olex" creationdate="20180416T175533Z">
         <seg>Удерживайте клавишу &lt;f0&gt;Shift&lt;/f0&gt; или &lt;f1&gt;Ctrl&lt;/f1&gt; (&lt;f2&gt;Options&lt;/f2&gt; на Mac), чтобы выбрать несколько листов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the &lt;f2&gt;&gt;&lt;/f2&gt; button to move the &lt;f3&gt;Photo&lt;/f3&gt; field from the &lt;f4&gt;Available fields&lt;/f4&gt; window to the &lt;f5&gt;Selected fields&lt;/f5&gt; window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181128T184830Z" creationid="olex" creationdate="20181128T184830Z">
+        <seg>С помощью кнопки &lt;f2&gt;&gt;&lt;/f2&gt; переместите поле &lt;f3&gt;Фотография&lt;/f3&gt; из окна &lt;f4&gt;Доступные поля&lt;/f4&gt; в окно &lt;f5&gt;Выбранные поля&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
