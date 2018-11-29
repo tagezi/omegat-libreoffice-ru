@@ -5764,6 +5764,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A &lt;i0/&gt;primary key uniquely identifies an item (or record) in the table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T190924Z" creationid="olex" creationdate="20181129T190924Z">
+        <seg>&lt;i0/&gt;Первичный ключ это уникальный идентификатор элемента (или записи) в таблице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A &lt;i0/&gt;temporary grouping is when several objects are selected using the Select icon on the Drawing toolbar or using the mouse to drag a rectangle around the objects (also known as a marquee).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181124T114955Z" creationid="olex" creationdate="20181124T114606Z">
@@ -15786,6 +15794,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each entry has one number and every number is different, so it is easy to say “record ID 172”.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T191412Z" creationid="olex" creationdate="20181129T191412Z">
+        <seg>Каждая запись будет иметь свой номер, отличный от других, поэтому легко будет сказать «запись ID 172».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each field has a &lt;f0&gt;Field Type&lt;/f0&gt;, which must be specified.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181128T194943Z" creationid="olex" creationdate="20181128T194943Z">
@@ -20447,6 +20463,14 @@ denkin: по смыслу как то не могу вписать "озадач
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, you might know two people called “Randy Herring” or three people living at the same address and the database needs to distinguish between them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T191158Z" creationid="olex" creationdate="20181129T191158Z">
+        <seg>Например, вы можете знать двух человек, которых зовут Рэнди Херринг, или трех человек, живущих по одному адресу, но база данных должна различать их.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, you might name a modified Heading 1 style for an annual report &lt;f0&gt;AR Heading 1&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T201610Z" creationid="olex" creationdate="20180309T201610Z">
@@ -21264,6 +21288,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181020T095820Z" creationid="olex" creationdate="20181020T095820Z">
         <seg>Для всего списка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For this example, make no changes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T191814Z" creationid="olex" creationdate="20181129T191814Z">
+        <seg>В нашем примере: не делайте никаких изменений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24437,6 +24469,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If desired, rename the table at this point.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T191634Z" creationid="olex" creationdate="20181129T191634Z">
+        <seg>При необходимости переименуйте таблицу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If disabled, your standard printer will be used to print this document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T170702Z" creationid="olex" creationdate="20180707T170535Z">
@@ -25899,6 +25939,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T182722Z" creationid="olex" creationdate="20180628T182722Z">
         <seg>Если вы записываете изменения, сохраняете несколько версий, или включаете скрытую информацию или заметки в свои документы, и вы не хотите, чтобы некоторые из получателей видели эту информацию, то вы можете установить предупреждения, чтобы напоминать вам об их удалении, или вы можете задать LibreOffice удалять некоторые из них автоматически.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you rename it, make the name meaningful to you.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T191718Z" creationid="olex" creationdate="20181129T191718Z">
+        <seg>Если вы делаете это, то сделайте имя понятным для вас.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39774,6 +39822,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 4: Create the table</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T191608Z" creationid="olex" creationdate="20181129T191608Z">
+        <seg>Шаг 4: Создать таблицу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stop recording the macro and save the macro, see “&lt;bf0&gt;Recording a macro&lt;/bf0&gt;” on page &lt;bf1&gt;6&lt;/bf1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T072549Z" creationid="tagezi" creationdate="20180319T072549Z">
@@ -43910,6 +43966,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The simplest method is to assign a unique number to each one: number the first person 1, the second 2, and so on.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T191304Z" creationid="olex" creationdate="20181129T191304Z">
+        <seg>Самый простой способ - присвоить каждому уникальный номер: номер для первого человека 1, второго 2 и т.д.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sizes are given in the current measurement unit (not to be confused with the ruler units).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T084612Z" creationid="olex" creationdate="20180915T084612Z">
@@ -45736,6 +45800,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180306T100655Z" creationid="tagezi" creationdate="20180306T100655Z">
         <seg>Это первая линия поддержки использования LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the option chosen here: CollectionID is just a number assigned automatically by Base to each record of this table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T191512Z" creationid="olex" creationdate="20181129T191512Z">
+        <seg>Это опция, выбранная здесь для КодКоллекции - просто номер, автоматически назначаемый базой для каждой записи в этой таблице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58072,6 +58144,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181129T190130Z" creationid="olex" creationdate="20181129T190130Z">
         <seg>первичный ключ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>primary key (database)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T190826Z" creationid="olex" creationdate="20181129T190826Z">
+        <seg>первичный ключ (база данных)</seg>
       </tuv>
     </tu>
     <tu>
