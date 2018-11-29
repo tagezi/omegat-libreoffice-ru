@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See Caution below for the reason why.) Click &lt;f0&gt;Create&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T193506Z" creationid="olex" creationdate="20181129T193506Z">
+        <seg>(Смотрите Предостережение ниже, объясняющее почему.) Нажмите &lt;f0&gt;Готово&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(See Figure &lt;t0&gt;3&lt;/t0&gt;.) You can then make changes to meet your needs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181128T191601Z" creationid="olex" creationdate="20181128T191601Z">
@@ -10561,6 +10569,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change the table name to &lt;f0&gt;CD-Jazz&lt;/f0&gt; and click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T193030Z" creationid="olex" creationdate="20181129T193030Z">
+        <seg>Измените имя таблицы на &lt;f0&gt;CD-Джаз&lt;/f0&gt; и нажмите &lt;f1&gt;Далее &gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change tracking during revisions</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T155937Z" creationid="olex" creationdate="20180721T155937Z">
@@ -11209,6 +11225,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose &lt;f1&gt;Copy&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T192725Z" creationid="olex" creationdate="20181129T192725Z">
+        <seg>Выберите в контекстном меню &lt;f1&gt;Копировать&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose &lt;f1&gt;Edit &gt; Track Changes &gt; Compare Document&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181002T182211Z" creationid="olex" creationdate="20181002T182211Z">
@@ -11485,6 +11509,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T192532Z" creationid="olex" creationdate="20180402T192532Z">
         <seg>Нажмите &lt;f0&gt;Сохранить&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Finish&lt;/f0&gt; to complete the table wizard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T191942Z" creationid="olex" creationdate="20181129T191942Z">
+        <seg>Нажмите &lt;f0&gt;Готово&lt;/f0&gt; для завершения работы мастера таблиц.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12322,6 +12354,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the &lt;f0&gt;Tables&lt;/f0&gt; icon in the Database pane to see the existing tables.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T192602Z" creationid="olex" creationdate="20181129T192602Z">
+        <seg>Нажмите значок &lt;f0&gt;Таблицы&lt;/f0&gt; на панели База данных, чтобы увидеть существующие таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the &lt;f0&gt;Text&lt;/f0&gt; icon on the Standard or Text toolbar or use the keyboard shortcut &lt;f1&gt;F2&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181017T182018Z" creationid="olex" creationdate="20181017T174518Z">
@@ -12635,6 +12675,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;&gt;&gt;&lt;/f0&gt; button to move all the fields from the left box to the right box and click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T193211Z" creationid="olex" creationdate="20181129T193211Z">
+        <seg>Нажмите кнопку &lt;f0&gt;&gt;&gt;&lt;/f0&gt;, чтобы переместить все поля из левой части окна в правую и нажмите &lt;f1&gt;Далее &gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;f0&gt;Action&lt;/f0&gt; button of the Templates dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T204320Z" creationid="olex" creationdate="20180313T204320Z">
@@ -12807,6 +12855,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180617T183012Z" creationid="olex" creationdate="20180617T183012Z">
         <seg>Нажмите &lt;f0&gt;значок&lt;/f0&gt; &lt;f1&gt;Сохранить&lt;/f1&gt; на панели инструментов Стандартная.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Save&lt;/f0&gt; button at the top of the main database window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T193605Z" creationid="olex" creationdate="20181129T193605Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Сохранить&lt;/f0&gt; в верхней части главного окна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Save&lt;/f0&gt; button at the top of the main window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T192231Z" creationid="olex" creationdate="20181129T192231Z">
+        <seg>Нажмите кнопку &lt;f0&gt;Сохранить&lt;/f0&gt; в верхней части главного окна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13146,6 +13210,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T201053Z" creationid="olex" creationdate="20180313T201053Z">
         <seg>Закройте старый файл без сохранения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close the window created by the table wizard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T192012Z" creationid="olex" creationdate="20181129T192012Z">
+        <seg>Закройте окно, созданное мастером таблицы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23989,6 +24061,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, this is the time and place to make any changes if they are needed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T193343Z" creationid="olex" creationdate="20181129T193254Z">
+        <seg>Однако, если изменения необходимы, то то самое время их внести.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, this method can cause problems with documents of non-trivial size or complexity, especially if you save a lot of versions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181002T182317Z" creationid="olex" creationdate="20181002T182317Z">
@@ -25658,6 +25738,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180314T182641Z" creationid="User" creationdate="20180314T182641Z">
         <seg>Если нужно часто вставлять формулы в документы, можно добавить значко Формула на Стандартную панель инструментов или создать сочетание клавиш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have a large collection of music, you might want to create a table for each type of music you have.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T192328Z" creationid="olex" creationdate="20181129T192328Z">
+        <seg>Если у вас есть большая коллекция музыки, то вам может понадобиться таблица для каждого стиля музыки, которая у вас есть.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29342,6 +29430,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leave the option &lt;f0&gt;Insert data immediately&lt;/f0&gt; checked.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T191914Z" creationid="olex" creationdate="20181129T191914Z">
+        <seg>Оставьте флажок &lt;f0&gt;Немедленно вставить данные&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Left arrow promotes a list entry by one level (for example from Outline 3 to Outline 2).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181019T185306Z" creationid="olex" creationdate="20181019T184848Z">
@@ -31490,6 +31586,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the mouse pointer below this table, right-click, and select &lt;f0&gt;Paste&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T192845Z" creationid="olex" creationdate="20181129T192845Z">
+        <seg>Переместите указатель мыши ниже этой таблицы, нажмите правой кнопкой мыши и выберите &lt;f0&gt;Вставить&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the mouse pointer over the sheet tab for the last desired sheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T185034Z" creationid="olex" creationdate="20180405T185034Z">
@@ -32403,6 +32507,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notice that a table named “CD-Collection” is now listed in the Tables portion of the window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T192155Z" creationid="olex" creationdate="20181129T192155Z">
+        <seg>Обратите внимание, что таблица с названием «CD-Коллекция» теперь указана в части окна Таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now highlight the selection, using mouse or keyboard, as shown below.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T185156Z" creationid="olex" creationdate="20180730T185117Z">
@@ -33082,6 +33194,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181101T195307Z" creationid="olex" creationdate="20181101T195307Z">
         <seg>На вашем телефоне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once tables have been created using the wizard, and data has been entered, editing a table should be very limited.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T193655Z" creationid="olex" creationdate="20181129T193655Z">
+        <seg>После того, как таблицы были созданы с помощью мастера и данные в них были внесены, редактирование таблицы должно быть очень ограниченным.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35203,6 +35323,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rather than creating each table from the wizard, you can make copies of the original table, naming each according to the type of music contained in it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T192457Z" creationid="olex" creationdate="20181129T192457Z">
+        <seg>Вместо того, чтобы создавать каждую таблицу с помощью мастера, вы можете делать копии исходной таблицы, называя их в соответствии с типом музыки, содержащейся в ней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rather than having to create a new presentation, you can use two tools that Impress offers: hiding slides and custom slide shows.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181031T182511Z" creationid="olex" creationdate="20181031T181830Z">
@@ -35951,6 +36079,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181025T183005Z" creationid="olex" creationdate="20181025T182939Z">
         <seg>Для этого нажмите слайд на панели Слайды правой кнопкой мыши и выберите в контекстном меню &lt;f0&gt;Переименовать мастер&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-click on the&lt;f0&gt; CD-Collection&lt;/f0&gt; table icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T192656Z" creationid="olex" creationdate="20181129T192656Z">
+        <seg>Нажмите правой кнопкой мыши значок таблицы &lt;f0&gt;CD-Коллекция&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39012,6 +39148,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since all the fields already have the proper Field type, no changes should be needed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T193302Z" creationid="olex" creationdate="20181129T193241Z">
+        <seg>Поскольку все поля уже имеют определенный тип поля, то изменений не требуется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since music always has artists, set &lt;f1&gt;Entry Required&lt;/f1&gt; to &lt;f2&gt;Yes&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181128T193234Z" creationid="olex" creationdate="20181128T193234Z">
@@ -40861,6 +41005,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T184302Z" creationid="olex" creationdate="20180628T184302Z">
         <seg>Параметр Путь сертификата доступен только в системах Linux и Mac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Copy table dialog opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T192949Z" creationid="olex" creationdate="20181129T192949Z">
+        <seg>Откроется диалоговое окно Копирование.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43320,6 +43472,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181019T191604Z" creationid="olex" creationdate="20181019T191604Z">
         <seg>Новый абзац будет иметь тот же отступ, что и предыдущая строка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The new table is created.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T193532Z" creationid="olex" creationdate="20181129T193532Z">
+        <seg>Будет создана новая таблица.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54085,6 +54245,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are now back to the main window of the database with the listing of the tables, queries, forms, and reports.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T192046Z" creationid="olex" creationdate="20181129T192046Z">
+        <seg>Так вы возвратитесь в главное окно базы данных со списком таблиц, запросов, форм и отчетов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can &lt;f0&gt;manually&lt;/f0&gt; apply many &lt;f1&gt;direct&lt;/f1&gt; formats to paragraphs using the buttons on the Formatting toolbar and by using the Paragraph panel of the Sidebar’s Properties deck.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T172858Z" creationid="olex" creationdate="20180809T172858Z">
@@ -54129,6 +54297,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T183940Z" creationid="olex" creationdate="20181110T183934Z">
         <seg>Вы можете добавить больше точек соединения и настроить их, используя панель инструментов &lt;f3&gt;Точки соединения&lt;/f3&gt; (Рисунок &lt;t4&gt;17&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can add or delete fields, but adding a field requires you to enter the data for that one field for every existing record with an entry for that field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T193759Z" creationid="olex" creationdate="20181129T193759Z">
+        <seg>Вы можете добавлять или удалять поля, но при добавлении поля потребуется ввести данные в это поле для каждой существующей записи.</seg>
       </tuv>
     </tu>
     <tu>
