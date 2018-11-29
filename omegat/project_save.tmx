@@ -1290,6 +1290,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Create a primary key&lt;/f0&gt; should be checked.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T190310Z" creationid="olex" creationdate="20181129T190310Z">
+        <seg>Необходимо &lt;f0&gt;Создать первичный ключ&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Creating &lt;/f0&gt;nested lists</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T165044Z" creationid="olex" creationdate="20180811T165044Z">
@@ -3185,6 +3193,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181128T192721Z" creationid="olex" creationdate="20181128T190456Z">
         <seg>&lt;f0&gt;Шаг 2: &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Задать типы и форматы полей&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Step 3: &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Set primary key&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T190157Z" creationid="olex" creationdate="20181129T190157Z">
+        <seg>&lt;f0&gt;Шаг 3: &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Задать первичный ключ&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10961,6 +10977,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check &lt;f0&gt;Auto value&lt;/f0&gt; if it is not already checked.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T190741Z" creationid="olex" creationdate="20181129T190741Z">
+        <seg>Установите флажок &lt;f0&gt;Автомат. значение&lt;/f0&gt;, если он еще не установлен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checkbox (more than one can be selected at a time).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T150152Z" creationid="tagezi" creationdate="20180310T145940Z">
@@ -11781,6 +11805,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T093149Z" creationid="olex" creationdate="20180415T093149Z">
         <seg>Нажмите &lt;f1&gt;Копировать&lt;/f1&gt;, чтобы создать из диапазона список сортировки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T190813Z" creationid="olex" creationdate="20181129T190813Z">
+        <seg>Нажмите &lt;f1&gt;Далее &gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27323,6 +27355,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the &lt;f0&gt;Fieldname drop down&lt;/f0&gt; list, select &lt;f1&gt;CollectionID&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T190601Z" creationid="olex" creationdate="20181129T190601Z">
+        <seg>В раскрывающемся списке &lt;f0&gt;Имя поля&lt;/f0&gt;, выберите &lt;f1&gt;КодКоллекции&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the &lt;f0&gt;File type&lt;/f0&gt; drop-down menu, select the type of spreadsheet format you want to use.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181008T182003Z" creationid="olex" creationdate="20181008T182003Z">
@@ -37475,6 +37515,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180308T153418Z" creationid="olex" creationdate="20180307T205008Z">
         <seg>Нажмите одну из кнопок в левом верхнем углу окна Стили, чтобы отобразить список стилей в этой категории.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select option &lt;f0&gt;Use an existing field as a primary key&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T190420Z" creationid="olex" creationdate="20181129T190420Z">
+        <seg>Выберите опцию &lt;f0&gt;Использовать существующее поле как первичный ключ&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58016,6 +58064,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T175139Z" creationid="olex" creationdate="20180627T175139Z">
         <seg>просмотр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>primary key</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T190130Z" creationid="olex" creationdate="20181129T190130Z">
+        <seg>первичный ключ</seg>
       </tuv>
     </tu>
     <tu>
