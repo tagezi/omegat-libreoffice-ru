@@ -3567,6 +3567,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Unless you are sure, do not delete a table&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T194147Z" creationid="olex" creationdate="20181129T194147Z">
+        <seg>&lt;f0&gt;Если вы не уверены, то не удаляйте таблицу&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Unsaved changes&lt;/f0&gt; – a flag indicating that the file needs saving.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181010T191229Z" creationid="olex" creationdate="20181010T191229Z">
@@ -10737,6 +10745,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing the field type of a field can lead to data being lost either partially or completely.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T193907Z" creationid="olex" creationdate="20181129T193907Z">
+        <seg>Изменение типа поля поля может привести к частичной или полной потере данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changing the language for specific text enables you to use the correct dictionaries and rules to check spelling, grammar, and hyphenation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180926T175655Z" creationid="olex" creationdate="20180926T175531Z">
@@ -14567,10 +14583,26 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deleting a field deletes &lt;f0&gt;all the data &lt;/f0&gt;once contained in that field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T193829Z" creationid="olex" creationdate="20181129T193829Z">
+        <seg>При удалении поля удаляются &lt;f0&gt;все данные&lt;/f0&gt;, содержащиеся в этом поле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deleting a page break</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T180749Z" creationid="olex" creationdate="20180327T180749Z">
         <seg>Удаление разрыва страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting a table removes all of the data contained in every field of the table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T194124Z" creationid="olex" creationdate="20181129T194124Z">
+        <seg>При удалении таблицы удаляются все данные, содержащиеся в таблице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52754,6 +52786,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T163849Z" creationid="tagezi" creationdate="20180318T163849Z">
         <seg>При создании макроса важно задать два вопроса перед записью:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When creating a new table, it pays to create the fields with the correct names, length, and format before you add any data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181129T194054Z" creationid="olex" creationdate="20181129T194054Z">
+        <seg>При создании новой таблицы перед добавлением каких-либо данных необходимо создать поля с правильными именами, длиной и форматом.</seg>
       </tuv>
     </tu>
     <tu>
