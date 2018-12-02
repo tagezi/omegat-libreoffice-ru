@@ -1946,6 +1946,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;FuelID&lt;/f0&gt; field: Type &lt;f1&gt;FuelID&lt;/f1&gt; as the first Field Name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T112722Z" creationid="olex" creationdate="20181202T112722Z">
+        <seg>Поле &lt;f0&gt;ТопливоID&lt;/f0&gt;: введите &lt;f1&gt;ТопливоID&lt;/f1&gt; в качестве имени первого поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Function Wizard&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;s4/&gt;– &lt;i5/&gt;opens a dialog from which you can search through a list of available functions.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180516T185754Z" creationid="olex" creationdate="20180329T182013Z">
@@ -34922,6 +34930,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press the &lt;f2&gt;Tab&lt;/f2&gt; key to move to the Field Type column.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T112801Z" creationid="olex" creationdate="20181202T112801Z">
+        <seg>Нажмите клавишу &lt;f2&gt;Tab&lt;/f2&gt;, чтобы перейти к столбцу Тип поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press the space bar once, type the word “of” and a space, then choose &lt;f0&gt;Insert &gt; Field &gt; Page Count&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T195437Z" creationid="olex" creationdate="20180817T195437Z">
@@ -37529,6 +37545,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T181334Z" creationid="olex" creationdate="20180628T181334Z">
         <seg>Выберите &lt;f2&gt;Экран&lt;/f2&gt;, чтобы заменять только экранный шрифт и никогда не заменять шрифт для печати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f3&gt;Integer [INTEGER]&lt;/f3&gt; as the Field Type from the drop down list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T112906Z" creationid="olex" creationdate="20181202T112906Z">
+        <seg>Выберите из выпадающего списка &lt;f3&gt;Integer [INTEGER]&lt;/f3&gt; в качестве типа поля.</seg>
       </tuv>
     </tu>
     <tu>
