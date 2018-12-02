@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Many fuel pumps measure fuel to thousandths of a gallon in the USA.) &lt;f3&gt;Odometer&lt;/f3&gt;: Change the &lt;f4&gt;Length&lt;/f4&gt; to 10 and the &lt;f5&gt;Decimal places&lt;/f5&gt; to 1.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T130016Z" creationid="olex" creationdate="20181202T130016Z">
+        <seg>(Многие топливные насосы в США измеряют топливо до тысячных долей галлона.) &lt;f3&gt;Одометр&lt;/f3&gt;: измените &lt;f4&gt;Длину&lt;/f4&gt; на 10 и &lt;f5&gt;Знаков после запятой&lt;/f5&gt; на 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Many pages no longer use these tags.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T191342Z" creationid="olex" creationdate="20180711T191342Z">
@@ -1978,10 +1986,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;FuelCost&lt;/f0&gt;: Change the Length to 5 and Decimal places to 2.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T125309Z" creationid="olex" creationdate="20181202T125309Z">
+        <seg>&lt;f0&gt;ЦенаТоплива&lt;/f0&gt;: измените Длину на 5 и Знаков после запятой на 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;FuelID&lt;/f0&gt; field: Type &lt;f1&gt;FuelID&lt;/f1&gt; as the first Field Name.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181202T112722Z" creationid="olex" creationdate="20181202T112722Z">
         <seg>Поле &lt;f0&gt;ТопливоID&lt;/f0&gt;: введите &lt;f1&gt;ТопливоID&lt;/f1&gt; в качестве имени первого поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;FuelQuantity&lt;/f0&gt;: Change &lt;f1&gt;Length&lt;/f1&gt; to 6 and &lt;f2&gt;Decimal places&lt;/f2&gt; to 3.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T125813Z" creationid="olex" creationdate="20181202T125813Z">
+        <seg>&lt;f0&gt;КолТоплива&lt;/f0&gt;: измените &lt;f1&gt;Длину&lt;/f1&gt; на 6 и &lt;f2&gt;Знаков после запятой&lt;/f2&gt; на 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13049,6 +13073,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180926T184422Z" creationid="olex" creationdate="20180926T184422Z">
         <seg>Нажмите кнопку &lt;f1&gt;Следующее&lt;/f1&gt; или &lt;f2&gt;Предыдущее&lt;/f2&gt;, если необходимо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f1&gt;Format example&lt;/f1&gt; ellipse button (...) (Figure &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T125438Z" creationid="olex" creationdate="20181202T125438Z">
+        <seg>Нажмите кнопку справа от &lt;f1&gt;Пример формата&lt;/f1&gt; (...) (Рисунок &lt;t2&gt;5&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32259,6 +32291,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>My currency has two decimal places.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T125630Z" creationid="olex" creationdate="20181202T125630Z">
+        <seg>Моя валюта имеет два десятичных знака.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>My expenses divided into three broad areas: fuel purchases, maintenance, and vacations.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T183226Z" creationid="olex" creationdate="20181125T182254Z">
@@ -46422,6 +46462,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This opens the Field Format window (Figure &lt;t3&gt;6&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T125512Z" creationid="olex" creationdate="20181202T125512Z">
+        <seg>Откроется окно Формат поля (Рисунок &lt;t3&gt;6&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This opens the New Module dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T133833Z" creationid="tagezi" creationdate="20180313T133833Z">
@@ -51018,6 +51066,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use &lt;f4&gt;Currency&lt;/f4&gt; as the Category and your currency as the Format.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T125612Z" creationid="olex" creationdate="20181202T125612Z">
+        <seg>Используйте &lt;f4&gt;Денежный&lt;/f4&gt; в качестве Категории и вашу валюту в качестве формата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use &lt;i0/&gt;the &lt;f1&gt;LibreOffice – Security&lt;/f1&gt; page to choose security options for saving documents and for opening documents that contain macros.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T182455Z" creationid="olex" creationdate="20180628T182455Z">
@@ -51463,6 +51519,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T173257Z" creationid="olex" creationdate="20181013T173257Z">
         <seg>Используйте этот вид для работы с группой слайдов или с одним слайдом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use what is appropriate for yours.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T125642Z" creationid="olex" creationdate="20181202T125642Z">
+        <seg>Используйте то, что подходит для вас.</seg>
       </tuv>
     </tu>
     <tu>
