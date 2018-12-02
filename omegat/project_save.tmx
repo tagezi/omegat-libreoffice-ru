@@ -3030,6 +3030,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>денкин: встроенная база данных не поддерживает таких длинных имен полей на кириллице</note>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Selected fields&lt;/f0&gt;: Using the &lt;f1&gt;&gt;&lt;/f1&gt; button, move the following fields from the &lt;f2&gt;Available fields &lt;/f2&gt;window to the &lt;f3&gt;Selected fields&lt;/f3&gt; window in this order: &lt;f4&gt;CollectionID, AlbumTitle, Artist, DatePurchased, Format, Notes, &lt;/f4&gt;and &lt;f5&gt;NumberofTracks&lt;/f5&gt;.</seg>
       </tuv>
@@ -4478,6 +4479,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T164847Z" creationid="olex" creationdate="20180727T164847Z">
         <seg>&lt;f8&gt;Обратите внимание, что это работает, только когда в строке состояния активируется одностраничное представление.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;i1/&gt;Change &lt;f2&gt;AutoValue&lt;/f2&gt; from &lt;f3&gt;No&lt;/f3&gt; to &lt;f4&gt;Yes&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T121848Z" creationid="olex" creationdate="20181202T121848Z">
+        <seg>&lt;i1/&gt;Измените &lt;f2&gt;Автозначение&lt;/f2&gt; с &lt;f3&gt;Нет&lt;/f3&gt; на &lt;f4&gt;Да&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9255,6 +9264,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AutoValue</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T121652Z" creationid="olex" creationdate="20181202T121652Z">
+        <seg>Автозначение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Autocorrecting</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T110952Z" creationid="olex" creationdate="20180721T110952Z">
@@ -10565,6 +10582,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T153259Z" creationid="olex" creationdate="20180623T153259Z">
         <seg>Изменение некоторых локальных настроек и настроек языка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change the Field Properties in the bottom section.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T121807Z" creationid="olex" creationdate="20181202T121807Z">
+        <seg>Измените Свойства поля в нижней части окна.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38851,6 +38876,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set &lt;f0&gt;FuelID&lt;/f0&gt; as the &lt;f1&gt;Primary key&lt;/f1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T121949Z" creationid="olex" creationdate="20181202T121949Z">
+        <seg>Установите &lt;f0&gt;ТопливоID&lt;/f0&gt; как &lt;f1&gt;Первичный ключ&lt;/f1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set Paragraph Style</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180929T070800Z" creationid="olex" creationdate="20180929T070800Z">
@@ -55349,6 +55382,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T182253Z" creationid="olex" creationdate="20180615T182253Z">
         <seg>Вы можете настраивать панели инструментов несколькими способами, в том числе выбирать, какие значки отображать и блокировать позицию закрепленной панели инструментов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can cycle through the choices for a given letter by repeatedly pressing that key.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T121624Z" creationid="olex" creationdate="20181202T121624Z">
+        <seg>Вы можете циклически выбирать варианты для данной буквы, повторно нажимая ту же клавишу.</seg>
       </tuv>
     </tu>
     <tu>
