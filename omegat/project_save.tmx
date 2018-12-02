@@ -10498,6 +10498,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Certain of the Integer filed types (Integer and BigInt for example) have an AutoValue Field Property.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T123010Z" creationid="olex" creationdate="20181202T123010Z">
+        <seg>Определенные типы целых полей (например Целое [INTEGER] и Длинное целое [BIGINT]) имеют свойство свойства Автозначения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Certificate Path</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T183829Z" creationid="olex" creationdate="20180628T183829Z">
@@ -12166,6 +12174,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T202511Z" creationid="olex" creationdate="20180404T202440Z">
         <seg>Щелкните по ячейке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click in the Field Name cell directly below FuelID.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T122042Z" creationid="olex" creationdate="20181202T122042Z">
+        <seg>Щелкните в ячейке Имя поля непосредственно под ТопливоID.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18707,6 +18723,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180922T133204Z" creationid="olex" creationdate="20180922T133204Z">
         <seg>Рисунок &lt;seq0&gt;4&lt;/seq0&gt;: &lt;f1&gt;Вид по умолчанию&lt;/f1&gt; вкладки Свойства на Боковой панели Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Defining the primary key field</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T122706Z" creationid="olex" creationdate="20181202T122706Z">
+        <seg>Рисунок &lt;seq0&gt;4&lt;/seq0&gt;: Определение поля первичного ключа</seg>
       </tuv>
     </tu>
     <tu>
@@ -42462,6 +42486,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T174225Z" creationid="olex" creationdate="20180430T174225Z">
         <seg>Стили по умолчанию можно применять, удалять или изменять с помощью вкладки Стили в Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The dialog automatically sets FuelID as the primary key and places a key icon in front of FuelID (Figure &lt;t3&gt;4&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T122149Z" creationid="olex" creationdate="20181202T122149Z">
+        <seg>Диалоговое окно автоматически установит ТопливоID в качестве первичного ключа и поместит значок ключа перед полем ТопливоID (Рисунок &lt;t3&gt;4&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
