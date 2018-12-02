@@ -1434,6 +1434,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Description&lt;/f0&gt; can be any of the categories listed in the figure below, or can be left blank.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T130318Z" creationid="olex" creationdate="20181202T130318Z">
+        <seg>&lt;f0&gt;Описание&lt;/f0&gt; может быть для любой из категорий, перечисленных на рисунке ниже, или можно оставлено пустым.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Design&lt;/f0&gt;&lt;ts1/&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Deck&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180724T193509Z" creationid="olex" creationdate="20180724T193509Z">
@@ -18927,6 +18935,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Changing field properties</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T130122Z" creationid="olex" creationdate="20181202T130122Z">
+        <seg>Рисунок &lt;seq0&gt;5&lt;/seq0&gt;: Изменение свойств поля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Choosing general printing options to apply to all LibreOffice components</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T171558Z" creationid="olex" creationdate="20180628T171558Z">
@@ -19035,6 +19051,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181008T182142Z" creationid="olex" creationdate="20181008T182142Z">
         <seg>Рисунок &lt;seq0&gt;6&lt;/seq0&gt;: Диалоговое окно Подтверждение формата файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Format example options</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T130409Z" creationid="olex" creationdate="20181202T130409Z">
+        <seg>Рисунок &lt;seq0&gt;6&lt;/seq0&gt;: Пример настройки формата</seg>
       </tuv>
     </tu>
     <tu>
@@ -35924,6 +35948,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repeat steps a) through c) until you have entered all of the fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T130105Z" creationid="olex" creationdate="20181202T130105Z">
+        <seg>Повторяйте шаги от а) до в) пока не настроите все поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replace</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T194923Z" creationid="olex" creationdate="20180326T192003Z">
@@ -46983,6 +47015,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To access additional formatting options, click the ellipse button (…) to the right of the Format example field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T130213Z" creationid="olex" creationdate="20181202T130213Z">
+        <seg>Чтобы получить доступ к дополнительным параметрам форматирования, нажмите кнопку (...) справа от поля Пример формата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To access the customization options for a toolbar, right-click in an empty space between the icons on a toolbar to open a context menu as follows:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T182426Z" creationid="olex" creationdate="20180615T182426Z">
@@ -49628,6 +49668,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T180433Z" creationid="olex" creationdate="20180402T180230Z">
         <seg>Чтобы сохранить таблицу, смотрите &lt;f0&gt;Глава 1 Знакомство с LibreOffice&lt;/f0&gt; для получения дополнительной информации о том, как сохранять файлы вручную или автоматически.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To save and close the table, select &lt;f0&gt;File &gt; Save&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T130736Z" creationid="olex" creationdate="20181202T130736Z">
+        <seg>Чтобы сохранить и закрыть таблицу, выберите &lt;f0&gt;Файл &gt; Сохранить&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
