@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Press the &lt;f0&gt;N&lt;/f0&gt; key once to select it.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T124509Z" creationid="olex" creationdate="20181202T124509Z">
+        <seg>(Нажимайте клавишу &lt;f0&gt;Ч&lt;/f0&gt; для выбора один раз.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Press the &lt;f1&gt;D&lt;/f1&gt; key to select it.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181202T123956Z" creationid="olex" creationdate="20181202T123956Z">
@@ -1962,6 +1970,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;FuelCost&lt;/f0&gt;, &lt;f1&gt;FuelQuantity&lt;/f1&gt;, and &lt;f2&gt;Odometer&lt;/f2&gt; need changes in the Field Properties section (Figure &lt;t3&gt;5&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T125142Z" creationid="olex" creationdate="20181202T124833Z">
+        <seg>Для полей &lt;f0&gt;ЦенаТоплива&lt;/f0&gt;, &lt;f1&gt;КолТоплива&lt;/f1&gt; и &lt;f2&gt;Одометр&lt;/f2&gt; нужны изменения в настройке Свойства поля (Рисунок &lt;t3&gt;5&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;FuelID&lt;/f0&gt; field: Type &lt;f1&gt;FuelID&lt;/f1&gt; as the first Field Name.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181202T112722Z" creationid="olex" creationdate="20181202T112722Z">
@@ -2739,6 +2755,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T180220Z" creationid="olex" creationdate="20181013T180130Z">
         <seg>&lt;f0&gt;Вставить&lt;/f0&gt; – вставляет слайд из буфера обмена после выбранного слайда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;PaymentType&lt;/f0&gt; uses Text [VARCHAR], the default setting.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T124801Z" creationid="olex" creationdate="20181202T124643Z">
+        <seg>&lt;f0&gt;ТипОплаты&lt;/f0&gt; используйте настройки Текст [VARCHAR] по умолчанию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7658,8 +7682,16 @@
       <tuv lang="EN-US">
         <seg>All other fields (&lt;f0&gt;Date, FuelCost, FuelQuantity, Odometer&lt;/f0&gt;, and &lt;f1&gt;PaymentType&lt;/f1&gt;):</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181202T123810Z" creationid="olex" creationdate="20181202T123703Z">
-        <seg>Все остальные поля (&lt;f0&gt; Дата, СтоимостьТоплива, КоличествоТоплива, Одометр&lt;/f0&gt; и &lt;f1&gt;СпособОплаты&lt;/f1&gt;):</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T124252Z" creationid="olex" creationdate="20181202T123703Z">
+        <seg>Все остальные поля (&lt;f0&gt; Дата, ЦенаТоплива, КолТоплива, Одометр&lt;/f0&gt; и &lt;f1&gt;ТипОплаты&lt;/f1&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All other fields use Number [NUMERIC].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T124102Z" creationid="olex" creationdate="20181202T124102Z">
+        <seg>Для всех остальных полей используйте Число [NUMERIC].</seg>
       </tuv>
     </tu>
     <tu>
@@ -29393,8 +29425,8 @@ Denkin: все верно, есть такая настройка</note>
       <tuv lang="EN-US">
         <seg>Its fields are &lt;f1&gt;FuelID, Date, FuelCost, FuelQuantity, Odometer&lt;/f1&gt;, and &lt;f2&gt;PaymentType&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181202T112152Z" creationid="olex" creationdate="20181202T112007Z">
-        <seg>Поля в ней &lt;f1&gt;ТопливоID, Дата, СтоимостьТоплива, КоличествоТоплива, Одометр&lt;/f1&gt; и &lt;f2&gt;СпособОплаты&lt;/f2&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T124204Z" creationid="olex" creationdate="20181202T112007Z">
+        <seg>Поля в ней &lt;f1&gt;ТопливоID, Дата, ЦенаТоплива, КолТоплива, Одометр&lt;/f1&gt; и &lt;f2&gt;ТипОплаты&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
