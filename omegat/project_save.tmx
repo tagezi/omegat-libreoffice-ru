@@ -1364,8 +1364,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Date Purchased&lt;/f0&gt;: &lt;f1&gt;Field type&lt;/f1&gt;: default date setting.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181128T193425Z" creationid="olex" creationdate="20181128T193425Z">
-        <seg>&lt;f0&gt;ДатаЗаказа&lt;/f0&gt;: &lt;f1&gt;Тип поля&lt;/f1&gt;: установите Дата по умолчанию.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T113934Z" creationid="olex" creationdate="20181128T193425Z">
+        <seg>&lt;f0&gt;ДатаЗаказа&lt;/f0&gt;: &lt;f1&gt;Тип поля&lt;/f1&gt;, оставьте по умолчанию: Дата.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3025,8 +3025,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Selected fields&lt;/f0&gt;: Using the &lt;f1&gt;&gt;&lt;/f1&gt; button, move the following fields from the &lt;f2&gt;Available fields &lt;/f2&gt;window to the &lt;f3&gt;Selected fields&lt;/f3&gt; window in this order: &lt;f4&gt;CollectionID, AlbumTitle, Artist, DatePurchased, Format, Notes, &lt;/f4&gt;and &lt;f5&gt;NumberofTracks&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181128T184232Z" creationid="olex" creationdate="20181128T184232Z">
-        <seg>&lt;f0&gt;Выбранные поля&lt;/f0&gt;: с помощью кнопки &lt;f1&gt;&gt;&lt;/f1&gt;, переместите следующие поля из окна &lt;f2&gt;Доступные поля&lt;/f2&gt; в окно &lt;f3&gt;Выбранные поля&lt;/f3&gt; в следующем порядке: &lt;f4&gt;КодКоллекции, НазваниеАльбома, Артист, ДатаЗаказа, Формат, Примечания, &lt;/f4&gt;и &lt;f5&gt;КоличествоКомпозиций&lt;/f5&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T113450Z" creationid="olex" creationdate="20181128T184232Z">
+        <seg>&lt;f0&gt;Выбранные поля&lt;/f0&gt;: с помощью кнопки &lt;f1&gt;&gt;&lt;/f1&gt;, переместите следующие поля из окна &lt;f2&gt;Доступные поля&lt;/f2&gt; в окно &lt;f3&gt;Выбранные поля&lt;/f3&gt; в следующем порядке: &lt;f4&gt;КодКоллекции, НазваниеАльбома, Артист, ДатаЗаказа, Формат, Примечания &lt;/f4&gt;и &lt;f5&gt;КоличествоКомпозиций&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
