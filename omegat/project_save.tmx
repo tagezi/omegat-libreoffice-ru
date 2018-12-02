@@ -6725,6 +6725,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A shortcut for selecting from the Field Type drop down list: press the key for the first letter of the choice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T120407Z" creationid="olex" creationdate="20181202T120054Z">
+        <seg>Кратчайший путь выбора из выпадающего списка Тип поля: нажать клавишу первой буквы названия типа поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A simple example, however, demonstrates how this works.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190011Z" creationid="tagezi" creationdate="20180320T190011Z">
@@ -37559,8 +37567,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Select &lt;f3&gt;Integer [INTEGER]&lt;/f3&gt; as the Field Type from the drop down list.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181202T112906Z" creationid="olex" creationdate="20181202T112906Z">
-        <seg>Выберите из выпадающего списка &lt;f3&gt;Integer [INTEGER]&lt;/f3&gt; в качестве типа поля.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T120103Z" creationid="olex" creationdate="20181202T112906Z">
+        <seg>Выберите из выпадающего списка &lt;f3&gt;Целое [INTEGER]&lt;/f3&gt; в качестве типа поля.</seg>
       </tuv>
     </tu>
     <tu>
