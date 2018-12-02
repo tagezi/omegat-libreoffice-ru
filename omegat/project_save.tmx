@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The default setting is Text [VARCHAR].)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T115945Z" creationid="olex" creationdate="20181202T115945Z">
+        <seg>(Значение по умолчанию: Текст [VARCHAR].)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(What this field does will be explained later.) We will use this field to number our entries and want that number to automatically increase as we add each entry.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181126T183833Z" creationid="olex" creationdate="20181126T183833Z">
