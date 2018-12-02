@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Press the &lt;f1&gt;D&lt;/f1&gt; key to select it.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T123956Z" creationid="olex" creationdate="20181202T123956Z">
+        <seg>(Нажмите клавишу &lt;f1&gt;Д&lt;/f1&gt;, для быстрого выбора.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Refer to the manuals for your mobile device and computer operating system for instructions on enabling, setting up a Bluetooth identifier, and pairing.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181101T194537Z" creationid="olex" creationdate="20181101T194537Z">
@@ -7648,6 +7656,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All other fields (&lt;f0&gt;Date, FuelCost, FuelQuantity, Odometer&lt;/f0&gt;, and &lt;f1&gt;PaymentType&lt;/f1&gt;):</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T123810Z" creationid="olex" creationdate="20181202T123703Z">
+        <seg>Все остальные поля (&lt;f0&gt; Дата, СтоимостьТоплива, КоличествоТоплива, Одометр&lt;/f0&gt; и &lt;f1&gt;СпособОплаты&lt;/f1&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All sheets</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T183030Z" creationid="olex" creationdate="20180326T183030Z">
@@ -8472,6 +8488,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181122T202755Z" creationid="olex" creationdate="20181122T202654Z">
         <seg>Любое редактирование объединенного объекта влияет на все объекты, которые использовались при выполнении объединения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any name can be used for this field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T123445Z" creationid="olex" creationdate="20181202T123445Z">
+        <seg>Для этого поля можно использовать любое имя.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19705,6 +19729,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T195723Z" creationid="olex" creationdate="20180910T195723Z">
         <seg>Нижние колонтитулы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For &lt;f0&gt;Date&lt;/f0&gt; use Date[DATE].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T123928Z" creationid="olex" creationdate="20181202T123928Z">
+        <seg>Для &lt;f0&gt;Дата&lt;/f0&gt; используйте Дата [DATE].</seg>
       </tuv>
     </tu>
     <tu>
@@ -35059,6 +35091,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Primary keys for any other field type must be selected by right-clicking the rectangle before the field and selecting &lt;f0&gt;Primary key&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T123325Z" creationid="olex" creationdate="20181202T123325Z">
+        <seg>Первичные ключи для любого другого типа поля можно выбрать, нажав правой кнопки мыши по прямоугольнику перед полем и выбрав в контекстном меню &lt;f0&gt;Первичный ключ&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Print Dialogs - Use LibreOffice dialogs</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T162730Z" creationid="olex" creationdate="20180624T162730Z">
@@ -38005,6 +38045,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T183315Z" creationid="olex" creationdate="20180723T183315Z">
         <seg>Выберите кнопку &lt;f19&gt;Создать тему...&lt;/f19&gt;, чтобы создать новую категорию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the Field Type for each field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T123853Z" creationid="olex" creationdate="20181202T123853Z">
+        <seg>Выберите Тип поля для каждого поля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43922,6 +43970,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181101T195441Z" creationid="olex" creationdate="20181101T195441Z">
         <seg>Демонстрация презентации, открытой на компьютере, начнется автоматически (Рисунок &lt;t0&gt;33&lt;/t0&gt;&lt;s1/&gt;и &lt;t2&gt;34&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The primary key serves only one purpose: to identify each record uniquely.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T123424Z" creationid="olex" creationdate="20181202T123424Z">
+        <seg>Первичный ключ служит только одной цели: однозначно идентифицировать каждую запись.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50477,6 +50533,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type the next field name in the Field Name column.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T123839Z" creationid="olex" creationdate="20181202T123839Z">
+        <seg>Введите следующее имя поля в столбце Имя поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type the row identifiers in the &lt;f0&gt;Rows to repeat&lt;/f0&gt; box.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T181955Z" creationid="olex" creationdate="20180508T181955Z">
@@ -52415,6 +52479,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We have used &lt;f0&gt;FuelID&lt;/f0&gt; for convenience, so we know to which table it belongs.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T123543Z" creationid="olex" creationdate="20181202T123543Z">
+        <seg>Для удобства мы использовали &lt;f0&gt;ТопливоID&lt;/f0&gt;, поэтому мы знаем, к какой таблице он принадлежит.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T195603Z" creationid="tagezi" creationdate="20180310T194313Z">
@@ -53334,6 +53406,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T115426Z" creationid="asus" creationdate="20180813T115426Z">
         <seg>При использовании скобок в формуле Math ожидает, что каждая открывающая скобка будет иметь парную ей закрывающую.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When using one of these field types, your selection of &lt;f0&gt;Yes&lt;/f0&gt; for the AutoValue value automatically makes the field the primary key.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T123200Z" creationid="olex" creationdate="20181202T123200Z">
+        <seg>Если использовать один из этих типов полей, то выбор &lt;f0&gt;Да&lt;/f0&gt; для параметра Автозначение, автоматически сделает это поле первичным ключом.</seg>
       </tuv>
     </tu>
     <tu>
