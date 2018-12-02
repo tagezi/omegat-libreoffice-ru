@@ -12009,6 +12009,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Create Table in Design View (which opens the Table Design dialog).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T112316Z" creationid="olex" creationdate="20181202T112316Z">
+        <seg>Нажмите Создать таблицу в режиме дизайна (откроется диалоговое окно Конструктор таблиц).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click above the top margin (or below the bottom margin) to make the Header or Footer marker appear (Figure &lt;t0&gt;23&lt;/t0&gt;), and then click on the &lt;f1&gt;+&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T173324Z" creationid="olex" creationdate="20181001T173324Z">
@@ -14779,6 +14787,22 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T102300Z" creationid="olex" creationdate="20180721T102300Z">
         <seg>Вкладка Дизайн</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Design View (Base)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T111410Z" creationid="olex" creationdate="20181202T111410Z">
+        <seg>Режим дизайна (Base)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Design View is a more advanced method &lt;i0/&gt;for creating a new table, in which you directly enter information about each field in the table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T111543Z" creationid="olex" creationdate="20181202T111543Z">
+        <seg>Режим дизайна - это более продвинутый метод &lt;i0/&gt;для создания новой таблицы, в котором вы самостоятельно вводите информацию о каждом поле в таблице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29262,6 +29286,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Its fields are &lt;f1&gt;FuelID, Date, FuelCost, FuelQuantity, Odometer&lt;/f1&gt;, and &lt;f2&gt;PaymentType&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T112152Z" creationid="olex" creationdate="20181202T112007Z">
+        <seg>Поля в ней &lt;f1&gt;ТопливоID, Дата, СтоимостьТоплива, КоличествоТоплива, Одометр&lt;/f1&gt; и &lt;f2&gt;СпособОплаты&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Its native file format is Open Document Format (ODF), an open standard format that is being adopted by governments worldwide as a required file format for publishing and accepting documents.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T200702Z" creationid="olex" creationdate="20180607T200702Z">
@@ -42641,6 +42673,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first table to be created is &lt;f0&gt;Fuel&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T111918Z" creationid="olex" creationdate="20181202T111918Z">
+        <seg>Первая таблица, которая будет создана, - это &lt;f0&gt;Топливо&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following examples of common use of page and paragraph styles are taken from Writer.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T190737Z" creationid="olex" creationdate="20180315T190737Z">
@@ -52302,6 +52342,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We will use this method for the tables of our database.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T111559Z" creationid="olex" creationdate="20181202T111559Z">
+        <seg>Мы будем использовать этот метод для таблиц нашей базы данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Web Layout &lt;f0&gt;v&lt;/f0&gt;iew</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T165003Z" creationid="olex" creationdate="20180727T165003Z">
@@ -53608,6 +53656,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T184436Z" creationid="olex" creationdate="20181125T184436Z">
         <seg>Я хочу, чтобы расходы во время отдыха за каждый день были перечислены вместе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While the &lt;f0&gt;Field type &lt;/f0&gt;and &lt;f1&gt;formatting&lt;/f1&gt; are different in Design View, the concepts are the same as in the Wizard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T111842Z" creationid="olex" creationdate="20181202T111842Z">
+        <seg>Хотя &lt;f0&gt;Тип поля&lt;/f0&gt; и &lt;f1&gt;форматирование&lt;/f1&gt; в Режиме дизайна выглядят иначе, но концепция такая же, как в Мастере.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57072,6 +57128,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T163649Z" creationid="tagezi" creationdate="20180318T163649Z">
         <seg>создание</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>creating a new table</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181202T111318Z" creationid="olex" creationdate="20181202T111318Z">
+        <seg>создание новой таблицы</seg>
       </tuv>
     </tu>
     <tu>
