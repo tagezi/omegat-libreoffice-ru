@@ -8988,6 +8988,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As you create your own databases, you will also need to determine if tables are related and how.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T185505Z" creationid="olex" creationdate="20181204T185505Z">
+        <seg>Когда вы создаете свои собственные базы данных, то вам также необходимо определять, связаны ли таблицы и как.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Как то коряво получается, посмотреть потом</note>
       <tuv lang="EN-US">
         <seg>As you draw the rectangle with the mouse cursor, the rectangle appears with its bottom right corner attached to the cursor.</seg>
@@ -14642,8 +14650,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Defining &lt;i0/&gt;relationships</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184419Z" creationid="olex" creationdate="20181204T184419Z">
-        <seg>Определение &lt;i0/&gt;связей</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184600Z" creationid="olex" creationdate="20181204T184419Z">
+        <seg>Определение &lt;i0/&gt;реляционных связей</seg>
       </tuv>
     </tu>
     <tu>
@@ -31731,6 +31739,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most of these expenses are in the Vacations table, but the fuel we buy is not.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184904Z" creationid="olex" creationdate="20181204T184904Z">
+        <seg>Большинство из этих расходов находятся в таблице Досуг, кроме топлива, которое мы покупаем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most of these file types are automatically detected by LibreOffice, so they can be opened without explicitly selecting the document type in the file picker.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T215532Z" creationid="tagezi" creationdate="20180304T153208Z">
@@ -32846,8 +32862,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Now that the tables have been created, what are the relationships between our tables?</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184527Z" creationid="olex" creationdate="20181204T184527Z">
-        <seg>Теперь, когда таблицы созданы, каковы отношения между нашими таблицами?</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184609Z" creationid="olex" creationdate="20181204T184527Z">
+        <seg>Теперь, когда таблицы созданы, каковы реляционные связи между нашими таблицами?</seg>
       </tuv>
     </tu>
     <tu>
@@ -39565,6 +39581,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since the Fuel table may have more than one entry per date, this relationship between the Vacations and Fuel tables is one to many (it is designated 1:n.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T185052Z" creationid="olex" creationdate="20181204T185052Z">
+        <seg>Так как таблица Топливо может содержать более одной записи на одну дату, то эта взаимосвязь между таблицами Досуг и Топливо является одной для многих (она обозначается 1:n).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since these purchases are made by one of two bank cards or with cash, I want a field to state which payment type was used for each item.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T183456Z" creationid="olex" creationdate="20181125T183456Z">
@@ -39761,6 +39785,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T184908Z" creationid="olex" creationdate="20181125T184908Z">
         <seg>Таким образом, мы создадим таблицу с полем для типа платежа и используем его в списках форм.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So we will link these two tables using the Date fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184933Z" creationid="olex" creationdate="20181204T184933Z">
+        <seg>Поэтому мы свяжем эти две таблицы, используя поля Дата.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41550,6 +41582,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180307T204812Z" creationid="User" creationdate="20180307T204812Z">
         <seg>Редактор формул в Math использует специальный язык разметки для представления формул.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Fuel and Maintenance tables do not really have a relationship even though they share similar fields: Date and Odometer readings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T185422Z" creationid="olex" creationdate="20181204T185422Z">
+        <seg>Таблицы Топливо и Обслуживание на самом деле не имеют связей, хотя они имеют похожие поля: Дата и показания Одометра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46393,6 +46433,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181129T191512Z" creationid="olex" creationdate="20181129T191512Z">
         <seg>Это опция, выбранная здесь для КодКоллекции - просто номер, автоматически назначаемый базой для каждой записи в этой таблице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the time to define them based upon the questions we asked and answered in the beginning.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184703Z" creationid="olex" creationdate="20181204T184703Z">
+        <seg>Настало время определить их на основе заданных нами в начале вопросов и ответов на них.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53394,6 +53442,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When on vacation, we want to enter all of our expenses at once each day.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T185134Z" creationid="olex" creationdate="20181204T184823Z">
+        <seg>Когда мы на отдыхе, мы хотим вводить все наши расходы один раз в день.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When opening .htm or .html files (used for web pages), LibreOffice customizes Writer for working with these files.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180304T153334Z" creationid="tagezi" creationdate="20180304T153334Z">
@@ -58951,16 +59007,16 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>relationships</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184302Z" creationid="olex" creationdate="20181204T184302Z">
-        <seg>определение связей</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184532Z" creationid="olex" creationdate="20181204T184302Z">
+        <seg>реляционные связи</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>relationships (database)</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184316Z" creationid="olex" creationdate="20181204T184316Z">
-        <seg>определение связей (база данных)</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184550Z" creationid="olex" creationdate="20181204T184316Z">
+        <seg>определение реляционных связей (база данных)</seg>
       </tuv>
     </tu>
     <tu>
