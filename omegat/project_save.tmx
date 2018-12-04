@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Its foreign key&lt;t0/&gt; will contain the same number of fields.) If this were the case in Figure &lt;t1&gt;9&lt;/t1&gt;, the other fields of the primary field for the Fuel table would be listed under Date.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T194419Z" creationid="olex" creationdate="20181204T194419Z">
+        <seg>(Его внешний ключ &lt;t0/&gt;будет содержать одинаковое количество полей.) Если бы это было на Рисунке &lt;t1&gt;9&lt;/t1&gt;, то остальные поля первичного поля для таблицы Топливо были бы перечислены в разделе Дата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Many fuel pumps measure fuel to thousandths of a gallon in the USA.) &lt;f3&gt;Odometer&lt;/f3&gt;: Change the &lt;f4&gt;Length&lt;/f4&gt; to 10 and the &lt;f5&gt;Decimal places&lt;/f5&gt; to 1.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181202T130016Z" creationid="olex" creationdate="20181202T130016Z">
@@ -6301,6 +6309,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A field in a table that stores values of the primary key of records in another table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T194237Z" creationid="olex" creationdate="20181204T194237Z">
+        <seg>Поле в таблице, в котором хранятся значения первичного ключа записей в другой таблице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A filled curve automatically joins the last point to the first point to close off the figure and fills it with the current standard fill color.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T105511Z" creationid="olex" creationdate="20181110T105447Z">
@@ -12340,8 +12356,8 @@
       <tuv lang="EN-US">
         <seg>Click in the cell to the right of this drop-down list.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181204T193538Z" creationid="olex" creationdate="20181204T193538Z">
-        <seg>Щелкните по ячейке справа от этого раскрывающегося списка.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T193624Z" creationid="olex" creationdate="20181204T193538Z">
+        <seg>Нажмите по ячейке справа от этого выпадающего списка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15024,6 +15040,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Detailed information about this is in the &lt;f2&gt;Base Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T194512Z" creationid="olex" creationdate="20181204T194512Z">
+        <seg>Подробная информация об этом содержится в &lt;f2&gt;Руководстве по Base&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Details are in &lt;tc5/&gt;&lt;tc6/&gt;&lt;tc7/&gt;the &lt;f8&gt;Writer Guide&lt;/f8&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T195640Z" creationid="olex" creationdate="20180719T195640Z">
@@ -17164,6 +17188,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Update options and Delete options section</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T194551Z" creationid="olex" creationdate="20181204T194551Z">
+        <seg>Рисунок &lt;seq0&gt;10&lt;/seq0&gt;: При обновлении и При удалении</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: &lt;f1&gt;Personalization dialogs&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T175952Z" creationid="olex" creationdate="20180918T175952Z">
@@ -19295,6 +19327,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Designation for a 1:n relationship</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T194133Z" creationid="olex" creationdate="20181204T194133Z">
+        <seg>Рисунок &lt;seq0&gt;8&lt;/seq0&gt;: Обозначение для связи 1:n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Header and Footer dialog – Notes and Handouts page</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T173032Z" creationid="olex" creationdate="20181013T173032Z">
@@ -19395,6 +19435,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T182741Z" creationid="olex" creationdate="20180311T182741Z">
         <seg>Рисунок &lt;seq0&gt;9&lt;/seq0&gt;: Диалоговое окно Сохранить как шаблон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Selected fields in a relationship</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T194207Z" creationid="olex" creationdate="20181204T194207Z">
+        <seg>Рисунок &lt;seq0&gt;9&lt;/seq0&gt;: Выбранные для связей поля</seg>
       </tuv>
     </tu>
     <tu>
@@ -27838,8 +27886,8 @@ Denkin: все верно, есть такая настройка</note>
       <tuv lang="EN-US">
         <seg>In the &lt;f0&gt;Fields involved&lt;/f0&gt; section, click the drop-down list under the Fuel label.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181204T193414Z" creationid="olex" creationdate="20181204T193414Z">
-        <seg>В разделе &lt;f0&gt;Включенные поля&lt;/f0&gt;, нажмите раскрывающийся список под ярлыком Топливо.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T193635Z" creationid="olex" creationdate="20181204T193414Z">
+        <seg>В разделе &lt;f0&gt;Включенные поля&lt;/f0&gt;, нажмите выпадающий список под ярлыком Топливо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29523,6 +29571,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T161320Z" creationid="olex" creationdate="20180624T161320Z">
         <seg>Он сбрасывает параметры до значений, которые были на месте, когда вы открыли диалог.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should now look like Figure &lt;t1&gt;9&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T193821Z" creationid="olex" creationdate="20181204T193821Z">
+        <seg>Это должно выглядеть как на Рисунке &lt;t1&gt;9&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31629,6 +31685,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T085830Z" creationid="tagezi" creationdate="20180319T085830Z">
         <seg>Измените Main так, чтобы он выглядел, как показано в Листинге &lt;t0&gt;5&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modify the Update options and Delete options section of the Relation window (Figure &lt;t0&gt;10&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T193936Z" creationid="olex" creationdate="20181204T193936Z">
+        <seg>Измените разделы При обновлении и При удалении окна Связь (Рисунок &lt;t0&gt;10&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37581,10 +37645,26 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Date&lt;/f0&gt; from the Vacations table list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T193736Z" creationid="olex" creationdate="20181204T193736Z">
+        <seg>Выберите из списка таблицы Досуг: &lt;f0&gt;Дата&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Date&lt;/f0&gt; in the &lt;f1&gt;Category&lt;/f1&gt; list box.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T192929Z" creationid="olex" creationdate="20180412T192929Z">
         <seg>Выберите &lt;f0&gt;Дата&lt;/f0&gt; в выпадающем списке списке &lt;f1&gt;Выбор категории содержимого&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Delete cascade&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T194058Z" creationid="olex" creationdate="20181204T194058Z">
+        <seg>Выберите &lt;f0&gt;удалить каскадно&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37866,6 +37946,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181029T191331Z" creationid="olex" creationdate="20181029T191331Z">
         <seg>Выберите &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Пользователь&lt;/f0&gt;, чтобы настроить имя, которое вы хотите отображать в комментарии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Update cascade&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T194013Z" creationid="olex" creationdate="20181204T194013Z">
+        <seg>Выберите &lt;f0&gt;обновить каскадно&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42682,6 +42770,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The corresponding fields of the foreign key would be listed under Vacations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T194447Z" creationid="olex" creationdate="20181204T194447Z">
+        <seg>Соответствующие поля внешнего ключа будут перечислены в разделе Досуг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The created array has one property at index zero.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180318T153641Z" creationid="tagezi" creationdate="20180318T153641Z">
@@ -44298,6 +44394,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181101T195441Z" creationid="olex" creationdate="20181101T195441Z">
         <seg>Демонстрация презентации, открытой на компьютере, начнется автоматически (Рисунок &lt;t0&gt;33&lt;/t0&gt;&lt;s1/&gt;и &lt;t2&gt;34&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The primary key can contain more than one field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T194318Z" creationid="olex" creationdate="20181204T194318Z">
+        <seg>Первичный ключ может быть у более, чем одного поля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46698,6 +46802,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181126T184055Z" creationid="olex" creationdate="20181126T184055Z">
         <seg>Откроется &lt;i1/&gt;Мастер таблиц&lt;i2/&gt; (Рисунок &lt;t3&gt;2&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This opens a drop down list for the Vacations table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T193644Z" creationid="olex" creationdate="20181204T193605Z">
+        <seg>Откроется выпадающий список для таблицы Досуг.</seg>
       </tuv>
     </tu>
     <tu>
