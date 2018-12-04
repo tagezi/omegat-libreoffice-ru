@@ -11642,6 +11642,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Close&lt;/f0&gt; to close the Add Tables dialog when you have added the tables you want.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T192842Z" creationid="olex" creationdate="20181204T192842Z">
+        <seg>Нажмите &lt;f0&gt;Закрыть&lt;/f0&gt; чтобы закрыть диалоговое окно Добавить таблицы после того, как вы добавили все нужные вам таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Close&lt;/f0&gt; to return to your document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T181250Z" creationid="olex" creationdate="20180808T181250Z">
@@ -12326,6 +12334,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T183900Z" creationid="olex" creationdate="20180416T183900Z">
         <seg>Нажмите на ячейку, чтобы выбрать ее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click in the cell to the right of this drop-down list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T193538Z" creationid="olex" creationdate="20181204T193538Z">
+        <seg>Щелкните по ячейке справа от этого раскрывающегося списка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14612,6 +14628,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T175255Z" creationid="olex" creationdate="20180712T175255Z">
         <seg>Языки документов по умолчанию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Define the relationship between the Vacations and Fuel tables: &lt;s0/&gt;click the &lt;f1&gt;New Relation&lt;/f1&gt; icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T193032Z" creationid="olex" creationdate="20181204T193032Z">
+        <seg>Определите взаимосвязь между таблицами Досуг и Топливо: &lt;s0/&gt;нажмите значок &lt;f1&gt;Создать связь&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27812,6 +27836,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the &lt;f0&gt;Fields involved&lt;/f0&gt; section, click the drop-down list under the Fuel label.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T193414Z" creationid="olex" creationdate="20181204T193414Z">
+        <seg>В разделе &lt;f0&gt;Включенные поля&lt;/f0&gt;, нажмите раскрывающийся список под ярлыком Топливо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the &lt;f0&gt;File type&lt;/f0&gt; drop-down menu, select the type of spreadsheet format you want to use.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181008T182003Z" creationid="olex" creationdate="20181008T182003Z">
@@ -34320,6 +34352,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Or, for each table, click the name of the table and then click &lt;f0&gt;Add&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T192751Z" creationid="olex" creationdate="20181204T192751Z">
+        <seg>Или, для каждой таблицы, нажмите имя таблицы, а затем нажмите &lt;f0&gt;Добавить&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>исправил предложение, похоже у автора опечатка</note>
       <tuv lang="EN-US">
         <seg>Or, right-click in an empty space in the Workspace and select &lt;f0&gt;Slide &gt; New Slide&lt;/f0&gt; from the context menu.</seg>
@@ -34438,6 +34478,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181017T183212Z" creationid="olex" creationdate="20181017T183212Z">
         <seg>В обратном случае шрифт сохраняет свой размер по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our two tables are listed in the &lt;f3&gt;Tables involved&lt;/f3&gt; section.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T193233Z" creationid="olex" creationdate="20181204T193233Z">
+        <seg>Наши две таблицы перечислены в разделе &lt;f3&gt;Включенные Таблицы&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37521,6 +37569,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181122T201327Z" creationid="olex" creationdate="20181122T201327Z">
         <seg>Выберите &lt;f0&gt;Атрибуты морфинга&lt;/f0&gt; для плавного изменения свойств линии и заливки между двумя объектами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Date&lt;/f0&gt; from the Fuel table list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T193516Z" creationid="olex" creationdate="20181204T193516Z">
+        <seg>Выберите из списка таблицы Топливо: &lt;f0&gt;Дата&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46682,6 +46738,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T133833Z" creationid="tagezi" creationdate="20180313T133833Z">
         <seg>Это откроет диалоговое окно Новый модуль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This opens the Relations window (Figure &lt;t2&gt;9&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T193117Z" creationid="olex" creationdate="20181204T193117Z">
+        <seg>Откроется окно Связи (Рисунок &lt;t2&gt;9&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
