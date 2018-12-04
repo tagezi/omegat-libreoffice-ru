@@ -13447,6 +13447,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Close the Relation Design dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T194728Z" creationid="olex" creationdate="20181204T194728Z">
+        <seg>Закройте диалоговое окно Конструктор связей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close the old file without saving.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T201053Z" creationid="olex" creationdate="20180313T201053Z">
@@ -23582,6 +23590,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Having them selected permits you to update a table that has a relationship defined with another table which has been modified.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T194906Z" creationid="olex" creationdate="20181204T194906Z">
+        <seg>Выбрав их, вы сможете обновить таблицу, которая имеет связи, с другой таблицей, если та была изменена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Having these warnings turned on can be quite helpful, particularly if you work with documents produced by people in other countries where the standard paper size is different from yours.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T171417Z" creationid="olex" creationdate="20180628T171417Z">
@@ -29050,6 +29066,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T180336Z" creationid="olex" creationdate="20180430T180336Z">
         <seg>Это также позволяет легко приводить различные таблицы листа к такому же же внешнему виду и оформлению.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also permits you to delete a field from the table without causing inconsistencies.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T194950Z" creationid="olex" creationdate="20181204T194950Z">
+        <seg>Это также позволяет удалить поле из таблицы, не вызывая противоречий.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36785,6 +36809,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180607T195709Z" creationid="olex" creationdate="20180607T195638Z">
         <seg>Команда Сохранить</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save the Relation Design dialog if the &lt;f0&gt;Save&lt;/f0&gt; button is active.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T194701Z" creationid="olex" creationdate="20181204T194701Z">
+        <seg>Сохраните диалоговое окно Конструктор связей, если кнопка &lt;f0&gt;Сохранить&lt;/f0&gt; активна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54361,6 +54393,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181202T111842Z" creationid="olex" creationdate="20181202T111842Z">
         <seg>Хотя &lt;f0&gt;Тип поля&lt;/f0&gt; и &lt;f1&gt;форматирование&lt;/f1&gt; в Режиме дизайна выглядят иначе, но концепция такая же, как в Мастере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While these options are not strictly necessary, they do help.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T194819Z" creationid="olex" creationdate="20181204T194819Z">
+        <seg>Хотя эти параметры не являются строго необходимыми, но они помогают.</seg>
       </tuv>
     </tu>
     <tu>
