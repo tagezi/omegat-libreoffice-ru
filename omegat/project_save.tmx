@@ -1988,8 +1988,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;FuelCost&lt;/f0&gt;, &lt;f1&gt;FuelQuantity&lt;/f1&gt;, and &lt;f2&gt;Odometer&lt;/f2&gt; need changes in the Field Properties section (Figure &lt;t3&gt;5&lt;/t3&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181202T125142Z" creationid="olex" creationdate="20181202T124833Z">
-        <seg>Для полей &lt;f0&gt;ЦенаТоплива&lt;/f0&gt;, &lt;f1&gt;КолТоплива&lt;/f1&gt; и &lt;f2&gt;Одометр&lt;/f2&gt; нужны изменения в настройке Свойства поля (Рисунок &lt;t3&gt;5&lt;/t3&gt;).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T183041Z" creationid="olex" creationdate="20181202T124833Z">
+        <seg>Для полей &lt;f0&gt;ЦенаТоплива&lt;/f0&gt;, &lt;f1&gt;КоличествоТоплива&lt;/f1&gt; и &lt;f2&gt;Одометр&lt;/f2&gt; нужны изменения в настройке Свойства поля (Рисунок &lt;t3&gt;5&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2012,8 +2012,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;FuelQuantity&lt;/f0&gt;: Change &lt;f1&gt;Length&lt;/f1&gt; to 6 and &lt;f2&gt;Decimal places&lt;/f2&gt; to 3.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181202T125813Z" creationid="olex" creationdate="20181202T125813Z">
-        <seg>&lt;f0&gt;КолТоплива&lt;/f0&gt;: измените &lt;f1&gt;Длину&lt;/f1&gt; на 6 и &lt;f2&gt;Знаков после запятой&lt;/f2&gt; на 3.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T183104Z" creationid="olex" creationdate="20181202T125813Z">
+        <seg>&lt;f0&gt;КоличествоТоплива&lt;/f0&gt;: измените &lt;f1&gt;Длину&lt;/f1&gt; на 6 и &lt;f2&gt;Знаков после запятой&lt;/f2&gt; на 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13391,6 +13391,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Close the Fuel table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T183305Z" creationid="olex" creationdate="20181204T183305Z">
+        <seg>Закройте таблицу Топливо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close the old file without saving.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T201053Z" creationid="olex" creationdate="20180313T201053Z">
@@ -14628,6 +14636,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180316T192707Z" creationid="olex" creationdate="20180315T191056Z">
         <seg>Определение &lt;i0/&gt; другой первой страницы для документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defining &lt;i0/&gt;relationships</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184419Z" creationid="olex" creationdate="20181204T184419Z">
+        <seg>Определение &lt;i0/&gt;связей</seg>
       </tuv>
     </tu>
     <tu>
@@ -19159,6 +19175,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Fields in Vacations table</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T183439Z" creationid="olex" creationdate="20181204T183439Z">
+        <seg>Рисунок &lt;seq0&gt;7&lt;/seq0&gt;: Поля в таблице Досуг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Go to Page dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T173956Z" creationid="olex" creationdate="20180727T173956Z">
@@ -19705,6 +19729,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T195050Z" creationid="olex" creationdate="20180711T195050Z">
         <seg>Следуйте инструкциям, чтобы выбрать и установить те словари, которые вам необходимы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Follow the same steps to create the &lt;f0&gt;Vacations&lt;/f0&gt; table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T183642Z" creationid="olex" creationdate="20181204T183642Z">
+        <seg>Повторите тем же действия, чтобы создать таблицу &lt;f0&gt;Досуг&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28196,6 +28228,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the main database window, click the &lt;f0&gt;Save&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T183336Z" creationid="olex" creationdate="20181204T183336Z">
+        <seg>В главном окне базы данных нажмите кнопку &lt;f0&gt;Сохранить&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the motorcycle example, the word could be cyclist.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180805T183755Z" creationid="olex" creationdate="20180805T183755Z">
@@ -31009,6 +31049,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Making Date the primary key has to be done in a different way because this field’s field type is &lt;f0&gt;Date&lt;/f0&gt;, not &lt;f1&gt;Integer&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184020Z" creationid="olex" creationdate="20181204T184020Z">
+        <seg>Сделать поле Дата первичным ключом следует несколько иначе, потому что тип поля этого поля &lt;f0&gt;Дата&lt;/f0&gt;, а не &lt;f1&gt;Целое&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Making changes in the text of a slide:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181011T182326Z" creationid="olex" creationdate="20181011T182326Z">
@@ -32339,6 +32387,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Name the table &lt;f1&gt;Fuel&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T183235Z" creationid="olex" creationdate="20181204T183235Z">
+        <seg>Имя таблицы &lt;f1&gt;Топливо&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Native language support</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180308T083015Z" creationid="tagezi" creationdate="20180308T083015Z">
@@ -32784,6 +32840,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T185156Z" creationid="olex" creationdate="20180730T185117Z">
         <seg>Теперь осуществите выделение, используя мышь или клавиатуру, как показано ниже.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now that the tables have been created, what are the relationships between our tables?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184527Z" creationid="olex" creationdate="20181204T184527Z">
+        <seg>Теперь, когда таблицы созданы, каковы отношения между нашими таблицами?</seg>
       </tuv>
     </tu>
     <tu>
@@ -36428,6 +36492,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click to the left of the field name &lt;f0&gt;Date&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184047Z" creationid="olex" creationdate="20181204T184047Z">
+        <seg>Нажмите правой кнопкой мыши слева от имени поля &lt;f0&gt;Дата&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-clicking on any of the arrows opens a context menu where you can select a sheet (see Figure &lt;t0&gt;10&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180521T192617Z" creationid="olex" creationdate="20180403T172357Z">
@@ -37770,6 +37842,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T131615Z" creationid="tagezi" creationdate="20180312T131615Z">
         <seg>Выберите Module1, или новый модуль, который вы создали, и нажмите кнопку &lt;f0&gt;Правка&lt;/f0&gt;, чтобы открыть Интегрированную Среду Разработки (IDE) (Рисунок &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Primary Key in the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184127Z" creationid="olex" creationdate="20181204T184127Z">
+        <seg>Выберите в контекстном меню Первичный ключ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42862,6 +42942,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181029T184527Z" creationid="olex" creationdate="20181029T184527Z">
         <seg>Вы можете использовать в Impress, следующие типы полей:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The fields, field types, and Descriptions are listed in Figure &lt;t1&gt;7&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T183707Z" creationid="olex" creationdate="20181204T183707Z">
+        <seg>Поля, типы полей и их описания приведены на Рисунке &lt;t1&gt;7&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58857,6 +58945,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T180615Z" creationid="olex" creationdate="20180731T180615Z">
         <seg>регулярные выражения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>relationships</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184302Z" creationid="olex" creationdate="20181204T184302Z">
+        <seg>определение связей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>relationships (database)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T184316Z" creationid="olex" creationdate="20181204T184316Z">
+        <seg>определение связей (база данных)</seg>
       </tuv>
     </tu>
     <tu>
