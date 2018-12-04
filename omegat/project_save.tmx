@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You can also open it by clicking the Add Tables icon on the Relation Design window if you ever need to do so.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T192219Z" creationid="olex" creationdate="20181204T192219Z">
+        <seg>(Вы также можете самостоятельно открыть его, нажав значок Добавить таблицы в окне Конструктор связей, если вам это потребуется.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You can change the sequence and remove or insert images later, as you can with any slides.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181029T193233Z" creationid="olex" creationdate="20181029T193233Z">
@@ -15489,6 +15497,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double-click the name of the table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T192452Z" creationid="olex" creationdate="20181204T192452Z">
+        <seg>Дважды нажмите имя таблицы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double-clicking in this area opens a relevant dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180722T160354Z" creationid="olex" creationdate="20180722T160354Z">
@@ -27724,6 +27740,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In our case, do this for both &lt;f0&gt;Vacations&lt;/f0&gt; and &lt;f1&gt;Fuel&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T192556Z" creationid="olex" creationdate="20181204T192556Z">
+        <seg>В нашем случае сделайте это с таблицами &lt;f0&gt;Досуг&lt;/f0&gt; и &lt;f1&gt;Топливо&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In some cases it is convenient to reduce the number of toolbars displayed and get more space for the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T175522Z" creationid="olex" creationdate="20180615T175522Z">
@@ -27896,6 +27920,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180730T172023Z" creationid="olex" creationdate="20180730T172023Z">
         <seg>В разделе &lt;f4&gt;Языки документов по умолчанию&lt;/f4&gt; вы можете выбрать &lt;f5&gt;язык&lt;/f5&gt; для всего текста, который не помечен явно как другой язык.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the Add Tables dialog, use either of these ways to add a table to the Relation Design window:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181204T192356Z" creationid="olex" creationdate="20181204T192356Z">
+        <seg>В диалоговом окне Добавить таблицы используйте любой из следующих способов, для добавления таблицы в окно Конструктор связей:</seg>
       </tuv>
     </tu>
     <tu>
