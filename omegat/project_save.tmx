@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;f0&gt;FuelID&lt;/f0&gt; cannot be used.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T201313Z" creationid="olex" creationdate="20181206T201313Z">
+        <seg>(&lt;f0&gt;ТопливоID&lt;/f0&gt; использовать нельзя.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Date would have to be used.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T201224Z" creationid="olex" creationdate="20181206T201224Z">
+        <seg>(Дата должна быть использована.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Fuel economy need not be included, as it can be calculated using a query.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T182512Z" creationid="olex" creationdate="20181125T182512Z">
@@ -3314,6 +3330,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181129T190157Z" creationid="olex" creationdate="20181129T190157Z">
         <seg>&lt;f0&gt;Шаг 3: &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Задать первичный ключ&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Step 4: &lt;/f0&gt;&lt;i1/&gt;&lt;i2/&gt;&lt;f3&gt;Get joined fields&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T200459Z" creationid="olex" creationdate="20181206T200459Z">
+        <seg>&lt;f0&gt;Шаг 4: &lt;/f0&gt;&lt;i1/&gt;&lt;i2/&gt;&lt;f3&gt;Получить поля объединения&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9728,6 +9752,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because we have already defined the relationship, the wizard skips this step.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T200613Z" creationid="olex" creationdate="20181206T200613Z">
+        <seg>Поскольку мы уже определили связи, то мастер пропустит этот шаг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before creating some types of indexes, you first need to &lt;tc0/&gt;&lt;ts1/&gt;&lt;f2&gt;create&lt;/f2&gt;&lt;te3/&gt; index entries &lt;tc4/&gt;in your Writer document.&lt;ts5/&gt; &lt;f6&gt;T&lt;/f6&gt;he &lt;f7&gt;Writer Guide&lt;/f7&gt; describes the process in detail.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180820T184342Z" creationid="olex" creationdate="20180820T184342Z">
@@ -13040,6 +13072,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T182148Z" creationid="olex" creationdate="20180731T182148Z">
         <seg>Нажмите кнопку &lt;f0&gt;Найти все&lt;/f0&gt; для выбора всех экземпляров поискового запроса в документе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;FuelID&lt;/f0&gt; field to highlight it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T200209Z" creationid="olex" creationdate="20181206T200209Z">
+        <seg>Нажмите поле &lt;f0&gt;ТопливоID&lt;/f0&gt;, чтобы выделить его.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17532,6 +17572,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Adding a subform</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T195727Z" creationid="olex" creationdate="20181206T195727Z">
+        <seg>Рисунок &lt;seq0&gt;14&lt;/seq0&gt;: Добавление подформы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Creating a new category</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T193436Z" creationid="olex" creationdate="20180719T193436Z">
@@ -17632,6 +17680,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T194629Z" creationid="olex" creationdate="20180719T194629Z">
         <seg>Рисунок &lt;seq0&gt;15&lt;/seq0&gt;: Перемещение шаблона в другую категорию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Selecting fields of a sub form</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T200341Z" creationid="olex" creationdate="20181206T200341Z">
+        <seg>Рисунок &lt;seq0&gt;15&lt;/seq0&gt;: Выбор полей подформы</seg>
       </tuv>
     </tu>
     <tu>
@@ -22527,8 +22583,16 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>Fuel is listed as a relation we want to add.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181206T195555Z" creationid="olex" creationdate="20181206T195504Z">
-        <seg>Топливо будет указана как связь, которую мы хотим добавить.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T195602Z" creationid="olex" creationdate="20181206T195504Z">
+        <seg>Топливо будет показана как связь, которую мы хотим добавить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fuel is preselected under &lt;f0&gt;Tables or queries&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T200003Z" creationid="olex" creationdate="20181206T200003Z">
+        <seg>Сперва в списке &lt;f0&gt;Таблицы или запросы&lt;/f0&gt; выбирается Топливо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24226,6 +24290,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T133855Z" creationid="tagezi" creationdate="20180320T133855Z">
         <seg>Как &lt;i0/&gt;выполнить макрос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to do that and why is discussed in the &lt;f0&gt;Base Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T200808Z" creationid="olex" creationdate="20181206T200808Z">
+        <seg>Как это сделать и почему объясняется в &lt;f0&gt;Руководстве по Base&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29550,6 +29622,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is possible to create a relationship between two tables that is based upon more than one pair of fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T200706Z" creationid="olex" creationdate="20181206T200706Z">
+        <seg>Можно создать связь между двумя таблицами, основанную на более чем одной паре полей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is publicly available, royalty-free, and without legal or other restrictions; therefore ODF files are not tied to a specific office suite and anybody can build a program that interprets these files.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T214023Z" creationid="lera" creationdate="20180303T213942Z">
@@ -32899,6 +32979,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No field from the subform can be the Primary key for its table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T201256Z" creationid="olex" creationdate="20181206T201256Z">
+        <seg>Поле из подформы не может быть первичным ключом в своей таблице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non-scalable brackets</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180814T174746Z" creationid="asus" creationdate="20180814T174746Z">
@@ -33948,6 +34036,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181124T185531Z" creationid="olex" creationdate="20181124T185531Z">
         <seg>В одном из полей содержатся имена сотрудников, а в других - номера социального страхования и другие персональные данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of the fields from the main form must be the Primary key for its table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T201157Z" creationid="olex" creationdate="20181206T201157Z">
+        <seg>Одно из полей основной формы должно быть первичным ключом в своей таблице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40807,6 +40903,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 3: Add subform fields</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T195752Z" creationid="olex" creationdate="20181206T195752Z">
+        <seg>Шаг 3: Добавить поля подформы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 4: Create the table</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181129T191608Z" creationid="olex" creationdate="20181129T191608Z">
@@ -41421,6 +41525,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T173016Z" creationid="olex" creationdate="20181001T173016Z">
         <seg>Затем эта информация повторяется на каждой странице этого же же стиля (если только стиль страницы не включает отдельные настройки для первой страницы или для левой и правой страниц).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That is why we used the Date field from both tables: both their field types are Date[DATE].</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T201015Z" creationid="olex" creationdate="20181206T201015Z">
+        <seg>Вот почему мы использовали поле Дата из обеих таблиц: оба поля типа Дата [DATE].</seg>
       </tuv>
     </tu>
     <tu>
@@ -44469,6 +44581,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The only difference is that not all of the fields will be used in the subform.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T195902Z" creationid="olex" creationdate="20181206T195902Z">
+        <seg>Единственное отличие состоит в том, что в подформе будут использоваться не все поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The option &lt;f0&gt;PDF as Standard Print Job Format&lt;/f0&gt; is not available on Windows.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T171026Z" creationid="olex" creationdate="20180628T171026Z">
@@ -45346,8 +45466,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>The topic is dealt with in detail in the Base User Guide and will not be pursued further here.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181206T193315Z" creationid="olex" creationdate="20181206T193315Z">
-        <seg>Для получения подробной информации по этой теме обратитесь к Руководству пользователя по Base.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T200814Z" creationid="olex" creationdate="20181206T193315Z">
+        <seg>Для получения подробной информации по этой теме обратитесь к Руководству по Base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47314,6 +47434,22 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180921T201835Z" creationid="olex" creationdate="20180316T194405Z">
         <seg>Это также можно сделать с помощью разрывов страниц и стилей страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This step is for tables or queries for which no relationship has been defined.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T200550Z" creationid="olex" creationdate="20181206T200550Z">
+        <seg>Этот шаг предназначен для таблиц или запросов, для которых не определены связи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This step is similar to step 1.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T195815Z" creationid="olex" creationdate="20181206T195815Z">
+        <seg>Этот шаг похож на шаг 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51907,6 +52043,22 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the &lt;f0&gt;&lt;&lt;/f0&gt; button to move the &lt;f1&gt;FuelID&lt;/f1&gt; to the left (Figure &lt;t2&gt;15&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T200259Z" creationid="olex" creationdate="20181206T200259Z">
+        <seg>Используйте кнопку &lt;f0&gt;&lt;&lt;/f0&gt;, чтобы переместить &lt;f1&gt;ТопливоID&lt;/f1&gt; влево (Рисунок &lt;t2&gt;15&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the &lt;f0&gt;&gt;&gt;&lt;/f0&gt; button to move all the fields to the right.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T200029Z" creationid="olex" creationdate="20181206T200029Z">
+        <seg>Используйте кнопку &lt;f0&gt;&gt;&gt;&lt;/f0&gt;, чтобы переместить все поля вправо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the &lt;f0&gt;Customize&lt;/f0&gt; page to customize the numbering, color, relative size, and character used for your list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181020T101625Z" creationid="olex" creationdate="20181020T101625Z">
@@ -54018,6 +54170,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When selecting a pair of fields from two tables to use as a relationship, they have to have the same field type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T200931Z" creationid="olex" creationdate="20181206T200931Z">
+        <seg>При выборе пары полей из двух таблиц для использования в качестве связи эти поля должны быть одного и того же типа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When selecting or deselecting a formatting property, the AutoFormat dialog displays the change instantly.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181009T181218Z" creationid="olex" creationdate="20181009T181218Z">
@@ -54560,6 +54720,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T184627Z" creationid="olex" creationdate="20180707T184627Z">
         <seg>Обычно код сохраняется, но оказывается неактивным (если вы проверите его с помощью StarBasic IDE, вы заметите, что все это прокомментировано), то с этой опцией код готов к выполнению.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether a single pair of fields from two tables are chosen as the relationship, or two or more pairs are chosen, certain requirements must be met for the form to work.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T201116Z" creationid="olex" creationdate="20181206T201116Z">
+        <seg>Независимо от того, выбрана одна пара полей в качестве связи или выбраны две или более пар из двух таблиц, для работы формы должны быть выполнены определенные требования.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58917,6 +59085,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>joined fields</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T200408Z" creationid="olex" creationdate="20181206T200408Z">
+        <seg>объединенные поля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>keyboard keys</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180402T195414Z" creationid="olex" creationdate="20180402T195414Z">
@@ -59481,6 +59657,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T191838Z" creationid="olex" creationdate="20180507T191838Z">
         <seg>печать</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>queries (database)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T200420Z" creationid="olex" creationdate="20181206T200420Z">
+        <seg>запросы (база данных)</seg>
       </tuv>
     </tu>
     <tu>
