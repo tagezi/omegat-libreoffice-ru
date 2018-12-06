@@ -38,6 +38,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(I chose the beige.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202926Z" creationid="olex" creationdate="20181206T202926Z">
+        <seg>(Я выбрал бежевый.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(I prefer the 3D look.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T203100Z" creationid="olex" creationdate="20181206T203100Z">
+        <seg>(Я предпочитаю Трехмерный вид.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If you do not have this font on your system, it will not appear in the drop-down list in this box, so you need to type it in.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T180844Z" creationid="olex" creationdate="20180628T180844Z">
@@ -130,6 +146,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181202T115945Z" creationid="olex" creationdate="20181202T115945Z">
         <seg>(Значение по умолчанию: Текст [VARCHAR].)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The labels are column headings and the field entries are in spreadsheet format.) Click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202650Z" creationid="olex" creationdate="20181206T202650Z">
+        <seg>(Подписи будут показаны, как заголовки столбцов, а записи в полях - как ячейки электронных таблиц.) Нажмите &lt;f1&gt;Далее &gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11810,6 +11834,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Finish&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T203413Z" creationid="olex" creationdate="20181206T203413Z">
+        <seg>Нажмите &lt;f0&gt;Готово&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Insert &gt; Bookmark&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T171317Z" creationid="olex" creationdate="20180828T171317Z">
@@ -13457,6 +13489,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T105209Z" creationid="olex" creationdate="20181110T105209Z">
         <seg>Нажмите, чтобы установить конечную точку кривой и зафиксировать форму линии на странице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click&lt;f0&gt; Modify the form&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T203352Z" creationid="olex" creationdate="20181206T203352Z">
+        <seg>Нажмите &lt;f0&gt;Изменить форму&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16732,6 +16772,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter the name for the form.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T203223Z" creationid="olex" creationdate="20181206T203223Z">
+        <seg>Введите имя для формы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter the name in the &lt;f0&gt;Name&lt;/f0&gt; text box when you create the sheet using the Insert Sheet dialog (Figure &lt;t1&gt;14&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;23&lt;/t3&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T090347Z" creationid="olex" creationdate="20180901T090347Z">
@@ -17777,6 +17825,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180809T172218Z" creationid="olex" creationdate="20180809T172218Z">
         <seg>Рисунок &lt;seq0&gt;16&lt;/seq0&gt;: Панель инструментов &lt;tc1/&gt;&lt;tc2/&gt;Форматирование &lt;ts3/&gt;&lt;f4&gt;(стили) &lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;&lt;/f8&gt;&lt;te9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Arrange controls</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202724Z" creationid="olex" creationdate="20181206T202724Z">
+        <seg>Рисунок &lt;seq0&gt;16&lt;/seq0&gt;: Расположение элементов управления</seg>
       </tuv>
     </tu>
     <tu>
@@ -28709,6 +28765,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case, it is &lt;f0&gt;Fuel&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T203320Z" creationid="olex" creationdate="20181206T203320Z">
+        <seg>В нашем случае имя - &lt;f0&gt;Топливо&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this dialog, you can also turn the header on or off, set the margins, and set the spacing between the header and document text.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T174251Z" creationid="olex" creationdate="20181001T174251Z">
@@ -38770,6 +38834,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the Field border you want.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T203157Z" creationid="olex" creationdate="20181206T202954Z">
+        <seg>Выберите подходящий вид обрамления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the Greek character from the symbol list, then click &lt;f0&gt;Insert&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204553Z" creationid="Роман" creationdate="20180316T204553Z">
@@ -38919,6 +38991,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T175750Z" creationid="olex" creationdate="20180802T175750Z">
         <seg>Выберите символы (из любого шрифта или из смеси шрифтов), которые вы хотите вставить, в необходимом порядке и затем нажмите&lt;f0&gt;ОК&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the color you want in the &lt;f0&gt;Apply Styles&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202903Z" creationid="olex" creationdate="20181206T202903Z">
+        <seg>Выберите нужный цвет в списке &lt;f0&gt;Применить стили&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40956,6 +41036,30 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T201521Z" creationid="olex" creationdate="20181206T201521Z">
         <seg>Шаг 5: Расположить элементы управления</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 6: Set data entry</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202747Z" creationid="olex" creationdate="20181206T202747Z">
+        <seg>Шаг 6: Задать источник данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 7: Apply styles</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202834Z" creationid="olex" creationdate="20181206T202834Z">
+        <seg>Шаг 7: Применить стили</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 8: Set name</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T203211Z" creationid="olex" creationdate="20181206T203146Z">
+        <seg>Шаг 8: Задать имя</seg>
       </tuv>
     </tu>
     <tu>
@@ -43767,6 +43871,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T175438Z" creationid="olex" creationdate="20180627T175438Z">
         <seg>Шрифты, которые вы увидите в списке, - это те шрифты, которые установлены в вашей системе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The form opens in Edit mode.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T203459Z" creationid="olex" creationdate="20181206T203459Z">
+        <seg>Форма откроется в режиме редактирования.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51728,6 +51840,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unless you have a need for any of these entries to be checked, accept the default settings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202807Z" creationid="olex" creationdate="20181206T202807Z">
+        <seg>Если вам не требуется проверять любую из этих записей, то примите настройки по умолчанию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unless you select something else here, the locale of the operating system will be set as default.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T173429Z" creationid="olex" creationdate="20180712T173429Z">
@@ -57794,6 +57914,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180415T094050Z" creationid="olex" creationdate="20180415T094050Z">
         <seg>Возможно, вы захотите ввести одну и ту же информацию в одной ячейке на нескольких листах, например, чтобы настроить стандартные списки для группы лиц или организаций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You might want to experiment with the different possible settings.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T203125Z" creationid="olex" creationdate="20181206T203125Z">
+        <seg>Возможно, вам захочется поэкспериментировать с различными доступными настройками.)</seg>
       </tuv>
     </tu>
     <tu>
