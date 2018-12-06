@@ -6461,6 +6461,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A list box is useful when a field contains a fixed choice of options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T192545Z" creationid="olex" creationdate="20181206T192518Z">
+        <seg>Поле со списком полезно, когда оно содержит фиксированный выбор параметров.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A list of all brackets available within Math can be found in Appendix A, Commands Reference, in the &lt;f2&gt;Math Guide&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T115029Z" creationid="asus" creationdate="20180813T115029Z">
@@ -6834,6 +6842,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T190011Z" creationid="tagezi" creationdate="20180320T190011Z">
         <seg>Однако простой пример демонстрирует, как это работает.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A simple form consists of the fields from a table (Figure &lt;t0&gt;11&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T191942Z" creationid="olex" creationdate="20181206T191942Z">
+        <seg>Простая форма состоит из полей таблицы (Рисунок &lt;t0&gt;11&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9989,6 +10005,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T182722Z" creationid="olex" creationdate="20180621T182722Z">
         <seg>Но отменить каждое действие или вспомнить, где произошли изменения, может быть трудной задачей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But, how is the data put into the database?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T191801Z" creationid="olex" creationdate="20181206T191801Z">
+        <seg>Но как данные вносятся в базу данных?</seg>
       </tuv>
     </tu>
     <tu>
@@ -14532,6 +14556,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T160004Z" creationid="olex" creationdate="20180721T160004Z">
         <seg>Интеграция с базами данных, включая базу данных библиографии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Databases are used to store data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T191717Z" creationid="olex" creationdate="20181206T191717Z">
+        <seg>Базы данных используются для хранения данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19543,6 +19575,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;t1&gt;12&lt;/t1&gt;&lt;s2/&gt;is made from the same table with a text label (Fuel Purchases), a list box placed in PaymentType, and a graphic background.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T192528Z" creationid="olex" creationdate="20181206T192451Z">
+        <seg>На Рисунке &lt;t1&gt;12&lt;/t1&gt;&lt;s2/&gt;это производится из той же таблицы с текстовой меткой (Покупка топлива), в поле со списком, помещенном в ТипОплаты, и на графическом фоне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;t1&gt;1&lt;/t1&gt;&lt;s2/&gt;shows part of this window.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T190659Z" creationid="olex" creationdate="20181125T190659Z">
@@ -22057,6 +22097,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180828T175039Z" creationid="olex" creationdate="20180828T175039Z">
         <seg>Формы используются в трех случаях:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forms are used to do this.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T191818Z" creationid="olex" creationdate="20181206T191818Z">
+        <seg>Для этого используются формы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28356,6 +28404,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the language of databases, a form is a front end for data entry and editing.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T191910Z" creationid="olex" creationdate="20181206T191910Z">
+        <seg>На языке баз данных форма является интерфейсом для ввода и редактирования данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the last section of the wizard, you can specify the template name which will show in the Templates dialog, and also the name and location for saving the template.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T185636Z" creationid="olex" creationdate="20180311T185300Z">
@@ -31781,6 +31837,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T085756Z" creationid="tagezi" creationdate="20180320T085756Z">
         <seg>Модули обычно разделяют функциональные возможности, такие как взаимодействие с пользователем и вычисления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More complex forms can contain much more, including additional text, graphics, selection boxes, and many other elements.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T192025Z" creationid="olex" creationdate="20181206T192025Z">
+        <seg>Более сложные формы могут содержать гораздо больше, включая дополнительный текст, графику, поля выбора и многие другие элементы.</seg>
       </tuv>
     </tu>
     <tu>
