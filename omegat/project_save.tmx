@@ -17284,6 +17284,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Fields of a simple form</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T192718Z" creationid="olex" creationdate="20181206T192718Z">
+        <seg>Рисунок &lt;seq0&gt;11&lt;/seq0&gt;: Поля в простой форме</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Getting more templates for LibreOffice</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T202342Z" creationid="olex" creationdate="20180311T202342Z">
@@ -17392,6 +17400,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T180018Z" creationid="olex" creationdate="20180918T180018Z">
         <seg>Рисунок &lt;seq0&gt;12&lt;/seq0&gt;: Выбор темы из Mozilla Firefox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;:Simple form with additions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T192738Z" creationid="olex" creationdate="20181206T192738Z">
+        <seg>Рисунок &lt;seq0&gt;12&lt;/seq0&gt;:Простая форма с дополнениями</seg>
       </tuv>
     </tu>
     <tu>
@@ -19577,8 +19593,8 @@ DONE</note>
       <tuv lang="EN-US">
         <seg>Figure &lt;t1&gt;12&lt;/t1&gt;&lt;s2/&gt;is made from the same table with a text label (Fuel Purchases), a list box placed in PaymentType, and a graphic background.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181206T192528Z" creationid="olex" creationdate="20181206T192451Z">
-        <seg>На Рисунке &lt;t1&gt;12&lt;/t1&gt;&lt;s2/&gt;это производится из той же таблицы с текстовой меткой (Покупка топлива), в поле со списком, помещенном в ТипОплаты, и на графическом фоне.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T192618Z" creationid="olex" creationdate="20181206T192451Z">
+        <seg>На Рисунке &lt;t1&gt;12&lt;/t1&gt;&lt;s2/&gt;это производится из той же таблицы с текстовой меткой (Покупка топлива), в поле со списком ТипОплаты, и на графическом фоне.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21833,6 +21849,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T174826Z" creationid="olex" creationdate="20180627T174826Z">
         <seg>Заставляет использовать OpenGL, даже если графическое устройство занесено в черный список.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Form Wizard</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T193416Z" creationid="olex" creationdate="20181206T193416Z">
+        <seg>Мастер форм</seg>
       </tuv>
     </tu>
     <tu>
@@ -27884,6 +27908,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In our database, payments for food or fuel might be made from one of two credit cards (Dan or Kevin) or in cash, so these would be the available options for all boxes that contain payments.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T192911Z" creationid="olex" creationdate="20181206T192911Z">
+        <seg>В нашей базе данных платежи за еду или за топливо могут производиться одной из двух кредитных карт (Дэн или Кевин) или наличными, так что это будут все доступные варианты для всех полей, которые содержат платежи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In some cases it is convenient to reduce the number of toolbars displayed and get more space for the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T175522Z" creationid="olex" creationdate="20180615T175522Z">
@@ -29651,6 +29683,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T161320Z" creationid="olex" creationdate="20180624T161320Z">
         <seg>Он сбрасывает параметры до значений, которые были на месте, когда вы открыли диалог.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It saves you from having to type data by hand, and ensures that invalid options are not entered.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T192658Z" creationid="olex" creationdate="20181206T192658Z">
+        <seg>Это избавляет вас от необходимости вводить данные вручную и гарантирует, что не будут введены некорректные данные.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45199,6 +45239,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The topic is dealt with in detail in the Base User Guide and will not be pursued further here.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T193315Z" creationid="olex" creationdate="20181206T193315Z">
+        <seg>Для получения подробной информации по этой теме обратитесь к Руководству пользователя по Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: у меня не включется OpenCL и не показывает никаких списков - переводил буквально - что написано, без проверки</note>
       <tuv lang="EN-US">
         <seg>The two boxes below list the OpenCL drivers whitelist and blacklist.</seg>
@@ -46737,6 +46785,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181204T184703Z" creationid="olex" creationdate="20181204T184703Z">
         <seg>Настало время определить их на основе заданных нами в начале вопросов и ответов на них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is then linked to the corresponding field in the form.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T193054Z" creationid="olex" creationdate="20181206T193023Z">
+        <seg>Затем она должна быть связана с соответствующим полем в форме.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48425,6 +48481,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181027T170831Z" creationid="olex" creationdate="20181027T170445Z">
         <seg>Чтобы создать верхний колонтитул, вы можете использовать текстовый блок, как описано в разделе “&lt;bf0&gt;Текст&lt;/bf0&gt;” на странице &lt;bf1&gt;34&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To create a list box, we first need to create a small, separate table containing the options.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T193028Z" creationid="olex" creationdate="20181206T193005Z">
+        <seg>Чтобы создать поле со списком, сначала необходимо создать отдельную небольшую таблицу, содержащую варианты ввода.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52623,6 +52687,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using the &lt;i0/&gt;Wizard to create a form</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T193505Z" creationid="olex" creationdate="20181206T193406Z">
+        <seg>Использование Мастера &lt;i0/&gt; для создания форм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the &lt;i0/&gt;Wizard to create a table</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181126T182312Z" creationid="olex" creationdate="20181126T182312Z">
@@ -53107,6 +53179,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T061600Z" creationid="tagezi" creationdate="20180305T061600Z">
         <seg>Мы будем защищать прошлые инвестиции, основываясь на прочных достижениях нашего первого десятилетия, поощрять широкое участие в Сообществе и координировать деятельность в рамках Сообщества”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will use &lt;i0/&gt;the Form Wizard to create a Vacations form, which will contain a form and a subform.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T193607Z" creationid="olex" creationdate="20181206T193500Z">
+        <seg>Мы будем использовать &lt;i0/&gt;Мастер для создания формы Досуг, которая будет содержать форму и субформу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57989,6 +58069,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>creating using a Wizard</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T193331Z" creationid="olex" creationdate="20181206T193331Z">
+        <seg>создание с помощью Мастера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>cross-references</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180823T184006Z" creationid="olex" creationdate="20180823T184006Z">
@@ -58081,6 +58169,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181124T185939Z" creationid="olex" creationdate="20181124T185939Z">
         <seg>база данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>database form</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T193344Z" creationid="olex" creationdate="20181206T193344Z">
+        <seg>форма базы данных</seg>
       </tuv>
     </tu>
     <tu>
