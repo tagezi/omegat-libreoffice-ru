@@ -1032,6 +1032,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Available fields&lt;/f0&gt; lists the fields for the Vacations table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T194223Z" creationid="olex" creationdate="20181206T194223Z">
+        <seg>Список &lt;f0&gt;Доступные поля&lt;/f0&gt; покажет поля для таблицы Досуг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;B&lt;/f0&gt;&lt;f1&gt;undle&lt;/f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;f3&gt; formatting options under one name.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T182224Z" creationid="olex" creationdate="20180808T182224Z">
@@ -13293,6 +13301,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the right double arrow to move all of these fields to the &lt;f0&gt;Fields in the form&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T194345Z" creationid="olex" creationdate="20181206T194345Z">
+        <seg>Нажмите двойную стрелку вправо, чтобы переместить их в поле &lt;f0&gt;Поля в форме&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the slide and the slide is highlighted (Figure &lt;t0&gt;9&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T173952Z" creationid="olex" creationdate="20181013T173952Z">
@@ -17440,6 +17456,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180926T185352Z" creationid="olex" creationdate="20180926T185352Z">
         <seg>Рисунок &lt;seq0&gt;13&lt;/seq0&gt;: Развернутое диалоговое окно Найти и заменить</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Form Wizard steps</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T194427Z" creationid="olex" creationdate="20181206T194427Z">
+        <seg>Рисунок &lt;seq0&gt;13&lt;/seq0&gt;: Шаги Мастера форм</seg>
       </tuv>
     </tu>
     <tu>
@@ -28300,6 +28324,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Tasks list, double-click &lt;f2&gt;Use Wizard to Create Form&lt;/f2&gt; to open the Form Wizard (Figure &lt;t3&gt;13&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T193810Z" creationid="olex" creationdate="20181206T193810Z">
+        <seg>В списке Задачи дважды нажмите &lt;f2&gt;Использовать мастер для создания формы&lt;/f2&gt;, чтобы открыть Мастер форм (Рисунок &lt;t3&gt;13&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Templates dialog, click the &lt;f0&gt;Action Menu&lt;/f0&gt; icon on the bottom left (Figure &lt;t1&gt;12&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T192808Z" creationid="olex" creationdate="20180313T192808Z">
@@ -28448,6 +28480,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T185636Z" creationid="olex" creationdate="20180311T185300Z">
         <seg>В последнем разделе мастера можно указать имя шаблона, которое будет отображаться в диалоговом окне Шаблоны, а также имя и место расположения для сохранения шаблона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the main database window (Figure &lt;t0&gt;1&lt;/t0&gt;), click the &lt;f1&gt;Forms&lt;/f1&gt; icon in the left column.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T193708Z" creationid="olex" creationdate="20181206T193708Z">
+        <seg>В главном окне базы данных (Рисунок &lt;t0&gt;1&lt;/t0&gt;) нажмите значок &lt;f1&gt;Формы&lt;/f1&gt; слева.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39853,6 +39893,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Simple forms require only some of these steps, while more complex forms may use all of them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T193917Z" creationid="olex" creationdate="20181206T193917Z">
+        <seg>Простые формы требуют только некоторых из следующих шагов, в то время как для более сложных форм можно использовать их все.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simple wildcards such as the &lt;f0&gt;asterisk (*)&lt;/f0&gt;, &lt;f1&gt;question mark (?)&lt;/f1&gt;, and &lt;f2&gt;tilde (~)&lt;/f2&gt; from other spreadsheet applications are recognized by LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180515T172808Z" creationid="olex" creationdate="20180327T183203Z">
@@ -40697,8 +40745,16 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Step 1: Select fields</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181126T184114Z" creationid="olex" creationdate="20181126T184114Z">
-        <seg>Шаг 1: Выбрать поля</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T194518Z" creationid="olex" creationdate="20181126T184114Z">
+        <seg>Шаг 1: Выбор поля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 2: Set up a subform</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T194556Z" creationid="olex" creationdate="20181206T194509Z">
+        <seg>Шаг 2: Настройка подформы</seg>
       </tuv>
     </tu>
     <tu>
@@ -51290,6 +51346,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T103835Z" creationid="olex" creationdate="20180815T103821Z">
         <seg>Под Расстановка переносов выберите или снимите выбор с параметра &lt;f0&gt;Автоматический перенос&lt;/f0&gt;&lt;ts1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Under Tables or queries, select Table: Vacations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T194112Z" creationid="olex" creationdate="20181206T194112Z">
+        <seg>В выпадающем списке Таблицы или запросы выберите Таблица:Досуг.</seg>
       </tuv>
     </tu>
     <tu>
