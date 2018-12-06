@@ -6143,8 +6143,8 @@
       <tuv lang="EN-US">
         <seg>A control in a form consists of two parts: label and field.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181206T201550Z" creationid="olex" creationdate="20181206T201550Z">
-        <seg>Элементы управления в форме состоят из двух частей: метки и поля.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202338Z" creationid="olex" creationdate="20181206T201550Z">
+        <seg>Элементы управления в форме состоят из двух частей: подписи и поля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8865,6 +8865,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T202238Z" creationid="olex" creationdate="20181206T202238Z">
         <seg>Расположение главной формы: нажмите вторую иконку (&lt;f0&gt;Столбцы - подписи сверху&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arrangement of the sub form: Click the third icon (&lt;f0&gt;As Data Sheet&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202447Z" creationid="olex" creationdate="20181206T202447Z">
+        <seg>Расположение подформы: нажмите третий значок (&lt;f0&gt;Как лист данных&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44077,8 +44085,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The labels will be placed above their field.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202325Z" creationid="olex" creationdate="20181206T202325Z">
-        <seg>Подписи будут помещены над их полем.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202407Z" creationid="olex" creationdate="20181206T202325Z">
+        <seg>Подписи будут помещены над их полями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47489,8 +47497,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>This step in creating the form determines where a control’s label and field are placed relative to each other.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181206T201836Z" creationid="olex" creationdate="20181206T201836Z">
-        <seg>Этот шаг при создании формы определяет, как размещены относительно друг друга элементы управления метки и поля.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202353Z" creationid="olex" creationdate="20181206T201836Z">
+        <seg>Этот шаг при создании формы определяет, как будут размещены относительно друг друга элементы управления подписи и поля.</seg>
       </tuv>
     </tu>
     <tu>
