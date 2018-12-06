@@ -6141,6 +6141,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A control in a form consists of two parts: label and field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T201550Z" creationid="olex" creationdate="20181206T201550Z">
+        <seg>Элементы управления в форме состоят из двух частей: метки и поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A copy of an object is independent of the original object, so changes to the object have no effect on the copy.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T081518Z" creationid="olex" creationdate="20180915T081518Z">
@@ -8849,6 +8857,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181124T124001Z" creationid="olex" creationdate="20181124T124001Z">
         <seg>Изменяйте расположение объекта, перемещая его вперед или назад относительно других объектов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arrangement of the main form: Click the second icon (&lt;f0&gt;Columnar—Labels on top&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202238Z" creationid="olex" creationdate="20181206T202238Z">
+        <seg>Расположение главной формы: нажмите вторую иконку (&lt;f0&gt;Столбцы - подписи сверху&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16383,6 +16399,15 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T170826Z" creationid="olex" creationdate="20180330T170826Z">
         <seg>На каждой из этих панелей есть кнопка &lt;f0&gt;Дополнительные параметры&lt;/f0&gt;, которая открывает диалоговое окно с большим количеством настроек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>денкин: описка в оригинале, вместо file должно быть field</note>
+      <tuv lang="EN-US">
+        <seg>Each pair of joined fields must have the same file type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T201450Z" creationid="olex" creationdate="20181206T201450Z">
+        <seg>Каждая пара связанных полей должна быть одного и того же типа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40919,6 +40944,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 5: Arrange controls</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T201521Z" creationid="olex" creationdate="20181206T201521Z">
+        <seg>Шаг 5: Расположить элементы управления</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stop recording the macro and save the macro, see “&lt;bf0&gt;Recording a macro&lt;/bf0&gt;” on page &lt;bf1&gt;6&lt;/bf1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T072549Z" creationid="tagezi" creationdate="20180319T072549Z">
@@ -43754,6 +43787,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The four choices from left to right are &lt;f0&gt;Columnar left, Columnar—Labels on top&lt;/f0&gt;, As &lt;f1&gt;Data Sheet, and In Blocks – Labels Above&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202136Z" creationid="olex" creationdate="20181206T202136Z">
+        <seg>Четыре варианта слева направо: &lt;f0&gt;Столбцы - подписи слева, Столбцы - подписи сверху&lt;/f0&gt;, &lt;f1&gt;Как лист данных, Блоки - подписи сверху&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The four essential rights of open-source software are embodied within the Free Software Foundation’s &lt;f0&gt;General Public License&lt;/f0&gt; (GPL):</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="lera" changedate="20180303T205112Z" creationid="lera" creationdate="20180303T205112Z">
@@ -44030,6 +44071,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T182215Z" creationid="olex" creationdate="20180306T181449Z">
         <seg>Ключевой идеей при работе с компьютерной документацией является разделение содержания и форматирования документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The labels will be placed above their field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202325Z" creationid="olex" creationdate="20181206T202325Z">
+        <seg>Подписи будут помещены над их полем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47434,6 +47483,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180921T201835Z" creationid="olex" creationdate="20180316T194405Z">
         <seg>Это также можно сделать с помощью разрывов страниц и стилей страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This step in creating the form determines where a control’s label and field are placed relative to each other.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T201836Z" creationid="olex" creationdate="20181206T201836Z">
+        <seg>Этот шаг при создании формы определяет, как размещены относительно друг друга элементы управления метки и поля.</seg>
       </tuv>
     </tu>
     <tu>
