@@ -12234,6 +12234,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Subform based upon existing relation.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T195340Z" creationid="olex" creationdate="20181206T195340Z">
+        <seg>Нажмите Подформа на основе существующей связи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click above the top margin (or below the bottom margin) to make the Header or Footer marker appear (Figure &lt;t0&gt;23&lt;/t0&gt;), and then click on the &lt;f1&gt;+&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181001T173324Z" creationid="olex" creationdate="20181001T173324Z">
@@ -13233,6 +13241,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T175123Z" creationid="olex" creationdate="20180731T175123Z">
         <seg>Нажмите стрелку рядом с кнопкой &lt;f0&gt;Вставить&lt;/f0&gt; или</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the box labeled &lt;f0&gt;Add Subform.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T194905Z" creationid="olex" creationdate="20181206T194905Z">
+        <seg>Поставьте флажок, чтобы активировать &lt;f0&gt;Добавить подформу&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22509,6 +22525,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fuel is listed as a relation we want to add.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T195555Z" creationid="olex" creationdate="20181206T195504Z">
+        <seg>Топливо будет указана как связь, которую мы хотим добавить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Full Screen &lt;f0&gt;v&lt;/f0&gt;iew</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T165800Z" creationid="olex" creationdate="20180727T165800Z">
@@ -25146,6 +25170,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T130309Z" creationid="tagezi" creationdate="20180320T130309Z">
         <seg>Если параметры не выбраны, библиотека будет скопирована в ваш каталог пользователя макросов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If no relationship had been defined, this would need to be done in step 4.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T194734Z" creationid="olex" creationdate="20181206T194734Z">
+        <seg>Если связи не были определены, то это необходимо сделать на шаге 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39957,6 +39989,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since we have already created a relationship between the Fuel and Vacations tables, we will use that relationship.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T194706Z" creationid="olex" creationdate="20181206T194706Z">
+        <seg>Поскольку мы уже создали связь между таблицами Топливо и Досуг, то будем использовать эту связь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Single cell</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180326T182849Z" creationid="olex" creationdate="20180326T181717Z">
@@ -40137,6 +40177,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T183131Z" creationid="olex" creationdate="20181125T183006Z">
         <seg>Итак, поле для примечаний было добавлено в список.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So click Fuel to highlight it, as in Figure &lt;t0&gt;14&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T195548Z" creationid="olex" creationdate="20181206T195548Z">
+        <seg>Нажмите Топливо, чтобы выделить ее, как на рисунке &lt;t0&gt;14&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53249,8 +53297,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>We will use &lt;i0/&gt;the Form Wizard to create a Vacations form, which will contain a form and a subform.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181206T193607Z" creationid="olex" creationdate="20181206T193500Z">
-        <seg>Мы будем использовать &lt;i0/&gt;Мастер для создания формы Досуг, которая будет содержать форму и субформу.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181206T194622Z" creationid="olex" creationdate="20181206T193500Z">
+        <seg>Мы будем использовать &lt;i0/&gt;Мастер для создания формы Досуг, которая будет содержать форму и подформу.</seg>
       </tuv>
     </tu>
     <tu>
