@@ -614,3 +614,14 @@ FuelID	ТопливоID
 Integer [INTEGER]	Целое [INTEGER]
 Text [VARCHAR]	Текст [VARCHAR]
 Field Type	Тип поля
+AutoValue	Автозначение
+Primary key	Первичный ключ
+FuelCost	ЦенаТоплива
+FuelQuantity	КоличествоТоплива
+Odometer	Одометр
+PaymentType	ТипОплаты
+Date[DATE]	Дата [DATE]
+Number [NUMERIC]	Число [NUMERIC]
+Fuel	Топливо
+Vacations	Досуг
+Maintenance	Обслуживание
