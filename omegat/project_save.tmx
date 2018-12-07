@@ -35947,6 +35947,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Provide a drop-down capability for the Date field in the main form, and lengthen the field to show the day of the week, month, day, and year.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181207T201457Z" creationid="olex" creationdate="20181207T201457Z">
+        <seg>Укажите Поле со списком для Дата в основной форме и увеличьте поле, чтобы показать день недели, месяц, день и год.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>составил фразу по своему вкусу, чтобы лучше и понятнее передать смысл, как мне кажеться</note>
       <tuv lang="EN-US">
         <seg>Provides a number of slide transition options.</seg>
@@ -39994,6 +40002,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180316T141512Z" creationid="tagezi" creationdate="20180316T141512Z">
         <seg>Сочетание клавиш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shorten the length of the payment fields (all fields containing the word Payment).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181207T201926Z" creationid="olex" creationdate="20181207T201926Z">
+        <seg>Сократите длину полей оплаты (все поля, содержащие слово Оплата).</seg>
       </tuv>
     </tu>
     <tu>
