@@ -20030,6 +20030,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, we must decide what we want to change.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181207T200525Z" creationid="olex" creationdate="20181207T200525Z">
+        <seg>Во-первых, мы должны решить, что мы хотим изменить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flipping objects</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T155022Z" creationid="olex" creationdate="20180603T155022Z">
@@ -34812,8 +34820,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Or, for each table, click the name of the table and then click &lt;f0&gt;Add&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181204T192751Z" creationid="olex" creationdate="20181204T192751Z">
-        <seg>Или, для каждой таблицы, нажмите имя таблицы, а затем нажмите &lt;f0&gt;Добавить&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181207T200441Z" creationid="olex" creationdate="20181204T192751Z">
+        <seg>Или, для каждой таблицы по отдельности, нажмите имя таблицы, а затем нажмите &lt;f0&gt;Добавить&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43519,6 +43527,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T090235Z" creationid="tagezi" creationdate="20180315T090235Z">
         <seg>Обсуждение начинается с функций, находящихся в верхней части списка макросов, и описывает их.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The discussion will follow this ten step outline of our planned changes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181207T200636Z" creationid="olex" creationdate="20181207T200636Z">
+        <seg>Дискуссия будет следовать этим десяти шагам наших запланированных изменений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53618,8 +53634,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>We will also modify the label for the PaymentType field as well as change the field to a list box.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181207T195457Z" creationid="olex" creationdate="20181207T195457Z">
-        <seg>Мы также изменим метку поля PaymentType, а также изменим поле в поле списка.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181207T200504Z" creationid="olex" creationdate="20181207T195457Z">
+        <seg>Мы также изменим метку поля ТипОплаты, а также изменим поле в поле списка.</seg>
       </tuv>
     </tu>
     <tu>
