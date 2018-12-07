@@ -610,3 +610,7 @@ primary key	первичный ключ
 AutoValue	Автозначение
 relationships	реляционные связи
 subform	подформ
+FuelID	ТопливоID
+Integer [INTEGER]	Целое [INTEGER]
+Text [VARCHAR]	Текст [VARCHAR]
+Field Type	Тип поля
