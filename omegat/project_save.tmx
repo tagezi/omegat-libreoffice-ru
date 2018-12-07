@@ -53616,6 +53616,22 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We will also modify the label for the PaymentType field as well as change the field to a list box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181207T195457Z" creationid="olex" creationdate="20181207T195457Z">
+        <seg>Мы также изменим метку поля PaymentType, а также изменим поле в поле списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will be moving the controls to different places in the form and changing the background to a picture.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181207T195239Z" creationid="olex" creationdate="20181207T195239Z">
+        <seg>Мы будем перемещать элементы управления в разные места в форме и устанавливать фоновое изображение.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We will create a table with fields from three different suggested tables in the Wizard.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181126T183201Z" creationid="olex" creationdate="20181126T183201Z">
