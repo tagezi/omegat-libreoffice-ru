@@ -10874,6 +10874,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change the wording of some of the labels.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181207T203746Z" creationid="olex" creationdate="20181207T203746Z">
+        <seg>Измените содержание некоторых надписей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change tracking during revisions</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T155937Z" creationid="olex" creationdate="20180721T155937Z">
@@ -32360,6 +32368,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T183227Z" creationid="olex" creationdate="20180411T183227Z">
         <seg>Переместите фокус в другую ячейку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the controls into groups: food, fuel subform, and miscellaneous.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181207T202030Z" creationid="olex" creationdate="20181207T202030Z">
+        <seg>Переместите элементы управления в группы: питание, подформа Топливо и другое.</seg>
       </tuv>
     </tu>
     <tu>
