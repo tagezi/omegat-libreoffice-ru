@@ -7247,6 +7247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add headings for each group in the main form.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T121554Z" creationid="olex" creationdate="20181208T121554Z">
+        <seg>Добавьте заголовки для каждой группы в основной форме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add new slides to the presentation.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T073810Z" creationid="olex" creationdate="20180915T073613Z">
@@ -10838,6 +10846,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181202T121807Z" creationid="olex" creationdate="20181202T121807Z">
         <seg>Измените Свойства поля в нижней части окна.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change the background to a picture, then modify some of the labels so that they can be read clearly against this background.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T122214Z" creationid="olex" creationdate="20181208T122214Z">
+        <seg>Измените фон на изображение, затем измените некоторые метки, чтобы их можно было четко прочитать на этом фоне.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30280,6 +30296,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lengthen the Note field vertically, add a scroll bar, and move it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T121454Z" creationid="olex" creationdate="20181208T121454Z">
+        <seg>Увеличьте поле Заметки по вертикали, добавьте полосу прокрутки и переместите ее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lera Goncaruk</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T091400Z" creationid="tagezi" creationdate="20180305T091400Z">
@@ -31438,6 +31462,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181027T160556Z" creationid="olex" creationdate="20181027T160556Z">
         <seg>Внесите все необходимые изменения в слайд-мастер, а затем нажмите значок &lt;f0&gt;Закрыть режим мастера&lt;/f0&gt; на панели инструментов Режим мастера или выберите в меню &lt;f1&gt;Вид &gt; Обычный&lt;/f1&gt;, чтобы выйти из редактирования слайд-мастера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make changes in the Date and PaymentType columns of the subform to match the changes in the main form.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T121540Z" creationid="olex" creationdate="20181208T121540Z">
+        <seg>Внесите изменения в столбцы Дата и ТипОплаты подчиненной формы, чтобы они соответствовали изменениям в основной форме.</seg>
       </tuv>
     </tu>
     <tu>
