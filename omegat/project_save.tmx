@@ -46172,8 +46172,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>Then drag it to the right close to the Lunch control.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181208T125409Z" creationid="olex" creationdate="20181208T125409Z">
-        <seg>Затем перетащите его вправо близко к элементу управления Ланч.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T125513Z" creationid="olex" creationdate="20181208T125409Z">
+        <seg>Затем разместите его справа от элемента управления Ланч.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54506,6 +54506,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When either changing size or moving a control, two properties of the Form Design toolbar should be selected: &lt;f0&gt;Snap to Grid&lt;/f0&gt;, and &lt;f1&gt;Guides when Moving&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T125903Z" creationid="olex" creationdate="20181208T125903Z">
+        <seg>При изменении размера или перемещении элемента управления следует выбрать два свойства панели инструментов Конструктор форм: &lt;f0&gt;Привязка к сетке&lt;/f0&gt; и &lt;f1&gt;Линии при перемещении&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When entering a time, separate time elements with colons, for example 10:43:45.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T191316Z" creationid="olex" creationdate="20180412T191231Z">
@@ -58334,6 +58342,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You should also have both rulers active (&lt;f2&gt;View &gt; Ruler&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T130525Z" creationid="olex" creationdate="20181208T130525Z">
+        <seg>Вы также должны активировать обе линейки (&lt;f2&gt;Вид &gt; Линейки&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You should be able to download other icon sets from the software repository for your Linux distribution if you wish to use them.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T104051Z" creationid="tagezi" creationdate="20180310T104051Z">
@@ -58370,6 +58386,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181128T194405Z" creationid="olex" creationdate="20181128T194405Z">
         <seg>Допустимое количество дорожек - 127.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your controls will line up better, and an outline of what you are moving moves as the cursor moves.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T130413Z" creationid="olex" creationdate="20181208T130413Z">
+        <seg>Ваши элементы управления будут лучше выровнены, и контур перемещаемого элемента будет двигаться вместе с объектом.</seg>
       </tuv>
     </tu>
     <tu>
