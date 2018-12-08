@@ -13429,6 +13429,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the Control icon (circled in red).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T131608Z" creationid="olex" creationdate="20181208T131608Z">
+        <seg>Нажмите значок управления (обведено красным).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the Tolls control to select it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181208T125444Z" creationid="olex" creationdate="20181208T125339Z">
@@ -16523,6 +16531,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each line contains a property of the field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T131846Z" creationid="olex" creationdate="20181208T131846Z">
+        <seg>Каждая строка содержит свойство поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each line in a CSV text file represents a row in a spreadsheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T185516Z" creationid="olex" creationdate="20180330T184533Z">
@@ -18315,6 +18331,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181113T182314Z" creationid="olex" creationdate="20181113T182314Z">
         <seg>Рисунок &lt;seq0&gt;20&lt;/seq0&gt;: Панель инструментов Основные фигуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Form &lt;f1&gt;Design&lt;/f1&gt; toolbar</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T131914Z" creationid="olex" creationdate="20181208T131914Z">
+        <seg>Рисунок &lt;seq0&gt;20&lt;/seq0&gt;: Панель инструментов &lt;f1&gt;Конструктор форм&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46174,6 +46198,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181010T190323Z" creationid="olex" creationdate="20181010T190323Z">
         <seg>Виды рабочей области описаны в разделе «&lt;bf0&gt;Виды рабочей области&lt;/bf0&gt;» на странице &lt;bf1&gt;9&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The&lt;f0&gt; Properties: Date Field&lt;/f0&gt; window opens.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T131830Z" creationid="olex" creationdate="20181208T131830Z">
+        <seg>Откроется окно &lt;f0&gt;Свойства: поле Дата&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
