@@ -9140,6 +9140,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>As you drag the cursor, a dashed box appears, showing what is contained in your selection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T124040Z" creationid="olex" creationdate="20181208T124040Z">
+        <seg>Когда вы перетаскиваете курсор, то появляется пунктирная рамка, показывающая, что содержится в вашем выделении.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Как то коряво получается, посмотреть потом</note>
       <tuv lang="EN-US">
         <seg>As you draw the rectangle with the mouse cursor, the rectangle appears with its bottom right corner attached to the cursor.</seg>
@@ -13397,6 +13405,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the Tolls control to select it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T125444Z" creationid="olex" creationdate="20181208T125339Z">
+        <seg>Нажмите элемент управления Сборы, чтобы выбрать его.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the arrow button of the combination &lt;f0&gt;Paste&lt;/f0&gt; button, or</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180731T175123Z" creationid="olex" creationdate="20180731T175123Z">
@@ -15945,6 +15961,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drag the group of controls to where you want them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T125259Z" creationid="olex" creationdate="20181208T125259Z">
+        <seg>Перетащите группу элементов управления туда, куда вам необходимо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drag the mouse in any direction or hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click in the last cell you want to fill.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T140758Z" creationid="olex" creationdate="20180414T140758Z">
@@ -18145,6 +18169,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180701T175547Z" creationid="olex" creationdate="20180701T175547Z">
         <seg>Рисунок &lt;seq0&gt;19&lt;/seq0&gt;: Настройки обновления по сети</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Selecting multiple controls</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T124441Z" creationid="olex" creationdate="20181208T124441Z">
+        <seg>Рисунок &lt;seq0&gt;19&lt;/seq0&gt;: Выбор нескольких элементов управления</seg>
       </tuv>
     </tu>
     <tu>
@@ -29583,6 +29615,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It changes to a drag icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T125224Z" creationid="olex" creationdate="20181208T125224Z">
+        <seg>Курсор изменится на значок перетаскивания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It checks for single spaces between words, indicating instances of double or triple spaces, but not of more spaces than that.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180714T074230Z" creationid="olex" creationdate="20180714T074230Z">
@@ -31554,6 +31594,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure it is big enough to include the entire length of all the controls.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T124151Z" creationid="olex" creationdate="20181208T124151Z">
+        <seg>Убедитесь, что она достаточно большая, чтобы включить все элементы управления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure macro recording is enabled by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f0&gt; on the main menu bar and selecting the option &lt;f1&gt;Enable macro recording&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060158Z" creationid="tagezi" creationdate="20180313T095717Z">
@@ -32500,6 +32548,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the cursor over one of the fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T124646Z" creationid="olex" creationdate="20181208T124646Z">
+        <seg>Наведите курсор на одно из полей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the cursor over the small square in the bottom right corner of the selected cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T141534Z" creationid="olex" creationdate="20180414T141534Z">
@@ -32518,8 +32574,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Move the cursor to just above and to the left of the selected control.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181208T123911Z" creationid="olex" creationdate="20181208T123911Z">
-        <seg>Переместите курсор чуть выше и левее от выбранного элемента управления.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T123930Z" creationid="olex" creationdate="20181208T123911Z">
+        <seg>Переместите курсор чуть выше и левее выбранного элемента управления.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46113,6 +46169,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Then drag it to the right close to the Lunch control.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T125409Z" creationid="olex" creationdate="20181208T125409Z">
+        <seg>Затем перетащите его вправо близко к элементу управления Ланч.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>совсем не уверен в правильности перевода и даже в том - правильно ли я понял смысл</note>
       <tuv lang="EN-US">
         <seg>Then enter the base word in the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Word&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; field and enter a word in the &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Grammar by&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; field that that has the same variations as the base word.</seg>
@@ -55013,6 +55077,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you release the mouse button, a border with its green handles appears around the controls you selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T124230Z" creationid="olex" creationdate="20181208T124230Z">
+        <seg>Когда вы отпустите кнопку мыши, то вокруг выбранных элементов управления появится рамка с зелеными маркерами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you save a document, these settings are saved with it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180706T175735Z" creationid="olex" creationdate="20180706T175735Z">
@@ -57359,8 +57431,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can press the &lt;f1&gt;Tab&lt;/f1&gt; key to change the selection from the field to the label or the label to the field.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181208T123724Z" creationid="olex" creationdate="20181208T123724Z">
-        <seg>Нажатие клавиши &lt;f1&gt;Tab&lt;/ f1&gt; переносит выбор с поля на надпись или с надписи на поле.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T124304Z" creationid="olex" creationdate="20181208T123724Z">
+        <seg>Нажатие клавиши &lt;f1&gt;Tab&lt;/f1&gt; переносит выбор с поля на надпись или с надписи на поле.</seg>
       </tuv>
     </tu>
     <tu>
