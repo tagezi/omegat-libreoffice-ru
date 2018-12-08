@@ -6069,6 +6069,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A border appears around the control with eight green handles.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T122840Z" creationid="olex" creationdate="20181208T122840Z">
+        <seg>Вокруг элемента управления появляется рамка и восемь зелеными маркеров.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A bulleted list is created when you type a hyphen (-), star (*), or plus sign (+), followed by a space or tab at the beginning of a paragraph.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T155202Z" creationid="olex" creationdate="20180811T155202Z">
@@ -10858,6 +10866,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change the font color of the headings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T122455Z" creationid="olex" creationdate="20181208T122455Z">
+        <seg>Изменить цвет шрифта заголовков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change the key that accepts a suggested entry—the options are &lt;f0&gt;right arrow&lt;/f0&gt;, &lt;f1&gt;End&lt;/f1&gt; key, &lt;f2&gt;Return&lt;/f2&gt; (&lt;f3&gt;Enter&lt;/f3&gt;), &lt;f4&gt;Space bar&lt;/f4&gt;, and &lt;f5&gt;Tab.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T175109Z" creationid="olex" creationdate="20180808T175013Z">
@@ -13537,6 +13553,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T203352Z" creationid="olex" creationdate="20181206T203352Z">
         <seg>Нажмите &lt;f0&gt;Изменить форму&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clicking a label or field selects the entire control.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T122750Z" creationid="olex" creationdate="20181208T122750Z">
+        <seg>Нажатие надписи или поля выделяет весь элемент управления.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17937,6 +17961,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T180857Z" creationid="olex" creationdate="20180918T180857Z">
         <seg>Рисунок &lt;seq0&gt;17&lt;/seq0&gt;: &lt;f1&gt;Диалоговое окно параметров IDE Basic&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: A selected control</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T122936Z" creationid="olex" creationdate="20181208T122936Z">
+        <seg>Рисунок &lt;seq0&gt;17&lt;/seq0&gt;: Выбранный элемент управления</seg>
       </tuv>
     </tu>
     <tu>
@@ -24003,6 +24035,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T162347Z" creationid="olex" creationdate="20180624T162347Z">
         <seg>Справка – Подробные всплывающие подсказки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here are some methods that we will be using in these steps.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T122542Z" creationid="olex" creationdate="20181208T122542Z">
+        <seg>Вот несколько методов, которые мы будем использовать при этих действиях.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40815,6 +40855,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sometimes we want to work with the entire control, sometimes with only the label or the field, and there are times when we want to work with a group of controls.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T122720Z" creationid="olex" creationdate="20181208T122720Z">
+        <seg>Иногда необходимо работать со всем элементом управления, а иногда только с надписью или полем, так же бывают случаи, когда необходимо работать с группой элементов управления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sometimes you may want to hide the contents of a sheet to preserve data from accidental editing or because its contents are not important to display.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181008T184022Z" creationid="olex" creationdate="20181008T184022Z">
@@ -43367,6 +43415,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180306T173112Z" creationid="olex" creationdate="20180306T173112Z">
         <seg>Авторы этого издания:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The controls in the main form consist of a label and its field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T122619Z" creationid="olex" creationdate="20181208T122619Z">
+        <seg>Элементы управления в основной форме состоят из надписей и полей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57538,6 +57594,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T170417Z" creationid="olex" creationdate="20180409T170227Z">
         <seg>Затем вы можете изменять число в ячейке и смотреть, как это влияет на каждую из формул.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can then drag and drop it where you want.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T122921Z" creationid="olex" creationdate="20181208T122921Z">
+        <seg>Теперь вы можете перетащить элемент управления туда, куда хотите.</seg>
       </tuv>
     </tu>
     <tu>
