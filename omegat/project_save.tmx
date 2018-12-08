@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Figure &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;t3&gt;21&lt;/t3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;) If it is not visible, select &lt;/f4&gt;&lt;f5&gt;View &gt; Toolbars &gt; Form Controls&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T130751Z" creationid="olex" creationdate="20181208T130751Z">
+        <seg>(Рисунок &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;t3&gt;21&lt;/t3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;) Если ее не видно, то выберите &lt;/f4&gt;&lt;f5&gt;Вид &gt; Панели инструментов &gt; Элементы управления&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Fuel economy need not be included, as it can be calculated using a query.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T182512Z" creationid="olex" creationdate="20181125T182512Z">
@@ -1434,6 +1442,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; the Date field to select it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T130932Z" creationid="olex" creationdate="20181208T130932Z">
+        <seg>&lt;f0&gt;Ctrl+Нажать&lt;/f0&gt; поле Дата, чтобы выбрать его.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Cursor position&lt;/f0&gt; – the position of the cursor or of the top left corner of the selection measured from the top left corner of the slide, followed by the width and height of the selection or text box where the cursor is located.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180916T075609Z" creationid="olex" creationdate="20180916T075609Z">
@@ -2731,6 +2747,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T172453Z" creationid="olex" creationdate="20180611T172453Z">
         <seg>&lt;f0&gt;Открытый исходный код.&lt;/f0&gt; Вы можете распространять, копировать и изменять программное обеспечение столько, сколько пожелаете, в соответствии с лицензиями на открытый исходный код LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Open the Form Design toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T130615Z" creationid="olex" creationdate="20181208T130615Z">
+        <seg>&lt;f0&gt;Откройте панель инструментов Конструктор форм.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24463,6 +24487,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold the left mouse button down as you drag the cursor to the right until the length is 6 cm.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T131105Z" creationid="olex" creationdate="20181208T131105Z">
+        <seg>Удерживая левую кнопку мыши, переместите курсор вправо, пока длина поля не станет 6 см.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Horizontal lines.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T154338Z" creationid="olex" creationdate="20180811T154338Z">
@@ -30104,6 +30136,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It should change to a double-headed arrow.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T131033Z" creationid="olex" creationdate="20181208T131033Z">
+        <seg>Курсор должен измениться на двойную стрелку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It should now look like Figure &lt;t1&gt;9&lt;/t1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181204T193821Z" creationid="olex" creationdate="20181204T193821Z">
@@ -32552,6 +32592,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181208T124646Z" creationid="olex" creationdate="20181208T124646Z">
         <seg>Наведите курсор на одно из полей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the cursor over the middle green handle on the right side.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T131003Z" creationid="olex" creationdate="20181208T131003Z">
+        <seg>Наведите курсор на средний зеленый маркер с правой стороны.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41264,6 +41312,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 1: Change the Date field</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T130547Z" creationid="olex" creationdate="20181208T130547Z">
+        <seg>Шаг 1: Изменить поле даты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 1: Select fields</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T194518Z" creationid="olex" creationdate="20181126T184114Z">
@@ -46030,6 +46086,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T114820Z" creationid="tagezi" creationdate="20180315T114627Z">
         <seg>Эти значения называются аргументами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The vertical dashed line is lined up with the 6.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T131129Z" creationid="olex" creationdate="20181208T131129Z">
+        <seg>Вертикальная пунктирная линия выровняется с цифрой 6.</seg>
       </tuv>
     </tu>
     <tu>
