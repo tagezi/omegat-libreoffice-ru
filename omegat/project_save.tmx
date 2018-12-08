@@ -1426,6 +1426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; a label or field selects only the label or the field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T123021Z" creationid="olex" creationdate="20181208T123021Z">
+        <seg>&lt;f0&gt;Ctrl+Нажать&lt;/f0&gt; выбирает только надпись или поле.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Cursor position&lt;/f0&gt; – the position of the cursor or of the top left corner of the selection measured from the top left corner of the slide, followed by the width and height of the selection or text box where the cursor is located.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180916T075609Z" creationid="olex" creationdate="20180916T075609Z">
@@ -13437,6 +13445,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the field of the top left control to be moved, to select it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T123850Z" creationid="olex" creationdate="20181208T123850Z">
+        <seg>Нажмите поле верхнего левого элемента управления, который нужно переместить, чтобы выбрать его.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the last column or row in the group.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T183858Z" creationid="olex" creationdate="20180405T183858Z">
@@ -15921,6 +15937,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drag the cursor to the bottom right of the group of controls and release the mouse button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T123925Z" creationid="olex" creationdate="20181208T123925Z">
+        <seg>Перетащите курсор в нижний правый угол группы элементов управления и отпустите кнопку мыши.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drag the mouse in any direction or hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click in the last cell you want to fill.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T140758Z" creationid="olex" creationdate="20180414T140758Z">
@@ -18057,6 +18081,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T100452Z" creationid="olex" creationdate="20180815T100406Z">
         <seg>Рисунок &lt;seq0&gt;18&lt;/seq0&gt;: Выбор шага табуляции по умолчанию</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Selecting a field of a control</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T123748Z" creationid="olex" creationdate="20181208T123748Z">
+        <seg>Рисунок &lt;seq0&gt;18&lt;/seq0&gt;: Выбор поля в элементе управления</seg>
       </tuv>
     </tu>
     <tu>
@@ -32484,6 +32516,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the cursor to just above and to the left of the selected control.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T123911Z" creationid="olex" creationdate="20181208T123911Z">
+        <seg>Переместите курсор чуть выше и левее от выбранного элемента управления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the cursor to the Input Line on the Formula Bar (Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;9&lt;/t2&gt;) and click at the position where you want to start entering the new data in the cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180418T194839Z" creationid="olex" creationdate="20180418T194818Z">
@@ -32824,6 +32864,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T175209Z" creationid="olex" creationdate="20180403T174301Z">
         <seg>Перемещает фокус на одну ячейку вверх.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moving a group of controls is almost as easy as moving one of them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T123817Z" creationid="olex" creationdate="20181208T123817Z">
+        <seg>Перемещение группы элементов управления делается так же просто, как перемещение одного из них.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57305,6 +57353,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181124T172321Z" creationid="olex" creationdate="20181124T172321Z">
         <seg>Вы можете дополнительно выбрать отображение страниц во врезках с помощью навигатора и установить индексную страницу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can press the &lt;f1&gt;Tab&lt;/f1&gt; key to change the selection from the field to the label or the label to the field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181208T123724Z" creationid="olex" creationdate="20181208T123724Z">
+        <seg>Нажатие клавиши &lt;f1&gt;Tab&lt;/ f1&gt; переносит выбор с поля на надпись или с надписи на поле.</seg>
       </tuv>
     </tu>
     <tu>
