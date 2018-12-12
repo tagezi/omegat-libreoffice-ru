@@ -12658,6 +12658,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click it to open the list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T195407Z" creationid="olex" creationdate="20181212T195407Z">
+        <seg>Нажмите на него, чтобы открыть список.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on &lt;f0&gt;OK&lt;/f0&gt; and the result is a new group of objects with the first object selected as the start object and the second object selected as the end object.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181122T201816Z" creationid="olex" creationdate="20181122T201816Z">
@@ -37638,6 +37646,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scroll down to the &lt;f0&gt;Date format&lt;/f0&gt; property.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T195127Z" creationid="olex" creationdate="20181212T195047Z">
+        <seg>Прокрутите вниз до свойства &lt;f0&gt;Формат данных&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search for “Impress Remote” and select the one that is from The Document Foundation and install it in your device.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181101T194340Z" creationid="olex" creationdate="20181101T194340Z">
@@ -39126,6 +39142,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180723T183315Z" creationid="olex" creationdate="20180723T183315Z">
         <seg>Выберите кнопку &lt;f19&gt;Создать тему...&lt;/f19&gt;, чтобы создать новую категорию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the &lt;f1&gt;Standard (long)&lt;/f1&gt; entry.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T195509Z" creationid="olex" creationdate="20181212T195509Z">
+        <seg>Выберите значение &lt;f1&gt;Стандартный (длинный)&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46204,8 +46228,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>The&lt;f0&gt; Properties: Date Field&lt;/f0&gt; window opens.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181210T180100Z" creationid="olex" creationdate="20181208T131830Z">
-        <seg>Откроется окно &lt;f0&gt;Свойства: поле Дата&lt;/f0&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T195115Z" creationid="olex" creationdate="20181208T131830Z">
+        <seg>Откроется окно &lt;f0&gt;Свойства: Поле даты&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47442,6 +47466,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T115557Z" creationid="asus" creationdate="20180813T115557Z">
         <seg>Этот перевёрнутый знак вопроса исчезает, если все скобки парные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a drop down list with Standard (short) as the default setting.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T195246Z" creationid="olex" creationdate="20181212T195246Z">
+        <seg>Это раскрывающийся список со значением по умолчанию Стандартный (короткий).</seg>
       </tuv>
     </tu>
     <tu>
