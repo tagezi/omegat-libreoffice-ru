@@ -160,8 +160,8 @@
       <tuv lang="EN-US">
         <seg>(The labels are column headings and the field entries are in spreadsheet format.) Click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202650Z" creationid="olex" creationdate="20181206T202650Z">
-        <seg>(Подписи будут показаны, как заголовки столбцов, а записи в полях - как ячейки электронных таблиц.) Нажмите &lt;f1&gt;Далее &gt;&lt;/f1&gt;.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T210259Z" creationid="olex" creationdate="20181206T202650Z">
+        <seg>(Метки будут показаны, как заголовки столбцов, а записи в полях - как ячейки электронных таблиц.) Нажмите &lt;f1&gt;Далее &gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1436,8 +1436,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; a label or field selects only the label or the field.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181208T123021Z" creationid="olex" creationdate="20181208T123021Z">
-        <seg>&lt;f0&gt;Ctrl+Нажать&lt;/f0&gt; выбирает только надпись или поле.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T210459Z" creationid="olex" creationdate="20181208T123021Z">
+        <seg>&lt;f0&gt;Ctrl+Нажать&lt;/f0&gt; выбирает только метку или поле.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6223,8 +6223,8 @@
       <tuv lang="EN-US">
         <seg>A control in a form consists of two parts: label and field.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202338Z" creationid="olex" creationdate="20181206T201550Z">
-        <seg>Элементы управления в форме состоят из двух частей: подписи и поля.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T210216Z" creationid="olex" creationdate="20181206T201550Z">
+        <seg>Элементы управления в форме состоят из двух частей: метки (подписи) и поля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10948,8 +10948,8 @@
       <tuv lang="EN-US">
         <seg>Change the lengths of several fields and labels.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181207T204004Z" creationid="olex" creationdate="20181207T204004Z">
-        <seg>Измените длину нескольких полей и надписей.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T210354Z" creationid="olex" creationdate="20181207T204004Z">
+        <seg>Измените длину нескольких полей и меток.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10988,8 +10988,8 @@
       <tuv lang="EN-US">
         <seg>Change the wording of some of the labels.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181207T203746Z" creationid="olex" creationdate="20181207T203746Z">
-        <seg>Измените содержание некоторых надписей.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T210338Z" creationid="olex" creationdate="20181207T203746Z">
+        <seg>Измените содержание некоторых меток.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13671,8 +13671,8 @@
       <tuv lang="EN-US">
         <seg>Clicking a label or field selects the entire control.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181208T122750Z" creationid="olex" creationdate="20181208T122750Z">
-        <seg>Нажатие надписи или поля выделяет весь элемент управления.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T210446Z" creationid="olex" creationdate="20181208T122750Z">
+        <seg>Нажатие метки или поля выделяет весь элемент управления.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41290,8 +41290,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Sometimes we want to work with the entire control, sometimes with only the label or the field, and there are times when we want to work with a group of controls.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181208T122720Z" creationid="olex" creationdate="20181208T122720Z">
-        <seg>Иногда необходимо работать со всем элементом управления, а иногда только с надписью или полем, так же бывают случаи, когда необходимо работать с группой элементов управления.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T210434Z" creationid="olex" creationdate="20181208T122720Z">
+        <seg>Иногда необходимо работать со всем элементом управления, а иногда только с меткой или полем, так же бывают случаи, когда необходимо работать с группой элементов управления.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43886,8 +43886,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The controls in the main form consist of a label and its field.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181208T122619Z" creationid="olex" creationdate="20181208T122619Z">
-        <seg>Элементы управления в основной форме состоят из надписей и полей.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T210421Z" creationid="olex" creationdate="20181208T122619Z">
+        <seg>Элементы управления в основной форме состоят из меток и полей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44854,8 +44854,8 @@ denkin: спасибо, исправил на "Стили"</note>
       <tuv lang="EN-US">
         <seg>The labels will be placed above their field.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202407Z" creationid="olex" creationdate="20181206T202325Z">
-        <seg>Подписи будут помещены над их полями.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T210246Z" creationid="olex" creationdate="20181206T202325Z">
+        <seg>Метки будут помещены над их полями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48306,8 +48306,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>This step in creating the form determines where a control’s label and field are placed relative to each other.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181206T202353Z" creationid="olex" creationdate="20181206T201836Z">
-        <seg>Этот шаг при создании формы определяет, как будут размещены относительно друг друга элементы управления подписи и поля.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T210146Z" creationid="olex" creationdate="20181206T201836Z">
+        <seg>Этот шаг при создании формы определяет, как будут размещены относительно друг друга элементы управления: метки и поля.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57888,8 +57888,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>You can press the &lt;f1&gt;Tab&lt;/f1&gt; key to change the selection from the field to the label or the label to the field.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181208T124304Z" creationid="olex" creationdate="20181208T123724Z">
-        <seg>Нажатие клавиши &lt;f1&gt;Tab&lt;/f1&gt; переносит выбор с поля на надпись или с надписи на поле.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T210514Z" creationid="olex" creationdate="20181208T123724Z">
+        <seg>Нажатие клавиши &lt;f1&gt;Tab&lt;/f1&gt; переносит выбор с поля на метку или с метки на поле.</seg>
       </tuv>
     </tu>
     <tu>
