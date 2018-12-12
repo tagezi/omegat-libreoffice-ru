@@ -1442,6 +1442,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; the BPayment field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T201247Z" creationid="olex" creationdate="20181212T201247Z">
+        <seg>&lt;f0&gt;Ctrl+нажать&lt;/f0&gt; поле ЗТОплаты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; the Date field to select it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181208T130932Z" creationid="olex" creationdate="20181208T130932Z">
@@ -7844,6 +7852,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181024T182218Z" creationid="olex" creationdate="20181024T182218Z">
         <seg>Все характеристики слайд-мастеров контролируются стилями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All of the fields with a label containing the word payment are too wide.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T200732Z" creationid="olex" creationdate="20181212T200732Z">
+        <seg>Все поля с меткой, содержащей слово оплаты, слишком широкие.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15697,6 +15713,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do so.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T200450Z" creationid="olex" creationdate="20181212T200450Z">
+        <seg>Сделайте это.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Docked toolbars can be moved to different locations or made to float, and floating toolbars can be docked.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T174808Z" creationid="olex" creationdate="20180615T174718Z">
@@ -18411,6 +18435,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T182008Z" creationid="olex" creationdate="20180918T182008Z">
         <seg>Рисунок &lt;seq0&gt;21&lt;/seq0&gt;: Выбор свойств загрузки/сохранения VBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Selecting a field</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T200929Z" creationid="olex" creationdate="20181212T200929Z">
+        <seg>Рисунок &lt;seq0&gt;21&lt;/seq0&gt;: Выбор поля</seg>
       </tuv>
     </tu>
     <tu>
@@ -32652,6 +32684,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the cursor over the middle green handle on the right end.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T201343Z" creationid="olex" creationdate="20181212T201343Z">
+        <seg>Наведите курсор на средний зеленый маркер справа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the cursor over the middle green handle on the right side.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181208T131003Z" creationid="olex" creationdate="20181208T131003Z">
@@ -41424,6 +41464,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 2: Shorten the width of some fields</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T200510Z" creationid="olex" creationdate="20181212T200510Z">
+        <seg>Шаг 2: Укоротить ширину некоторых полей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 3: Add subform fields</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T195752Z" creationid="olex" creationdate="20181206T195752Z">
@@ -43719,6 +43767,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181017T180328Z" creationid="olex" creationdate="20181017T180328Z">
         <seg>В текстовом поле, которое теперь находится в режиме редактирования (цветная рамка, показанная на рисунке &lt;t0&gt;16&lt;/t0&gt;), появится курсор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The cursor becomes a double-headed arrow.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T201452Z" creationid="olex" creationdate="20181212T201452Z">
+        <seg>Курсор станет двойной стрелкой.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46961,6 +47017,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181105T180701Z" creationid="olex" creationdate="20181105T180701Z">
         <seg>Они могут отличаться от единиц измерения на линейках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They need to be shortened before the controls are moved.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T200859Z" creationid="olex" creationdate="20181212T200859Z">
+        <seg>Их надо укоротить, прежде чем перемещать элементы управления.</seg>
       </tuv>
     </tu>
     <tu>
