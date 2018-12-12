@@ -1458,6 +1458,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; the SnackNo label.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T204244Z" creationid="olex" creationdate="20181212T204244Z">
+        <seg>&lt;f0&gt;Ctrl+нажать&lt;/f0&gt; метку КолПерекусов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Cursor position&lt;/f0&gt; – the position of the cursor or of the top left corner of the selection measured from the top left corner of the slide, followed by the width and height of the selection or text box where the cursor is located.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180916T075609Z" creationid="olex" creationdate="20180916T075609Z">
@@ -15729,6 +15737,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do one of the following:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T204257Z" creationid="olex" creationdate="20181212T204257Z">
+        <seg>Выполните одно из следующих действий:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do so.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181212T200450Z" creationid="olex" creationdate="20181212T200450Z">
@@ -17493,6 +17509,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Field names are required to be single words.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T204059Z" creationid="olex" creationdate="20181212T204002Z">
+        <seg>Имена полей должны быть написаны слитно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fields</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T195735Z" creationid="olex" creationdate="20180910T195735Z">
@@ -18587,6 +18611,15 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180817T183926Z" creationid="olex" creationdate="20180817T183926Z">
         <seg>Рисунок &lt;seq0&gt;23&lt;/seq0&gt;: Маркер верхнего колонтитула над текстовой областью</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>денкин: видимо опечатка в оригинале: "левая", когда следует писать "правая"</note>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Positioning of controls (left side of form)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T203818Z" creationid="olex" creationdate="20181212T203818Z">
+        <seg>Рисунок &lt;seq0&gt;23&lt;/seq0&gt;: Расположение элементов управления (правая сторона формы)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24991,6 +25024,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the labels for the fields in a form can be more than one word.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T204026Z" creationid="olex" creationdate="20181212T204026Z">
+        <seg>Однако метки для полей в форме могут содержать более одного слова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, these styles do not include options for settings such as the type of bullet or position of numbers.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180929T080043Z" creationid="olex" creationdate="20180929T080019Z">
@@ -29795,6 +29836,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181105T181809Z" creationid="olex" creationdate="20181105T181757Z">
         <seg>Она содержит все необходимые функции для рисования различных геометрических и произвольных фигур и для их размещения на странице.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It contains all the properties of the selected label.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T204631Z" creationid="olex" creationdate="20181212T204631Z">
+        <seg>Оно содержит все свойства выбранной метки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35226,6 +35275,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Or click the Control icon in the Form Control toolbar (Figure &lt;t0&gt;20&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T204521Z" creationid="olex" creationdate="20181212T204521Z">
+        <seg>Или нажмите значок Элемент управления на панели инструментов Элементы управления (Рисунок &lt;t0&gt;20&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Or use keyboard : CTRL- M to insert new one.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181014T174859Z" creationid="olex" creationdate="20181014T174024Z">
@@ -37457,6 +37514,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T185445Z" creationid="olex" creationdate="20180614T185445Z">
         <seg>Щелкните правой кнопкой мыши по значку &lt;f0&gt;Быстрого запуска&lt;/f0&gt; на панели, чтобы открыть всплывающее меню (смотрите Рисунок &lt;t1&gt;2&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-click the SnackNo label and select &lt;f0&gt;Control&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T204415Z" creationid="olex" creationdate="20181212T204415Z">
+        <seg>Нажмите правой кнопкой мыши метку КолПерекусов и выберите в контекстном меню &lt;f0&gt;Элемент управления...&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40894,6 +40959,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So we will change them by editing the text in the label.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T204126Z" creationid="olex" creationdate="20181212T204126Z">
+        <seg>Поэтому мы изменим их, отредактировав текст меток.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So we will create a table with a field for the type of payment and use it in list boxes in the forms.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T184908Z" creationid="olex" creationdate="20181125T184908Z">
@@ -41564,6 +41637,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181212T202501Z" creationid="olex" creationdate="20181212T202501Z">
         <seg>Шаг 3: Переместите элементы управления, чтобы сгруппировать их по категориям</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 4: Change the label wording</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T203854Z" creationid="olex" creationdate="20181212T203854Z">
+        <seg>Шаг 4: Изменить содержание меток</seg>
       </tuv>
     </tu>
     <tu>
@@ -44015,6 +44096,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181202T122149Z" creationid="olex" creationdate="20181202T122149Z">
         <seg>Диалоговое окно автоматически установит ТопливоID в качестве первичного ключа и поместит значок ключа перед полем ТопливоID (Рисунок &lt;t3&gt;4&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The dialog that opens is labeled Properties: Label Field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T204556Z" creationid="olex" creationdate="20181212T204556Z">
+        <seg>Откроется диалоговое окно Свойства: Метка.</seg>
       </tuv>
     </tu>
     <tu>
