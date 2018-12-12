@@ -6111,8 +6111,8 @@
       <tuv lang="EN-US">
         <seg>A border appears around the control with eight green handles.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181208T122840Z" creationid="olex" creationdate="20181208T122840Z">
-        <seg>Вокруг элемента управления появляется рамка и восемь зелеными маркеров.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T202752Z" creationid="olex" creationdate="20181208T122840Z">
+        <seg>Вокруг элемента управления появится рамка и восемь зеленых маркеров.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13525,6 +13525,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the first control you want to move.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T202710Z" creationid="olex" creationdate="20181212T202710Z">
+        <seg>Нажмите на первый элемент управления, который вы хотите переместить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the last column or row in the group.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T183858Z" creationid="olex" creationdate="20180405T183858Z">
@@ -15705,6 +15713,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not use &lt;f0&gt;Ctrl+click&lt;/f0&gt; when moving a field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T203447Z" creationid="olex" creationdate="20181212T203343Z">
+        <seg>Не используйте &lt;f0&gt;Ctrl+нажать&lt;/f0&gt; когда перемещаете элементы управления.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not worry about the vertical size and position as the text box will expand if needed as you type.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181017T175215Z" creationid="olex" creationdate="20181017T175215Z">
@@ -16005,6 +16021,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T210010Z" creationid="olex" creationdate="20180309T210010Z">
         <seg>чтобы создать стиль ячейки, перетащите выделенную ячейку в окно Стили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag and drop the control to where you want it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T202912Z" creationid="olex" creationdate="20181212T202912Z">
+        <seg>Перетащите элемент управления туда, куда вы хотите.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18523,6 +18547,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T141801Z" creationid="olex" creationdate="20180414T141801Z">
         <seg>Рисунок &lt;seq0&gt;22&lt;/seq0&gt;: Использование инструмента Заполнить</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;a: Positioning of controls (left side of form)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T203632Z" creationid="olex" creationdate="20181212T203632Z">
+        <seg>Рисунок &lt;seq0&gt;22&lt;/seq0&gt;: Расположение элементов управления (левая сторона формы)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26785,6 +26817,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have the &lt;f0&gt;Snap to Grid&lt;/f0&gt; and &lt;f1&gt;Guides when moving&lt;/f1&gt; icons selected in the Design Format toolbar, you will see how wide the field is as you shorten it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T202433Z" creationid="olex" creationdate="20181212T202433Z">
+        <seg>Если у вас выбраны значки &lt;f0&gt;Привязка к сетке&lt;/f0&gt; и &lt;f1&gt;Линии при перемещении&lt;/f1&gt; на панели инструментов Конструктор форм, то вы будете видеть, ширину поля при его изменении.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have this option set, recovering your document after a system crash will be easier.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T171234Z" creationid="olex" creationdate="20180707T171234Z">
@@ -29727,6 +29767,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It changes shape to a drag icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T202850Z" creationid="olex" creationdate="20181212T202850Z">
+        <seg>Он изменит форму на значок перетаскивания.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It changes to a drag icon.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181208T125224Z" creationid="olex" creationdate="20181208T125224Z">
@@ -30156,6 +30204,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180601T183533Z" creationid="olex" creationdate="20180508T175704Z">
         <seg>Может потребоваться удалить определенный диапазон печати если, например, необходимо напечатать весь лист.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It moves either the field or the label but not both.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T203434Z" creationid="olex" creationdate="20181212T203434Z">
+        <seg>Иначе будет перемещаться только поле или метка по отдельности.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32688,6 +32744,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181208T124646Z" creationid="olex" creationdate="20181208T124646Z">
         <seg>Наведите курсор на одно из полей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the cursor over the label or field of the control.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T202825Z" creationid="olex" creationdate="20181212T202825Z">
+        <seg>Наведите курсор на метку или поле элемента управления.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41492,6 +41556,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T195752Z" creationid="olex" creationdate="20181206T195752Z">
         <seg>Шаг 3: Добавить поля подформы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 3: Move the controls to group them by category</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T202501Z" creationid="olex" creationdate="20181212T202501Z">
+        <seg>Шаг 3: Переместите элементы управления, чтобы сгруппировать их по категориям</seg>
       </tuv>
     </tu>
     <tu>
@@ -50598,6 +50670,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To move both, use a plain &lt;f1&gt;mouse click&lt;/f1&gt; and drag to the desired spot.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T203543Z" creationid="olex" creationdate="20181212T203543Z">
+        <seg>Чтобы переместить элемент управления, используйте обычное &lt;f1&gt;нажатие мыши&lt;/f1&gt; и перетащите его в нужное место.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To move forward from one placeholder to the next placeholder in a formula, press the &lt;f0&gt;F4&lt;/f0&gt; key.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180318T121924Z" creationid="Роман" creationdate="20180317T174103Z">
@@ -53028,6 +53108,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the same steps to move the rest of the controls to where they belong.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T203225Z" creationid="olex" creationdate="20181212T203225Z">
+        <seg>Используйте те же шаги, чтобы переместить остальные элементы управления на их места.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the slide sorter (see page &lt;bf0&gt;12&lt;/bf0&gt;) to reorder your photo album.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181029T194027Z" creationid="olex" creationdate="20181029T194027Z">
@@ -54156,6 +54244,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T195603Z" creationid="tagezi" creationdate="20180310T194313Z">
         <seg>С учетом всей работы, которую мы сделали для этой книги, мы просим вас поделиться с проектом небольшой частью прибыли, которую вы получаете от продажи книг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We want to move the controls so that they look like Figures &lt;t0&gt;22&lt;/t0&gt;&lt;s1/&gt;and &lt;f2&gt;&lt;t3&gt;23&lt;/t3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T202559Z" creationid="olex" creationdate="20181212T202559Z">
+        <seg>Мы хотим переместить элементы управления так, чтобы они выглядели как на Рисунках &lt;t0&gt;22&lt;/t0&gt;&lt;s1/&gt;и &lt;f2&gt;&lt;t3&gt;23&lt;/t3&gt;&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
