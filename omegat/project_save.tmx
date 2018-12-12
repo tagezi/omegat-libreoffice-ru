@@ -13783,6 +13783,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Close the Properties dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T211041Z" creationid="olex" creationdate="20181212T211041Z">
+        <seg>Закройте диалоговое окно Свойства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close the Relation Design dialog.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181204T194728Z" creationid="olex" creationdate="20181204T194728Z">
@@ -28750,6 +28758,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Label selection, make SnackNo into two words: Snack No.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T211016Z" creationid="olex" creationdate="20181212T211016Z">
+        <seg>В выбранной метке измените текст КолПерекусов на два слова: Количество перекусов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the Master Pages section on the Sidebar, right-click on the slide master you want to apply to the selected slides, and select &lt;f0&gt;Apply to Selected Slides&lt;/f0&gt; on the context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181025T184307Z" creationid="olex" creationdate="20181025T184307Z">
@@ -33838,6 +33854,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notes.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T211616Z" creationid="olex" creationdate="20181212T211502Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notice that a table named “CD-Collection” is now listed in the Tables portion of the window.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181204T182629Z" creationid="olex" creationdate="20181129T192155Z">
@@ -35736,6 +35760,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180623T152551Z" creationid="olex" creationdate="20180623T151841Z">
         <seg>Параметры путей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Payment, and MiscNotes to Misc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T211454Z" creationid="olex" creationdate="20181212T211454Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -53193,6 +53225,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180917T211521Z" creationid="olex" creationdate="20180917T211521Z">
         <seg>Используйте пункт меню &lt;f0&gt;Файл &gt; Сохранить&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the same procedure to change these labels as well: BPayment to Payment, LPayment to Payment, SPayment to Payment, Miscellaneous to Misc., SnackCost to Snack Cost, MPayment to Payment, MiscPayment to Misc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181212T211410Z" creationid="olex" creationdate="20181212T211410Z">
+        <seg>Используйте эту же процедуру для изменения меток: ЗТОплаты на Тип оплаты, ЛТОплаты на Тип оплаты, УТОплаты на Тип оплаты, РТОплаты на Тип оплаты, ПТОплаты на Тип оплаты, МТОплаты на Тип оплаты.</seg>
       </tuv>
     </tu>
     <tu>
