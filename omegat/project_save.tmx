@@ -1450,6 +1450,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; the &lt;f1&gt;Misc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T104526Z" creationid="olex" creationdate="20181215T104236Z">
+        <seg>&lt;f0&gt;Ctrl+нажать&lt;/f0&gt; поле &lt;f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; the BPayment field.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181212T201247Z" creationid="olex" creationdate="20181212T201247Z">
@@ -13248,6 +13256,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T132806Z" creationid="tagezi" creationdate="20180312T132806Z">
         <seg>Нажмите значок &lt;f0&gt;Компилировать&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; на панели инструментов Макрос для компиляции макроса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Control&lt;/f0&gt; icon to open the Properties window (Figure &lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T104723Z" creationid="olex" creationdate="20181215T104723Z">
+        <seg>Нажмите значок &lt;f0&gt;Элемент управления&lt;/f0&gt;, чтобы открыть окно Свойства (Рисунок &lt;t1&gt;24&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33920,16 +33936,16 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Notes control, which has a field type of Memo, to have a vertical scroll bar for additional text space if desired.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181215T103902Z" creationid="olex" creationdate="20181215T103902Z">
-        <seg>Элемент управления Заметки, поле для памяток, имеет вертикальную полосу прокрутки для дополнительного пространства текста, если это необходимо.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T104454Z" creationid="olex" creationdate="20181215T103902Z">
+        <seg>элементу управления Заметки, поле для памяток, сделать вертикальную полосу прокрутки для дополнительного пространства тексту.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Notes field</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181215T103415Z" creationid="olex" creationdate="20181215T103415Z">
-        <seg>Поле Заметки</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T104257Z" creationid="olex" creationdate="20181215T103415Z">
+        <seg>поля Заметки</seg>
       </tuv>
     </tu>
     <tu>
@@ -33946,6 +33962,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181212T211616Z" creationid="olex" creationdate="20181212T211502Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notes&lt;/f1&gt; field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T104545Z" creationid="olex" creationdate="20181215T104545Z">
+        <seg>Заметки&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38015,6 +38039,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scroll down to the &lt;f0&gt;Text type&lt;/f0&gt; property with &lt;f1&gt;single-line &lt;/f1&gt;as the default value.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T104924Z" creationid="olex" creationdate="20181215T104924Z">
+        <seg>Прокрутите вниз до свойства &lt;f0&gt;Тип текста&lt;/f0&gt;, которое использует в качестве значения по умолчанию &lt;f1&gt;Однострочный&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scroll down to the&lt;f0&gt; Drop down&lt;/f0&gt; property.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181212T195556Z" creationid="olex" creationdate="20181212T195556Z">
@@ -41827,8 +41859,8 @@ denkin: не понял? чего не видно?</note>
       <tuv lang="EN-US">
         <seg>Step 6: Change the Misc.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181215T103445Z" creationid="olex" creationdate="20181215T103348Z">
-        <seg>Шаг 6: Изменение Сборы</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T104252Z" creationid="olex" creationdate="20181215T103348Z">
+        <seg>Шаг 6: Изменение дополнительного</seg>
       </tuv>
     </tu>
     <tu>
@@ -44808,6 +44840,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T124636Z" creationid="olex" creationdate="20180818T124636Z">
         <seg>Серые участки линеек - это поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The green handles should surround the field but not its label.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T104643Z" creationid="olex" creationdate="20181215T104643Z">
+        <seg>Зеленые маркеры быть вокруг поля, а не его метки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54531,8 +54571,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>We want the Misc.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181215T103519Z" creationid="olex" creationdate="20181215T103519Z">
-        <seg>Мы хотим Сборы</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T104347Z" creationid="olex" creationdate="20181215T103519Z">
+        <seg>Мы хотим дополнительному</seg>
       </tuv>
     </tu>
     <tu>
