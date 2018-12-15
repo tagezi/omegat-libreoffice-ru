@@ -10962,6 +10962,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change the &lt;f0&gt;Apply Styles&lt;/f0&gt; drop down list from &lt;f1&gt;Default to Heading 2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T171806Z" creationid="olex" creationdate="20181215T171806Z">
+        <seg>Измените раскрывающийся список &lt;f0&gt;Задать стиль абзаца&lt;/f0&gt; на &lt;f1&gt;Заголовок 2&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change the Field Properties in the bottom section.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181202T121807Z" creationid="olex" creationdate="20181202T121807Z">
@@ -52711,6 +52719,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type the heading &lt;f0&gt;Snacks&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T171202Z" creationid="olex" creationdate="20181215T171202Z">
+        <seg>Введите заголовок &lt;f0&gt;Перекусы&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type the new cell reference of the cell you want to &lt;t5/&gt;move to and press &lt;f6&gt;Enter&lt;/f6&gt; key.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181008T182340Z" creationid="olex" creationdate="20181008T182340Z">
@@ -53381,6 +53397,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the &lt;f0&gt;Enter&lt;/f0&gt; key to move the cursor between the Supper control and the subform.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T171355Z" creationid="olex" creationdate="20181215T171355Z">
+        <seg>Используя клавишу &lt;f0&gt;Enter&lt;/f0&gt;, переместите курсор между элементами управления основной и подчиненной форм.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the &lt;f0&gt;Font Effects&lt;/f0&gt; tab on the Format Cells dialog to set other font characteristics.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180424T194547Z" creationid="olex" creationdate="20180424T194547Z">
@@ -53641,6 +53665,14 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181215T170757Z" creationid="olex" creationdate="20181215T170757Z">
         <seg>Используйте пробел, чтобы переместить курсор по центру полей Перекусы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the space bar to move the cursor to the center of the subform.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T171719Z" creationid="olex" creationdate="20181215T171719Z">
+        <seg>Используйте пробел, чтобы разместить курсор по центру подчиненной формы.</seg>
       </tuv>
     </tu>
     <tu>
