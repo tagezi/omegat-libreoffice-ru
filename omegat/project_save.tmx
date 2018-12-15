@@ -7872,6 +7872,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All of the payment fields were changed in step 2, but Misc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T100709Z" creationid="olex" creationdate="20181215T100709Z">
+        <seg>Все поля оплаты были изменены на шаге 2, кроме РТОплаты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All of these methods open the &lt;f7&gt;Line&lt;/f7&gt; dialog (Figure &lt;t8&gt;11&lt;/t8&gt;&lt;s9/&gt;on page 13), where you can set line properties.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181117T102921Z" creationid="olex" creationdate="20181117T102921Z">
@@ -21003,6 +21011,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T164146Z" creationid="olex" creationdate="20180624T164146Z">
         <seg>Например, если для двухзначного года установлено значение 1930 года, и вы вводите дату 1/1/30 или позже в свой документ, то дата будет определяться как 1/1/1930 или более поздняя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, if you change the Alignment from Left to Center, the word or words in the label are centered within the label.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T100144Z" creationid="olex" creationdate="20181215T095949Z">
+        <seg>Например, если вы измените выравнивание по левому краю на выравнивание по центру, то слово или слова в метке будут отцентрированы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41697,6 +41713,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 5: Change the widths of the labels and fields</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T100254Z" creationid="olex" creationdate="20181215T100254Z">
+        <seg>Шаг 5: Изменить ширину меток и полей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 6: Set data entry</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T202747Z" creationid="olex" creationdate="20181206T202747Z">
@@ -54377,6 +54401,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We want the fields of the following controls to be 2 cm wide (0.8 inches): Breakfast, Lunch, Supper, Odometer, Snack No., Tolls, Snack Cost, Motel, and Misc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T100625Z" creationid="olex" creationdate="20181215T100625Z">
+        <seg>Мы хотим, чтобы поля следующих элементов управления были шириной 2 см (0,8 дюйма): Завтрак, Ланч, Ужин, Одометр, КолПерекусов, Сборы, ЦенаПерекусов, Мотель и Разное.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We want to move the controls so that they look like Figures &lt;t0&gt;22&lt;/t0&gt;&lt;s1/&gt;and &lt;f2&gt;&lt;t3&gt;23&lt;/t3&gt;&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181212T202559Z" creationid="olex" creationdate="20181212T202559Z">
@@ -55538,6 +55570,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180802T174513Z" creationid="olex" creationdate="20180802T174513Z">
         <seg>Когда вы настроили свой поиск, нажмите &lt;f0&gt;Следующее&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you have some time, you might want to experiment with different settings just to see the results you get.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T100213Z" creationid="olex" creationdate="20181215T100213Z">
+        <seg>Если у вас есть время, то вы можете поэкспериментировать с другими настройками, чтобы увидеть результаты, которые вы получите.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57809,6 +57849,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180312T203247Z" creationid="olex" creationdate="20180312T203247Z">
         <seg>Вы можете вручную скопировать новые шаблоны в папки шаблонов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can modify all of the listings in the Properties window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T095931Z" creationid="olex" creationdate="20181215T095931Z">
+        <seg>Вы можете изменить все записи в окне свойств.</seg>
       </tuv>
     </tu>
     <tu>
