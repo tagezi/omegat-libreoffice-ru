@@ -15432,6 +15432,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Detailed instructions on how to use the Properties window are given in the &lt;f3&gt;Base Guide&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T103151Z" creationid="olex" creationdate="20181215T103151Z">
+        <seg>Подробные инструкции по использованию окна Свойства приведены в &lt;f3&gt;Руководстве по Base&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Details are in &lt;tc5/&gt;&lt;tc6/&gt;&lt;tc7/&gt;the &lt;f8&gt;Writer Guide&lt;/f8&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T195640Z" creationid="olex" creationdate="20180719T195640Z">
@@ -18700,6 +18708,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181025T185720Z" creationid="olex" creationdate="20181025T185720Z">
         <seg>Рисунок &lt;seq0&gt;24&lt;/seq0&gt;: Диалоговое окно Загрузка дизайна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Scroll bar selections in the Properties window</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T103938Z" creationid="olex" creationdate="20181215T103938Z">
+        <seg>Рисунок &lt;seq0&gt;24&lt;/seq0&gt;: Выбор полосы прокрутки в окне Свойства</seg>
       </tuv>
     </tu>
     <tu>
@@ -30553,6 +30569,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just be careful, and use &lt;f2&gt;Ctrl+Z&lt;/f2&gt; to undo any mistakes you may make.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T103113Z" creationid="olex" creationdate="20181215T103113Z">
+        <seg>Просто будьте осторожны и используйте сочетание клавиш&lt;f2&gt;Ctrl+Z&lt;/f2&gt;, чтобы отменять любые ошибки, которые вы сделали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep the &lt;f0&gt;Ctrl&lt;/f0&gt; key pressed while drawing a line to enable the end of the line to snap to the nearest grid point.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181106T191524Z" creationid="olex" creationdate="20181106T191524Z">
@@ -33890,6 +33914,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180404T205202Z" creationid="olex" creationdate="20180404T205030Z">
         <seg>Заметка. Некоторые операции Calc не могут применяться к нескольким диапазонам ячеек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notes control, which has a field type of Memo, to have a vertical scroll bar for additional text space if desired.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T103902Z" creationid="olex" creationdate="20181215T103902Z">
+        <seg>Элемент управления Заметки, поле для памяток, имеет вертикальную полосу прокрутки для дополнительного пространства текста, если это необходимо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notes field</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T103415Z" creationid="olex" creationdate="20181215T103415Z">
+        <seg>Поле Заметки</seg>
       </tuv>
     </tu>
     <tu>
@@ -41781,6 +41821,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181215T100254Z" creationid="olex" creationdate="20181215T100254Z">
         <seg>Шаг 5: Изменить ширину меток и полей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 6: Change the Misc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T103445Z" creationid="olex" creationdate="20181215T103348Z">
+        <seg>Шаг 6: Изменение Сборы</seg>
       </tuv>
     </tu>
     <tu>
@@ -54477,6 +54525,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T195603Z" creationid="tagezi" creationdate="20180310T194313Z">
         <seg>С учетом всей работы, которую мы сделали для этой книги, мы просим вас поделиться с проектом небольшой частью прибыли, которую вы получаете от продажи книг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We want the Misc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T103519Z" creationid="olex" creationdate="20181215T103519Z">
+        <seg>Мы хотим Сборы</seg>
       </tuv>
     </tu>
     <tu>
