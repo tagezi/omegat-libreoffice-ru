@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Icon to the left of the Anchor.) On the Position and Size dialog, change Width to 2 cm.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T101053Z" creationid="olex" creationdate="20181215T100953Z">
+        <seg>В диалоговом окне Положение и размер измените ширину на 2 см.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If you do not have this font on your system, it will not appear in the drop-down list in this box, so you need to type it in.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T180844Z" creationid="olex" creationdate="20180628T180844Z">
@@ -12446,6 +12454,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181202T112316Z" creationid="olex" creationdate="20181202T112316Z">
         <seg>Нажмите Создать таблицу в режиме дизайна (откроется диалоговое окно Конструктор таблиц).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click OK to close the Position and Size dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T101122Z" creationid="olex" creationdate="20181215T101122Z">
+        <seg>Нажмите ОК, чтобы закрыть диалоговое окно Положение и размер.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35780,6 +35796,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Payment needs to be changed to 3 cm (1.2 inches).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T100754Z" creationid="olex" creationdate="20181215T100754Z">
+        <seg>Оплату надо сделать шириной 3 см (1,2 дюйма).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Payment, and MiscNotes to Misc.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181212T211454Z" creationid="olex" creationdate="20181212T211454Z">
@@ -37094,6 +37118,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repeat for the other listed controls, using 3 cm for MiscPayment.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T101659Z" creationid="olex" creationdate="20181215T101659Z">
+        <seg>Повторите эти действия для других перечисленных элементов управления, в том числе ширину 3 см для РТОплаты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repeat printing &lt;i0/&gt;of rows or columns</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T181552Z" creationid="olex" creationdate="20180508T181547Z">
@@ -37354,6 +37386,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180921T195833Z" creationid="olex" creationdate="20180921T195833Z">
         <seg>Щелкните правой кнопкой мыши &lt;f0&gt;по шаблону&lt;/f0&gt;, чтобы открыть контекстное меню и нажмите &lt;f1&gt;Удалить&lt;/f1&gt; (Рисунок &lt;t2&gt;8&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right-click Breakfast and select the &lt;f0&gt;Position and Size icon&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T101030Z" creationid="olex" creationdate="20181215T100922Z">
+        <seg>Нажмите правой кнопкой мыши Завтрак и выберите &lt;f0&gt;Положение и размер...&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54941,6 +54981,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="asus" changedate="20180813T111120Z" creationid="asus" creationdate="20180813T111120Z">
         <seg>При использовании фигурных скобок в языке разметки они используются только для определения вида формулы и не отображаются в самой офрмуле и не печатаются.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When changing the position or size of an entire control, use the Position and Size dialog or the drag and drop method.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T102052Z" creationid="olex" creationdate="20181215T102052Z">
+        <seg>При изменении положения или размера всего элемента управления используйте диалоговое окно Положение и размер или метод перетаскивания.</seg>
       </tuv>
     </tu>
     <tu>
