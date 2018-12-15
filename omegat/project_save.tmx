@@ -10954,6 +10954,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change the &lt;f0&gt;Apply Styles drop down list from Default&lt;/f0&gt; to &lt;f1&gt;Heading 2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T170429Z" creationid="olex" creationdate="20181215T170429Z">
+        <seg>Измените раскрывающийся список &lt;f0&gt;Задать стиль абзаца&lt;/f0&gt; на &lt;f1&gt;Заголовок 2&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change the Field Properties in the bottom section.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181202T121807Z" creationid="olex" creationdate="20181202T121807Z">
@@ -11694,6 +11702,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T135734Z" creationid="olex" creationdate="20180818T135734Z">
         <seg>Выберите в меню &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Пользователь&lt;/f0&gt;, чтобы настроить или изменить имя, которое вы хотите отображать в поле Автор в комментариях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose &lt;f0&gt;View &gt; Non printing Characters &lt;/f0&gt;to turn them on.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T165926Z" creationid="olex" creationdate="20181215T165845Z">
+        <seg>Выберите &lt;f0&gt;Вид &gt; Непечатаемые символы&lt;/f0&gt;, чтобы отображать их.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18832,6 +18848,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Apply Styles list</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T170107Z" creationid="olex" creationdate="20181215T170107Z">
+        <seg>Рисунок &lt;seq0&gt;26&lt;/seq0&gt;: Применить список стилей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Choosing language options</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T172944Z" creationid="olex" creationdate="20180712T172944Z">
@@ -25712,6 +25736,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it is not, click in that corner to move it there.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T170151Z" creationid="olex" creationdate="20181215T170151Z">
+        <seg>Если это не так, то нажмите в этом углу, чтобы переместить его туда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it mixes font sizes or font styles, those mixed properties will remain the same as before.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T191248Z" creationid="olex" creationdate="20180308T181504Z">
@@ -32067,6 +32099,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure the cursor is in the upper left corner.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T170126Z" creationid="olex" creationdate="20181215T170126Z">
+        <seg>Убедитесь, что курсор находится в верхнем левом углу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure to change back to &lt;f5&gt;Standard selection&lt;/f5&gt; or you may extend a cell selection unintentionally.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180901T082841Z" creationid="olex" creationdate="20180901T082841Z">
@@ -36425,6 +36465,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181015T152901Z" creationid="olex" creationdate="20181015T152901Z">
         <seg>Нажмите клавишу &lt;f0&gt;Delete&lt;/f0&gt;, чтобы удалить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the &lt;f0&gt;Enter&lt;/f0&gt; key to move the cursor down to the space between the Date field and the Breakfast field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T170318Z" creationid="olex" creationdate="20181215T170318Z">
+        <seg>Нажимайте клавишу &lt;f0&gt;Enter&lt;/f0&gt;, чтобы переместить курсор вниз к месту между полем Дата и полем Завтрак.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48642,8 +48690,8 @@ LG:DONE</note>
       <tuv lang="EN-US">
         <seg>This step is easier to do if you have end-of-paragraph markers visible.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181215T165811Z" creationid="olex" creationdate="20181215T165811Z">
-        <seg>Этот шаг легче выполнить, если вы видите маркеры конца абзаца.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T165940Z" creationid="olex" creationdate="20181215T165811Z">
+        <seg>Этот шаг легче выполнить, если вы будете видеть маркер конца абзаца.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52655,6 +52703,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type the heading &lt;f0&gt;Meals&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T170616Z" creationid="olex" creationdate="20181215T170616Z">
+        <seg>Введите заголовок &lt;f0&gt;Расходы на питание&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type the new cell reference of the cell you want to &lt;t5/&gt;move to and press &lt;f6&gt;Enter&lt;/f6&gt; key.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181008T182340Z" creationid="olex" creationdate="20181008T182340Z">
@@ -53577,6 +53633,22 @@ denkin: это практически официальное название к
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181029T194027Z" creationid="olex" creationdate="20181029T194027Z">
         <seg>Используйте режим Сортировщик слайдов (смотрите страницу &lt;bf0&gt;12&lt;/bf0&gt;) для упорядочивания вашего фотоальбома.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the space bar to move the cursor to the center of snack area.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T170757Z" creationid="olex" creationdate="20181215T170757Z">
+        <seg>Используйте пробел, чтобы переместить курсор по центру полей Перекусы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the space bar to move the cursor to where you want the heading to start.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T170446Z" creationid="olex" creationdate="20181215T170446Z">
+        <seg>Используйте пробел, чтобы переместить курсор туда, где вы хотите начать заголовок.</seg>
       </tuv>
     </tu>
     <tu>
