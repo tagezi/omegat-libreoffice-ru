@@ -3438,6 +3438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Step 9: Change &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;the background of a form&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T172127Z" creationid="olex" creationdate="20181215T172127Z">
+        <seg>&lt;f0&gt;Шаг 9: Изменить &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;фон формы&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Style&lt;/f0&gt; are a set of formats that you can apply to selected pages, text, frames, and other elements in your document to quickly change their appearance.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180919T173925Z" creationid="olex" creationdate="20180919T173925Z">
@@ -27074,6 +27082,22 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you know how to create custom colors, you can use them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T172716Z" creationid="olex" creationdate="20181215T172716Z">
+        <seg>Если вы знаете, как создавать собственные цвета, то можете использовать их.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you know how to use styles, you can open the Styles and Formatting window using &lt;f0&gt;F11&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T171925Z" creationid="olex" creationdate="20181215T171925Z">
+        <seg>Если вы знаете, как пользоваться стилями, то можете открыть окно Стили, используя клавишу &lt;f0&gt;F11&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you know where they are stored, however, you can create a backup, share your macros, or inspect them if there is an error.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T113943Z" creationid="tagezi" creationdate="20180320T113943Z">
@@ -37886,6 +37910,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-clicking the Heading 2 paragraph style allows you to modify the appearance of all three headings.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T171956Z" creationid="olex" creationdate="20181215T171956Z">
+        <seg>Нажмите правой кнопкой мыши стиль абзаца Заголовок 2, чтобы изменить внешний вид всех трех заголовков.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotating an object</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180603T153331Z" creationid="olex" creationdate="20180603T153331Z">
@@ -38467,6 +38499,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181124T123451Z" creationid="olex" creationdate="20181124T123451Z">
         <seg>Смотрите Главу 5, Объединение нескольких объектов, в &lt;f3&gt;Руководстве по Draw&lt;/f3&gt; для получения дополнительной информации про эти функции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Chapter 6 of the &lt;f1&gt;Writer Guide&lt;/f1&gt; for details.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T172032Z" creationid="olex" creationdate="20181215T172032Z">
+        <seg>Смотрите Главу 6 &lt;f1&gt;Руководства по Writer&lt;/f1&gt; для получения подробной информации.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44044,6 +44084,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The background for a form can be a color, or a graphic (picture).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T172229Z" creationid="olex" creationdate="20181215T172229Z">
+        <seg>Фон для формы может быть цветным или графическим (рисунок).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The backup copy gets the extension BAK.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T173158Z" creationid="olex" creationdate="20180707T173158Z">
@@ -49121,6 +49169,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To add a color to the form background:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T172756Z" creationid="olex" creationdate="20181215T172756Z">
+        <seg>Чтобы добавить цвет фона формы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To add a custom color to the custom palette, first select your color by pressing the &lt;f0&gt;Pick&lt;/f0&gt; button and adjusting your color using the color selection dialog that appears (Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181105T192410Z" creationid="olex" creationdate="20181105T192410Z">
@@ -52707,6 +52763,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T115629Z" creationid="tagezi" creationdate="20180313T115629Z">
         <seg>Введите желаемую информацию или выполните соответствующую последовательность операций.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type the heading &lt;f0&gt;Fuel Data&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T171832Z" creationid="olex" creationdate="20181215T171832Z">
+        <seg>Введите заголовок &lt;f0&gt;Расходы на топливо&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57594,6 +57658,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also use a picture (graphic file) as the background.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T172742Z" creationid="olex" creationdate="20181215T172742Z">
+        <seg>Также вы можете использовать изображение (графический файл) в качестве фона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also use the &lt;f3&gt;Background&lt;/f3&gt; tab of the Format Cells dialog (Figure &lt;t4&gt;19&lt;/t4&gt;&lt;s5/&gt;on page &lt;t6&gt;28&lt;/t6&gt;).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180905T173802Z" creationid="olex" creationdate="20180905T173802Z">
@@ -58791,6 +58863,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can use any of the colors in the Color Table at &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Colors&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T172647Z" creationid="olex" creationdate="20181215T172647Z">
+        <seg>Вы можете использовать любой из цветов в палитре &lt;f0&gt;Сервис &gt; Параметры &gt; LibreOffice &gt; Внешний вид&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can use either a blank layout or one of the title layouts as your title slide.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181014T175511Z" creationid="olex" creationdate="20181014T175511Z">
@@ -59547,6 +59627,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181031T185615Z" creationid="olex" creationdate="20181031T185615Z">
         <seg>автоматическая демонстрация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>background</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T172046Z" creationid="olex" creationdate="20181215T172046Z">
+        <seg>фон</seg>
       </tuv>
     </tu>
     <tu>
