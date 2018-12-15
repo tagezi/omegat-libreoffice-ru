@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;f0&gt;Esc&lt;/f0&gt; key)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T105232Z" creationid="olex" creationdate="20181215T105232Z">
+        <seg>(Клавиша &lt;f0&gt;Esc&lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(&lt;f0&gt;FuelID&lt;/f0&gt; cannot be used.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T201313Z" creationid="olex" creationdate="20181206T201313Z">
@@ -10898,6 +10906,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change it to Multi-line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T104958Z" creationid="olex" creationdate="20181215T104958Z">
+        <seg>Измените его на Многострочный</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change nothing in the Insert Index/Table dialog (unless you want to change the number of levels shown).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181002T180431Z" creationid="olex" creationdate="20181002T180352Z">
@@ -10982,6 +10998,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180808T174648Z" creationid="olex" creationdate="20180808T174233Z">
         <seg>Измените максимальное количество слов, запоминаемых для завершения слова (записей), и минимальную длину слов, которые нужно запомнить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change the selection from &lt;f1&gt;None&lt;/f1&gt; to &lt;f2&gt;Vertical&lt;/f2&gt; in this list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T105207Z" creationid="olex" creationdate="20181215T105207Z">
+        <seg>Выберите значение &lt;f1&gt;Вертикальная&lt;/f1&gt; вместо &lt;f2&gt;Нет&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13827,6 +13851,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181212T211041Z" creationid="olex" creationdate="20181212T211041Z">
         <seg>Закройте диалоговое окно Свойства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close the Properties window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T105218Z" creationid="olex" creationdate="20181215T105218Z">
+        <seg>Закройте окно Свойства</seg>
       </tuv>
     </tu>
     <tu>
@@ -30753,6 +30785,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lengthen the Misc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T105720Z" creationid="olex" creationdate="20181215T105626Z">
+        <seg>Растяните поле </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lengthen the Note field vertically, add a scroll bar, and move it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181208T121454Z" creationid="olex" creationdate="20181208T121454Z">
@@ -33946,6 +33986,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181215T104257Z" creationid="olex" creationdate="20181215T103415Z">
         <seg>поля Заметки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notes field by moving the cursor over the middle green handle at the bottom of the field and dragging down until the length is 6 cm (2.4 inches).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T105714Z" creationid="olex" creationdate="20181215T105610Z">
+        <seg>Заметки, наведя курсор на средний зеленый маркер в нижней части поля и потянув его вниз, пока высота не составит 6 см (2,4 дюйма).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38035,6 +38083,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181212T195127Z" creationid="olex" creationdate="20181212T195047Z">
         <seg>Прокрутите вниз до свойства &lt;f0&gt;Формат данных&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll down to the &lt;f0&gt;Scrollbars&lt;/f0&gt; setting.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T105035Z" creationid="olex" creationdate="20181215T105035Z">
+        <seg>Прокрутите вниз до параметра &lt;f0&gt;Полосы прокрутки&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
