@@ -86,10 +86,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(It should have a white background while the other tabs have a gray one.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T172952Z" creationid="olex" creationdate="20181215T172952Z">
+        <seg>(У нее должен быть белый фон, в то время как у других вкладок - серый.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Its foreign key&lt;t0/&gt; will contain the same number of fields.) If this were the case in Figure &lt;t1&gt;9&lt;/t1&gt;, the other fields of the primary field for the Fuel table would be listed under Date.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181204T194419Z" creationid="olex" creationdate="20181204T194419Z">
         <seg>(Его внешний ключ &lt;t0/&gt;будет содержать одинаковое количество полей.) Если бы это было на Рисунке &lt;t1&gt;9&lt;/t1&gt;, то остальные поля первичного поля для таблицы Топливо были бы перечислены в разделе Дата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(List contains None, Color, Gradient, Hatching, and Bitmap.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T173502Z" creationid="olex" creationdate="20181215T173502Z">
+        <seg>(Варианты вкладок: Нет, Цвет, Градиент, Текстура, Орнамент и Штриховка.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11962,6 +11978,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Apply&lt;/f0&gt; to see the effects of adding the color.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T174242Z" creationid="olex" creationdate="20181215T174242Z">
+        <seg>Нажмите &lt;f0&gt;Применить&lt;/f0&gt;, чтобы увидеть эффект от добавления цвета.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Close Toolbar&lt;/f0&gt; to close the selected toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T183616Z" creationid="olex" creationdate="20180615T183616Z">
@@ -18956,6 +18980,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181116T194637Z" creationid="olex" creationdate="20181116T194637Z">
         <seg>Рисунок &lt;seq0&gt;27&lt;/seq0&gt;: Левая часть строки состояния при перемещении или настройке объекта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Page style dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T173025Z" creationid="olex" creationdate="20181215T173025Z">
+        <seg>Рисунок &lt;seq0&gt;27&lt;/seq0&gt;: Диалоговое окно Стиль страницы</seg>
       </tuv>
     </tu>
     <tu>
@@ -32075,6 +32107,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure the &lt;f0&gt;Area&lt;/f0&gt; tab has been selected.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T172927Z" creationid="olex" creationdate="20181215T172927Z">
+        <seg>Выберите вкладку &lt;f0&gt;Область&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure the &lt;f0&gt;Numbers&lt;/f0&gt; page is selected, then select &lt;f1&gt;Date&lt;/f1&gt; or &lt;f2&gt;Time&lt;/f2&gt; from the &lt;f3&gt;Category&lt;/f3&gt; list.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T192015Z" creationid="olex" creationdate="20180412T192015Z">
@@ -34219,6 +34259,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T181251Z" creationid="olex" creationdate="20180707T181251Z">
         <seg>Версия формата ODF, сохранение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OR, click &lt;f1&gt;OK&lt;/f1&gt; to close the dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T174312Z" creationid="olex" creationdate="20181215T174312Z">
+        <seg>Или, нажмите &lt;f1&gt;OK&lt;/f1&gt;, чтобы применить цвет и закрыть диалоговое окно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37854,6 +37902,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click the form to open a context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T172822Z" creationid="olex" creationdate="20181215T172822Z">
+        <seg>Нажмите форму правой кнопкой мыши, чтобы открыть контекстное меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click the label PaymentType to open the context menu.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181215T165231Z" creationid="olex" creationdate="20181215T165231Z">
@@ -38187,6 +38243,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T181958Z" creationid="olex" creationdate="20180628T181958Z">
         <seg>Флажок Экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scroll down through the colors and then Click &lt;f0&gt;Cyan 2&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T173709Z" creationid="olex" creationdate="20181215T173709Z">
+        <seg>Прокрутите выберите в палитре цветов &lt;f0&gt;Голубой 2&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39144,6 +39208,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Page&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T172845Z" creationid="olex" creationdate="20181215T172845Z">
+        <seg>Выберите &lt;f0&gt;Страница...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select &lt;f0&gt;Position and Size&lt;/f0&gt; from the context menu and make sure that &lt;f1&gt;Keep ratio &lt;/f1&gt;is selected.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181022T180126Z" creationid="olex" creationdate="20181022T180126Z">
@@ -39340,6 +39412,15 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181202T120103Z" creationid="olex" creationdate="20181202T112906Z">
         <seg>Выберите из выпадающего списка &lt;f3&gt;Целое [INTEGER]&lt;/f3&gt; в качестве типа поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>денкин: тут у автора видимо описывается устаревший интерфейс</note>
+      <tuv lang="EN-US">
+        <seg>Select Color from the drop-down list below &lt;f0&gt;Fill&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T173352Z" creationid="olex" creationdate="20181215T173352Z">
+        <seg>Выберите ниже вкладку &lt;f0&gt;Цвет&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
