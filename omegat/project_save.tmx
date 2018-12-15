@@ -21056,6 +21056,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if you enter the values for a new position, both the field and the label moves to the same position and the field is positioned on top of the label.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T102606Z" creationid="olex" creationdate="20181215T102549Z">
+        <seg>Например, если вы введете значения для нового положения, то поле и метка переместятся в одно и то же место, и поле расположится поверх метки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, if you restarted page numbering at 1 on the third page, its page number is 1 and its sequence number is 3.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T161227Z" creationid="olex" creationdate="20180721T161227Z">
@@ -25172,6 +25180,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180621T175938Z" creationid="olex" creationdate="20180621T175938Z">
         <seg>Однако вы не можете копировать или вставлять файлы в диалоговом окне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, you need to be careful not to accidentally select the entire control for use with the Properties dialog or you will apply exactly the same values to both the label and field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T102355Z" creationid="olex" creationdate="20181215T102355Z">
+        <seg>Однако вы должны быть внимательны, чтобы случайно не выбрать весь элемент управления для изменения в диалоговом окне Свойства, иначе вы примените абсолютно одинаковые значения как к метке, так и к полю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46724,6 +46740,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then you will have to move each of them to where you really want them.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T102703Z" creationid="olex" creationdate="20181215T102703Z">
+        <seg>После этого вам придется переместить их туда, где вы действительно хотели их видеть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, go to &lt;f0&gt;Insert &gt; Object &gt; Formula&lt;/f0&gt; on the menu bar to open the Formula Editor.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T064155Z" creationid="User" creationdate="20180311T154515Z">
@@ -50963,6 +50987,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180917T212652Z" creationid="olex" creationdate="20180917T212652Z">
         <seg>Чтобы открыть Навигатор, нажмите значок &lt;f0&gt;Навигатор&lt;/f0&gt; панели инструментов Стандартная, или нажмите клавишу &lt;f1&gt;F5&lt;/f1&gt;, или выберите в меню &lt;f2&gt;Вид &gt; Навигатор&lt;/f2&gt;, или нажмите в области Номер страницы на строке состояния, или нажмите значок Навигатор на Боковой панели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To open the Properties dialog, right-click a control and select &lt;f0&gt;Control&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T102758Z" creationid="olex" creationdate="20181215T102758Z">
+        <seg>Чтобы открыть диалоговое окно Свойства, нажмите правой кнопкой мыши элемент управления и выберите в контекстном меню &lt;f0&gt;Элемент управления...&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55440,6 +55472,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T195500Z" creationid="olex" creationdate="20180616T195500Z">
         <seg>При использовании диалогового окна Открыть перейдите в нужную папку и выберите нужный файл, а затем нажмите &lt;f0&gt;Открыть&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When working with either the label or the field (but not both at the same time), you can use the Properties dialog to make these changes when you want to be exact.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T102254Z" creationid="olex" creationdate="20181215T102254Z">
+        <seg>При работе с меткой или полем (но не с обоими одновременно) вы можете использовать диалоговое окно Свойства, чтобы внести изменения, если хотите быть точным.</seg>
       </tuv>
     </tu>
     <tu>
