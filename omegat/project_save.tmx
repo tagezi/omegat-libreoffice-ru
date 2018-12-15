@@ -18808,6 +18808,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Properties</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T165535Z" creationid="olex" creationdate="20181215T165535Z">
+        <seg>Рисунок &lt;seq0&gt;25&lt;/seq0&gt;: Свойства</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Select Sheets dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T174747Z" creationid="olex" creationdate="20180416T174747Z">
@@ -28742,6 +28750,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the &lt;f1&gt;Label&lt;/f1&gt; property, change PaymentType to Payment Type.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T165709Z" creationid="olex" creationdate="20181215T165501Z">
+        <seg>В свойстве &lt;f1&gt;Текст&lt;/f1&gt; измените ТипОплаты на Тип оплаты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the &lt;f1&gt;Options&lt;/f1&gt; section of the page (Figure &lt;t2&gt;26&lt;/t2&gt;), choose the settings that are useful for you.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T183918Z" creationid="olex" creationdate="20180918T183918Z">
@@ -37758,6 +37774,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click the label PaymentType to open the context menu.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T165231Z" creationid="olex" creationdate="20181215T165231Z">
+        <seg>Нажмите правой кнопкой мыши метку ТипОплаты, чтобы открыть контекстное меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click to open the context menu click &lt;f1&gt;Edit&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T192634Z" creationid="olex" creationdate="20180311T192634Z">
@@ -38803,6 +38827,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T184617Z" creationid="olex" creationdate="20180508T184617Z">
         <seg>Выберите &lt;f0&gt;Разрыв по столбцу&lt;/f0&gt; для создания разрыва страницы слева от выбранной ячейки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Column&lt;/f0&gt; to open the Properties dialog.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T165715Z" creationid="olex" creationdate="20181215T165346Z">
+        <seg>Выберите &lt;f0&gt;Столбец...&lt;/f0&gt;, чтобы открыть диалоговое окно Свойства.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41933,6 +41965,22 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T202834Z" creationid="olex" creationdate="20181206T202834Z">
         <seg>Шаг 7: Применить стили</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 7: Change labels and fields in the subform</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T164857Z" creationid="olex" creationdate="20181215T164857Z">
+        <seg>Шаг 7: Изменить метки и поля в подчиненной форме</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 8: Add headings to groups</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T165602Z" creationid="olex" creationdate="20181215T165602Z">
+        <seg>Шаг 8: Добавить заголовки для групп</seg>
       </tuv>
     </tu>
     <tu>
@@ -46338,6 +46386,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The subform is located at the bottom of the form.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T164915Z" creationid="olex" creationdate="20181215T164915Z">
+        <seg>Подформа находится внизу формы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The symbols that are available change according to the selected category.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T093952Z" creationid="Роман" creationdate="20180316T093952Z">
@@ -48584,6 +48640,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This step is easier to do if you have end-of-paragraph markers visible.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T165811Z" creationid="olex" creationdate="20181215T165811Z">
+        <seg>Этот шаг легче выполнить, если вы видите маркеры конца абзаца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This step is for tables or queries for which no relationship has been defined.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T200550Z" creationid="olex" creationdate="20181206T200550Z">
@@ -49464,6 +49528,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180905T171447Z" creationid="olex" creationdate="20180905T171447Z">
         <seg>Чтобы изменить &lt;f0&gt;горизонтальное &lt;/f0&gt;выравнивание абзаца, щелкните один из четырех значков выравнивания (По левому краю, Центрировать по горизонтали, По правому краю, По ширине) &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the PaymentType column:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T165202Z" creationid="olex" creationdate="20181215T165202Z">
+        <seg>Чтобы изменить столбец ТипОплаты:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52317,6 +52389,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To widen the Date column, move the mouse pointer over the dividing line between the Date and FuelCost columns.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T165103Z" creationid="olex" creationdate="20181215T165103Z">
+        <seg>Чтобы расширить столбец Дата, наведите указатель мыши на разделительную линию между столбцами Дата и ЦенаТоплива.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To work with tables, click the &lt;f0&gt;Tables&lt;/f0&gt; icon in the &lt;f1&gt;Database&lt;/f1&gt; list, or press &lt;f2&gt;Alt+a&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181126T182130Z" creationid="olex" creationdate="20181126T182130Z">
@@ -54649,6 +54729,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We want to widen the Date column, &lt;s0/&gt;and change the label for the PaymentType column to two words.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T165031Z" creationid="olex" creationdate="20181215T165031Z">
+        <seg>Мы хотим расширить столбец Дата, &lt;s0/&gt;и заменить метку для столбца ТипОплаты на два слова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We will also modify the label for the PaymentType field as well as change the field to a list box.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181207T200504Z" creationid="olex" creationdate="20181207T195457Z">
@@ -55536,6 +55624,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180719T191743Z" creationid="olex" creationdate="20180719T191743Z">
         <seg>Когда установка пакета завершена&lt;o0/&gt;, перезапустите LibreOffice&lt;ts1/&gt;&lt;o2/&gt;&lt;te3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the pointer changes shape, click and drag to move the divider to the right.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181215T165144Z" creationid="olex" creationdate="20181215T165144Z">
+        <seg>Когда указатель изменит свою форму, нажмите и перетащите, чтобы переместить разделитель вправо.</seg>
       </tuv>
     </tu>
     <tu>
