@@ -2227,6 +2227,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Gradient&lt;/f0&gt;: You can select increments between the colors to be automatic or you can select the amount of it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181217T194327Z" creationid="olex" creationdate="20181217T194111Z">
+        <seg>&lt;f0&gt;Градиент&lt;/f0&gt;: Вы можете выбрать шаг между цветами Автоматически или можете настроить его сами.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: не могу подобрать подходящее слово</note>
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Granularity.</seg>
@@ -2257,6 +2265,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T102757Z" creationid="olex" creationdate="20180815T102757Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;&lt;te1/&gt;&lt;ts2/&gt;&lt;f3&gt;Выполнить перенос слов &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;te5/&gt;&lt;tc6/&gt;&lt;ts7/&gt;&lt;f8&gt;в конце строки можно&lt;/f8&gt;&lt;te9/&gt;&lt;ts10/&gt;&lt;f11&gt; двумя способами&lt;/f11&gt;&lt;te12/&gt;: позволить Writer делать это автоматически (используя его словари для переносов) &lt;ts13/&gt;&lt;f14&gt;или &lt;/f14&gt;&lt;te15/&gt;или вставлять условные дефисы вручную  &lt;ts16/&gt;&lt;f17&gt;для определенных слов&lt;/f17&gt;&lt;te18/&gt;&lt;tc19/&gt;&lt;tc20/&gt;&lt;ts21/&gt;&lt;f22&gt;&lt;/f22&gt;&lt;te23/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Hatching&lt;/f0&gt;: Select the hatching design.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181217T200838Z" creationid="olex" creationdate="20181217T200838Z">
+        <seg>&lt;f0&gt;Текстура&lt;/f0&gt;: Выберите дизайн текстуры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2746,6 +2762,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T191913Z" creationid="olex" creationdate="20180611T174556Z">
         <seg>&lt;f0&gt;Отсутствие блокировки разработчика.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;None&lt;/f0&gt;: No background.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181217T193815Z" creationid="olex" creationdate="20181217T193815Z">
+        <seg>&lt;f0&gt;Нет&lt;/f0&gt;: Нет фона.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37322,6 +37346,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T145549Z" creationid="olex" creationdate="20180630T145549Z">
         <seg>Удалять личную информацию при сохранении</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove the check to specify the amount.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181217T194353Z" creationid="olex" creationdate="20181217T194151Z">
+        <seg>Снимите флажок, чтобы указать значение.</seg>
       </tuv>
     </tu>
     <tu>
