@@ -1168,6 +1168,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Bitmap&lt;/f0&gt;: Select the bitmap design that you want.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181217T202101Z" creationid="olex" creationdate="20181217T202101Z">
+        <seg>&lt;f0&gt;Орнамент&lt;/f0&gt;: Выберите узор орнамента, который вы хотите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Both&lt;/f0&gt;&lt;te1/&gt;&lt;tc2/&gt;&lt;tc3/&gt; methods &lt;ts4/&gt;&lt;f5&gt;i&lt;/f5&gt;nsert links to other parts of the same document or to a&lt;f6&gt;n external source, taking &lt;/f6&gt;&lt;te7/&gt;&lt;tc8/&gt;you &lt;tc9/&gt;directly to the cross-referenced item.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180823T180448Z" creationid="olex" creationdate="20180823T180448Z">
