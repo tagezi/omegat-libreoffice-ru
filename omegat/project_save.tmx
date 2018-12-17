@@ -2271,8 +2271,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Hatching&lt;/f0&gt;: Select the hatching design.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181217T200838Z" creationid="olex" creationdate="20181217T200838Z">
-        <seg>&lt;f0&gt;Текстура&lt;/f0&gt;: Выберите дизайн текстуры.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181217T200919Z" creationid="olex" creationdate="20181217T200838Z">
+        <seg>&lt;f0&gt;Текстура&lt;/f0&gt;: Выберите узор текстуры.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47145,6 +47145,15 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180927T181756Z" creationid="olex" creationdate="20180927T181756Z">
         <seg>Затем введите базовое слово в поле &lt;f3&gt;Слово&lt;/f3&gt; и введите в поле &lt;f4&gt;Грамматика&lt;/f4&gt; слово, которое является вариантом базового слова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>денкин: не понял автора, по факту - текстуре нельзя присвоить цвет, выбор возможен или текстуры или цвета фона</note>
+      <tuv lang="EN-US">
+        <seg>Then if you want a background color, check Background color and select the color.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181217T201740Z" creationid="olex" creationdate="20181217T201740Z">
+        <seg>Затем, если вы хотите цвет фона, нажмите Цвет и выберите цвет фона.</seg>
       </tuv>
     </tu>
     <tu>
