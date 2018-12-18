@@ -1506,6 +1506,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; the Date field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T201635Z" creationid="olex" creationdate="20181218T201635Z">
+        <seg>&lt;f0&gt;Ctrl+нажать&lt;/f0&gt; поле Дата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; the SnackNo label.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181212T204244Z" creationid="olex" creationdate="20181212T204244Z">
@@ -3458,6 +3466,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180414T144900Z" creationid="olex" creationdate="20180414T144900Z">
         <seg>&lt;f0&gt;Нач. значение&lt;/f0&gt; – определяет начальное значение для ряда.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Step 10: Change &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;the tab order&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T201046Z" creationid="olex" creationdate="20181218T201046Z">
+        <seg>&lt;f0&gt;Шаг 10: Изменить &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;порядок вкладок&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19337,6 +19353,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Form Design toolbar with Activation Order icon circled</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T201605Z" creationid="olex" creationdate="20181218T201605Z">
+        <seg>Рисунок &lt;seq0&gt;31&lt;/seq0&gt;: Панель инструментов Конструктор форм со значком Порядок активирования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: LibreOffice &lt;s1/&gt;settings for Impress remote control</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181101T195102Z" creationid="olex" creationdate="20181101T195102Z">
@@ -21172,6 +21196,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180319T174052Z" creationid="tagezi" creationdate="20180319T174052Z">
         <seg>Например, после сохранения нового документа обновляется список Недавние документы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, all of our meal receipts can be grouped together as can our snacks and also our fuel purchases.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T201436Z" creationid="olex" creationdate="20181218T201436Z">
+        <seg>Например, все наши счета за еду могут быть сгруппированы вместе, как и закуски, а также покупки топлива.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30081,6 +30113,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also permits us to group our expenses into areas before we begin entering data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T201332Z" creationid="olex" creationdate="20181218T201332Z">
+        <seg>Это позволит нам также сгруппировать наши расходы по зонам, прежде чем мы начнем вводить данные.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also permits you to delete a field from the table without causing inconsistencies.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181204T194950Z" creationid="olex" creationdate="20181204T194950Z">
@@ -38817,6 +38857,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the &lt;f0&gt;Draw Guide&lt;/f0&gt; for information how to do this.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T201001Z" creationid="olex" creationdate="20181218T201001Z">
+        <seg>Смотрите &lt;f0&gt;Руководство по Draw&lt;/f0&gt;, чтобы узнать, как это сделать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the &lt;f0&gt;Writer Guide Chapter 3 Working with Text&lt;/f0&gt; for more information.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180313T090728Z" creationid="tagezi" creationdate="20180313T090728Z">
@@ -39494,6 +39542,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180319T190857Z" creationid="olex" creationdate="20180307T204101Z">
         <seg>Выберите &lt;f0&gt;Вид &gt; Стили&lt;/f0&gt; или &lt;f1&gt;Стили &gt; Управление стилями&lt;/f1&gt; на панели меню, или нажмите &lt;f2&gt;F11&lt;/f2&gt; (&lt;f3&gt;⌘+T &lt;/f3&gt;для Mac), или нажмите значок Стили на боковой панели (&lt;f4&gt;Вид &gt; Боковая панель&lt;/f4&gt; чтобы открыть ее).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;View &gt; Toolbar &gt; Form Design&lt;/f0&gt; to open this toolbar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T201710Z" creationid="olex" creationdate="20181218T201710Z">
+        <seg>Выберите &lt;f0&gt;Вид &gt; Панели инструментов &gt; Конструктор форм&lt;/f0&gt;, чтобы открыть эту панель инструментов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43107,6 +43163,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180630T153952Z" creationid="olex" creationdate="20180630T153952Z">
         <seg>Опция &lt;f0&gt;Поддержка вспомогательной технологии&lt;/f0&gt; отображается не во всех установках LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;f0&gt;Tab&lt;/f0&gt; key moves the cursor from field to field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T201127Z" creationid="olex" creationdate="20181218T201127Z">
+        <seg>Клавиша &lt;f0&gt;Tab&lt;/f0&gt; перемещает курсор от поля к полю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48479,6 +48543,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T180806Z" creationid="olex" creationdate="20180707T180806Z">
         <seg>Это важно, если вы хотите сделать документ доступным для других компьютеров, которые могут иметь совершенно другую структуру каталогов, имена дисков или томов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is much easier to do than to click each field to enter data into it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T201158Z" creationid="olex" creationdate="20181218T201158Z">
+        <seg>Это гораздо проще, чем нажимать мышью каждое поле, чтобы ввести в него данные.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62143,6 +62215,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T201441Z" creationid="Роман" creationdate="20180316T201441Z">
         <seg>sum a_n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tab order</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T201019Z" creationid="olex" creationdate="20181218T201019Z">
+        <seg>порядок вкладок</seg>
       </tuv>
     </tu>
     <tu>
