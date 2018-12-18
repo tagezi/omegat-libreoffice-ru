@@ -13501,6 +13501,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;f0&gt;Move Up&lt;/f0&gt; button until txtPayment is just below fmtMotel.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T202455Z" creationid="olex" creationdate="20181218T202455Z">
+        <seg>Нажимайте кнопку &lt;f0&gt;Поднять&lt;/f0&gt; пока txtМТОплаты не окажется сразу после  fmtМотель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;f0&gt;Notes&lt;/f0&gt; tab in the Workspace.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T171022Z" creationid="olex" creationdate="20181013T165316Z">
@@ -13650,6 +13658,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T171559Z" creationid="olex" creationdate="20181013T170927Z">
         <seg>Нажмите вкладку &lt;f2&gt;Мастер тезисов&lt;/f2&gt; в рабочей области и на Боковой панели откроется вкладка &lt;f3&gt;Макеты&lt;/f3&gt; (Рисунок &lt;t4&gt;7&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;i0/&gt;&lt;f1&gt;Activation Order&lt;/f1&gt; icon (circled).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T201843Z" creationid="olex" creationdate="20181218T201843Z">
+        <seg>Нажмите значок &lt;i0/&gt;&lt;f1&gt;Порядок активирования&lt;/f1&gt; (в круге).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20596,6 +20612,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T060721Z" creationid="tagezi" creationdate="20180313T123636Z">
         <seg>Найдите в нём библиотеку с названием &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find the txtMPayment listing near the bottom of the list and click it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T202247Z" creationid="olex" creationdate="20181218T202247Z">
+        <seg>Найдите список txtМТОплаты в списке и нажмите его.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37280,6 +37304,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rearrange the order of the fields in the Tab Order window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T202015Z" creationid="olex" creationdate="20181218T202015Z">
+        <seg>Измените порядок полей в окне Порядок активирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recipients of PDF documents with a trusted timestamp can verify when the document was digitally or electronically signed, as well as verify that the document was not altered after the date the timestamp vouches for.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180628T184716Z" creationid="olex" creationdate="20180628T184716Z">
@@ -38253,6 +38285,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T174849Z" creationid="olex" creationdate="20180707T174849Z">
         <seg>Относительные пути к файлам и интернет-адреса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save and close the form.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T202617Z" creationid="olex" creationdate="20181218T202617Z">
+        <seg>Сохраните и закройте форму.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54041,6 +54081,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the same two steps to put the fields in the same order as in Figure &lt;t0&gt;32&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T202558Z" creationid="olex" creationdate="20181218T202558Z">
+        <seg>Используйте эти два шага, чтобы расположить поля в том же порядке, что и на Рисунке &lt;t0&gt;32&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the slide sorter (see page &lt;bf0&gt;12&lt;/bf0&gt;) to reorder your photo album.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181029T194027Z" creationid="olex" creationdate="20181029T194027Z">
@@ -59907,6 +59955,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>activation order</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T201749Z" creationid="olex" creationdate="20181218T201749Z">
+        <seg>порядок активирования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>adding macros from other sources</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180311T123016Z" creationid="tagezi" creationdate="20180311T123016Z">
@@ -62221,8 +62277,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>tab order</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181218T201019Z" creationid="olex" creationdate="20181218T201019Z">
-        <seg>порядок вкладок</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T202023Z" creationid="olex" creationdate="20181218T201019Z">
+        <seg>порядок активирования</seg>
       </tuv>
     </tu>
     <tu>
