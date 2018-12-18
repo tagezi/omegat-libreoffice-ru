@@ -38313,6 +38313,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save the database.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T203732Z" creationid="olex" creationdate="20181218T203732Z">
+        <seg>Сохраните базу данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save the new database with the name &lt;f0&gt;Automobile&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T190513Z" creationid="olex" creationdate="20181125T190513Z">
@@ -60339,10 +60347,26 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>creating forms</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T203744Z" creationid="olex" creationdate="20181218T203744Z">
+        <seg>создание форм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>creating from selection</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180309T201922Z" creationid="olex" creationdate="20180309T201922Z">
         <seg>создание по выделению</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>creating in Design View</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T203853Z" creationid="olex" creationdate="20181218T203853Z">
+        <seg>Создание в режиме дизайна</seg>
       </tuv>
     </tu>
     <tu>
