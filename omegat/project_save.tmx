@@ -19072,6 +19072,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Finished form</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T193657Z" creationid="olex" creationdate="20181218T193657Z">
+        <seg>Рисунок &lt;seq0&gt;28&lt;/seq0&gt;: Готовая форма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Inserting comments</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181029T190741Z" creationid="olex" creationdate="20181029T190741Z">
@@ -34885,6 +34893,15 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T182449Z" creationid="olex" creationdate="20180619T182449Z">
         <seg>Слева находится структура папок пользовательского пространства на сервере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>денкин: по умолчанию боковая панель находится слева, поэтому взял наглость исправить</note>
+      <tuv lang="EN-US">
+        <seg>On the left side of the form window are four icons (Figure &lt;t0&gt;29&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T195715Z" creationid="olex" creationdate="20181218T195715Z">
+        <seg>Справа от окна формы находятся четыре значка (Рисунок &lt;t0&gt;29&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
