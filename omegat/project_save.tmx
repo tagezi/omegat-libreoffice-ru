@@ -12849,6 +12849,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>денкин: не нашел в Галерее категории Фоны</note>
+      <tuv lang="EN-US">
+        <seg>Click it and click Backgrounds (Figure &lt;t1&gt;30&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T200513Z" creationid="olex" creationdate="20181218T200136Z">
+        <seg>Нажмите на значок Галерея и выберите категорию Фоны (Рисунок &lt;t1&gt;30&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Click it to open the list.</seg>
       </tuv>
@@ -19136,6 +19145,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Often used items</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T200639Z" creationid="olex" creationdate="20181218T200639Z">
+        <seg>Рисунок &lt;seq0&gt;29&lt;/seq0&gt;: Часто используемые элементы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: The &lt;i1/&gt;Cross-references tab of the Fields dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181002T191101Z" creationid="olex" creationdate="20181002T191101Z">
@@ -19284,6 +19301,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180918T185220Z" creationid="olex" creationdate="20180918T185220Z">
         <seg>Рисунок &lt;seq0&gt;30&lt;/seq0&gt;: LibreOffice Безопасный режим</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Open Gallery</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T200656Z" creationid="olex" creationdate="20181218T200656Z">
+        <seg>Рисунок &lt;seq0&gt;30&lt;/seq0&gt;: Открытая Галерея</seg>
       </tuv>
     </tu>
     <tu>
@@ -37991,6 +38016,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right-click the background you want to use.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T200455Z" creationid="olex" creationdate="20181218T200455Z">
+        <seg>Нажмите правой кнопкой мыши фон, который вы хотите использовать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right-click the column or row header.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T210938Z" creationid="olex" creationdate="20180407T210938Z">
@@ -39501,6 +39534,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181212T195809Z" creationid="olex" creationdate="20181212T195809Z">
         <seg>Выберите &lt;f1&gt;Да&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f2&gt;Insert as Background &gt; Page&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T200550Z" creationid="olex" creationdate="20181218T200550Z">
+        <seg>Выберите &lt;f2&gt;Вставить фоном &gt; Страница&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58151,6 +58192,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can create custom Gradients, Hatchings, and Bitmaps using the Draw component of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T200815Z" creationid="olex" creationdate="20181218T200815Z">
+        <seg>Вы можете создавать собственные градиенты, штриховки и растровые изображения, используя компонент Draw в LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can create new template categories and use them to organize your templates.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T203745Z" creationid="olex" creationdate="20180313T203745Z">
@@ -59118,6 +59167,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181120T204558Z" creationid="olex" creationdate="20181120T204558Z">
         <seg>Вы можете использовать инструмент Отразить, чтобы изменить положение и угол линии, относительно которой объект будет отражен, как описано в Главе 4 Изменение свойств объекта в &lt;f1&gt;Руководстве по Draw&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use the Gallery as a source for backgrounds.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T195817Z" creationid="olex" creationdate="20181218T195817Z">
+        <seg>Вы можете использовать Галерею в качестве источника фона.</seg>
       </tuv>
     </tu>
     <tu>
