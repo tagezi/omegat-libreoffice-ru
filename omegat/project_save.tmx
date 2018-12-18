@@ -1170,8 +1170,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Bitmap&lt;/f0&gt;: Select the bitmap design that you want.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181217T202101Z" creationid="olex" creationdate="20181217T202101Z">
-        <seg>&lt;f0&gt;Орнамент&lt;/f0&gt;: Выберите узор орнамента, который вы хотите.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T193151Z" creationid="olex" creationdate="20181217T202101Z">
+        <seg>&lt;f0&gt;Орнамент&lt;/f0&gt;: Выберите узор орнамента, который вы хотите использовать.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2279,8 +2279,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Hatching&lt;/f0&gt;: Select the hatching design.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181217T200919Z" creationid="olex" creationdate="20181217T200838Z">
-        <seg>&lt;f0&gt;Текстура&lt;/f0&gt;: Выберите узор текстуры.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T192734Z" creationid="olex" creationdate="20181217T200838Z">
+        <seg>&lt;f0&gt;Штриховка&lt;/f0&gt;: Выберите узор штриховки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10962,6 +10962,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change if necessary.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T193230Z" creationid="olex" creationdate="20181218T193230Z">
+        <seg>Поменяйте узор при необходимости.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change it to Multi-line.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181215T104958Z" creationid="olex" creationdate="20181215T104958Z">
@@ -12018,6 +12026,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Apply&lt;/f0&gt; to see what your selection will look like in your form.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T193210Z" creationid="olex" creationdate="20181218T193146Z">
+        <seg>Нажмите &lt;f0&gt;Применить&lt;/f0&gt;, чтобы увидеть, как это будет выглядеть в вашей форме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Close Toolbar&lt;/f0&gt; to close the selected toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T183616Z" creationid="olex" creationdate="20180615T183616Z">
@@ -12278,6 +12294,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T180254Z" creationid="olex" creationdate="20180416T180254Z">
         <seg>Нажмите &lt;f0&gt;OK&lt;/f0&gt; для выбора листов и вкладки листов изменят цвет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to select your final decision.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T193309Z" creationid="olex" creationdate="20181218T193309Z">
+        <seg>Нажмите &lt;f0&gt;ОК&lt;/f0&gt; для выбора окончательное варианта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27382,6 +27406,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181029T193855Z" creationid="olex" creationdate="20181029T193855Z">
         <seg>Если вы выбрали &lt;f0&gt;Добавить название каждому слайду&lt;/f0&gt;, то на каждом слайде будет добавлено поле для названия изображения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you selected &lt;f0&gt;Bitmap&lt;/f0&gt; and &lt;f1&gt;Sky&lt;/f1&gt; from the Bitmap list, the form should look like Figure &lt;t2&gt;28&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T193640Z" creationid="olex" creationdate="20181218T193640Z">
+        <seg>Если вы выбрали &lt;f0&gt;Текстура&lt;/f0&gt; и &lt;f1&gt;Little Clouds&lt;/f1&gt; из вариантов текстуры, то форма форма будет выглядеть примерно так, как показано на рисунке &lt;t2&gt;28&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47160,8 +47192,8 @@ Dispatch framework = программный каркас отправки</note>
       <tuv lang="EN-US">
         <seg>Then if you want a background color, check Background color and select the color.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181217T201740Z" creationid="olex" creationdate="20181217T201740Z">
-        <seg>Затем, если вы хотите цвет фона, нажмите Цвет и выберите цвет фона.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181218T192914Z" creationid="olex" creationdate="20181217T201740Z">
+        <seg>Затем, если вы хотите установить цвет фона, то нажмите Цвет фона и выберите цвет.</seg>
       </tuv>
     </tu>
     <tu>
