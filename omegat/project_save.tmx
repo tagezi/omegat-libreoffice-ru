@@ -3087,6 +3087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Records&lt;/f0&gt; are used to organize the data we enter into a form.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T184143Z" creationid="olex" creationdate="20181219T184143Z">
+        <seg>&lt;f0&gt;Записи&lt;/f0&gt; используются для организации данных, которые мы вводим в форму.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Rename Slide&lt;/f0&gt; – allows you to rename the selected slide.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181013T175503Z" creationid="olex" creationdate="20181013T175503Z">
@@ -13686,6 +13694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the Forms icon in the &lt;f0&gt;Database&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T184457Z" creationid="olex" creationdate="20181219T184457Z">
+        <seg>Нажмите значок Формы в списке &lt;f0&gt;База данных&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the Tolls control to select it.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181208T125444Z" creationid="olex" creationdate="20181208T125339Z">
@@ -14795,8 +14811,8 @@ denkin: так лучше?</note>
       <tuv lang="EN-US">
         <seg>Creating forms and sub forms in Design View</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181124T181136Z" creationid="olex" creationdate="20181124T181136Z">
-        <seg>Создание форм и суб-форм в режиме дизайна</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T183602Z" creationid="olex" creationdate="20181124T181136Z">
+        <seg>Создание форм и подформ в режиме дизайна</seg>
       </tuv>
     </tu>
     <tu>
@@ -15737,6 +15753,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Different types of fields allow different methods of data entry.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T184226Z" creationid="olex" creationdate="20181219T184226Z">
+        <seg>Разные типы полей допускают разные способы ввода данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Digital signature</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T173815Z" creationid="olex" creationdate="20180616T173815Z">
@@ -16158,6 +16182,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T172523Z" creationid="olex" creationdate="20180616T172523Z">
         <seg>Дважды щелкните это поле, чтобы открыть навигатор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click the form’s name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T184559Z" creationid="olex" creationdate="20181219T184559Z">
+        <seg>Дважды нажмите имя формы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19425,6 +19457,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: Tab order for the main form</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T184041Z" creationid="olex" creationdate="20181219T184041Z">
+        <seg>Рисунок &lt;seq0&gt;32&lt;/seq0&gt;: Порядок активирования в главной форме</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Impress presentation as seen in mobile device</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181101T195551Z" creationid="olex" creationdate="20181101T195551Z">
@@ -20604,6 +20644,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180315T190324Z" creationid="olex" creationdate="20180315T190324Z">
         <seg>Найдите папку, в которую вы хотите экспортировать шаблон, и выберите &lt;f0&gt;Сохранить&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find the form’s name in the &lt;f0&gt;Forms&lt;/f0&gt; list (Vacations).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T184539Z" creationid="olex" creationdate="20181219T184539Z">
+        <seg>Найдите имя формы в списке &lt;f0&gt;Формы&lt;/f0&gt; (Досуг).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28743,6 +28791,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In many cases, more than one method can be used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T184314Z" creationid="olex" creationdate="20181219T184314Z">
+        <seg>Во многих случаях можно использовать более, чем один из методов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In many situations, you may find that you have more slides than the time available to present them or you may want to provide a rapid overview without dwelling on the details.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181031T181746Z" creationid="olex" creationdate="20181031T181738Z">
@@ -30013,6 +30069,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180815T105914Z" creationid="olex" creationdate="20180815T105914Z">
         <seg>Вместо этого используйте условный дефис, который отображается только тогда, когда это необходимо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instructions for creating forms using Design view will be described in the &lt;f2&gt;Database Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T184011Z" creationid="olex" creationdate="20181219T184011Z">
+        <seg>Инструкции по созданию форм в режиме дизайна описаны в &lt;f2&gt;Руководстве по базам данных&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45159,6 +45223,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first step to entering data in a form is to open it from the main database window (Figure &lt;t0&gt;1&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T184401Z" creationid="olex" creationdate="20181219T184401Z">
+        <seg>Первый шаг для ввода данных в форму - это открыть форму из главного окна базы данных (Рисунок &lt;t0&gt;1&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first table to be created is &lt;f0&gt;Fuel&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181202T111918Z" creationid="olex" creationdate="20181202T111918Z">
@@ -47856,6 +47928,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These techniques are beyond the scope of this document.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T183852Z" creationid="olex" creationdate="20181219T183852Z">
+        <seg>Такие методы выходят за рамки этого документа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These text boxes are &lt;i1/&gt;&lt;i2/&gt;called &lt;f3&gt;AutoLayout&lt;/f3&gt; text boxes.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181019T181408Z" creationid="olex" creationdate="20181015T164304Z">
@@ -47892,6 +47972,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180317T135452Z" creationid="olex" creationdate="20180306T201330Z">
         <seg>Они также облегчают изменение форматирования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They also organize the data we enter into a subform.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T184207Z" creationid="olex" creationdate="20181219T184207Z">
+        <seg>Они также организуют данные, которые мы вводим в подформу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48824,6 +48912,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180309T072415Z" creationid="olex" creationdate="20180308T155335Z">
         <seg>Этот метод очень полезен, когда вам необходимо отформатировать множество разбросанных абзацев, ячеек или других объектов с одним и тем же стилем:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This method requires using the &lt;f0&gt;Form Controls &lt;/f0&gt;and&lt;f1&gt; Form Design&lt;/f1&gt; toolbars extensively.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T183759Z" creationid="olex" creationdate="20181219T183759Z">
+        <seg>Этот метод требует широкого использования панелей инструментов &lt;f0&gt;Элементы управления&lt;/f0&gt; и &lt;f1&gt;Конструктор форм&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60735,6 +60831,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T170302Z" creationid="olex" creationdate="20180804T164300Z">
         <seg>короткое тире и длинное тире</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>entering data</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T184113Z" creationid="olex" creationdate="20181219T184113Z">
+        <seg>ввод данных</seg>
       </tuv>
     </tu>
     <tu>
