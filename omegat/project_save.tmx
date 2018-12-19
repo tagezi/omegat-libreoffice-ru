@@ -17349,6 +17349,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter values directly into them, or use the &lt;f0&gt;up&lt;/f0&gt; and &lt;f1&gt;down arrows&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T185233Z" creationid="olex" creationdate="20181219T185233Z">
+        <seg>Вводите значения непосредственно в них или используйте стрелки &lt;f0&gt;вверх&lt;/f0&gt; и &lt;f1&gt;вниз&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Entering data in a form</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181124T181325Z" creationid="olex" creationdate="20181124T181325Z">
@@ -19461,6 +19469,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181219T184041Z" creationid="olex" creationdate="20181219T184041Z">
         <seg>Рисунок &lt;seq0&gt;32&lt;/seq0&gt;: Порядок активирования в главной форме</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Calendar drop down</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T184833Z" creationid="olex" creationdate="20181219T184833Z">
+        <seg>Рисунок &lt;seq0&gt;33&lt;/seq0&gt;: Выпадающий календарь</seg>
       </tuv>
     </tu>
     <tu>
@@ -34462,6 +34478,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Numerals to the right of the decimal place must be changed by deleting them and typing the desired ones.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T185526Z" creationid="olex" creationdate="20181219T185429Z">
+        <seg>Цифры справа от разделителя можно изменить, удалив их и введя нужные.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denkin: не смог перевести этот фрагмент дословно, перевел по содержанию панели - как смог</note>
       <tuv lang="EN-US">
         <seg>Numerical and label field controls for Forms are also available.</seg>
@@ -43903,6 +43927,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Motel’s Payment field is a drop-down list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T185658Z" creationid="olex" creationdate="20181219T185658Z">
+        <seg>Поле оплаты за мотель является раскрывающимся списком.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The My Macros container is stored in your user area or home directory.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T103220Z" creationid="tagezi" creationdate="20180320T103220Z">
@@ -43963,6 +43995,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T193400Z" creationid="olex" creationdate="20180616T182907Z">
         <seg>Новый значок изменяется в зависимости от того, какой из модулей LibreOffice открыт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Odometer, Tolls, and Motel fields are numeric fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T185047Z" creationid="olex" creationdate="20181219T185047Z">
+        <seg>Одометр, Сборы и Мотель являются числовыми полями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46491,6 +46531,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The quickest way to enter a date in the Date field is to click the arrow that opens the drop down calendar (Figure &lt;t0&gt;33&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T184853Z" creationid="olex" creationdate="20181219T184709Z">
+        <seg>Самый быстрый способ ввести дату в поле Дата - нажать стрелку, которая откроет выпадающий календарь (Рисунок &lt;t0&gt;33&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The range of choices on the Paste Special menu or &lt;f0&gt;Ctrl+Shift+V&lt;/f0&gt; varies depending on the origin and formatting of the text (or other object) to be pasted.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180926T183421Z" creationid="olex" creationdate="20180926T183421Z">
@@ -47406,6 +47454,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then click the day the you want.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T184725Z" creationid="olex" creationdate="20181219T184725Z">
+        <seg>Затем нажмите на день, который вы хотите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then drag it to the right close to the Lunch control.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181208T125513Z" creationid="olex" creationdate="20181208T125409Z">
@@ -47436,6 +47492,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181218T192914Z" creationid="olex" creationdate="20181217T201740Z">
         <seg>Затем, если вы хотите установить цвет фона, то нажмите Цвет фона и выберите цвет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then press the &lt;f1&gt;Tab&lt;/f1&gt; key to go to the Odometer field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T184806Z" creationid="olex" creationdate="20181219T184806Z">
+        <seg>Затем нажмите клавишу &lt;f1&gt;Tab&lt;/f1&gt;, чтобы перейти к полю Одометр.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47956,6 +48020,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180507T184144Z" creationid="olex" creationdate="20180507T184144Z">
         <seg>Эти инструменты разделены между меню Данные и Сервис.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These two arrows only change the numerals to the left of the decimal place.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T185503Z" creationid="olex" creationdate="20181219T185408Z">
+        <seg>Эти две стрелки изменяют только цифры слева от разделителя целой и дробной части.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53356,6 +53428,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typing the &lt;f0&gt;up arrow&lt;/f0&gt; increases the value, and the &lt;f1&gt;down arrow&lt;/f1&gt; decreases the value by one unit.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T185340Z" creationid="olex" creationdate="20181219T185340Z">
+        <seg>Нажатие &lt;f0&gt;стрелки вверх&lt;/f0&gt; увеличивает значение, а &lt;f1&gt;стрелка вниз&lt;/f1&gt; уменьшает значение на одну единицу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to acquire the trademarked OpenOffice.org name from Oracle Corporation, The Document Foundation named its product LibreOffice.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180305T074827Z" creationid="lera" creationdate="20180303T165722Z">
@@ -56284,6 +56364,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181029T193122Z" creationid="olex" creationdate="20181029T193122Z">
         <seg>Когда последовательность изображений будет готова, нажмите &lt;f0&gt;Вставить слайд&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the value has been entered, use the &lt;f2&gt;Tab&lt;/f2&gt; key to go to the next field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181219T185304Z" creationid="olex" creationdate="20181219T185304Z">
+        <seg>Когда значение введено, то используйте клавишу &lt;f2&gt;Tab&lt;/f2&gt;, чтобы перейти к следующему полю.</seg>
       </tuv>
     </tu>
     <tu>
