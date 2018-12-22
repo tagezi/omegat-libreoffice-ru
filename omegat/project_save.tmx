@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Sheet tab: This has the name of the sheet on it.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T183005Z" creationid="olex" creationdate="20181222T183005Z">
+        <seg>(Вкладка Листа: здесь указано название листа.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The default setting is Text [VARCHAR].)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181202T115945Z" creationid="olex" creationdate="20181202T115945Z">
@@ -16386,6 +16394,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drag the sheet tab in the bottom of the Calc window into the table list of the database file.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T182536Z" creationid="olex" creationdate="20181222T182536Z">
+        <seg>Перетащите вкладку листа из нижней части окна Calc в список таблиц файла базы данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drag the split window borders back to their places at the ends of the scroll bars.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T173051Z" creationid="olex" creationdate="20180409T173051Z">
@@ -16648,6 +16664,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181101T200644Z" creationid="olex" creationdate="20181101T200644Z">
         <seg>Панель инструментов Рисование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drop the sheet by releasing the mouse button.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T183024Z" creationid="olex" creationdate="20181222T183024Z">
+        <seg>Отпустите лист, отпустив кнопку мыши.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16968,6 +16992,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T170826Z" creationid="olex" creationdate="20180330T170826Z">
         <seg>На каждой из этих панелей есть кнопка &lt;f0&gt;Дополнительные параметры&lt;/f0&gt;, которая открывает диалоговое окно с большим количеством настроек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each option is explained in the Help (F1).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T183259Z" creationid="olex" creationdate="20181222T183259Z">
+        <seg>Каждый вариант объясняется в Справке (F1).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35178,6 +35210,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the first page of the wizard, select the options of the copy operation and name the database table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T183223Z" creationid="olex" creationdate="20181222T183223Z">
+        <seg>На первой странице мастера выберите параметры копирования и дайте имя таблице базы данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the left is the folder structure of the user space in the server.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180619T182449Z" creationid="olex" creationdate="20180619T182449Z">
@@ -36610,6 +36650,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180820T182324Z" creationid="olex" creationdate="20180820T182324Z">
         <seg>Поместите курсор в оглавление.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the two windows side by side on your desktop.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T182513Z" creationid="olex" creationdate="20181222T182513Z">
+        <seg>Расположите два окна рядом на вашем рабочем столе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43735,6 +43783,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Copy table wizard appears to help you migrate the content to the database table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T183145Z" creationid="olex" creationdate="20181222T183145Z">
+        <seg>Откроется мастер копирования таблиц, который поможет вам перенести содержимое в таблицу базы данных.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Custom Animation section provides an easy way to add, change, or remove animations.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180915T080258Z" creationid="olex" creationdate="20180915T080258Z">
@@ -46286,6 +46342,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T221628Z" creationid="olex" creationdate="20180407T221628Z">
         <seg>Указатель мыши может измениться, включив знак плюс, в зависимости от настройки вашей операционной системы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The mouse pointer shows a square with a + sign.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T182907Z" creationid="olex" creationdate="20181222T182907Z">
+        <seg>Рядом с указателем мыши появится в квадрат со знаком +.</seg>
       </tuv>
     </tu>
     <tu>
