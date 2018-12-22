@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Queries that require calculations are best created with Design view.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T184319Z" creationid="olex" creationdate="20181222T184319Z">
+        <seg>(Запросы, требующие вычислений, лучше всего создавать в режиме дизайна.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Refer to the manuals for your mobile device and computer operating system for instructions on enabling, setting up a Bluetooth identifier, and pairing.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181101T194537Z" creationid="olex" creationdate="20181101T194537Z">
@@ -12102,6 +12110,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="Роман" changedate="20180316T204714Z" creationid="Роман" creationdate="20180316T204714Z">
         <seg>Нажмите кнопку &lt;f0&gt;Закрыть&lt;/f0&gt; после завершения ввода греческих символов в формулу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Create&lt;/f0&gt; to populate the new table with the spreadsheet data.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T183536Z" creationid="olex" creationdate="20181222T183536Z">
+        <seg>Нажмите &lt;f0&gt;Готово&lt;/f0&gt;, чтобы заполнить новую таблицу данными из электронной таблицы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30473,6 +30489,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It does not copy formulas.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T183745Z" creationid="olex" creationdate="20181222T183745Z">
+        <seg>Он не копирует формулы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It does not matter which of these two files you select; both will be imported.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T123150Z" creationid="tagezi" creationdate="20180320T123150Z">
@@ -35251,6 +35275,22 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the second page of the wizard, select the sheet columns you want to copy into the table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T183322Z" creationid="olex" creationdate="20181222T183322Z">
+        <seg>На второй странице мастера выберите столбцы листа, которые вы хотите скопировать в таблицу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the third page of the wizard, define the data type of each column of your table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T183348Z" creationid="olex" creationdate="20181222T183348Z">
+        <seg>На третьей странице мастера определите тип данных для каждого столбца таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On your computer, open the presentation you would like to present.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181101T195254Z" creationid="olex" creationdate="20181101T195254Z">
@@ -37404,6 +37444,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T124800Z" creationid="olex" creationdate="20180818T124800Z">
         <seg>Поместите курсор мыши на линию между серой и белой секциями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Queries are used to get specific information from a database.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T183835Z" creationid="olex" creationdate="20181222T183835Z">
+        <seg>Запросы используются для получения определенной информации из базы данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43783,6 +43831,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Copy table operation copies only values and strings from the Calc spreadsheet.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T183733Z" creationid="olex" creationdate="20181222T183708Z">
+        <seg>Операция Копировать таблицу копирует только значения и записи из электронной таблицы Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Copy table wizard appears to help you migrate the content to the database table.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181222T183145Z" creationid="olex" creationdate="20181222T183145Z">
@@ -45919,6 +45975,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The information we might want from the Fuel table includes what our fuel economy is.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T184200Z" creationid="olex" creationdate="20181222T184200Z">
+        <seg>Информация, которую мы можем получить из таблицы Топливо, включает информацию об экономии топлива.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The insertion of line breaks or new paragraphs does not terminate text editing or deselect the text frame.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181110T113029Z" creationid="olex" creationdate="20181110T112833Z">
@@ -47658,6 +47722,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180818T125502Z" creationid="olex" creationdate="20180818T125502Z">
         <seg>&lt;ts0/&gt;&lt;f1&gt;Два &lt;/f1&gt;&lt;te2/&gt;&lt;tc3/&gt;маленьких &lt;tc4/&gt;серых треугольника&lt;tc5/&gt; на линейке используются для определения отступов абзацев&lt;ts6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their results are special tables within the database.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T183906Z" creationid="olex" creationdate="20181222T183906Z">
+        <seg>Результаты запросов представляют собой специальные таблицы в базе данных.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51063,6 +51135,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T160541Z" creationid="olex" creationdate="20180409T160541Z">
         <seg>Чтобы удалить несколько листов, выберите листы (смотрите «&lt;bf0&gt;Выбор листов&lt;/bf0&gt;» на странице &lt;bf1&gt;22&lt;/bf1&gt;), затем щелкните правой кнопкой мыши на вкладке одного из листов и выберите в контекстном меню &lt;f2&gt;Удалить листы...&lt;/f2&gt; или выберите в меню &lt;f3&gt;Лист &gt; Удалить листы...&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To demonstrate the use of queries, we will use two different methods:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T183946Z" creationid="olex" creationdate="20181222T183946Z">
+        <seg>Чтобы продемонстрировать использование запросов, мы будем применять два разных метода:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55139,6 +55219,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using our CD-Collection table, we will create a list of albums by a particular artist.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T184016Z" creationid="olex" creationdate="20181222T184016Z">
+        <seg>Используя нашу таблицу CD-Коллекция, мы создадим список альбомов конкретного исполнителя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using selection lists</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180327T173524Z" creationid="olex" creationdate="20180327T173524Z">
@@ -55777,6 +55865,22 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181126T183201Z" creationid="olex" creationdate="20181126T183201Z">
         <seg>Мы создадим таблицу с полями из трех разных предложенных таблиц в Мастере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will do this using Design View.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T184239Z" creationid="olex" creationdate="20181222T184239Z">
+        <seg>Мы сделаем это в режиме дизайна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will do this using the Wizard.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T184031Z" creationid="olex" creationdate="20181222T184031Z">
+        <seg>Мы сделаем это с помощью Мастера.</seg>
       </tuv>
     </tu>
     <tu>
