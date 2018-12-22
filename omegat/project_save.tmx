@@ -8024,6 +8024,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All spacing must be done by the space bar.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T174841Z" creationid="olex" creationdate="20181222T174841Z">
+        <seg>Все интервалы необходимо делать клавишей пробела.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All tabs between these two selections will turn white (default Calc setup).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180405T185242Z" creationid="olex" creationdate="20180405T185242Z">
@@ -17277,6 +17285,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter the data just as you did in the main form, and use the &lt;f0&gt;Tab&lt;/f0&gt; key to go to the next field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T175839Z" creationid="olex" creationdate="20181222T175839Z">
+        <seg>Введите данные так же, как вы делали это в основной форме, используя клавишу &lt;f0&gt;Tab&lt;/f0&gt;, чтобы перейти к следующему полю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter the information in the cells on the first sheet where you want it to appear and it will be repeated in all the selected sheets.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180416T180359Z" creationid="olex" creationdate="20180416T180359Z">
@@ -23520,6 +23536,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Furthermore in text fields, the &lt;f1&gt;Enter&lt;/f1&gt; key acts only as a line break to move the cursor to the next line.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T174933Z" creationid="olex" creationdate="20181222T174933Z">
+        <seg>Кроме того, в текстовых полях клавиша &lt;f1&gt;Enter&lt;/f1&gt; действует только как перенос, перемещая курсор на следующую строку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gallery</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180604T190650Z" creationid="olex" creationdate="20180604T190650Z">
@@ -26710,6 +26734,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T125952Z" creationid="tagezi" creationdate="20180320T125952Z">
         <seg>Если вы используете диалоги LibreOffice, а не операционной системы, введите имя нужной директории в поле Имя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If we did not have a subform for fuel data, pressing the &lt;f0&gt;Tab&lt;/f0&gt; key in the last field would save all of the fields, clear them, and make the form ready to accept data on the second record.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T175330Z" creationid="olex" creationdate="20181222T175318Z">
+        <seg>Если у нас не было подчиненной формы для данных о топливе, то нажатие клавиши &lt;f0&gt;Tab&lt;/f0&gt; в последнем поле сохранит все поля, очистит их переведет форму для ввода данных во вторую записи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41594,6 +41626,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since we have a subform, using the &lt;f0&gt;Tab&lt;/f0&gt; key places the cursor in the first Date field of the subform with the date automatically entered to match the Date field of the main form.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T175505Z" creationid="olex" creationdate="20181222T175505Z">
+        <seg>Поскольку у нас есть подформа, то нажатие клавиши &lt;f0&gt;Tab&lt;/f0&gt; переместит курсор в первое поле Дата подчиненной формы, причем автоматически вставится дата, соответствующая полю Дата основной формы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since we have already created a relationship between the Fuel and Vacations tables, we will use that relationship.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T194706Z" creationid="olex" creationdate="20181206T194706Z">
@@ -43775,6 +43815,14 @@ denkin: спасибо, исправил на "Стили"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The FuelCost, FuelQuantity, and Odometer fields are numeric fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T175559Z" creationid="olex" creationdate="20181222T175559Z">
+        <seg>Поля ЦенаТоплива, КоличествоТоплива и Одометр являются числовыми полями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Function &lt;f0&gt;Wizard&lt;/f0&gt; and Function Search</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180906T184002Z" creationid="olex" creationdate="20180906T183944Z">
@@ -44075,6 +44123,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T163314Z" creationid="olex" creationdate="20180721T163314Z">
         <seg>Откроется диалоговое окно Стиль страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Payment field is a drop-down list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T175804Z" creationid="olex" creationdate="20181222T175804Z">
+        <seg>Поле ТипОплаты - это выпадающий список.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54121,6 +54177,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the &lt;f3&gt;Tab&lt;/f3&gt; key instead.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T175046Z" creationid="olex" creationdate="20181222T175046Z">
+        <seg>Вместо этого используйте клавишу &lt;f3&gt;Tab&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the &lt;ts0/&gt;&lt;f1&gt;Bullets and &lt;/f1&gt;&lt;te2/&gt;Numbering &lt;tc3/&gt;buttons on the Formatting &lt;tc4/&gt;bar</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180811T170510Z" creationid="olex" creationdate="20180811T170510Z">
@@ -56818,6 +56882,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you use the &lt;f0&gt;Tab&lt;/f0&gt; key to leave the Payment field, it goes to the Date field of the next line and automatically enters the date.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T180116Z" creationid="olex" creationdate="20181222T180116Z">
+        <seg>Когда вы нажмете клавишу &lt;f0&gt;Tab&lt;/f0&gt;, чтобы покинуть поле ТипОплаты, это переместит курсор в поле Дата следующей строки и автоматически установит дату.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you want to remove them, you have to remove each break individually.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180508T185140Z" creationid="olex" creationdate="20180508T185140Z">
@@ -56983,6 +57055,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181202T111842Z" creationid="olex" creationdate="20181202T111842Z">
         <seg>Хотя &lt;f0&gt;Тип поля&lt;/f0&gt; и &lt;f1&gt;форматирование&lt;/f1&gt; в Режиме дизайна выглядят иначе, но концепция такая же, как в Мастере.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While the &lt;f2&gt;Enter&lt;/f2&gt; key will move between non-text fields, it will not do so from a text field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T175026Z" creationid="olex" creationdate="20181222T175026Z">
+        <seg>Хотя клавиша &lt;f2&gt;Enter&lt;/f2&gt; будет перемещать курсор между нетекстовыми полями, она не будет делать это в текстовом поле.</seg>
       </tuv>
     </tu>
     <tu>
