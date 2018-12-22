@@ -26698,6 +26698,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If two or more elements of the list have the same first letter, repeated typing of the first letter will cycle through these elements.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T174128Z" creationid="olex" creationdate="20181222T174128Z">
+        <seg>Если два или более элемента в списке начинаются с одной и той же первой буквы, то повторное нажатие первой буквы будет циклически переключать варианты ввода.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If using LibreOffice dialogs, rather than the operating system specific dialogs, type the name of the desired directory in the Name field.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T125952Z" creationid="tagezi" creationdate="20180320T125952Z">
@@ -27792,6 +27800,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T172113Z" creationid="olex" creationdate="20180403T172113Z">
         <seg>Если ваша таблица содержит большое количество листов, то некоторые вкладки листа могут быть не видны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If, as in my case, all of the elements of the list start with different letters, typing the first letter selects the desired entry.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T173947Z" creationid="olex" creationdate="20181222T173947Z">
+        <seg>Если, как и в моем случае, все элементы этого списка начинаются с разных букв, то при наборе первой буквы выбирается нужная запись.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30413,6 +30429,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180329T193508Z" creationid="olex" creationdate="20180329T193508Z">
         <seg>Это смесь панели инструментов и диалоговых окон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is a text field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T174645Z" creationid="olex" creationdate="20181222T174645Z">
+        <seg>Это текстовое поле.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34363,6 +34387,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181215T105714Z" creationid="olex" creationdate="20181215T105610Z">
         <seg>Заметки, наведя курсор на средний зеленый маркер в нижней части поля и потянув его вниз, пока высота не составит 6 см (2,4 дюйма).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notes field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T174606Z" creationid="olex" creationdate="20181222T174606Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -41538,6 +41570,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since the &lt;f0&gt;Tab&lt;/f0&gt; key is used to move between fields, it cannot be used in a text field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T174759Z" creationid="olex" creationdate="20181222T174759Z">
+        <seg>Поскольку клавиша &lt;f0&gt;Tab&lt;/f0&gt; используется для перемещения между полями, то ее нельзя использовать внутри текстового поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since the Fuel table may have more than one entry per date, this relationship between the Vacations and Fuel tables is one to many (it is designated 1:n.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181204T185052Z" creationid="olex" creationdate="20181204T185052Z">
@@ -46599,6 +46639,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181120T195238Z" creationid="olex" creationdate="20181120T194501Z">
         <seg>Для сетки можно настроить разрешение, привязку и дополнительные узлы привязки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rest of the fields of the main form are either numeric fields or drop-down lists until we reach the Misc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T174634Z" creationid="olex" creationdate="20181222T174602Z">
+        <seg>Остальные поля основной формы - либо числовые, либо выпадающие списки, вплоть до поля Заметки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53235,6 +53283,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type anything you desire in this field just as you would any simple text editor.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T174724Z" creationid="olex" creationdate="20181222T174724Z">
+        <seg>Вводите в это поле все, что пожелаете, так же, как в любом простом текстовом редакторе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type at least one character, a space, one or two hyphens, another space, and at least one more letter.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T165348Z" creationid="olex" creationdate="20180804T164700Z">
@@ -56356,6 +56412,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181215T165144Z" creationid="olex" creationdate="20181215T165144Z">
         <seg>Когда указатель изменит свою форму, нажмите и перетащите, чтобы переместить разделитель вправо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the selection is correct, use the &lt;f0&gt;Tab&lt;/f0&gt; key to go to the Misc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T174516Z" creationid="olex" creationdate="20181222T174156Z">
+        <seg>Когда сделан правильный выбор, используйте клавишу &lt;f0&gt;Tab&lt;/f0&gt;, к полю Разное.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60999,6 +61063,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181128T190411Z" creationid="olex" creationdate="20181128T190411Z">
         <seg>типы полей и форматы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>field.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T174244Z" creationid="olex" creationdate="20181222T174244Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
