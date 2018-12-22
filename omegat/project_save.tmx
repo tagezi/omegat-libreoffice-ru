@@ -20450,6 +20450,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;t0&gt;34&lt;/t0&gt;&lt;s1/&gt;is a record with data inserted in its fields.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T181202Z" creationid="olex" creationdate="20181222T181202Z">
+        <seg>Рисунок &lt;t0&gt;34&lt;/t0&gt;&lt;s1/&gt;это запись с полями, которые заполнены данными.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;t0&gt;3&lt;/t0&gt;&lt;s1/&gt;shows an example of a tool palette from the Drawing toolbar made into a floating toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T180832Z" creationid="olex" creationdate="20180615T180611Z">
@@ -27379,6 +27387,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you know the number of the record you want, you can enter it into the record box and then press &lt;f0&gt;Enter&lt;/f0&gt; to take you to that record.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T181024Z" creationid="olex" creationdate="20181222T181024Z">
+        <seg>Если вам известен номер нужной записи, то вы можете ввести его в поле Запись и затем нажать &lt;f0&gt;Enter&lt;/f0&gt;, чтобы перейти к ней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you know where they are stored, however, you can create a backup, share your macros, or inspect them if there is an error.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T113943Z" creationid="tagezi" creationdate="20180320T113943Z">
@@ -29611,6 +29627,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181019T191152Z" creationid="olex" creationdate="20181019T191152Z">
         <seg>В текстовом поле нажмите надпись &lt;f0&gt;Для добавления текста щелкните мышью&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, click the Date field of the main form.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T180329Z" creationid="olex" creationdate="20181222T180329Z">
+        <seg>В нашем случае нажмите поле Дата в основной форме.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34475,6 +34499,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181204T184609Z" creationid="olex" creationdate="20181204T184527Z">
         <seg>Теперь, когда таблицы созданы, каковы реляционные связи между нашими таблицами?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now you can enter your second set of fuel data for this day.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T180153Z" creationid="olex" creationdate="20181222T180153Z">
+        <seg>Теперь вы можете ввести вторую строку данных о покупке топлива в этот день.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46354,6 +46386,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number in the Record box is the number of the record whose data is shown in the form.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T180914Z" creationid="olex" creationdate="20181222T180914Z">
+        <seg>Номер записи в поле Запись - это номер записи, данные которой отображаются в форме.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The number in the parentheses indicates the highest usable number to access a storage location.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T211831Z" creationid="tagezi" creationdate="20180315T211831Z">
@@ -47636,6 +47676,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180924T181223Z" creationid="olex" creationdate="20180924T181223Z">
         <seg>Введите номер необходимой страницы для перехода в текстовое поле и нажмите кнопку &lt;f4&gt;ОК&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then use the directional arrows at the bottom; from left to right:&lt;f0&gt; First Record, Previous Record, Next Record&lt;/f0&gt;, and &lt;f1&gt;Last Record&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T180530Z" creationid="olex" creationdate="20181222T180530Z">
+        <seg>Затем используйте стрелки навигации на панели внизу; слева направо: &lt;f0&gt;Первая запись, Предыдущая запись, Следующая запись&lt;/f0&gt; и &lt;f1&gt;Последняя запись&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50715,6 +50763,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To create a new record while in the last record of the main form, click either the &lt;f0&gt;Next Record&lt;/f0&gt; icon or the &lt;f1&gt;New Record &lt;/f1&gt;icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T180812Z" creationid="olex" creationdate="20181222T180812Z">
+        <seg>Чтобы добавить новую запись в качестве последней записи основной формы, нажмите значок &lt;f0&gt;Следующая запись&lt;/f0&gt; или значок &lt;f1&gt;Добавить запись&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To create a new style using &lt;i0/&gt;the New Style dialog, open the sidebar Styles deck and select the category of style (eg.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180919T184402Z" creationid="olex" creationdate="20180919T184251Z">
@@ -51907,6 +51963,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To move to another record when the form has a subform, click any of the fields of the main form.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T180258Z" creationid="olex" creationdate="20181222T180258Z">
+        <seg>Чтобы перейти к другой записи в основной форме, нажмите любое из полей основной формы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To navigate a spreadsheet using the keyboard, pressing a key or a combination of keys.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180403T173908Z" creationid="olex" creationdate="20180403T173545Z">
@@ -52850,6 +52914,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T191516Z" creationid="olex" creationdate="20180614T185731Z">
         <seg>Чтобы временно закрыть Быстрый запуск на компьютере с использованием операционной системы Windows, щелкните правой кнопкой мыши по значку &lt;f0&gt;Быстрого запуска&lt;/f0&gt; на панели и выберите &lt;f1&gt;Выйти из Быстрого запуска&lt;/f1&gt; во всплывающем меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To the right of these arrows is the &lt;f2&gt;New Record&lt;/f2&gt; icon.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T180619Z" creationid="olex" creationdate="20181222T180619Z">
+        <seg>Справа от этих стрелок находится значок &lt;f2&gt;Добавить запись&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
