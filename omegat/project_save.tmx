@@ -19537,6 +19537,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Sample record of the Vacation form and sub form</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T181244Z" creationid="olex" creationdate="20181222T181244Z">
+        <seg>Рисунок &lt;seq0&gt;34&lt;/seq0&gt;: Пример записи формы Досуг и подформы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Sub-sections in Sidebar Properties</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181117T101058Z" creationid="olex" creationdate="20181117T101058Z">
@@ -27254,6 +27262,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181024T191818Z" creationid="olex" creationdate="20181024T191818Z">
         <seg>Если вы создали свои собственные шаблоны или добавили шаблоны из других источников, то слайд-мастера из этих шаблонов также появятся в этом списке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have data in a spreadsheet document that represents the layout of a database table, and you want to copy it into a table of your database, then it is possible to load the sheet contents quickly by dragging and dropping the sheet into a database table:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T181854Z" creationid="olex" creationdate="20181222T181854Z">
+        <seg>Если у вас есть данные в документе электронной таблицы, которые представляют собой макет таблицы базы данных, и вы хотите скопировать их в таблицу базы данных, то можно быстро загрузить содержимое листа, перетащив лист в таблицу базы данных. :</seg>
       </tuv>
     </tu>
     <tu>
@@ -35597,6 +35613,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open the database file in the LibreOffice Base window (Figure &lt;t0&gt;1&lt;/t0&gt;) and select the Table view.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T182002Z" creationid="olex" creationdate="20181222T182002Z">
+        <seg>Откройте файл базы данных в окне LibreOffice Base (Рисунок &lt;t0&gt;1&lt;/t0&gt;) и выберите слева режим Таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open the document you want to change.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180313T200255Z" creationid="olex" creationdate="20180313T200255Z">
@@ -35617,6 +35641,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="mikek" changedate="20180307T122847Z" creationid="mikek" creationdate="20180307T122847Z">
         <seg>Открыть боковую панель стилей и форматирования</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open the spreadsheet in LibreOffice Calc.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T182019Z" creationid="olex" creationdate="20181222T182019Z">
+        <seg>Откройте электронную таблицу в LibreOffice Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40732,6 +40764,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180407T215516Z" creationid="olex" creationdate="20180407T215516Z">
         <seg>Выберите лист, рядом с которым вы хотите вставить новый лист, затем выберите в меню &lt;f0&gt;Лист &gt; Вставить лист...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the sheet you want to insert in the database.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181222T182447Z" creationid="olex" creationdate="20181222T182447Z">
+        <seg>Выберите лист, который вы хотите вставить в базу данных.</seg>
       </tuv>
     </tu>
     <tu>
