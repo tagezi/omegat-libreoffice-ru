@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(There are only two that you need to check.)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T100012Z" creationid="olex" creationdate="20181225T100012Z">
+        <seg>(Есть только два момента, которые вам нужно проверить.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(What this field does will be explained later.) We will use this field to number our entries and want that number to automatically increase as we add each entry.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181126T183833Z" creationid="olex" creationdate="20181126T183833Z">
@@ -26402,6 +26410,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If something is wrong, use the &lt;f0&gt;Back&lt;/f0&gt; button to move to the step that contains the error.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T100107Z" creationid="olex" creationdate="20181225T100107Z">
+        <seg>Если что-то не так, используйте кнопку &lt;f0&gt;&lt; Назад&lt;/f0&gt;, чтобы вернуться к шагу с ошибкой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the &lt;f0&gt;Decimal separator key&lt;/f0&gt; option is selected, LibreOffice uses the character defined by the default locale.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180712T173631Z" creationid="olex" creationdate="20180712T173631Z">
@@ -32709,6 +32725,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure that the query conditions listed in the Overview list are the ones you wanted.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T095942Z" creationid="olex" creationdate="20181225T095942Z">
+        <seg>Убедитесь, что условия запроса, перечисленные в списке Обзор, соответствуют тому, что вы хотели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure the &lt;f0&gt;Area&lt;/f0&gt; tab has been selected.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181215T172927Z" creationid="olex" creationdate="20181215T172927Z">
@@ -34267,6 +34291,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180706T180556Z" creationid="olex" creationdate="20180706T180540Z">
         <seg>Название факса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name the query (suggestion: &lt;f0&gt;Query_Artists&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T100346Z" creationid="olex" creationdate="20181225T100346Z">
+        <seg>Назовите запрос (предлагается: &lt;f0&gt;Запрос_Артистов&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39830,6 +39862,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181204T194058Z" creationid="olex" creationdate="20181204T194058Z">
         <seg>Выберите &lt;f0&gt;удалить каскадно&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;f0&gt;Display Query&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T100447Z" creationid="olex" creationdate="20181225T100447Z">
+        <seg>Выберите &lt;f0&gt;Показать запрос&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48225,6 +48265,14 @@ Dispatch framework = программный каркас отправки</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then use the Next button to move to step 8.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T100146Z" creationid="olex" creationdate="20181225T100123Z">
+        <seg>Затем используйте кнопку Далее &gt;, чтобы перейти к шагу 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then use the directional arrows at the bottom; from left to right:&lt;f0&gt; First Record, Previous Record, Next Record&lt;/f0&gt;, and &lt;f1&gt;Last Record&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181222T180530Z" creationid="olex" creationdate="20181222T180530Z">
@@ -53499,6 +53547,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181222T180619Z" creationid="olex" creationdate="20181222T180619Z">
         <seg>Справа от этих стрелок находится значок &lt;f2&gt;Добавить запись&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To the right of this are two choices.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T100519Z" creationid="olex" creationdate="20181225T100420Z">
+        <seg>Справа есть два варианта действия после создания запроса.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61444,10 +61500,26 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>creating queries</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T100632Z" creationid="olex" creationdate="20181225T100632Z">
+        <seg>создание запросов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>creating tables</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T191627Z" creationid="olex" creationdate="20181125T191627Z">
         <seg>создание таблиц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>creating using Design View</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T100616Z" creationid="olex" creationdate="20181225T100616Z">
+        <seg>создание в режиме дизайна</seg>
       </tuv>
     </tu>
     <tu>
