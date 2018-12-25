@@ -3526,6 +3526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Step 3: Select &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;the search conditions&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T093624Z" creationid="olex" creationdate="20181225T093624Z">
+        <seg>&lt;f0&gt;Шаг 3: Выберите &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;условия поиска&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Step 4: &lt;/f0&gt;&lt;i1/&gt;&lt;i2/&gt;&lt;f3&gt;Get joined fields&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T200459Z" creationid="olex" creationdate="20181206T200459Z">
@@ -12114,6 +12122,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;CD-Collection.ArtistTitle&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T093009Z" creationid="olex" creationdate="20181225T093009Z">
+        <seg>Выберите &lt;f0&gt;CD-Коллекция.НазваниеАльбома&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Close Toolbar&lt;/f0&gt; to close the selected toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T183616Z" creationid="olex" creationdate="20180615T183616Z">
@@ -13882,6 +13898,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T194345Z" creationid="olex" creationdate="20181206T194345Z">
         <seg>Нажмите двойную стрелку вправо, чтобы переместить их в поле &lt;f0&gt;Поля в форме&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the second &lt;f0&gt;Sort by &lt;/f0&gt;drop down list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T092836Z" creationid="olex" creationdate="20181225T092836Z">
+        <seg>Нажмите второй раскрывающийся список &lt;f0&gt;Сортировать по&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38072,6 +38096,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repeat this process for &lt;f0&gt;CD-Collection.DatePurchased&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T093133Z" creationid="olex" creationdate="20181225T093133Z">
+        <seg>Повторите процесс для &lt;f0&gt;CD-Коллекция.ДатаЗаказа&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replace</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T194923Z" creationid="olex" creationdate="20180326T192003Z">
@@ -47223,6 +47255,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180409T165923Z" creationid="olex" creationdate="20180409T165826Z">
         <seg>Окно можно разделить по горизонтали, вертикали или по вертикали и горизонтали, одновременно вы можете просматривать до четырех частей таблицы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The search conditions allow us to compare the name we entered with the names of the artist in our database and decide whether to include a particular artist in our query results or not.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T093817Z" creationid="olex" creationdate="20181225T093817Z">
+        <seg>Условия поиска позволяют нам сравнить введенное имя с именами артистов в нашей базе данных и решить, следует ли включать конкретного артиста в результаты нашего запроса или нет.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60819,6 +60859,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and select &lt;f1&gt;Ascending&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T093025Z" creationid="olex" creationdate="20181225T093025Z">
+        <seg>и выберите &lt;f1&gt;По возрастанию&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>antialiasing screen font</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T171512Z" creationid="olex" creationdate="20180627T171501Z">
@@ -62823,6 +62871,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T171520Z" creationid="olex" creationdate="20180627T171520Z">
         <seg>сглаживание экранных шрифтов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>search conditions</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T093452Z" creationid="olex" creationdate="20181225T093452Z">
+        <seg>условия поиска</seg>
       </tuv>
     </tu>
     <tu>
