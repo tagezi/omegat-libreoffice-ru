@@ -4957,6 +4957,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0/&gt;Instead, aliases can be made containing two words each (Album Title and Date Purchased, respectively).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T095644Z" creationid="olex" creationdate="20181225T095644Z">
+        <seg>&lt;s0/&gt;Вместо этого можно создать псевдонимы, состоящий из двух слов каждый (Название альбома и Дата заказа соответственно).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0/&gt;It will also display dialog boxes allowing you to enter the information required by that function and a &lt;f1&gt;result window &lt;/f1&gt;which will show you the expected calculation from the data you have entered.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T190726Z" creationid="olex" creationdate="20180506T190726Z">
@@ -9254,6 +9262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Artist&lt;/f0&gt; in the Fields list and &lt;f1&gt;is equal to&lt;/f1&gt; as the Condition.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T094949Z" creationid="olex" creationdate="20181225T094949Z">
+        <seg>Артист&lt;/f0&gt; в списке полей и &lt;f1&gt;равно&lt;/f1&gt; как условие.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a short cut, the single quote character (') can also be used to start a comment.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180315T091006Z" creationid="tagezi" creationdate="20180315T091006Z">
@@ -11067,6 +11083,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change AlbumTitle to Album Title.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T095709Z" creationid="olex" creationdate="20181225T095709Z">
+        <seg>Измените НазваниеАльбома на Название Альбома.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change DatePurchased to Date Purchased.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T095726Z" creationid="olex" creationdate="20181225T095726Z">
+        <seg>Измените ДатаЗаказа на Дата Заказа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change a style using the Style dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180320T192854Z" creationid="olex" creationdate="20180308T174607Z">
@@ -12319,6 +12351,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180312T124639Z" creationid="tagezi" creationdate="20180312T124639Z">
         <seg>Нажмите кнопку &lt;f0&gt;Создать&lt;/f0&gt;, чтобы открыть диалоговое окно Новая библиотека.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Next&lt;/f0&gt; at the bottom of the window.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T095229Z" creationid="olex" creationdate="20181225T095229Z">
+        <seg>Нажмите &lt;f0&gt;Далее &gt;&lt;/f0&gt; в нижней части окна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42035,6 +42075,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since we have a simple query, the &lt;f0&gt;Grouping&lt;/f0&gt; and &lt;f1&gt;Grouping conditions&lt;/f1&gt; are not needed.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T095325Z" creationid="olex" creationdate="20181225T095325Z">
+        <seg>Поскольку у нас простой запрос, то &lt;f0&gt;Группировка&lt;/f0&gt; и &lt;f1&gt;Условия группировки&lt;/f1&gt; не нужны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since we have a subform, using the &lt;f0&gt;Tab&lt;/f0&gt; key places the cursor in the first Date field of the subform with the date automatically entered to match the Date field of the main form.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181222T175505Z" creationid="olex" creationdate="20181222T175505Z">
@@ -42949,6 +42997,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 4: Select type of query</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T095105Z" creationid="olex" creationdate="20181225T095105Z">
+        <seg>Шаг 4: Выберите тип запроса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 5: Arrange controls</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T201521Z" creationid="olex" creationdate="20181206T201521Z">
@@ -42989,6 +43045,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 7: Assign aliases if desired</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T095458Z" creationid="olex" creationdate="20181225T095458Z">
+        <seg>Шаг 7: Назначьте псевдонимы, если нужно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 7: Change labels and fields in the subform</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181215T164857Z" creationid="olex" creationdate="20181215T164857Z">
@@ -43005,10 +43069,26 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 8: Overview</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T095810Z" creationid="olex" creationdate="20181225T095810Z">
+        <seg>Шаг 8: Обзор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 8: Set name</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T203211Z" creationid="olex" creationdate="20181206T203146Z">
         <seg>Шаг 8: Задать имя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steps 5 and 6 of the wizard are skipped in our query.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T095408Z" creationid="olex" creationdate="20181225T095408Z">
+        <seg>Шаги 5 и 6 Мастера пропущены в нашем запросе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45732,6 +45812,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181029T184527Z" creationid="olex" creationdate="20181029T184527Z">
         <seg>Вы можете использовать в Impress, следующие типы полей:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The fields, AlbumTitle and DatePurchased, have names made up of two words.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T095530Z" creationid="olex" creationdate="20181225T095530Z">
+        <seg>Поля, НазваниеАльбома и ДатаЗаказа, имеют имена, состоящие из двух слов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54004,6 +54092,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type the name of the artist in the &lt;f0&gt;Value&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T095021Z" creationid="olex" creationdate="20181225T095021Z">
+        <seg>Введите имя исполнителя в поле &lt;f0&gt;Значение&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type the new cell reference of the cell you want to &lt;t5/&gt;move to and press &lt;f6&gt;Enter&lt;/f6&gt; key.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181008T182340Z" creationid="olex" creationdate="20181008T182340Z">
@@ -56102,6 +56198,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We are looking for a particular artist, so select &lt;f0&gt;CD-Collection.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T094854Z" creationid="olex" creationdate="20181225T094854Z">
+        <seg>Мы ищем определенного исполнителя, поэтому выберите &lt;f0&gt;CD-Коллекция.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We can delete some of these fields and add other fields.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181126T182812Z" creationid="olex" creationdate="20181126T182812Z">
@@ -56130,6 +56234,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180310T195603Z" creationid="tagezi" creationdate="20180310T194313Z">
         <seg>С учетом всей работы, которую мы сделали для этой книги, мы просим вас поделиться с проектом небольшой частью прибыли, которую вы получаете от продажи книг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We want simple information, so the default setting: &lt;f0&gt;Detailed query&lt;/f0&gt; is what we want.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T095153Z" creationid="olex" creationdate="20181225T095153Z">
+        <seg>Нам нужна простая информация, поэтому по умолчанию нам нужно указать &lt;f0&gt;Детальный запрос&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
