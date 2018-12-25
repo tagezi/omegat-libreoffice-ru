@@ -3510,6 +3510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Step 2: Select the &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;sorting order&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T092006Z" creationid="olex" creationdate="20181225T092006Z">
+        <seg>&lt;f0&gt;Шаг 2: Выберите &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;порядок сортировки&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Step 3: &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Set primary key&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181129T190157Z" creationid="olex" creationdate="20181129T190157Z">
@@ -6729,6 +6737,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180624T160637Z" creationid="olex" creationdate="20180624T160604Z">
         <seg>Внизу откроется выпадающий список страниц.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A little simple logic helps at this point.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T092149Z" creationid="olex" creationdate="20181225T092149Z">
+        <seg>Немного простой логики поможет в этом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12082,6 +12098,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Artist&lt;/f0&gt;, and use the &lt;f1&gt;&gt;&lt;/f1&gt; button to move it to the &lt;f2&gt;Fields in the Query&lt;/f2&gt; list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T091451Z" creationid="olex" creationdate="20181225T091451Z">
+        <seg>Нажмите &lt;f0&gt;Артист&lt;/f0&gt;, и используйте кнопку &lt;f1&gt;&gt;&lt;/f1&gt;, чтобы переместить его в список &lt;f2&gt;Поля в запросе&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;CD-Collection.Artist&lt;/f0&gt; to select it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T092619Z" creationid="olex" creationdate="20181225T092619Z">
+        <seg>Выберите &lt;f0&gt;CD-Коллекция.Артист&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Close Toolbar&lt;/f0&gt; to close the selected toolbar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T183616Z" creationid="olex" creationdate="20180615T183616Z">
@@ -13794,6 +13826,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181208T123850Z" creationid="olex" creationdate="20181208T123850Z">
         <seg>Нажмите поле верхнего левого элемента управления, который нужно переместить, чтобы выбрать его.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the first &lt;f0&gt;Sort by &lt;/f0&gt;drop down list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T092509Z" creationid="olex" creationdate="20181225T092509Z">
+        <seg>Нажмите первый раскрывающийся список &lt;f0&gt;Сортировать по&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19617,6 +19657,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;35&lt;/seq0&gt;: First page of the Query Wizard</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T091208Z" creationid="olex" creationdate="20181225T091208Z">
+        <seg>Рисунок &lt;seq0&gt;35&lt;/seq0&gt;: Первая страница Мастера запросов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: Common line properties (style, color, width)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181117T102213Z" creationid="olex" creationdate="20181117T102213Z">
@@ -19629,6 +19677,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180503T190948Z" creationid="olex" creationdate="20180503T190948Z">
         <seg>Рисунок &lt;seq0&gt;36&lt;/seq0&gt;: Диалоговое окно Защитить лист</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: Sorting order page</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T092414Z" creationid="olex" creationdate="20181225T092414Z">
+        <seg>Рисунок &lt;seq0&gt;36&lt;/seq0&gt;: Страница выбора порядка сортировки</seg>
       </tuv>
     </tu>
     <tu>
@@ -29063,6 +29119,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In our query, the artist is most important.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T092231Z" creationid="olex" creationdate="20181225T092231Z">
+        <seg>В нашем запросе наиболее важен артист.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In some cases it is convenient to reduce the number of toolbars displayed and get more space for the document.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180615T175522Z" creationid="olex" creationdate="20180615T175522Z">
@@ -33462,6 +33526,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the &lt;f0&gt;AlbumTitle&lt;/f0&gt; and &lt;f1&gt;DatePurchased&lt;/f1&gt; fields in the same manner.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T091545Z" creationid="olex" creationdate="20181225T091545Z">
+        <seg>Таким же образом переместите поля &lt;f0&gt;НазваниеАльбома&lt;/f0&gt; и &lt;f1&gt;ДатаЗаказа&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the cell focus to another cell.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180411T183227Z" creationid="olex" creationdate="20180411T183227Z">
@@ -34748,6 +34820,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T104333Z" creationid="olex" creationdate="20180721T104333Z">
         <seg>Получение средств для дополнительных языков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Of course, if we were interested in what music we bought on a given day, the date purchased would be the most important.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T092343Z" creationid="olex" creationdate="20181225T092343Z">
+        <seg>Конечно, если бы нас интересовало, какую музыку мы купили в данный день, то дата покупки была бы наиболее важной.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40213,6 +40293,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select fields from the CD-Collection table in the &lt;f0&gt;Available fields&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T091341Z" creationid="olex" creationdate="20181225T091341Z">
+        <seg>Выберите поля из таблицы CD-Коллекция в списке &lt;f0&gt;Доступные поля&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select if you want it printable or not, visible or hidden, or locked to prevent further changes or accidental edits.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181105T185254Z" creationid="olex" creationdate="20181105T185254Z">
@@ -40426,6 +40514,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181212T195509Z" creationid="olex" creationdate="20181212T195509Z">
         <seg>Выберите значение &lt;f1&gt;Стандартный (длинный)&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the CD-Collection table from the drop down list of tables.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T091306Z" creationid="olex" creationdate="20181225T091306Z">
+        <seg>Выберите таблицу CD-Коллекция из выпадающего списка таблиц.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42700,6 +42796,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 1: Select the fields</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T091242Z" creationid="olex" creationdate="20181225T091242Z">
+        <seg>Шаг 1: Выберите поля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 2: Set up a subform</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T194556Z" creationid="olex" creationdate="20181206T194509Z">
@@ -44739,6 +44843,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180707T180949Z" creationid="olex" creationdate="20180707T180949Z">
         <seg>Преимущество будет в том, что документ, содержащий ссылки, может быть перемещен в другие каталоги или папки, и ссылки остаются в силе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The album title is less important, and the date purchased is of least importance.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T092309Z" creationid="olex" creationdate="20181225T092309Z">
+        <seg>Название альбома менее важно, а дата покупки имеет наименьшее значение.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50729,6 +50841,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the order of the fields, select the field you want to move and click the up or down arrow to the right of the &lt;f0&gt;Fields in the Query&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T091735Z" creationid="olex" creationdate="20181225T091735Z">
+        <seg>Чтобы изменить порядок полей, выберите поле, которое вы хотите переместить, и нажмите стрелку вверх или вниз справа от списка &lt;f0&gt;Поля в запросе&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To change the page style, right-click on this field.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180721T163141Z" creationid="olex" creationdate="20180721T163141Z">
@@ -51999,6 +52119,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181025T185947Z" creationid="olex" creationdate="20181025T185947Z">
         <seg>Чтобы уменьшить размер файла презентации, вам может потребоваться свести к минимуму количество используемых слайд-мастеров.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To list the artists in alphabetical order (a-z), select &lt;f0&gt;Ascending&lt;/f0&gt; on the right.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T092744Z" creationid="olex" creationdate="20181225T092744Z">
+        <seg>Чтобы перечислить исполнителей в алфавитном порядке (от А до Я), выберите справа &lt;f0&gt;По возрастанию&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54073,6 +54201,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181019T185241Z" creationid="olex" creationdate="20181019T185241Z">
         <seg>Стрелка вверх перемещает абзац выше по тексту списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Up to four fields can be used to sort the information of our query.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T092114Z" creationid="olex" creationdate="20181225T092114Z">
+        <seg>Для сортировки информации в нашем запросе можно использовать до четырех полей.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57326,6 +57462,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T201116Z" creationid="olex" creationdate="20181206T201116Z">
         <seg>Независимо от того, выбрана одна пара полей в качестве связи или выбраны две или более пар из двух таблиц, для работы формы должны быть выполнены определенные требования.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Which field is most important?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T092205Z" creationid="olex" creationdate="20181225T092205Z">
+        <seg>Какое поле является наиболее важным?</seg>
       </tuv>
     </tu>
     <tu>
@@ -62823,6 +62967,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181119T215027Z" creationid="olex" creationdate="20181119T215027Z">
         <seg>привязка к сетке</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sort order (database fields)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T091918Z" creationid="olex" creationdate="20181225T091918Z">
+        <seg>порядок сортировки (поля базы данных)</seg>
       </tuv>
     </tu>
     <tu>
