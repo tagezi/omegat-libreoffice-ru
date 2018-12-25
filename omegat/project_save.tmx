@@ -4402,6 +4402,63 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;is equal or greater than&lt;/f0&gt;: the same as or comes after</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T094451Z" creationid="olex" creationdate="20181225T094134Z">
+        <seg>&lt;f0&gt;больше или равно&lt;/f0&gt;: такой же или следует ниже</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;is equal or less than&lt;/f0&gt;: the same as or comes before</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T094429Z" creationid="olex" creationdate="20181225T094114Z">
+        <seg>&lt;f0&gt;меньше или равно&lt;/f0&gt;: такой же или следует выше</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;is equal to&lt;/f0&gt;: the same as</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T094435Z" creationid="olex" creationdate="20181225T094013Z">
+        <seg>&lt;f0&gt;равно&lt;/f0&gt;: такой же, как</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;is greater than&lt;/f0&gt;: comes after</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T094354Z" creationid="olex" creationdate="20181225T094056Z">
+        <seg>&lt;f0&gt;больше&lt;/f0&gt;: следуют ниже</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;is not equal to&lt;/f0&gt;: not the same as</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T094251Z" creationid="olex" creationdate="20181225T094032Z">
+        <seg>&lt;f0&gt;не равно&lt;/f0&gt;: не такой, как</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;is smaller than&lt;/f0&gt;: comes before</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T094345Z" creationid="olex" creationdate="20181225T094049Z">
+        <seg>&lt;f0&gt;меньше&lt;/f0&gt;: следуют выше</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>денкин: затрудняюсь, пока, перевести точнее</note>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;like&lt;/f0&gt;: similar to in some way</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T094521Z" creationid="olex" creationdate="20181225T094204Z">
+        <seg>&lt;f0&gt;как&lt;/f0&gt;: похож в некотором роде</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;mac&lt;/f0&gt;OS users can also get two versions of LibreOffice from the App Store: LibreOffice Vanilla (&lt;f1&gt;small &lt;/f1&gt;fee) and LibreOffice-from-Collabora (an enterprise-ready version; small fee).</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180611T180730Z" creationid="olex" creationdate="20180611T180730Z">
@@ -41970,6 +42027,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since we are only searching for one thing, we will use the default setting of &lt;f0&gt;Match all of the following&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T094818Z" creationid="olex" creationdate="20181225T094818Z">
+        <seg>Поскольку мы ищем только один вариант, то будем использовать настройку по умолчанию &lt;f0&gt;Соответствие всем из следующих&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since we have a subform, using the &lt;f0&gt;Tab&lt;/f0&gt; key places the cursor in the first Date field of the subform with the date automatically entered to match the Date field of the main form.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181222T175505Z" creationid="olex" creationdate="20181222T175505Z">
@@ -48372,6 +48437,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T181354Z" creationid="olex" creationdate="20180330T181354Z">
         <seg>Эти заголовки столбцов и строк образуют ссылки на ячейки, которые отображаются в поле имени на панели формул (Рисунок &lt;t0&gt;2&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These conditions apply to numbers, letters (using alphabetical order), and dates.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T094622Z" creationid="olex" creationdate="20181225T094622Z">
+        <seg>Эти условия применяются к числам, буквам (в алфавитном порядке) и датам.</seg>
       </tuv>
     </tu>
     <tu>
