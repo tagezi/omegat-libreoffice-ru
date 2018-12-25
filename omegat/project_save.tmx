@@ -20275,6 +20275,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;45&lt;/seq0&gt;: Added fields to the query</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T112124Z" creationid="olex" creationdate="20181225T112124Z">
+        <seg>Рисунок &lt;seq0&gt;45&lt;/seq0&gt;: Добавление полей в запрос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;45&lt;/seq0&gt;: Cross-fading result</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181122T201918Z" creationid="olex" creationdate="20181122T201901Z">
@@ -43421,6 +43429,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 8: Enter the FuelID difference field</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T112225Z" creationid="olex" creationdate="20181225T112225Z">
+        <seg>Шаг 8: Введите поле для различия ТопливоID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 8: Overview</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181225T095810Z" creationid="olex" creationdate="20181225T095810Z">
@@ -54346,6 +54362,14 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type &lt;f0&gt;"End-Reading"."FuelID" - "Fuel"."FuelID"&lt;/f0&gt; in the field to the right of the Odometer field of the Fuel Table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T113043Z" creationid="olex" creationdate="20181225T113043Z">
+        <seg>Введите &lt;f0&gt;«Считывание_одометра».«ТопливоID» - «Топливо».«ТопливоID»&lt;/f0&gt; в поле справа от поля Одометр таблицы Топливо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type &lt;f0&gt;&gt;0&lt;/f0&gt; in the Criterion cell under FuelID in the query table.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181225T105521Z" creationid="olex" creationdate="20181225T105521Z">
@@ -56674,6 +56698,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181215T104347Z" creationid="olex" creationdate="20181215T103519Z">
         <seg>Мы хотим дополнительному</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We want the difference between the FuelID value of the Fuel table and FuelID value of the End-Reading query to equal one (1).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T112325Z" creationid="olex" creationdate="20181225T112325Z">
+        <seg>Мы хотим, чтобы разница между значением ТопливоID таблицы Топливо и значением ТопливоID запроса Считывание_одометра равнялась единице (1).</seg>
       </tuv>
     </tu>
     <tu>
