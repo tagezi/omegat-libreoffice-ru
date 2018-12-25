@@ -7554,8 +7554,8 @@
       <tuv lang="EN-US">
         <seg>Add the End-Reading query to this query.</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181225T111100Z" creationid="olex" creationdate="20181225T111100Z">
-        <seg>Добавьте к этому запросу запрос Считывание_дометра.</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T111221Z" creationid="olex" creationdate="20181225T111100Z">
+        <seg>Добавьте к этому запросу запрос Считывание_одометра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12195,6 +12195,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Add&lt;/f0&gt;, and then click &lt;f1&gt;Close&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T111356Z" creationid="olex" creationdate="20181225T111356Z">
+        <seg>Нажмите &lt;f0&gt;Добавить&lt;/f0&gt;, и затем нажмите &lt;f1&gt;Закрыть&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Add&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180430T181609Z" creationid="olex" creationdate="20180430T181609Z">
@@ -12611,6 +12619,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Queries&lt;/f0&gt; to get the list of queries in the database (Figure &lt;t1&gt;43&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T111143Z" creationid="olex" creationdate="20181225T111143Z">
+        <seg>Нажмите &lt;f0&gt;Запросы&lt;/f0&gt;, чтобы получить список запросов в базе данных (Рисунок &lt;t1&gt;43&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Save.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180727T175424Z" creationid="olex" creationdate="20180727T175424Z">
@@ -12871,6 +12887,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181202T112316Z" creationid="olex" creationdate="20181202T112316Z">
         <seg>Нажмите Создать таблицу в режиме дизайна (откроется диалоговое окно Конструктор таблиц).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click End-Reading.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T111312Z" creationid="olex" creationdate="20181225T111214Z">
+        <seg>Нажмите Считывание_одометра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16415,6 +16439,30 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180321T121159Z" creationid="tagezi" creationdate="20180321T121159Z">
         <seg>Пожертвования помогают TDF поддерживать свою инфраструктуру, делиться знаниями и финансировать участие добровольцев на таких мероприятиях, как Конференция LibreOffice, где они могут встречаться со сторонниками Свободного программного обеспечения, приезжающими со всей Европы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click &lt;f0&gt;FuelQuantity&lt;/f0&gt; in the End-Reading query.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T111923Z" creationid="olex" creationdate="20181225T111923Z">
+        <seg>Дважды нажмите &lt;f0&gt;КоличествоТоплива&lt;/f0&gt; в запросе Считывание_одометра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click &lt;f0&gt;Odometer&lt;/f0&gt; in the End-Reading query.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T111950Z" creationid="olex" creationdate="20181225T111950Z">
+        <seg>Дважды нажмите &lt;f0&gt;Одометр&lt;/f0&gt; в запросе Считывание_одометра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click &lt;f0&gt;Odometer&lt;/f0&gt; in the Fuel table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T112024Z" creationid="olex" creationdate="20181225T112024Z">
+        <seg>Дважды нажмите &lt;f0&gt;Одометр&lt;/f0&gt; в таблице Топливо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20203,10 +20251,26 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;43&lt;/seq0&gt;: Selecting queries to add to another query</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T111416Z" creationid="olex" creationdate="20181225T111416Z">
+        <seg>Рисунок &lt;seq0&gt;43&lt;/seq0&gt;: Выбор запросов для добавления в другой запрос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;44&lt;/seq0&gt;: Cross-fading dialog</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181122T201857Z" creationid="olex" creationdate="20181122T201857Z">
         <seg>Рисунок &lt;seq0&gt;44&lt;/seq0&gt;: Диалоговое окно Морфинг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;44&lt;/seq0&gt;: Tables in this query</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T111843Z" creationid="olex" creationdate="20181225T111843Z">
+        <seg>Рисунок &lt;seq0&gt;44&lt;/seq0&gt;: Таблицы в этом запросе</seg>
       </tuv>
     </tu>
     <tu>
@@ -42283,6 +42347,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since the FuelQuantity we want to use is the final odometer reading, we will use the End-Reading query to get it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T111711Z" creationid="olex" creationdate="20181225T111711Z">
+        <seg>Так как КоличествоТоплива, которое мы хотим использовать, соответствует показаниям одометра, то мы будем использовать запрос Считывание_одометра для его получения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since these purchases are made by one of two bank cards or with cash, I want a field to state which payment type was used for each item.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T183456Z" creationid="olex" creationdate="20181125T183456Z">
@@ -43305,6 +43377,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T202747Z" creationid="olex" creationdate="20181206T202747Z">
         <seg>Шаг 6: Задать источник данных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 7: Add fields to the table at the bottom of the query</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T111435Z" creationid="olex" creationdate="20181225T111435Z">
+        <seg>Шаг 7: Добавить поля в таблицу внизу запроса</seg>
       </tuv>
     </tu>
     <tu>
@@ -51964,6 +52044,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To do this we need the FuelQuantity and distance traveled.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T111513Z" creationid="olex" creationdate="20181225T111513Z">
+        <seg>Для этого нам необходимо количество топлива и пройденное расстояние.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To do this, choose &lt;f0&gt;View &gt; Hide Whitespace&lt;/f0&gt; from the Menu bar.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180924T173659Z" creationid="olex" creationdate="20180924T173659Z">
@@ -56526,6 +56614,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We are going to calculate the fuel economy.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T111448Z" creationid="olex" creationdate="20181225T111448Z">
+        <seg>Мы собираемся рассчитать экономию топлива.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We are looking for a particular artist, so select &lt;f0&gt;CD-Collection.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181225T094854Z" creationid="olex" creationdate="20181225T094854Z">
@@ -56618,6 +56714,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181207T200504Z" creationid="olex" creationdate="20181207T195457Z">
         <seg>Мы также изменим метку поля ТипОплаты, а также изменим поле в поле списка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will also use the Odometer field from both the Fuel table and End-Reading queries.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T111804Z" creationid="olex" creationdate="20181225T111804Z">
+        <seg>Мы также будем использовать поле Одометр как из таблицы Топливо, так и из запроса Считывание_одометра.</seg>
       </tuv>
     </tu>
     <tu>
