@@ -3518,6 +3518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Step 2: &lt;/f0&gt;&lt;rs1/&gt;&lt;f2&gt;Add tables&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T104514Z" creationid="olex" creationdate="20181225T104514Z">
+        <seg>&lt;f0&gt;Шаг 2: &lt;/f0&gt;&lt;rs1/&gt;&lt;f2&gt;Добавить таблицы&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Step 2: Select the &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;sorting order&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181225T092006Z" creationid="olex" creationdate="20181225T092006Z">
@@ -12259,6 +12267,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Close&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T104622Z" creationid="olex" creationdate="20181225T104622Z">
+        <seg>Нажмите &lt;f0&gt;Закрыть&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Create Query in Design View&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T104403Z" creationid="olex" creationdate="20181225T104403Z">
+        <seg>Нажмите &lt;f0&gt;Создать запрос в режиме дизайна...&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;f0&gt;Create&lt;/f0&gt; to populate the new table with the spreadsheet data.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181222T183536Z" creationid="olex" creationdate="20181222T183536Z">
@@ -12311,6 +12335,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T203413Z" creationid="olex" creationdate="20181206T203413Z">
         <seg>Нажмите &lt;f0&gt;Готово&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;f0&gt;Fuel&lt;/f0&gt; to highlight it.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T104551Z" creationid="olex" creationdate="20181225T104551Z">
+        <seg>Нажмите &lt;f0&gt;Топливо&lt;/f0&gt;, чтобы выделить ее.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14882,6 +14914,14 @@ denkin: так лучше?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a query using Design View is not as difficult as it may first seem.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T104112Z" creationid="olex" creationdate="20181225T104112Z">
+        <seg>Создание запроса в режиме дизайна не так сложно, как может показаться на первый взгляд.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating a quick table of contents is simple:</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180820T181145Z" creationid="olex" creationdate="20180820T181145Z">
@@ -16383,6 +16423,14 @@ denkin: так лучше?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T172523Z" creationid="olex" creationdate="20180616T172523Z">
         <seg>Дважды щелкните это поле, чтобы открыть навигатор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click the &lt;f0&gt;FuelID&lt;/f0&gt; field in the Fuel table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T105018Z" creationid="olex" creationdate="20181225T105018Z">
+        <seg>Дважды нажмите поле &lt;f0&gt;ТопливоID&lt;/f0&gt; в таблице Топливо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19818,6 +19866,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;37&lt;/seq0&gt;: Add Tables or Query dialog</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T104703Z" creationid="olex" creationdate="20181225T104703Z">
+        <seg>Рисунок &lt;seq0&gt;37&lt;/seq0&gt;: Диалоговое окно Добавить таблицу или запрос</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;37&lt;/seq0&gt;: Arrowheads menu</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181119T210358Z" creationid="olex" creationdate="20181119T210358Z">
@@ -19854,6 +19910,14 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181119T212907Z" creationid="olex" creationdate="20181119T212907Z">
         <seg>Рисунок &lt;seq0&gt;38&lt;/seq0&gt;: Различные типы заливки области</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;38&lt;/seq0&gt;: Fuel table in query</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T104850Z" creationid="olex" creationdate="20181225T104850Z">
+        <seg>Рисунок &lt;seq0&gt;38&lt;/seq0&gt;: Таблица Топливо в запросе</seg>
       </tuv>
     </tu>
     <tu>
@@ -31115,6 +31179,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It may take multiple steps, but each step is fairly simple.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T104139Z" creationid="olex" creationdate="20181225T104139Z">
+        <seg>Это занимает несколько шагов, но каждый шаг довольно прост.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It moves either the field or the label but not both.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181212T203434Z" creationid="olex" creationdate="20181212T203434Z">
@@ -33699,6 +33771,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181208T124646Z" creationid="olex" creationdate="20181208T124646Z">
         <seg>Наведите курсор на одно из полей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the cursor over the bottom edge of the fuel table (Figure &lt;t0&gt;38&lt;/t0&gt;) and drag the edge to make it longer and easier to see all of the fields in the table.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T104835Z" creationid="olex" creationdate="20181225T104835Z">
+        <seg>Наведите курсор на нижний край таблицы Топливо (Рисунок &lt;t0&gt;38&lt;/t0&gt;) и перетащите ее край, чтобы сделать окно длиннее, это упростит просмотр всех полей в таблице.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42973,6 +43053,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 1: Open the first query in Design View</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T104327Z" creationid="olex" creationdate="20181225T104327Z">
+        <seg>Шаг 1: Откройте первый запрос в режиме дизайна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step 1: Select fields</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T194518Z" creationid="olex" creationdate="20181126T184114Z">
@@ -43001,6 +43089,14 @@ denkin: не понял? чего не видно?</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181212T200510Z" creationid="olex" creationdate="20181212T200510Z">
         <seg>Шаг 2: Укоротить ширину некоторых полей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step 3: Add fields to the table at the bottom</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T104938Z" creationid="olex" creationdate="20181225T104938Z">
+        <seg>Шаг 3: Добавить поля в таблицу внизу</seg>
       </tuv>
     </tu>
     <tu>
@@ -49909,6 +50005,14 @@ LG:DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This question requires creating two queries, with the first query used as part of the second query.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T104250Z" creationid="olex" creationdate="20181225T104250Z">
+        <seg>Этот вопрос требует создания двух запросов, причем первый запрос используется как часть второго запроса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This reduces the possibility of errors.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180924T181723Z" creationid="olex" creationdate="20180924T181723Z">
@@ -56498,6 +56602,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T183232Z" creationid="olex" creationdate="20181125T183157Z">
         <seg>Какие поля подходят для досуга?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What fuel economy is our vehicle getting (miles per gallon in the USA)?</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T104223Z" creationid="olex" creationdate="20181225T104223Z">
+        <seg>Какую экономию топлива дает наш автомобиль (миль на галлон в США)?</seg>
       </tuv>
     </tu>
     <tu>
