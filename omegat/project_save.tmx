@@ -21593,6 +21593,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, the Lunch field of the Vacation table used in a query has the name &lt;f1&gt;Vacation.Lunch&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T091142Z" creationid="olex" creationdate="20181225T091142Z">
+        <seg>Например, поле Ланч таблицы Досуг, используемой в запросе, будет названо &lt;f1&gt;Досуг.Ланч&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, the MathML code on the left of Table &lt;t1&gt;1&lt;/t1&gt;&lt;s2/&gt;displays the equation on the right.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="User" changedate="20180311T153831Z" creationid="User" creationdate="20180311T153831Z">
@@ -29623,6 +29631,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the main database window (Figure &lt;t0&gt;1&lt;/t0&gt;), click the Queries icon in the Database section, then in the Tasks section, click &lt;f1&gt;Use Wizard to Create Query&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T090700Z" creationid="olex" creationdate="20181225T090700Z">
+        <seg>В главном окне базы данных (Рисунок &lt;t0&gt;1&lt;/t0&gt;) нажмите значок Запросы в разделе База данных, а затем в разделе Задачи выберите &lt;f1&gt;Использовать мастер для создания запроса&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the main database window, click the &lt;f0&gt;Save&lt;/f0&gt; button.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181204T183336Z" creationid="olex" creationdate="20181204T183336Z">
@@ -30733,6 +30749,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T200706Z" creationid="olex" creationdate="20181206T200706Z">
         <seg>Можно создать связь между двумя таблицами, основанную на более чем одной паре полей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is possible to obtain a single answer or multiple answers, depending upon the circumstances.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T090435Z" creationid="olex" creationdate="20181225T090435Z">
+        <seg>Можно получить один или несколько ответов в зависимости от условий.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37456,6 +37480,22 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Queries created by the wizard provide a list or lists of information based upon what one wants to know.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T090352Z" creationid="olex" creationdate="20181225T090352Z">
+        <seg>Запросы, созданные мастером, предоставляют список или списки информации, основанные на том, что вы хотите знать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Query Wizard (database)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T090452Z" creationid="olex" creationdate="20181225T090452Z">
+        <seg>Мастер запросов (база данных)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quick font resizing</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180910T194902Z" creationid="olex" creationdate="20180910T194902Z">
@@ -41754,6 +41794,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since different tables may contain the same field names, the format for naming fields in a query is &lt;f0&gt;Table name.field name&lt;/f0&gt;, with a period (.) between the table name and the field name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T091035Z" creationid="olex" creationdate="20181225T091035Z">
+        <seg>Поскольку разные таблицы могут содержать одинаковые имена полей, то формат именования полей в запросе: &lt;f0&gt;Имя таблицы.Имя поля&lt;/f0&gt; с точкой (.) между именем таблицы и именем поля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since music always has artists, set &lt;f1&gt;Entry Required&lt;/f1&gt; to &lt;f2&gt;Yes&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181128T193234Z" creationid="olex" creationdate="20181128T193234Z">
@@ -43739,6 +43787,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180627T172926Z" creationid="olex" creationdate="20180627T172746Z">
         <seg>"Выделенный буфер обмена"&lt;i0/&gt; не зависит от обычного буфера обмена, который вы используете с помощью &lt;f1&gt;Правка &gt; Копировать / Вырезать / Вставить&lt;/f1&gt; или соответствующих сочетаний клавиш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;i2/&gt;&lt;i3/&gt;Query Wizard window opens (Figure &lt;t4&gt;35&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T090801Z" creationid="olex" creationdate="20181225T090801Z">
+        <seg>Откроется окно &lt;i2/&gt;&lt;i3/&gt;Мастер запросов (Рисунок &lt;t4&gt;35&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45979,6 +46035,14 @@ denkin: спасибо, исправил на "Стили"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181222T184200Z" creationid="olex" creationdate="20181222T184200Z">
         <seg>Информация, которую мы можем получить из таблицы Топливо, включает информацию об экономии топлива.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The information we want is what albums are by a certain musical group or individual (the album’s author).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T090853Z" creationid="olex" creationdate="20181225T090853Z">
+        <seg>Нам нужна информация о том, какие альбомы принадлежат определенной музыкальной группе или человеку (автору альбома).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55797,6 +55861,14 @@ denkin: исправил на "включает"</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We can include when each album was bought.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T090919Z" creationid="olex" creationdate="20181225T090919Z">
+        <seg>Мы можем указать, когда был куплен каждый альбом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We have used &lt;f0&gt;FuelID&lt;/f0&gt; for convenience, so we know to which table it belongs.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181202T123543Z" creationid="olex" creationdate="20181202T123543Z">
@@ -56868,6 +56940,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180616T195500Z" creationid="olex" creationdate="20180616T195500Z">
         <seg>При использовании диалогового окна Открыть перейдите в нужную папку и выберите нужный файл, а затем нажмите &lt;f0&gt;Открыть&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When working with a query, more than one table can be used.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T090939Z" creationid="olex" creationdate="20181225T090939Z">
+        <seg>При работе с запросом можно использовать более одной таблицы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62343,6 +62423,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181206T200420Z" creationid="olex" creationdate="20181206T200420Z">
         <seg>запросы (база данных)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>query (database)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T090511Z" creationid="olex" creationdate="20181225T090511Z">
+        <seg>запрос (база данных)</seg>
       </tuv>
     </tu>
     <tu>
