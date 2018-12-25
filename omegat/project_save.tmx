@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Figure &lt;t1&gt;46&lt;/t1&gt;)</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T113048Z" creationid="olex" creationdate="20181225T113048Z">
+        <seg>(Рисунок &lt;t1&gt;46&lt;/t1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Fuel economy need not be included, as it can be calculated using a query.)</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181125T182512Z" creationid="olex" creationdate="20181125T182512Z">
@@ -4728,6 +4736,14 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180820T175542Z" creationid="olex" creationdate="20180820T175542Z">
         <seg>&lt;f27&gt;В диалоговом окне Печать также есть варианты размещения комментариев в конце страницы, в конце документа или печать только комментариев&lt;/f27&gt;&lt;te28/&gt;&lt;tc29/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f2&gt;"End-Reading"."Odometer" - "Fuel"."Odometer"&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T113751Z" creationid="olex" creationdate="20181225T113751Z">
+        <seg>&lt;f2&gt;"Считывание_одометра"."Одометр" - "Топливо"."Одометр"&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10935,6 +10951,22 @@
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180328T173028Z" creationid="olex" creationdate="20180328T173028Z">
         <seg>Calc работает с документами, которые называются &lt;i0/&gt;&lt;f1&gt;электронные таблицы&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calculate fuel economy: Type &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T114122Z" creationid="olex" creationdate="20181225T114122Z">
+        <seg> &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calculate the distance traveled:</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T113415Z" creationid="olex" creationdate="20181225T113415Z">
+        <seg>Рассчитайте пройденное расстояние:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29696,6 +29728,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the Alias row, type &lt;f0&gt;Distance&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T113828Z" creationid="olex" creationdate="20181225T113828Z">
+        <seg>В строке Псевдоним введите &lt;f0&gt;Расстояние&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the AutoLayout text boxes, promoting or demoting an item in the list corresponds to applying a different outline style.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181020T093759Z" creationid="olex" creationdate="20181020T093759Z">
@@ -31727,6 +31767,14 @@ Denkin: все верно, есть такая настройка</note>
       </tuv>
       <tuv lang="RU-RU" changeid="tagezi" changedate="20180320T085118Z" creationid="tagezi" creationdate="20180320T085118Z">
         <seg>Учиться читать сгенерированные макросы - это хорошее место для начала.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leave the &lt;f0&gt;Visible&lt;/f0&gt; cell of this column unchecked.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T113319Z" creationid="olex" creationdate="20181225T113319Z">
+        <seg>Оставьте ячейку &lt;f0&gt;Видимый&lt;/f0&gt; этого столбца не отмеченной.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54370,6 +54418,22 @@ denkin: попробовал - не получается, ведь кнопку 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type &lt;f0&gt;='1' &lt;/f0&gt;in the Criterion cell of this column.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T113226Z" creationid="olex" creationdate="20181225T113226Z">
+        <seg>Введите &lt;f0&gt;='1' &lt;/f0&gt;в ячейку Критерий этого столбца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type &lt;f0&gt;&gt;'0' &lt;/f0&gt;in the Criterion cell.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T113921Z" creationid="olex" creationdate="20181225T113921Z">
+        <seg>Введите &lt;f0&gt;&gt;'0' &lt;/f0&gt;в ячейку Критерий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type &lt;f0&gt;&gt;0&lt;/f0&gt; in the Criterion cell under FuelID in the query table.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181225T105521Z" creationid="olex" creationdate="20181225T105521Z">
@@ -54448,6 +54512,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180804T165238Z" creationid="olex" creationdate="20180804T165238Z">
         <seg>Введите хотя бы один символ, два дефиса и, по крайней мере, еще один символ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type in the Field cell (Figure &lt;t0&gt;47&lt;/t0&gt;):&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181225T113626Z" creationid="olex" creationdate="20181225T113626Z">
+        <seg>Введите в ячейку Поле (Рисунок &lt;t0&gt;47&lt;/t0&gt;):&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
