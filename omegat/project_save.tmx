@@ -10965,8 +10965,8 @@
       <tuv lang="EN-US">
         <seg>Calculate fuel economy: Type &lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181230T083520Z" creationid="olex" creationdate="20181225T114122Z">
-        <seg>Рассчитать экономию топлива: введите&lt;br0/&gt; </seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181230T084317Z" creationid="olex" creationdate="20181225T114122Z">
+        <seg>Для расчета экономии топлива введите:&lt;br0/&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -20335,6 +20335,22 @@ DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181124T173711Z" creationid="olex" creationdate="20181124T173711Z">
         <seg>Рисунок &lt;seq0&gt;46&lt;/seq0&gt;: Вставка комментария</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;46&lt;/seq0&gt;: Typing in calculation of fields</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181230T085245Z" creationid="olex" creationdate="20181230T085245Z">
+        <seg>Рисунок &lt;seq0&gt;46&lt;/seq0&gt;: Набор текста при расчете полей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;47&lt;/seq0&gt;: Field for distance traveled calculations</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181230T085305Z" creationid="olex" creationdate="20181230T085305Z">
+        <seg>Рисунок &lt;seq0&gt;47&lt;/seq0&gt;: Поле для расчета пройденного расстояния</seg>
       </tuv>
     </tu>
     <tu>
@@ -54449,6 +54465,14 @@ denkin: попробовал - не получается, ведь кнопку 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Type &lt;f0&gt;Fuel Economy&lt;/f0&gt; as the alias.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181230T085216Z" creationid="olex" creationdate="20181230T084936Z">
+        <seg>Введите &lt;f0&gt;Экономия топлива&lt;/f0&gt;, как Псевдоним.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LG: TODO: "descriptive name" = "имя, которое будет иметь смысл не только в момент создания вашего шедевра, и не только для вас"
 осознать и сказать коротко.</note>
       <tuv lang="EN-US">
@@ -62734,8 +62758,8 @@ denkin: исправил на "включает"</note>
       <tuv lang="EN-US">
         <seg>in the next column to the right of the word Field (Figure &lt;t3&gt;48&lt;/t3&gt;).</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181230T084251Z" creationid="olex" creationdate="20181230T084251Z">
-        <seg>в следующем столбце справа от слова Поле (рисунок &lt;t3&gt;48&lt;/t3&gt;).</seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181230T084327Z" creationid="olex" creationdate="20181230T084251Z">
+        <seg>в следующем столбце справа от слова Поле (Рисунок &lt;t3&gt;48&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
