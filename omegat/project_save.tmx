@@ -4659,6 +4659,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f1&gt;("End-Reading"."Odometer" - "Fuel"."Odometer")/"End-Reading"."FuelQuantity" &lt;/f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181230T084223Z" creationid="olex" creationdate="20181230T084223Z">
+        <seg>&lt;f1&gt;("Считывание_одометра"."Одометр" - "Топливо"."Одометр")/"Считывание_одометра"."КоличествоТоплива" &lt;/f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f1&gt;Below is the case for Writer:&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180614T192817Z" creationid="olex" creationdate="20180614T192817Z">
@@ -10957,8 +10965,8 @@
       <tuv lang="EN-US">
         <seg>Calculate fuel economy: Type &lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="RU-RU" changeid="olex" changedate="20181225T114148Z" creationid="olex" creationdate="20181225T114122Z">
-        <seg>Calculate fuel economy: Type&lt;br0/&gt; </seg>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181230T083520Z" creationid="olex" creationdate="20181225T114122Z">
+        <seg>Рассчитать экономию топлива: введите&lt;br0/&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -62720,6 +62728,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180711T191548Z" creationid="olex" creationdate="20180711T191548Z">
         <seg>импорт чисел с HTML-страницы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>in the next column to the right of the word Field (Figure &lt;t3&gt;48&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181230T084251Z" creationid="olex" creationdate="20181230T084251Z">
+        <seg>в следующем столбце справа от слова Поле (рисунок &lt;t3&gt;48&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
