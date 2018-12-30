@@ -8000,6 +8000,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After we run the query to make sure it works correctly, we will hide all of the fields that we do not need.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181230T090358Z" creationid="olex" creationdate="20181230T090358Z">
+        <seg>После того, как мы запустили запрос, чтобы убедиться, что он работает правильно, скроем все поля, которые нам не нужны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After you have added information, you then carry out a sort to update the spreadsheet.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180506T175643Z" creationid="olex" creationdate="20180506T175643Z">
@@ -20355,6 +20363,14 @@ DONE</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Figure &lt;seq0&gt;48&lt;/seq0&gt;: Fuel economy calculation field</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181230T085323Z" creationid="olex" creationdate="20181230T085323Z">
+        <seg>Рисунок &lt;seq0&gt;48&lt;/seq0&gt;: Поле расчета экономии топлива</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: &lt;f1&gt;Default &lt;/f1&gt;Properties panel of Sidebar in Writer</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180922T133204Z" creationid="olex" creationdate="20180922T133204Z">
@@ -22557,6 +22573,14 @@ LG:DONE</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180311T190754Z" creationid="olex" creationdate="20180311T190754Z">
         <seg>В будущем вы сможете повторно использовать этот шаблон, созданный с помощью мастера, наравне с любым другим шаблоном.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For hyphenated or multiple-word names (table or query), use double quotes around the table or query name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181230T085727Z" creationid="olex" creationdate="20181230T085727Z">
+        <seg>Для имен написанных через дефис или имен из нескольких слов (таблиц или запросов) используйте двойные кавычки вокруг имени таблицы или запроса.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33813,6 +33837,14 @@ Denkin: все верно, есть такая настройка</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More than one calculation can be done by using parentheses to group the arithmetical operations.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181230T090229Z" creationid="olex" creationdate="20181230T090229Z">
+        <seg>При сложных вычислениях с помощью круглых скобок можно группировать арифметические операции.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most CSV files come from databases tables, queries, or reports, where further calculations and charting are required.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180330T185536Z" creationid="olex" creationdate="20180330T184839Z">
@@ -43525,6 +43557,14 @@ denkin: не понял? чего не видно?</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step 9: Run the query and make some modification</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181230T090325Z" creationid="olex" creationdate="20181230T090325Z">
+        <seg>Шаг 9: Выполните запрос и внесите некоторые изменения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Steps 5 and 6 of the wizard are skipped in our query.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181225T095408Z" creationid="olex" creationdate="20181225T095408Z">
@@ -47632,6 +47672,14 @@ Dispatch framework = программный каркас отправки</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181225T110155Z" creationid="olex" creationdate="20181225T110155Z">
         <seg>Результаты запроса на основе таблицы Топливо представлены на рисунке &lt;t2&gt;42&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The query will then add the rest of the double quotes as in Figure &lt;t0&gt;48&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181230T090017Z" creationid="olex" creationdate="20181230T090017Z">
+        <seg>Затем запрос добавит оставшиеся двойные кавычки, как показано на рисунке. &lt;t0&gt;48&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55434,6 +55482,14 @@ denkin: это практически официальное название к
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the arithmetical symbol between the two.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181230T090110Z" creationid="olex" creationdate="20181230T090110Z">
+        <seg>Между ними используйте арифметические символы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the arrow keys on the keyboard to go to the next slide or to go back to the previous one.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20181101T192640Z" creationid="olex" creationdate="20181101T192640Z">
@@ -57500,6 +57556,14 @@ denkin: исправил на "включает"</note>
       </tuv>
       <tuv lang="RU-RU" changeid="olex" changedate="20180412T191316Z" creationid="olex" creationdate="20180412T191231Z">
         <seg>При вводе времени разделяйте элементы времени двоеточиями, например 10:43:45.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When entering fields for these calculations, you must follow this format: table or query name followed by a period followed by the field name.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="olex" changedate="20181230T085523Z" creationid="olex" creationdate="20181230T085523Z">
+        <seg>При вводе полей для вычислений вы должны следовать следующему формату: имя таблицы или запроса, за которым следует точка, за которой следует имя поля.</seg>
       </tuv>
     </tu>
     <tu>
